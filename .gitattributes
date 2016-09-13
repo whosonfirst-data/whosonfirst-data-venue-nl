@@ -1,0 +1,4 @@
+*.geojson text eol=lf
+meta/wof-concordances-latest.csv filter=lfs diff=lfs merge=lfs -text
+meta/wof-venue-nl-concordances-latest.csv filter=lfs diff=lfs merge=lfs -text
+meta/wof-venue-nl-latest.csv filter=lfs diff=lfs merge=lfs -text
