@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.151143074,51.4064178467,5.151143074,51.4064178467",
     "geom:latitude":51.406418,
     "geom:longitude":5.151143,
@@ -23,17 +24,32 @@
     "sg:postcode":"5094 GK",
     "sg:province":"Noord-Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474579,
+        85633337,
+        101808267
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vbDOQWdot2N552DWimkql_51.406418_5.151143@1306270010"
     },
     "wof:country":"NL",
     "wof:created":1473799696,
-    "wof:geomhash":"d576de665feb8933eb5426c1b78b4a84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bec083afd35c571c689f78284484e6e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474579,
+            "locality_id":101808267,
+            "region_id":85687035,
+            "venue_id":1075828435
+        }
+    ],
     "wof:id":1075828435,
-    "wof:lastmodified":1473879523,
+    "wof:lastmodified":1492486679,
     "wof:name":"De Ster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

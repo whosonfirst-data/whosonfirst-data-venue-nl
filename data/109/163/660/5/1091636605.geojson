@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9139428139,52.4317626953,4.9139428139,52.4317626953",
     "geom:latitude":52.431763,
     "geom:longitude":4.913943,
@@ -24,9 +25,11 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687053,
+        102191581,
+        404474091,
         85633337,
-        85798523,
-        85687053
+        101754829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473805034,
-    "wof:geomhash":"3594afa5516d683cd75231662d8e8011",
+    "wof:geomhash":"f31047b594c0a84a99910c9b8c45af22",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798523,
+            "localadmin_id":404474091,
+            "locality_id":101754829,
             "region_id":85687053,
             "venue_id":1091636605
         }
     ],
     "wof:id":1091636605,
-    "wof:lastmodified":1473878754,
+    "wof:lastmodified":1492510313,
     "wof:name":"Kapsalon Pretty Hair",
-    "wof:parent_id":85798523,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.504168,51.442406,5.504168,51.442406",
     "geom:latitude":51.442406,
     "geom:longitude":5.504168,
@@ -25,6 +26,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85797291,
+        102191581,
+        404474375,
         85633337,
         101751819,
         85687035,
@@ -35,19 +38,21 @@
         "sg:id":"SG_4fcYCFmDuQOawNZETOQLox_51.442406_5.504168@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4a0b3b61c148a2709620d5a639ad639a",
+    "wof:geomhash":"35f11a4d67c02a56ae0a03f1edaf3a5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474375,
             "locality_id":101751819,
             "neighbourhood_id":85797291,
             "region_id":85687035,
             "venue_id":220016407
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474375,
             "locality_id":101751819,
             "neighbourhood_id":85798511,
             "region_id":85687035,
@@ -55,9 +60,9 @@
         }
     ],
     "wof:id":220016407,
-    "wof:lastmodified":1473878533,
+    "wof:lastmodified":1492481258,
     "wof:name":"Tielemans Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

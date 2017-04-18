@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.5144529343,52.8747253418,6.5144529343,52.8747253418",
     "geom:latitude":52.874725,
     "geom:longitude":6.514453,
@@ -24,17 +25,32 @@
     "sg:province":"Drenthe",
     "sg:website":"http://www.gisu.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474649,
+        85633337,
+        101807273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1I34DefK4Wep50dJT4MuQk_52.874725_6.514453@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800435,
-    "wof:geomhash":"890217529a7487a1c767cb32d70cafee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45e33fbbb5d8091e3c0ea5e6ba283fd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474649,
+            "locality_id":101807273,
+            "region_id":85687051,
+            "venue_id":1091569555
+        }
+    ],
     "wof:id":1091569555,
-    "wof:lastmodified":1473878587,
+    "wof:lastmodified":1492510892,
     "wof:name":"Gisu Service & Onderhoud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

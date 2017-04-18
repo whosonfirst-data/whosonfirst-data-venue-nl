@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.102241,52.091385,5.102241,52.091385",
     "geom:latitude":52.091385,
     "geom:longitude":5.102241,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808789,
+        102191581,
+        1108808651,
         85633337,
         101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5T3N9vMSbbvtVIZUyOAFNX_52.091385_5.102241@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"33662de43eb9da508f19e5c3bebde248",
+    "wof:geomhash":"b7b280cd5121d354a8d230411ae7337d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808651,
+            "neighbourhood_id":1108808789,
             "region_id":85687039,
             "venue_id":303358069
         }
     ],
     "wof:id":303358069,
-    "wof:lastmodified":1473879141,
+    "wof:lastmodified":1492472623,
     "wof:name":"Matisse",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

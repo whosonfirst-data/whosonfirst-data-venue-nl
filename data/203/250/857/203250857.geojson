@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.868369,52.324894,4.868369,52.324894",
     "geom:latitude":52.324894,
     "geom:longitude":4.868369,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803485,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_4WfWMxdcoInA8hkOEiKVYc_52.324894_4.868369@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"38802bf5a56aacc66c9a37f9fe3e7e45",
+    "wof:geomhash":"9e09295e9a8debdffa2568b997e4ed51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803485,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":203250857
         }
     ],
     "wof:id":203250857,
-    "wof:lastmodified":1473879211,
+    "wof:lastmodified":1492480381,
     "wof:name":"Wiebe",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

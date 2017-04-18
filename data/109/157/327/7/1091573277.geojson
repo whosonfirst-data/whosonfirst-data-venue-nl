@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6941399574,53.0768814087,6.6941399574,53.0768814087",
     "geom:latitude":53.076881,
     "geom:longitude":6.69414,
@@ -24,17 +25,32 @@
     "sg:province":"Drenthe",
     "sg:website":"http://www.infonity.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474647,
+        85633337,
+        101807255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vWftaeUCFtt6oLhK8EwFf_53.076881_6.694140@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800684,
-    "wof:geomhash":"d17c55f6d4c1b5e48a32f282e9d3b0e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80ca7e9a14010291be89025725fec199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474647,
+            "locality_id":101807255,
+            "region_id":85687051,
+            "venue_id":1091573277
+        }
+    ],
     "wof:id":1091573277,
-    "wof:lastmodified":1473878689,
+    "wof:lastmodified":1492511313,
     "wof:name":"Infonity",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

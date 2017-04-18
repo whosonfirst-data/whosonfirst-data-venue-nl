@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.927243,52.355206,4.927243,52.355206",
     "geom:latitude":52.355206,
     "geom:longitude":4.927243,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803941,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4pnwxtqjfC8YBSWfhpHmlL_52.355206_4.927243@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9ad8ef47fa93d8ce92e71b9e7d6870aa",
+    "wof:geomhash":"35f4fc2fb24d0a56359da903934fc832",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":270122761
         }
     ],
     "wof:id":270122761,
-    "wof:lastmodified":1473878621,
+    "wof:lastmodified":1492500386,
     "wof:name":"Loenen, Paul Van",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

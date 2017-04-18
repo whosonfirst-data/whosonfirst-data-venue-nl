@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4767661095,51.9940414429,4.4767661095,51.9940414429",
     "geom:latitude":51.994041,
     "geom:longitude":4.476766,
@@ -24,9 +25,11 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474555,
         85633337,
-        85797723,
-        85687041
+        101807023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473801716,
-    "wof:geomhash":"8a7ef4fc1e40af7173b082446f3f29e0",
+    "wof:geomhash":"6122fa41f6152f38378aab601ffe3d8d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797723,
+            "localadmin_id":404474555,
+            "locality_id":101807023,
             "region_id":85687041,
             "venue_id":1091586265
         }
     ],
     "wof:id":1091586265,
-    "wof:lastmodified":1473878846,
+    "wof:lastmodified":1492511862,
     "wof:name":"Randstad",
-    "wof:parent_id":85797723,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

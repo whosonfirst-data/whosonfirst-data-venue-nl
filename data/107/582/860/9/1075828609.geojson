@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1521449089,51.7520561218,4.1521449089,51.7520561218",
     "geom:latitude":51.752056,
     "geom:longitude":4.152145,
@@ -23,17 +24,32 @@
     "sg:postcode":"3245 VP",
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474207,
+        85633337,
+        101837731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47P70U0vRibiwFcFSo3GFb_51.752056_4.152145@1306270010"
     },
     "wof:country":"NL",
     "wof:created":1473799704,
-    "wof:geomhash":"e01e5d1da6443950996a8446abf41261",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58c7621e9ef72629cd6efc108bdfd6cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474207,
+            "locality_id":101837731,
+            "region_id":85687041,
+            "venue_id":1075828609
+        }
+    ],
     "wof:id":1075828609,
-    "wof:lastmodified":1473879524,
+    "wof:lastmodified":1492486961,
     "wof:name":"De Zwaluw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

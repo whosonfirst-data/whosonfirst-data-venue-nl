@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0962,52.088436,5.0962,52.088436",
     "geom:latitude":52.088436,
     "geom:longitude":5.0962,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798153,
+        1108808791,
+        102191581,
+        1108808651,
         85633337,
+        101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_5HnY1EGXtJs4QHglw143OI_52.088436_5.096200@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4ed0674fc40e62a8a0640b72c21b6e7f",
+    "wof:geomhash":"788dcbc403b21ddede07c3643f6bb2a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "macrohood_id":1108808651,
+            "neighbourhood_id":1108808791,
             "region_id":85687039,
             "venue_id":336593801
         }
     ],
     "wof:id":336593801,
-    "wof:lastmodified":1473878434,
+    "wof:lastmodified":1492506567,
     "wof:name":"Atelier Wichers",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

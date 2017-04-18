@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.535107,51.962986,4.535107,51.962986",
     "geom:latitude":51.962986,
     "geom:longitude":4.535107,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859913,
+        85798149,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ylvn3G7bnJr43uxtiXb3k_51.962986_4.535107@1306269949"
     },
     "wof:country":"NL",
-    "wof:geomhash":"db4e03c733752ca4f3c94cef47af9fe1",
+    "wof:geomhash":"b670177a711d5c12d9a0fbb3646bc418",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859913,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":253429529
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":253429529
         }
     ],
     "wof:id":253429529,
-    "wof:lastmodified":1473879605,
+    "wof:lastmodified":1492490904,
     "wof:name":"G.W. Helder-Hageman",
-    "wof:parent_id":85859913,
+    "wof:parent_id":85798149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

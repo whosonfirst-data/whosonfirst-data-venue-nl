@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.956933,52.387657,4.956933,52.387657",
     "geom:latitude":52.387657,
     "geom:longitude":4.956933,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.vanderheide.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108804049,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_4VdUsQK8dpCEEwPEh9nBz6_52.387657_4.956933@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"92f447b3af3ca7e44798af6b8af34ea7",
+    "wof:geomhash":"283e93801d40a98c8578d6f0115a2f24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804049,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":286818133
         }
     ],
     "wof:id":286818133,
-    "wof:lastmodified":1473879619,
+    "wof:lastmodified":1492478272,
     "wof:name":"Heide, Van Der",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108804049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

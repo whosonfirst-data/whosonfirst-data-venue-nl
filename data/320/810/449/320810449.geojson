@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877998,52.354561,4.877998,52.354561",
     "geom:latitude":52.354561,
     "geom:longitude":4.877998,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803547,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2DvPw0jU9elO6i4e2De8rK_52.354561_4.877998@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e64660139464926b63eb8bf499bcee20",
+    "wof:geomhash":"c26bbc59c60fe2c659cf0e2abac03a2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803547,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":320810449
         }
     ],
     "wof:id":320810449,
-    "wof:lastmodified":1473879623,
+    "wof:lastmodified":1492485302,
     "wof:name":"Bouma, Bob",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

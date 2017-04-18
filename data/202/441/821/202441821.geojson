@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.954894,52.399162,4.954894,52.399162",
     "geom:latitude":52.399162,
     "geom:longitude":4.954894,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108803297,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0b62b3Fb4teEKsUEMkXDO1_52.399162_4.954894@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"67088c51953c8ad2482b73dbe0ee0772",
+    "wof:geomhash":"ba3b060465947b19cd14dc31aca77b42",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803297,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":202441821
         }
     ],
     "wof:id":202441821,
-    "wof:lastmodified":1473878703,
+    "wof:lastmodified":1492499209,
     "wof:name":"Wilfred Houthuijsen",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803297,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

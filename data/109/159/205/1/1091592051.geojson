@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1028761864,51.9009246826,5.1028761864,51.9009246826",
     "geom:latitude":51.900925,
     "geom:longitude":5.102876,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.aquacare-whirlpools.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474197,
+        85633337,
+        101808521
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QQEqRHXHTSFk2tg4ZibtV_51.900925_5.102876@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802049,
-    "wof:geomhash":"58fb796ea6de7b43028871ac3511a3b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43e427a48f4d068ae643c02a10ce5556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474197,
+            "locality_id":101808521,
+            "region_id":85687041,
+            "venue_id":1091592051
+        }
+    ],
     "wof:id":1091592051,
-    "wof:lastmodified":1473878590,
+    "wof:lastmodified":1492509631,
     "wof:name":"Aquacare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

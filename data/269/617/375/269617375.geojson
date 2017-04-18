@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.913829,52.349297,4.913829,52.349297",
     "geom:latitude":52.349297,
     "geom:longitude":4.913829,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803259,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6Jzn970ZlZXzRY7UrsOaFK_52.349297_4.913829@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b0dc13dd8fd32faf398585d2f50dc52a",
+    "wof:geomhash":"4ba1bb65ffc00022f88014991693c5cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803259,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":269617375
         }
     ],
     "wof:id":269617375,
-    "wof:lastmodified":1473879073,
+    "wof:lastmodified":1492495946,
     "wof:name":"Beth, R R",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

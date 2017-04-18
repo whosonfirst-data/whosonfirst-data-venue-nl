@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.323811,52.08239,4.323811,52.08239",
     "geom:latitude":52.08239,
     "geom:longitude":4.323811,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808247,
+        102191581,
+        1108808123,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_18UAwdFPn7CquQNQrZRQ0y_52.082390_4.323811@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"50339d6b422ce0113979bd7b8034901e",
+    "wof:geomhash":"53f0704606595e210852a2b35e34694b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808123,
+            "neighbourhood_id":1108808247,
             "region_id":85687041,
             "venue_id":269809699
         }
     ],
     "wof:id":269809699,
-    "wof:lastmodified":1473879513,
+    "wof:lastmodified":1492495995,
     "wof:name":"A Thai",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

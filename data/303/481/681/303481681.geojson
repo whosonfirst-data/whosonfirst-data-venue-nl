@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.857366,52.375992,4.857366,52.375992",
     "geom:latitude":52.375992,
     "geom:longitude":4.857366,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804207,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7f9NPcaVppqBbHKdXXQrK7_52.375992_4.857366@1306269984"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fead14f9956ecc567644f229cefca975",
+    "wof:geomhash":"4723cd6f0e3fc6074e5138a10deca832",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108804207,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":303481681
         }
     ],
     "wof:id":303481681,
-    "wof:lastmodified":1473879185,
+    "wof:lastmodified":1492471851,
     "wof:name":"Sportpark Joos Banckersweg",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804207,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.283926,52.070786,4.283926,52.070786",
     "geom:latitude":52.070786,
     "geom:longitude":4.283926,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797151,
+        1108808213,
+        102191581,
+        1108808125,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_2EkMbmXhJis2yBXaBrOfwh_52.070786_4.283926@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b8faaf15f73b9426310cfb023fd0c530",
+    "wof:geomhash":"7d15dcf358599e9bb4528a1cedc354b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797151,
+            "macrohood_id":1108808125,
+            "neighbourhood_id":1108808213,
             "region_id":85687041,
             "venue_id":202522433
         }
     ],
     "wof:id":202522433,
-    "wof:lastmodified":1473878871,
+    "wof:lastmodified":1492498209,
     "wof:name":"Movie Star Video Centre",
-    "wof:parent_id":85797151,
+    "wof:parent_id":1108808213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

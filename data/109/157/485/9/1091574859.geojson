@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7562279701,52.6712341309,4.7562279701,52.6712341309",
     "geom:latitude":52.671234,
     "geom:longitude":4.756228,
@@ -24,17 +25,32 @@
     "sg:province":"North Holland",
     "sg:website":"http://www.santhe.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474025,
+        85633337,
+        101751887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aFjMx9Kj2dQ9My9PiTODu_52.671234_4.756228@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800782,
-    "wof:geomhash":"84df7551aaee04ef0de990a868b093ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf9ec4a639452b2cccdd81acf05a0f97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474025,
+            "locality_id":101751887,
+            "region_id":85687053,
+            "venue_id":1091574859
+        }
+    ],
     "wof:id":1091574859,
-    "wof:lastmodified":1473878825,
+    "wof:lastmodified":1492511026,
     "wof:name":"Santhe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

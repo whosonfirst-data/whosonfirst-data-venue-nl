@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4109,51.91819,4.4109,51.91819",
     "geom:latitude":51.91819,
     "geom:longitude":4.4109,
@@ -33,41 +34,43 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859737,
-        85633337,
-        101751843,
-        85687041,
         85859695,
-        101751845
+        102191581,
+        404474253,
+        85633337,
+        101751845,
+        85687041,
+        85859737
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vcM7KN5cnBAH9I4WhagTW_51.918190_4.410900@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"21e163a6b353edfae701aabc7925a6bb",
+    "wof:geomhash":"cecbc156e9c4dadcd79614255c53b755",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751843,
-            "neighbourhood_id":85859737,
+            "localadmin_id":404474253,
+            "locality_id":101751845,
+            "neighbourhood_id":85859695,
             "region_id":85687041,
             "venue_id":269773649
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751845,
-            "neighbourhood_id":85859695,
+            "localadmin_id":404474253,
+            "neighbourhood_id":85859737,
             "region_id":85687041,
             "venue_id":269773649
         }
     ],
     "wof:id":269773649,
-    "wof:lastmodified":1473879406,
+    "wof:lastmodified":1492494713,
     "wof:name":"Pinguin",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

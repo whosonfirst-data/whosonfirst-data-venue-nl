@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.874436,52.373528,4.874436,52.373528",
     "geom:latitude":52.373528,
     "geom:longitude":4.874436,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803847,
+        1108802807,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6gUj3d1kUozBy6cByJwKCc_52.373528_4.874436@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7c53a3cae29b0c741bd07d411b66c276",
+    "wof:geomhash":"a6fc08567de2b762c7064e4e589bff18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803847,
+            "neighbourhood_id":1108802807,
             "region_id":85687053,
             "venue_id":303559909
         }
     ],
     "wof:id":303559909,
-    "wof:lastmodified":1473879309,
+    "wof:lastmodified":1492474792,
     "wof:name":"Boetiek Yoshi",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.294561,52.0802,4.294561,52.0802",
     "geom:latitude":52.0802,
     "geom:longitude":4.294561,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_56N9amGvu8G406XKNnyrZT_52.080200_4.294561@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9f48e99d4b76f17c91987ff0bea8927b",
+    "wof:geomhash":"33811123261da4081418fff46edfc99c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":286717625
         }
     ],
     "wof:id":286717625,
-    "wof:lastmodified":1473879440,
+    "wof:lastmodified":1492475517,
     "wof:name":"Deutsche Bibliothek Den Haag",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

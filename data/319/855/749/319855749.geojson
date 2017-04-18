@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.029179,52.402096,5.029179,52.402096",
     "geom:latitude":52.402096,
     "geom:longitude":5.029179,
@@ -35,8 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797719,
+        1108803209,
+        1108802941,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +49,23 @@
         "sg:id":"SG_3cyOzd2ibg7H8aj8zgAfwo_52.402096_5.029179@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0bc3dd6a02e8c6082b90d3620f7e0acf",
+    "wof:geomhash":"a42f394a985e5f14569d5f32e3810fc6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797719,
+            "locality_id":101751893,
+            "microhood_id":1108803209,
+            "neighbourhood_id":1108802941,
             "region_id":85687053,
             "venue_id":319855749
         }
     ],
     "wof:id":319855749,
-    "wof:lastmodified":1473878731,
+    "wof:lastmodified":1492479400,
     "wof:name":"Houtboer, De",
-    "wof:parent_id":85797719,
+    "wof:parent_id":1108803209,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.315501,52.077183,4.315501,52.077183",
     "geom:latitude":52.077183,
     "geom:longitude":4.315501,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808255,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_3aBfJmJbdm2A60kaNhJjPP_52.077183_4.315501@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dbf5a00b4d9ee05ef1fa5ae4c9ed4be7",
+    "wof:geomhash":"e4f44daf465e2426e4587d1787f0793a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808255,
             "region_id":85687041,
             "venue_id":320572389
         }
     ],
     "wof:id":320572389,
-    "wof:lastmodified":1473879422,
+    "wof:lastmodified":1492483676,
     "wof:name":"Rudi Otten'S Fruithandel",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

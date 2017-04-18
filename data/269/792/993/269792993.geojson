@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.896313,52.220509,6.896313,52.220509",
     "geom:latitude":52.220509,
     "geom:longitude":6.896313,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798259,
+        102542825,
+        85797623,
+        102191581,
+        404473837,
         85633337,
-        101751871,
+        101751869,
         85687045
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_5g9auNY3bsZDaMp009d3LK_52.220509_6.896313@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"678ad334195ad6003aba8e0ce778db12",
+    "wof:geomhash":"20684ffd2260d3a5d69fee02e520262b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102542825,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751871,
-            "neighbourhood_id":85798259,
+            "localadmin_id":404473837,
+            "locality_id":101751869,
+            "neighbourhood_id":85797623,
             "region_id":85687045,
             "venue_id":269792993
         }
     ],
     "wof:id":269792993,
-    "wof:lastmodified":1473879488,
+    "wof:lastmodified":1492495588,
     "wof:name":"Snekkie",
-    "wof:parent_id":85798259,
+    "wof:parent_id":102542825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

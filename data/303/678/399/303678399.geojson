@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.775868,52.350613,4.775868,52.350613",
     "geom:latitude":52.350613,
     "geom:longitude":4.775868,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803971,
+        1108802857,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6XAciIqYjeALpJz1fWyqv5_52.350613_4.775868@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"34f19cb0cce392c9263137583647d2e9",
+    "wof:geomhash":"6cfc500fff4153473bd80fb42f1372b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803971,
+            "neighbourhood_id":1108802857,
             "region_id":85687053,
             "venue_id":303678399
         }
     ],
     "wof:id":303678399,
-    "wof:lastmodified":1473879437,
+    "wof:lastmodified":1492472357,
     "wof:name":"B. Drughorn",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.436699,51.91428,4.436699,51.91428",
     "geom:latitude":51.91428,
     "geom:longitude":4.436699,
@@ -34,29 +35,23 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859765,
+        85798427,
+        102191581,
         85633337,
         101751843,
-        85687041,
-        85798427
+        1108805753,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zsYOGpFNMbALWeS657pU4_51.914280_4.436699@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cf9105626d8ef6aa44a4c4e0db5a57dc",
+    "wof:geomhash":"0678816f40f0aa67d75e392b07bddc31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751843,
-            "neighbourhood_id":85859765,
-            "region_id":85687041,
-            "venue_id":202543267
-        },
-        {
-            "continent_id":-1,
+            "borough_id":1108805753,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
             "neighbourhood_id":85798427,
@@ -65,9 +60,9 @@
         }
     ],
     "wof:id":202543267,
-    "wof:lastmodified":1473878897,
+    "wof:lastmodified":1492497477,
     "wof:name":"Videoworld",
-    "wof:parent_id":-1,
+    "wof:parent_id":85798427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

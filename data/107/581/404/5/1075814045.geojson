@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4027428627,51.9442481995,4.4027428627,51.9442481995",
     "geom:latitude":51.944248,
     "geom:longitude":4.402743,
@@ -33,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859705,
+        1108805757,
         102191581,
-        404474253,
         85633337,
-        101751845,
-        85687041
+        101751843,
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,22 +49,32 @@
     },
     "wof:country":"NL",
     "wof:created":1473798856,
-    "wof:geomhash":"67991f0eb79285476305fbcea9f5488b",
+    "wof:geomhash":"e7452ef306d9511148d4cbe2690f931a",
     "wof:hierarchy":[
         {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":1075814045
+        },
+        {
+            "borough_id":1108805739,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474253,
             "locality_id":101751845,
-            "neighbourhood_id":85859705,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":1075814045
         }
     ],
     "wof:id":1075814045,
-    "wof:lastmodified":1473878956,
+    "wof:lastmodified":1492486303,
     "wof:name":"Hays Informatie Beheer Bv",
-    "wof:parent_id":85859705,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

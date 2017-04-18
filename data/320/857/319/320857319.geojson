@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.296543,52.084728,4.296543,52.084728",
     "geom:latitude":52.084728,
     "geom:longitude":4.296543,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2WFiIcArbp80WKzSMTMMbW_52.084728_4.296543@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1667990e774d390308ff1e788ccfbd93",
+    "wof:geomhash":"25e0e397513a404f0913e5db3c565bf5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":320857319
         }
     ],
     "wof:id":320857319,
-    "wof:lastmodified":1473879639,
+    "wof:lastmodified":1492483681,
     "wof:name":"Raad Voor Rechtsbijstand",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

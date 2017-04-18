@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.910269,52.353111,4.910269,52.353111",
     "geom:latitude":52.353111,
     "geom:longitude":4.910269,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803259,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6CGSR6lCVChXWPSieY41HU_52.353111_4.910269@1306269970"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f2db5372bbf69b99879a3d909d2c334e",
+    "wof:geomhash":"c519988b52bbb12a6b929d2ac51dfb3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803259,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":286514975
         }
     ],
     "wof:id":286514975,
-    "wof:lastmodified":1473879200,
+    "wof:lastmodified":1492477492,
     "wof:name":"Stotijn, Ren?e",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

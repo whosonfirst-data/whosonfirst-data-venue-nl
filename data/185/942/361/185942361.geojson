@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.91969,52.357391,4.91969,52.357391",
     "geom:latitude":52.357391,
     "geom:longitude":4.91969,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803833,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6EvbBNUg6SbXpW2MnOUnJ4_52.357391_4.919690@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1395d30dc007ea9348b4c77e404d108d",
+    "wof:geomhash":"30814779611b6bacda92c07f1b780181",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803833,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":185942361
         }
     ],
     "wof:id":185942361,
-    "wof:lastmodified":1473878951,
+    "wof:lastmodified":1492487196,
     "wof:name":"Buurtcentrum Oosterpark",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

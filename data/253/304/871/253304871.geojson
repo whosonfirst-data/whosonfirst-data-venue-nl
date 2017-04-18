@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.905542,52.407166,4.905542,52.407166",
     "geom:latitude":52.407166,
     "geom:longitude":4.905542,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804179,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_5tAlhhkazulIy6GEWL3nGO_52.407166_4.905542@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e3fc8c49a4955f1ef0e54e2b23ade889",
+    "wof:geomhash":"d480652a4e6efef0a5c7e98732f9089f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108804179,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":253304871
         }
     ],
     "wof:id":253304871,
-    "wof:lastmodified":1473879384,
+    "wof:lastmodified":1492489985,
     "wof:name":"Pmk Matrassen",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108804179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

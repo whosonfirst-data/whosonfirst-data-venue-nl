@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.852453,52.382084,4.852453,52.382084",
     "geom:latitude":52.382084,
     "geom:longitude":4.852453,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803867,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4B6VDqn1IEDmJTdjDFWhRi_52.382084_4.852453@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"06e0edc62a4f3057fdf758dd1cdb4eea",
+    "wof:geomhash":"93debe4be96b1bdb8344ca81e7c3cd07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803867,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":269970653
         }
     ],
     "wof:id":269970653,
-    "wof:lastmodified":1473879582,
+    "wof:lastmodified":1492494844,
     "wof:name":"Love Life",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803867,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

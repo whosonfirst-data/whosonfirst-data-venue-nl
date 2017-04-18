@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.87334,52.331989,4.87334,52.331989",
     "geom:latitude":52.331989,
     "geom:longitude":4.87334,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804091,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4zcO1ZvmEz2Dt6C3bgt7yT_52.331989_4.873340@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"76dc09e0e8a0834688b699c8b32a28cf",
+    "wof:geomhash":"c7315d63e4073cef30ce1d94c8c30cec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804091,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":303704083
         }
     ],
     "wof:id":303704083,
-    "wof:lastmodified":1473879459,
+    "wof:lastmodified":1492473520,
     "wof:name":"Qua Forma Design",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

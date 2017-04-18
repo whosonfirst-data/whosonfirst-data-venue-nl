@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0295372009,51.6637306213,5.0295372009,51.6637306213",
     "geom:latitude":51.663731,
     "geom:longitude":5.029537,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.hermanstechniek.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474401,
+        85633337,
+        101839371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lD4e5IUGsDa3pn83YUBVX_51.663731_5.029537@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800023,
-    "wof:geomhash":"2ebbfe33a933d4541a5e7317bbcf931c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c38a24e8252173948080b343ad44f171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474401,
+            "locality_id":101839371,
+            "region_id":85687035,
+            "venue_id":1075834317
+        }
+    ],
     "wof:id":1075834317,
-    "wof:lastmodified":1473879387,
+    "wof:lastmodified":1492485627,
     "wof:name":"Hermans Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

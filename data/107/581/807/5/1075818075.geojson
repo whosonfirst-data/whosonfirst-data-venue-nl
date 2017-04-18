@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0714960098,52.4320487976,6.0714960098,52.4320487976",
     "geom:latitude":52.432049,
     "geom:longitude":6.071496,
@@ -23,17 +24,32 @@
     "sg:postcode":"8191 AG",
     "sg:province":"Gelderland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473911,
+        85633337,
+        101837815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qBD40nk7I7ytknncEpBI8_52.432049_6.071496@1306270008"
     },
     "wof:country":"NL",
     "wof:created":1473799027,
-    "wof:geomhash":"b4889adb745fde89bd2bea2ee6574f3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3b5ba04908aa199eb9dece335536025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473911,
+            "locality_id":101837815,
+            "region_id":85687043,
+            "venue_id":1075818075
+        }
+    ],
     "wof:id":1075818075,
-    "wof:lastmodified":1473879098,
+    "wof:lastmodified":1492486385,
     "wof:name":"Kamphuis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

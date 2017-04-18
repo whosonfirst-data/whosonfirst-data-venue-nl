@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.888321,52.330151,4.888321,52.330151",
     "geom:latitude":52.330151,
     "geom:longitude":4.888321,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803327,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_28xuS7GIJMKJNp8lEfVGwA_52.330151_4.888321@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e416741e3405e10d90e58832de890dca",
+    "wof:geomhash":"fff0e150047cecae84fe6f0db4967d97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803327,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":286745699
         }
     ],
     "wof:id":286745699,
-    "wof:lastmodified":1473879514,
+    "wof:lastmodified":1492477626,
     "wof:name":"Bierman",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.252523,52.079105,4.252523,52.079105",
     "geom:latitude":52.079105,
     "geom:longitude":4.252523,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859589,
+        85798595,
+        102191581,
+        1108808131,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3Vo7bmhhG3L1ZSTt3Mjf3p_52.079105_4.252523@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ebe387b8e361e59c9fee37687dde1f56",
+    "wof:geomhash":"695a7ec295af26d926fa4e92a5c25f98",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859589,
+            "macrohood_id":1108808131,
+            "neighbourhood_id":85798595,
             "region_id":85687041,
             "venue_id":320856677
         }
     ],
     "wof:id":320856677,
-    "wof:lastmodified":1473879650,
+    "wof:lastmodified":1492484295,
     "wof:name":"Ouwerkerk Adviesbureau Bv",
-    "wof:parent_id":85859589,
+    "wof:parent_id":85798595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

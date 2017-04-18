@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.549914,51.941296,4.549914,51.941296",
     "geom:latitude":51.941296,
     "geom:longitude":4.549914,
@@ -24,31 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        85797053,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oUHwPmrAwy6FlgH7iNSIL_51.941296_4.549914@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e0a742f424cbd489b7c2c7c26de7df95",
+    "wof:geomhash":"3e380b7e92f1b91e5921db62f3be37d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797053,
+            "region_id":85687041,
+            "venue_id":253264067
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "neighbourhood_id":85797053,
             "region_id":85687041,
             "venue_id":253264067
         }
     ],
     "wof:id":253264067,
-    "wof:lastmodified":1473879302,
+    "wof:lastmodified":1492490485,
     "wof:name":"Comforthuys Bv",
-    "wof:parent_id":85798329,
+    "wof:parent_id":85797053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

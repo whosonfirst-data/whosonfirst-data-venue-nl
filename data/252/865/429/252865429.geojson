@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.121952,52.111225,5.121952,52.111225",
     "geom:latitude":52.111225,
     "geom:longitude":5.121952,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808871,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1CfcejW0NuqXKknAYbqatg_52.111225_5.121952@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3b27f8b9ea31b95ae69e312538450a06",
+    "wof:geomhash":"df7e773991df8ddaf88b0100f9e430ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808871,
             "region_id":85687039,
             "venue_id":252865429
         }
     ],
     "wof:id":252865429,
-    "wof:lastmodified":1473878715,
+    "wof:lastmodified":1492505174,
     "wof:name":"Nucleus Balance",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.118349,52.062851,5.118349,52.062851",
     "geom:latitude":52.062851,
     "geom:longitude":5.118349,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797727,
+        1108808809,
+        102191581,
+        1108808645,
         85633337,
         101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2exZhBuiHYJiMYYrD90DJu_52.062851_5.118349@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bd0a3f85c260ac9daa9eb8191013d454",
+    "wof:geomhash":"23f2015d3c902832c82fd776c430175b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797727,
+            "macrohood_id":1108808645,
+            "neighbourhood_id":1108808809,
             "region_id":85687039,
             "venue_id":186445979
         }
     ],
     "wof:id":186445979,
-    "wof:lastmodified":1473879455,
+    "wof:lastmodified":1492508083,
     "wof:name":"Mht",
-    "wof:parent_id":85797727,
+    "wof:parent_id":1108808809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

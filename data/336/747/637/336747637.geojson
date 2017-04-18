@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.532721,51.916531,4.532721,51.916531",
     "geom:latitude":51.916531,
     "geom:longitude":4.532721,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859923,
+        1108805803,
+        102191581,
+        1108805667,
         85633337,
-        101754669,
+        101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_5gsMFQVHgidgWe1LUtqfUL_51.916531_4.532721@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d16fe4844f42d18292750a4018e5d58e",
+    "wof:geomhash":"53cb94a038fabb656c553783484ebde9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754669,
-            "neighbourhood_id":85859923,
+            "locality_id":101751843,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805803,
             "region_id":85687041,
             "venue_id":336747637
         }
     ],
     "wof:id":336747637,
-    "wof:lastmodified":1473878420,
+    "wof:lastmodified":1492506010,
     "wof:name":"Jonker Joell Registeraccountants",
-    "wof:parent_id":85859923,
+    "wof:parent_id":1108805803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

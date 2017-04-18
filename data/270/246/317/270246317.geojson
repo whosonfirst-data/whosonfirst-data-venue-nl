@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.552925,51.931782,4.552925,51.931782",
     "geom:latitude":51.931782,
     "geom:longitude":4.552925,
@@ -24,31 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797899,
+        1108805851,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4675biHEsPp1fgIHyVSWl6_51.931782_4.552925@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cae0d14a7101ce40936ffbf889ee7399",
+    "wof:geomhash":"1d0189962bb154dc1ebccdc00c017deb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85797899,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805851,
+            "region_id":85687041,
+            "venue_id":270246317
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805851,
             "region_id":85687041,
             "venue_id":270246317
         }
     ],
     "wof:id":270246317,
-    "wof:lastmodified":1473878944,
+    "wof:lastmodified":1492500128,
     "wof:name":"Lou Wolfs Fotografie",
-    "wof:parent_id":85797899,
+    "wof:parent_id":1108805851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

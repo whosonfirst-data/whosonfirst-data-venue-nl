@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.905753,52.354725,4.905753,52.354725",
     "geom:latitude":52.354725,
     "geom:longitude":4.905753,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803241,
+        1108802865,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0yreoep3g4MKliAUQoUZZC_52.354725_4.905753@1306269989"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1f1d3bd80f3672b2228216d68ce7d138",
+    "wof:geomhash":"98a94498fbfad86129940433c351eeec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803241,
+            "neighbourhood_id":1108802865,
             "region_id":85687053,
             "venue_id":303969521
         }
     ],
     "wof:id":303969521,
-    "wof:lastmodified":1473879683,
+    "wof:lastmodified":1492471366,
     "wof:name":"Louise Muilwijk",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

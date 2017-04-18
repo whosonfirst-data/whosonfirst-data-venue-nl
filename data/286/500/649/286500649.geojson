@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.927627,51.989315,5.927627,51.989315",
     "geom:latitude":51.989315,
     "geom:longitude":5.927627,
@@ -24,10 +25,12 @@
     "sg:province":"Gelderland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797571,
         85633337,
+        85797571,
         85687043,
         85797057,
+        102191581,
+        404473871,
         101751857
     ],
     "wof:breaches":[],
@@ -35,19 +38,18 @@
         "sg:id":"SG_72MZrhBkItaHX8808Ami48_51.989315_5.927627@1306269970"
     },
     "wof:country":"NL",
-    "wof:geomhash":"81f09330f07ca860ae92c34ab680e62e",
+    "wof:geomhash":"292384ad9c7ec5361a4428738979011c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85797571,
             "region_id":85687043,
             "venue_id":286500649
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473871,
             "locality_id":101751857,
             "neighbourhood_id":85797057,
             "region_id":85687043,
@@ -55,9 +57,9 @@
         }
     ],
     "wof:id":286500649,
-    "wof:lastmodified":1473879167,
+    "wof:lastmodified":1492477650,
     "wof:name":"Obbink, T",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

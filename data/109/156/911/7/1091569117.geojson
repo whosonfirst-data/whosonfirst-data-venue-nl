@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.522550106,52.8616714478,6.522550106,52.8616714478",
     "geom:latitude":52.861671,
     "geom:longitude":6.52255,
@@ -23,17 +24,32 @@
     "sg:postcode":"9411 PA",
     "sg:province":"Provincie Drenthe",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474649,
+        85633337,
+        101807273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0foH18OWrYq7UAyjOy5cOg_52.861671_6.522550@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800408,
-    "wof:geomhash":"77bb4e00198bf291ab140eb713e40b09",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a045bc3e9ffc851443825ba311453c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474649,
+            "locality_id":101807273,
+            "region_id":85687051,
+            "venue_id":1091569117
+        }
+    ],
     "wof:id":1091569117,
-    "wof:lastmodified":1473878559,
+    "wof:lastmodified":1492510930,
     "wof:name":"Nv Waterleidingmaatschappij Drenthe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

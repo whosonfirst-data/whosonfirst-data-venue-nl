@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.87601,52.41729,4.87601,52.41729",
     "geom:latitude":52.41729,
     "geom:longitude":4.87601,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804079,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_7LSQ092FfBNjD7gD3fNVHA_52.417290_4.876010@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"358daf30bd40965e5707f86e572350af",
+    "wof:geomhash":"5957eaa5ca25ed6b52ac3d4ba23c85e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108804079,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":252909569
         }
     ],
     "wof:id":252909569,
-    "wof:lastmodified":1473878864,
+    "wof:lastmodified":1492505320,
     "wof:name":"Autosloperij Farsi",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108804079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

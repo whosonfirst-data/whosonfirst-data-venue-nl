@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.933401,52.363499,4.933401,52.363499",
     "geom:latitude":52.363499,
     "geom:longitude":4.933401,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803517,
+        1108802845,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5OQomBDy9AmXN7gCrq6WRH_52.363499_4.933401@1306269993"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dc1d664102ba477d30bb6a68bf981a82",
+    "wof:geomhash":"9af6d81b351acba895291f90fb6a625d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803517,
+            "neighbourhood_id":1108802845,
             "region_id":85687053,
             "venue_id":319969955
         }
     ],
     "wof:id":319969955,
-    "wof:lastmodified":1473879000,
+    "wof:lastmodified":1492479117,
     "wof:name":"Dag Alkan",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

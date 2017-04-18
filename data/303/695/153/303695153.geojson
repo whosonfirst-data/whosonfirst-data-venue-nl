@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.883565,52.377728,4.883565,52.377728",
     "geom:latitude":52.377728,
     "geom:longitude":4.883565,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804119,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5z0mrIlgkKCdA0FDtaDltS_52.377728_4.883565@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"362cd3c2069bb13c7b2f189e2531b37b",
+    "wof:geomhash":"2981f4cc91cfc3b535a7c9e4d57fc7dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804119,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":303695153
         }
     ],
     "wof:id":303695153,
-    "wof:lastmodified":1473879445,
+    "wof:lastmodified":1492474475,
     "wof:name":"J.A. Verhaak",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

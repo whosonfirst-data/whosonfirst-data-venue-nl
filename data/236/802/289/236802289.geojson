@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88273,52.413269,4.88273,52.413269",
     "geom:latitude":52.413269,
     "geom:longitude":4.88273,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803211,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1fy3YQJFOjJZYqxhmrnpwc_52.413269_4.882730@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3c130bfe02fcd5534763f583123dff68",
+    "wof:geomhash":"91cd062363ace5714a356e337bad09d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803211,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":236802289
         }
     ],
     "wof:id":236802289,
-    "wof:lastmodified":1473879536,
+    "wof:lastmodified":1492494185,
     "wof:name":"Nicoline En Frans",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

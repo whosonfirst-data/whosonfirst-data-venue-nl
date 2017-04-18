@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.940167,52.351738,4.940167,52.351738",
     "geom:latitude":52.351738,
     "geom:longitude":4.940167,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804217,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7adljiNjW9MgzhB64rdp2H_52.351738_4.940167@1306269970"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b7cd8c726d3fe072c6ed84258e7b1a91",
+    "wof:geomhash":"eb91993082a03171b9a32ce5683d5b90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804217,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":286513891
         }
     ],
     "wof:id":286513891,
-    "wof:lastmodified":1473879204,
+    "wof:lastmodified":1492477320,
     "wof:name":"Sprekend Portret",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.945958,52.339569,4.945958,52.339569",
     "geom:latitude":52.339569,
     "geom:longitude":4.945958,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803871,
+        1108802539,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6yFwtvWekuAplumsClUJaN_52.339569_4.945958@1306270004"
     },
     "wof:country":"NL",
-    "wof:geomhash":"82de4517e6512c7b5772245dcbf91239",
+    "wof:geomhash":"0c2be70ba7d977ea927f807aa34d0a6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803871,
+            "neighbourhood_id":1108802539,
             "region_id":85687053,
             "venue_id":336672643
         }
     ],
     "wof:id":336672643,
-    "wof:lastmodified":1473878429,
+    "wof:lastmodified":1492506938,
     "wof:name":"Manie Cv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

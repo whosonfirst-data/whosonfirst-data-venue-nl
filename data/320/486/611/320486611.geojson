@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9097,52.354694,4.9097,52.354694",
     "geom:latitude":52.354694,
     "geom:longitude":4.9097,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803259,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3xgvnI26cG9ZGvezKnb9YR_52.354694_4.909700@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d684c668f02b5924bc594cddd1d93d41",
+    "wof:geomhash":"2e0d324e3d706dbd5f9358c8bd97f413",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803259,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":320486611
         }
     ],
     "wof:id":320486611,
-    "wof:lastmodified":1473879337,
+    "wof:lastmodified":1492483191,
     "wof:name":"Kortbeek, Maud",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

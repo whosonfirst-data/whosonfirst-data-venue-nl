@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4390878677,51.7266731262,5.4390878677,51.7266731262",
     "geom:latitude":51.726673,
     "geom:longitude":5.439088,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.modo.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474583,
+        85633337,
+        101808301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2g78FLN5uaTSgmj4JKke7J_51.726673_5.439088@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803436,
-    "wof:geomhash":"005009c0eb0abd41413103ba25c8ce26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbee155586428c47bb0d493828d936a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474583,
+            "locality_id":101808301,
+            "region_id":85687035,
+            "venue_id":1091610869
+        }
+    ],
     "wof:id":1091610869,
-    "wof:lastmodified":1473878523,
+    "wof:lastmodified":1492510667,
     "wof:name":"Modo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

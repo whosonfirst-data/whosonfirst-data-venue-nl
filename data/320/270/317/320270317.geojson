@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.317943,52.056973,4.317943,52.056973",
     "geom:latitude":52.056973,
     "geom:longitude":4.317943,
@@ -24,31 +25,49 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798433,
+        1108808313,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45YJJSoXghNRWnFjNoRd6e_52.056973_4.317943@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c7bbaa382c885366bb6b8944675b9e4a",
+    "wof:geomhash":"ba045be2728cfa4cddc955b1d9fce89d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808313,
+            "region_id":85687041,
+            "venue_id":320270317
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85798433,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808313,
             "region_id":85687041,
             "venue_id":320270317
         }
     ],
     "wof:id":320270317,
-    "wof:lastmodified":1473879144,
+    "wof:lastmodified":1492483519,
     "wof:name":"Glashandel De Schenk Bv",
-    "wof:parent_id":85798433,
+    "wof:parent_id":1108808313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

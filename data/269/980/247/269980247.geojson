@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.933595,52.337784,4.933595,52.337784",
     "geom:latitude":52.337784,
     "geom:longitude":4.933595,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.kasanderfilm.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803887,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_3eyoioHoL5cLHI0NbjhzBX_52.337784_4.933595@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2bde7eb22a2dfe856808acded152fd7f",
+    "wof:geomhash":"bfaf04dc64dbbf1de0d339b5d91c7494",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803887,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":269980247
         }
     ],
     "wof:id":269980247,
-    "wof:lastmodified":1473879588,
+    "wof:lastmodified":1492496367,
     "wof:name":"Kasander, The",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

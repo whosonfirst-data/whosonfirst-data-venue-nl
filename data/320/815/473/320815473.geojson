@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.903568,52.348366,4.903568,52.348366",
     "geom:latitude":52.348366,
     "geom:longitude":4.903568,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803569,
+        1108802841,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4XicnWxKmnSJXfbecHL2Kr_52.348366_4.903568@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b0e8dd8e2a064f1918f828e52654ba8c",
+    "wof:geomhash":"f63706fc495551963fc49ed848a80c8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803569,
+            "neighbourhood_id":1108802841,
             "region_id":85687053,
             "venue_id":320815473
         }
     ],
     "wof:id":320815473,
-    "wof:lastmodified":1473879615,
+    "wof:lastmodified":1492483806,
     "wof:name":"Hypercycle Prod Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.55703,51.882256,4.55703,51.882256",
     "geom:latitude":51.882256,
     "geom:longitude":4.55703,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798351,
+        1108833227,
+        1108805789,
+        102191581,
         85633337,
+        101751843,
+        1108805721,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_3F6VuVJXomF2U6SSRCc6T0_51.882256_4.557030@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ed61e7d0ad0b9bdf85e2753e3edcd48b",
+    "wof:geomhash":"06c421057a57f4a10e9be9486a7f99ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805721,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798351,
+            "locality_id":101751843,
+            "microhood_id":1108833227,
+            "neighbourhood_id":1108805789,
             "region_id":85687041,
             "venue_id":269802853
         }
     ],
     "wof:id":269802853,
-    "wof:lastmodified":1473879502,
+    "wof:lastmodified":1492496612,
     "wof:name":"Vof T. Hoek En M. Hoek-Stiebolt",
-    "wof:parent_id":85798351,
+    "wof:parent_id":1108833227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

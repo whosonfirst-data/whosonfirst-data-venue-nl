@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.89187,52.354092,4.89187,52.354092",
     "geom:latitude":52.354092,
     "geom:longitude":4.89187,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803931,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3ZlCL7sk1HvWy9i7lDzr88_52.354092_4.891870@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9cf875cb35453c07848592b88e21556d",
+    "wof:geomhash":"d2719bc56b05376e18374fa127028a3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803931,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":253359775
         }
     ],
     "wof:id":253359775,
-    "wof:lastmodified":1473879437,
+    "wof:lastmodified":1492489232,
     "wof:name":"Majestic",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

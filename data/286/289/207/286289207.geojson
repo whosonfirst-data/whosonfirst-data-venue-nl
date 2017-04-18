@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.921763,52.411118,4.921763,52.411118",
     "geom:latitude":52.411118,
     "geom:longitude":4.921763,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803745,
+        1108802531,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_6MXb5jV1TvEXgcOs04OnZ6_52.411118_4.921763@1306269967"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6530c594d0d5d43468d4b0a5c9d62eb9",
+    "wof:geomhash":"98158ff765e3123c58235f07b4b480c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803745,
+            "neighbourhood_id":1108802531,
             "region_id":85687053,
             "venue_id":286289207
         }
     ],
     "wof:id":286289207,
-    "wof:lastmodified":1473878652,
+    "wof:lastmodified":1492478278,
     "wof:name":"Openbare Basisschool De Vier Windstreken",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803745,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

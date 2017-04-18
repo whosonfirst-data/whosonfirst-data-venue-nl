@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.930129,52.392654,4.930129,52.392654",
     "geom:latitude":52.392654,
     "geom:longitude":4.930129,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108803783,
+        1108802923,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_26BU0FMoCzF5kXj7YA3z4e_52.392654_4.930129@1306269997"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3e6f3eaf9d53ed179292000782fc32b8",
+    "wof:geomhash":"23fc852a6f232897f3f1f41c0c1afa11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803783,
+            "neighbourhood_id":1108802923,
             "region_id":85687053,
             "venue_id":320300009
         }
     ],
     "wof:id":320300009,
-    "wof:lastmodified":1473879164,
+    "wof:lastmodified":1492484128,
     "wof:name":"Vittali, H A",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

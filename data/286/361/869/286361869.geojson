@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.828096,52.373596,4.828096,52.373596",
     "geom:latitude":52.373596,
     "geom:longitude":4.828096,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803291,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_00aPyWFQ1uhECPXtjXAUun_52.373596_4.828096@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2e482577d8ef7a7a364262417badc50e",
+    "wof:geomhash":"775dd1f8299bed732e15eaaf38dc823e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "macrohood_id":1108802303,
+            "microhood_id":1108803291,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":286361869
         }
     ],
     "wof:id":286361869,
-    "wof:lastmodified":1473878900,
+    "wof:lastmodified":1492476967,
     "wof:name":"Stein Communications Bv",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

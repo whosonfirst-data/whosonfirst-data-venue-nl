@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2524647713,51.9783172607,4.2524647713,51.9783172607",
     "geom:latitude":51.978317,
     "geom:longitude":4.252465,
@@ -24,17 +25,32 @@
     "sg:province":"Zuid-Holland",
     "sg:website":"http://www.nadilextechniek.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
+        85633337,
+        101807027
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1D0MCgg9MW6A1FaK6Kng4L_51.978317_4.252465@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802141,
-    "wof:geomhash":"380c6078e9ee0376e8299711a7279def",
-    "wof:hierarchy":[],
+    "wof:geomhash":"162eea67cef398e9b78740afa2381976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474667,
+            "locality_id":101807027,
+            "region_id":85687041,
+            "venue_id":1091593753
+        }
+    ],
     "wof:id":1091593753,
-    "wof:lastmodified":1473878671,
+    "wof:lastmodified":1492509453,
     "wof:name":"Nadilex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

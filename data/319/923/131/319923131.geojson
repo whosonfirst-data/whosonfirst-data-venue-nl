@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.93715,52.356915,4.93715,52.356915",
     "geom:latitude":52.356915,
     "geom:longitude":4.93715,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803631,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_11P9ft77kepUEaLFPOKYa5_52.356915_4.937150@1306269992"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f7a1d7fd1bbd2b8fe9955b4ef3a89403",
+    "wof:geomhash":"4bbcde61ef578d91385136aa8827ce4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803631,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":319923131
         }
     ],
     "wof:id":319923131,
-    "wof:lastmodified":1473878859,
+    "wof:lastmodified":1492479606,
     "wof:name":"N.C. Bauritius",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

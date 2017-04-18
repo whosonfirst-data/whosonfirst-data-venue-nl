@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.551141,51.911427,4.551141,51.911427",
     "geom:latitude":51.911427,
     "geom:longitude":4.551141,
@@ -35,28 +36,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85797865,
+        102191581,
         85633337,
-        101754669,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24KbtKnIC7ZDRpOjsA2UNc_51.911427_4.551141@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cab366f9d4adbeff43a8cfc71c85c1cf",
+    "wof:geomhash":"2b18161abc0bec6e12cdd70a6b89cec5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754669,
+            "locality_id":101751843,
+            "neighbourhood_id":85797865,
+            "region_id":85687041,
+            "venue_id":252884777
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
             "neighbourhood_id":85797865,
             "region_id":85687041,
             "venue_id":252884777
         }
     ],
     "wof:id":252884777,
-    "wof:lastmodified":1473878813,
+    "wof:lastmodified":1492505294,
     "wof:name":"Right Balance",
     "wof:parent_id":85797865,
     "wof:placetype":"venue",

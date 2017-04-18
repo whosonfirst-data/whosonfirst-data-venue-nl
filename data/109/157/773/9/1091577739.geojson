@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4586520195,51.4605026245,5.4586520195,51.4605026245",
     "geom:latitude":51.460503,
     "geom:longitude":5.458652,
@@ -24,13 +25,13 @@
     "sg:province":"North Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        85797751,
-        85687035,
         85798021,
         102191581,
         404474375,
-        101751819
+        85633337,
+        101751819,
+        85687035,
+        85797751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,8 @@
     },
     "wof:country":"NL",
     "wof:created":1473801027,
-    "wof:geomhash":"bda4a9f1ec5a809a1d69dc1ea26a7730",
+    "wof:geomhash":"6fa229a0db4c2cfceb15d67073b4f90e",
     "wof:hierarchy":[
-        {
-            "country_id":85633337,
-            "neighbourhood_id":85797751,
-            "region_id":85687035,
-            "venue_id":1091577739
-        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -54,12 +49,18 @@
             "neighbourhood_id":85798021,
             "region_id":85687035,
             "venue_id":1091577739
+        },
+        {
+            "country_id":85633337,
+            "neighbourhood_id":85797751,
+            "region_id":85687035,
+            "venue_id":1091577739
         }
     ],
     "wof:id":1091577739,
-    "wof:lastmodified":1473879004,
+    "wof:lastmodified":1492510971,
     "wof:name":"Bas Sierbestrating",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

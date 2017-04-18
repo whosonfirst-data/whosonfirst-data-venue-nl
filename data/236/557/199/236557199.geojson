@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.284641,52.114624,4.284641,52.114624",
     "geom:latitude":52.114624,
     "geom:longitude":4.284641,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808139,
+        102191581,
+        1108808075,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1HXtJpab2cF6muqaIKstwD_52.114624_4.284641@1306269939"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ec19543f04ac20990b4324543c1be98f",
+    "wof:geomhash":"83332357b87a6628abb7deef125727b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108808075,
+            "neighbourhood_id":1108808139,
             "region_id":85687041,
             "venue_id":236557199
         }
     ],
     "wof:id":236557199,
-    "wof:lastmodified":1473879417,
+    "wof:lastmodified":1492493825,
     "wof:name":"European Automotive Compliance",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

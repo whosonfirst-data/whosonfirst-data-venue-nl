@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878985,52.390221,4.878985,52.390221",
     "geom:latitude":52.390221,
     "geom:longitude":4.878985,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803707,
+        1108802911,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7AJPJJOYyaKr7XPDduCusL_52.390221_4.878985@1306269939"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bfd111c4d0c57f50fe9ee108feda7772",
+    "wof:geomhash":"41bb4614e84c7dddf615f8f41a470bed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803707,
+            "neighbourhood_id":1108802911,
             "region_id":85687053,
             "venue_id":236567323
         }
     ],
     "wof:id":236567323,
-    "wof:lastmodified":1473879420,
+    "wof:lastmodified":1492494280,
     "wof:name":"Garage Blitz",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803707,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

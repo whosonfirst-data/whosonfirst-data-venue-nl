@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2354011536,51.6342582703,5.2354011536,51.6342582703",
     "geom:latitude":51.634258,
     "geom:longitude":5.235401,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.pan-amsterdam.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474387,
+        85633337,
+        101808199
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PONucjcd9VPWBcGCQQzPu_51.634258_5.235401@1306270009"
     },
     "wof:country":"NL",
     "wof:created":1473799373,
-    "wof:geomhash":"eb29c086e4239a803ce9a55bf0d9d40e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1add450834f288657b05ed90b15cd261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474387,
+            "locality_id":101808199,
+            "region_id":85687035,
+            "venue_id":1075823035
+        }
+    ],
     "wof:id":1075823035,
-    "wof:lastmodified":1473879325,
+    "wof:lastmodified":1492486651,
     "wof:name":"Pictura Antiquairs Nat Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

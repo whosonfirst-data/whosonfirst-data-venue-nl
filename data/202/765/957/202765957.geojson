@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.865251,52.347721,4.865251,52.347721",
     "geom:latitude":52.347721,
     "geom:longitude":4.865251,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803765,
+        1108802917,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_44zCMYwbq9GmKPFKasQH2N_52.347721_4.865251@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0138cdf07d5c7fa09294287d365f8404",
+    "wof:geomhash":"5a2836b63f2fe9167416bd389f097bd2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803765,
+            "neighbourhood_id":1108802917,
             "region_id":85687053,
             "venue_id":202765957
         }
     ],
     "wof:id":202765957,
-    "wof:lastmodified":1473879195,
+    "wof:lastmodified":1492497581,
     "wof:name":"Context Vertaalbureau",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

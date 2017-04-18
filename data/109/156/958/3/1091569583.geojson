@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.2746281624,52.3872489929,6.2746281624,52.3872489929",
     "geom:latitude":52.387249,
     "geom:longitude":6.274628,
@@ -24,17 +25,32 @@
     "sg:province":"Overijssel",
     "sg:website":"http://www.vitens.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473849,
+        85633337,
+        101808759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZyQEILo2GwHIoqQtqjJqD_52.387249_6.274628@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800437,
-    "wof:geomhash":"92a75b1d27c3b223f0d32b2526ebb7b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afab50ea0919f0c1cad8300c4a6bd983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473849,
+            "locality_id":101808759,
+            "region_id":85687045,
+            "venue_id":1091569583
+        }
+    ],
     "wof:id":1091569583,
-    "wof:lastmodified":1473878590,
+    "wof:lastmodified":1492510933,
     "wof:name":"Vitens Overijssel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

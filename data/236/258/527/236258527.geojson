@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.849254,52.383591,4.849254,52.383591",
     "geom:latitude":52.383591,
     "geom:longitude":4.849254,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803867,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6qBcGGRCsTzRbtwXQWPoQm_52.383591_4.849254@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6278f666a35219732d901237a808ce25",
+    "wof:geomhash":"6a86210047e1d74bb9979ce05896f1ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803867,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":236258527
         }
     ],
     "wof:id":236258527,
-    "wof:lastmodified":1473879046,
+    "wof:lastmodified":1492492564,
     "wof:name":"Malle Pietje Curiosa",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803867,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.899987,52.374008,4.899987,52.374008",
     "geom:latitude":52.374008,
     "geom:longitude":4.899987,
@@ -29,9 +30,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803883,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_4kBleu2P7NjyJqws3iz2Zf_52.374008_4.899987@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b000c9a2530ac23ce4e709548d92e27e",
+    "wof:geomhash":"b20beb12efad2dc3e6b7ddfe22aca32c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803883,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":270465487
         }
     ],
     "wof:id":270465487,
-    "wof:lastmodified":1473879266,
+    "wof:lastmodified":1492499675,
     "wof:name":"The Black Tiger Cafe Coffeeshop",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

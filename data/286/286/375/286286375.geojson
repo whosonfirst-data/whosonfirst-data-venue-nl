@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.311756,52.050644,4.311756,52.050644",
     "geom:latitude":52.050644,
     "geom:longitude":4.311756,
@@ -34,28 +35,46 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798433,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iOYGfenDr2XribYLH9G5v_52.050644_4.311756@1306269967"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0051b27efee451e3fc65b7d6f6d4258f",
+    "wof:geomhash":"c26fa136b530932338d2ed66ae24457a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":85798433,
+            "region_id":85687041,
+            "venue_id":286286375
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
+            "macrohood_id":1108808103,
             "neighbourhood_id":85798433,
             "region_id":85687041,
             "venue_id":286286375
         }
     ],
     "wof:id":286286375,
-    "wof:lastmodified":1473878663,
+    "wof:lastmodified":1492475167,
     "wof:name":"Openbare Basisschool De Spoorzoeker",
     "wof:parent_id":85798433,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3174948692,52.0568008423,4.3174948692,52.0568008423",
     "geom:latitude":52.056801,
     "geom:longitude":4.317495,
@@ -24,12 +25,15 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798433,
+        1108808313,
         102191581,
-        404474251,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,22 +41,34 @@
     },
     "wof:country":"NL",
     "wof:created":1473801408,
-    "wof:geomhash":"2c877a92a8031ed499cf99aae5c9c7a8",
+    "wof:geomhash":"d398863e1861a1765e413301308171f3",
     "wof:hierarchy":[
         {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808313,
+            "region_id":85687041,
+            "venue_id":1091584409
+        },
+        {
+            "borough_id":1108808049,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85798433,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808313,
             "region_id":85687041,
             "venue_id":1091584409
         }
     ],
     "wof:id":1091584409,
-    "wof:lastmodified":1473878713,
+    "wof:lastmodified":1492511776,
     "wof:name":"Flexteam Bv",
-    "wof:parent_id":85798433,
+    "wof:parent_id":1108808313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

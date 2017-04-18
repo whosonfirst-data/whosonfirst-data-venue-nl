@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882321,52.37529,4.882321,52.37529",
     "geom:latitude":52.37529,
     "geom:longitude":4.882321,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803831,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0brFMEHnRTkr4fUWnJkaUE_52.375290_4.882321@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"171f31651cff9b8a3cca5fc61855693d",
+    "wof:geomhash":"1fd1bde725acbf4d30733900a30fdd69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803831,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":186098675
         }
     ],
     "wof:id":186098675,
-    "wof:lastmodified":1473878941,
+    "wof:lastmodified":1492509134,
     "wof:name":"Bres Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

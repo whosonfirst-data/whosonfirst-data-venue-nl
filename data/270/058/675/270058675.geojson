@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880363,52.371525,4.880363,52.371525",
     "geom:latitude":52.371525,
     "geom:longitude":4.880363,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5rBS3bffZu0HX3g9Sw7qHZ_52.371525_4.880363@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2a44b359c2b1c145af983f764819abf1",
+    "wof:geomhash":"794afe728775058b521ff317f8686630",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":270058675
         }
     ],
     "wof:id":270058675,
-    "wof:lastmodified":1473878493,
+    "wof:lastmodified":1492500912,
     "wof:name":"Mejiro-Gym",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

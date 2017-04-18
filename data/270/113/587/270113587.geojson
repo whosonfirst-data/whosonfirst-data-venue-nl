@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.930386,52.33865,4.930386,52.33865",
     "geom:latitude":52.33865,
     "geom:longitude":4.930386,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.studioeu.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803887,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_1fB5HYISS5O7hL9zw6msK4_52.338650_4.930386@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1f4f8618263d511eb30f2d5c9da25e81",
+    "wof:geomhash":"a2de6c6584fc4f57abeec0b61404d9d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803887,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":270113587
         }
     ],
     "wof:id":270113587,
-    "wof:lastmodified":1473878624,
+    "wof:lastmodified":1492500481,
     "wof:name":"Studio Eu",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

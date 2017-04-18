@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9213,52.336002,4.9213,52.336002",
     "geom:latitude":52.336002,
     "geom:longitude":4.9213,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804033,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7CE22DSbXxgepn8azjbNDw_52.336002_4.921300@1306269914"
     },
     "wof:country":"NL",
-    "wof:geomhash":"844eda273cd3f60400f9870ceae341c7",
+    "wof:geomhash":"acbc503589c37683efb60631f3097e4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804033,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":202381737
         }
     ],
     "wof:id":202381737,
-    "wof:lastmodified":1473878481,
+    "wof:lastmodified":1492499125,
     "wof:name":"Warger Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

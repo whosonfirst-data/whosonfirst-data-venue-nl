@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.762892,51.580299,4.762892,51.580299",
     "geom:latitude":51.580299,
     "geom:longitude":4.762892,
@@ -24,10 +25,12 @@
     "sg:province":"Noord-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798373,
         85633337,
+        85798373,
         85687035,
         85797089,
+        102191581,
+        404474363,
         101751811
     ],
     "wof:breaches":[],
@@ -35,19 +38,18 @@
         "sg:id":"SG_6EkfxZClmA0oZNRBgLb2eC_51.580299_4.762892@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"72be961232d1dee1020c578971f88d17",
+    "wof:geomhash":"7b5d0d6caa80b8ff41b5ab60e2e8b2c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85798373,
             "region_id":85687035,
             "venue_id":270258109
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474363,
             "locality_id":101751811,
             "neighbourhood_id":85797089,
             "region_id":85687035,
@@ -55,9 +57,9 @@
         }
     ],
     "wof:id":270258109,
-    "wof:lastmodified":1473878968,
+    "wof:lastmodified":1492500076,
     "wof:name":"T. Damen En D. Rottier",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

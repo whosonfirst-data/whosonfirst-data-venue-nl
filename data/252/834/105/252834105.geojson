@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880368,52.380032,4.880368,52.380032",
     "geom:latitude":52.380032,
     "geom:longitude":4.880368,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803815,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_5lo78EyBp8ayaU5Hcf3rWY_52.380032_4.880368@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8f5e9877089695b167d1b57db4953853",
+    "wof:geomhash":"8fb065395b73283305dda999cb3dbbbb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803815,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":252834105
         }
     ],
     "wof:id":252834105,
-    "wof:lastmodified":1473878588,
+    "wof:lastmodified":1492505348,
     "wof:name":"Sabailand",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803815,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

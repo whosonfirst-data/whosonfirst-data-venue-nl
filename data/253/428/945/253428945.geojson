@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.923623,52.358322,4.923623,52.358322",
     "geom:latitude":52.358322,
     "geom:longitude":4.923623,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803833,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4wm1XRkGl5EbCxzh07VhGr_52.358322_4.923623@1306269949"
     },
     "wof:country":"NL",
-    "wof:geomhash":"db0d3cb9304d36bdc863d3485f1b6100",
+    "wof:geomhash":"c1f4b1e611064f618a225960351c12e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803833,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":253428945
         }
     ],
     "wof:id":253428945,
-    "wof:lastmodified":1473879594,
+    "wof:lastmodified":1492488584,
     "wof:name":"F.C.M. Wouda",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

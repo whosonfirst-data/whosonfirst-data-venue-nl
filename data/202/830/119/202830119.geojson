@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.283612,52.02681,4.283612,52.02681",
     "geom:latitude":52.02681,
     "geom:longitude":4.283612,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859597,
+        1108808323,
+        102191581,
+        1108808069,
         85633337,
-        101754721,
+        101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0o9TRNkNxqfySoE8SiZZfa_52.026810_4.283612@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d8f88a2528105d6e69571895be1c0d1f",
+    "wof:geomhash":"5975b0aac1cff011075b2c80278509bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754721,
-            "neighbourhood_id":85859597,
+            "locality_id":101752763,
+            "macrohood_id":1108808069,
+            "neighbourhood_id":1108808323,
             "region_id":85687041,
             "venue_id":202830119
         }
     ],
     "wof:id":202830119,
-    "wof:lastmodified":1473879347,
+    "wof:lastmodified":1492498859,
     "wof:name":"Haas, Drs M D S De",
-    "wof:parent_id":85859597,
+    "wof:parent_id":1108808323,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

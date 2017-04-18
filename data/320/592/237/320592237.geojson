@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.804292,52.376774,4.804292,52.376774",
     "geom:latitude":52.376774,
     "geom:longitude":4.804292,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803993,
         85797579,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_6l8eVZmEiSoEQLliPMYDE6_52.376774_4.804292@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7076c8069ff2c8e62b531491b1c45255",
+    "wof:geomhash":"43db616b3c670d21b1f218f4c84d5f66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803993,
             "neighbourhood_id":85797579,
             "region_id":85687053,
             "venue_id":320592237
         }
     ],
     "wof:id":320592237,
-    "wof:lastmodified":1473879438,
+    "wof:lastmodified":1492483938,
     "wof:name":"Klavertje",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108803993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

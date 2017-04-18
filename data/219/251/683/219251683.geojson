@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.093956,52.074471,5.093956,52.074471",
     "geom:latitude":52.074471,
     "geom:longitude":5.093956,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797771,
+        1108808761,
+        102191581,
+        1108808647,
         85633337,
         101751827,
+        1108808679,
         85687039
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_6NoeTf0dfG19rwBkxt1wSP_52.074471_5.093956@1306269924"
     },
     "wof:country":"NL",
-    "wof:geomhash":"21e706bba45ae39ef9106eb160738770",
+    "wof:geomhash":"6e6b3db55694f779ba52c7c5d1ac69c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808679,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797771,
+            "macrohood_id":1108808647,
+            "neighbourhood_id":1108808761,
             "region_id":85687039,
             "venue_id":219251683
         }
     ],
     "wof:id":219251683,
-    "wof:lastmodified":1473878730,
+    "wof:lastmodified":1492501569,
     "wof:name":"Hunkem\u00f6ller",
-    "wof:parent_id":85797771,
+    "wof:parent_id":1108808761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

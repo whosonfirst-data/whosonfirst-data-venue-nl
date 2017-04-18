@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4237651825,52.0085601807,5.4237651825,52.0085601807",
     "geom:latitude":52.00856,
     "geom:longitude":5.423765,
@@ -24,17 +25,32 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.nederlink.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474547,
+        85633337,
+        101808455
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SwRGRsC1xez8z1z3PCVKz_52.008560_5.423765@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800738,
-    "wof:geomhash":"d7648c596751dfea3d78077a53dbfc99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7f036622a640ee06e8f20cc786d1302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474547,
+            "locality_id":101808455,
+            "region_id":85687039,
+            "venue_id":1091574141
+        }
+    ],
     "wof:id":1091574141,
-    "wof:lastmodified":1473878778,
+    "wof:lastmodified":1492511100,
     "wof:name":"Nederlink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

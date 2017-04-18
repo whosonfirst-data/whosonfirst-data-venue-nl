@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.490854,51.96114,4.490854,51.96114",
     "geom:latitude":51.96114,
     "geom:longitude":4.490854,
@@ -24,8 +25,13 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797723,
+        1108833221,
+        1108805791,
+        102191581,
+        1108805981,
         85633337,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +39,24 @@
         "sg:id":"SG_1kg1CMLNCYIpV98INOvl4X_51.961140_4.490854@1306269906"
     },
     "wof:country":"NL",
-    "wof:geomhash":"df1e54cb1b1acf9c777274c4ba5eb29a",
+    "wof:geomhash":"2ce04ec8460f3a825ecd8945221cde32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797723,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "microhood_id":1108833221,
+            "neighbourhood_id":1108805791,
             "region_id":85687041,
             "venue_id":185600407
         }
     ],
     "wof:id":185600407,
-    "wof:lastmodified":1473878469,
+    "wof:lastmodified":1492487670,
     "wof:name":"Studio R, S. Ebeli",
-    "wof:parent_id":85797723,
+    "wof:parent_id":1108833221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

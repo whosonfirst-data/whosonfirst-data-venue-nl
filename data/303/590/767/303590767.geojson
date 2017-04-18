@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.550147,51.95462,4.550147,51.95462",
     "geom:latitude":51.95462,
     "geom:longitude":4.550147,
@@ -25,30 +26,36 @@
     "sg:website":"http://www.ministryofdance.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798177,
+        85798149,
+        102191581,
         85633337,
-        101752769,
+        101751843,
+        1108805725,
         85687041,
-        85798149
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NPRjGAaIgwpboJPWieE1M_51.954620_4.550147@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6d29c86bd7aeb98ff655333c31d55eed",
+    "wof:geomhash":"22dc723eb98c67a9cb784626da6885f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101752769,
-            "neighbourhood_id":85798177,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":303590767
         },
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798149,
             "region_id":85687041,
@@ -56,9 +63,9 @@
         }
     ],
     "wof:id":303590767,
-    "wof:lastmodified":1473879317,
+    "wof:lastmodified":1492471808,
     "wof:name":"Ministry Of Dance",
-    "wof:parent_id":-1,
+    "wof:parent_id":85798149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

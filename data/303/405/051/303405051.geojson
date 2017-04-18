@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.845258,52.374043,4.845258,52.374043",
     "geom:latitude":52.374043,
     "geom:longitude":4.845258,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803441,
+        1108802783,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_75gl49jPlprjpdGv3Ehgju_52.374043_4.845258@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"892b79db03cbe98e6d8e094a5b45d43b",
+    "wof:geomhash":"e67fd5a1e80c94de6492428d53e38ff5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803441,
+            "neighbourhood_id":1108802783,
             "region_id":85687053,
             "venue_id":303405051
         }
     ],
     "wof:id":303405051,
-    "wof:lastmodified":1473879142,
+    "wof:lastmodified":1492471050,
     "wof:name":"El Amien Ibs",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803441,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

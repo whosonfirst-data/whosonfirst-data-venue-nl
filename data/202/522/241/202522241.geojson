@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.849497,52.378731,4.849497,52.378731",
     "geom:latitude":52.378731,
     "geom:longitude":4.849497,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803529,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +49,24 @@
         "sg:id":"SG_1h8IUF7iBvtlCBsQa4ksq9_52.378731_4.849497@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"caefa10e7b812bfacb978d70fc8e6d01",
+    "wof:geomhash":"f9db0a1e41d0b6ab3a9b78bbb532ae58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803529,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":202522241
         }
     ],
     "wof:id":202522241,
-    "wof:lastmodified":1473878856,
+    "wof:lastmodified":1492498210,
     "wof:name":"Mega Videotheek Noord",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

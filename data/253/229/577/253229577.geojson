@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.793644,52.364521,4.793644,52.364521",
     "geom:latitude":52.364521,
     "geom:longitude":4.793644,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108804073,
+        1108802855,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5KvpVSr9IjEofiWfHCwgol_52.364521_4.793644@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"eed6fc46e2bf6f473fd1b6d92b73d7e5",
+    "wof:geomhash":"57c02dcb45d9ba9dbccb29897a80ca23",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108804073,
+            "neighbourhood_id":1108802855,
             "region_id":85687053,
             "venue_id":253229577
         }
     ],
     "wof:id":253229577,
-    "wof:lastmodified":1473879256,
+    "wof:lastmodified":1492489186,
     "wof:name":"Bernardus",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108804073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

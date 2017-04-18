@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.83662,52.384018,4.83662,52.384018",
     "geom:latitude":52.384018,
     "geom:longitude":4.83662,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108804011,
+        1108802905,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1cm9HNh9XlWEnlaGZHWYam_52.384018_4.836620@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2efc729895f58f3648890f01c33c0e41",
+    "wof:geomhash":"9c63cd9b4bf32551b767f5bcc7b538e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108804011,
+            "neighbourhood_id":1108802905,
             "region_id":85687053,
             "venue_id":203132533
         }
     ],
     "wof:id":203132533,
-    "wof:lastmodified":1473878949,
+    "wof:lastmodified":1492480930,
     "wof:name":"F.W. Chung Verzekeringen",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108804011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.855649,52.353329,4.855649,52.353329",
     "geom:latitude":52.353329,
     "geom:longitude":4.855649,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108804247,
+        1108802899,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5xPqPTA3CE7RHMJvQGyXMC_52.353329_4.855649@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a572e3daa0cb7a0143a66540097cc992",
+    "wof:geomhash":"475f2b5c9e92c27520f9cceaa959a453",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108804247,
+            "neighbourhood_id":1108802899,
             "region_id":85687053,
             "venue_id":320762029
         }
     ],
     "wof:id":320762029,
-    "wof:lastmodified":1473879621,
+    "wof:lastmodified":1492482549,
     "wof:name":"Fromagerie Chalet",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.554375,51.911755,4.554375,51.911755",
     "geom:latitude":51.911755,
     "geom:longitude":4.554375,
@@ -26,28 +27,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85797865,
+        102191581,
         85633337,
-        101754669,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YCTZTAIvegdse8HALZmfy_51.911755_4.554375@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4445dfe78fcdbe44f909747a969cb15e",
+    "wof:geomhash":"ae1b00b87cfd7beeb7a6d9e3ab2599ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754669,
+            "locality_id":101751843,
+            "neighbourhood_id":85797865,
+            "region_id":85687041,
+            "venue_id":320174875
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
             "neighbourhood_id":85797865,
             "region_id":85687041,
             "venue_id":320174875
         }
     ],
     "wof:id":320174875,
-    "wof:lastmodified":1473879053,
+    "wof:lastmodified":1492485437,
     "wof:name":"T-Sound",
     "wof:parent_id":85797865,
     "wof:placetype":"venue",

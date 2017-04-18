@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.920697,52.386665,4.920697,52.386665",
     "geom:latitude":52.386665,
     "geom:longitude":4.920697,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803371,
+        1108802839,
+        102191581,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0HERyLQRcmNXIwk5Pz65Af_52.386665_4.920697@1306270006"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6081e83c668f988f408cb16a81e54bc7",
+    "wof:geomhash":"b7acdb800bcc9731432faa2e29ef0b29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803371,
+            "neighbourhood_id":1108802839,
             "region_id":85687053,
             "venue_id":336815863
         }
     ],
     "wof:id":336815863,
-    "wof:lastmodified":1473878445,
+    "wof:lastmodified":1492506641,
     "wof:name":"Vbeeten",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803371,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

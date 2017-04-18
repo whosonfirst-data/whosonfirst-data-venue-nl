@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877455,52.362476,4.877455,52.362476",
     "geom:latitude":52.362476,
     "geom:longitude":4.877455,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804305,
+        1108802937,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_1H1qDoPYEwvxp80wRcc1Pb_52.362476_4.877455@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"854a17913a30248089baeceb7808fbf4",
+    "wof:geomhash":"2183fe16029b67b2f740cf4d088d8ddc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804305,
+            "neighbourhood_id":1108802937,
             "region_id":85687053,
             "venue_id":319818479
         }
     ],
     "wof:id":319818479,
-    "wof:lastmodified":1473878491,
+    "wof:lastmodified":1492479718,
     "wof:name":"Prinsen Hotel",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804305,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

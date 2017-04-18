@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.89103508,53.0999641418,6.89103508,53.0999641418",
     "geom:latitude":53.099964,
     "geom:longitude":6.891035,
@@ -23,17 +24,32 @@
     "sg:postcode":"9641 MJ",
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473737,
+        85633337,
+        101838023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jsSr33h8ksMgitYt4HSD1_53.099964_6.891035@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803684,
-    "wof:geomhash":"03703b78269491687c445c67df91ebfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03b0b09e193dab8a3792e679323210fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473737,
+            "locality_id":101838023,
+            "region_id":85687059,
+            "venue_id":1091615317
+        }
+    ],
     "wof:id":1091615317,
-    "wof:lastmodified":1473878772,
+    "wof:lastmodified":1492510528,
     "wof:name":"Uniepapier Groningen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

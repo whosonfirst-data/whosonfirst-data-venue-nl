@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.934203,52.354729,4.934203,52.354729",
     "geom:latitude":52.354729,
     "geom:longitude":4.934203,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803631,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2EcxPnr4AU3weGvgabMtag_52.354729_4.934203@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c9dc539f9de6169f924c3ed1b5e3ae56",
+    "wof:geomhash":"97cd07eeaf051cd44a621c4bf196d36e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803631,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":303073009
         }
     ],
     "wof:id":303073009,
-    "wof:lastmodified":1473878594,
+    "wof:lastmodified":1492474435,
     "wof:name":"Steeman Administraties",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

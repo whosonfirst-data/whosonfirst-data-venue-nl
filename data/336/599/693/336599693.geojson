@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.900486,52.355995,4.900486,52.355995",
     "geom:latitude":52.355995,
     "geom:longitude":4.900486,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803835,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_48KOOqn5QgFWLUtYRIx6zW_52.355995_4.900486@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"34633a02d47e48dba7228ba12a74a63c",
+    "wof:geomhash":"59899f3d3d5a23cc28a60dc50883460a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803835,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":336599693
         }
     ],
     "wof:id":336599693,
-    "wof:lastmodified":1473878419,
+    "wof:lastmodified":1492505969,
     "wof:name":"Deep",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

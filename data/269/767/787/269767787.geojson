@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.914055,52.40028,4.914055,52.40028",
     "geom:latitude":52.40028,
     "geom:longitude":4.914055,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803359,
+        1108802935,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_0RQvNEMYfI6nk5EGeG8P1R_52.400280_4.914055@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fc23c35ef29c3bc20e9a9cd8639e6a50",
+    "wof:geomhash":"d86047f730199fb70e0ed58b7c16f4d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803359,
+            "neighbourhood_id":1108802935,
             "region_id":85687053,
             "venue_id":269767787
         }
     ],
     "wof:id":269767787,
-    "wof:lastmodified":1473879407,
+    "wof:lastmodified":1492495488,
     "wof:name":"M.L. Baatsen",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803359,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

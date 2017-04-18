@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.847314,52.393944,4.847314,52.393944",
     "geom:latitude":52.393944,
     "geom:longitude":4.847314,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.boels.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803313,
+        1108802535,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_02kDSBu4d6U9gKzb8rntYP_52.393944_4.847314@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e3c45c6e3529e6adb4625831893d5bcd",
+    "wof:geomhash":"1bd9f91a5800d9fcd41e29d0dd77958b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803313,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":202555429
         }
     ],
     "wof:id":202555429,
-    "wof:lastmodified":1473878918,
+    "wof:lastmodified":1492498847,
     "wof:name":"Boels Amsterdam-West",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

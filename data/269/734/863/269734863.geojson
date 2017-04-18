@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.323092,52.081497,4.323092,52.081497",
     "geom:latitude":52.081497,
     "geom:longitude":4.323092,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808247,
+        102191581,
+        1108808123,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:brand_id":420573801,
@@ -44,21 +48,23 @@
         "sg:id":"SG_3oKt4P9PvkgEqKUpGebVtr_52.081497_4.323092@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"161e6ebe543b78256deb7b078836ecf0",
+    "wof:geomhash":"74cd821099a9d72a32c9cfb5aaf3c77c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808123,
+            "neighbourhood_id":1108808247,
             "region_id":85687041,
             "venue_id":269734863
         }
     ],
     "wof:id":269734863,
-    "wof:lastmodified":1473879364,
+    "wof:lastmodified":1492496353,
     "wof:name":"Burger King",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

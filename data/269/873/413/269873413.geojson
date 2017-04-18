@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893118,52.359631,4.893118,52.359631",
     "geom:latitude":52.359631,
     "geom:longitude":4.893118,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.boborangebicycles.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803515,
+        1108802791,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_6Hdml6eCrpxtYozuELI4rm_52.359631_4.893118@1306269959"
     },
     "wof:country":"NL",
-    "wof:geomhash":"759ea21e94648f3d827f16a314ff3b89",
+    "wof:geomhash":"98c56932cdcc465efab10b16232edc43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803515,
+            "neighbourhood_id":1108802791,
             "region_id":85687053,
             "venue_id":269873413
         }
     ],
     "wof:id":269873413,
-    "wof:lastmodified":1473879543,
+    "wof:lastmodified":1492495530,
     "wof:name":"Bob Orange Bicycles",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

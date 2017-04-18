@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0877170563,52.0860290527,5.0877170563,52.0860290527",
     "geom:latitude":52.086029,
     "geom:longitude":5.087717,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         85798153,
+        102191581,
+        85633337,
+        101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -34,17 +38,20 @@
     },
     "wof:country":"NL",
     "wof:created":1473800329,
-    "wof:geomhash":"e548944faef5ebd764aca898e914c45f",
+    "wof:geomhash":"2471d1dc222c97407ab21a434349c831",
     "wof:hierarchy":[
         {
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751827,
             "neighbourhood_id":85798153,
             "region_id":85687039,
             "venue_id":1091568005
         }
     ],
     "wof:id":1091568005,
-    "wof:lastmodified":1473878486,
+    "wof:lastmodified":1492510876,
     "wof:name":"Holland",
     "wof:parent_id":85798153,
     "wof:placetype":"venue",

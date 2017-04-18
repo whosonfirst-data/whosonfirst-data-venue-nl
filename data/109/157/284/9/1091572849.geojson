@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.5914478302,53.2453994751,6.5914478302,53.2453994751",
     "geom:latitude":53.245399,
     "geom:longitude":6.591448,
@@ -25,13 +26,13 @@
     "sg:website":"http://www.freelancewebs.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798193,
+        85798187,
         102191581,
         404473713,
         85633337,
         101751909,
         85687059,
-        85798187
+        85798193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +40,8 @@
     },
     "wof:country":"NL",
     "wof:created":1473800655,
-    "wof:geomhash":"79e1cc6928876c28078ebe502b9c6e1e",
+    "wof:geomhash":"5d4b3c4a1c68340d37d844b9d15a82d9",
     "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404473713,
-            "locality_id":101751909,
-            "neighbourhood_id":85798193,
-            "region_id":85687059,
-            "venue_id":1091572849
-        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -58,12 +50,21 @@
             "neighbourhood_id":85798187,
             "region_id":85687059,
             "venue_id":1091572849
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473713,
+            "locality_id":101751909,
+            "neighbourhood_id":85798193,
+            "region_id":85687059,
+            "venue_id":1091572849
         }
     ],
     "wof:id":1091572849,
-    "wof:lastmodified":1473878658,
+    "wof:lastmodified":1492511025,
     "wof:name":"Freelance",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

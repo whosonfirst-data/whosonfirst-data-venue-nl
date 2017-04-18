@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.914771,52.389652,4.914771,52.389652",
     "geom:latitude":52.389652,
     "geom:longitude":4.914771,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803703,
+        1108802935,
+        102191581,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_3MZYRJSNC9ihqUEtVukvAe_52.389652_4.914771@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b802e4f784e9b288276260e961efdbee",
+    "wof:geomhash":"a2160f7ef2af38f68d1f6d15c23bb501",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803703,
+            "neighbourhood_id":1108802935,
             "region_id":85687053,
             "venue_id":320590453
         }
     ],
     "wof:id":320590453,
-    "wof:lastmodified":1473879415,
+    "wof:lastmodified":1492483101,
     "wof:name":"Efem",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803703,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

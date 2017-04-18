@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.910644,52.356396,4.910644,52.356396",
     "geom:latitude":52.356396,
     "geom:longitude":4.910644,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803889,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_01MulpQvONs6RmzACMeLlZ_52.356396_4.910644@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c1d427d21f359aaf68894bcea2c70a47",
+    "wof:geomhash":"311070f97e371eb1c48b89ca1130d76e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803889,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":269734975
         }
     ],
     "wof:id":269734975,
-    "wof:lastmodified":1473879365,
+    "wof:lastmodified":1492496353,
     "wof:name":"Cafe Koffiehuis De Viersprong",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

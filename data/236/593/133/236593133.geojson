@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.314547,52.063301,4.314547,52.063301",
     "geom:latitude":52.063301,
     "geom:longitude":4.314547,
@@ -24,31 +25,49 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808309,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mYWOVeMnNqBNIHMrN6W7a_52.063301_4.314547@1306269939"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a265788c9c9e7de125590cd6fb6e7480",
+    "wof:geomhash":"d46e9ad6a0d4237574db8cc9f0fcf703",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808309,
+            "region_id":85687041,
+            "venue_id":236593133
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808309,
             "region_id":85687041,
             "venue_id":236593133
         }
     ],
     "wof:id":236593133,
-    "wof:lastmodified":1473879432,
+    "wof:lastmodified":1492492985,
     "wof:name":"Hand Ond P Piekhaar",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

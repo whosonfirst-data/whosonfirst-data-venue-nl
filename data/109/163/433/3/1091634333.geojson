@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.7439851761,53.3327598572,6.7439851761,53.3327598572",
     "geom:latitude":53.33276,
     "geom:longitude":6.743985,
@@ -23,17 +24,32 @@
     "sg:postcode":"9919 AL",
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473723,
+        85633337,
+        101806201
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hhV8SwzIdb2t2yDJatOw0_53.332760_6.743985@1306270020"
     },
     "wof:country":"NL",
     "wof:created":1473804827,
-    "wof:geomhash":"bf9e2de5812defca93ab570fff08dec1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"065f37be7a1540930e7c4b848247b790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473723,
+            "locality_id":101806201,
+            "region_id":85687059,
+            "venue_id":1091634333
+        }
+    ],
     "wof:id":1091634333,
-    "wof:lastmodified":1473878584,
+    "wof:lastmodified":1492509918,
     "wof:name":"Kapsalon De Smidse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

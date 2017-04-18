@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.097833,52.089817,5.097833,52.089817",
     "geom:latitude":52.089817,
     "geom:longitude":5.097833,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808791,
+        102191581,
+        1108808651,
         85633337,
         101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3ZtkEULNM6HCYAW4zr3BYj_52.089817_5.097833@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ae1cfe98881d6f96d8710d4dbf0256a3",
+    "wof:geomhash":"ff1f589d60eae15a3f42b9f9a0bfe710",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808651,
+            "neighbourhood_id":1108808791,
             "region_id":85687039,
             "venue_id":270203041
         }
     ],
     "wof:id":270203041,
-    "wof:lastmodified":1473878838,
+    "wof:lastmodified":1492499764,
     "wof:name":"Thiel, M Van",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

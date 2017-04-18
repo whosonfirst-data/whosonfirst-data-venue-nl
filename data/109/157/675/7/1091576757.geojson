@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.2898931503,52.2519416809,6.2898931503,52.2519416809",
     "geom:latitude":52.251942,
     "geom:longitude":6.289893,
@@ -33,17 +34,32 @@
         "week-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473825,
+        85633337,
+        101807137
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fjawszOlGgZMN64wYjgfZ_52.251942_6.289893@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800883,
-    "wof:geomhash":"0b14d079e6e918d3fff83178553403d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c67181bf97a9445279dedbc9e05fafb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473825,
+            "locality_id":101807137,
+            "region_id":85687045,
+            "venue_id":1091576757
+        }
+    ],
     "wof:id":1091576757,
-    "wof:lastmodified":1473878919,
+    "wof:lastmodified":1492511092,
     "wof:name":"Nieuwe Bathmense Krant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

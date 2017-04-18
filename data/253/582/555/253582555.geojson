@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.090441,52.10479,5.090441,52.10479",
     "geom:latitude":52.10479,
     "geom:longitude":5.090441,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808759,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_3Yt0F5m2MNTq2pggYOLMPa_52.104790_5.090441@1306269951"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9c3ced9119bb758b1909e6d3117a5f9d",
+    "wof:geomhash":"87e1631ba8ce92c7e2aa9fbf1d04e0f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808759,
             "region_id":85687039,
             "venue_id":253582555
         }
     ],
     "wof:id":253582555,
-    "wof:lastmodified":1473879702,
+    "wof:lastmodified":1492490279,
     "wof:name":"Vermeulen, Milu",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

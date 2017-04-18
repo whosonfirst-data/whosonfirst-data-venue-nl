@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6652741432,52.1373214722,4.6652741432,52.1373214722",
     "geom:latitude":52.137321,
     "geom:longitude":4.665274,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.in-tel.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474147,
+        85633337,
+        101751837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gQ0N6nFwr4URPQ95nCWLK_52.137321_4.665274@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800819,
-    "wof:geomhash":"08397f8d2f98acda2ce00283663b0459",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a76faff928bff7c7af05d1a4300c66d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474147,
+            "locality_id":101751837,
+            "region_id":85687041,
+            "venue_id":1091575343
+        }
+    ],
     "wof:id":1091575343,
-    "wof:lastmodified":1473878868,
+    "wof:lastmodified":1492511413,
     "wof:name":"Tel, In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

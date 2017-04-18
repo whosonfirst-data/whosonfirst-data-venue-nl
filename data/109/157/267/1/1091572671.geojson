@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8163042068,50.9080543518,5.8163042068,50.9080543518",
     "geom:latitude":50.908054,
     "geom:longitude":5.816304,
@@ -24,17 +25,30 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.ergonics.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474509,
+        85633337,
+        85687033
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Po1X7i2WZTADhVALjgykw_50.908054_5.816304@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800644,
-    "wof:geomhash":"77a71fc387cce85ccee57308d2cab01f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83df24ef53dbcdf79dbd34cceb4b3665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474509,
+            "region_id":85687033,
+            "venue_id":1091572671
+        }
+    ],
     "wof:id":1091572671,
-    "wof:lastmodified":1473878647,
+    "wof:lastmodified":1492511226,
     "wof:name":"Ergonics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

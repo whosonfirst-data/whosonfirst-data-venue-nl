@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.262135,52.071259,4.262135,52.071259",
     "geom:latitude":52.071259,
     "geom:longitude":4.262135,
@@ -25,39 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859585,
+        102191581,
+        1108808133,
         85633337,
         101752763,
-        85687041,
-        85859605
+        1108808043,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BDL0d1FD7qmEnTIWA97JO_52.071259_4.262135@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e1f602707860de481210a9b5058292eb",
+    "wof:geomhash":"012fcb976be947f3e5a86f2c0c7861ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808133,
             "neighbourhood_id":85859585,
-            "region_id":85687041,
-            "venue_id":270047597
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101752763,
-            "neighbourhood_id":85859605,
             "region_id":85687041,
             "venue_id":270047597
         }
     ],
     "wof:id":270047597,
-    "wof:lastmodified":1473878487,
+    "wof:lastmodified":1492500279,
     "wof:name":"Fitness-85",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

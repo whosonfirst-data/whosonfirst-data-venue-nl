@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.249807,52.066669,4.249807,52.066669",
     "geom:latitude":52.066669,
     "geom:longitude":4.249807,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.yucco.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797811,
+        85859585,
+        102191581,
+        1108808133,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_0eR6OMGRR1QrsAcIWvax5P_52.066669_4.249807@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"01ececcab2254d55610bc26cec1a66ef",
+    "wof:geomhash":"068bdc03ec4086e483a63491f6542483",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797811,
+            "macrohood_id":1108808133,
+            "neighbourhood_id":85859585,
             "region_id":85687041,
             "venue_id":320502839
         }
     ],
     "wof:id":320502839,
-    "wof:lastmodified":1473879336,
+    "wof:lastmodified":1492481864,
     "wof:name":"Yucco",
-    "wof:parent_id":85797811,
+    "wof:parent_id":85859585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

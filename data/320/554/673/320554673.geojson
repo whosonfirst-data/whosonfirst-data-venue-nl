@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.956282,52.392273,4.956282,52.392273",
     "geom:latitude":52.392273,
     "geom:longitude":4.956282,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803543,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_56kVbJg6blSP95TZXEfmLM_52.392273_4.956282@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"26cb5512516e0bd9561881c8c6d9aa9a",
+    "wof:geomhash":"002397651a7b7f8f15d3a6d31364652b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803543,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":320554673
         }
     ],
     "wof:id":320554673,
-    "wof:lastmodified":1473879404,
+    "wof:lastmodified":1492484723,
     "wof:name":"G.W.R. Kalop",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803543,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

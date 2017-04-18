@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.130626,52.062717,5.130626,52.062717",
     "geom:latitude":52.062717,
     "geom:longitude":5.130626,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859943,
+        1108808797,
+        102191581,
+        1108832363,
         85633337,
+        101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_2lgMHYG6Z6pu9SdabWJU8I_52.062717_5.130626@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3a7db72b41944120e2a4d431a5a91a34",
+    "wof:geomhash":"fda25c26037bcf8610515ca9652e204d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859943,
+            "locality_id":101751827,
+            "macrohood_id":1108832363,
+            "neighbourhood_id":1108808797,
             "region_id":85687039,
             "venue_id":303698897
         }
     ],
     "wof:id":303698897,
-    "wof:lastmodified":1473879465,
+    "wof:lastmodified":1492470357,
     "wof:name":"Lepoutre",
-    "wof:parent_id":85859943,
+    "wof:parent_id":1108808797,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

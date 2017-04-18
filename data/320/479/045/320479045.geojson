@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.900482,52.37466,4.900482,52.37466",
     "geom:latitude":52.37466,
     "geom:longitude":4.900482,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804101,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3l5APb2MsKzWQ13jOzYEEL_52.374660_4.900482@1306269998"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1d49d4aa28ddf08f63355fc015e1be91",
+    "wof:geomhash":"63eea610987d211cac075e6c79412fbb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804101,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":320479045
         }
     ],
     "wof:id":320479045,
-    "wof:lastmodified":1473879324,
+    "wof:lastmodified":1492482150,
     "wof:name":"Goal",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

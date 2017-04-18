@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.889104,52.369396,4.889104,52.369396",
     "geom:latitude":52.369396,
     "geom:longitude":4.889104,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803247,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0opyQ8e9YmPAMaNL1rUe3c_52.369396_4.889104@1306269971"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6c78fa3ebf3159743e3a80e9112da160",
+    "wof:geomhash":"af5298c89a8e8505310b3033dd496313",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803247,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":286631195
         }
     ],
     "wof:id":286631195,
-    "wof:lastmodified":1473879278,
+    "wof:lastmodified":1492475310,
     "wof:name":"Holland Ambassador Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

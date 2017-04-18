@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.851667,52.354733,4.851667,52.354733",
     "geom:latitude":52.354733,
     "geom:longitude":4.851667,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803385,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3nZSnPGaeIjLU4dE44UYyK_52.354733_4.851667@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"907c48b1bf4bf983618037c6e77d0ac2",
+    "wof:geomhash":"abc152423125d24597e4541fbe833d7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803385,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":270147029
         }
     ],
     "wof:id":270147029,
-    "wof:lastmodified":1473878654,
+    "wof:lastmodified":1492500761,
     "wof:name":"Anne Marie Trovato",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

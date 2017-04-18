@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.915673,52.356899,4.915673,52.356899",
     "geom:latitude":52.356899,
     "geom:longitude":4.915673,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803403,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3wZRTae9F5I73LcszPVe3g_52.356899_4.915673@1306269984"
     },
     "wof:country":"NL",
-    "wof:geomhash":"33ad7e84b2d4463d47730fd29b709388",
+    "wof:geomhash":"d51fb5d36fcb4a243cb60e85696bb986",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803403,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":303462975
         }
     ],
     "wof:id":303462975,
-    "wof:lastmodified":1473879203,
+    "wof:lastmodified":1492471592,
     "wof:name":"Armanda Van Den Engh",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803403,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

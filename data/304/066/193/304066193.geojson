@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.091122,52.11182,5.091122,52.11182",
     "geom:latitude":52.11182,
     "geom:longitude":5.091122,
@@ -29,9 +30,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808857,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_0zQUOuxhgvgYSiBS7n6oEP_52.111820_5.091122@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b418a158f3c8e853ed74ad68264d0c64",
+    "wof:geomhash":"4445532240d962ef46a84c700eb075ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808857,
             "region_id":85687039,
             "venue_id":304066193
         }
     ],
     "wof:id":304066193,
-    "wof:lastmodified":1473878757,
+    "wof:lastmodified":1492504621,
     "wof:name":"Holland Lodge",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808857,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

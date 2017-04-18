@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878682,52.378559,4.878682,52.378559",
     "geom:latitude":52.378559,
     "geom:longitude":4.878682,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803815,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2mCb6FCVnP8nVD0g2saUBv_52.378559_4.878682@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"85b858e2011157fb2ce60468904f19b4",
+    "wof:geomhash":"917c83317b0666e7dd45b8384ff9f235",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803815,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":186098415
         }
     ],
     "wof:id":186098415,
-    "wof:lastmodified":1473878938,
+    "wof:lastmodified":1492509135,
     "wof:name":"Asi",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803815,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

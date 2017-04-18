@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.01655,52.305721,5.01655,52.305721",
     "geom:latitude":52.305721,
     "geom:longitude":5.01655,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803641,
+        1108802795,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_1wFDwXpyYdzfJsoY529SEF_52.305721_5.016550@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"916ec1393cf3ac4d66d95349755a48eb",
+    "wof:geomhash":"78c9454455bf2fec43d93866ad3e6d69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803641,
+            "neighbourhood_id":1108802795,
             "region_id":85687053,
             "venue_id":320094157
         }
     ],
     "wof:id":320094157,
-    "wof:lastmodified":1473878783,
+    "wof:lastmodified":1492482159,
     "wof:name":"Niesing Bv",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

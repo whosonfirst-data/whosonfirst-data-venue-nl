@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.919681,52.354916,4.919681,52.354916",
     "geom:latitude":52.354916,
     "geom:longitude":4.919681,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803773,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5Si1VnwXQ9Xg4t79Hc9NW8_52.354916_4.919681@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d41db7ad1562511876831f98e45acfed",
+    "wof:geomhash":"19361c8c8916759b65f6f14be3984cfa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803773,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":186431915
         }
     ],
     "wof:id":186431915,
-    "wof:lastmodified":1473879426,
+    "wof:lastmodified":1492507938,
     "wof:name":"Krugerhof",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.22476,52.067989,4.22476,52.067989",
     "geom:latitude":52.067989,
     "geom:longitude":4.22476,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797143,
+        85797811,
+        102191581,
+        1108808099,
         85633337,
+        101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_0Q6GxMpOtrxbKrhF7JbaZY_52.067989_4.224760@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e9bf8677a5cb06a38044e6559c832590",
+    "wof:geomhash":"61e7991a805937a5673373c2d4d59ac8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797143,
+            "locality_id":101752763,
+            "macrohood_id":1108808099,
+            "neighbourhood_id":85797811,
             "region_id":85687041,
             "venue_id":320832265
         }
     ],
     "wof:id":320832265,
-    "wof:lastmodified":1473879637,
+    "wof:lastmodified":1492484786,
     "wof:name":"Huisman, Mr D",
-    "wof:parent_id":85797143,
+    "wof:parent_id":85797811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

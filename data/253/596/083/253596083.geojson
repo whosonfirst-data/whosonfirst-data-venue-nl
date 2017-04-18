@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.903599,52.363949,4.903599,52.363949",
     "geom:latitude":52.363949,
     "geom:longitude":4.903599,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.financieelcompleet.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803643,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_32EipGWNf4To5MWUhbtGnU_52.363949_4.903599@1306269951"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8a3c2e99f689d375ffc440833c5e9ee1",
+    "wof:geomhash":"f8a0b74b04905f6ae42c7fd604cc9771",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803643,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":253596083
         }
     ],
     "wof:id":253596083,
-    "wof:lastmodified":1473879681,
+    "wof:lastmodified":1492490114,
     "wof:name":"Financieel Compleet",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

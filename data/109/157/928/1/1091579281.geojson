@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9024271965,52.4070663452,4.9024271965,52.4070663452",
     "geom:latitude":52.407066,
     "geom:longitude":4.902427,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
+        1108804179,
         85798523,
+        102191581,
+        85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,19 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473801162,
-    "wof:geomhash":"27fbae20b5c4045199e3b9f8f5ed18c9",
+    "wof:geomhash":"442d205366214864a750e28dca88875b",
     "wof:hierarchy":[
         {
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1108804179,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":1091579281
         }
     ],
     "wof:id":1091579281,
-    "wof:lastmodified":1473879049,
+    "wof:lastmodified":1492511179,
     "wof:name":"Reef Wegenbouw Bv Regio West",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108804179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

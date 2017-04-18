@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4282188416,51.933139801,4.4282188416,51.933139801",
     "geom:latitude":51.93314,
     "geom:longitude":4.428219,
@@ -24,14 +25,13 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798219,
+        1108805669,
+        1108805799,
         102191581,
-        404474245,
         85633337,
-        101753095,
-        85687041,
-        85859761,
-        101751843
+        101751843,
+        1108805713,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,31 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473799073,
-    "wof:geomhash":"a57cbbf2bdd39975f72e3c57ac0f391d",
+    "wof:geomhash":"c9bd1fdccec6f63c9f6e5a6cd28dd6d9",
     "wof:hierarchy":[
         {
+            "borough_id":1108805713,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474245,
-            "locality_id":101753095,
-            "neighbourhood_id":85798219,
-            "region_id":85687041,
-            "venue_id":1075818995
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474245,
             "locality_id":101751843,
-            "neighbourhood_id":85859761,
+            "microhood_id":1108805669,
+            "neighbourhood_id":1108805799,
             "region_id":85687041,
             "venue_id":1075818995
         }
     ],
     "wof:id":1075818995,
-    "wof:lastmodified":1473879128,
+    "wof:lastmodified":1492486140,
     "wof:name":"Optiek Moerkerken",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108805669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

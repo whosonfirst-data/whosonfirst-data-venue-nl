@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.920089,52.358116,4.920089,52.358116",
     "geom:latitude":52.358116,
     "geom:longitude":4.920089,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803833,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6p0xl6xLaCfLxs4m46FfA1_52.358116_4.920089@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9262bb759a5cffcde7f2864869300e1b",
+    "wof:geomhash":"0c73ef6777a63ac7c802aef2c08829ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803833,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":336760423
         }
     ],
     "wof:id":336760423,
-    "wof:lastmodified":1473878432,
+    "wof:lastmodified":1492506269,
     "wof:name":"Haas, Arts Dr D De",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

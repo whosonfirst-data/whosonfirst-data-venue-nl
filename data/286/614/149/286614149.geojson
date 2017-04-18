@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.22635,52.050945,4.22635,52.050945",
     "geom:latitude":52.050945,
     "geom:longitude":4.22635,
@@ -24,9 +25,13 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108833209,
         85797849,
+        102191581,
+        1108808101,
         85633337,
         101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_11KmZdpPTMGprIKzKaM3jQ_52.050945_4.226350@1306269971"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9af9939ba541ac4216f287ee80a5a7db",
+    "wof:geomhash":"28986730d270ebba031b138ee9d22a9e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808101,
+            "microhood_id":1108833209,
             "neighbourhood_id":85797849,
             "region_id":85687041,
             "venue_id":286614149
         }
     ],
     "wof:id":286614149,
-    "wof:lastmodified":1473879259,
+    "wof:lastmodified":1492475533,
     "wof:name":"Parnassia Psycho Med Centrum Verpleeghuis Dorestad",
-    "wof:parent_id":85797849,
+    "wof:parent_id":1108833209,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

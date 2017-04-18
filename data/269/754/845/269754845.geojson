@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.975861,52.295666,4.975861,52.295666",
     "geom:latitude":52.295666,
     "geom:longitude":4.975861,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803939,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_49mQFe0cH9PJdwuaaWArGB_52.295666_4.975861@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c7d0fe371b1417db54fd9c87d6dfb83b",
+    "wof:geomhash":"5ddb0fcdb2fbacdb1ba97d851c621e97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803939,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":269754845
         }
     ],
     "wof:id":269754845,
-    "wof:lastmodified":1473879385,
+    "wof:lastmodified":1492494982,
     "wof:name":"Euro Snacks",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

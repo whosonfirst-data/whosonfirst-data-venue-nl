@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.840918,52.354782,4.840918,52.354782",
     "geom:latitude":52.354782,
     "geom:longitude":4.840918,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803581,
+        1108802959,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1fUC632qqDuSG7rd9b5VfW_52.354782_4.840918@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2e1b2234c03e36be254a5c5743087ee4",
+    "wof:geomhash":"4a52777e77efeb6eaec61e0c2dc2cba3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803581,
+            "neighbourhood_id":1108802959,
             "region_id":85687053,
             "venue_id":253348293
         }
     ],
     "wof:id":253348293,
-    "wof:lastmodified":1473879421,
+    "wof:lastmodified":1492489627,
     "wof:name":"Me & Mrs Jones",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

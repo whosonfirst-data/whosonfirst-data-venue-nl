@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.886356,52.380264,4.886356,52.380264",
     "geom:latitude":52.380264,
     "geom:longitude":4.886356,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803955,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1xrcZpg9JAwr6tWJhD36i9_52.380264_4.886356@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"be898863639b8a80506df4a004ab5b10",
+    "wof:geomhash":"ee50db4d4b9aeefd2acb4e8216560621",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803955,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":286340947
         }
     ],
     "wof:id":286340947,
-    "wof:lastmodified":1473878845,
+    "wof:lastmodified":1492476524,
     "wof:name":"Assets Communicatie Management",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

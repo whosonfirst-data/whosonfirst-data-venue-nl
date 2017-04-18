@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.933526,52.365089,4.933526,52.365089",
     "geom:latitude":52.365089,
     "geom:longitude":4.933526,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.jacobs-burnier.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803435,
+        1108802845,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_29R3u1YfCuC93EeirLUpRo_52.365089_4.933526@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"14fd57da2a885a0d6a9fa9fecb3588ac",
+    "wof:geomhash":"47eb34779b45c80f7a489f972b48861e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803435,
+            "neighbourhood_id":1108802845,
             "region_id":85687053,
             "venue_id":287126265
         }
     ],
     "wof:id":287126265,
-    "wof:lastmodified":1473878880,
+    "wof:lastmodified":1492514076,
     "wof:name":"Jacobs & Burnier Archeologie",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

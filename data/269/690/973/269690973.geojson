@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.261345,52.077309,4.261345,52.077309",
     "geom:latitude":52.077309,
     "geom:longitude":4.261345,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859589,
+        1108808185,
+        102191581,
+        1108805965,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3sEbz71VyAl41NaSPiGvSF_52.077309_4.261345@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"393780851ed84164afbb1c5a7aa59c6a",
+    "wof:geomhash":"e6859edc39153fe88a861814311b6a33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859589,
+            "macrohood_id":1108805965,
+            "neighbourhood_id":1108808185,
             "region_id":85687041,
             "venue_id":269690973
         }
     ],
     "wof:id":269690973,
-    "wof:lastmodified":1473879285,
+    "wof:lastmodified":1492496348,
     "wof:name":"R.G.M. Koerhuis",
-    "wof:parent_id":85859589,
+    "wof:parent_id":1108808185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

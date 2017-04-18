@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876181,52.383904,4.876181,52.383904",
     "geom:latitude":52.383904,
     "geom:longitude":4.876181,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804219,
+        1108802915,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_15LVP2sxMB9bsnCMwgLm7d_52.383904_4.876181@1306269992"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0bc0ea5ca14b7ba0320fa77cb3573093",
+    "wof:geomhash":"1a2c7f051fb4ff42f758e74620dd7edf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108804219,
+            "neighbourhood_id":1108802915,
             "region_id":85687053,
             "venue_id":319908111
         }
     ],
     "wof:id":319908111,
-    "wof:lastmodified":1473878821,
+    "wof:lastmodified":1492479015,
     "wof:name":"All-Sound",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.889297,52.412117,4.889297,52.412117",
     "geom:latitude":52.412117,
     "geom:longitude":4.889297,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803211,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_16E5VDnf7RGYN0ow1FEcRd_52.412117_4.889297@1306269997"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9b9d27548c1d3e928800d4fbf74b38f3",
+    "wof:geomhash":"ffe86bfad0b1d7b28eb8ddd0685a807a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803211,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":320291531
         }
     ],
     "wof:id":320291531,
-    "wof:lastmodified":1473879148,
+    "wof:lastmodified":1492483623,
     "wof:name":"Kozijntje, Het",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

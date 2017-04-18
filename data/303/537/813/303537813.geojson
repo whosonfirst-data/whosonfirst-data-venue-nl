@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.104311,52.122826,5.104311,52.122826",
     "geom:latitude":52.122826,
     "geom:longitude":5.104311,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798231,
+        1108808877,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_72wZW7eGugYGLsHZm7pD56_52.122826_5.104311@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"989f458e7462acd3ce5ce3f0224092cc",
+    "wof:geomhash":"6c9cfbc6f830937439e9c5d200fa5c39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798231,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808877,
             "region_id":85687039,
             "venue_id":303537813
         }
     ],
     "wof:id":303537813,
-    "wof:lastmodified":1473879304,
+    "wof:lastmodified":1492474704,
     "wof:name":"Bright & Shine",
-    "wof:parent_id":85798231,
+    "wof:parent_id":1108808877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

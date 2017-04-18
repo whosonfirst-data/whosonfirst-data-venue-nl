@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5636129379,51.957988739,5.5636129379,51.957988739",
     "geom:latitude":51.957989,
     "geom:longitude":5.563613,
@@ -23,17 +24,32 @@
     "sg:postcode":"3911 LA",
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474003,
+        85633337,
+        101809835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ov7cWilY2f3gI592TezP1_51.957989_5.563613@1306270014"
     },
     "wof:country":"NL",
     "wof:created":1473801746,
-    "wof:geomhash":"464dfe9e7559fc5d8707eb67716366ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2941509d1453e32d49e0e6791baa588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474003,
+            "locality_id":101809835,
+            "region_id":85687039,
+            "venue_id":1091586863
+        }
+    ],
     "wof:id":1091586863,
-    "wof:lastmodified":1473878884,
+    "wof:lastmodified":1492511523,
     "wof:name":"Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

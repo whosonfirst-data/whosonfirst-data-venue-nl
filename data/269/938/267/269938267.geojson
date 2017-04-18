@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.329234,52.062859,4.329234,52.062859",
     "geom:latitude":52.062859,
     "geom:longitude":4.329234,
@@ -24,31 +25,49 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808317,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eGX4cejf2Gkbz7wWPYH58_52.062859_4.329234@1306269959"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2bcaac3b0962de59250613e5b6c09f95",
+    "wof:geomhash":"69bba646036df957d36e2bd6c2ab662a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808317,
+            "region_id":85687041,
+            "venue_id":269938267
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808317,
             "region_id":85687041,
             "venue_id":269938267
         }
     ],
     "wof:id":269938267,
-    "wof:lastmodified":1473879560,
+    "wof:lastmodified":1492494809,
     "wof:name":"Wielershop Rinus",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

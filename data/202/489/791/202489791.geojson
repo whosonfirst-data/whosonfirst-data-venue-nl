@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.242184,52.045517,4.242184,52.045517",
     "geom:latitude":52.045517,
     "geom:longitude":4.242184,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.depadas.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859581,
+        85859571,
+        102191581,
+        1108805971,
         85633337,
         101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_56Srrm9Bw4fllmp9xxRsbM_52.045517_4.242184@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6af244f812d1ad3006ac0343050f807f",
+    "wof:geomhash":"81dd63cab17ca9d72aaf3e2c9bc688e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859581,
+            "macrohood_id":1108805971,
+            "neighbourhood_id":85859571,
             "region_id":85687041,
             "venue_id":202489791
         }
     ],
     "wof:id":202489791,
-    "wof:lastmodified":1473878788,
+    "wof:lastmodified":1492498089,
     "wof:name":"Depa Attractie Verhuur",
-    "wof:parent_id":85859581,
+    "wof:parent_id":85859571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

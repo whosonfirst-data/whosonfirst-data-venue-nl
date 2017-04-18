@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.852008,52.383698,4.852008,52.383698",
     "geom:latitude":52.383698,
     "geom:longitude":4.852008,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803867,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_7PaNID5YbFOUBDONTKeV2L_52.383698_4.852008@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2bae159c37f5c8bd803a3f67a31fd8c4",
+    "wof:geomhash":"64e019dfbcb7338e9c8718648a3ef019",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803867,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":320550321
         }
     ],
     "wof:id":320550321,
-    "wof:lastmodified":1473879396,
+    "wof:lastmodified":1492483337,
     "wof:name":"Dulda Market",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803867,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

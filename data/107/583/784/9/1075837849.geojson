@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0007929802,52.2407951355,5.0007929802,52.2407951355",
     "geom:latitude":52.240795,
     "geom:longitude":5.000793,
@@ -24,17 +25,30 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.hendriksestomerijen.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404473969,
+        85633337,
+        85687039
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qkYX0kMfis7SnyTX0eQ3o_52.240795_5.000793@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800228,
-    "wof:geomhash":"d37e927b9755959c8a05afacdc80cf82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46633d366f4d8a2a812a34a9d9b32d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473969,
+            "region_id":85687039,
+            "venue_id":1075837849
+        }
+    ],
     "wof:id":1075837849,
-    "wof:lastmodified":1473879498,
+    "wof:lastmodified":1492485825,
     "wof:name":"Stomerij Hendrikse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

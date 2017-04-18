@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.552136898,51.9626502991,4.552136898,51.9626502991",
     "geom:latitude":51.96265,
     "geom:longitude":4.552137,
@@ -26,10 +27,12 @@
     "wof:belongsto":[
         85798149,
         102191581,
-        404474163,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,9 +40,19 @@
     },
     "wof:country":"NL",
     "wof:created":1473799007,
-    "wof:geomhash":"06f8232578a1c1f9d684d5c7f9d07f17",
+    "wof:geomhash":"c44b27541cac1afeed1295039dbeb7a4",
     "wof:hierarchy":[
         {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":1075817797
+        },
+        {
+            "borough_id":1108805725,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474163,
@@ -50,7 +63,7 @@
         }
     ],
     "wof:id":1075817797,
-    "wof:lastmodified":1473879099,
+    "wof:lastmodified":1492486471,
     "wof:name":"Huis Rinck, Het",
     "wof:parent_id":85798149,
     "wof:placetype":"venue",

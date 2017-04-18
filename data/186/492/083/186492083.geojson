@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.521223,51.927029,4.521223,51.927029",
     "geom:latitude":51.927029,
     "geom:longitude":4.521223,
@@ -25,9 +26,12 @@
     "sg:website":"http://home.wxs.nl/~rcc.kayak/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805803,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_0LWAoagOp1P3yfu2Y68dY9_51.927029_4.521223@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f1c44cc1207136086f1a5daaf4faaf6e",
+    "wof:geomhash":"fd289c484e2a1ed9b75b81a1d3b8b9a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805803,
             "region_id":85687041,
             "venue_id":186492083
         }
     ],
     "wof:id":186492083,
-    "wof:lastmodified":1473879502,
+    "wof:lastmodified":1492509212,
     "wof:name":"Rotterdamsche Cano Club",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

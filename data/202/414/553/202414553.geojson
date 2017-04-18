@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.827644,52.356644,4.827644,52.356644",
     "geom:latitude":52.356644,
     "geom:longitude":4.827644,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803769,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2XunGTtEJQ6BQCADYR9pJ5_52.356644_4.827644@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9ca40fd49cc11a0e3248e3465a7ee305",
+    "wof:geomhash":"667a31351346e00547a0036b32b3deac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803769,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":202414553
         }
     ],
     "wof:id":202414553,
-    "wof:lastmodified":1473878616,
+    "wof:lastmodified":1492497484,
     "wof:name":"Kwinkelenberg",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6725459099,53.4086036682,6.6725459099,53.4086036682",
     "geom:latitude":53.408604,
     "geom:longitude":6.672546,
@@ -23,17 +24,32 @@
     "sg:postcode":"9981 AL",
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404474561,
+        85633337,
+        101807513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30Iy8MiqeFUz3AQWqYy2QO_53.408604_6.672546@1306270019"
     },
     "wof:country":"NL",
     "wof:created":1473804140,
-    "wof:geomhash":"15867130b1aa69d736508f62c9baf016",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc0626fc5aa18f826994ac4a06b55b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474561,
+            "locality_id":101807513,
+            "region_id":85687059,
+            "venue_id":1091623793
+        }
+    ],
     "wof:id":1091623793,
-    "wof:lastmodified":1473878685,
+    "wof:lastmodified":1492512365,
     "wof:name":"De Kapper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.890478,52.413025,4.890478,52.413025",
     "geom:latitude":52.413025,
     "geom:longitude":4.890478,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803211,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_0vFQwoWWulbNDooOZVWp8L_52.413025_4.890478@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2ec89d84cd92534326053236e857cf00",
+    "wof:geomhash":"65dc150ab85e52ec8670bd629a3dc6a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803211,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":320561905
         }
     ],
     "wof:id":320561905,
-    "wof:lastmodified":1473879416,
+    "wof:lastmodified":1492484898,
     "wof:name":"J. Den Hertog Groente & Fruit",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

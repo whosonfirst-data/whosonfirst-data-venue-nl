@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1449661255,51.8299674988,4.1449661255,51.8299674988",
     "geom:latitude":51.829967,
     "geom:longitude":4.144966,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.roobol.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474183,
+        85633337,
+        101808501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20TZoFnRYJAafoKeHLMRyY_51.829967_4.144966@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802522,
-    "wof:geomhash":"9dde7f707c5cf74ac3345973387eb030",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48ade627201d1370c1b18be0a873905a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474183,
+            "locality_id":101808501,
+            "region_id":85687041,
+            "venue_id":1091599969
+        }
+    ],
     "wof:id":1091599969,
-    "wof:lastmodified":1473879045,
+    "wof:lastmodified":1492509456,
     "wof:name":"Roobol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

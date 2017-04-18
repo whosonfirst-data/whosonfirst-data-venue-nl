@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.27652,52.070854,4.27652,52.070854",
     "geom:latitude":52.070854,
     "geom:longitude":4.27652,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797151,
+        1108808213,
+        102191581,
+        1108808125,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_5WMkA8SUGzrlTpIR4kGjAB_52.070854_4.276520@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cde3543e8ceebe7a4c9aa3f04f88dfe1",
+    "wof:geomhash":"1290d54d6cedea622bfd23353d71ccda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797151,
+            "macrohood_id":1108808125,
+            "neighbourhood_id":1108808213,
             "region_id":85687041,
             "venue_id":320546027
         }
     ],
     "wof:id":320546027,
-    "wof:lastmodified":1473879392,
+    "wof:lastmodified":1492482455,
     "wof:name":"Baldy Continental",
-    "wof:parent_id":85797151,
+    "wof:parent_id":1108808213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.287595,52.072571,4.287595,52.072571",
     "geom:latitude":52.072571,
     "geom:longitude":4.287595,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.autopennock.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797151,
+        1108808215,
+        102191581,
+        1108808117,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_0ahVyGOcWsyFxgXTPQBYsN_52.072571_4.287595@1306269940"
     },
     "wof:country":"NL",
-    "wof:geomhash":"11bdff290b0293c9c37851be2eacd34d",
+    "wof:geomhash":"f3023011e4a139cf24c262ea6bf75172",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797151,
+            "macrohood_id":1108808117,
+            "neighbourhood_id":1108808215,
             "region_id":85687041,
             "venue_id":236740501
         }
     ],
     "wof:id":236740501,
-    "wof:lastmodified":1473879537,
+    "wof:lastmodified":1492493139,
     "wof:name":"Garage Pennock",
-    "wof:parent_id":85797151,
+    "wof:parent_id":1108808215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

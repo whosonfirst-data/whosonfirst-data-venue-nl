@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.107096,52.125443,5.107096,52.125443",
     "geom:latitude":52.125443,
     "geom:longitude":5.107096,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798231,
+        1108808877,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_0ZeoF2gxBJ3bjDIkf0UXjp_52.125443_5.107096@1306269926"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1afb0c8033d9cd3d6915044a6e8501c5",
+    "wof:geomhash":"3d76c8cbd1224ccee2139e2d8b5485bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798231,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808877,
             "region_id":85687039,
             "venue_id":219515145
         }
     ],
     "wof:id":219515145,
-    "wof:lastmodified":1473879266,
+    "wof:lastmodified":1492503101,
     "wof:name":"Aircobus",
-    "wof:parent_id":85798231,
+    "wof:parent_id":1108808877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

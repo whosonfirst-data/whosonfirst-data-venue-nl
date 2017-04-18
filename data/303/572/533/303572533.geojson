@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.90421,52.214306,6.90421,52.214306",
     "geom:latitude":52.214306,
     "geom:longitude":6.90421,
@@ -24,40 +25,41 @@
     "sg:province":"Overijssel",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798259,
         85633337,
-        101751871,
+        85797713,
         85687045,
-        85797713
+        85798259,
+        102191581,
+        404473827,
+        101751871
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ylYvnqMvk1y15gHzHUQI9_52.214306_6.904210@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"90da0344bb2bb89b0338c6c293b8461b",
+    "wof:geomhash":"bc194c91a2078e3a49090153becc7be3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751871,
-            "neighbourhood_id":85798259,
+            "neighbourhood_id":85797713,
             "region_id":85687045,
             "venue_id":303572533
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797713,
+            "localadmin_id":404473827,
+            "locality_id":101751871,
+            "neighbourhood_id":85798259,
             "region_id":85687045,
             "venue_id":303572533
         }
     ],
     "wof:id":303572533,
-    "wof:lastmodified":1473879308,
+    "wof:lastmodified":1492472599,
     "wof:name":"Wild Horses",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

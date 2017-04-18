@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8853230476,51.2515792847,5.8853230476,51.2515792847",
     "geom:latitude":51.251579,
     "geom:longitude":5.885323,
@@ -24,17 +25,30 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.intelweb.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474557,
+        85633337,
+        85687033
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08p8JpaqPsGMIKBILEHYEd_51.251579_5.885323@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800685,
-    "wof:geomhash":"e0655ee193ccd76eb100ff1eba56a497",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a20bde673dee650813425ba4f26a8026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474557,
+            "region_id":85687033,
+            "venue_id":1091573301
+        }
+    ],
     "wof:id":1091573301,
-    "wof:lastmodified":1473878700,
+    "wof:lastmodified":1492511425,
     "wof:name":"Intelweb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

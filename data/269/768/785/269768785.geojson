@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.110389,52.114773,5.110389,52.114773",
     "geom:latitude":52.114773,
     "geom:longitude":5.110389,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808929,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_5itypRzl2PiUJvqtonByyv_52.114773_5.110389@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bb885cfe9abc87e694d920d44db16359",
+    "wof:geomhash":"6239abc05de784270d5cc290843400aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808929,
             "region_id":85687039,
             "venue_id":269768785
         }
     ],
     "wof:id":269768785,
-    "wof:lastmodified":1473879407,
+    "wof:lastmodified":1492496326,
     "wof:name":"Mcdonald'S Restaurant Overvecht",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

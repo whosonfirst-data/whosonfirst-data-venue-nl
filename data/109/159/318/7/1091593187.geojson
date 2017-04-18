@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9476289749,52.7024459839,4.9476289749,52.7024459839",
     "geom:latitude":52.702446,
     "geom:longitude":4.947629,
@@ -24,17 +25,32 @@
     "sg:province":"North Holland",
     "sg:website":"http://www.vincopains.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474107,
+        85633337,
+        101837953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mAkr0f8NCYpomtO7GajR9_52.702446_4.947629@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802114,
-    "wof:geomhash":"701e5ffcf6415f86e612da4674edb631",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebd86eef7fb9d24f5656547f46fcca84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474107,
+            "locality_id":101837953,
+            "region_id":85687053,
+            "venue_id":1091593187
+        }
+    ],
     "wof:id":1091593187,
-    "wof:lastmodified":1473878644,
+    "wof:lastmodified":1492509819,
     "wof:name":"Vincopains",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

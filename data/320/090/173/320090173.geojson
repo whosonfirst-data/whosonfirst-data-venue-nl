@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.844428,52.340752,4.844428,52.340752",
     "geom:latitude":52.340752,
     "geom:longitude":4.844428,
@@ -33,9 +34,12 @@
     "sg:website":"http://www.garagebedrijfmarkus.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803509,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_25BKW6Eg80M2gNXyV0c283_52.340752_4.844428@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9ec2051a061270df4308a50608501972",
+    "wof:geomhash":"83fed03876d63179cc21a105f40d89f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803509,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":320090173
         }
     ],
     "wof:id":320090173,
-    "wof:lastmodified":1473878793,
+    "wof:lastmodified":1492483317,
     "wof:name":"Markus, J R",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

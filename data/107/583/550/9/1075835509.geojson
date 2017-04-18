@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5595469475,51.9300041199,4.5595469475,51.9300041199",
     "geom:latitude":51.930004,
     "geom:longitude":4.559547,
@@ -25,12 +26,14 @@
     "sg:website":"http://www.matro.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798375,
+        1108805861,
         102191581,
-        404474245,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,22 +41,32 @@
     },
     "wof:country":"NL",
     "wof:created":1473800083,
-    "wof:geomhash":"7a99e770aa300d407e8c5cf71edb505f",
+    "wof:geomhash":"18d9fb89d241f1b8165a6990c2017ae3",
     "wof:hierarchy":[
         {
+            "borough_id":1108805725,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474245,
-            "locality_id":101753095,
-            "neighbourhood_id":85798375,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805861,
+            "region_id":85687041,
+            "venue_id":1075835509
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805861,
             "region_id":85687041,
             "venue_id":1075835509
         }
     ],
     "wof:id":1075835509,
-    "wof:lastmodified":1473879447,
+    "wof:lastmodified":1492485685,
     "wof:name":"Matro",
-    "wof:parent_id":85798375,
+    "wof:parent_id":1108805861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

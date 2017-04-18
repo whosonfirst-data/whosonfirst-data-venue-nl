@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.886758,52.407001,4.886758,52.407001",
     "geom:latitude":52.407001,
     "geom:longitude":4.886758,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803821,
+        1108802545,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_32HtVvcoSSQkw9HoEmb7Tb_52.407001_4.886758@1306269907"
     },
     "wof:country":"NL",
-    "wof:geomhash":"defa43f1584751f7ab6eb2fbc7919f55",
+    "wof:geomhash":"b481e17d19e7067efd3710254d5ab7d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803821,
+            "neighbourhood_id":1108802545,
             "region_id":85687053,
             "venue_id":185798153
         }
     ],
     "wof:id":185798153,
-    "wof:lastmodified":1473878737,
+    "wof:lastmodified":1492487391,
     "wof:name":"John Design",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803821,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

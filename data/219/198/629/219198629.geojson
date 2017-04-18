@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88535,52.411907,4.88535,52.411907",
     "geom:latitude":52.411907,
     "geom:longitude":4.88535,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803211,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6P6VCpPAoPMqGtIm19W2KE_52.411907_4.885350@1306269924"
     },
     "wof:country":"NL",
-    "wof:geomhash":"75c7667fb9e367e7488ec18c5afc871e",
+    "wof:geomhash":"a0b0a034c617213ec8a93974617c1752",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803211,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":219198629
         }
     ],
     "wof:id":219198629,
-    "wof:lastmodified":1473878602,
+    "wof:lastmodified":1492503821,
     "wof:name":"Mth Moerman Trade House",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

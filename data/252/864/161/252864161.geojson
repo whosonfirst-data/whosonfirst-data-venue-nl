@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.082455,52.13039,5.082455,52.13039",
     "geom:latitude":52.13039,
     "geom:longitude":5.082455,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.meekersmedical.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808701,
+        102191581,
+        1108832365,
         85633337,
         101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_61RJpBXzVXcIfQ24nqdfit_52.130390_5.082455@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"795cf2d51f03ced394339b16b56df7fb",
+    "wof:geomhash":"5c2c52b0c90c69470d4b91aff284edc3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808701,
             "region_id":85687039,
             "venue_id":252864161
         }
     ],
     "wof:id":252864161,
-    "wof:lastmodified":1473878705,
+    "wof:lastmodified":1492505599,
     "wof:name":"Meekers Medical Bv",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

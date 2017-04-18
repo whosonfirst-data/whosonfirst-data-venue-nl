@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3141951561,52.0556526184,4.3141951561,52.0556526184",
     "geom:latitude":52.055653,
     "geom:longitude":4.314195,
@@ -24,12 +25,15 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798433,
+        1108808313,
         102191581,
-        404474251,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,22 +41,34 @@
     },
     "wof:country":"NL",
     "wof:created":1473804963,
-    "wof:geomhash":"0e4aac1f0706ffee00f3ad958ce420dc",
+    "wof:geomhash":"aa9f624335617152de65eb77d5579df8",
     "wof:hierarchy":[
         {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808313,
+            "region_id":85687041,
+            "venue_id":1091635921
+        },
+        {
+            "borough_id":1108808049,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85798433,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808313,
             "region_id":85687041,
             "venue_id":1091635921
         }
     ],
     "wof:id":1091635921,
-    "wof:lastmodified":1473878707,
+    "wof:lastmodified":1492510143,
     "wof:name":"Kapsalon M & M",
-    "wof:parent_id":85798433,
+    "wof:parent_id":1108808313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.968257,52.360596,4.968257,52.360596",
     "geom:latitude":52.360596,
     "geom:longitude":4.968257,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.epeek.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797433,
+        1108803329,
+        1108802965,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2l8euKvhEI3BToFvPvlfiD_52.360596_4.968257@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ea60c442a9a8f7889b9de908065c3f29",
+    "wof:geomhash":"cb37abd8ade5c321bee5672912324b5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797433,
+            "microhood_id":1108803329,
+            "neighbourhood_id":1108802965,
             "region_id":85687053,
             "venue_id":320789099
         }
     ],
     "wof:id":320789099,
-    "wof:lastmodified":1473879613,
+    "wof:lastmodified":1492482439,
     "wof:name":"E/Peek Jacht & Verkoophaven Bv",
-    "wof:parent_id":85797433,
+    "wof:parent_id":1108803329,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.493246,51.433765,5.493246,51.433765",
     "geom:latitude":51.433765,
     "geom:longitude":5.493246,
@@ -24,40 +25,41 @@
     "sg:province":"North Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797291,
         85633337,
-        101751819,
+        85798505,
         85687035,
-        85798505
+        85797291,
+        102191581,
+        404474375,
+        101751819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47kVtcQLz79rg8hmI4bpSw_51.433765_5.493246@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"874244b06f7636d7d8a5f53fdb123c4c",
+    "wof:geomhash":"10924911eac37366ed698d1080608132",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751819,
-            "neighbourhood_id":85797291,
+            "neighbourhood_id":85798505,
             "region_id":85687035,
             "venue_id":253252349
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798505,
+            "localadmin_id":404474375,
+            "locality_id":101751819,
+            "neighbourhood_id":85797291,
             "region_id":85687035,
             "venue_id":253252349
         }
     ],
     "wof:id":253252349,
-    "wof:lastmodified":1473879285,
+    "wof:lastmodified":1492490223,
     "wof:name":"Adriaans Woninginrichting Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

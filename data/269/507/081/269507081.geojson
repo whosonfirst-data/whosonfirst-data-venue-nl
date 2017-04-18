@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.86831,52.34058,4.86831,52.34058",
     "geom:latitude":52.34058,
     "geom:longitude":4.86831,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803857,
+        1108802919,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_63g40qfd2qkuuEzqS0S1Ev_52.340580_4.868310@1306269953"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2a69ca821e49149a95d894749067ae64",
+    "wof:geomhash":"83a93ebbe39cac1520052e9c3e20a3a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108803857,
+            "neighbourhood_id":1108802919,
             "region_id":85687053,
             "venue_id":269507081
         }
     ],
     "wof:id":269507081,
-    "wof:lastmodified":1473878585,
+    "wof:lastmodified":1492496673,
     "wof:name":"Rijksrecherche Amsterdam",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803857,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

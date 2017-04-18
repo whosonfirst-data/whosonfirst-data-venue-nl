@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879922,52.378296,4.879922,52.378296",
     "geom:latitude":52.378296,
     "geom:longitude":4.879922,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803955,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0xRhqNN6tgck067WDzLeDt_52.378296_4.879922@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ef56eacf914c2991d7c5d7fc0c923c6b",
+    "wof:geomhash":"fc5f32f73604bba89fa327fb0074c0ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803955,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":270256875
         }
     ],
     "wof:id":270256875,
-    "wof:lastmodified":1473878973,
+    "wof:lastmodified":1492499535,
     "wof:name":"Studio 101",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

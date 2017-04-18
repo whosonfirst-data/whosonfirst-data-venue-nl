@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.260355,52.051201,4.260355,52.051201",
     "geom:latitude":52.051201,
     "geom:longitude":4.260355,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798043,
+        85859581,
+        102191581,
+        1108805971,
         85633337,
         101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5MUQRAG4JmDztKHqSjGaz8_52.051201_4.260355@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7c529ed1084063037c26d0ea454444bf",
+    "wof:geomhash":"16f80e40c7b97a5281baa2271793b17e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798043,
+            "macrohood_id":1108805971,
+            "neighbourhood_id":85859581,
             "region_id":85687041,
             "venue_id":303665419
         }
     ],
     "wof:id":303665419,
-    "wof:lastmodified":1473879431,
+    "wof:lastmodified":1492473236,
     "wof:name":"Supreme House",
-    "wof:parent_id":85798043,
+    "wof:parent_id":85859581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

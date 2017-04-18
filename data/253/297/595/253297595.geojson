@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.362373,51.870449,4.362373,51.870449",
     "geom:latitude":51.870449,
     "geom:longitude":4.362373,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798213,
+        1108806099,
+        1108805795,
+        102191581,
         85633337,
-        101754659,
+        101751843,
+        1108805727,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1aAPHALPLbq3ULME1OMgp0_51.870449_4.362373@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f11f3ef0b4f2d27fe7d7dc18e2a7a962",
+    "wof:geomhash":"5e1bcd84a4e8b98a7daafa64681a8b80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805727,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754659,
-            "neighbourhood_id":85798213,
+            "locality_id":101751843,
+            "microhood_id":1108806099,
+            "neighbourhood_id":1108805795,
             "region_id":85687041,
             "venue_id":253297595
         }
     ],
     "wof:id":253297595,
-    "wof:lastmodified":1473879388,
+    "wof:lastmodified":1492490929,
     "wof:name":"Meubelcentrum Hoogvliet",
-    "wof:parent_id":85798213,
+    "wof:parent_id":1108806099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

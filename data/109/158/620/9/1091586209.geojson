@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0006361008,53.3286972046,6.0006361008,53.3286972046",
     "geom:latitude":53.328697,
     "geom:longitude":6.000636,
@@ -23,17 +24,32 @@
     "sg:postcode":"9101 JL",
     "sg:province":"Provincie Friesland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687055,
+        102191581,
+        404473755,
+        85633337,
+        101806131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gAeZ1xI1OBnguEXWC094M_53.328697_6.000636@1306270014"
     },
     "wof:country":"NL",
     "wof:created":1473801714,
-    "wof:geomhash":"e478fd8262aeec6dfa5de220cc8610cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b7eb6091a1ff19b259ad97372809985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473755,
+            "locality_id":101806131,
+            "region_id":85687055,
+            "venue_id":1091586209
+        }
+    ],
     "wof:id":1091586209,
-    "wof:lastmodified":1473878839,
+    "wof:lastmodified":1492511808,
     "wof:name":"Randstad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

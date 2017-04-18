@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7252058983,51.8282089233,4.7252058983,51.8282089233",
     "geom:latitude":51.828209,
     "geom:longitude":4.725206,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.heat-engineering.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474239,
+        85633337,
+        101754725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dypJQKS9vGT4u5rt8SMLA_51.828209_4.725206@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800023,
-    "wof:geomhash":"535dc61a203f455c07dec9521a424c48",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6fec961a9f8796c3a09be3194a37dc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474239,
+            "locality_id":101754725,
+            "region_id":85687041,
+            "venue_id":1075834307
+        }
+    ],
     "wof:id":1075834307,
-    "wof:lastmodified":1473879378,
+    "wof:lastmodified":1492485778,
     "wof:name":"Heat Engineering Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

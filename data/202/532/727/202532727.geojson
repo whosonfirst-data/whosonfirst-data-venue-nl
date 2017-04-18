@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.273101,52.050465,4.273101,52.050465",
     "geom:latitude":52.050465,
     "geom:longitude":4.273101,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798043,
+        1108808291,
+        102191581,
+        1108805973,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_5r21U5pTZLpjWbCtiQYZ5Z_52.050465_4.273101@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1ae1caece34ef74703faf8b65511c4eb",
+    "wof:geomhash":"63e6105cf954d701e7fe0733eb99de51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798043,
+            "macrohood_id":1108805973,
+            "neighbourhood_id":1108808291,
             "region_id":85687041,
             "venue_id":202532727
         }
     ],
     "wof:id":202532727,
-    "wof:lastmodified":1473878873,
+    "wof:lastmodified":1492498267,
     "wof:name":"Videoland",
-    "wof:parent_id":85798043,
+    "wof:parent_id":1108808291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

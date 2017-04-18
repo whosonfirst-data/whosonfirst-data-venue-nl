@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.86893,52.332062,4.86893,52.332062",
     "geom:latitude":52.332062,
     "geom:longitude":4.86893,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804091,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4kJzb5S4xegVaS9ndKHCRB_52.332062_4.868930@1306269935"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6ef6e5f2d14471ac3b6569d6aada4b53",
+    "wof:geomhash":"dca3a39a5b9bf36ef875a20a74259ab7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804091,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":236152545
         }
     ],
     "wof:id":236152545,
-    "wof:lastmodified":1473878869,
+    "wof:lastmodified":1492494543,
     "wof:name":"Mlb Diamonds Bv",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

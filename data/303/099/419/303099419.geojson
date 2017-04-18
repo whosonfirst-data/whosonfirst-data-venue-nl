@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.494843,51.943031,4.494843,51.943031",
     "geom:latitude":51.943031,
     "geom:longitude":4.494843,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859871,
+        1108805825,
+        102191581,
+        1108805657,
         85633337,
-        101753095,
+        101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_24EX2tWpoLyFOGHhnbCBYj_51.943031_4.494843@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ec7747dd46833fe230009374f8da963c",
+    "wof:geomhash":"a70255dd408df9a25662d1b718cdbf5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859871,
+            "locality_id":101751843,
+            "macrohood_id":1108805657,
+            "neighbourhood_id":1108805825,
             "region_id":85687041,
             "venue_id":303099419
         }
     ],
     "wof:id":303099419,
-    "wof:lastmodified":1473878668,
+    "wof:lastmodified":1492474924,
     "wof:name":"T. Mulder Rotterdam Bv",
-    "wof:parent_id":85859871,
+    "wof:parent_id":1108805825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

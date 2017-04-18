@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.889693,52.380184,4.889693,52.380184",
     "geom:latitude":52.380184,
     "geom:longitude":4.889693,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803261,
+        1108802819,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3V6fQyR3KGeeX65qKVCwR2_52.380184_4.889693@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"18b8a4c17ea8ee44b9b34040a57c0504",
+    "wof:geomhash":"6f0747db8226967d42a9f8d75d31de1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803261,
+            "neighbourhood_id":1108802819,
             "region_id":85687053,
             "venue_id":286380753
         }
     ],
     "wof:id":286380753,
-    "wof:lastmodified":1473878920,
+    "wof:lastmodified":1492475926,
     "wof:name":"E. Schreuder Goedheijt",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

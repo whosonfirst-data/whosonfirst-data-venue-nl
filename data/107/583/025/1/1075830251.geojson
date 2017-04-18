@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5408930779,52.0720825195,5.5408930779,52.0720825195",
     "geom:latitude":52.072083,
     "geom:longitude":5.540893,
@@ -23,17 +24,32 @@
     "sg:postcode":"3927 BL",
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474001,
+        85633337,
+        101808439
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06gtoyNV8cbpMwLWsDDXLg_52.072083_5.540893@1306270010"
     },
     "wof:country":"NL",
     "wof:created":1473799807,
-    "wof:geomhash":"de338ae4c83f11bb992987a317521186",
-    "wof:hierarchy":[],
+    "wof:geomhash":"01640ce29f9d1de13b19a63ef5440758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474001,
+            "locality_id":101808439,
+            "region_id":85687039,
+            "venue_id":1075830251
+        }
+    ],
     "wof:id":1075830251,
-    "wof:lastmodified":1473879221,
+    "wof:lastmodified":1492485749,
     "wof:name":"Rehoboth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

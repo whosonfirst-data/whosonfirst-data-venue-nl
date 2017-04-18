@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.917621,52.356976,4.917621,52.356976",
     "geom:latitude":52.356976,
     "geom:longitude":4.917621,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803403,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_31kKS3Sh7Wh1nci9H487cX_52.356976_4.917621@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1e21509bfb5e6b451c502b83ceac6fab",
+    "wof:geomhash":"3129f7e9ea5a274b4cfcd58bb0d61e6f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803403,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":303120545
         }
     ],
     "wof:id":303120545,
-    "wof:lastmodified":1473878706,
+    "wof:lastmodified":1492470424,
     "wof:name":"L J Vd Wurf",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803403,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

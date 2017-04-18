@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.875616,52.343647,4.875616,52.343647",
     "geom:latitude":52.343647,
     "geom:longitude":4.875616,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803943,
+        1108802919,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3rSQeoqsWs8UbxHWTAQVIk_52.343647_4.875616@1306269933"
     },
     "wof:country":"NL",
-    "wof:geomhash":"240c31fea047092f01c88760e8bbaba0",
+    "wof:geomhash":"5e9b96edd613481a2d6089b90de67763",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108803943,
+            "neighbourhood_id":1108802919,
             "region_id":85687053,
             "venue_id":235959281
         }
     ],
     "wof:id":235959281,
-    "wof:lastmodified":1473878550,
+    "wof:lastmodified":1492514607,
     "wof:name":"Croiset, G",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.913716,52.342175,4.913716,52.342175",
     "geom:latitude":52.342175,
     "geom:longitude":4.913716,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.drsmakelaars.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803527,
+        1108802895,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_1ed3w0UTLbDXt1ciWrLOH1_52.342175_4.913716@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"63f9478e39c78ddd195dc9f9d77b7c07",
+    "wof:geomhash":"09fa0fb392dda6dd476af6e627e03497",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803527,
+            "neighbourhood_id":1108802895,
             "region_id":85687053,
             "venue_id":286386567
         }
     ],
     "wof:id":286386567,
-    "wof:lastmodified":1473878920,
+    "wof:lastmodified":1492478141,
     "wof:name":"Drs",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

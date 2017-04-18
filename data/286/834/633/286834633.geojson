@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.261226,52.039131,4.261226,52.039131",
     "geom:latitude":52.039131,
     "geom:longitude":4.261226,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859597,
+        1108808281,
+        102191581,
+        1108808029,
         85633337,
-        101754721,
+        101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1rzizT8hOuw5mJt7Y6DLGk_52.039131_4.261226@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3a08cc210190f232586529b23527596b",
+    "wof:geomhash":"80bd90279c69ba09e3a3b6778ab460b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754721,
-            "neighbourhood_id":85859597,
+            "locality_id":101752763,
+            "macrohood_id":1108808029,
+            "neighbourhood_id":1108808281,
             "region_id":85687041,
             "venue_id":286834633
         }
     ],
     "wof:id":286834633,
-    "wof:lastmodified":1473879654,
+    "wof:lastmodified":1492477025,
     "wof:name":"G. Kester",
-    "wof:parent_id":85859597,
+    "wof:parent_id":1108808281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

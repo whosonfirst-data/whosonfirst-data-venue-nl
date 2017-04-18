@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.915686,52.359596,4.915686,52.359596",
     "geom:latitude":52.359596,
     "geom:longitude":4.915686,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803279,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3PRnIuM5QkFR8aIEjCMv5Y_52.359596_4.915686@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fc18f883aa867cfa1582d5b1091ec9ee",
+    "wof:geomhash":"d606a7a542dc1eb29b352e56fe72b30e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803279,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":303378689
         }
     ],
     "wof:id":303378689,
-    "wof:lastmodified":1473879157,
+    "wof:lastmodified":1492472274,
     "wof:name":"Aldoende",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.284695,52.102943,4.284695,52.102943",
     "geom:latitude":52.102943,
     "geom:longitude":4.284695,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808167,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_4lO4zyHWKQ48LfjFXvXWDi_52.102943_4.284695@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"be10400cb5efd0f29fd2a799dfed2eea",
+    "wof:geomhash":"294ded6a53e17bb4573d825724675e55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808167,
             "region_id":85687041,
             "venue_id":185881857
         }
     ],
     "wof:id":185881857,
-    "wof:lastmodified":1473878819,
+    "wof:lastmodified":1492487724,
     "wof:name":"De Binnenplaets",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

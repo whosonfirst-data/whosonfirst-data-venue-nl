@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.291173,52.048447,4.291173,52.048447",
     "geom:latitude":52.048447,
     "geom:longitude":4.291173,
@@ -29,9 +30,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798031,
+        1108808297,
+        102191581,
+        1108833203,
         85633337,
-        101754743,
+        101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_5RQFqkCeU0pRWju5eyFXCM_52.048447_4.291173@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ecda70d6a493c18389e2c458c3499ffa",
+    "wof:geomhash":"4525d2a782423e0e5ff6e925dea4b465",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798031,
+            "locality_id":101752763,
+            "macrohood_id":1108833203,
+            "neighbourhood_id":1108808297,
             "region_id":85687041,
             "venue_id":270466681
         }
     ],
     "wof:id":270466681,
-    "wof:lastmodified":1473879284,
+    "wof:lastmodified":1492500522,
     "wof:name":"Koffieshop De Wolf",
-    "wof:parent_id":85798031,
+    "wof:parent_id":1108808297,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

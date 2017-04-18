@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.931766,52.399834,4.931766,52.399834",
     "geom:latitude":52.399834,
     "geom:longitude":4.931766,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803353,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5t4XkRDe5i5E9UW9qAw2ST_52.399834_4.931766@1306270004"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c6f364510312eb88dd13ec505712f474",
+    "wof:geomhash":"ea7d2d5b15493b5ac0426414bbd079a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803353,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":336634669
         }
     ],
     "wof:id":336634669,
-    "wof:lastmodified":1473878464,
+    "wof:lastmodified":1492507032,
     "wof:name":"Sieraden Cartouche",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803353,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

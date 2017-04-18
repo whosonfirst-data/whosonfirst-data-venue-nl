@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.839582,52.363129,4.839582,52.363129",
     "geom:latitude":52.363129,
     "geom:longitude":4.839582,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803301,
         85798223,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_0oFjuKHUbZK8iU2EBHrf7Z_52.363129_4.839582@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"573c60e7d557c0a71e98a304ad5c26aa",
+    "wof:geomhash":"7026f5580d35e63fa158ea5c44521b6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803301,
             "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":269817707
         }
     ],
     "wof:id":269817707,
-    "wof:lastmodified":1473879498,
+    "wof:lastmodified":1492496573,
     "wof:name":"Chinees Restaurant Kam Lin",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

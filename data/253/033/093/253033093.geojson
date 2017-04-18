@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.276759,52.081284,4.276759,52.081284",
     "geom:latitude":52.081284,
     "geom:longitude":4.276759,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        1108808179,
+        102191581,
+        1108808085,
         85633337,
         101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7T9azENMbD05NiII7R7nZ0_52.081284_4.276759@1306269945"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4551079b71b696ba2144f6b3f157b295",
+    "wof:geomhash":"7a0a328bb6196fe1700eb3efc3c92546",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
+            "macrohood_id":1108808085,
+            "neighbourhood_id":1108808179,
             "region_id":85687041,
             "venue_id":253033093
         }
     ],
     "wof:id":253033093,
-    "wof:lastmodified":1473878624,
+    "wof:lastmodified":1492491160,
     "wof:name":"J. Wagenaar",
-    "wof:parent_id":85859605,
+    "wof:parent_id":1108808179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

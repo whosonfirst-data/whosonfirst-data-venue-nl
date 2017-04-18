@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.873874,52.374611,4.873874,52.374611",
     "geom:latitude":52.374611,
     "geom:longitude":4.873874,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803847,
+        1108802807,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_1JYxumDfaYMY2ieA28AOZC_52.374611_4.873874@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"62f965af01cc018c03f62d6f6149ac3e",
+    "wof:geomhash":"c39c667c4d261b3242794b174864ecb8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803847,
+            "neighbourhood_id":1108802807,
             "region_id":85687053,
             "venue_id":269754943
         }
     ],
     "wof:id":269754943,
-    "wof:lastmodified":1473879385,
+    "wof:lastmodified":1492494985,
     "wof:name":"Exotic Snackbar Stekkie",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

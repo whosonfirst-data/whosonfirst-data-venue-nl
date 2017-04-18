@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.498938,51.895653,4.498938,51.895653",
     "geom:latitude":51.895653,
     "geom:longitude":4.498938,
@@ -26,39 +27,33 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85797139,
+        102191581,
         85633337,
         101751843,
-        85687041,
-        85859879
+        1108805747,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1q4976rb9s7GDJC0GFbPml_51.895653_4.498938@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0e1393f3629bc335a9747f2ae019f60b",
+    "wof:geomhash":"b0d65046746e708172ed293f8e64c0a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805747,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
             "neighbourhood_id":85797139,
             "region_id":85687041,
             "venue_id":202580281
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751843,
-            "neighbourhood_id":85859879,
-            "region_id":85687041,
-            "venue_id":202580281
         }
     ],
     "wof:id":202580281,
-    "wof:lastmodified":1473879001,
+    "wof:lastmodified":1492497325,
     "wof:name":"Virtual Action",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

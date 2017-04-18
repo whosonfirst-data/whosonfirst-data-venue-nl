@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2346720695,52.0696640015,4.2346720695,52.0696640015",
     "geom:latitude":52.069664,
     "geom:longitude":4.234672,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         85797143,
+        102191581,
+        1108808079,
+        85633337,
+        101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -34,17 +39,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473803305,
-    "wof:geomhash":"612941ab1adb1e5aed0831b5ac114451",
+    "wof:geomhash":"a3c48314f792c9fb0708843381544e53",
     "wof:hierarchy":[
         {
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808079,
             "neighbourhood_id":85797143,
             "region_id":85687041,
             "venue_id":1091608291
         }
     ],
     "wof:id":1091608291,
-    "wof:lastmodified":1473878925,
+    "wof:lastmodified":1492512677,
     "wof:name":"Vakantiecentrum Kijkduinpark",
     "wof:parent_id":85797143,
     "wof:placetype":"venue",

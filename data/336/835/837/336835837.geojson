@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.83221,52.353184,4.83221,52.353184",
     "geom:latitude":52.353184,
     "geom:longitude":4.83221,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803769,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7gWD92C3KXHy8ctQiXAOG1_52.353184_4.832210@1306270006"
     },
     "wof:country":"NL",
-    "wof:geomhash":"70fe16a82895323f0d3d34da7f86a282",
+    "wof:geomhash":"625ae44a0a2df60fd72d76fa9cc2f83b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803769,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":336835837
         }
     ],
     "wof:id":336835837,
-    "wof:lastmodified":1473878451,
+    "wof:lastmodified":1492506022,
     "wof:name":"Fbo",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

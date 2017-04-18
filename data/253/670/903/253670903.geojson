@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.89817,52.371284,4.89817,52.371284",
     "geom:latitude":52.371284,
     "geom:longitude":4.89817,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803883,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_3mRyiN3NPfmHaaXdNLvJAo_52.371284_4.898170@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"87902a3841af50bd3a6ff4ff73c53d5b",
+    "wof:geomhash":"410412d345e477c6e0f1f732526dd414",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803883,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":253670903
         }
     ],
     "wof:id":253670903,
-    "wof:lastmodified":1473879711,
+    "wof:lastmodified":1492490982,
     "wof:name":"Pints & Plates",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

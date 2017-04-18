@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.987042,52.299339,4.987042,52.299339",
     "geom:latitude":52.299339,
     "geom:longitude":4.987042,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803463,
+        1108802809,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2jb4fgtIg66Krz81Aq4Piz_52.299339_4.987042@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"93bfab0310dda1661d7986c77d87452f",
+    "wof:geomhash":"7c621512974922e99ecfe671ef894adf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803463,
+            "neighbourhood_id":1108802809,
             "region_id":85687053,
             "venue_id":202793809
         }
     ],
     "wof:id":202793809,
-    "wof:lastmodified":1473879219,
+    "wof:lastmodified":1492498149,
     "wof:name":"R Kirmani",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

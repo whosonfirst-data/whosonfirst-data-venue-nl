@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0364627838,52.0822525024,5.0364627838,52.0822525024",
     "geom:latitude":52.082253,
     "geom:longitude":5.036463,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808715,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808673,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473799115,
-    "wof:geomhash":"e3706088e6b01d1d98e81c99f7654141",
+    "wof:geomhash":"8145920b0b95e9553e5547af5052dca5",
     "wof:hierarchy":[
         {
+            "borough_id":1108808673,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808715,
             "region_id":85687039,
             "venue_id":1075819899
         }
     ],
     "wof:id":1075819899,
-    "wof:lastmodified":1473879180,
+    "wof:lastmodified":1492486214,
     "wof:name":"Reyer Lafeber",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

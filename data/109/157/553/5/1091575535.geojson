@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1725678444,52.0822753906,5.1725678444,52.0822753906",
     "geom:latitude":52.082275,
     "geom:longitude":5.172568,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         85797403,
+        102191581,
+        85633337,
+        101751827,
+        1108808669,
         85687039
     ],
     "wof:breaches":[],
@@ -34,17 +38,20 @@
     },
     "wof:country":"NL",
     "wof:created":1473800829,
-    "wof:geomhash":"957edbff2607cd955e832b2d3dee0da0",
+    "wof:geomhash":"12d7bdacb92848589492cf16aa4cfed1",
     "wof:hierarchy":[
         {
+            "borough_id":1108808669,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751827,
             "neighbourhood_id":85797403,
             "region_id":85687039,
             "venue_id":1091575535
         }
     ],
     "wof:id":1091575535,
-    "wof:lastmodified":1473878896,
+    "wof:lastmodified":1492511436,
     "wof:name":"U-Wish",
     "wof:parent_id":85797403,
     "wof:placetype":"venue",

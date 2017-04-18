@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.302478,52.063442,4.302478,52.063442",
     "geom:latitude":52.063442,
     "geom:longitude":4.302478,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859615,
+        1108808259,
+        102191581,
+        1108808035,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_2ftjhSBtHSclCIrh8EQOvG_52.063442_4.302478@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bf736a4b25db644a3580a73f9e47f24b",
+    "wof:geomhash":"38339b5fa5c2043b8ae598540ec4e78a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808259,
             "region_id":85687041,
             "venue_id":320573761
         }
     ],
     "wof:id":320573761,
-    "wof:lastmodified":1473879424,
+    "wof:lastmodified":1492484691,
     "wof:name":"T Biekram",
-    "wof:parent_id":85859615,
+    "wof:parent_id":1108808259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

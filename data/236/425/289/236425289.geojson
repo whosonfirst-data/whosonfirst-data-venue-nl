@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.542658,51.947182,4.542658,51.947182",
     "geom:latitude":51.947182,
     "geom:longitude":4.542658,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        85797053,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0brBKG2sZ1xlioUIWueJgS_51.947182_4.542658@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d919de7ae8f49732271033fde5a6c99d",
+    "wof:geomhash":"76fd88c6dbdf6063bf90b273a10cb9fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797053,
+            "region_id":85687041,
+            "venue_id":236425289
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "neighbourhood_id":85797053,
             "region_id":85687041,
             "venue_id":236425289
         }
     ],
     "wof:id":236425289,
-    "wof:lastmodified":1473879286,
+    "wof:lastmodified":1492493115,
     "wof:name":"Beenakker En J W B Soerland, A W T",
-    "wof:parent_id":85798329,
+    "wof:parent_id":85797053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

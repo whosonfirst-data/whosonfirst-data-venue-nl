@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877969,52.349445,4.877969,52.349445",
     "geom:latitude":52.349445,
     "geom:longitude":4.877969,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803589,
+        1108802527,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2eJzc90i2lVsk98sEM86Gi_52.349445_4.877969@1306269976"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1a530ec075c5646a9777b73ad1259f6b",
+    "wof:geomhash":"07e59955695a1ceb3f7a585f7cd4e1f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803589,
+            "neighbourhood_id":1108802527,
             "region_id":85687053,
             "venue_id":287053759
         }
     ],
     "wof:id":287053759,
-    "wof:lastmodified":1473878688,
+    "wof:lastmodified":1492514312,
     "wof:name":"Frank'S",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803589,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

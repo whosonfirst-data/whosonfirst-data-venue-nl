@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.319338,52.062035,4.319338,52.062035",
     "geom:latitude":52.062035,
     "geom:longitude":4.319338,
@@ -24,31 +25,49 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808309,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YEL8zsWwEYoXO24F1epBA_52.062035_4.319338@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8274f37bfc28850ff2d8cd78c7dd524c",
+    "wof:geomhash":"1c05533c7b3b9267862efd5c5964a295",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808309,
+            "region_id":85687041,
+            "venue_id":236106069
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808309,
             "region_id":85687041,
             "venue_id":236106069
         }
     ],
     "wof:id":236106069,
-    "wof:lastmodified":1473878770,
+    "wof:lastmodified":1492494202,
     "wof:name":"Tma Technisch Management & Adviesbureau",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

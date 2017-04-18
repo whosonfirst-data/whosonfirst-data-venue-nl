@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.886403,52.346012,4.886403,52.346012",
     "geom:latitude":52.346012,
     "geom:longitude":4.886403,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.fortunis.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804215,
+        1108802897,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_02x4elq0r3veQF9WMbP2oN_52.346012_4.886403@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"05475d64c48f9f799d9e3c03c6fc7eec",
+    "wof:geomhash":"82767d4f2746f389c407862fc0b26c25",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108804215,
+            "neighbourhood_id":1108802897,
             "region_id":85687053,
             "venue_id":220047923
         }
     ],
     "wof:id":220047923,
-    "wof:lastmodified":1473878645,
+    "wof:lastmodified":1492481426,
     "wof:name":"Fortunis",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

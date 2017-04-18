@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893314,52.374138,4.893314,52.374138",
     "geom:latitude":52.374138,
     "geom:longitude":4.893314,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803257,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_5kaVUYf7FjP64gXE7rTdTA_52.374138_4.893314@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fd699bd62f9cf49035df7a1f774f04ea",
+    "wof:geomhash":"0d3a60fff942fc5bbd498d4ab19b0bad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803257,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":303144357
         }
     ],
     "wof:id":303144357,
-    "wof:lastmodified":1473878791,
+    "wof:lastmodified":1492474187,
     "wof:name":"Outmaijer",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

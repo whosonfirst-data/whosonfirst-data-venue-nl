@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.298437,52.025181,4.298437,52.025181",
     "geom:latitude":52.025181,
     "geom:longitude":4.298437,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798353,
+        1108808329,
+        102191581,
+        1108808069,
         85633337,
-        101754743,
+        101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2hRDR4wm0eRKateHTn7Ymn_52.025181_4.298437@1306269917"
     },
     "wof:country":"NL",
-    "wof:geomhash":"11c9f7fb087ae5f6ca9dafcffae8cad7",
+    "wof:geomhash":"6a27ea67989343bdc61f0fd5d34bcb85",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798353,
+            "locality_id":101752763,
+            "macrohood_id":1108808069,
+            "neighbourhood_id":1108808329,
             "region_id":85687041,
             "venue_id":202653197
         }
     ],
     "wof:id":202653197,
-    "wof:lastmodified":1473879105,
+    "wof:lastmodified":1492498168,
     "wof:name":"Zwilling J.A. Henckels",
-    "wof:parent_id":85798353,
+    "wof:parent_id":1108808329,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

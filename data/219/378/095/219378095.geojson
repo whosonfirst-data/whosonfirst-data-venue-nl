@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.324386,52.058376,4.324386,52.058376",
     "geom:latitude":52.058376,
     "geom:longitude":4.324386,
@@ -24,31 +25,49 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808315,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25SdIR2N8q8g9hiK1y4Ujc_52.058376_4.324386@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"79301a5a32ff31b6c79044dc3658877b",
+    "wof:geomhash":"68484a89b9d1ac8d8bfadf6cff7da792",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808315,
+            "region_id":85687041,
+            "venue_id":219378095
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808315,
             "region_id":85687041,
             "venue_id":219378095
         }
     ],
     "wof:id":219378095,
-    "wof:lastmodified":1473879063,
+    "wof:lastmodified":1492502729,
     "wof:name":"A M Spaans",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

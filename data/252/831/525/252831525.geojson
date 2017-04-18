@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.895893,52.360023,4.895893,52.360023",
     "geom:latitude":52.360023,
     "geom:longitude":4.895893,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803539,
+        1108802791,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_0T1KqxKlSk1aWOQ8atDe93_52.360023_4.895893@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"697ffa00be5fc7e548a67a88623b4494",
+    "wof:geomhash":"92e97b2d78f47681ae0988674e577551",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803539,
+            "neighbourhood_id":1108802791,
             "region_id":85687053,
             "venue_id":252831525
         }
     ],
     "wof:id":252831525,
-    "wof:lastmodified":1473878568,
+    "wof:lastmodified":1492504782,
     "wof:name":"Dijk, Henk Van",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803539,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

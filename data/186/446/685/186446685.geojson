@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.10907,52.11425,5.10907,52.11425",
     "geom:latitude":52.11425,
     "geom:longitude":5.10907,
@@ -25,8 +26,12 @@
     "sg:website":"http://www.milieuplein.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808929,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +39,23 @@
         "sg:id":"SG_4UXFczwLIIP8NqEqJRnZ5M_52.114250_5.109070@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"871d06d64e4e444e311a14ea0e3aad41",
+    "wof:geomhash":"f1b83e26ff611c41d4d1a0061452b733",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808929,
             "region_id":85687039,
             "venue_id":186446685
         }
     ],
     "wof:id":186446685,
-    "wof:lastmodified":1473879455,
+    "wof:lastmodified":1492509029,
     "wof:name":"Milieupunt Overvecht",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

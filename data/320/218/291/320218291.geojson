@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.941193,52.398273,4.941193,52.398273",
     "geom:latitude":52.398273,
     "geom:longitude":4.941193,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803947,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_78gLwxq15KEjFhEiZbCT8P_52.398273_4.941193@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b42231b1757f22d7cc8acf9507672dd6",
+    "wof:geomhash":"7a52815360484ae3be93c6f9a5bdb002",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803947,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":320218291
         }
     ],
     "wof:id":320218291,
-    "wof:lastmodified":1473879103,
+    "wof:lastmodified":1492482335,
     "wof:name":"Regalo Gallery Noord",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.28409,52.110661,4.28409,52.110661",
     "geom:latitude":52.110661,
     "geom:longitude":4.28409,
@@ -25,8 +26,12 @@
     "sg:website":"http://www.bureau-goudriaan.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808169,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +39,23 @@
         "sg:id":"SG_6yyuGPZTUEqTSrXJR20AdD_52.110661_4.284090@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0a35b1c83b96d772abe605122046af29",
+    "wof:geomhash":"62ab070263c962a5760c293af79abb74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808169,
             "region_id":85687041,
             "venue_id":253454817
         }
     ],
     "wof:id":253454817,
-    "wof:lastmodified":1473879622,
+    "wof:lastmodified":1492490300,
     "wof:name":"Bureau Goudriaan",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

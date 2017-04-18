@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.316437,52.069199,4.316437,52.069199",
     "geom:latitude":52.069199,
     "geom:longitude":4.316437,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808263,
+        102191581,
+        1108808035,
         85633337,
-        101754743,
+        101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_6oZlO7KbUWYzne5ClDyQmK_52.069199_4.316437@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"48c7c7576bff9d0edb4176116f63de4b",
+    "wof:geomhash":"a9a1a210f061bc5db7d4d8eb5dec2357",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "locality_id":101752763,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808263,
             "region_id":85687041,
             "venue_id":202517227
         }
     ],
     "wof:id":202517227,
-    "wof:lastmodified":1473878815,
+    "wof:lastmodified":1492498604,
     "wof:name":"Dew'S Videotheek",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

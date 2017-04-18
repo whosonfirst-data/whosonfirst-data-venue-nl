@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5366821289,51.9442214966,4.5366821289,51.9442214966",
     "geom:latitude":51.944221,
     "geom:longitude":4.536682,
@@ -24,12 +25,14 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        85797053,
         102191581,
-        404474163,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,22 +40,32 @@
     },
     "wof:country":"NL",
     "wof:created":1473804409,
-    "wof:geomhash":"f83a8c0a3d647440ac30b4b411c006eb",
+    "wof:geomhash":"59e57c41dbff722ea3545daf634115bb",
     "wof:hierarchy":[
         {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797053,
+            "region_id":85687041,
+            "venue_id":1091627895
+        },
+        {
+            "borough_id":1108805725,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "neighbourhood_id":85797053,
             "region_id":85687041,
             "venue_id":1091627895
         }
     ],
     "wof:id":1091627895,
-    "wof:lastmodified":1473879042,
+    "wof:lastmodified":1492512048,
     "wof:name":"Haarmode Rob Den Haan",
-    "wof:parent_id":85798329,
+    "wof:parent_id":85797053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

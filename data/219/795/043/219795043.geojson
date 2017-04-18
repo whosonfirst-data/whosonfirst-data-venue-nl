@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.944341,52.402569,4.944341,52.402569",
     "geom:latitude":52.402569,
     "geom:longitude":4.944341,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804307,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_06OCXezpm1r9yeCUAe7TIS_52.402569_4.944341@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2c955c55b70458aaf39e093bbc9d76d5",
+    "wof:geomhash":"d575e1d6a5facb115a8a7e07ccf64b8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804307,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":219795043
         }
     ],
     "wof:id":219795043,
-    "wof:lastmodified":1473879724,
+    "wof:lastmodified":1492502548,
     "wof:name":"Fransman",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108804307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

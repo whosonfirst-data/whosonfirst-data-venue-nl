@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9471569061,53.2951011658,5.9471569061,53.2951011658",
     "geom:latitude":53.295101,
     "geom:longitude":5.947157,
@@ -24,17 +25,32 @@
     "sg:province":"Provincie Friesland",
     "sg:website":"http://www.itkin.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687055,
+        102191581,
+        404474681,
+        85633337,
+        101807459
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2I4V0CRerSXxsNVFC4N6x9_53.295101_5.947157@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800691,
-    "wof:geomhash":"239cb8ed8ae1d56f5e7cd0239e8072cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f25922af6b3ce98ae570b5bfe7339932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474681,
+            "locality_id":101807459,
+            "region_id":85687055,
+            "venue_id":1091573409
+        }
+    ],
     "wof:id":1091573409,
-    "wof:lastmodified":1473878710,
+    "wof:lastmodified":1492511222,
     "wof:name":"Itkin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

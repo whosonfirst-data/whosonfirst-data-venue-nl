@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.923426,52.355816,4.923426,52.355816",
     "geom:latitude":52.355816,
     "geom:longitude":4.923426,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803941,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5PJQfp3U1xO5XoYuRXloPn_52.355816_4.923426@1306269917"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3fbc6cfc6046a8412bec3517f4264363",
+    "wof:geomhash":"2d360c7154b8e191bb0bf5dce06be8e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":202662661
         }
     ],
     "wof:id":202662661,
-    "wof:lastmodified":1473879128,
+    "wof:lastmodified":1492498337,
     "wof:name":"Harm",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

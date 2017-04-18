@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.95567,52.396935,4.95567,52.396935",
     "geom:latitude":52.396935,
     "geom:longitude":4.95567,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108803297,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_46kVqWL6oYc9GWpk6OcxhN_52.396935_4.955670@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0682aa9d89ca93ff7caddaa121885a4d",
+    "wof:geomhash":"c0afadaecb4c851e638cb18c7bb6f1f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803297,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":270491725
         }
     ],
     "wof:id":270491725,
-    "wof:lastmodified":1473879345,
+    "wof:lastmodified":1492501304,
     "wof:name":"Christelijke Basisschool De Berkelier",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803297,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

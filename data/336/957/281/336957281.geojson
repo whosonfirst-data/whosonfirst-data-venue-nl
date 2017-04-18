@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.810563,52.403584,4.810563,52.403584",
     "geom:latitude":52.403584,
     "geom:longitude":4.810563,
@@ -34,8 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798675,
+        1108803963,
+        1108802955,
+        102191581,
         85633337,
+        101751893,
+        1108802287,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,23 @@
         "sg:id":"SG_1AYaHY2oYOXg5MBjRSQW0k_52.403584_4.810563@1306270008"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e0ab3ba17088d167767b6142e094d730",
+    "wof:geomhash":"79dca7b59c7173f2ea613d917b3712b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802287,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798675,
+            "locality_id":101751893,
+            "microhood_id":1108803963,
+            "neighbourhood_id":1108802955,
             "region_id":85687053,
             "venue_id":336957281
         }
     ],
     "wof:id":336957281,
-    "wof:lastmodified":1473878464,
+    "wof:lastmodified":1492506510,
     "wof:name":"Rietlanden Stevedores Bv",
-    "wof:parent_id":85798675,
+    "wof:parent_id":1108803963,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

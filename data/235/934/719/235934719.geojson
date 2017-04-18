@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.914849,52.345604,4.914849,52.345604",
     "geom:latitude":52.345604,
     "geom:longitude":4.914849,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804087,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6pydPoFg31aOwaUYp5rOEr_52.345604_4.914849@1306269933"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e3a9d0fa7f493673bb55b2fa222c0249",
+    "wof:geomhash":"dfa1bbe80cb32118223d17fa6299e57b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804087,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":235934719
         }
     ],
     "wof:id":235934719,
-    "wof:lastmodified":1473878481,
+    "wof:lastmodified":1492514570,
     "wof:name":"Coolpower",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

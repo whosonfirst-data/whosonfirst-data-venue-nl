@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.932077,52.35294,4.932077,52.35294",
     "geom:latitude":52.35294,
     "geom:longitude":4.932077,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803929,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6Wc8yrVCsG6y6LIs5WejcK_52.352940_4.932077@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"53e69be41e6f71f1e62f61a43002c33c",
+    "wof:geomhash":"89e201e2d607d44817cb113abf0a0f96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803929,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":186485105
         }
     ],
     "wof:id":186485105,
-    "wof:lastmodified":1473879494,
+    "wof:lastmodified":1492507561,
     "wof:name":"Querido Hvo",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

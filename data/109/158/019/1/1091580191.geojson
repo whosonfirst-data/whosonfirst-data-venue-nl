@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6167240143,51.5583457947,4.6167240143,51.5583457947",
     "geom:latitude":51.558346,
     "geom:longitude":4.616724,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.bel-wegenbouwservice.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474377,
+        85633337,
+        101839355
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gjGGK6Cy3Tag5KlQNVrjR_51.558346_4.616724@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801206,
-    "wof:geomhash":"e3eb20e97e42cfc1df3f3269936b9683",
-    "wof:hierarchy":[],
+    "wof:geomhash":"985d6326266b735ed3b751668e9e021d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474377,
+            "locality_id":101839355,
+            "region_id":85687035,
+            "venue_id":1091580191
+        }
+    ],
     "wof:id":1091580191,
-    "wof:lastmodified":1473878464,
+    "wof:lastmodified":1492511585,
     "wof:name":"Bel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

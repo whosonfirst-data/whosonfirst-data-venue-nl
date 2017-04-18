@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.859467,52.377434,4.859467,52.377434",
     "geom:latitude":52.377434,
     "geom:longitude":4.859467,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803263,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5Y1M3mf3WF3hZHEVQ6K42X_52.377434_4.859467@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4f39d6c9e56d503432222765cc33e93b",
+    "wof:geomhash":"2bd684965c8fbe3f0989b2f139d3e457",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803263,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":202605079
         }
     ],
     "wof:id":202605079,
-    "wof:lastmodified":1473879026,
+    "wof:lastmodified":1492498025,
     "wof:name":"Firma B. Th. Lubbers",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

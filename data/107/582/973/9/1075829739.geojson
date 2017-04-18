@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5460891724,51.9411659241,4.5460891724,51.9411659241",
     "geom:latitude":51.941166,
     "geom:longitude":4.546089,
@@ -24,12 +25,14 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        85797053,
         102191581,
-        404474163,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,22 +40,32 @@
     },
     "wof:country":"NL",
     "wof:created":1473799777,
-    "wof:geomhash":"d7bfc43775903c6c6d55cc0164306b21",
+    "wof:geomhash":"b596f2cfa4097ab097a0af3a6c243d5a",
     "wof:hierarchy":[
         {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797053,
+            "region_id":85687041,
+            "venue_id":1075829739
+        },
+        {
+            "borough_id":1108805725,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "neighbourhood_id":85797053,
             "region_id":85687041,
             "venue_id":1075829739
         }
     ],
     "wof:id":1075829739,
-    "wof:lastmodified":1473879571,
+    "wof:lastmodified":1492486941,
     "wof:name":"Jongerencentrum The Little Cave",
-    "wof:parent_id":85798329,
+    "wof:parent_id":85797053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

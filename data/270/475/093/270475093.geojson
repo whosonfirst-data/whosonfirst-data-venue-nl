@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893134,52.414722,4.893134,52.414722",
     "geom:latitude":52.414722,
     "geom:longitude":4.893134,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803211,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_3N4f0ZQLjfJKfuJ77pblry_52.414722_4.893134@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b46478d3b44c81402fb901ae7eade41c",
+    "wof:geomhash":"a0bb3ddcfc00c3ec2fa14665152dcb0b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803211,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":270475093
         }
     ],
     "wof:id":270475093,
-    "wof:lastmodified":1473879302,
+    "wof:lastmodified":1492500568,
     "wof:name":"Basisschool De Satelliet",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881112,52.369507,4.881112,52.369507",
     "geom:latitude":52.369507,
     "geom:longitude":4.881112,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0Gt3rcu2ukyMKQMIfLHTLW_52.369507_4.881112@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0039eb5e4844c9fb3d08728ab0642b02",
+    "wof:geomhash":"375a88eb875db0d345b8cc4b14573039",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":253178881
         }
     ],
     "wof:id":253178881,
-    "wof:lastmodified":1473879069,
+    "wof:lastmodified":1492488947,
     "wof:name":"Siderius",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

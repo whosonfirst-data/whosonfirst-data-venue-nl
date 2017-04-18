@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.110402,52.113258,5.110402,52.113258",
     "geom:latitude":52.113258,
     "geom:longitude":5.110402,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808929,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_5IgouAuOmoD7YRPJZY50X4_52.113258_5.110402@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"37efdd4e5f6a1f18b02308abd3c742d1",
+    "wof:geomhash":"85c1c4c72637e8c4aff9dbd0763e0dcf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808929,
             "region_id":85687039,
             "venue_id":186396221
         }
     ],
     "wof:id":186396221,
-    "wof:lastmodified":1473879386,
+    "wof:lastmodified":1492508714,
     "wof:name":"Gwc Overvecht",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.101249,52.126106,5.101249,52.126106",
     "geom:latitude":52.126106,
     "geom:longitude":5.101249,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798231,
+        1108808877,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_3XwBCxL4mdozAMbTHfURDG_52.126106_5.101249@1306269967"
     },
     "wof:country":"NL",
-    "wof:geomhash":"920951203263c43f996ed2608025de21",
+    "wof:geomhash":"95e0248cd12c608f9d22e1b25d066fa0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798231,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808877,
             "region_id":85687039,
             "venue_id":286297897
         }
     ],
     "wof:id":286297897,
-    "wof:lastmodified":1473878689,
+    "wof:lastmodified":1492477964,
     "wof:name":"Openbare Basisschool Overvecht Locatie M",
-    "wof:parent_id":85798231,
+    "wof:parent_id":1108808877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

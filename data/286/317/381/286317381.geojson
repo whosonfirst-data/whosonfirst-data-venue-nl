@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.915725,52.343872,4.915725,52.343872",
     "geom:latitude":52.343872,
     "geom:longitude":4.915725,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804087,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6r52l2BgKgsmylANgHodwK_52.343872_4.915725@1306269967"
     },
     "wof:country":"NL",
-    "wof:geomhash":"68d61a30616952b22f556ea0b959fb10",
+    "wof:geomhash":"8af8261c1848505c6281b708ea4cd568",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804087,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":286317381
         }
     ],
     "wof:id":286317381,
-    "wof:lastmodified":1473878723,
+    "wof:lastmodified":1492477302,
     "wof:name":"J. Schaegen En P. Sweerts",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

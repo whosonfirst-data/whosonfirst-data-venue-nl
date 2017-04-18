@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.904977,52.00227,5.904977,52.00227",
     "geom:latitude":52.00227,
     "geom:longitude":5.904977,
@@ -24,40 +25,41 @@
     "sg:province":"Gelderland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797075,
-        85633337,
-        85687043,
         85797057,
-        101751857
+        102191581,
+        404473871,
+        85633337,
+        101751857,
+        85687043,
+        85797075
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZlmZzIYiOcwUoAMM4PQqy_52.002270_5.904977@1306270007"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5b5a91c38ca38ae4270813c6701b2a4e",
+    "wof:geomhash":"24fa6e5de0ff221b944180b92e1828e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797075,
+            "localadmin_id":404473871,
+            "locality_id":101751857,
+            "neighbourhood_id":85797057,
             "region_id":85687043,
             "venue_id":336922213
         },
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751857,
-            "neighbourhood_id":85797057,
+            "neighbourhood_id":85797075,
             "region_id":85687043,
             "venue_id":336922213
         }
     ],
     "wof:id":336922213,
-    "wof:lastmodified":1473878457,
+    "wof:lastmodified":1492506943,
     "wof:name":"Holleman",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

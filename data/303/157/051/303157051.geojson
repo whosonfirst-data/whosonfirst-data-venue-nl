@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.563644,53.217571,6.563644,53.217571",
     "geom:latitude":53.217571,
     "geom:longitude":6.563644,
@@ -24,40 +25,41 @@
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797835,
-        85633337,
-        85687059,
         85797417,
-        101751909
+        102191581,
+        404473713,
+        85633337,
+        101751909,
+        85687059,
+        85797835
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZNorwS47sIS2VM1oO8kHt_53.217571_6.563644@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"56e19100ead9756bde456281c05a7117",
+    "wof:geomhash":"87975482423ceb0e4d7ba0f80f019b65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797835,
+            "localadmin_id":404473713,
+            "locality_id":101751909,
+            "neighbourhood_id":85797417,
             "region_id":85687059,
             "venue_id":303157051
         },
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751909,
-            "neighbourhood_id":85797417,
+            "neighbourhood_id":85797835,
             "region_id":85687059,
             "venue_id":303157051
         }
     ],
     "wof:id":303157051,
-    "wof:lastmodified":1473878781,
+    "wof:lastmodified":1492472844,
     "wof:name":"Pigalle",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

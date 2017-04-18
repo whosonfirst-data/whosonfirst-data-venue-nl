@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.86605,52.385159,4.86605,52.385159",
     "geom:latitude":52.385159,
     "geom:longitude":4.86605,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803851,
+        1108802557,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4K5Vl0aZf0xvvlRPovG78l_52.385159_4.866050@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"958c378cf5f359083207b563bf01764c",
+    "wof:geomhash":"2e36a12596161b834c4c6f4ffdc9467d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803851,
+            "neighbourhood_id":1108802557,
             "region_id":85687053,
             "venue_id":219556589
         }
     ],
     "wof:id":219556589,
-    "wof:lastmodified":1473879396,
+    "wof:lastmodified":1492504229,
     "wof:name":"Adviservice",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

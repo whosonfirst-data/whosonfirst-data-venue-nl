@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.933405,52.307468,4.933405,52.307468",
     "geom:latitude":52.307468,
     "geom:longitude":4.933405,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797113,
+        1108803575,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0BoXbZlC3W7gBgTOtxwWj2_52.307468_4.933405@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"502a8703712ff1df96b57c75afb01b5a",
+    "wof:geomhash":"a26a20a2e01ba196061304214a198246",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797113,
+            "locality_id":101751893,
+            "microhood_id":1108803575,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":286713139
         }
     ],
     "wof:id":286713139,
-    "wof:lastmodified":1473879423,
+    "wof:lastmodified":1492475211,
     "wof:name":"Vnv Beveiliging",
-    "wof:parent_id":85797113,
+    "wof:parent_id":1108803575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

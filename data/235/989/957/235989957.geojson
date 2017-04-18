@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878064,52.374542,4.878064,52.374542",
     "geom:latitude":52.374542,
     "geom:longitude":4.878064,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803831,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_1NV3HxoyjV6SxcGWHHLSMi_52.374542_4.878064@1306269933"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f41fdc3c265832240b8e8b2fdbf0ceea",
+    "wof:geomhash":"a2e0eb0293edd799556b004cd7f8c807",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803831,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":235989957
         }
     ],
     "wof:id":235989957,
-    "wof:lastmodified":1473878642,
+    "wof:lastmodified":1492514478,
     "wof:name":"M\u00fcjde Productions",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

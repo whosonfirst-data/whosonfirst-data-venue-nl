@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.7219791412,52.1517944336,6.7219791412,52.1517944336",
     "geom:latitude":52.151794,
     "geom:longitude":6.721979,
@@ -24,17 +25,32 @@
     "sg:province":"Overijssel",
     "sg:website":"http://www.kmv.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473829,
+        85633337,
+        101807203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MpEDMOE9sgIcCIIa2kYJr_52.151794_6.721979@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803432,
-    "wof:geomhash":"5b173fb6add4f139a522c2144987c0e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ce8299d072ba817899fa79c446b5109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473829,
+            "locality_id":101807203,
+            "region_id":85687045,
+            "venue_id":1091610767
+        }
+    ],
     "wof:id":1091610767,
-    "wof:lastmodified":1473878520,
+    "wof:lastmodified":1492510625,
     "wof:name":"Kmv Kantoor Meubel Voordeel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

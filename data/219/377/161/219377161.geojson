@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.931611,52.348251,4.931611,52.348251",
     "geom:latitude":52.348251,
     "geom:longitude":4.931611,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803839,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_46EI2AECBVu7aSdDso4R4n_52.348251_4.931611@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9ec13fb35c8cf392e9e180b9e481c291",
+    "wof:geomhash":"9095a33d39c63304baff8051391b1bf1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803839,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":219377161
         }
     ],
     "wof:id":219377161,
-    "wof:lastmodified":1473879068,
+    "wof:lastmodified":1492501903,
     "wof:name":"Melbouw Schilderwerken",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

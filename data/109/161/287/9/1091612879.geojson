@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.541159153,52.3294868469,5.541159153,52.3294868469",
     "geom:latitude":52.329487,
     "geom:longitude":5.541159,
@@ -23,17 +24,32 @@
     "sg:postcode":"3892 AA",
     "sg:province":"NL.",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473741,
+        85633337,
+        101808771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oP3HzaX7I19BezqDaWONi_52.329487_5.541159@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803579,
-    "wof:geomhash":"30a5eda89ba056d5b7a7191890d31ce4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94b84a04d941b8a7b0b2c01bdff189b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473741,
+            "locality_id":101808771,
+            "region_id":85687049,
+            "venue_id":1091612879
+        }
+    ],
     "wof:id":1091612879,
-    "wof:lastmodified":1473878638,
+    "wof:lastmodified":1492510804,
     "wof:name":"Virtual Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

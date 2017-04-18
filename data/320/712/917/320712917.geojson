@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.400463,51.941696,4.400463,51.941696",
     "geom:latitude":51.941696,
     "geom:longitude":4.400463,
@@ -24,30 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797797,
+        1108805757,
+        102191581,
         85633337,
-        85687041
+        101751843,
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vWVcElFvp5721qKJ2yKWG_51.941696_4.400463@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"23c978ef3f42844bf7d9aef3dd4be269",
+    "wof:geomhash":"d1385d49efd702e42f4f3cb04c83c988",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805739,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797797,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":320712917
+        },
+        {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474253,
+            "locality_id":101751845,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":320712917
         }
     ],
     "wof:id":320712917,
-    "wof:lastmodified":1473879585,
+    "wof:lastmodified":1492483522,
     "wof:name":"Ergoline Ned Bv",
-    "wof:parent_id":85797797,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

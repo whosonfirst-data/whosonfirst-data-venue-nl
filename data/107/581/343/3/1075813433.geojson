@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7006602287,52.322971344,4.7006602287,52.322971344",
     "geom:latitude":52.322971,
     "geom:longitude":4.70066,
@@ -24,17 +25,30 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.gvb.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474065,
+        85633337,
+        85687053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dGLcfGTcUouHZWtjH6P3Z_52.322971_4.700660@1306270008"
     },
     "wof:country":"NL",
     "wof:created":1473798830,
-    "wof:geomhash":"482f28a1e96052a76a7f8a3164714de3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a024577b1aeda33ce895a81a17c3860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474065,
+            "region_id":85687053,
+            "venue_id":1075813433
+        }
+    ],
     "wof:id":1075813433,
-    "wof:lastmodified":1473878934,
+    "wof:lastmodified":1492486256,
     "wof:name":"Gvb Amsterdam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

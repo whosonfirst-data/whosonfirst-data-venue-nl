@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.827773,52.349148,4.827773,52.349148",
     "geom:latitude":52.349148,
     "geom:longitude":4.827773,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803813,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_0t0ROKQ9F7VTfdvlBkh6Zq_52.349148_4.827773@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"92211ba1d025ff82c5075c66f81e8ade",
+    "wof:geomhash":"ca8e30b2a24abe01aaa1ecbc6808db44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803813,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":269788889
         }
     ],
     "wof:id":269788889,
-    "wof:lastmodified":1473879477,
+    "wof:lastmodified":1492495003,
     "wof:name":"Snackbar Snack 35",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

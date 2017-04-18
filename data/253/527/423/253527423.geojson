@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.099241,52.069054,5.099241,52.069054",
     "geom:latitude":52.069054,
     "geom:longitude":5.099241,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797771,
+        1108808767,
+        102191581,
+        1108808647,
         85633337,
         101751827,
+        1108808679,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1g4VCVxyMhF2KwOWdxZXAW_52.069054_5.099241@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"31e9fd31d32a8d73b62501378f01e005",
+    "wof:geomhash":"84fc2bc6e8845d2272fa089f1e8da635",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808679,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797771,
+            "macrohood_id":1108808647,
+            "neighbourhood_id":1108808767,
             "region_id":85687039,
             "venue_id":253527423
         }
     ],
     "wof:id":253527423,
-    "wof:lastmodified":1473879665,
+    "wof:lastmodified":1492489323,
     "wof:name":"Tangiers",
-    "wof:parent_id":85797771,
+    "wof:parent_id":1108808767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

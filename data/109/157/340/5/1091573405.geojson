@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7745509148,52.7895011902,5.7745509148,52.7895011902",
     "geom:latitude":52.789501,
     "geom:longitude":5.774551,
@@ -24,17 +25,30 @@
     "sg:province":"Flevoland",
     "sg:website":"http://www.istos.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404473843,
+        85633337,
+        85687049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2w6Ad0lOWZA9lCBARIg2mQ_52.789501_5.774551@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800691,
-    "wof:geomhash":"1f3c244630e16dd82304a8ea50fae377",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ff78323feae82738dc2bc3b85d6bcff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473843,
+            "region_id":85687049,
+            "venue_id":1091573405
+        }
+    ],
     "wof:id":1091573405,
-    "wof:lastmodified":1473878710,
+    "wof:lastmodified":1492511222,
     "wof:name":"Istos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

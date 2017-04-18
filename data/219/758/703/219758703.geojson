@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.137322,52.065182,5.137322,52.065182",
     "geom:latitude":52.065182,
     "geom:longitude":5.137322,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859943,
+        1108808795,
+        102191581,
+        1108832363,
         85633337,
+        101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_7d4vQbs1D9yNv2SHYoUfkw_52.065182_5.137322@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9ca707768e5b8adf35713bf22800a4bf",
+    "wof:geomhash":"26dd1ef177ad8a89378539dfd1e60467",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859943,
+            "locality_id":101751827,
+            "macrohood_id":1108832363,
+            "neighbourhood_id":1108808795,
             "region_id":85687039,
             "venue_id":219758703
         }
     ],
     "wof:id":219758703,
-    "wof:lastmodified":1473879710,
+    "wof:lastmodified":1492503843,
     "wof:name":"Clarkson",
-    "wof:parent_id":85859943,
+    "wof:parent_id":1108808795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

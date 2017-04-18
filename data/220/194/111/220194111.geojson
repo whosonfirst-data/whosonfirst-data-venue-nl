@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.785814,52.39978,4.785814,52.39978",
     "geom:latitude":52.39978,
     "geom:longitude":4.785814,
@@ -25,8 +26,12 @@
     "sg:website":"http://www.sita.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798675,
+        1108803829,
+        1108802955,
+        102191581,
         85633337,
+        101751893,
+        1108802287,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,23 @@
         "sg:id":"SG_6Ciz90zimLxUHfhfPzbthC_52.399780_4.785814@1306269933"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f3132bab6fb69fbd0d0e1f456683d328",
+    "wof:geomhash":"2a7b3508a619fa7df26d6265e9e27c6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802287,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798675,
+            "locality_id":101751893,
+            "microhood_id":1108803829,
+            "neighbourhood_id":1108802955,
             "region_id":85687053,
             "venue_id":220194111
         }
     ],
     "wof:id":220194111,
-    "wof:lastmodified":1473879058,
+    "wof:lastmodified":1492481541,
     "wof:name":"Sita",
-    "wof:parent_id":85798675,
+    "wof:parent_id":1108803829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

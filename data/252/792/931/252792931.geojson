@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.280012,52.102974,4.280012,52.102974",
     "geom:latitude":52.102974,
     "geom:longitude":4.280012,
@@ -25,8 +26,12 @@
     "sg:website":"http://www.letslook.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808167,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +39,23 @@
         "sg:id":"SG_1uhDNRrkhOBYhyhb03qrjn_52.102974_4.280012@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"25e60be9993ead0e3c7e777ead521f21",
+    "wof:geomhash":"96c3cc08dd4c02d6c9f29bb4945a1069",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808167,
             "region_id":85687041,
             "venue_id":252792931
         }
     ],
     "wof:id":252792931,
-    "wof:lastmodified":1473878513,
+    "wof:lastmodified":1492505135,
     "wof:name":"Letslook",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

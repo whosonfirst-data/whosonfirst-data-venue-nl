@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.926632,52.360737,4.926632,52.360737",
     "geom:latitude":52.360737,
     "geom:longitude":4.926632,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803667,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1u2snur31WoMtmDyfidUmT_52.360737_4.926632@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9b519084294261f1f97e37f63e3cb533",
+    "wof:geomhash":"073342a779f5878376ebc5a3900b69e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803667,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":286476517
         }
     ],
     "wof:id":286476517,
-    "wof:lastmodified":1473879118,
+    "wof:lastmodified":1492478173,
     "wof:name":"Grol, H G M Van",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

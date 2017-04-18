@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.930171,52.398006,4.930171,52.398006",
     "geom:latitude":52.398006,
     "geom:longitude":4.930171,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803353,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1LKlg0rjLLqlnss5zWUjne_52.398006_4.930171@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"03954e1264c73f91c108bd40037eaa0f",
+    "wof:geomhash":"ce357f8827d111c295485a5fa53acece",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803353,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":320495443
         }
     ],
     "wof:id":320495443,
-    "wof:lastmodified":1473879335,
+    "wof:lastmodified":1492483230,
     "wof:name":"Sketzh, Studio",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803353,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

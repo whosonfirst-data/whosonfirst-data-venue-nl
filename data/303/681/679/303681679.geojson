@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2702,52.069378,4.2702,52.069378",
     "geom:latitude":52.069378,
     "geom:longitude":4.2702,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        1108808211,
+        102191581,
+        1108808125,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5vwO6kPYjFUry49C5sGJHE_52.069378_4.270200@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"72c47a8d9e07ffa25e9fa2bb95ef8130",
+    "wof:geomhash":"47c20c130662aafa2dd723cdf52d0b77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
+            "macrohood_id":1108808125,
+            "neighbourhood_id":1108808211,
             "region_id":85687041,
             "venue_id":303681679
         }
     ],
     "wof:id":303681679,
-    "wof:lastmodified":1473879462,
+    "wof:lastmodified":1492474201,
     "wof:name":"Boekbindery Van Campen Vof",
-    "wof:parent_id":85859605,
+    "wof:parent_id":1108808211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

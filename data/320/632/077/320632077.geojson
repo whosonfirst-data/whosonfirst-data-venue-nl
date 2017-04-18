@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879105,52.382011,4.879105,52.382011",
     "geom:latitude":52.382011,
     "geom:longitude":4.879105,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804183,
+        1108802915,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0pBztyBbFI5TpwigYjW7rb_52.382011_4.879105@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f9161fcab04fdd5d06348ec03c9b2c8c",
+    "wof:geomhash":"f0475e43568921eae418fc1a378a2da9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108804183,
+            "neighbourhood_id":1108802915,
             "region_id":85687053,
             "venue_id":320632077
         }
     ],
     "wof:id":320632077,
-    "wof:lastmodified":1473879471,
+    "wof:lastmodified":1492483995,
     "wof:name":"Plezier, Sticht",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

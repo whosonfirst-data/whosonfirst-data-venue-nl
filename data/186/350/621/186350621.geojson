@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.558197,51.93515,4.558197,51.93515",
     "geom:latitude":51.93515,
     "geom:longitude":4.558197,
@@ -24,31 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798375,
+        1108805851,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zROhu9Qmy4s9edVae7tL4_51.935150_4.558197@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"427898cc99acc7caca0a190d5cb3d9b8",
+    "wof:geomhash":"d6125d0f40c0821fc4ed021a644b3a4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85798375,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805851,
+            "region_id":85687041,
+            "venue_id":186350621
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805851,
             "region_id":85687041,
             "venue_id":186350621
         }
     ],
     "wof:id":186350621,
-    "wof:lastmodified":1473879317,
+    "wof:lastmodified":1492508122,
     "wof:name":"Bridge Inn",
-    "wof:parent_id":85798375,
+    "wof:parent_id":1108805851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

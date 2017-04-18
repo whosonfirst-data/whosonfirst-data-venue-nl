@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7549138069,52.7021255493,5.7549138069,52.7021255493",
     "geom:latitude":52.702126,
     "geom:longitude":5.754914,
@@ -24,17 +25,32 @@
     "sg:province":"Flevoland",
     "sg:website":"http://www.roobol.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473843,
+        85633337,
+        101807245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wnBlRxumwgGFDjSYzzNXq_52.702126_5.754914@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802520,
-    "wof:geomhash":"610b358da8b3400c5e350c8559d3e9bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a36283ce3a9b6a21e1bdb2dbd29acbf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473843,
+            "locality_id":101807245,
+            "region_id":85687049,
+            "venue_id":1091599937
+        }
+    ],
     "wof:id":1091599937,
-    "wof:lastmodified":1473879045,
+    "wof:lastmodified":1492509452,
     "wof:name":"Roobol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.793383,52.341251,4.793383,52.341251",
     "geom:latitude":52.341251,
     "geom:longitude":4.793383,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803689,
+        1108802857,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2DhteEvILQhvDeAULRGk4X_52.341251_4.793383@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"020ba5afd84d33f36c56deef701ee73a",
+    "wof:geomhash":"2771f7bca1dcda476b6f6c86ecafa3af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803689,
+            "neighbourhood_id":1108802857,
             "region_id":85687053,
             "venue_id":236845405
         }
     ],
     "wof:id":236845405,
-    "wof:lastmodified":1473879543,
+    "wof:lastmodified":1492491302,
     "wof:name":"Glas On Wheels",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

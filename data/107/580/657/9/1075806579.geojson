@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6634459496,52.1320800781,4.6634459496,52.1320800781",
     "geom:latitude":52.13208,
     "geom:longitude":4.663446,
@@ -33,17 +34,32 @@
         "verhuur"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474147,
+        85633337,
+        101751837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21lwW3tvJeoig3i5WEgyLe_52.132080_4.663446@1306269916"
     },
     "wof:country":"NL",
     "wof:created":1473798474,
-    "wof:geomhash":"fdf09efbc0441d82e2f8597802d92afe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e3f579b655e3c1cb02f4afb77c20dba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474147,
+            "locality_id":101751837,
+            "region_id":85687041,
+            "venue_id":1075806579
+        }
+    ],
     "wof:id":1075806579,
-    "wof:lastmodified":1473878482,
+    "wof:lastmodified":1492486030,
     "wof:name":"Videoland Alphen Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

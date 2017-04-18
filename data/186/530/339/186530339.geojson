@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.938846,52.396599,4.938846,52.396599",
     "geom:latitude":52.396599,
     "geom:longitude":4.938846,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803535,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1MCgewQb1xw5CM7bJpJwRl_52.396599_4.938846@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9bb3b80790d22c9651de59455a676d35",
+    "wof:geomhash":"c61a94a95a064548017e2245e15ab5a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803535,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":186530339
         }
     ],
     "wof:id":186530339,
-    "wof:lastmodified":1473879586,
+    "wof:lastmodified":1492508952,
     "wof:name":"Ver Van Eigenaren Flatgeb Werengouw",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803535,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

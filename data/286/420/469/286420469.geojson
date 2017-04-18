@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.932726,52.337952,4.932726,52.337952",
     "geom:latitude":52.337952,
     "geom:longitude":4.932726,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.thesolutionsweb.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803887,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_0IDWQWrenaxGs7WwHzdPli_52.337952_4.932726@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"63c8928baa5f3f1a1df659588ccbafb3",
+    "wof:geomhash":"e77c9a54f1faec018710d030cde2dc45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803887,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":286420469
         }
     ],
     "wof:id":286420469,
-    "wof:lastmodified":1473878962,
+    "wof:lastmodified":1492475669,
     "wof:name":"2Train Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

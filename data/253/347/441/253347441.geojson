@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.875624,52.379787,4.875624,52.379787",
     "geom:latitude":52.379787,
     "geom:longitude":4.875624,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803875,
+        1108802807,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4pYooiiyu7FGjllDpgcpXo_52.379787_4.875624@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"950e1f06f404e0dac960c1823a4daab1",
+    "wof:geomhash":"e2a9dc7adbfd83817b26af2b086adeee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803875,
+            "neighbourhood_id":1108802807,
             "region_id":85687053,
             "venue_id":253347441
         }
     ],
     "wof:id":253347441,
-    "wof:lastmodified":1473879429,
+    "wof:lastmodified":1492490511,
     "wof:name":"Ege",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

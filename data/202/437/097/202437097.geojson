@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.267646,52.052555,4.267646,52.052555",
     "geom:latitude":52.052555,
     "geom:longitude":4.267646,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798043,
+        1108808291,
+        102191581,
+        1108805973,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7GEUNFUPccfzAv807ofXdP_52.052555_4.267646@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"492d06e3f8cd3cee56bb9589a5cfdfa2",
+    "wof:geomhash":"061e910c47d053ae7311b8a8ae148f22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798043,
+            "macrohood_id":1108805973,
+            "neighbourhood_id":1108808291,
             "region_id":85687041,
             "venue_id":202437097
         }
     ],
     "wof:id":202437097,
-    "wof:lastmodified":1473878681,
+    "wof:lastmodified":1492498716,
     "wof:name":"Sbo",
-    "wof:parent_id":85798043,
+    "wof:parent_id":1108808291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

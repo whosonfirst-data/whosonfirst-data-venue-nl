@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4438209534,52.1331825256,5.4438209534,52.1331825256",
     "geom:latitude":52.133183,
     "geom:longitude":5.443821,
@@ -23,17 +24,32 @@
     "sg:postcode":"3831 HT",
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473989,
+        85633337,
+        101837659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Sl24r8DbP4mHHUJuA356a_52.133183_5.443821@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803654,
-    "wof:geomhash":"15b06d008c1ada3bb3fd81991b564e36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54f1cc8c2e8be88a6cb766c85993ae70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473989,
+            "locality_id":101837659,
+            "region_id":85687039,
+            "venue_id":1091614661
+        }
+    ],
     "wof:id":1091614661,
-    "wof:lastmodified":1473878745,
+    "wof:lastmodified":1492510623,
     "wof:name":"Kassawacht",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

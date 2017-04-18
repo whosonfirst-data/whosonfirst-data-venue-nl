@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.938129,52.302204,4.938129,52.302204",
     "geom:latitude":52.302204,
     "geom:longitude":4.938129,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797113,
+        1108803575,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_43xUXOq33ovHZxNjb4U0p3_52.302204_4.938129@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d72c948839014338db8396ded7d40160",
+    "wof:geomhash":"375ffc1946eb145781ad594742aa8be2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797113,
+            "locality_id":101751893,
+            "microhood_id":1108803575,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":287134211
         }
     ],
     "wof:id":287134211,
-    "wof:lastmodified":1473878890,
+    "wof:lastmodified":1492513354,
     "wof:name":"Meeuwis En Zoon Bv",
-    "wof:parent_id":85797113,
+    "wof:parent_id":1108803575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

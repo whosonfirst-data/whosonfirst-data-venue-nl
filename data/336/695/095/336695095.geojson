@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.533779,51.923275,4.533779,51.923275",
     "geom:latitude":51.923275,
     "geom:longitude":4.533779,
@@ -36,9 +37,12 @@
     "sg:website":"http://www.berk.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859923,
+        1108805803,
+        102191581,
+        1108805667,
         85633337,
-        101754669,
+        101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -46,21 +50,23 @@
         "sg:id":"SG_7m35yIOiyqGh28Nt2jfXfw_51.923275_4.533779@1306270004"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fb0da8c11567adb586d6f29b3e1847c8",
+    "wof:geomhash":"890ec8f18be86526ff69eec2fc719328",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754669,
-            "neighbourhood_id":85859923,
+            "locality_id":101751843,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805803,
             "region_id":85687041,
             "venue_id":336695095
         }
     ],
     "wof:id":336695095,
-    "wof:lastmodified":1473878415,
+    "wof:lastmodified":1492507177,
     "wof:name":"Berk & Meijboom",
-    "wof:parent_id":85859923,
+    "wof:parent_id":1108805803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

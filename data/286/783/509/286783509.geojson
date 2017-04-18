@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.300127,52.091084,4.300127,52.091084",
     "geom:latitude":52.091084,
     "geom:longitude":4.300127,
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859619,
+        102191581,
+        1108808071,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,19 +38,21 @@
         "sg:id":"SG_6J78pS1vH96gOb9REowhdt_52.091084_4.300127@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"97401f29adb68ea11e8d17b6d4cb01a3",
+    "wof:geomhash":"7cd17832b4ec22a2992c7f6288494e92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808071,
             "neighbourhood_id":85859619,
             "region_id":85687041,
             "venue_id":286783509
         }
     ],
     "wof:id":286783509,
-    "wof:lastmodified":1473879601,
+    "wof:lastmodified":1492477565,
     "wof:name":"Marc De Groot",
     "wof:parent_id":85859619,
     "wof:placetype":"venue",

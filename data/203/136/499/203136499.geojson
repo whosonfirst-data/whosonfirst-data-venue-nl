@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912348,52.350395,4.912348,52.350395",
     "geom:latitude":52.350395,
     "geom:longitude":4.912348,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803259,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0SBxpnCK4nETaz9FG0xYC0_52.350395_4.912348@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0e5d75d2abc48b38e11a70786cbc5a82",
+    "wof:geomhash":"3fd752f6c92a7279bb39a79ae55bf61f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803259,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":203136499
         }
     ],
     "wof:id":203136499,
-    "wof:lastmodified":1473878988,
+    "wof:lastmodified":1492480312,
     "wof:name":"G.E. Poppe-Duwel-Assurantien",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

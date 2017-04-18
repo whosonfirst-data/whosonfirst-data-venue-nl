@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6533041,52.3155822754,4.6533041,52.3155822754",
     "geom:latitude":52.315582,
     "geom:longitude":4.653304,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.webexcellence.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474065,
+        85633337,
+        101751899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4G9BN60mAdzr34jRtET3gN_52.315582_4.653304@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800840,
-    "wof:geomhash":"ff064e12ec3b991bbe9d76d10823ee9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1bc0736923b1c6bb90327408629a7b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474065,
+            "locality_id":101751899,
+            "region_id":85687053,
+            "venue_id":1091575781
+        }
+    ],
     "wof:id":1091575781,
-    "wof:lastmodified":1473878889,
+    "wof:lastmodified":1492511273,
     "wof:name":"Web Excellence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

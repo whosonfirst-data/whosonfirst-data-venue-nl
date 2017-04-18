@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.859148,52.324829,4.859148,52.324829",
     "geom:latitude":52.324829,
     "geom:longitude":4.859148,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803485,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_76WmtBRvvblib7BbGsV8Tq_52.324829_4.859148@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c1183a376ffa852510ebad37294c2e6b",
+    "wof:geomhash":"0be7c4b6e1c8bd6529ac7a19cc628509",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803485,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":269650497
         }
     ],
     "wof:id":269650497,
-    "wof:lastmodified":1473879215,
+    "wof:lastmodified":1492496660,
     "wof:name":"Elkerbout, Drs M",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

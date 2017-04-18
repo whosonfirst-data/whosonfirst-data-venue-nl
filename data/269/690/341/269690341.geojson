@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.314023,52.090298,4.314023,52.090298",
     "geom:latitude":52.090298,
     "geom:longitude":4.314023,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808143,
+        102191581,
+        1108805961,
         85633337,
         101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0L5y9ct4yMJKuEUsTvoIPl_52.090298_4.314023@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b1f21179d6a8ca112bc16b02e191e2b3",
+    "wof:geomhash":"b18a353de5f936ac8d95bfe028d2aa89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108805961,
+            "neighbourhood_id":1108808143,
             "region_id":85687041,
             "venue_id":269690341
         }
     ],
     "wof:id":269690341,
-    "wof:lastmodified":1473879275,
+    "wof:lastmodified":1492496347,
     "wof:name":"Publimarket",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

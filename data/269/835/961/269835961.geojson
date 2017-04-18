@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.905563,52.346016,4.905563,52.346016",
     "geom:latitude":52.346016,
     "geom:longitude":4.905563,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803613,
+        1108802895,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_2nYUaFOqWFAxogehm7BJn3_52.346016_4.905563@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6c6e387f7fc8720e4e5963d817955e22",
+    "wof:geomhash":"27090f054bf7a513a2765e7657b778e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803613,
+            "neighbourhood_id":1108802895,
             "region_id":85687053,
             "venue_id":269835961
         }
     ],
     "wof:id":269835961,
-    "wof:lastmodified":1473879513,
+    "wof:lastmodified":1492495084,
     "wof:name":"Kong Ming",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

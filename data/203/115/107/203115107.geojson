@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.358267,52.104317,4.358267,52.104317",
     "geom:latitude":52.104317,
     "geom:longitude":4.358267,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859641,
+        85859637,
+        102191581,
+        1108808111,
         85633337,
+        101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_0fNwN7wDo9KyscQrRnReST_52.104317_4.358267@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ba2aabff01c8b01d1b8fd01ab689f674",
+    "wof:geomhash":"244d148066e125fa3e64912970dfab46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859641,
+            "locality_id":101752763,
+            "macrohood_id":1108808111,
+            "neighbourhood_id":85859637,
             "region_id":85687041,
             "venue_id":203115107
         }
     ],
     "wof:id":203115107,
-    "wof:lastmodified":1473878929,
+    "wof:lastmodified":1492480016,
     "wof:name":"Boersma-Reidt Insurance",
-    "wof:parent_id":85859641,
+    "wof:parent_id":85859637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

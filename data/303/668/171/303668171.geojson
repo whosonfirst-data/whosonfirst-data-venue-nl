@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.865465,52.32494,4.865465,52.32494",
     "geom:latitude":52.32494,
     "geom:longitude":4.865465,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803485,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_142O1JKO4D6qHd2PJCKhJy_52.324940_4.865465@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7c4e4d100213885a73867259ff51d0a4",
+    "wof:geomhash":"f43142868ca39b7739aaab085f9ada4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803485,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":303668171
         }
     ],
     "wof:id":303668171,
-    "wof:lastmodified":1473879442,
+    "wof:lastmodified":1492473588,
     "wof:name":"Wust Handelmij Bv",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

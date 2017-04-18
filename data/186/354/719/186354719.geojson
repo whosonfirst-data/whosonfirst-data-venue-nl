@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.91224,52.359467,4.91224,52.359467",
     "geom:latitude":52.359467,
     "geom:longitude":4.91224,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803279,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4rdni1n2zIG2ctLOLHJcoU_52.359467_4.912240@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"41ed8e29d88c4af0de7ce231ab2e9913",
+    "wof:geomhash":"d6cf34ebb6c68b17825928f14f0014cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803279,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":186354719
         }
     ],
     "wof:id":186354719,
-    "wof:lastmodified":1473879318,
+    "wof:lastmodified":1492509159,
     "wof:name":"Cadre, Sticht",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

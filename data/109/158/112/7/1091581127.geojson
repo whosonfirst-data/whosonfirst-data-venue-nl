@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8380651474,51.1633644104,5.8380651474,51.1633644104",
     "geom:latitude":51.163364,
     "geom:longitude":5.838065,
@@ -34,17 +35,32 @@
     ],
     "sg:website":"http://www.ikwilkaarten.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474559,
+        85633337,
+        101809631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uTS4hlJnkKJWrLGFTsuO0_51.163364_5.838065@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801247,
-    "wof:geomhash":"824644555f86a059cae69d31ad12544d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c08fc998002f3a3a474296fe0b89795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474559,
+            "locality_id":101809631,
+            "region_id":85687033,
+            "venue_id":1091581127
+        }
+    ],
     "wof:id":1091581127,
-    "wof:lastmodified":1473878565,
+    "wof:lastmodified":1492511702,
     "wof:name":"Ansichtkaarten Gilde",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.907374,52.369995,4.907374,52.369995",
     "geom:latitude":52.369995,
     "geom:longitude":4.907374,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.ibis.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804055,
+        1108802875,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_3XuR0nXFTeb9wUDtBZim6V_52.369995_4.907374@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6de6e28d211058d44317c33ef6a07329",
+    "wof:geomhash":"3cc4cd3be795384ae22ffe8c93f93c6f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804055,
+            "neighbourhood_id":1108802875,
             "region_id":85687053,
             "venue_id":304073105
         }
     ],
     "wof:id":304073105,
-    "wof:lastmodified":1473878791,
+    "wof:lastmodified":1492504629,
     "wof:name":"Ibis Amsterdam Stopera",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.895405,52.365131,4.895405,52.365131",
     "geom:latitude":52.365131,
     "geom:longitude":4.895405,
@@ -29,9 +30,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803687,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_1An3itlcuJUVsNEywJv6qm_52.365131_4.895405@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"401793f4d3ff5224e4e0b3f0bf75ea0f",
+    "wof:geomhash":"a7c59571010d1fd0b9537f22d0c69e2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803687,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":319822689
         }
     ],
     "wof:id":319822689,
-    "wof:lastmodified":1473878513,
+    "wof:lastmodified":1492478930,
     "wof:name":"The Veteran",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

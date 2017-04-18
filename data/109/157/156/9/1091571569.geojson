@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.5205888748,52.8691101074,6.5205888748,52.8691101074",
     "geom:latitude":52.86911,
     "geom:longitude":6.520589,
@@ -24,17 +25,32 @@
     "sg:province":"Provincie Drenthe",
     "sg:website":"http://www.b-arts.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474649,
+        85633337,
+        101807273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2v7EN5Uwo1tWrBz991UzS3_52.869110_6.520589@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800580,
-    "wof:geomhash":"a59fe8445c08ad744b7b18546bd008ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2624bcdf69f9d5e25e4a0dc47d33da2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474649,
+            "locality_id":101807273,
+            "region_id":85687051,
+            "venue_id":1091571569
+        }
+    ],
     "wof:id":1091571569,
-    "wof:lastmodified":1473878551,
+    "wof:lastmodified":1492511217,
     "wof:name":"B-Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

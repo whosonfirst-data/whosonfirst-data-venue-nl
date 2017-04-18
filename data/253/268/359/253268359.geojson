@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.317102,52.079666,4.317102,52.079666",
     "geom:latitude":52.079666,
     "geom:longitude":4.317102,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808255,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7AqHF9FADZ9Yt3mch5CjNS_52.079666_4.317102@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0f5e0b3d96aa361e6ed90a4a82c43bd8",
+    "wof:geomhash":"a6f9da9dfde493cc74b7bf2e490c4564",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808255,
             "region_id":85687041,
             "venue_id":253268359
         }
     ],
     "wof:id":253268359,
-    "wof:lastmodified":1473879302,
+    "wof:lastmodified":1492489815,
     "wof:name":"De Tafelaar",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

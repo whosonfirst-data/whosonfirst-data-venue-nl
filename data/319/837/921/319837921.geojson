@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.860851,52.354862,4.860851,52.354862",
     "geom:latitude":52.354862,
     "geom:longitude":4.860851,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803453,
+        1108802963,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_7G4dLWm6zdCV6HJbD9tW8M_52.354862_4.860851@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f45c585253fde1ffcdb70131c952612c",
+    "wof:geomhash":"b4968a675dafaed275445724b436e241",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803453,
+            "neighbourhood_id":1108802963,
             "region_id":85687053,
             "venue_id":319837921
         }
     ],
     "wof:id":319837921,
-    "wof:lastmodified":1473878621,
+    "wof:lastmodified":1492479285,
     "wof:name":"Toro Hotel Vof",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.5124220848,52.8589706421,6.5124220848,52.8589706421",
     "geom:latitude":52.858971,
     "geom:longitude":6.512422,
@@ -24,17 +25,32 @@
     "sg:province":"Drenthe",
     "sg:website":"HTTP://www.hansanders.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474649,
+        85633337,
+        101807273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HVxfYglvN79rjWeyTc02G_52.858971_6.512422@1306270008"
     },
     "wof:country":"NL",
     "wof:created":1473798978,
-    "wof:geomhash":"538c4f97b9f62cd2936ab1c86fbdfe26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e3b914fe7bf79e76cfabcbc1fb7e189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474649,
+            "locality_id":101807273,
+            "region_id":85687051,
+            "venue_id":1075817087
+        }
+    ],
     "wof:id":1075817087,
-    "wof:lastmodified":1473879077,
+    "wof:lastmodified":1492486194,
     "wof:name":"Hans Anders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

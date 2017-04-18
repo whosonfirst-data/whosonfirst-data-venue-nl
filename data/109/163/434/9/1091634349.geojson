@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.288187027,52.2502670288,6.288187027,52.2502670288",
     "geom:latitude":52.250267,
     "geom:longitude":6.288187,
@@ -23,17 +24,32 @@
     "sg:postcode":"7437 AH",
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473825,
+        85633337,
+        101807137
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FOwUypmAGAoCQwUtyj81W_52.250267_6.288187@1306270020"
     },
     "wof:country":"NL",
     "wof:created":1473804827,
-    "wof:geomhash":"97ea75d86f161b7206177575386987b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a5681f465675fe2184ea12ed3a9e546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473825,
+            "locality_id":101807137,
+            "region_id":85687045,
+            "venue_id":1091634349
+        }
+    ],
     "wof:id":1091634349,
-    "wof:lastmodified":1473878586,
+    "wof:lastmodified":1492510182,
     "wof:name":"Kapsalon De Worp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

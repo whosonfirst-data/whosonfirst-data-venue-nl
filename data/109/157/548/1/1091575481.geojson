@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6263670921,52.2050132751,4.6263670921,52.2050132751",
     "geom:latitude":52.205013,
     "geom:longitude":4.626367,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.tribuhne.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474677,
+        85633337,
+        101808479
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Q6LeI8NrKAcndp3FDxVVQ_52.205013_4.626367@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800826,
-    "wof:geomhash":"74686dd92a0d7f999374fbc6a1b90c04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c647dd7a8d41746b5a0552aca0409b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474677,
+            "locality_id":101808479,
+            "region_id":85687041,
+            "venue_id":1091575481
+        }
+    ],
     "wof:id":1091575481,
-    "wof:lastmodified":1473878874,
+    "wof:lastmodified":1492511424,
     "wof:name":"Trib?hne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

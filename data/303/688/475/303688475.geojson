@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.302112,52.081242,4.302112,52.081242",
     "geom:latitude":52.081242,
     "geom:longitude":4.302112,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4hCNqCcFrgkmP8hKkUrgGx_52.081242_4.302112@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d49e080b1cadebd57556b2433fe971b4",
+    "wof:geomhash":"53c1fe16be3b2a0104dcb93a278f7fa9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":303688475
         }
     ],
     "wof:id":303688475,
-    "wof:lastmodified":1473879454,
+    "wof:lastmodified":1492474243,
     "wof:name":"Duns Composer Zetwerk",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

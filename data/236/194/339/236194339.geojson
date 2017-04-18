@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.406828,51.943485,4.406828,51.943485",
     "geom:latitude":51.943485,
     "geom:longitude":4.406828,
@@ -25,31 +26,46 @@
     "sg:website":"http://www.vdsijs.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859705,
+        1108805757,
+        102191581,
         85633337,
-        101751845,
-        85687041
+        101751843,
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04vqZLTk3p5WdZt39oImu0_51.943485_4.406828@1306269935"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9692bcba3d6746a31ff882d7ebc5b459",
+    "wof:geomhash":"6424e9b7245f79209907d09f28d6b87f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805739,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":236194339
+        },
+        {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474253,
             "locality_id":101751845,
-            "neighbourhood_id":85859705,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":236194339
         }
     ],
     "wof:id":236194339,
-    "wof:lastmodified":1473878899,
+    "wof:lastmodified":1492493430,
     "wof:name":"Sijs Bv, Van Der",
-    "wof:parent_id":85859705,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

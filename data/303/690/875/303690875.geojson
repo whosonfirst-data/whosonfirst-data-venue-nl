@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.89754,52.361046,4.89754,52.361046",
     "geom:latitude":52.361046,
     "geom:longitude":4.89754,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804045,
+        1108802791,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4RbxYZMqudu8tfdFMgRkLy_52.361046_4.897540@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"708ee8354fc1ac53d8bc06fda3c1db66",
+    "wof:geomhash":"9cbf49db7764ac06507ccd2985d529e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804045,
+            "neighbourhood_id":1108802791,
             "region_id":85687053,
             "venue_id":303690875
         }
     ],
     "wof:id":303690875,
-    "wof:lastmodified":1473879453,
+    "wof:lastmodified":1492473741,
     "wof:name":"Fred Inklaar",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.896147,52.36554,4.896147,52.36554",
     "geom:latitude":52.36554,
     "geom:longitude":4.896147,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803223,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1LiOHjwn0Z4QY37rKaqNfv_52.365540_4.896147@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8f63ba3e7c93a218ec61aabd0a33f362",
+    "wof:geomhash":"6cc77d0201dfd54efe308ddd1cc1c446",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803223,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":220072359
         }
     ],
     "wof:id":220072359,
-    "wof:lastmodified":1473878681,
+    "wof:lastmodified":1492481340,
     "wof:name":"Mediamundo",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

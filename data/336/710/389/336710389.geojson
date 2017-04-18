@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.848696,52.372341,4.848696,52.372341",
     "geom:latitude":52.372341,
     "geom:longitude":4.848696,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803673,
+        1108802931,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_64BiDZ16Dsm1u7M29kYUes_52.372341_4.848696@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d4b613390e4392305b76db6dc7a66ff0",
+    "wof:geomhash":"549dfaee75dc6e18ca200e127ff5c06d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803673,
+            "neighbourhood_id":1108802931,
             "region_id":85687053,
             "venue_id":336710389
         }
     ],
     "wof:id":336710389,
-    "wof:lastmodified":1473878411,
+    "wof:lastmodified":1492507213,
     "wof:name":"Accountantskantoor B. Kazemier",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

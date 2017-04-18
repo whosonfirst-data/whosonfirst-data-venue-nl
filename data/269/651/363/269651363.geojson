@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.866911,52.324162,4.866911,52.324162",
     "geom:latitude":52.324162,
     "geom:longitude":4.866911,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803485,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4XnXds638HfphLPl4bRp7t_52.324162_4.866911@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"430fa452e898505cc81d8556c03fa5db",
+    "wof:geomhash":"81999ea8b97d53b03c2b2e0aded004b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803485,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":269651363
         }
     ],
     "wof:id":269651363,
-    "wof:lastmodified":1473879224,
+    "wof:lastmodified":1492495141,
     "wof:name":"Filet, Drs B C",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

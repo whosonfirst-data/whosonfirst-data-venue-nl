@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.906199,52.419598,4.906199,52.419598",
     "geom:latitude":52.419598,
     "geom:longitude":4.906199,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803967,
+        1108802847,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_74NEdJV5TjCbfFVauF0zVw_52.419598_4.906199@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4e3e442a9dc3b3e10ab5e2e782139832",
+    "wof:geomhash":"49cc1af652ffeeaa116a8950ed14fedf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803967,
+            "neighbourhood_id":1108802847,
             "region_id":85687053,
             "venue_id":253674357
         }
     ],
     "wof:id":253674357,
-    "wof:lastmodified":1473879695,
+    "wof:lastmodified":1492488822,
     "wof:name":"Stella, La",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803967,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

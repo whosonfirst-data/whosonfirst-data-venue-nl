@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.538276,51.95327,4.538276,51.95327",
     "geom:latitude":51.95327,
     "geom:longitude":4.538276,
@@ -24,31 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vcTbqmXsRzhgG0mZnwHf4_51.953270_4.538276@1306269997"
     },
     "wof:country":"NL",
-    "wof:geomhash":"072fb11b7c4e1d826609808a6c01c9f6",
+    "wof:geomhash":"3e6b8f192bb37488da420d78e542f74f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":320300765
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":320300765
         }
     ],
     "wof:id":320300765,
-    "wof:lastmodified":1473879172,
+    "wof:lastmodified":1492484128,
     "wof:name":"Wilde Vof, De",
-    "wof:parent_id":85798329,
+    "wof:parent_id":85798149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

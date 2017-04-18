@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.129644,52.116428,5.129644,52.116428",
     "geom:latitude":52.116428,
     "geom:longitude":5.129644,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808925,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_0MMwYkjyXlAyB1IIpMj2L3_52.116428_5.129644@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6c4276826d86591435bc1d0bc027294d",
+    "wof:geomhash":"5691d10a18522cf434af74592d89be1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808925,
             "region_id":85687039,
             "venue_id":236821935
         }
     ],
     "wof:id":236821935,
-    "wof:lastmodified":1473879554,
+    "wof:lastmodified":1492493748,
     "wof:name":"Start",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

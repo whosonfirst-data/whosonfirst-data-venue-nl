@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.290618,52.079975,4.290618,52.079975",
     "geom:latitude":52.079975,
     "geom:longitude":4.290618,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6xs1I96axtxejKnuf0DZhv_52.079975_4.290618@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"feda2291e691240adebc17887aeefa62",
+    "wof:geomhash":"22bbde0b1fc120ef9803baba283da0db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":270034735
         }
     ],
     "wof:id":270034735,
-    "wof:lastmodified":1473878503,
+    "wof:lastmodified":1492500364,
     "wof:name":"Anneke De Zeeuw",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

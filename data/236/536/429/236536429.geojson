@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1904,52.146461,6.1904,52.146461",
     "geom:latitude":52.146461,
     "geom:longitude":6.1904,
@@ -24,10 +25,12 @@
     "sg:province":"Gelderland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797361,
         85633337,
+        85797361,
         85687043,
         85798799,
+        102191581,
+        404473961,
         101837819
     ],
     "wof:breaches":[],
@@ -35,19 +38,18 @@
         "sg:id":"SG_1doQQDFmXP4LZRGVcfEAzs_52.146461_6.190400@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3655ee2e1ff7dde0277ebdfb50c7280f",
+    "wof:geomhash":"a79c27d910eb881aaf33fbf9bee8afa3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85797361,
             "region_id":85687043,
             "venue_id":236536429
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473961,
             "locality_id":101837819,
             "neighbourhood_id":85798799,
             "region_id":85687043,
@@ -55,9 +57,9 @@
         }
     ],
     "wof:id":236536429,
-    "wof:lastmodified":1473879398,
+    "wof:lastmodified":1492494447,
     "wof:name":"A. Disikara",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

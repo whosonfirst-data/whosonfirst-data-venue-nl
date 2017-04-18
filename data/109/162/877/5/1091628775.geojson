@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0624041557,52.0859565735,5.0624041557,52.0859565735",
     "geom:latitude":52.085957,
     "geom:longitude":5.062404,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808779,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808661,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473804481,
-    "wof:geomhash":"bbc2096cdddce234446fb1216ec1c87b",
+    "wof:geomhash":"310f1e66b68a9ed29cd0d6cf9e18f4cb",
     "wof:hierarchy":[
         {
+            "borough_id":1108808661,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808779,
             "region_id":85687039,
             "venue_id":1091628775
         }
     ],
     "wof:id":1091628775,
-    "wof:lastmodified":1473879068,
+    "wof:lastmodified":1492512238,
     "wof:name":"Hair Sensation",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

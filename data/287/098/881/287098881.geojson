@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.120739,52.112598,5.120739,52.112598",
     "geom:latitude":52.112598,
     "geom:longitude":5.120739,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808871,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_2ELjz95aqFJMpwX3cOgtUL_52.112598_5.120739@1306269976"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8b36b27183185f34b0f75f145f52d39a",
+    "wof:geomhash":"2b7295db241a2fb00153c2c48e7c2dd1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808871,
             "region_id":85687039,
             "venue_id":287098881
         }
     ],
     "wof:id":287098881,
-    "wof:lastmodified":1473878802,
+    "wof:lastmodified":1492514249,
     "wof:name":"Selhorst",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

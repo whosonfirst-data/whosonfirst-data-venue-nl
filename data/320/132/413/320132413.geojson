@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.281028,52.062557,4.281028,52.062557",
     "geom:latitude":52.062557,
     "geom:longitude":4.281028,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859609,
+        1108808273,
+        102191581,
+        1108808119,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5zL23XiwHx8qMJvYMUVGMg_52.062557_4.281028@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3184c80f61963458ce76b7f84ff7018c",
+    "wof:geomhash":"1fc216b4071160bbfb566fd051bccd9f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859609,
+            "macrohood_id":1108808119,
+            "neighbourhood_id":1108808273,
             "region_id":85687041,
             "venue_id":320132413
         }
     ],
     "wof:id":320132413,
-    "wof:lastmodified":1473878943,
+    "wof:lastmodified":1492485046,
     "wof:name":"De Rode Gevelwerken",
-    "wof:parent_id":85859609,
+    "wof:parent_id":1108808273,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

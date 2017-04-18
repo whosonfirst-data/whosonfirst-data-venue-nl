@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1689181328,52.0350723267,5.1689181328,52.0350723267",
     "geom:latitude":52.035072,
     "geom:longitude":5.168918,
@@ -24,9 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687039,
+        102191581,
+        404473987,
         85633337,
-        85859943,
-        85687039
+        101807003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473802732,
-    "wof:geomhash":"d5571c033ee44a7283268422f839839d",
+    "wof:geomhash":"86447214374efed2ef4b476378c181ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85859943,
+            "localadmin_id":404473987,
+            "locality_id":101807003,
             "region_id":85687039,
             "venue_id":1091603445
         }
     ],
     "wof:id":1091603445,
-    "wof:lastmodified":1473878614,
+    "wof:lastmodified":1492512902,
     "wof:name":"Peterse",
-    "wof:parent_id":85859943,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

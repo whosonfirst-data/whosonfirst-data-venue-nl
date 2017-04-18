@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.088989,52.114952,5.088989,52.114952",
     "geom:latitude":52.114952,
     "geom:longitude":5.088989,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808857,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0WyAKOsWSnNn1AN4t8OEbR_52.114952_5.088989@1306270006"
     },
     "wof:country":"NL",
-    "wof:geomhash":"68172a2e4ec53273117129cc195af0d6",
+    "wof:geomhash":"4abb3bb976e6b2616072bc2e382ad76b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808857,
             "region_id":85687039,
             "venue_id":336817445
         }
     ],
     "wof:id":336817445,
-    "wof:lastmodified":1473878449,
+    "wof:lastmodified":1492507095,
     "wof:name":"A&G",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808857,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

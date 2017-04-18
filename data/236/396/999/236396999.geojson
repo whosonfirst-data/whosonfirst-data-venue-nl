@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.85598,52.350777,4.85598,52.350777",
     "geom:latitude":52.350777,
     "geom:longitude":4.85598,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803439,
+        1108802899,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1FgsmfbgyUZttFiPw8Jkn8_52.350777_4.855980@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"02d2da0aff4026d59d6a102c0e91a301",
+    "wof:geomhash":"2202f38ac91aa894fa1e22eb63e53b04",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803439,
+            "neighbourhood_id":1108802899,
             "region_id":85687053,
             "venue_id":236396999
         }
     ],
     "wof:id":236396999,
-    "wof:lastmodified":1473879255,
+    "wof:lastmodified":1492493588,
     "wof:name":"Jumbo",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.948341,52.342045,4.948341,52.342045",
     "geom:latitude":52.342045,
     "geom:longitude":4.948341,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803871,
+        1108802539,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7gRgzj61dqMcpGKLG4iee8_52.342045_4.948341@1306269905"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d2712d5884d8005a6ea308ec90c0e5e0",
+    "wof:geomhash":"2bf9cf518e57aa49f56d5f83c4dae863",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803871,
+            "neighbourhood_id":1108802539,
             "region_id":85687053,
             "venue_id":169770061
         }
     ],
     "wof:id":169770061,
-    "wof:lastmodified":1473878664,
+    "wof:lastmodified":1492478455,
     "wof:name":"Meer, De",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

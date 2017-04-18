@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3277001381,51.3963279724,4.3277001381,51.3963279724",
     "geom:latitude":51.396328,
     "geom:longitude":4.3277,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.peopletouch.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474455,
+        85633337,
+        101809745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yReKtgfF6UoNDBnLc5sDI_51.396328_4.327700@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802019,
-    "wof:geomhash":"84a282d4c1dd9764a861b1fa5cf3ba88",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bab6e5b4a6ba1b3b61a292451e04512a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474455,
+            "locality_id":101809745,
+            "region_id":85687035,
+            "venue_id":1091591445
+        }
+    ],
     "wof:id":1091591445,
-    "wof:lastmodified":1473878544,
+    "wof:lastmodified":1492509805,
     "wof:name":"People Touch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

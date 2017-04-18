@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.857615,52.331425,4.857615,52.331425",
     "geom:latitude":52.331425,
     "geom:longitude":4.857615,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.i-plus.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803659,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_6R0tOdFRmWZvOZXnOaHdAE_52.331425_4.857615@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f3535019708bb8cbb0c65307def1dce8",
+    "wof:geomhash":"436455a4093e3c83284385d7f969da37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803659,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":219822657
         }
     ],
     "wof:id":219822657,
-    "wof:lastmodified":1473879728,
+    "wof:lastmodified":1492501559,
     "wof:name":"I+ Interim-Management",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803659,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

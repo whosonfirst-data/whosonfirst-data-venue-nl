@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9509768486,52.0364227295,4.9509768486,52.0364227295",
     "geom:latitude":52.036423,
     "geom:longitude":4.950977,
@@ -24,17 +25,32 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.romeda.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473999,
+        85633337,
+        101807011
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79qVYaUy7zrwThf2Z2Jshk_52.036423_4.950977@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800388,
-    "wof:geomhash":"4438fedcd80ec5ba022a3e1ef113fee4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07442ca18809a4aaf85eec37726ccd31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473999,
+            "locality_id":101807011,
+            "region_id":85687039,
+            "venue_id":1091568839
+        }
+    ],
     "wof:id":1091568839,
-    "wof:lastmodified":1473878538,
+    "wof:lastmodified":1492510882,
     "wof:name":"Romeda Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

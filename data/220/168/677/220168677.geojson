@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.429406,51.947582,4.429406,51.947582",
     "geom:latitude":51.947582,
     "geom:longitude":4.429406,
@@ -25,8 +26,12 @@
     "sg:website":"http://www.vanderbrugge.nu",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798367,
+        1108833229,
+        1108805883,
+        102191581,
         85633337,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +39,23 @@
         "sg:id":"SG_2bG7R2QwAqWbl9tD1Ywyo0_51.947582_4.429406@1306269932"
     },
     "wof:country":"NL",
-    "wof:geomhash":"412ad147761abfe12d65f3fb25b3f664",
+    "wof:geomhash":"8102975f5cac44b3ab5f7f5d869e988a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798367,
+            "locality_id":101751843,
+            "microhood_id":1108833229,
+            "neighbourhood_id":1108805883,
             "region_id":85687041,
             "venue_id":220168677
         }
     ],
     "wof:id":220168677,
-    "wof:lastmodified":1473879002,
+    "wof:lastmodified":1492481654,
     "wof:name":"Brugge, Van Der",
-    "wof:parent_id":85798367,
+    "wof:parent_id":1108833229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

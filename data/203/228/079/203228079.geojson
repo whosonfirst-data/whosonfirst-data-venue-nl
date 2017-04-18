@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.858207,52.372398,4.858207,52.372398",
     "geom:latitude":52.372398,
     "geom:longitude":4.858207,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.kern-av.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803525,
+        1108802785,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_0EwpVtbbsMb55q0mnjfe1i_52.372398_4.858207@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"81ec2f1dcd05e3fd8256ed282b4bdd3e",
+    "wof:geomhash":"10636657531fb14592167286d4d9a75b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803525,
+            "neighbourhood_id":1108802785,
             "region_id":85687053,
             "venue_id":203228079
         }
     ],
     "wof:id":203228079,
-    "wof:lastmodified":1473879168,
+    "wof:lastmodified":1492480746,
     "wof:name":"Kern Av",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885369,52.372112,4.885369,52.372112",
     "geom:latitude":52.372112,
     "geom:longitude":4.885369,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804103,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1Ib7jn02ABwvyjiuZAL6P6_52.372112_4.885369@1306269989"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8662ba6b3eea83a37eb15f20bfd74d13",
+    "wof:geomhash":"d6593bc473fa5b6c37dc0cb3ab7bb864",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804103,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":303912617
         }
     ],
     "wof:id":303912617,
-    "wof:lastmodified":1473879642,
+    "wof:lastmodified":1492470697,
     "wof:name":"Maestro Mode",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

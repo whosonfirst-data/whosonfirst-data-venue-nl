@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.924286,52.358967,4.924286,52.358967",
     "geom:latitude":52.358967,
     "geom:longitude":4.924286,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803833,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_20BmUMjinhATJncJP6SL2b_52.358967_4.924286@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b55a55e89a22a56fe5835ec027f7c6c8",
+    "wof:geomhash":"692ebbd644514141d425a1a0543341eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803833,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":186453055
         }
     ],
     "wof:id":186453055,
-    "wof:lastmodified":1473879451,
+    "wof:lastmodified":1492507517,
     "wof:name":"Ned Centr Voor Inheemse Volken",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7879161835,52.6663131714,4.7879161835,52.6663131714",
     "geom:latitude":52.666313,
     "geom:longitude":4.787916,
@@ -23,17 +24,32 @@
     "sg:postcode":"1834 AA",
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474093,
+        85633337,
+        101754879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EyuhKVgNA3NLYfTocJzxj_52.666313_4.787916@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800385,
-    "wof:geomhash":"f07100d1784c67be9779c1008a9cb908",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c00ece1e341c07ce79c163ad48ac28eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474093,
+            "locality_id":101754879,
+            "region_id":85687053,
+            "venue_id":1091568773
+        }
+    ],
     "wof:id":1091568773,
-    "wof:lastmodified":1473878534,
+    "wof:lastmodified":1492510910,
     "wof:name":"Quant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.87496,52.336819,4.87496,52.336819",
     "geom:latitude":52.336819,
     "geom:longitude":4.87496,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803341,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4p2sFhuqrjK4HrTY0jf3Bu_52.336819_4.874960@1306269984"
     },
     "wof:country":"NL",
-    "wof:geomhash":"117df123d64aaf1189d0f841e3a2dfdd",
+    "wof:geomhash":"67c459c71634dcd3552353420bfc2b8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803341,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":303482379
         }
     ],
     "wof:id":303482379,
-    "wof:lastmodified":1473879184,
+    "wof:lastmodified":1492474166,
     "wof:name":"Nieuw Tennis Centrum Bv",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803341,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

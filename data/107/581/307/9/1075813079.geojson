@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5526218414,51.9526634216,4.5526218414,51.9526634216",
     "geom:latitude":51.952663,
     "geom:longitude":4.552622,
@@ -34,10 +35,12 @@
     "wof:belongsto":[
         85798177,
         102191581,
-        404474163,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,19 @@
     },
     "wof:country":"NL",
     "wof:created":1473798817,
-    "wof:geomhash":"960d0f60d7a2c9f0bac858fac1c68bed",
+    "wof:geomhash":"02dd3a6d720b57e4c6cdc66cc4f98b5e",
     "wof:hierarchy":[
         {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":1075813079
+        },
+        {
+            "borough_id":1108805725,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474163,
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1075813079,
-    "wof:lastmodified":1473878919,
+    "wof:lastmodified":1492486164,
     "wof:name":"Mazars Paardekooper Hoffman",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

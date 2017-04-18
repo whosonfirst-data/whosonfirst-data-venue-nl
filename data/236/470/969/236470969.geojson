@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.883019,52.355114,4.883019,52.355114",
     "geom:latitude":52.355114,
     "geom:longitude":4.883019,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804003,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6rH3nP8mCw1fXMouMRF2Ju_52.355114_4.883019@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1534abea3f600b279b362d684491cc8b",
+    "wof:geomhash":"193cf26dbcee7b3f71b8cba0c07bec3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804003,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":236470969
         }
     ],
     "wof:id":236470969,
-    "wof:lastmodified":1473879347,
+    "wof:lastmodified":1492494403,
     "wof:name":"Schulte, M",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804003,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

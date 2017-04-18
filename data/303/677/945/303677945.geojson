@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.853627,52.357029,4.853627,52.357029",
     "geom:latitude":52.357029,
     "geom:longitude":4.853627,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803655,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1VbRqBCGhpcQ0hlLotyvtb_52.357029_4.853627@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ad8ffe2c839df9eb3e31982280d7e80a",
+    "wof:geomhash":"0d512134d177f94db613ab2b05d4fa6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803655,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":303677945
         }
     ],
     "wof:id":303677945,
-    "wof:lastmodified":1473879453,
+    "wof:lastmodified":1492474443,
     "wof:name":"Astrid Janssen",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.90841,52.375309,4.90841,52.375309",
     "geom:latitude":52.375309,
     "geom:longitude":4.90841,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.amstelbotel.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803997,
+        1108802875,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_1OPekEnppTQ7O5ElM82iUJ_52.375309_4.908410@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e2c2f462024747424d77bafd84c5c2e4",
+    "wof:geomhash":"5187e6e6efc1faf018b3c31c5187f49c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803997,
+            "neighbourhood_id":1108802875,
             "region_id":85687053,
             "venue_id":304044083
         }
     ],
     "wof:id":304044083,
-    "wof:lastmodified":1473878694,
+    "wof:lastmodified":1492504529,
     "wof:name":"Amstel Botel",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803997,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.828915,52.352856,4.828915,52.352856",
     "geom:latitude":52.352856,
     "geom:longitude":4.828915,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803769,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_6fHopOAurJTI6vXIm4ZZH4_52.352856_4.828915@1306269946"
     },
     "wof:country":"NL",
-    "wof:geomhash":"faa6aca41e6d3458e92e29b058bf6dd5",
+    "wof:geomhash":"ddc8b92b4a164400152ff806c8aa4f02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803769,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":253080727
         }
     ],
     "wof:id":253080727,
-    "wof:lastmodified":1473878813,
+    "wof:lastmodified":1492489810,
     "wof:name":"Van Zeventer'S Las En Montagebedryf",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

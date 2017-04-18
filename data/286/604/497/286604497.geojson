@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.552174,51.963642,4.552174,51.963642",
     "geom:latitude":51.963642,
     "geom:longitude":4.552174,
@@ -26,20 +27,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63RKOy6DSSYpqoxeynp6JI_51.963642_4.552174@1306269971"
     },
     "wof:country":"NL",
-    "wof:geomhash":"39d2bdabee7441af9fe55eb4c1239cd4",
+    "wof:geomhash":"0ed96b0d75dce1ba708172c122a690e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":286604497
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798149,
             "region_id":85687041,
@@ -47,7 +63,7 @@
         }
     ],
     "wof:id":286604497,
-    "wof:lastmodified":1473879228,
+    "wof:lastmodified":1492475782,
     "wof:name":"Stromen, De",
     "wof:parent_id":85798149,
     "wof:placetype":"venue",

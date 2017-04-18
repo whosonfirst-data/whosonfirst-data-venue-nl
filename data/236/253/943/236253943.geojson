@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882572,52.372726,4.882572,52.372726",
     "geom:latitude":52.372726,
     "geom:longitude":4.882572,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3qyBYsxorl62zEXdBzMVfl_52.372726_4.882572@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6f58d357c838137439003e01202549c8",
+    "wof:geomhash":"c9c73026a6371b5d24b774a80b8ae462",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":236253943
         }
     ],
     "wof:id":236253943,
-    "wof:lastmodified":1473879038,
+    "wof:lastmodified":1492492712,
     "wof:name":"E.Van Elst",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

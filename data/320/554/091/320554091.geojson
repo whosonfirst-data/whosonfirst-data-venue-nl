@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.47149,51.93615,4.47149,51.93615",
     "geom:latitude":51.93615,
     "geom:longitude":4.47149,
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859819,
+        85859823,
+        102191581,
         85633337,
-        101753095,
+        101751843,
+        1108804843,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +45,22 @@
         "sg:id":"SG_6EYuuhgHwyG8PDj2Es76lN_51.936150_4.471490@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d7a0c44e3570cf485e2d3015f25e6621",
+    "wof:geomhash":"c51746bbe668de38c58365a2786aa934",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108804843,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859819,
+            "locality_id":101751843,
+            "neighbourhood_id":85859823,
             "region_id":85687041,
             "venue_id":320554091
         }
     ],
     "wof:id":320554091,
-    "wof:lastmodified":1473879395,
+    "wof:lastmodified":1492484721,
     "wof:name":"Frans Van De Polder",
-    "wof:parent_id":85859819,
+    "wof:parent_id":85859823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

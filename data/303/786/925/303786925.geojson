@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.091582,52.517002,6.091582,52.517002",
     "geom:latitude":52.517002,
     "geom:longitude":6.091582,
@@ -24,10 +25,12 @@
     "sg:province":"Overijssel",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797067,
         85633337,
+        85797067,
         85687045,
         85798691,
+        102191581,
+        404473861,
         101751861
     ],
     "wof:breaches":[],
@@ -35,19 +38,18 @@
         "sg:id":"SG_1ao8KnhbxlCGv899v9Wo9C_52.517002_6.091582@1306269987"
     },
     "wof:country":"NL",
-    "wof:geomhash":"550febb137c8a839416e133559a62b18",
+    "wof:geomhash":"6510ce2e30dfca9b5be28171575d8579",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85797067,
             "region_id":85687045,
             "venue_id":303786925
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473861,
             "locality_id":101751861,
             "neighbourhood_id":85798691,
             "region_id":85687045,
@@ -55,9 +57,9 @@
         }
     ],
     "wof:id":303786925,
-    "wof:lastmodified":1473879565,
+    "wof:lastmodified":1492470860,
     "wof:name":"Vriendenkring, Postduivenver De",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

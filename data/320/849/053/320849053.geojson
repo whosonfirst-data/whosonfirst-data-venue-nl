@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.782854,52.348946,4.782854,52.348946",
     "geom:latitude":52.348946,
     "geom:longitude":4.782854,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803971,
+        1108802857,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4VggzGybzxFRVlkUyb5nhy_52.348946_4.782854@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fae8dc41507e557a731faa384d8ec50c",
+    "wof:geomhash":"0cccf0d0f457da9f32dff3cf7a27c2f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803971,
+            "neighbourhood_id":1108802857,
             "region_id":85687053,
             "venue_id":320849053
         }
     ],
     "wof:id":320849053,
-    "wof:lastmodified":1473879637,
+    "wof:lastmodified":1492485189,
     "wof:name":"Interjuris",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

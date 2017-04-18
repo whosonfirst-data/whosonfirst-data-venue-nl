@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.797918,52.382145,4.797918,52.382145",
     "geom:latitude":52.382145,
     "geom:longitude":4.797918,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803561,
         85797579,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_5F9N1NL3PTWV7ibvcZEXP3_52.382145_4.797918@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3ac5226c82bcaa8e696c4983c327bdd8",
+    "wof:geomhash":"3041b0f8b26bc35ad36b19541b29bd4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803561,
             "neighbourhood_id":85797579,
             "region_id":85687053,
             "venue_id":253663241
         }
     ],
     "wof:id":253663241,
-    "wof:lastmodified":1473879700,
+    "wof:lastmodified":1492489712,
     "wof:name":"Dellamore",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108803561,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

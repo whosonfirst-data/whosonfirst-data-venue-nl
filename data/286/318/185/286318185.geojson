@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.542022,51.940228,4.542022,51.940228",
     "geom:latitude":51.940228,
     "geom:longitude":4.542022,
@@ -24,31 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797899,
+        85797053,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48pVvul7J0B2T5B8IyWGRe_51.940228_4.542022@1306269967"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e7b62c353b2fead6fed2f29fb123bbe5",
+    "wof:geomhash":"5619349cb40545a212304aa72f9acc83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85797899,
+            "locality_id":101751843,
+            "neighbourhood_id":85797053,
+            "region_id":85687041,
+            "venue_id":286318185
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":85797053,
             "region_id":85687041,
             "venue_id":286318185
         }
     ],
     "wof:id":286318185,
-    "wof:lastmodified":1473878727,
+    "wof:lastmodified":1492477882,
     "wof:name":"J.M.B. Dingemans-Alders",
-    "wof:parent_id":85797899,
+    "wof:parent_id":85797053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

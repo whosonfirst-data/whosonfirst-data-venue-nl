@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.2612252235,52.5098991394,6.2612252235,52.5098991394",
     "geom:latitude":52.509899,
     "geom:longitude":6.261225,
@@ -24,17 +25,32 @@
     "sg:province":"Overijssel",
     "sg:website":"http://www.vechhorst.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473823,
+        85633337,
+        101803703
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cZckNIijkeROBTXjiaiZR_52.509899_6.261225@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802237,
-    "wof:geomhash":"32c6ebad3cad7986c595f385198a64fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"669a4c87a2055667c8d5509a75327660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473823,
+            "locality_id":101803703,
+            "region_id":85687045,
+            "venue_id":1091595129
+        }
+    ],
     "wof:id":1091595129,
-    "wof:lastmodified":1473878750,
+    "wof:lastmodified":1492509471,
     "wof:name":"Vechthorst Woonstichting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

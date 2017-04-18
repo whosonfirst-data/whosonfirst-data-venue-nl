@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879675,52.372276,4.879675,52.372276",
     "geom:latitude":52.372276,
     "geom:longitude":4.879675,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.zuyderland.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_6IKE1fkNDgvEIuP6jASdvS_52.372276_4.879675@1306269970"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5c805858f0f7238cd6c7f15b4f50021c",
+    "wof:geomhash":"fa44bf5e9724e714876ee81e3621a617",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":286525433
         }
     ],
     "wof:id":286525433,
-    "wof:lastmodified":1473879187,
+    "wof:lastmodified":1492475823,
     "wof:name":"Zuijderland, S",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

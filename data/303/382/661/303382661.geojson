@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.274271,52.058716,4.274271,52.058716",
     "geom:latitude":52.058716,
     "geom:longitude":4.274271,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798043,
+        85859591,
+        102191581,
+        1108808107,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5hmgqAWYKN8qLs4rm2cy95_52.058716_4.274271@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e444e85c82845a49c539e4371c88d2d5",
+    "wof:geomhash":"b80e521219a70b063fb27110e5865d6f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798043,
+            "macrohood_id":1108808107,
+            "neighbourhood_id":85859591,
             "region_id":85687041,
             "venue_id":303382661
         }
     ],
     "wof:id":303382661,
-    "wof:lastmodified":1473879153,
+    "wof:lastmodified":1492470740,
     "wof:name":"Ark Chr, De",
-    "wof:parent_id":85798043,
+    "wof:parent_id":85859591,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

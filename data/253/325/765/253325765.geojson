@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.316318,52.077171,4.316318,52.077171",
     "geom:latitude":52.077171,
     "geom:longitude":4.316318,
@@ -24,9 +25,13 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808031,
+        1108808255,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2NEI0HdqSqcReU9skR4d3U_52.077171_4.316318@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9a77b0e025bf11771027a200a0589f20",
+    "wof:geomhash":"8f67ffcc34503d122e93c07134a9859a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "microhood_id":1108808031,
+            "neighbourhood_id":1108808255,
             "region_id":85687041,
             "venue_id":253325765
         }
     ],
     "wof:id":253325765,
-    "wof:lastmodified":1473879407,
+    "wof:lastmodified":1492489687,
     "wof:name":"Woninginrichting Hulshoff Cv",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

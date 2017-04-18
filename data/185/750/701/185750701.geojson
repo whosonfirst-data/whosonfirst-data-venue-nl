@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.379275,52.050385,4.379275,52.050385",
     "geom:latitude":52.050385,
     "geom:longitude":4.379275,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798113,
+        1108808349,
+        102191581,
+        1108808063,
         85633337,
+        101752763,
+        1108808047,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6mrok8BUaycV5OCHpB8pg9_52.050385_4.379275@1306269907"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0a5422ced1caeb0a047070058f1e3fbf",
+    "wof:geomhash":"9d8a8fb55b8fdbb6948fbc3cf3a33176",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808047,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798113,
+            "locality_id":101752763,
+            "macrohood_id":1108808063,
+            "neighbourhood_id":1108808349,
             "region_id":85687041,
             "venue_id":185750701
         }
     ],
     "wof:id":185750701,
-    "wof:lastmodified":1473878702,
+    "wof:lastmodified":1492487302,
     "wof:name":"Hofstra",
-    "wof:parent_id":85798113,
+    "wof:parent_id":1108808349,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

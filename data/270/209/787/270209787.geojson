@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885067,52.381458,4.885067,52.381458",
     "geom:latitude":52.381458,
     "geom:longitude":4.885067,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804285,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0IIEOjm7HDzVtODq7MVZHB_52.381458_4.885067@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"68686589a3f59072fd42baded1bf1ce3",
+    "wof:geomhash":"15c41d02ba0d0b324e1ba77ca61f9ad5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804285,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":270209787
         }
     ],
     "wof:id":270209787,
-    "wof:lastmodified":1473878888,
+    "wof:lastmodified":1492500217,
     "wof:name":"Annaleen Louwes",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

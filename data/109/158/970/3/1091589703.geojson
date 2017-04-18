@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1146059036,52.1041946411,5.1146059036,52.1041946411",
     "geom:latitude":52.104195,
     "geom:longitude":5.114606,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808781,
+        102191581,
         85633337,
-        85798227,
+        101751827,
+        1108808663,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473801930,
-    "wof:geomhash":"14e39569ed136fa6f1887031fd624e43",
+    "wof:geomhash":"44d5807273e52ff1b7ddb37954e44cf6",
     "wof:hierarchy":[
         {
+            "borough_id":1108808663,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808781,
             "region_id":85687039,
             "venue_id":1091589703
         }
     ],
     "wof:id":1091589703,
-    "wof:lastmodified":1473879021,
+    "wof:lastmodified":1492511525,
     "wof:name":"Regionaal Bestuur Arbeidsvoorz Midden Nederland",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

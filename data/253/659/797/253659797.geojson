@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.833343,52.373112,4.833343,52.373112",
     "geom:latitude":52.373112,
     "geom:longitude":4.833343,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803291,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_0Qo1x1QB6QiCBX9TDTloYg_52.373112_4.833343@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3ba9ae49b173f8f3d6d94c4902ed7344",
+    "wof:geomhash":"deeb7e4bc03969a6cb3253a07c3cc02d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "macrohood_id":1108802303,
+            "microhood_id":1108803291,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":253659797
         }
     ],
     "wof:id":253659797,
-    "wof:lastmodified":1473879705,
+    "wof:lastmodified":1492488794,
     "wof:name":"Al Capone'S",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

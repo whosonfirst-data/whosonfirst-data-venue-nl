@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2714672089,52.4042930603,5.2714672089,52.4042930603",
     "geom:latitude":52.404293,
     "geom:longitude":5.271467,
@@ -24,17 +25,32 @@
     "sg:province":"Flevoland",
     "sg:website":"http://www.artech.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101751875
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vDRZWnCbuE8GXDoJ7Kqh2_52.404293_5.271467@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803775,
-    "wof:geomhash":"a57e3127ffb7bf90971a090a464325fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6962b564a73cc447977663884748c75e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101751875,
+            "region_id":85687049,
+            "venue_id":1091617313
+        }
+    ],
     "wof:id":1091617313,
-    "wof:lastmodified":1473878915,
+    "wof:lastmodified":1492510398,
     "wof:name":"Artech Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

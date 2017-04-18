@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.32083,52.063606,4.32083,52.063606",
     "geom:latitude":52.063606,
     "geom:longitude":4.32083,
@@ -24,31 +25,49 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808309,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0H5pTfRLt2sQaCMMU3tyqL_52.063606_4.320830@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"17712894cd13ea6a599a731b8e59a8ca",
+    "wof:geomhash":"4804cd1fbaae254e249d201e5fb2f712",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808309,
+            "region_id":85687041,
+            "venue_id":202472915
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808309,
             "region_id":85687041,
             "venue_id":202472915
         }
     ],
     "wof:id":202472915,
-    "wof:lastmodified":1473878759,
+    "wof:lastmodified":1492497762,
     "wof:name":"Grandinox",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

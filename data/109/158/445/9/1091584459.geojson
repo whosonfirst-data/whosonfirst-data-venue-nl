@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2081818581,52.0206336975,4.2081818581,52.0206336975",
     "geom:latitude":52.020634,
     "geom:longitude":4.208182,
@@ -24,9 +25,11 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
         85633337,
-        85859557,
-        85687041
+        101808471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,16 +40,18 @@
     "wof:geomhash":"51f3a6cc10d02721a2dc097d49422c7c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85859557,
+            "localadmin_id":404474667,
+            "locality_id":101808471,
             "region_id":85687041,
             "venue_id":1091584459
         }
     ],
     "wof:id":1091584459,
-    "wof:lastmodified":1473878724,
+    "wof:lastmodified":1491931083,
     "wof:name":"Green Bv",
-    "wof:parent_id":85859557,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

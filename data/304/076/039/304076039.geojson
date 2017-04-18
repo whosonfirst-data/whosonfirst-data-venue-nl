@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.899502,52.376053,4.899502,52.376053",
     "geom:latitude":52.376053,
     "geom:longitude":4.899502,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.koopermoolen.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804101,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_23TCZIJ5rnEISb2qf5btDV_52.376053_4.899502@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4dcb1a8cd037a7c22c2baaf4c3622245",
+    "wof:geomhash":"25a1e80478406ff6d633178dd8b8eaeb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804101,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":304076039
         }
     ],
     "wof:id":304076039,
-    "wof:lastmodified":1473878798,
+    "wof:lastmodified":1492504528,
     "wof:name":"Koopermoolen, De",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

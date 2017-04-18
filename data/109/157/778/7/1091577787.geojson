@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1314368248,52.0745925903,5.1314368248,52.0745925903",
     "geom:latitude":52.074593,
     "geom:longitude":5.131437,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808707,
+        102191581,
         85633337,
-        85859943,
+        101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473801030,
-    "wof:geomhash":"426abc2b3151dfe7abd0e36bbd207cc9",
+    "wof:geomhash":"a9ab3413ff6bb387eda3fb92fc4a3aa9",
     "wof:hierarchy":[
         {
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85859943,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808707,
             "region_id":85687039,
             "venue_id":1091577787
         }
     ],
     "wof:id":1091577787,
-    "wof:lastmodified":1473879013,
+    "wof:lastmodified":1492511252,
     "wof:name":"Bestratingsbedrijf Hauwert",
-    "wof:parent_id":85859943,
+    "wof:parent_id":1108808707,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

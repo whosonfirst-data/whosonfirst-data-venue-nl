@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.841488,52.386105,4.841488,52.386105",
     "geom:latitude":52.386105,
     "geom:longitude":4.841488,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108803625,
+        1108802535,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1gigIBg6r4OToE4CSl7CEt_52.386105_4.841488@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d3c18247ca146062e6b0bfd63e01d722",
+    "wof:geomhash":"c5e0ca6a54b430f0af22ea8952f56e50",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "microhood_id":1108803625,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":270049573
         }
     ],
     "wof:id":270049573,
-    "wof:lastmodified":1473878498,
+    "wof:lastmodified":1492500349,
     "wof:name":"Fitsport",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108803625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

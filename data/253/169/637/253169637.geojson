@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.94506,52.395374,4.94506,52.395374",
     "geom:latitude":52.395374,
     "geom:longitude":4.94506,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.cybercomm.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108803611,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_59jvy2qVgaa4kH338Byzwk_52.395374_4.945060@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f926c2db0cea213d926f151702e7d8cc",
+    "wof:geomhash":"db3a381021f7c526d96d69320cdfcf2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803611,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":253169637
         }
     ],
     "wof:id":253169637,
-    "wof:lastmodified":1473879041,
+    "wof:lastmodified":1492488604,
     "wof:name":"Kees",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803611,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

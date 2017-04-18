@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.816931,52.347801,4.816931,52.347801",
     "geom:latitude":52.347801,
     "geom:longitude":4.816931,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803421,
+        1108802901,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1hgFSkgAshGgXuZPnlQCOV_52.347801_4.816931@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e58d86fa7e8b9d60be19a92aaa9c3afd",
+    "wof:geomhash":"e944e4cf8efec9893e9832d3189821ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803421,
+            "neighbourhood_id":1108802901,
             "region_id":85687053,
             "venue_id":236512877
         }
     ],
     "wof:id":236512877,
-    "wof:lastmodified":1473879387,
+    "wof:lastmodified":1492491788,
     "wof:name":"Huisartsenpraktijk",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

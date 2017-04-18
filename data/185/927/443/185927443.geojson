@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.863487,52.347775,4.863487,52.347775",
     "geom:latitude":52.347775,
     "geom:longitude":4.863487,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803765,
+        1108802917,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1XJQcWyohswZyEp8qFCtfh_52.347775_4.863487@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"86a902c2fbf6d9068b9f90f0b6c3e91b",
+    "wof:geomhash":"cb34f1b4453ee8ed90633a031f2d585e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803765,
+            "neighbourhood_id":1108802917,
             "region_id":85687053,
             "venue_id":185927443
         }
     ],
     "wof:id":185927443,
-    "wof:lastmodified":1473878913,
+    "wof:lastmodified":1492487135,
     "wof:name":"Peuterspeelzaal De Hommel",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

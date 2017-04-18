@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.926672,51.981476,5.926672,51.981476",
     "geom:latitude":51.981476,
     "geom:longitude":5.926672,
@@ -25,10 +26,12 @@
     "sg:website":"http://www.geldersmozaiek.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797977,
         85633337,
+        85797977,
         85687043,
         85798321,
+        102191581,
+        404473871,
         101751857
     ],
     "wof:breaches":[],
@@ -36,19 +39,18 @@
         "sg:id":"SG_4mYpJ1iBtj1aNKVNzhhKqq_51.981476_5.926672@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1df94ee389feb4c35e131b9d51abd110",
+    "wof:geomhash":"f8dfe9cd464fc0c2633bd97efd971fec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85797977,
             "region_id":85687043,
             "venue_id":303373165
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473871,
             "locality_id":101751857,
             "neighbourhood_id":85798321,
             "region_id":85687043,
@@ -56,9 +58,9 @@
         }
     ],
     "wof:id":303373165,
-    "wof:lastmodified":1473879141,
+    "wof:lastmodified":1492474871,
     "wof:name":"Gelders Moza?Ek",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.942767,52.367062,4.942767,52.367062",
     "geom:latitude":52.367062,
     "geom:longitude":4.942767,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803737,
+        1108802877,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5H1lkUZ3ksGNRBwYntP37n_52.367062_4.942767@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"34953069fa94adacf3f74a6dde5f0d7e",
+    "wof:geomhash":"3f9ddabbd8ba30d5586680e84f194ea2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803737,
+            "neighbourhood_id":1108802877,
             "region_id":85687053,
             "venue_id":287139561
         }
     ],
     "wof:id":287139561,
-    "wof:lastmodified":1473878924,
+    "wof:lastmodified":1492513215,
     "wof:name":"Dutch Communication",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

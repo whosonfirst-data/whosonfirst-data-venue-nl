@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893187,52.37989,4.893187,52.37989",
     "geom:latitude":52.37989,
     "geom:longitude":4.893187,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803261,
+        1108802819,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_36UIb4srOtFtQaubhsxzS7_52.379890_4.893187@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7d5175f1ad443140e585f715078ca87b",
+    "wof:geomhash":"8215cff3536ff18020a6f78b3433db07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803261,
+            "neighbourhood_id":1108802819,
             "region_id":85687053,
             "venue_id":186076311
         }
     ],
     "wof:id":186076311,
-    "wof:lastmodified":1473878850,
+    "wof:lastmodified":1492508513,
     "wof:name":"La Grotte",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

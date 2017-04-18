@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7467079163,51.4064445496,5.7467079163,51.4064445496",
     "geom:latitude":51.406445,
     "geom:longitude":5.746708,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.convotherm.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474347,
+        85633337,
+        101809687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6h0Um6xTDome1e5w4V7q7m_51.406445_5.746708@1306270010"
     },
     "wof:country":"NL",
     "wof:created":1473799592,
-    "wof:geomhash":"950bbd22b25ee8091c2d5fcf5e678f99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"324929f3e8127ae89b1c902c7d9e9e16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474347,
+            "locality_id":101809687,
+            "region_id":85687035,
+            "venue_id":1075826739
+        }
+    ],
     "wof:id":1075826739,
-    "wof:lastmodified":1473879477,
+    "wof:lastmodified":1492486894,
     "wof:name":"Convotherm Ned",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

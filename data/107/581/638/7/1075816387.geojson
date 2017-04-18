@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.163957119,51.7600479126,4.163957119,51.7600479126",
     "geom:latitude":51.760048,
     "geom:longitude":4.163957,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.eyewish.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474207,
+        85633337,
+        101837715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EVr6PC4zgf9SwvlR8IsYx_51.760048_4.163957@1306270008"
     },
     "wof:country":"NL",
     "wof:created":1473798950,
-    "wof:geomhash":"a644684902ceb27385a7b41835a0e667",
-    "wof:hierarchy":[],
+    "wof:geomhash":"122be0d341d4efe8e6d738036cb7b01e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474207,
+            "locality_id":101837715,
+            "region_id":85687041,
+            "venue_id":1075816387
+        }
+    ],
     "wof:id":1075816387,
-    "wof:lastmodified":1473879047,
+    "wof:lastmodified":1492486445,
     "wof:name":"Eye Wish Groeneveld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

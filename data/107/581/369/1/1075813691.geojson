@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2182312012,51.9965782166,4.2182312012,51.9965782166",
     "geom:latitude":51.996578,
     "geom:longitude":4.218231,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
         85633337,
-        85859575,
-        85687041
+        101837719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473798840,
-    "wof:geomhash":"17c837d92cd9fc486835a4deaf6b7889",
+    "wof:geomhash":"6ba36c2d8152e5cb19f5bc768eb918fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85859575,
+            "localadmin_id":404474667,
+            "locality_id":101837719,
             "region_id":85687041,
             "venue_id":1075813691
         }
     ],
     "wof:id":1075813691,
-    "wof:lastmodified":1473878939,
+    "wof:lastmodified":1492486588,
     "wof:name":"Bol Bv",
-    "wof:parent_id":85859575,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

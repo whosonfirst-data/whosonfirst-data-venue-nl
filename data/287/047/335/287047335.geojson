@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.901846,52.377777,4.901846,52.377777",
     "geom:latitude":52.377777,
     "geom:longitude":4.901846,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804299,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5xCD8efLa93PHZP3BV7D4K_52.377777_4.901846@1306269976"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e920ef7a86170a58c5f79e9c4f86cff5",
+    "wof:geomhash":"845064ef172f2e5c37aa495d216abf84",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804299,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":287047335
         }
     ],
     "wof:id":287047335,
-    "wof:lastmodified":1473878663,
+    "wof:lastmodified":1492513738,
     "wof:name":"Dutch Glorie",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

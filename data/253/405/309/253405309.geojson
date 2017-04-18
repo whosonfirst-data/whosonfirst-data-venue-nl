@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.309091,52.06197,4.309091,52.06197",
     "geom:latitude":52.06197,
     "geom:longitude":4.309091,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859615,
+        1108808263,
+        102191581,
+        1108808035,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2ECSMbCi6rRvlwbEU5LD7l_52.061970_4.309091@1306269949"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a5feb76819c01406eecc4b210d3488d4",
+    "wof:geomhash":"f174808e021b580048cbffcdb9b45857",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808263,
             "region_id":85687041,
             "venue_id":253405309
         }
     ],
     "wof:id":253405309,
-    "wof:lastmodified":1473879560,
+    "wof:lastmodified":1492488737,
     "wof:name":"Haags Trammuseum",
-    "wof:parent_id":85859615,
+    "wof:parent_id":1108808263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

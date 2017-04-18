@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.864856,52.364616,4.864856,52.364616",
     "geom:latitude":52.364616,
     "geom:longitude":4.864856,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.serin.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803675,
+        1108802933,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_36EXTOys395gz2QwciNHT3_52.364616_4.864856@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9cef412ce230cac4fa242f6ba23c698c",
+    "wof:geomhash":"2d74b2677062f762276ddcd3ee9b86c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803675,
+            "neighbourhood_id":1108802933,
             "region_id":85687053,
             "venue_id":236313637
         }
     ],
     "wof:id":236313637,
-    "wof:lastmodified":1473879107,
+    "wof:lastmodified":1492493539,
     "wof:name":"Serin Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

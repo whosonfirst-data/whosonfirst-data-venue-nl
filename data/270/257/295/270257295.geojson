@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.804108,52.374336,4.804108,52.374336",
     "geom:latitude":52.374336,
     "geom:longitude":4.804108,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803993,
         85797579,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_56texCkP5jGWCuRfTUeoA2_52.374336_4.804108@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"62e5fa1f67e61c6f62adea208463282f",
+    "wof:geomhash":"8ed85393a9cf208636ff1859eb92d6e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803993,
             "neighbourhood_id":85797579,
             "region_id":85687053,
             "venue_id":270257295
         }
     ],
     "wof:id":270257295,
-    "wof:lastmodified":1473878962,
+    "wof:lastmodified":1492500694,
     "wof:name":"Studio Hennie Van Houten",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108803993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

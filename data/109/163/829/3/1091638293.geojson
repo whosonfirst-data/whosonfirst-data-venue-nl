@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.782043,51.67937,5.782043,51.67937",
     "geom:latitude":51.67937,
     "geom:longitude":5.782043,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"http://www.compubase.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474403,
+        85633337,
+        101808275
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wb9EAnLSdngbrPRdFOW7H_51.679370_5.782043@1308163238"
     },
     "wof:country":"NL",
     "wof:created":1473805206,
-    "wof:geomhash":"ed4318e3f3315dfa2af25d0e40af4664",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2df62f7d548a154b66c1dc82cf2c2131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474403,
+            "locality_id":101808275,
+            "region_id":85687035,
+            "venue_id":1091638293
+        }
+    ],
     "wof:id":1091638293,
-    "wof:lastmodified":1473878857,
+    "wof:lastmodified":1492510038,
     "wof:name":"CompuBase Internet Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.87953,52.382942,4.87953,52.382942",
     "geom:latitude":52.382942,
     "geom:longitude":4.87953,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804183,
+        1108802915,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3IovOr5zEy6Cvjzre73SBH_52.382942_4.879530@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ec73e4358ad5f6ae97bd805c999bcd17",
+    "wof:geomhash":"f63e8c64f1439bd683dedbcd8a0656a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108804183,
+            "neighbourhood_id":1108802915,
             "region_id":85687053,
             "venue_id":286776469
         }
     ],
     "wof:id":286776469,
-    "wof:lastmodified":1473879583,
+    "wof:lastmodified":1492477099,
     "wof:name":"Inside Outside",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

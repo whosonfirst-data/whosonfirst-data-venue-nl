@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.307026,52.080208,4.307026,52.080208",
     "geom:latitude":52.080208,
     "geom:longitude":4.307026,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808249,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1YUK8S6FYmk0AtYW8rMqrV_52.080208_4.307026@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c0c478e454fb7d8d5dba0eb449fb10ae",
+    "wof:geomhash":"34fb2c0d3c2c1989a7374cf98b825f08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808249,
             "region_id":85687041,
             "venue_id":236025175
         }
     ],
     "wof:id":236025175,
-    "wof:lastmodified":1473878585,
+    "wof:lastmodified":1492493191,
     "wof:name":"Bar La Grenouille (De Kikker)",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

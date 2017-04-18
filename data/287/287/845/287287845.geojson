@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.874309,52.324425,4.874309,52.324425",
     "geom:latitude":52.324425,
     "geom:longitude":4.874309,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803497,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0btlSGlPdnClroQc4iCfrW_52.324425_4.874309@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4e4109950822bf10305878d13013080b",
+    "wof:geomhash":"a0f4421c5e7c4e0a419ee63b88e43ad0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803497,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":287287845
         }
     ],
     "wof:id":287287845,
-    "wof:lastmodified":1473879202,
+    "wof:lastmodified":1492514325,
     "wof:name":"Awan Managemnet Services",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

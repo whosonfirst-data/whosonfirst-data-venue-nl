@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.935668,52.397812,4.935668,52.397812",
     "geom:latitude":52.397812,
     "geom:longitude":4.935668,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803535,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_725ixk9NvfQnJOZAJrkiBN_52.397812_4.935668@1306269984"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4126e3f20d661dd89d21cfb613d41796",
+    "wof:geomhash":"5de136b21f72faec93cdb38084cb4b95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803535,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":303528103
         }
     ],
     "wof:id":303528103,
-    "wof:lastmodified":1473879269,
+    "wof:lastmodified":1492471346,
     "wof:name":"Get Plastered",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803535,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

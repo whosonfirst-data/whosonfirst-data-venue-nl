@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.872565,52.366905,4.872565,52.366905",
     "geom:latitude":52.366905,
     "geom:longitude":4.872565,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803379,
+        1108802933,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_7OK4lO4YO4WZMr9YAxCMcO_52.366905_4.872565@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"87fc325e3d68731a86f3da27cab04852",
+    "wof:geomhash":"a1de6833f6259d08b3fc0a09afa704b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803379,
+            "neighbourhood_id":1108802933,
             "region_id":85687053,
             "venue_id":253668767
         }
     ],
     "wof:id":253668767,
-    "wof:lastmodified":1473879713,
+    "wof:lastmodified":1492490335,
     "wof:name":"New York Pizza",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

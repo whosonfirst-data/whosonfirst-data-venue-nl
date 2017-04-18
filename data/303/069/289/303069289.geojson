@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.246689,52.066925,4.246689,52.066925",
     "geom:latitude":52.066925,
     "geom:longitude":4.246689,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797811,
+        85859585,
+        102191581,
+        1108808133,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3i1pkW0BFVUOa2Pymq5mEi_52.066925_4.246689@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1932b512554560a15905478819f616cd",
+    "wof:geomhash":"80d77cb511fae1f1b593877d8209440f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797811,
+            "macrohood_id":1108808133,
+            "neighbourhood_id":85859585,
             "region_id":85687041,
             "venue_id":303069289
         }
     ],
     "wof:id":303069289,
-    "wof:lastmodified":1473878558,
+    "wof:lastmodified":1492472576,
     "wof:name":"Rob Holland-West",
-    "wof:parent_id":85797811,
+    "wof:parent_id":85859585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.888814,52.352257,4.888814,52.352257",
     "geom:latitude":52.352257,
     "geom:longitude":4.888814,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803817,
+        1108802865,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_2AhjXE2IAT402QJdK24Jun_52.352257_4.888814@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"98e830560aa2a2f18c98257368614c5a",
+    "wof:geomhash":"e1901ebf90f20d9e3c8f0630a97e8176",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803817,
+            "neighbourhood_id":1108802865,
             "region_id":85687053,
             "venue_id":303150715
         }
     ],
     "wof:id":303150715,
-    "wof:lastmodified":1473878789,
+    "wof:lastmodified":1492473823,
     "wof:name":"Waal, De",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

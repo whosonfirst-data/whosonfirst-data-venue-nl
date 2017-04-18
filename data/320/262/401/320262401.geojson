@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.834271,50.970123,5.834271,50.970123",
     "geom:latitude":50.970123,
     "geom:longitude":5.834271,
@@ -24,10 +25,12 @@
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797273,
         85633337,
+        85797273,
         85687033,
         85797869,
+        102191581,
+        404474675,
         101839271
     ],
     "wof:breaches":[],
@@ -35,19 +38,18 @@
         "sg:id":"SG_3YtVnV498N0RzAIC6HzPro_50.970123_5.834271@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"454927945c940ced83fd418395c80d59",
+    "wof:geomhash":"73e64f8c9a54d74e69311980310ec0e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85797273,
             "region_id":85687033,
             "venue_id":320262401
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474675,
             "locality_id":101839271,
             "neighbourhood_id":85797869,
             "region_id":85687033,
@@ -55,9 +57,9 @@
         }
     ],
     "wof:id":320262401,
-    "wof:lastmodified":1473879132,
+    "wof:lastmodified":1492485165,
     "wof:name":"Ep Glashandel",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

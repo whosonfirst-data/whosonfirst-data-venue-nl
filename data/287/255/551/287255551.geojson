@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.237189,52.045441,4.237189,52.045441",
     "geom:latitude":52.045441,
     "geom:longitude":4.237189,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859581,
+        85797849,
+        102191581,
+        1108808101,
         85633337,
         101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7ZvTMXYBFBVX1EikFT3peJ_52.045441_4.237189@1306269978"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2b9417e365ff45570e8d4079c4446cbd",
+    "wof:geomhash":"6c434da35d177bf9412f8475dc5185de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859581,
+            "macrohood_id":1108808101,
+            "neighbourhood_id":85797849,
             "region_id":85687041,
             "venue_id":287255551
         }
     ],
     "wof:id":287255551,
-    "wof:lastmodified":1473879089,
+    "wof:lastmodified":1492514426,
     "wof:name":"Administratiekantoor Hazebroek",
-    "wof:parent_id":85859581,
+    "wof:parent_id":85797849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

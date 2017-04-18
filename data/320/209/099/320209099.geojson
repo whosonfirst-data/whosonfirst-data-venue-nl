@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.567092,53.218185,6.567092,53.218185",
     "geom:latitude":53.218185,
     "geom:longitude":6.567092,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797835,
         85633337,
+        85797835,
         85687059,
         85797417,
+        102191581,
+        404473713,
         101751909
     ],
     "wof:breaches":[],
@@ -43,19 +46,18 @@
         "sg:id":"SG_4Ff3MkX8W15OA2itJAz28L_53.218185_6.567092@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ab37f92a1ed1e17b775d272be8713f1e",
+    "wof:geomhash":"b06f70d8231c93835de30a96ef6ed377",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85797835,
             "region_id":85687059,
             "venue_id":320209099
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473713,
             "locality_id":101751909,
             "neighbourhood_id":85797417,
             "region_id":85687059,
@@ -63,9 +65,9 @@
         }
     ],
     "wof:id":320209099,
-    "wof:lastmodified":1473879094,
+    "wof:lastmodified":1492483401,
     "wof:name":"Jansen En Jansen",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

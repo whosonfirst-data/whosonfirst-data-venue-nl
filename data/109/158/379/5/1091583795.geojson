@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0625090599,51.6902770996,5.0625090599,51.6902770996",
     "geom:latitude":51.690277,
     "geom:longitude":5.062509,
@@ -23,17 +24,32 @@
     "sg:postcode":"5141 JS",
     "sg:province":"North Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474451,
+        85633337,
+        101839403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PKe8c5s5KcAzC67Is0cJS_51.690277_5.062509@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801376,
-    "wof:geomhash":"28f43ee49f9b6f6feae3c01de6f938f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c02197efb4bd1adcc442a63d2bc51891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474451,
+            "locality_id":101839403,
+            "region_id":85687035,
+            "venue_id":1091583795
+        }
+    ],
     "wof:id":1091583795,
-    "wof:lastmodified":1473878689,
+    "wof:lastmodified":1492511865,
     "wof:name":"Dactylo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

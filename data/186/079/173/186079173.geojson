@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.888885,52.352654,4.888885,52.352654",
     "geom:latitude":52.352654,
     "geom:longitude":4.888885,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803775,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_724mJvlxAE9H4RAdmomUlY_52.352654_4.888885@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"29864458a211e515bd5f9736ef548a03",
+    "wof:geomhash":"83dce974d01a98caa67322ff6632642b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803775,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":186079173
         }
     ],
     "wof:id":186079173,
-    "wof:lastmodified":1473878862,
+    "wof:lastmodified":1492507683,
     "wof:name":"To Day",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

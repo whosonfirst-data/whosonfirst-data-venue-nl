@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.954838,52.223316,5.954838,52.223316",
     "geom:latitude":52.223316,
     "geom:longitude":5.954838,
@@ -24,10 +25,12 @@
     "sg:province":"Gelderland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797037,
         85633337,
+        85797037,
         85687043,
         85797191,
+        102191581,
+        404473867,
         101751853
     ],
     "wof:breaches":[],
@@ -35,19 +38,18 @@
         "sg:id":"SG_021Yz6YT7iz8yIOmiZXrdC_52.223316_5.954838@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a3945fab91e5e54dfad5111b9a3c957b",
+    "wof:geomhash":"e9ffc488e83c5005ba05f4fa009d376c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85797037,
             "region_id":85687043,
             "venue_id":202921539
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473867,
             "locality_id":101751853,
             "neighbourhood_id":85797191,
             "region_id":85687043,
@@ -55,9 +57,9 @@
         }
     ],
     "wof:id":202921539,
-    "wof:lastmodified":1473879404,
+    "wof:lastmodified":1492498419,
     "wof:name":"Casteels, F J",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

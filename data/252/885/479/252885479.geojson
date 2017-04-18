@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.555598,51.956059,4.555598,51.956059",
     "geom:latitude":51.956059,
     "geom:longitude":4.555598,
@@ -34,31 +35,46 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798177,
+        85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PQWAiNBgSIuiyVJt2Nb02_51.956059_4.555598@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5ee6b5dd2f29e03faf4fb9f69615c3a2",
+    "wof:geomhash":"69dcd7a2a5611fc4cfe5c5a31367cff6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":252885479
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798177,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":252885479
         }
     ],
     "wof:id":252885479,
-    "wof:lastmodified":1473878833,
+    "wof:lastmodified":1492504989,
     "wof:name":"Sentics",
-    "wof:parent_id":85798177,
+    "wof:parent_id":85798149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

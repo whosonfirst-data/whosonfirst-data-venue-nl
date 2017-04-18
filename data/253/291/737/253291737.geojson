@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.842209,52.342232,4.842209,52.342232",
     "geom:latitude":52.342232,
     "geom:longitude":4.842209,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803509,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_08G4rvj8uU3WtqMPso6HNC_52.342232_4.842209@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"949981ca044a876d772558f8ed8d2e56",
+    "wof:geomhash":"35930edbea8d0cf2f674274c4cc89c52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803509,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":253291737
         }
     ],
     "wof:id":253291737,
-    "wof:lastmodified":1473879345,
+    "wof:lastmodified":1492489738,
     "wof:name":"Leenbakker",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

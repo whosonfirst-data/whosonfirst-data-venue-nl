@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0297498703,52.2765541077,5.0297498703,52.2765541077",
     "geom:latitude":52.276554,
     "geom:longitude":5.02975,
@@ -23,17 +24,32 @@
     "sg:postcode":"1393 RA",
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473991,
+        85633337,
+        101855281
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LQUij6ObxqsrJpFv32LV7_52.276554_5.029750@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800688,
-    "wof:geomhash":"9079a0e44e5243da0fbd21dd079bd4e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"437efdc1a5590aeb41722924e9e80485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473991,
+            "locality_id":101855281,
+            "region_id":85687039,
+            "venue_id":1091573345
+        }
+    ],
     "wof:id":1091573345,
-    "wof:lastmodified":1473878701,
+    "wof:lastmodified":1492511338,
     "wof:name":"Internet Promotion Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

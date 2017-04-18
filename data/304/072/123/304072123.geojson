@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880098,52.359264,4.880098,52.359264",
     "geom:latitude":52.359264,
     "geom:longitude":4.880098,
@@ -29,9 +30,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803565,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_3fPcenEBEB7cbFrLRKnmse_52.359264_4.880098@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"505ba26eab034440a4ec3341132bb9cf",
+    "wof:geomhash":"ca7c9ad818bfa52aa315ae000bb62cf4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803565,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":304072123
         }
     ],
     "wof:id":304072123,
-    "wof:lastmodified":1473878797,
+    "wof:lastmodified":1492504444,
     "wof:name":"Hotel Vincent Van Gogh",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

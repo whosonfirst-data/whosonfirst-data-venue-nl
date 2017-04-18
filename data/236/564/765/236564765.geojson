@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.242513,52.046104,4.242513,52.046104",
     "geom:latitude":52.046104,
     "geom:longitude":4.242513,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859581,
+        85859571,
+        102191581,
+        1108805971,
         85633337,
         101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_19ksPS2pIF9BBftJwgcbW6_52.046104_4.242513@1306269939"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2f94c71bd68aa36207511e1bb33c83dc",
+    "wof:geomhash":"297068ddb8f19f033ee9f0893e06b986",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859581,
+            "macrohood_id":1108805971,
+            "neighbourhood_id":85859571,
             "region_id":85687041,
             "venue_id":236564765
         }
     ],
     "wof:id":236564765,
-    "wof:lastmodified":1473879430,
+    "wof:lastmodified":1492493346,
     "wof:name":"G. Van Vugt Autoschadeherstelbedrijf",
-    "wof:parent_id":85859581,
+    "wof:parent_id":85859571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

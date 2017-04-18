@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.286829,52.114758,4.286829,52.114758",
     "geom:latitude":52.114758,
     "geom:longitude":4.286829,
@@ -29,8 +30,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808139,
+        102191581,
+        1108808075,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -38,21 +43,23 @@
         "sg:id":"SG_1fdO3tkLyPUygfwSgkOy0Y_52.114758_4.286829@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3a9bba6ddbefb8ddd51574dbc63586bd",
+    "wof:geomhash":"b929bb98a5b0ac8774e0c6e76cf031ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108808075,
+            "neighbourhood_id":1108808139,
             "region_id":85687041,
             "venue_id":304068955
         }
     ],
     "wof:id":304068955,
-    "wof:lastmodified":1473878778,
+    "wof:lastmodified":1492504560,
     "wof:name":"Hotel De Zonnehoek",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

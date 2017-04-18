@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.558369,51.959023,4.558369,51.959023",
     "geom:latitude":51.959023,
     "geom:longitude":4.558369,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RRinpxeP7XOFrjmJ4Hz4t_51.959023_4.558369@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3f2f4e6769f85a690d0b3a8922c00f2d",
+    "wof:geomhash":"ff3890e3274d6ec4f2968a09102212e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":286777525
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798149,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":286777525,
-    "wof:lastmodified":1473879583,
+    "wof:lastmodified":1492476706,
     "wof:name":"Interieurbouw M.A. Van Riet",
     "wof:parent_id":85798149,
     "wof:placetype":"venue",

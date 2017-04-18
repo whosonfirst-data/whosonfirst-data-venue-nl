@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.915856,52.368866,4.915856,52.368866",
     "geom:latitude":52.368866,
     "geom:longitude":4.915856,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.pactor.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804161,
+        1108802879,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_6LODf3O4FiKRf0MRhT7VKB_52.368866_4.915856@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d9a3fbbea91c173dabb55b5a1d96077b",
+    "wof:geomhash":"990a5b455acde92a9f300b31bc231852",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804161,
+            "neighbourhood_id":1108802879,
             "region_id":85687053,
             "venue_id":269705683
         }
     ],
     "wof:id":269705683,
-    "wof:lastmodified":1473879291,
+    "wof:lastmodified":1492494885,
     "wof:name":"Pactor",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879633,52.371422,4.879633,52.371422",
     "geom:latitude":52.371422,
     "geom:longitude":4.879633,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4M7s6FmPePXDDb5wSTh9W9_52.371422_4.879633@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"09dc5d3b3b86f44e077f8de9211f61e6",
+    "wof:geomhash":"bf07917542a5352671c160a87590a4ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":320644849
         }
     ],
     "wof:id":320644849,
-    "wof:lastmodified":1473879483,
+    "wof:lastmodified":1492482485,
     "wof:name":"Galerie La Grande Illusion",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

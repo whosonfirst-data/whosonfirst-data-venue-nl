@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0548481941,51.784992218,5.0548481941,51.784992218",
     "geom:latitude":51.784992,
     "geom:longitude":5.054848,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.szijlstra.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474457,
+        85633337,
+        101808159
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KuZyRVt2vrHrvaebGKa0d_51.784992_5.054848@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801245,
-    "wof:geomhash":"63a48846676cbe9bc1c9b1faf11dda68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a1c0338dcdbf738691bcbca9dbb4ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474457,
+            "locality_id":101808159,
+            "region_id":85687035,
+            "venue_id":1091581055
+        }
+    ],
     "wof:id":1091581055,
-    "wof:lastmodified":1473878557,
+    "wof:lastmodified":1492511506,
     "wof:name":"Zijlstra Bv, S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

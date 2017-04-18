@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.902898,52.342541,4.902898,52.342541",
     "geom:latitude":52.342541,
     "geom:longitude":4.902898,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.zellerer.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803419,
+        1108802895,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_1N1OMQj2r0KXxLWlATy8zm_52.342541_4.902898@1306269988"
     },
     "wof:country":"NL",
-    "wof:geomhash":"04a9b246e4a4cea6ff4504dd1ef5fb1b",
+    "wof:geomhash":"b6479722772a82b626d3d1c1b9a087ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803419,
+            "neighbourhood_id":1108802895,
             "region_id":85687053,
             "venue_id":303816497
         }
     ],
     "wof:id":303816497,
-    "wof:lastmodified":1473879587,
+    "wof:lastmodified":1492474878,
     "wof:name":"Zellerer",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803419,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

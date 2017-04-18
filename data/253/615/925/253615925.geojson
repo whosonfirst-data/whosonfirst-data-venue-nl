@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.412794,51.945374,4.412794,51.945374",
     "geom:latitude":51.945374,
     "geom:longitude":4.412794,
@@ -25,30 +26,46 @@
     "sg:website":"http://www.analytical-controls.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798367,
+        1108805757,
+        102191581,
         85633337,
-        85687041
+        101751843,
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yvkpiUXKJ98DVxt3loCt6_51.945374_4.412794@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"65468846988e01f52870d0155b78d6b7",
+    "wof:geomhash":"789e15d892b0655596884959976cea17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805739,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798367,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":253615925
+        },
+        {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474253,
+            "locality_id":101751845,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":253615925
         }
     ],
     "wof:id":253615925,
-    "wof:lastmodified":1473879693,
+    "wof:lastmodified":1492489426,
     "wof:name":"Analytical Controls Bv",
-    "wof:parent_id":85798367,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

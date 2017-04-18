@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.477319,51.933456,4.477319,51.933456",
     "geom:latitude":51.933456,
     "geom:longitude":4.477319,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859837,
+        85859845,
+        102191581,
         85633337,
         101751843,
+        1108804843,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +46,22 @@
         "sg:id":"SG_0OHpxX73DkY2J0ho483xp9_51.933456_4.477319@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5648aadb92c2445068d4e89f0dfaddf2",
+    "wof:geomhash":"d584898380a7067feba313bace867b33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108804843,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859837,
+            "neighbourhood_id":85859845,
             "region_id":85687041,
             "venue_id":270090303
         }
     ],
     "wof:id":270090303,
-    "wof:lastmodified":1473878559,
+    "wof:lastmodified":1492500160,
     "wof:name":"Afo",
-    "wof:parent_id":85859837,
+    "wof:parent_id":85859845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

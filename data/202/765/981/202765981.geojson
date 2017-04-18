@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.87769,52.359451,4.87769,52.359451",
     "geom:latitude":52.359451,
     "geom:longitude":4.87769,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803565,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6iBGrdsjvAWLT5ikv4T4eA_52.359451_4.877690@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"19b1fde13bd155145a8092711885f8da",
+    "wof:geomhash":"1b3de6efa0ab85bd332ce564d3df7d07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803565,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":202765981
         }
     ],
     "wof:id":202765981,
-    "wof:lastmodified":1473879196,
+    "wof:lastmodified":1492497582,
     "wof:name":"Contrast Text Services",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

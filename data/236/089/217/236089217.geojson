@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.354142,51.852184,4.354142,51.852184",
     "geom:latitude":51.852184,
     "geom:longitude":4.354142,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798011,
+        1108833225,
+        1108805797,
+        102191581,
         85633337,
-        101751847,
+        101751843,
+        1108805727,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5PHLRSlZpqoOLY98LmoXKz_51.852184_4.354142@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"92e3a00edcefbf9723df7a28eaac3657",
+    "wof:geomhash":"0b8d6b94f3583b62d5d15727cb280783",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805727,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751847,
-            "neighbourhood_id":85798011,
+            "locality_id":101751843,
+            "microhood_id":1108833225,
+            "neighbourhood_id":1108805797,
             "region_id":85687041,
             "venue_id":236089217
         }
     ],
     "wof:id":236089217,
-    "wof:lastmodified":1473878712,
+    "wof:lastmodified":1492492657,
     "wof:name":"Micro Care",
-    "wof:parent_id":85798011,
+    "wof:parent_id":1108833225,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

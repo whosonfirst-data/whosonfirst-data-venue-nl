@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5831398964,52.1399497986,5.5831398964,52.1399497986",
     "geom:latitude":52.13995,
     "geom:longitude":5.58314,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.rabobank.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473873,
+        85633337,
+        101807053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qO3qaDk2ZLOQ4d1dMor80_52.139950_5.583140@1306269965"
     },
     "wof:country":"NL",
     "wof:created":1473798683,
-    "wof:geomhash":"e8abe6b905a5802046bee1506ec9c9e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9861cebe3a0517540db3f113075fe8b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473873,
+            "locality_id":101807053,
+            "region_id":85687043,
+            "venue_id":1075810441
+        }
+    ],
     "wof:id":1075810441,
-    "wof:lastmodified":1473878734,
+    "wof:lastmodified":1492486428,
     "wof:name":"Rabobank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

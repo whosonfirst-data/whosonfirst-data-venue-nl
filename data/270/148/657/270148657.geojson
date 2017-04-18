@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.918342,52.353958,4.918342,52.353958",
     "geom:latitude":52.353958,
     "geom:longitude":4.918342,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803773,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_51IEUlAhHGK11Dl7PZJkc0_52.353958_4.918342@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ef826124294b279a1e06084cbda9c40d",
+    "wof:geomhash":"28f80df2c2e75beb400406186423ab0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803773,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":270148657
         }
     ],
     "wof:id":270148657,
-    "wof:lastmodified":1473878662,
+    "wof:lastmodified":1492500158,
     "wof:name":"Bronkhorst, A",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880843,52.376102,4.880843,52.376102",
     "geom:latitude":52.376102,
     "geom:longitude":4.880843,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804119,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3D5KpcyVqHwXfJF1pkcKoo_52.376102_4.880843@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c5ec191c28e5c5a50b5ac3afce494ada",
+    "wof:geomhash":"277b799e18da219c8189ec0bee5a6728",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804119,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":252808777
         }
     ],
     "wof:id":252808777,
-    "wof:lastmodified":1473878544,
+    "wof:lastmodified":1492504773,
     "wof:name":"Don Merriman Consulting Limited",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.127209,52.11515,5.127209,52.11515",
     "geom:latitude":52.11515,
     "geom:longitude":5.127209,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808925,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_1ka3CQ7zNWkDpt99VZBhEc_52.115150_5.127209@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8b92319226e31fc78efe89d7658a96e6",
+    "wof:geomhash":"d2c81afd27c40e898a99040bbec4bbdf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808925,
             "region_id":85687039,
             "venue_id":269747723
         }
     ],
     "wof:id":269747723,
-    "wof:lastmodified":1473879363,
+    "wof:lastmodified":1492495073,
     "wof:name":"Cafetaria Overkapel",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

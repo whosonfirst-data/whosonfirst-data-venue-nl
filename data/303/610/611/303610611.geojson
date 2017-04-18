@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.069298,52.118595,5.069298,52.118595",
     "geom:latitude":52.118595,
     "geom:longitude":5.069298,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797903,
+        1108808933,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6M49WqFaW0nTsVeuiQehnM_52.118595_5.069298@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a1fb02bdbde47c8d4427f1791a25059e",
+    "wof:geomhash":"ed8cb06680e652924cbe68d6407e10dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797903,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808933,
             "region_id":85687039,
             "venue_id":303610611
         }
     ],
     "wof:id":303610611,
-    "wof:lastmodified":1473879321,
+    "wof:lastmodified":1492473862,
     "wof:name":"Snuffeldump",
-    "wof:parent_id":85797903,
+    "wof:parent_id":1108808933,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

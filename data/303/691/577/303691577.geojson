@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.26025,52.082256,4.26025,52.082256",
     "geom:latitude":52.082256,
     "geom:longitude":4.26025,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        85798595,
+        102191581,
+        1108808131,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5F2dWfmMpgbOyslPWh1Lt7_52.082256_4.260250@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3f83d349f49635ea4de3ffa26b3a6878",
+    "wof:geomhash":"7c27e5d56e5585d48e9917ec61395e05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
+            "macrohood_id":1108808131,
+            "neighbourhood_id":85798595,
             "region_id":85687041,
             "venue_id":303691577
         }
     ],
     "wof:id":303691577,
-    "wof:lastmodified":1473879444,
+    "wof:lastmodified":1492473137,
     "wof:name":"G.J. De Wilde",
-    "wof:parent_id":85859605,
+    "wof:parent_id":85798595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

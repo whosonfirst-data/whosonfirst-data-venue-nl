@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.902172,52.357224,4.902172,52.357224",
     "geom:latitude":52.357224,
     "geom:longitude":4.902172,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803835,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_40nw1M0Mgadn8GtXldHyEJ_52.357224_4.902172@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0c43679e6665211c5071f92269775ca7",
+    "wof:geomhash":"1c8b62300903a0c93f997ad4c0e95341",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803835,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":286345049
         }
     ],
     "wof:id":286345049,
-    "wof:lastmodified":1473878855,
+    "wof:lastmodified":1492477584,
     "wof:name":"Bremer",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

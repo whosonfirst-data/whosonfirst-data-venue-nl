@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.468957,51.935455,4.468957,51.935455",
     "geom:latitude":51.935455,
     "geom:longitude":4.468957,
@@ -25,9 +26,11 @@
     "sg:website":"http://www.memotret.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859819,
+        85859823,
+        102191581,
         85633337,
-        101753095,
+        101751843,
+        1108804843,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +38,22 @@
         "sg:id":"SG_3L3DBvJE8ywm86y1hQ8e4U_51.935455_4.468957@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"36bc8ab53c66aedd5b24fdae4c465c82",
+    "wof:geomhash":"77635093b1616f8e63a492715350b93e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108804843,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859819,
+            "locality_id":101751843,
+            "neighbourhood_id":85859823,
             "region_id":85687041,
             "venue_id":270261097
         }
     ],
     "wof:id":270261097,
-    "wof:lastmodified":1473878976,
+    "wof:lastmodified":1492500362,
     "wof:name":"Memotret",
-    "wof:parent_id":85859819,
+    "wof:parent_id":85859823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

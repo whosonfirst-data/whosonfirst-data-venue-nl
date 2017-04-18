@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.900304,52.345116,4.900304,52.345116",
     "geom:latitude":52.345116,
     "geom:longitude":4.900304,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804281,
+        1108802897,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5IwuUZjTLlcpS596Af2Bvb_52.345116_4.900304@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"721bc6d3c5871e1b0eb07a5b37097477",
+    "wof:geomhash":"01221696b63cdd9a773a6c0e2ddb73df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108804281,
+            "neighbourhood_id":1108802897,
             "region_id":85687053,
             "venue_id":202801601
         }
     ],
     "wof:id":202801601,
-    "wof:lastmodified":1473879247,
+    "wof:lastmodified":1492498337,
     "wof:name":"Transafe",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

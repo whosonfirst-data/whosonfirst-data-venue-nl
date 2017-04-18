@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.308415,52.063488,4.308415,52.063488",
     "geom:latitude":52.063488,
     "geom:longitude":4.308415,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859615,
+        1108808263,
+        102191581,
+        1108808035,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_658JKjCQP4p1HNPkwMKOvV_52.063488_4.308415@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"97f88f4c8e4a0bf6bab0c5218c6153d6",
+    "wof:geomhash":"aa1291fa09ce5a213a456ae37f85a7ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808263,
             "region_id":85687041,
             "venue_id":270527493
         }
     ],
     "wof:id":270527493,
-    "wof:lastmodified":1473879421,
+    "wof:lastmodified":1492500038,
     "wof:name":"Het Startpunt",
-    "wof:parent_id":85859615,
+    "wof:parent_id":1108808263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

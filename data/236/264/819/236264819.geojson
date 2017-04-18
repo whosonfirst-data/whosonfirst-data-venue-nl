@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876911,52.371246,4.876911,52.371246",
     "geom:latitude":52.371246,
     "geom:longitude":4.876911,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1wxQTKXSH23iQug285qXMi_52.371246_4.876911@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7333168f8c2e292589dbf5bf839ab88e",
+    "wof:geomhash":"deec0214091fc35cd0c01508d19290ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":236264819
         }
     ],
     "wof:id":236264819,
-    "wof:lastmodified":1473879059,
+    "wof:lastmodified":1492493861,
     "wof:name":"Baars, Lisette Van",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

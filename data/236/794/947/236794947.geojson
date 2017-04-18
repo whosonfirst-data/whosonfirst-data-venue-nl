@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.816379,52.374466,4.816379,52.374466",
     "geom:latitude":52.374466,
     "geom:longitude":4.816379,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803595,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2Hw0HqLfieyRTqrWAAf28p_52.374466_4.816379@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ce158ebe05ca708bc9718a9d7d29b195",
+    "wof:geomhash":"3e7f5d04eb36ebac3bdc9f45b17f6874",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "macrohood_id":1108802303,
+            "microhood_id":1108803595,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":236794947
         }
     ],
     "wof:id":236794947,
-    "wof:lastmodified":1473879530,
+    "wof:lastmodified":1492494384,
     "wof:name":"Loutfi, Z",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

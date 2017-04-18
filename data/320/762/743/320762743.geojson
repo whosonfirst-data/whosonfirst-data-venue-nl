@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.856723,52.3829,4.856723,52.3829",
     "geom:latitude":52.3829,
     "geom:longitude":4.856723,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803867,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_017Ab4UeqTvskiM5koERb1_52.382900_4.856723@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7405f06f0dab6912d50189b370882a30",
+    "wof:geomhash":"1bdad73c35e6993c7098d0fa7f0c7efc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803867,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":320762743
         }
     ],
     "wof:id":320762743,
-    "wof:lastmodified":1473879632,
+    "wof:lastmodified":1492482548,
     "wof:name":"H M De Jong",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803867,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

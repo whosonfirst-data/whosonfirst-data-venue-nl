@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.272374,52.074768,4.272374,52.074768",
     "geom:latitude":52.074768,
     "geom:longitude":4.272374,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        1108808213,
+        102191581,
+        1108808125,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2x9cNvOdH0RddD4xIfUbS5_52.074768_4.272374@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0c4237dc5188df6c77a02c902052cf1c",
+    "wof:geomhash":"570ed7cfed1b5b941f792961c2173080",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
+            "macrohood_id":1108808125,
+            "neighbourhood_id":1108808213,
             "region_id":85687041,
             "venue_id":269979519
         }
     ],
     "wof:id":269979519,
-    "wof:lastmodified":1473879597,
+    "wof:lastmodified":1492496462,
     "wof:name":"Ask4",
-    "wof:parent_id":85859605,
+    "wof:parent_id":1108808213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

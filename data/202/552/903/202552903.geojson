@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.557474,51.962585,4.557474,51.962585",
     "geom:latitude":51.962585,
     "geom:longitude":4.557474,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mXkGvzqNr9khYkaaCuyB0_51.962585_4.557474@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5f09da1ead7d87adc1014c93a147e389",
+    "wof:geomhash":"36074d8471c4f7344a2d31ebf04eea7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":202552903
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798149,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":202552903,
-    "wof:lastmodified":1473878901,
+    "wof:lastmodified":1492498308,
     "wof:name":"Atheco Bv",
     "wof:parent_id":85798149,
     "wof:placetype":"venue",

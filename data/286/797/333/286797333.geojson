@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.859325,52.357586,4.859325,52.357586",
     "geom:latitude":52.357586,
     "geom:longitude":4.859325,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803957,
+        1108802893,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6n9WDTuEXwvWJnV3y49OmR_52.357586_4.859325@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5acdfd219842137f765bf60384d16b18",
+    "wof:geomhash":"ae89eef6de9037c819037f972631f394",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803957,
+            "neighbourhood_id":1108802893,
             "region_id":85687053,
             "venue_id":286797333
         }
     ],
     "wof:id":286797333,
-    "wof:lastmodified":1473879600,
+    "wof:lastmodified":1492476816,
     "wof:name":"P.V.L. Meijer",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

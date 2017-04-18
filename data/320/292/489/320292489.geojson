@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.571923,51.961334,4.571923,51.961334",
     "geom:latitude":51.961334,
     "geom:longitude":4.571923,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798779,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lo2feWGuDqBlufCxQb8PQ_51.961334_4.571923@1306269997"
     },
     "wof:country":"NL",
-    "wof:geomhash":"66205fb686426051f804474e4d49c25a",
+    "wof:geomhash":"828137ec0b64a6d8a2fe7f90cff6410e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798779,
+            "region_id":85687041,
+            "venue_id":320292489
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798779,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":320292489,
-    "wof:lastmodified":1473879144,
+    "wof:lastmodified":1492482922,
     "wof:name":"Maasbach",
     "wof:parent_id":85798779,
     "wof:placetype":"venue",

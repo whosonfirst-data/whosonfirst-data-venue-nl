@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1478571892,52.1243515015,5.1478571892,52.1243515015",
     "geom:latitude":52.124352,
     "geom:longitude":5.147857,
@@ -24,9 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687039,
+        102191581,
+        404473975,
         85633337,
-        85798227,
-        85687039
+        101754601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473803688,
-    "wof:geomhash":"acd9d1466aa659bd7adf60ff4eb2042b",
+    "wof:geomhash":"9701cee55686edd685654505e22a797f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798227,
+            "localadmin_id":404473975,
+            "locality_id":101754601,
             "region_id":85687039,
             "venue_id":1091615433
         }
     ],
     "wof:id":1091615433,
-    "wof:lastmodified":1473878792,
+    "wof:lastmodified":1492510454,
     "wof:name":"Werkhoven'S Vloerenbedrijf En Interieurverzorging",
-    "wof:parent_id":85798227,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

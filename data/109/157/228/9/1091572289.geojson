@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0403289795,52.3064994812,5.0403289795,52.3064994812",
     "geom:latitude":52.306499,
     "geom:longitude":5.040329,
@@ -24,17 +25,32 @@
     "sg:province":"North Holland",
     "sg:website":"http://www.designfabriek.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474125,
+        85633337,
+        101754863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WMbh7m6nKKzsGGM9n42Ly_52.306499_5.040329@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800620,
-    "wof:geomhash":"8bd3aebbf922bb2a03f58a27ecec0387",
-    "wof:hierarchy":[],
+    "wof:geomhash":"675c337fe0ff145e0cb558895e33313f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474125,
+            "locality_id":101754863,
+            "region_id":85687053,
+            "venue_id":1091572289
+        }
+    ],
     "wof:id":1091572289,
-    "wof:lastmodified":1473878618,
+    "wof:lastmodified":1492511350,
     "wof:name":"Design Fabriek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

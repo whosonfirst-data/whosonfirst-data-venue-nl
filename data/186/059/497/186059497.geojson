@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.302344,52.056335,4.302344,52.056335",
     "geom:latitude":52.056335,
     "geom:longitude":4.302344,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798433,
+        1108808299,
+        102191581,
+        1108833203,
         85633337,
-        101754743,
+        101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0y3lyBKEIvy9q4TOlDHsGd_52.056335_4.302344@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"444bf86f588ea7337f54358f84338f78",
+    "wof:geomhash":"5b910ab68b9044688f63e5f7c6daf977",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798433,
+            "locality_id":101752763,
+            "macrohood_id":1108833203,
+            "neighbourhood_id":1108808299,
             "region_id":85687041,
             "venue_id":186059497
         }
     ],
     "wof:id":186059497,
-    "wof:lastmodified":1473878769,
+    "wof:lastmodified":1492507489,
     "wof:name":"Redline Courier Den Haag",
-    "wof:parent_id":85798433,
+    "wof:parent_id":1108808299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

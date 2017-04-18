@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.890928,52.354496,4.890928,52.354496",
     "geom:latitude":52.354496,
     "geom:longitude":4.890928,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803931,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6IyabVV1L132gMKdWehwn8_52.354496_4.890928@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ae9f716b4333b57d115987a8a0a40b9b",
+    "wof:geomhash":"e28aa039766b1c2383f49566123c8aa6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803931,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":186079001
         }
     ],
     "wof:id":186079001,
-    "wof:lastmodified":1473878861,
+    "wof:lastmodified":1492507682,
     "wof:name":"Tetouan",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

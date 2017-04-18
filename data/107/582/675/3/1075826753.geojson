@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5335569382,51.965259552,4.5335569382,51.965259552",
     "geom:latitude":51.96526,
     "geom:longitude":4.533557,
@@ -24,12 +25,15 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859913,
+        1108807127,
+        85798149,
         102191581,
-        404474245,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,22 +41,34 @@
     },
     "wof:country":"NL",
     "wof:created":1473799593,
-    "wof:geomhash":"1f2187f347ab843bc06c0b82f545d27b",
+    "wof:geomhash":"28251bd1244db714337b92d2f4089f3a",
     "wof:hierarchy":[
         {
+            "borough_id":1108805725,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474245,
-            "locality_id":101753095,
-            "neighbourhood_id":85859913,
+            "locality_id":101751843,
+            "microhood_id":1108807127,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":1075826753
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "microhood_id":1108807127,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":1075826753
         }
     ],
     "wof:id":1075826753,
-    "wof:lastmodified":1473879472,
+    "wof:lastmodified":1492486753,
     "wof:name":"Furnace Linings Services",
-    "wof:parent_id":85859913,
+    "wof:parent_id":1108807127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

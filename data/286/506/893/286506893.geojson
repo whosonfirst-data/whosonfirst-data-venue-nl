@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.928151,52.359913,4.928151,52.359913",
     "geom:latitude":52.359913,
     "geom:longitude":4.928151,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803667,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_25WOKPhNNHubQTu9DR0eBB_52.359913_4.928151@1306269970"
     },
     "wof:country":"NL",
-    "wof:geomhash":"81330362953cf6d3d02ebceed0e66f31",
+    "wof:geomhash":"cfbbce6d68c753ff76ac93eb0c05de7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803667,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":286506893
         }
     ],
     "wof:id":286506893,
-    "wof:lastmodified":1473879175,
+    "wof:lastmodified":1492475874,
     "wof:name":"Rijn, Monica Van",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

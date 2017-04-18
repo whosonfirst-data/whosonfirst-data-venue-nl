@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.33244,52.072903,4.33244,52.072903",
     "geom:latitude":52.072903,
     "geom:longitude":4.33244,
@@ -24,31 +25,49 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797093,
+        85859633,
+        102191581,
+        1108808077,
         85633337,
         101752763,
-        85687041
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1O10Mm67A7rZgG3pwY5b7x_52.072903_4.332440@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f29c606cfc6908a36be83720a3626527",
+    "wof:geomhash":"bbd6daf9cc262c5c7c9801fb18944e52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797093,
+            "macrohood_id":1108808077,
+            "neighbourhood_id":85859633,
+            "region_id":85687041,
+            "venue_id":252910043
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
+            "locality_id":101754743,
+            "macrohood_id":1108808077,
+            "neighbourhood_id":85859633,
             "region_id":85687041,
             "venue_id":252910043
         }
     ],
     "wof:id":252910043,
-    "wof:lastmodified":1473878849,
+    "wof:lastmodified":1492504764,
     "wof:name":"Autosloperij J. De Jong Vof",
-    "wof:parent_id":85797093,
+    "wof:parent_id":85859633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

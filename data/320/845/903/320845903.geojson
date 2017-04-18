@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.310873,52.08654,4.310873,52.08654",
     "geom:latitude":52.08654,
     "geom:longitude":4.310873,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808223,
+        102191581,
+        1108808065,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0yjT3hMByQ2WzsYFI7WJJw_52.086540_4.310873@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0c04be3b77d7f9252d187dbd4a0800ab",
+    "wof:geomhash":"12b804ba9d307b20dc7a309bcaa227b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808065,
+            "neighbourhood_id":1108808223,
             "region_id":85687041,
             "venue_id":320845903
         }
     ],
     "wof:id":320845903,
-    "wof:lastmodified":1473879659,
+    "wof:lastmodified":1492481852,
     "wof:name":"Centrum Voor Conflicthantering",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

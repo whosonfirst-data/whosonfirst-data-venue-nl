@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879348,52.369411,4.879348,52.369411",
     "geom:latitude":52.369411,
     "geom:longitude":4.879348,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0SFPwL26ivnNI0kqB5QFyW_52.369411_4.879348@1306269959"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f9c696bb08132e41b47fb3b891cdf0f4",
+    "wof:geomhash":"f1cb7190027cb2ff8d543a41c3922718",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":269941741
         }
     ],
     "wof:id":269941741,
-    "wof:lastmodified":1473879551,
+    "wof:lastmodified":1492496276,
     "wof:name":"Cees Comman Tweewielerzaak",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

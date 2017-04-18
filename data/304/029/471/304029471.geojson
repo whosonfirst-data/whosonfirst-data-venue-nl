@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.891063,52.378769,4.891063,52.378769",
     "geom:latitude":52.378769,
     "geom:longitude":4.891063,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803299,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5pfkWu54u2t3hM1ObvHO5i_52.378769_4.891063@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2afdbcf3d8c71943b5891743603821bc",
+    "wof:geomhash":"7a5e60363529ac902a964ad1f4502f02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803299,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":304029471
         }
     ],
     "wof:id":304029471,
-    "wof:lastmodified":1473878642,
+    "wof:lastmodified":1492504585,
     "wof:name":"Kumpenie Amsterdam Bv, De",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

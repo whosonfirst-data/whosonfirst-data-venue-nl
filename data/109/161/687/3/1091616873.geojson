@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9851899147,51.8376617432,4.9851899147,51.8376617432",
     "geom:latitude":51.837662,
     "geom:longitude":4.98519,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.qcoffice.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474173,
+        85633337,
+        101808515
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00xQExk7xZqh43UDK8XBEi_51.837662_4.985190@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803760,
-    "wof:geomhash":"920eab31c91b4ff8cdfa635fb76bafb1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c28fecbc1a9d6b274c2d08bf1053f7c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474173,
+            "locality_id":101808515,
+            "region_id":85687041,
+            "venue_id":1091616873
+        }
+    ],
     "wof:id":1091616873,
-    "wof:lastmodified":1473878875,
+    "wof:lastmodified":1492510565,
     "wof:name":"Qc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5667309761,51.9579086304,5.5667309761,51.9579086304",
     "geom:latitude":51.957909,
     "geom:longitude":5.566731,
@@ -23,17 +24,32 @@
     "sg:postcode":"3911 KL",
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474003,
+        85633337,
+        101809835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4U472ox8x5vKWTrl0OzQjE_51.957909_5.566731@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801277,
-    "wof:geomhash":"711172f8975c719bffd5dea72b71c702",
-    "wof:hierarchy":[],
+    "wof:geomhash":"229e62abbe66c6284f9cf329a9252e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474003,
+            "locality_id":101809835,
+            "region_id":85687039,
+            "venue_id":1091581833
+        }
+    ],
     "wof:id":1091581833,
-    "wof:lastmodified":1473878588,
+    "wof:lastmodified":1492511869,
     "wof:name":"Wereldwinkel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

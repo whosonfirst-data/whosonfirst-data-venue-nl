@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8333911896,51.8287353516,4.8333911896,51.8287353516",
     "geom:latitude":51.828735,
     "geom:longitude":4.833391,
@@ -23,17 +24,32 @@
     "sg:postcode":"3371 AD",
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474181,
+        85633337,
+        101754683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WU20hX5ht4KRM4uREjy1n_51.828735_4.833391@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800126,
-    "wof:geomhash":"b0b9fe6cdec0ee2cb116edec2ea53bbb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b9fbc3d455b38aa562b92d12175bf5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474181,
+            "locality_id":101754683,
+            "region_id":85687041,
+            "venue_id":1075836219
+        }
+    ],
     "wof:id":1075836219,
-    "wof:lastmodified":1473879453,
+    "wof:lastmodified":1492485833,
     "wof:name":"Ascot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

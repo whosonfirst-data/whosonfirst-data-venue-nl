@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881122,52.350437,4.881122,52.350437",
     "geom:latitude":52.350437,
     "geom:longitude":4.881122,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803589,
+        1108802527,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1BBJacs5kPnAUIYtLkANCQ_52.350437_4.881122@1306269932"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1843d9b30479f8c95365c09afa9c898c",
+    "wof:geomhash":"4c9cb3f7e2e1f3b18acba305182558d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803589,
+            "neighbourhood_id":1108802527,
             "region_id":85687053,
             "venue_id":220156365
         }
     ],
     "wof:id":220156365,
-    "wof:lastmodified":1473878984,
+    "wof:lastmodified":1492481428,
     "wof:name":"Advocatenkantoor Knoops & Partners",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803589,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

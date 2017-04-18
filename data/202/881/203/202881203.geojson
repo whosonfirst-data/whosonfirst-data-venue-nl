@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.553847,51.955902,4.553847,51.955902",
     "geom:latitude":51.955902,
     "geom:longitude":4.553847,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798177,
+        85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DbaR5dLrrPfaFQsqiPZJG_51.955902_4.553847@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cde32698558cd503a096008e0247f797",
+    "wof:geomhash":"eadffa3eab2d4e215e4ecb8290484925",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":202881203
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798177,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":202881203
         }
     ],
     "wof:id":202881203,
-    "wof:lastmodified":1473879372,
+    "wof:lastmodified":1492498132,
     "wof:name":"Sanden, J A Van Der",
-    "wof:parent_id":85798177,
+    "wof:parent_id":85798149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

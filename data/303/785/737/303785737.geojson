@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.855394,52.354527,4.855394,52.354527",
     "geom:latitude":52.354527,
     "geom:longitude":4.855394,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108804247,
+        1108802899,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7bam6ezN2peVipOv56hD6x_52.354527_4.855394@1306269987"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b0c2898a51e04abcb20754617201d5e1",
+    "wof:geomhash":"f8f27d0af7c7c696670e4c0911fa07ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108804247,
+            "neighbourhood_id":1108802899,
             "region_id":85687053,
             "venue_id":303785737
         }
     ],
     "wof:id":303785737,
-    "wof:lastmodified":1473879548,
+    "wof:lastmodified":1492473876,
     "wof:name":"Aquarius",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

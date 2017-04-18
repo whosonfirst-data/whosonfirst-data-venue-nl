@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.890696,52.362007,4.890696,52.362007",
     "geom:latitude":52.362007,
     "geom:longitude":4.890696,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803539,
+        1108802791,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_0qpZHv8abAwYjRsuyFlppV_52.362007_4.890696@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"124d95bcb1c45c014cf19814ed037f92",
+    "wof:geomhash":"dad5752a0ddbb6237f3a0787da72fb45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803539,
+            "neighbourhood_id":1108802791,
             "region_id":85687053,
             "venue_id":303617177
         }
     ],
     "wof:id":303617177,
-    "wof:lastmodified":1473879329,
+    "wof:lastmodified":1492472830,
     "wof:name":"Fortuna",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803539,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

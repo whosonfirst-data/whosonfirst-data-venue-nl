@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.084485,52.126007,5.084485,52.126007",
     "geom:latitude":52.126007,
     "geom:longitude":5.084485,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808701,
+        102191581,
+        1108832365,
         85633337,
         101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2J0SC7xLpB7yBrhWbLqmce_52.126007_5.084485@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"047765cd79e482e485759e4095bdd66a",
+    "wof:geomhash":"262001e4110ee2d1c001bf927c724493",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808701,
             "region_id":85687039,
             "venue_id":253174187
         }
     ],
     "wof:id":253174187,
-    "wof:lastmodified":1473879047,
+    "wof:lastmodified":1492491197,
     "wof:name":"Mooie Dingen",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

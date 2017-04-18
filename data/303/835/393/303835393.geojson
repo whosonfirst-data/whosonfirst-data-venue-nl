@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.924062,52.351562,4.924062,52.351562",
     "geom:latitude":52.351562,
     "geom:longitude":4.924062,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.hairhis.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804165,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_1UVJRKrOownOeMS0f82yAq_52.351562_4.924062@1306269988"
     },
     "wof:country":"NL",
-    "wof:geomhash":"19f06e014c87bc01691ce14c815886af",
+    "wof:geomhash":"bce9404d8378700d3cb52bd0261fec86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804165,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":303835393
         }
     ],
     "wof:id":303835393,
-    "wof:lastmodified":1473879599,
+    "wof:lastmodified":1492471027,
     "wof:name":"Hair Int Syst",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

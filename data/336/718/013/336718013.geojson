@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.830989,52.368301,4.830989,52.368301",
     "geom:latitude":52.368301,
     "geom:longitude":4.830989,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803489,
+        85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_6JVi0Drytyj12IVn3KShpu_52.368301_4.830989@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"50c96c0ffe4a81d5c7167384c28c8cbc",
+    "wof:geomhash":"99a1da2c2484ef047ebc20362751b704",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803489,
+            "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":336718013
         }
     ],
     "wof:id":336718013,
-    "wof:lastmodified":1473878411,
+    "wof:lastmodified":1492507181,
     "wof:name":"Flex",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

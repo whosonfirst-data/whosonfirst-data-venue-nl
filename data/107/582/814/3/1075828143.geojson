@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.9565367699,52.9880638123,6.9565367699,52.9880638123",
     "geom:latitude":52.988064,
     "geom:longitude":6.956537,
@@ -23,17 +24,32 @@
     "sg:postcode":"9501 DB",
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473731,
+        85633337,
+        101837895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pNLEgizJBsBuwJYipd1tD_52.988064_6.956537@1306270010"
     },
     "wof:country":"NL",
     "wof:created":1473799683,
-    "wof:geomhash":"1e21289fa807f1e339189a3fa867d482",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2156196223b349ba30a62de06d82ad42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473731,
+            "locality_id":101837895,
+            "region_id":85687059,
+            "venue_id":1075828143
+        }
+    ],
     "wof:id":1075828143,
-    "wof:lastmodified":1473879517,
+    "wof:lastmodified":1492487083,
     "wof:name":"De Kwinne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

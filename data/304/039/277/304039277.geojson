@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.883808,52.382717,4.883808,52.382717",
     "geom:latitude":52.382717,
     "geom:longitude":4.883808,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804285,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1WhrknTFZEh5TKa8Kv9x6w_52.382717_4.883808@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ea1270a757f06aaf488ff00c50aad410",
+    "wof:geomhash":"4b12ad4ef02853b67723602b8781c103",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804285,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":304039277
         }
     ],
     "wof:id":304039277,
-    "wof:lastmodified":1473878671,
+    "wof:lastmodified":1492504673,
     "wof:name":"Tijdmeester, De",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

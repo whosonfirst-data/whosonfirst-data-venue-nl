@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.934757,52.350109,4.934757,52.350109",
     "geom:latitude":52.350109,
     "geom:longitude":4.934757,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.axios.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803839,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_0GbZ5V4ZxIVEMIzIZ43O7q_52.350109_4.934757@1306269911"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fe21cdd88385a5d0396865fa71594eab",
+    "wof:geomhash":"505d133cbc2ef4b761d2f89545c36f13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803839,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":186337167
         }
     ],
     "wof:id":186337167,
-    "wof:lastmodified":1473879292,
+    "wof:lastmodified":1492508848,
     "wof:name":"Axios, Sticht",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

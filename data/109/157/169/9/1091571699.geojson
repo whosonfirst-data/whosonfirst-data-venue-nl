@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3694868088,51.6672401428,5.3694868088,51.6672401428",
     "geom:latitude":51.66724,
     "geom:longitude":5.369487,
@@ -24,17 +25,30 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.beuting-webdesign.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474421,
+        85633337,
+        85687035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TgDXgNXqZbrSNtSIhhtcQ_51.667240_5.369487@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800588,
-    "wof:geomhash":"2e9d22f6b51f18aa2f6d33f57dd014c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a341fa6efaef2abecae68876cc7eb63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474421,
+            "region_id":85687035,
+            "venue_id":1091571699
+        }
+    ],
     "wof:id":1091571699,
-    "wof:lastmodified":1473878562,
+    "wof:lastmodified":1492511040,
     "wof:name":"Beuting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

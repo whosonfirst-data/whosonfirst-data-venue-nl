@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88249,52.378445,4.88249,52.378445",
     "geom:latitude":52.378445,
     "geom:longitude":4.88249,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803955,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_5MtHw5x3lPsf1icaeoVke5_52.378445_4.882490@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ccf950ac90e1f364b96d4b20f1eaba03",
+    "wof:geomhash":"6316d9c9d43b2d15f45172f86a5ca353",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803955,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":269821853
         }
     ],
     "wof:id":269821853,
-    "wof:lastmodified":1473879514,
+    "wof:lastmodified":1492496293,
     "wof:name":"Italiaans Restaurant Pizzeria Pepe",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.80925,52.38945,4.80925,52.38945",
     "geom:latitude":52.38945,
     "geom:longitude":4.80925,
@@ -35,9 +36,12 @@
     "sg:website":"http://www.kartbaanamsterdam.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797579,
+        1108804223,
+        1108802535,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -45,21 +49,23 @@
         "sg:id":"SG_1TUb8I1D0Hz5MwdMXeeWqG_52.389450_4.809250@1306269906"
     },
     "wof:country":"NL",
-    "wof:geomhash":"87a7c739ae23d0a655b2de086719b4a1",
+    "wof:geomhash":"56b14a49e4545664124321c75c42ec31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797579,
+            "microhood_id":1108804223,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":185666807
         }
     ],
     "wof:id":185666807,
-    "wof:lastmodified":1473878589,
+    "wof:lastmodified":1492488186,
     "wof:name":"Kartbaan Amsterdam",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108804223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

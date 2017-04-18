@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.899899,52.367371,4.899899,52.367371",
     "geom:latitude":52.367371,
     "geom:longitude":4.899899,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.amsterdam.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803467,
+        1108802875,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_4cRJ6lkGhmaCyFBRO6d69y_52.367371_4.899899@1306269923"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1f790f6ae88b699b007b065d45a0cf8a",
+    "wof:geomhash":"026e194e7bb4a9f4f663ee6ab5307ae4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803467,
+            "neighbourhood_id":1108802875,
             "region_id":85687053,
             "venue_id":203372801
         }
     ],
     "wof:id":203372801,
-    "wof:lastmodified":1473879321,
+    "wof:lastmodified":1492480178,
     "wof:name":"Voorlichtingscentrum, Gemeente Amsterdam",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

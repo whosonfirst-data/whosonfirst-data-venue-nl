@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893773,52.373951,4.893773,52.373951",
     "geom:latitude":52.373951,
     "geom:longitude":4.893773,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.historischnieuwsblad.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803257,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3qfovNyU7Dl9wmAHWR0L0s_52.373951_4.893773@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2289c36b346759151b39a0fea246ef55",
+    "wof:geomhash":"68a83690d493e81ec8f5018444d03593",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803257,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":287155421
         }
     ],
     "wof:id":287155421,
-    "wof:lastmodified":1473878931,
+    "wof:lastmodified":1492514132,
     "wof:name":"Historisch Nieuwsblad",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

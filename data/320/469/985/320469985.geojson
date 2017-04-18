@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.866751,52.369938,4.866751,52.369938",
     "geom:latitude":52.369938,
     "geom:longitude":4.866751,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803197,
+        1108802849,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4aQnnPyeKsrKNHcqH1xCpY_52.369938_4.866751@1306269998"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9faec1b0b48012c50e1a547879704180",
+    "wof:geomhash":"252c492a6ec474f2a7d46930fc7db566",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803197,
+            "neighbourhood_id":1108802849,
             "region_id":85687053,
             "venue_id":320469985
         }
     ],
     "wof:id":320469985,
-    "wof:lastmodified":1473879339,
+    "wof:lastmodified":1492485455,
     "wof:name":"Beekman, A A H",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

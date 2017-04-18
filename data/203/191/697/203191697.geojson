@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885254,52.331879,4.885254,52.331879",
     "geom:latitude":52.331879,
     "geom:longitude":4.885254,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803327,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5YrqjxHRojLkPnsI6bTeDn_52.331879_4.885254@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8116cca4dd2b88e51bf491bfe028b76e",
+    "wof:geomhash":"caead62bf94def57d012ba579107bb08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803327,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":203191697
         }
     ],
     "wof:id":203191697,
-    "wof:lastmodified":1473879078,
+    "wof:lastmodified":1492480734,
     "wof:name":"Van Der Louw Argo Combinatie Vof",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

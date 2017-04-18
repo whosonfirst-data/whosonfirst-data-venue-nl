@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.148893,52.091381,5.148893,52.091381",
     "geom:latitude":52.091381,
     "geom:longitude":5.148893,
@@ -34,8 +35,11 @@
     "sg:website":"http://www.jibes.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808849,
+        102191581,
         85633337,
-        85797403,
+        101751827,
+        1108808669,
         85687039
     ],
     "wof:breaches":[],
@@ -44,19 +48,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473805205,
-    "wof:geomhash":"397899983aa0f7948ab40eaa6bfde7d3",
+    "wof:geomhash":"364582330630c2d15b819fbc43cc9b64",
     "wof:hierarchy":[
         {
+            "borough_id":1108808669,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797403,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808849,
             "region_id":85687039,
             "venue_id":1091638275
         }
     ],
     "wof:id":1091638275,
-    "wof:lastmodified":1473878851,
+    "wof:lastmodified":1492510279,
     "wof:name":"Jibes",
-    "wof:parent_id":85797403,
+    "wof:parent_id":1108808849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

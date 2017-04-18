@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.239372,52.044079,4.239372,52.044079",
     "geom:latitude":52.044079,
     "geom:longitude":4.239372,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859581,
+        85797849,
+        102191581,
+        1108808101,
         85633337,
         101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5KiV181S5HbIqwJbw6TJwp_52.044079_4.239372@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2ae3649521a68da7cefc74bcc6d7a30c",
+    "wof:geomhash":"096782c1868fa1a1c551385a636bf37f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859581,
+            "macrohood_id":1108808101,
+            "neighbourhood_id":85797849,
             "region_id":85687041,
             "venue_id":202796135
         }
     ],
     "wof:id":202796135,
-    "wof:lastmodified":1473879199,
+    "wof:lastmodified":1492499079,
     "wof:name":"Scandinavia",
-    "wof:parent_id":85859581,
+    "wof:parent_id":85797849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

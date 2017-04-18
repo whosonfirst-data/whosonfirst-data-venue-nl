@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880251,52.371494,4.880251,52.371494",
     "geom:latitude":52.371494,
     "geom:longitude":4.880251,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_32BIOWfS6ZzzAXOa04QZCe_52.371494_4.880251@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"52b7200bc82340365012dffd95a3eeee",
+    "wof:geomhash":"abf6f0b61adef254fe366b13280c3303",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":270112875
         }
     ],
     "wof:id":270112875,
-    "wof:lastmodified":1473878615,
+    "wof:lastmodified":1492500211,
     "wof:name":"Heuff, M H",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

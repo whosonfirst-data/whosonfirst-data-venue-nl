@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.917933,52.349495,4.917933,52.349495",
     "geom:latitude":52.349495,
     "geom:longitude":4.917933,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803495,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_3CslniFsbKx1Wf4xQxUfWb_52.349495_4.917933@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e07ac2093f5beae35768fb0ef2460f5f",
+    "wof:geomhash":"72b54f17e332b20b7136c4b5d96eef7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803495,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":336744643
         }
     ],
     "wof:id":336744643,
-    "wof:lastmodified":1473878423,
+    "wof:lastmodified":1492506599,
     "wof:name":"Bunders & Vermeulen Registeraccountants",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

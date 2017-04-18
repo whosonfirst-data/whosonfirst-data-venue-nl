@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.982558,52.298172,4.982558,52.298172",
     "geom:latitude":52.298172,
     "geom:longitude":4.982558,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803463,
+        1108802809,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0gjQYxpwo3wDTYhNOjmIpR_52.298172_4.982558@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"39514e0f15f8fe0dd0064d0a91b19584",
+    "wof:geomhash":"e1d48805540ee8f346b60b89b4d45c7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803463,
+            "neighbourhood_id":1108802809,
             "region_id":85687053,
             "venue_id":270041023
         }
     ],
     "wof:id":270041023,
-    "wof:lastmodified":1473878489,
+    "wof:lastmodified":1492501393,
     "wof:name":"D & M Sports",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.266505,52.050194,4.266505,52.050194",
     "geom:latitude":52.050194,
     "geom:longitude":4.266505,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798043,
+        1108808291,
+        102191581,
+        1108805973,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_29u2CKsYERnK86vCb3i1Ub_52.050194_4.266505@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4f7d95f7f22754943b8d4b3871e8ecf7",
+    "wof:geomhash":"d908a3a7f1fcdcc332a024fdd8fda04a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798043,
+            "macrohood_id":1108805973,
+            "neighbourhood_id":1108808291,
             "region_id":85687041,
             "venue_id":320578403
         }
     ],
     "wof:id":320578403,
-    "wof:lastmodified":1473879433,
+    "wof:lastmodified":1492483928,
     "wof:name":"Vof C Bouwer",
-    "wof:parent_id":85798043,
+    "wof:parent_id":1108808291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

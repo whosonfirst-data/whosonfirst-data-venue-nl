@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.886754,52.412468,4.886754,52.412468",
     "geom:latitude":52.412468,
     "geom:longitude":4.886754,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803211,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_2t8SdEhFiYPWfk4QfWlBuO_52.412468_4.886754@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a656d1e39874f05d38a7b28c0235607c",
+    "wof:geomhash":"a7de2ee748f1f21dfa1517f0f84c5b11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803211,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":270126283
         }
     ],
     "wof:id":270126283,
-    "wof:lastmodified":1473878631,
+    "wof:lastmodified":1492500831,
     "wof:name":"Salomons, Roel",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

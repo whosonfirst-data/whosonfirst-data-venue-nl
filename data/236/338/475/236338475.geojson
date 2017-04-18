@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.843401,52.359585,4.843401,52.359585",
     "geom:latitude":52.359585,
     "geom:longitude":4.843401,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.nsl.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108804211,
+        85798223,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3xSFpOGqfDQfVMYtWjgH4h_52.359585_4.843401@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3f15691b767302926f4c772f68df374b",
+    "wof:geomhash":"1985bd9aab7c8d2ce41cef714af0b381",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108804211,
+            "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":236338475
         }
     ],
     "wof:id":236338475,
-    "wof:lastmodified":1473879164,
+    "wof:lastmodified":1492492385,
     "wof:name":"Naarding Straesser Vd Linden Architecten Groep",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

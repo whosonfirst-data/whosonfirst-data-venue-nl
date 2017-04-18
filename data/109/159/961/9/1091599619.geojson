@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0962171555,51.896232605,5.0962171555,51.896232605",
     "geom:latitude":51.896233,
     "geom:longitude":5.096217,
@@ -23,17 +24,32 @@
     "sg:postcode":"4143 AM",
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474197,
+        85633337,
+        101808521
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oriwYTiozQmiTO8Dx5Q08_51.896233_5.096217@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802499,
-    "wof:geomhash":"8dde49adc66789b10d35242f4ffca30f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb76def020ecce2c1fa4dab243520b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474197,
+            "locality_id":101808521,
+            "region_id":85687041,
+            "venue_id":1091599619
+        }
+    ],
     "wof:id":1091599619,
-    "wof:lastmodified":1473879046,
+    "wof:lastmodified":1492509540,
     "wof:name":"Mourik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

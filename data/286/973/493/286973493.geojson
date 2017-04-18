@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.792563,52.351418,4.792563,52.351418",
     "geom:latitude":52.351418,
     "geom:longitude":4.792563,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108804159,
+        1108802857,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2Gv06Kxpf19WfQ0WlBAcMi_52.351418_4.792563@1306269975"
     },
     "wof:country":"NL",
-    "wof:geomhash":"574a28f7d243cfcdeec7a178041c4898",
+    "wof:geomhash":"979bfcb06b0e60f8cf0e34053647588c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108804159,
+            "neighbourhood_id":1108802857,
             "region_id":85687053,
             "venue_id":286973493
         }
     ],
     "wof:id":286973493,
-    "wof:lastmodified":1473879698,
+    "wof:lastmodified":1492476985,
     "wof:name":"Tuincentrum Osdorp",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108804159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

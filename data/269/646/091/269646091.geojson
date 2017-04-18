@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.25553,52.079128,4.25553,52.079128",
     "geom:latitude":52.079128,
     "geom:longitude":4.25553,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859589,
+        85798595,
+        102191581,
+        1108808131,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0SDzCOO4BDbpn9fIBAj7fX_52.079128_4.255530@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7c82ae9d850246ca83e412c138626e9e",
+    "wof:geomhash":"f35a98ae7457662030fee317ddaf82d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859589,
+            "macrohood_id":1108808131,
+            "neighbourhood_id":85798595,
             "region_id":85687041,
             "venue_id":269646091
         }
     ],
     "wof:id":269646091,
-    "wof:lastmodified":1473879167,
+    "wof:lastmodified":1492496259,
     "wof:name":"Berg, Drs R G Van Den",
-    "wof:parent_id":85859589,
+    "wof:parent_id":85798595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

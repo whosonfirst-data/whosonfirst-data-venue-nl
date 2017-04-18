@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.829863,52.360947,4.829863,52.360947",
     "geom:latitude":52.360947,
     "geom:longitude":4.829863,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804121,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6ZVUw95yK8dffaT2TBKlhu_52.360947_4.829863@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"096b0c212201476db752e415a8bc99b1",
+    "wof:geomhash":"e292dff4fbc1eb2adf08a30917888e5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804121,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":186505829
         }
     ],
     "wof:id":186505829,
-    "wof:lastmodified":1473879541,
+    "wof:lastmodified":1492507807,
     "wof:name":"Smurf-In",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

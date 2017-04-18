@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.863085,52.361095,4.863085,52.361095",
     "geom:latitude":52.361095,
     "geom:longitude":4.863085,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803855,
+        1108802893,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2HkJ7ieYkGOcrdgnWHjqqr_52.361095_4.863085@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"849eb04b09855f836d5c6b5a350baf37",
+    "wof:geomhash":"fbe34ff28e1351ba10860b7c8d328d9f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803855,
+            "neighbourhood_id":1108802893,
             "region_id":85687053,
             "venue_id":320130653
         }
     ],
     "wof:id":320130653,
-    "wof:lastmodified":1473878938,
+    "wof:lastmodified":1492482281,
     "wof:name":"Lumide",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

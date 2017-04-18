@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.887674,52.364201,4.887674,52.364201",
     "geom:latitude":52.364201,
     "geom:longitude":4.887674,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803665,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1IiY356QxXhWDgwgwSPDQT_52.364201_4.887674@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3460dbe83f98b5c40b4cf0517afbb3bf",
+    "wof:geomhash":"1af93c2f4ab4143103b0861f054d0152",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803665,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":270246945
         }
     ],
     "wof:id":270246945,
-    "wof:lastmodified":1473878953,
+    "wof:lastmodified":1492500128,
     "wof:name":"M. Ijdo",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

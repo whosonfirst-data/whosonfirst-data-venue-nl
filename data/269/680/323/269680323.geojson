@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.928616,52.354767,4.928616,52.354767",
     "geom:latitude":52.354767,
     "geom:longitude":4.928616,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804165,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1EgUKDXZGVMCzhklwVLPzO_52.354767_4.928616@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"750d94b6378bc0eb9cda4cb1c4cfaba2",
+    "wof:geomhash":"ee4cd946116e09274ec1f1119fcd22da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804165,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":269680323
         }
     ],
     "wof:id":269680323,
-    "wof:lastmodified":1473879271,
+    "wof:lastmodified":1492496185,
     "wof:name":"Helen Kohler",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

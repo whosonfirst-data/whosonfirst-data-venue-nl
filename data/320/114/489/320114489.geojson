@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.889669,52.423779,4.889669,52.423779",
     "geom:latitude":52.423779,
     "geom:longitude":4.889669,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108804251,
+        1108802883,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_6Z6lUQW2dJlIFy8jh6BezJ_52.423779_4.889669@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1b0f5d0cf36e1fabdf59076781b1e442",
+    "wof:geomhash":"71c38969fa0ae9d93fdebb2d616ac811",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108804251,
+            "neighbourhood_id":1108802883,
             "region_id":85687053,
             "venue_id":320114489
         }
     ],
     "wof:id":320114489,
-    "wof:lastmodified":1473878844,
+    "wof:lastmodified":1492485063,
     "wof:name":"V & S",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108804251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

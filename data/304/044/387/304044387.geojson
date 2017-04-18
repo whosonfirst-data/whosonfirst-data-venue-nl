@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.894368,52.362106,4.894368,52.362106",
     "geom:latitude":52.362106,
     "geom:longitude":4.894368,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.prinsengrachthotel.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803687,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_58HXkFVFBzsX4QxO2IZU9X_52.362106_4.894368@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"100b998d93bb5341207195b74b500cd0",
+    "wof:geomhash":"1da0baec51970da5f3d6d82f2392fac2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803687,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":304044387
         }
     ],
     "wof:id":304044387,
-    "wof:lastmodified":1473878708,
+    "wof:lastmodified":1492504529,
     "wof:name":"Amsterdam Prinsengracht Hotel",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

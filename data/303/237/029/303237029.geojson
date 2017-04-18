@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.890798,52.412457,4.890798,52.412457",
     "geom:latitude":52.412457,
     "geom:longitude":4.890798,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803211,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_0DRRT4ZbmpYBXB2MmUr4jZ_52.412457_4.890798@1306269981"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b33b55bede8a1353c2b362d38a15c081",
+    "wof:geomhash":"22c232a78b404b224b4d026416bcf1e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803211,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":303237029
         }
     ],
     "wof:id":303237029,
-    "wof:lastmodified":1473878954,
+    "wof:lastmodified":1492474835,
     "wof:name":"Graaf, Gebr De",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

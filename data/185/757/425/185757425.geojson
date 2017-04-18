@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876239,52.327789,4.876239,52.327789",
     "geom:latitude":52.327789,
     "geom:longitude":4.876239,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803497,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6c4ND8A3SV7WR2Zh5w0DAY_52.327789_4.876239@1306269907"
     },
     "wof:country":"NL",
-    "wof:geomhash":"76488f4de38b8a125a629ea12f51de16",
+    "wof:geomhash":"a030f89ab256dc3248a89aaaa718ce0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803497,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":185757425
         }
     ],
     "wof:id":185757425,
-    "wof:lastmodified":1473878698,
+    "wof:lastmodified":1492487922,
     "wof:name":"Keuken-Medium",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

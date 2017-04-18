@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.933667,52.397209,4.933667,52.397209",
     "geom:latitude":52.397209,
     "geom:longitude":4.933667,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803535,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5CwSSk4k3oxFGTq1It6cq7_52.397209_4.933667@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9fc7091ad1b6bffb9d39ba55b0d872fb",
+    "wof:geomhash":"551cc26bb9ed996a2ac0e313d4e66d87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803535,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":303694663
         }
     ],
     "wof:id":303694663,
-    "wof:lastmodified":1473879445,
+    "wof:lastmodified":1492470601,
     "wof:name":"J. Hehuat",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803535,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

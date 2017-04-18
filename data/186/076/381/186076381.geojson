@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.896438,52.356613,4.896438,52.356613",
     "geom:latitude":52.356613,
     "geom:longitude":4.896438,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803931,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3QylNo1uCP03qrfTBR80DC_52.356613_4.896438@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"790234a4ad500753eb64e8e95987a5d0",
+    "wof:geomhash":"d8086d7c317a5018c98219cdcd4a956f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803931,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":186076381
         }
     ],
     "wof:id":186076381,
-    "wof:lastmodified":1473878850,
+    "wof:lastmodified":1492508516,
     "wof:name":"Les Amis",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

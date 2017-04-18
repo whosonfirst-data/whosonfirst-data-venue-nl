@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.26505,52.052704,4.26505,52.052704",
     "geom:latitude":52.052704,
     "geom:longitude":4.26505,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798043,
+        85859591,
+        102191581,
+        1108808107,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_70UpuzQUAuXYkRGYCJ6uxe_52.052704_4.265050@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6114af443629a9e6bcd6a803cb5efe3f",
+    "wof:geomhash":"9753d8584b3771a0a8a08e2d9be62a1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798043,
+            "macrohood_id":1108808107,
+            "neighbourhood_id":85859591,
             "region_id":85687041,
             "venue_id":203282863
         }
     ],
     "wof:id":203282863,
-    "wof:lastmodified":1473879230,
+    "wof:lastmodified":1492480020,
     "wof:name":"Imp-Exp Bedr Marowyne",
-    "wof:parent_id":85798043,
+    "wof:parent_id":85859591,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

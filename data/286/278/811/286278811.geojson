@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.337957,52.062778,4.337957,52.062778",
     "geom:latitude":52.062778,
     "geom:longitude":4.337957,
@@ -33,31 +34,49 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859633,
+        1108808317,
+        102191581,
+        1108808103,
         85633337,
         101752763,
-        85687041
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mMyfE9EAHVKl5JKY7Qpxh_52.062778_4.337957@1306269967"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3b95f0899e6e41265cfdd4e36edaa7f7",
+    "wof:geomhash":"2c55bb331775214d8203b04aa91f7463",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859633,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808317,
+            "region_id":85687041,
+            "venue_id":286278811
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
+            "locality_id":101754743,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808317,
             "region_id":85687041,
             "venue_id":286278811
         }
     ],
     "wof:id":286278811,
-    "wof:lastmodified":1473878647,
+    "wof:lastmodified":1492476686,
     "wof:name":"Openbare Basisschool De Kameleon",
-    "wof:parent_id":85859633,
+    "wof:parent_id":1108808317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.940118,52.300579,4.940118,52.300579",
     "geom:latitude":52.300579,
     "geom:longitude":4.940118,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797113,
+        1108803575,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1dwz5Ds9GI3gAVVeURD5f8_52.300579_4.940118@1306269914"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c566c9b9b103235f9cc4a0131e9b3557",
+    "wof:geomhash":"2b4aa4be6a2f4b49a6eed29753147002",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797113,
+            "locality_id":101751893,
+            "microhood_id":1108803575,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":202403837
         }
     ],
     "wof:id":202403837,
-    "wof:lastmodified":1473878579,
+    "wof:lastmodified":1492497829,
     "wof:name":"Van Riemsdijk Verhuizingen Bv",
-    "wof:parent_id":85797113,
+    "wof:parent_id":1108803575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

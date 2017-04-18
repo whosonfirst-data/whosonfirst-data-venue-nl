@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.856403,52.364391,4.856403,52.364391",
     "geom:latitude":52.364391,
     "geom:longitude":4.856403,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803461,
+        1108802827,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_6lvAYiTdAcgPrzrsYOZmiC_52.364391_4.856403@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"241fde118d06a970e075e517b9b8137d",
+    "wof:geomhash":"3891da37f589db26f430e2a50a6ce44d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803461,
+            "neighbourhood_id":1108802827,
             "region_id":85687053,
             "venue_id":320212571
         }
     ],
     "wof:id":320212571,
-    "wof:lastmodified":1473879104,
+    "wof:lastmodified":1492483609,
     "wof:name":"Kyk 23",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

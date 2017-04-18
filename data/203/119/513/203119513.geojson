@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.739928,51.569603,4.739928,51.569603",
     "geom:latitude":51.569603,
     "geom:longitude":4.739928,
@@ -24,40 +25,41 @@
     "sg:province":"Noord-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798327,
         85633337,
-        101754573,
+        85798363,
         85687035,
-        85798363
+        85798327,
+        102191581,
+        404474363,
+        101754573
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yfeG8XOR8O7r8nSQg5StG_51.569603_4.739928@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fdd2c3ddef13301b1d0e2020edb1e10c",
+    "wof:geomhash":"e4a04dbe24dab347bc35fdfd8b701437",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101754573,
-            "neighbourhood_id":85798327,
+            "neighbourhood_id":85798363,
             "region_id":85687035,
             "venue_id":203119513
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798363,
+            "localadmin_id":404474363,
+            "locality_id":101754573,
+            "neighbourhood_id":85798327,
             "region_id":85687035,
             "venue_id":203119513
         }
     ],
     "wof:id":203119513,
-    "wof:lastmodified":1473878937,
+    "wof:lastmodified":1492480483,
     "wof:name":"C. Van Erk Assurantien",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

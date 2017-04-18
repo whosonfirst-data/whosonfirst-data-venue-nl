@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.285856,52.078094,4.285856,52.078094",
     "geom:latitude":52.078094,
     "geom:longitude":4.285856,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        1108808219,
+        102191581,
+        1108808117,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7A1xj03Z2wooQKLmV137GX_52.078094_4.285856@1306269905"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b5e937ed825fe85af74adb5ad5690077",
+    "wof:geomhash":"0fc56abbeea0e203b9fbefe1364db9fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
+            "macrohood_id":1108808117,
+            "neighbourhood_id":1108808219,
             "region_id":85687041,
             "venue_id":169787787
         }
     ],
     "wof:id":169787787,
-    "wof:lastmodified":1473878712,
+    "wof:lastmodified":1492478381,
     "wof:name":"Mustafa Ondula",
-    "wof:parent_id":85859605,
+    "wof:parent_id":1108808219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

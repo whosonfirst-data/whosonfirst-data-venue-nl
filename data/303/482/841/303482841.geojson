@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.932603,52.955292,5.932603,52.955292",
     "geom:latitude":52.955292,
     "geom:longitude":5.932603,
@@ -24,40 +25,41 @@
     "sg:province":"Friesland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797311,
         85633337,
-        101837957,
+        85859961,
         85687055,
-        85859961
+        85797311,
+        102191581,
+        404473771,
+        101837957
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60RODKGEoTxJjbSvfMINMY_52.955292_5.932603@1306269984"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b6900f3230753a4b41d2b97b31fd227e",
+    "wof:geomhash":"c1869393eec0dab556d10e7ce1ba37d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101837957,
-            "neighbourhood_id":85797311,
+            "neighbourhood_id":85859961,
             "region_id":85687055,
             "venue_id":303482841
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859961,
+            "localadmin_id":404473771,
+            "locality_id":101837957,
+            "neighbourhood_id":85797311,
             "region_id":85687055,
             "venue_id":303482841
         }
     ],
     "wof:id":303482841,
-    "wof:lastmodified":1473879190,
+    "wof:lastmodified":1492474164,
     "wof:name":"Sportcentrum De Telle, Sporthal En Overdekt Zwemba",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

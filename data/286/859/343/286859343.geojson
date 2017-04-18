@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.143351,51.361813,6.143351,51.361813",
     "geom:latitude":51.361813,
     "geom:longitude":6.143351,
@@ -24,40 +25,41 @@
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797131,
         85633337,
-        101839287,
+        85797195,
         85687033,
-        85797195
+        85797131,
+        102191581,
+        404474525,
+        101839287
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Q55MsMpIV2cXcQSF6LZEC_51.361813_6.143351@1306269974"
     },
     "wof:country":"NL",
-    "wof:geomhash":"39fd995fb141de69a3968c789b8388f7",
+    "wof:geomhash":"3831da7fcf729a3f61af63fd25f45dfb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101839287,
-            "neighbourhood_id":85797131,
+            "neighbourhood_id":85797195,
             "region_id":85687033,
             "venue_id":286859343
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797195,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "neighbourhood_id":85797131,
             "region_id":85687033,
             "venue_id":286859343
         }
     ],
     "wof:id":286859343,
-    "wof:lastmodified":1473879669,
+    "wof:lastmodified":1492478129,
     "wof:name":"Bloemen Boetiek Hans",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

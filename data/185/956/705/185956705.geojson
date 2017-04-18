@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.847779,52.377609,4.847779,52.377609",
     "geom:latitude":52.377609,
     "geom:longitude":4.847779,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804157,
+        1108802803,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7069zmyyZ51iFyyEgi1Yy4_52.377609_4.847779@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d7e703b4bd700f7c31fc0bdcd8107114",
+    "wof:geomhash":"1dc7b090b5d02343f3ae12273de0c260",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108804157,
+            "neighbourhood_id":1108802803,
             "region_id":85687053,
             "venue_id":185956705
         }
     ],
     "wof:id":185956705,
-    "wof:lastmodified":1473878995,
+    "wof:lastmodified":1492487511,
     "wof:name":"Bromtol, De",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

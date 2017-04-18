@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.888549,52.421265,4.888549,52.421265",
     "geom:latitude":52.421265,
     "geom:longitude":4.888549,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803523,
+        1108802883,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_2xVeOMZXu801cSQB8iIJxm_52.421265_4.888549@1306269914"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fed2402af88dc2fdf23f0f994c41281e",
+    "wof:geomhash":"41bdd65c3c9655189ce45500005f4298",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803523,
+            "neighbourhood_id":1108802883,
             "region_id":85687053,
             "venue_id":186609179
         }
     ],
     "wof:id":186609179,
-    "wof:lastmodified":1473879615,
+    "wof:lastmodified":1492507873,
     "wof:name":"Ontmoetingscentrum Molenwijk",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

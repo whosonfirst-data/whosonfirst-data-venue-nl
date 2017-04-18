@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.925825,52.33934,4.925825,52.33934",
     "geom:latitude":52.33934,
     "geom:longitude":4.925825,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.ace-europe.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803887,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_2FmLXQNkuHdsrJuuDy9ga6_52.339340_4.925825@1306269942"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d9dbf09d41122db5b5941c4419e22c90",
+    "wof:geomhash":"282c6283b28014a4658540bb6e251c20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803887,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":236889593
         }
     ],
     "wof:id":236889593,
-    "wof:lastmodified":1473879578,
+    "wof:lastmodified":1492494577,
     "wof:name":"Ace Carwash Systems Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

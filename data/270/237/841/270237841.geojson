@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877198,52.359581,4.877198,52.359581",
     "geom:latitude":52.359581,
     "geom:longitude":4.877198,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803743,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4uLJ5F8LEgbmTrt0jug5cY_52.359581_4.877198@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3f52c7d5391d13db5e8de9af401c5217",
+    "wof:geomhash":"acaf038c93ca52c8c57992305f9ca0a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803743,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":270237841
         }
     ],
     "wof:id":270237841,
-    "wof:lastmodified":1473878905,
+    "wof:lastmodified":1492501368,
     "wof:name":"H.W. Hoogerhuis",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

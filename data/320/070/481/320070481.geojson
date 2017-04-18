@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.093623,52.10688,5.093623,52.10688",
     "geom:latitude":52.10688,
     "geom:longitude":5.093623,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808759,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_2tRjoKUeSgYvHUqJuMcI6z_52.106880_5.093623@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1569f87c453ade9125ee5b6d7fbb6072",
+    "wof:geomhash":"7fdef07eeda55ed455c0bccd822bac91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808759,
             "region_id":85687039,
             "venue_id":320070481
         }
     ],
     "wof:id":320070481,
-    "wof:lastmodified":1473878703,
+    "wof:lastmodified":1492484995,
     "wof:name":"Giezen",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.897569,52.376778,4.897569,52.376778",
     "geom:latitude":52.376778,
     "geom:longitude":4.897569,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803337,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5UAMRETC4KiQ5VEJU9ATkp_52.376778_4.897569@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"99f7578eecbc787a62f07776180ac000",
+    "wof:geomhash":"f419bbca027e7cad9052defed1d5a13a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803337,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":270356471
         }
     ],
     "wof:id":270356471,
-    "wof:lastmodified":1473879145,
+    "wof:lastmodified":1492499408,
     "wof:name":"Exchange Corporation Netherlands Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803337,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

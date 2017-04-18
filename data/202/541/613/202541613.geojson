@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.296936,52.064571,4.296936,52.064571",
     "geom:latitude":52.064571,
     "geom:longitude":4.296936,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859615,
+        1108808269,
+        102191581,
+        1108805975,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_1IjbwwgCcopuYX0D6RiB3I_52.064571_4.296936@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"201c00194a3d4f8d9cd1e012767fd979",
+    "wof:geomhash":"de23d7092fd3dfc85da9366f92631bcc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108805975,
+            "neighbourhood_id":1108808269,
             "region_id":85687041,
             "venue_id":202541613
         }
     ],
     "wof:id":202541613,
-    "wof:lastmodified":1473878889,
+    "wof:lastmodified":1492499025,
     "wof:name":"Videotheek Transvaal",
-    "wof:parent_id":85859615,
+    "wof:parent_id":1108808269,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

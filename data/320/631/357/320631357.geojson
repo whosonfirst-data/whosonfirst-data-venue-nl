@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.888053,52.420273,4.888053,52.420273",
     "geom:latitude":52.420273,
     "geom:longitude":4.888053,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803523,
+        1108802883,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1RtU8jApJPAUaZ8FbXN8Zu_52.420273_4.888053@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c87270add0de2180b3802af73fcc1abe",
+    "wof:geomhash":"af1de8da39ff15f8051c48385d59b628",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803523,
+            "neighbourhood_id":1108802883,
             "region_id":85687053,
             "venue_id":320631357
         }
     ],
     "wof:id":320631357,
-    "wof:lastmodified":1473879472,
+    "wof:lastmodified":1492482157,
     "wof:name":"Kruif, Tom De",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

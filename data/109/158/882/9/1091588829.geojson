@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9528079033,51.2332191467,5.9528079033,51.2332191467",
     "geom:latitude":51.233219,
     "geom:longitude":5.952808,
@@ -24,17 +25,32 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.eplanet-vo.com/cti",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474557,
+        85633337,
+        101809543
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KcgLP14YCSqvjkcNCMWho_51.233219_5.952808@1306270014"
     },
     "wof:country":"NL",
     "wof:created":1473801883,
-    "wof:geomhash":"96cf226dd2f6e84fb3fa9f5098247621",
-    "wof:hierarchy":[],
+    "wof:geomhash":"822df476d25e1454f52affb332a6e4fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474557,
+            "locality_id":101809543,
+            "region_id":85687033,
+            "venue_id":1091588829
+        }
+    ],
     "wof:id":1091588829,
-    "wof:lastmodified":1473879010,
+    "wof:lastmodified":1492511681,
     "wof:name":"Cti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2942099571,52.4066314697,5.2942099571,52.4066314697",
     "geom:latitude":52.406631,
     "geom:longitude":5.29421,
@@ -24,17 +25,32 @@
     "sg:province":"Flevoland",
     "sg:website":"http://www.dutchofficesupport.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101751875
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XEcGDNC3Edpo2giV2YuFi_52.406631_5.294210@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803489,
-    "wof:geomhash":"5e2983ffb64cf45257643e498ea0688b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b99a4a132c23124f64a9442d3e0d001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101751875,
+            "region_id":85687049,
+            "venue_id":1091611717
+        }
+    ],
     "wof:id":1091611717,
-    "wof:lastmodified":1473878578,
+    "wof:lastmodified":1492510548,
     "wof:name":"Dutch Office Support",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

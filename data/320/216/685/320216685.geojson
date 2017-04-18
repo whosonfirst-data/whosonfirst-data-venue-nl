@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.302536,52.077679,4.302536,52.077679",
     "geom:latitude":52.077679,
     "geom:longitude":4.302536,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798385,
+        1108808249,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_2aLW8jeEJhJGHOyrN3rKQp_52.077679_4.302536@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c0919d5621b3a69cd3a267d40e579c1f",
+    "wof:geomhash":"a3fbc0d2c85810e65a26f7064fe3eccd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798385,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808249,
             "region_id":85687041,
             "venue_id":320216685
         }
     ],
     "wof:id":320216685,
-    "wof:lastmodified":1473879101,
+    "wof:lastmodified":1492482312,
     "wof:name":"P.B.W. Heymans",
-    "wof:parent_id":85798385,
+    "wof:parent_id":1108808249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

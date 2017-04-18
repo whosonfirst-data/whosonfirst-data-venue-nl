@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.817512,52.380814,4.817512,52.380814",
     "geom:latitude":52.380814,
     "geom:longitude":4.817512,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108803979,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_51kNC0BOuXdJ5UU4sgfXjQ_52.380814_4.817512@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dee6d35ba27fb39eb0efe2b9c73a7e55",
+    "wof:geomhash":"c5028a3cf83846756e82413cf47c4fe2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108803979,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":185910665
         }
     ],
     "wof:id":185910665,
-    "wof:lastmodified":1473878882,
+    "wof:lastmodified":1492487210,
     "wof:name":"Kinderdagverblijf Mowgli",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108803979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

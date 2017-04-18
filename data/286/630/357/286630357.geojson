@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.309844,52.088989,4.309844,52.088989",
     "geom:latitude":52.088989,
     "geom:longitude":4.309844,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808223,
+        102191581,
+        1108808065,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3LNqLPXATcjS4im4cTGTC4_52.088989_4.309844@1306269971"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8583e17a00ad396fa8ed1e21f24143f0",
+    "wof:geomhash":"14267f4ed6aefc19e466812f636009e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808065,
+            "neighbourhood_id":1108808223,
             "region_id":85687041,
             "venue_id":286630357
         }
     ],
     "wof:id":286630357,
-    "wof:lastmodified":1473879283,
+    "wof:lastmodified":1492477122,
     "wof:name":"Bmr",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

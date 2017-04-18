@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3112421036,52.0495681763,4.3112421036,52.0495681763",
     "geom:latitude":52.049568,
     "geom:longitude":4.311242,
@@ -26,10 +27,13 @@
     "wof:belongsto":[
         85798433,
         102191581,
-        404474251,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,20 +41,32 @@
     },
     "wof:country":"NL",
     "wof:created":1473799817,
-    "wof:geomhash":"e95edf390863e9a6686a391c1212b1ce",
+    "wof:geomhash":"0b81cb3960e60d37e1a5676553fef663",
     "wof:hierarchy":[
         {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":85798433,
+            "region_id":85687041,
+            "venue_id":1075830459
+        },
+        {
+            "borough_id":1108808049,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474251,
             "locality_id":101754743,
+            "macrohood_id":1108808103,
             "neighbourhood_id":85798433,
             "region_id":85687041,
             "venue_id":1075830459
         }
     ],
     "wof:id":1075830459,
-    "wof:lastmodified":1473879228,
+    "wof:lastmodified":1492485629,
     "wof:name":"Spoorwijk Jongerencentrum",
     "wof:parent_id":85798433,
     "wof:placetype":"venue",

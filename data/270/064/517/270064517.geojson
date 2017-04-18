@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882101,52.366394,4.882101,52.366394",
     "geom:latitude":52.366394,
     "geom:longitude":4.882101,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803925,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_04LrZxzvYvdMzJ4R1KyDyG_52.366394_4.882101@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4442ac3a5e73737d26ca3e7d09e700c8",
+    "wof:geomhash":"06a3f4a5b18b92931e59f97de915d170",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803925,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":270064517
         }
     ],
     "wof:id":270064517,
-    "wof:lastmodified":1473878541,
+    "wof:lastmodified":1492499340,
     "wof:name":"Shin-Bu-Kan",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

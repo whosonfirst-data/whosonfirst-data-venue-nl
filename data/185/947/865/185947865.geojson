@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.498265,51.930199,4.498265,51.930199",
     "geom:latitude":51.930199,
     "geom:longitude":4.498265,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.bbkids.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805837,
+        102191581,
+        1108805657,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_4zpYRpKGcD2hOxjntoHVjd_51.930199_4.498265@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"32994c85978d3e1fdaa121556dc8a1b5",
+    "wof:geomhash":"0c0ae58b41526ca6fffb3060f85bb93c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805657,
+            "neighbourhood_id":1108805837,
             "region_id":85687041,
             "venue_id":185947865
         }
     ],
     "wof:id":185947865,
-    "wof:lastmodified":1473878976,
+    "wof:lastmodified":1492487854,
     "wof:name":"Bb-Kids",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

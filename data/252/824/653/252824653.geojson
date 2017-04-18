@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877379,52.374641,4.877379,52.374641",
     "geom:latitude":52.374641,
     "geom:longitude":4.877379,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803831,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2G7WXSlnAiiQ0bPUItYDpE_52.374641_4.877379@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"05a4d0ca6317cae904f21069ca0e2b45",
+    "wof:geomhash":"4ccb687b60e13d78ab9f77d478670ba6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803831,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":252824653
         }
     ],
     "wof:id":252824653,
-    "wof:lastmodified":1473878572,
+    "wof:lastmodified":1492505325,
     "wof:name":"Van Hellemond Market Research Support",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

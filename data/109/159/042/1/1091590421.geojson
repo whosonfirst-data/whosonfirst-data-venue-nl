@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8974890709,52.4087028503,4.8974890709,52.4087028503",
     "geom:latitude":52.408703,
     "geom:longitude":4.897489,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
+        1108803309,
         85798523,
+        102191581,
+        85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,19 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473801969,
-    "wof:geomhash":"74d2f650f178801ae10b49cd7893aec9",
+    "wof:geomhash":"663d52f14916c6d59bf72d43c146614d",
     "wof:hierarchy":[
         {
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1108803309,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":1091590421
         }
     ],
     "wof:id":1091590421,
-    "wof:lastmodified":1473878494,
+    "wof:lastmodified":1492509492,
     "wof:name":"Amezo",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

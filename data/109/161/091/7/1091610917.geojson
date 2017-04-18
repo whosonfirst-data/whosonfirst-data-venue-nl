@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5236721039,52.3389396667,5.5236721039,52.3389396667",
     "geom:latitude":52.33894,
     "geom:longitude":5.523672,
@@ -24,17 +25,32 @@
     "sg:province":"NL.",
     "sg:website":"http://www.nva-medic-all-systems.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473741,
+        85633337,
+        101808771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4D0H5QWkOJenTzlcouuGe4_52.338940_5.523672@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803438,
-    "wof:geomhash":"c09c5fc15cf46fa101b81a79f7e898d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db51bc49d77e58459cbdaf1bb894e837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473741,
+            "locality_id":101808771,
+            "region_id":85687049,
+            "venue_id":1091610917
+        }
+    ],
     "wof:id":1091610917,
-    "wof:lastmodified":1473878536,
+    "wof:lastmodified":1492510348,
     "wof:name":"Nva Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

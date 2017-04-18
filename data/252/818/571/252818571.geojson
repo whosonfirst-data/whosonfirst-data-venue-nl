@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.857722,52.341053,4.857722,52.341053",
     "geom:latitude":52.341053,
     "geom:longitude":4.857722,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803857,
+        1108802919,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0gHymQqG1td91bynwIlr0s_52.341053_4.857722@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"861c50f1dcea538b9595c81ea23c34e5",
+    "wof:geomhash":"c7816364b3455fef275a1bb9f8b7fecd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803857,
+            "neighbourhood_id":1108802919,
             "region_id":85687053,
             "venue_id":252818571
         }
     ],
     "wof:id":252818571,
-    "wof:lastmodified":1473878562,
+    "wof:lastmodified":1492505740,
     "wof:name":"Market&More The Netherlands Bv",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803857,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

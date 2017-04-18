@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.87974,52.416298,4.87974,52.416298",
     "geom:latitude":52.416298,
     "geom:longitude":4.87974,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804079,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1VGiWv1dqGaNV0bfbxvFfo_52.416298_4.879740@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4bcf052bcae7a983e3c1e087498613bd",
+    "wof:geomhash":"ae9f2b671105110816dc56470503756f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108804079,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":320271509
         }
     ],
     "wof:id":320271509,
-    "wof:lastmodified":1473879145,
+    "wof:lastmodified":1492483397,
     "wof:name":"Amsterdamse Noodvoorzieningen Beense",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108804079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

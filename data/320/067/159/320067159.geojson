@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.905259,52.388638,4.905259,52.388638",
     "geom:latitude":52.388638,
     "geom:longitude":4.905259,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108804279,
+        1108802545,
+        102191581,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_1cxEnEkQrEO3Dwk4J98zOB_52.388638_4.905259@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"45ca10975131693423040b8ce5a0b7a0",
+    "wof:geomhash":"02764f70af3ac9170c93ca2789b7c2e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108804279,
+            "neighbourhood_id":1108802545,
             "region_id":85687053,
             "venue_id":320067159
         }
     ],
     "wof:id":320067159,
-    "wof:lastmodified":1473878660,
+    "wof:lastmodified":1492483450,
     "wof:name":"Faas, D",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108804279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

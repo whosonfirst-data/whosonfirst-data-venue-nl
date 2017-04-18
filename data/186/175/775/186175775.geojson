@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.903124,52.220177,6.903124,52.220177",
     "geom:latitude":52.220177,
     "geom:longitude":6.903124,
@@ -25,8 +26,12 @@
     "sg:website":"http://www.radepo.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797713,
+        102542825,
+        85797623,
+        102191581,
+        404473837,
         85633337,
+        101751869,
         85687045
     ],
     "wof:breaches":[],
@@ -34,21 +39,23 @@
         "sg:id":"SG_3ULbtZFljXy0vvTV3lQh28_52.220177_6.903124@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3d578f02468bb68f28e4ff7f30517676",
+    "wof:geomhash":"ccc840f50fd93f40bb38b1d4c7986db8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102542825,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797713,
+            "localadmin_id":404473837,
+            "locality_id":101751869,
+            "neighbourhood_id":85797623,
             "region_id":85687045,
             "venue_id":186175775
         }
     ],
     "wof:id":186175775,
-    "wof:lastmodified":1473879074,
+    "wof:lastmodified":1492508397,
     "wof:name":"Radepo",
-    "wof:parent_id":85797713,
+    "wof:parent_id":102542825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

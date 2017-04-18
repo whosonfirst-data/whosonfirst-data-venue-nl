@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.963191,52.391006,4.963191,52.391006",
     "geom:latitude":52.391006,
     "geom:longitude":4.963191,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.nivon.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108804083,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_7Qb22VG5ekX7nXGnOROfXd_52.391006_4.963191@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"eb1381fb18cf00f3ddfae06c97e83ab4",
+    "wof:geomhash":"eb7e2b18a6964ad211f5df34b1e1ad55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804083,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":186460689
         }
     ],
     "wof:id":186460689,
-    "wof:lastmodified":1473879490,
+    "wof:lastmodified":1492507646,
     "wof:name":"Nivon Amsterdam",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108804083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

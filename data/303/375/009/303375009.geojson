@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.542485,51.959015,4.542485,51.959015",
     "geom:latitude":51.959015,
     "geom:longitude":4.542485,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZB0sixy0rL0dhfhDeionv_51.959015_4.542485@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b7c93663508b597af208b6da66ef640d",
+    "wof:geomhash":"852a5bbcf6f455ea3e33410f6fb22de3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":303375009
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798149,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":303375009,
-    "wof:lastmodified":1473879165,
+    "wof:lastmodified":1492470791,
     "wof:name":"Regenboog So Vso Zmlk Pc, De",
     "wof:parent_id":85798149,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.255997,52.040432,4.255997,52.040432",
     "geom:latitude":52.040432,
     "geom:longitude":4.255997,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859581,
+        1108808281,
+        102191581,
+        1108808029,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4Vt7OMAvsnjOFes7AW8cgQ_52.040432_4.255997@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c44438c513fb4177a3e37b003c1808a0",
+    "wof:geomhash":"4347aea8cb61c9951c4fda8fe9c80750",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859581,
+            "macrohood_id":1108808029,
+            "neighbourhood_id":1108808281,
             "region_id":85687041,
             "venue_id":303380589
         }
     ],
     "wof:id":303380589,
-    "wof:lastmodified":1473879162,
+    "wof:lastmodified":1492471508,
     "wof:name":"Anne Frankschool",
-    "wof:parent_id":85859581,
+    "wof:parent_id":1108808281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

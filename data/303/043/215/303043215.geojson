@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.992815,52.297543,4.992815,52.297543",
     "geom:latitude":52.297543,
     "geom:longitude":4.992815,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803973,
+        1108802809,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4VABMeiPH3j41Omk3rbn8w_52.297543_4.992815@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8f255ce5fa963f18670b6686bd39d695",
+    "wof:geomhash":"5b704f1005c2a07f40afddeec35ac3ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803973,
+            "neighbourhood_id":1108802809,
             "region_id":85687053,
             "venue_id":303043215
         }
     ],
     "wof:id":303043215,
-    "wof:lastmodified":1473878481,
+    "wof:lastmodified":1492474950,
     "wof:name":"Herman Kluit Administratieburo",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

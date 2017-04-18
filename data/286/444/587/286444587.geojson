@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882161,52.370342,4.882161,52.370342",
     "geom:latitude":52.370342,
     "geom:longitude":4.882161,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2SbncyA9MWoQ7Vx0D3Z0wZ_52.370342_4.882161@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"75b0d94593e202fe3a20fa77e7ee0ee0",
+    "wof:geomhash":"9956a384d47b1997dc4141f244e9eafc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":286444587
         }
     ],
     "wof:id":286444587,
-    "wof:lastmodified":1473879013,
+    "wof:lastmodified":1492475692,
     "wof:name":"Nomia",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

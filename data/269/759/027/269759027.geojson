@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.89128,52.352928,4.89128,52.352928",
     "geom:latitude":52.352928,
     "geom:longitude":4.89128,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803931,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_1LGQzs0hXf8dv0n2GKIIHb_52.352928_4.891280@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"325a6fc472f3f5ed4b8a3aa24a41687b",
+    "wof:geomhash":"250c11dec7a1b4d1ef5339461d6972ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803931,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":269759027
         }
     ],
     "wof:id":269759027,
-    "wof:lastmodified":1473879369,
+    "wof:lastmodified":1492495400,
     "wof:name":"Gastronoom",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

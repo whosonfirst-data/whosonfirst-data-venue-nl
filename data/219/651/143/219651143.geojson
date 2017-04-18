@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.908537,52.395473,4.908537,52.395473",
     "geom:latitude":52.395473,
     "geom:longitude":4.908537,
@@ -25,8 +26,12 @@
     "sg:website":"http://www.noab.nl/intercount",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803335,
+        1108802545,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,23 @@
         "sg:id":"SG_7bJxdM0bFOUyKvmxyGbzfc_52.395473_4.908537@1306269928"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cc91eadca1c3d1fca44bf343acdbc97a",
+    "wof:geomhash":"fe30031b40df3811c870f792a76fc733",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803335,
+            "neighbourhood_id":1108802545,
             "region_id":85687053,
             "venue_id":219651143
         }
     ],
     "wof:id":219651143,
-    "wof:lastmodified":1473879520,
+    "wof:lastmodified":1492502039,
     "wof:name":"Intercount & Interpayroll",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

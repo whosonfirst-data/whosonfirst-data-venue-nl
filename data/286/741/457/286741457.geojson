@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.850344,52.378273,4.850344,52.378273",
     "geom:latitude":52.378273,
     "geom:longitude":4.850344,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804157,
+        1108802803,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:brand_id":420574145,
@@ -35,21 +40,24 @@
         "sg:id":"SG_3CiRDYhTX54zOgPFCqHxye_52.378273_4.850344@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4c254dda9775b0e2bda1a8d5134f4062",
+    "wof:geomhash":"84f430869b56524afd3501211fd8aa59",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108804157,
+            "neighbourhood_id":1108802803,
             "region_id":85687053,
             "venue_id":286741457
         }
     ],
     "wof:id":286741457,
-    "wof:lastmodified":1473879481,
+    "wof:lastmodified":1492477730,
     "wof:name":"Openb Bibliotheek",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

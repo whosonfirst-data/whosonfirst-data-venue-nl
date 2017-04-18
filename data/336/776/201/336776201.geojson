@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.87725,52.370571,4.87725,52.370571",
     "geom:latitude":52.370571,
     "geom:longitude":4.87725,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0houxI1Z1pkHWIWVNW0jkp_52.370571_4.877250@1306270006"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5a23090001fadc8da2d629cb22679d66",
+    "wof:geomhash":"a22785dc1cf0379b0a65cde3b1a2a6b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":336776201
         }
     ],
     "wof:id":336776201,
-    "wof:lastmodified":1473878434,
+    "wof:lastmodified":1492506791,
     "wof:name":"Terts",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

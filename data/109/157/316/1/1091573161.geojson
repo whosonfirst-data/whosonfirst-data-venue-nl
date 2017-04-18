@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2860751152,51.5203971863,4.2860751152,51.5203971863",
     "geom:latitude":51.520397,
     "geom:longitude":4.286075,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.i-future.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474351,
+        85633337,
+        101874255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xI7mlKz6EgiiAKx2ZUqIz_51.520397_4.286075@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800673,
-    "wof:geomhash":"84365604cefc51b87c9fdf07aec51c02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb9d75fdaf8ffa6f7cae6a97c1abae8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474351,
+            "locality_id":101874255,
+            "region_id":85687035,
+            "venue_id":1091573161
+        }
+    ],
     "wof:id":1091573161,
-    "wof:lastmodified":1473878685,
+    "wof:lastmodified":1492511076,
     "wof:name":"I-Future",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

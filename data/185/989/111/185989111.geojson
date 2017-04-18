@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.865475,52.327377,4.865475,52.327377",
     "geom:latitude":52.327377,
     "geom:longitude":4.865475,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.bambinikids.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803485,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_0EGH5cIzGpRWt1d2D7HN7P_52.327377_4.865475@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6532146a84eb875f6a2b0c8d1a4ede7a",
+    "wof:geomhash":"d5d256cceb09fa2234cbc99d66e12a93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803485,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":185989111
         }
     ],
     "wof:id":185989111,
-    "wof:lastmodified":1473879001,
+    "wof:lastmodified":1492487300,
     "wof:name":"Bambini Buitenveldert",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

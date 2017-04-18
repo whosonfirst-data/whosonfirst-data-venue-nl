@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880942,52.375446,4.880942,52.375446",
     "geom:latitude":52.375446,
     "geom:longitude":4.880942,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803831,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_1jpeNyDnJ0n25XtTOebshY_52.375446_4.880942@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2ba13c313583f0bbb6ae72e9435b6281",
+    "wof:geomhash":"b8002adac1a12d1bdfadbb3de76c9aa3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803831,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":253667243
         }
     ],
     "wof:id":253667243,
-    "wof:lastmodified":1473879696,
+    "wof:lastmodified":1492491018,
     "wof:name":"Mammamia",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

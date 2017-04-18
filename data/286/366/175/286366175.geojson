@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.872528,52.361118,4.872528,52.361118",
     "geom:latitude":52.361118,
     "geom:longitude":4.872528,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803959,
+        1108802937,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_43n5O4ZfPd3vF5HmwC5ehf_52.361118_4.872528@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0d83bc388fc772cd056e39457510a6af",
+    "wof:geomhash":"29e0eb3863ecf7f52b5ad5a6cbfef914",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803959,
+            "neighbourhood_id":1108802937,
             "region_id":85687053,
             "venue_id":286366175
         }
     ],
     "wof:id":286366175,
-    "wof:lastmodified":1473878902,
+    "wof:lastmodified":1492476741,
     "wof:name":"Top-Advies Specialisten In Zorg",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

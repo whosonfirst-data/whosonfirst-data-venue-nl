@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.886458,52.365505,4.886458,52.365505",
     "geom:latitude":52.365505,
     "geom:longitude":4.886458,
@@ -33,9 +34,12 @@
     "sg:website":"http://www.artnl.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803665,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_76ha58TyRGncQurYMoBvJ7_52.365505_4.886458@1306269954"
     },
     "wof:country":"NL",
-    "wof:geomhash":"880f093c2292b63e5f85a644a99b809e",
+    "wof:geomhash":"7274ab311b6d4cf3731ae9454352e48a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803665,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":269522205
         }
     ],
     "wof:id":269522205,
-    "wof:lastmodified":1473878709,
+    "wof:lastmodified":1492495940,
     "wof:name":"Art Multiples",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

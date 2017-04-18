@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.467649,51.981548,4.467649,51.981548",
     "geom:latitude":51.981548,
     "geom:longitude":4.467649,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798381,
+        102542781,
+        1108805865,
+        102191581,
         85633337,
-        101807023,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_450a1OeoLiyWYmc0xWne4K_51.981548_4.467649@1306269945"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f9dd359901c05c3fc8da9a69d26e5c74",
+    "wof:geomhash":"697d3e8dd73fe5031a50f9c59bf91eab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "campus_id":102542781,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101807023,
-            "neighbourhood_id":85798381,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805865,
             "region_id":85687041,
             "venue_id":252959779
         }
     ],
     "wof:id":252959779,
-    "wof:lastmodified":1473878939,
+    "wof:lastmodified":1492505429,
     "wof:name":"Vof Metaalbewerking Lobee",
-    "wof:parent_id":85798381,
+    "wof:parent_id":102542781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

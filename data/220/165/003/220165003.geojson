@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.23417,52.069901,4.23417,52.069901",
     "geom:latitude":52.069901,
     "geom:longitude":4.23417,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797143,
+        85797811,
+        102191581,
+        1108808099,
         85633337,
+        101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_5t9VOwuRN8Sd3ZxQFnw5X7_52.069901_4.234170@1306269932"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fd7ce77a5a122e2853dfbd30730e8919",
+    "wof:geomhash":"101283242e0e0f438c1fe4b29af8efdf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797143,
+            "locality_id":101752763,
+            "macrohood_id":1108808099,
+            "neighbourhood_id":85797811,
             "region_id":85687041,
             "venue_id":220165003
         }
     ],
     "wof:id":220165003,
-    "wof:lastmodified":1473878976,
+    "wof:lastmodified":1492481346,
     "wof:name":"Snijders Praktijk Bv",
-    "wof:parent_id":85797143,
+    "wof:parent_id":85797811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.902744,52.352562,4.902744,52.352562",
     "geom:latitude":52.352562,
     "geom:longitude":4.902744,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804139,
+        1108802865,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_41ypwhDCWWEghCaCd6QMO5_52.352562_4.902744@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0230f084c70842af336649ff0b4d34db",
+    "wof:geomhash":"6186911f89326cce25e1b5c50fbe9dcf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108804139,
+            "neighbourhood_id":1108802865,
             "region_id":85687053,
             "venue_id":202531575
         }
     ],
     "wof:id":202531575,
-    "wof:lastmodified":1473878878,
+    "wof:lastmodified":1492497816,
     "wof:name":"Videoland Van Wou",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

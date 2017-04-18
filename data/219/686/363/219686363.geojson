@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.82102,52.355312,4.82102,52.355312",
     "geom:latitude":52.355312,
     "geom:longitude":4.82102,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803265,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6DehBmmPdiJohPDtu7xS5a_52.355312_4.821020@1306269928"
     },
     "wof:country":"NL",
-    "wof:geomhash":"61b89f57874b8e61fb311327947e9eea",
+    "wof:geomhash":"7e9c4a4430115a6bbacd668f6883a68b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803265,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":219686363
         }
     ],
     "wof:id":219686363,
-    "wof:lastmodified":1473879558,
+    "wof:lastmodified":1492501630,
     "wof:name":"Meander",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

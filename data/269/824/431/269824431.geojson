@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.477178,51.933502,4.477178,51.933502",
     "geom:latitude":51.933502,
     "geom:longitude":4.477178,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859837,
+        85859845,
+        102191581,
         85633337,
         101751843,
+        1108804843,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +46,22 @@
         "sg:id":"SG_2Ol9omDfWsFwGbGgHiStXz_51.933502_4.477178@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ae5500898bd13541aafa42290ce60659",
+    "wof:geomhash":"70691a35acd7ebb819ff331d819b0693",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108804843,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859837,
+            "neighbourhood_id":85859845,
             "region_id":85687041,
             "venue_id":269824431
         }
     ],
     "wof:id":269824431,
-    "wof:lastmodified":1473879502,
+    "wof:lastmodified":1492496010,
     "wof:name":"Pizzeria Palermo Trattoria",
-    "wof:parent_id":85859837,
+    "wof:parent_id":85859845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

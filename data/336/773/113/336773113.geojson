@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.886415,52.383667,4.886415,52.383667",
     "geom:latitude":52.383667,
     "geom:longitude":4.886415,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803395,
+        1108802819,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5uxT4zkfucjcyFqNovHnlM_52.383667_4.886415@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3fa1141f2402642e0e91d52a08b7bf83",
+    "wof:geomhash":"3e8bf1d393aa989e04ae91fa7f50636d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803395,
+            "neighbourhood_id":1108802819,
             "region_id":85687053,
             "venue_id":336773113
         }
     ],
     "wof:id":336773113,
-    "wof:lastmodified":1473878425,
+    "wof:lastmodified":1492505751,
     "wof:name":"Dommers",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.609032,51.935238,4.609032,51.935238",
     "geom:latitude":51.935238,
     "geom:longitude":4.609032,
@@ -24,40 +25,44 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859931,
-        85633337,
-        85687041,
         85797247,
-        101754669
+        102191581,
+        404474163,
+        85633337,
+        101754669,
+        85687041,
+        85859931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sMDZURlvq0E0qkpeybP86_51.935238_4.609032@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c42b2635891ce1aa4a1941ca05cf492d",
+    "wof:geomhash":"97b76e8ce71c64d04917d0f26888eae2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859931,
+            "localadmin_id":404474163,
+            "locality_id":101754669,
+            "neighbourhood_id":85797247,
             "region_id":85687041,
             "venue_id":320826911
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101754669,
-            "neighbourhood_id":85797247,
+            "neighbourhood_id":85859931,
             "region_id":85687041,
             "venue_id":320826911
         }
     ],
     "wof:id":320826911,
-    "wof:lastmodified":1473879631,
+    "wof:lastmodified":1492484397,
     "wof:name":"Baur, Mr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

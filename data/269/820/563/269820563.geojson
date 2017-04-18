@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.128964,52.064995,5.128964,52.064995",
     "geom:latitude":52.064995,
     "geom:longitude":5.128964,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859943,
+        1108808795,
+        102191581,
+        1108832363,
         85633337,
+        101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_4nNTKMywbIFcQsbr42GBay_52.064995_5.128964@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5fc6718e0bd1ae59f3132b270e46e744",
+    "wof:geomhash":"fa792b5cded51f2e501f08da1d8da708",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859943,
+            "locality_id":101751827,
+            "macrohood_id":1108832363,
+            "neighbourhood_id":1108808795,
             "region_id":85687039,
             "venue_id":269820563
         }
     ],
     "wof:id":269820563,
-    "wof:lastmodified":1473879510,
+    "wof:lastmodified":1492496659,
     "wof:name":"De Poort Van Lunetten",
-    "wof:parent_id":85859943,
+    "wof:parent_id":1108808795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

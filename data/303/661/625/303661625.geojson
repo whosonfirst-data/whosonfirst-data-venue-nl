@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.87131,52.355644,4.87131,52.355644",
     "geom:latitude":52.355644,
     "geom:longitude":4.87131,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803475,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2UsTD7C4RBELUoMUQaJUTQ_52.355644_4.871310@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e131d9314ebc8d7cb3a980b271a07ecc",
+    "wof:geomhash":"76fd8b8f6b8bf9726822313af3d56388",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803475,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":303661625
         }
     ],
     "wof:id":303661625,
-    "wof:lastmodified":1473879439,
+    "wof:lastmodified":1492470678,
     "wof:name":"Muziek Instituut Edgard Vreuls",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

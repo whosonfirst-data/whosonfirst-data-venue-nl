@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1849179268,52.2156677246,5.1849179268,52.2156677246",
     "geom:latitude":52.215668,
     "geom:longitude":5.184918,
@@ -23,17 +24,32 @@
     "sg:postcode":"1213 VA",
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474081,
+        85633337,
+        101751905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VDPqzw2NuADm2imzdfR35_52.215668_5.184918@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803370,
-    "wof:geomhash":"ca7cb5d391fb1d9fac3a302685959f82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ccdf51c2a9f5fabd79cb50c6a8f21f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474081,
+            "locality_id":101751905,
+            "region_id":85687053,
+            "venue_id":1091609779
+        }
+    ],
     "wof:id":1091609779,
-    "wof:lastmodified":1473878984,
+    "wof:lastmodified":1492512945,
     "wof:name":"Es Handelscompagnie Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

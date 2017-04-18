@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.087179,52.125519,5.087179,52.125519",
     "geom:latitude":52.125519,
     "geom:longitude":5.087179,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808701,
+        102191581,
+        1108832365,
         85633337,
         101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4nJHlAiDgx15PedNO3rQlG_52.125519_5.087179@1306269911"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4f10252e8f9a1850824e3b87bde4c6ba",
+    "wof:geomhash":"94c046914a0f3adfb4ed904bfd45479a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808701,
             "region_id":85687039,
             "venue_id":186192577
         }
     ],
     "wof:id":186192577,
-    "wof:lastmodified":1473879078,
+    "wof:lastmodified":1492507732,
     "wof:name":"Wsv Kunststoffen Bv",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

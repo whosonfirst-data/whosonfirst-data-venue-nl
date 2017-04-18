@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.938606,52.398705,4.938606,52.398705",
     "geom:latitude":52.398705,
     "geom:longitude":4.938606,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803947,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4e0nvx9VGnFggbBelgxHUW_52.398705_4.938606@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c6de56315c67b1a74db43436a502c85f",
+    "wof:geomhash":"979e7bd396d45ae357edf83fead97bd2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803947,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":303355945
         }
     ],
     "wof:id":303355945,
-    "wof:lastmodified":1473879158,
+    "wof:lastmodified":1492471309,
     "wof:name":"Manfield Bv",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

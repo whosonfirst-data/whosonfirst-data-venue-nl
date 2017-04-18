@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878436,52.359146,4.878436,52.359146",
     "geom:latitude":52.359146,
     "geom:longitude":4.878436,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803565,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3SC1l747Tm05bQkgv3KcRr_52.359146_4.878436@1306269949"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d5fed839bc29768e7948f8e099b0da55",
+    "wof:geomhash":"a251f3839c195363365d11a11b2da1ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803565,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":253367197
         }
     ],
     "wof:id":253367197,
-    "wof:lastmodified":1473879429,
+    "wof:lastmodified":1492490034,
     "wof:name":"Molenaar, F",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

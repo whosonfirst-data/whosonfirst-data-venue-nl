@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.840295,52.364529,4.840295,52.364529",
     "geom:latitude":52.364529,
     "geom:longitude":4.840295,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803331,
         85798223,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1QDQaLkUMpJu8RAfCCrloX_52.364529_4.840295@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0e844723d64d51c8010aa11f5d6b446f",
+    "wof:geomhash":"e2be401fd1ed4b22398356e7277eb1fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803331,
             "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":236809729
         }
     ],
     "wof:id":236809729,
-    "wof:lastmodified":1473879534,
+    "wof:lastmodified":1492493309,
     "wof:name":"Rachella",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803331,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

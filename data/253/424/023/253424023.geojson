@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.873586,52.371742,4.873586,52.371742",
     "geom:latitude":52.371742,
     "geom:longitude":4.873586,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.safesound.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803451,
+        1108802777,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_1BYTEqYXV6tX61cwKv8cpM_52.371742_4.873586@1306269949"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ed85aa6362979a2f05373d9ab2f61e9e",
+    "wof:geomhash":"480d32b9741fc13b7c1fc566a7a10d1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803451,
+            "neighbourhood_id":1108802777,
             "region_id":85687053,
             "venue_id":253424023
         }
     ],
     "wof:id":253424023,
-    "wof:lastmodified":1473879572,
+    "wof:lastmodified":1492489018,
     "wof:name":"Safe Sound",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

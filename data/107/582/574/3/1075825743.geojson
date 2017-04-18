@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9631872177,51.8387870789,4.9631872177,51.8387870789",
     "geom:latitude":51.838787,
     "geom:longitude":4.963187,
@@ -23,17 +24,32 @@
     "sg:postcode":"4205 JC",
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474173,
+        85633337,
+        101808515
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7k4RLrUrXmskY9OrNk4Ln4_51.838787_4.963187@1306270009"
     },
     "wof:country":"NL",
     "wof:created":1473799539,
-    "wof:geomhash":"ee674bec6e8b148d9426fba21612446c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d48d66fcf9dc860dc504a95005af872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474173,
+            "locality_id":101808515,
+            "region_id":85687041,
+            "venue_id":1075825743
+        }
+    ],
     "wof:id":1075825743,
-    "wof:lastmodified":1473879403,
+    "wof:lastmodified":1492487080,
     "wof:name":"Westland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

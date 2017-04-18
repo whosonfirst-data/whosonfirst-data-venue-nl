@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.839526,52.378368,4.839526,52.378368",
     "geom:latitude":52.378368,
     "geom:longitude":4.839526,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108804271,
+        1108802783,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4coEituX9lQr2dsWZTj5PT_52.378368_4.839526@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"887d9e1a5bcf0e01d651600922182890",
+    "wof:geomhash":"67dd7611aa6f607af866c46e27d62161",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802299,
+            "microhood_id":1108804271,
+            "neighbourhood_id":1108802783,
             "region_id":85687053,
             "venue_id":303602555
         }
     ],
     "wof:id":303602555,
-    "wof:lastmodified":1473879316,
+    "wof:lastmodified":1492474941,
     "wof:name":"Wibra Bv",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108804271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

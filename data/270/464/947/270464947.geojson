@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.897201,52.374489,4.897201,52.374489",
     "geom:latitude":52.374489,
     "geom:longitude":4.897201,
@@ -29,9 +30,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803787,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_03dtSvbpIlXBMTiXhbJYe7_52.374489_4.897201@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b31a3a83ddbbfae4dd4ff96cdaa64748",
+    "wof:geomhash":"aa2843bbe4447a1611e1bf3621ed8bb1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803787,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":270464947
         }
     ],
     "wof:id":270464947,
-    "wof:lastmodified":1473879265,
+    "wof:lastmodified":1492500836,
     "wof:name":"Argos Bar",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

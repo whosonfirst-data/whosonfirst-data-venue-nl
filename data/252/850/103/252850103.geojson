@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.285979,52.101505,4.285979,52.101505",
     "geom:latitude":52.101505,
     "geom:longitude":4.285979,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808157,
+        102191581,
+        1108808129,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_68jM3MPq1VRLPWJRBO73te_52.101505_4.285979@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b534041efaa703cb087b0a25ead5c539",
+    "wof:geomhash":"ebaf98f9eb9be34c6668505bf6dbdb51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108808129,
+            "neighbourhood_id":1108808157,
             "region_id":85687041,
             "venue_id":252850103
         }
     ],
     "wof:id":252850103,
-    "wof:lastmodified":1473878649,
+    "wof:lastmodified":1492504867,
     "wof:name":"Gerding Tandtechniek Bv",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

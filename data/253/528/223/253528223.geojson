@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.323974,52.057228,4.323974,52.057228",
     "geom:latitude":52.057228,
     "geom:longitude":4.323974,
@@ -24,31 +25,49 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808315,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KMz6lvYGelP7EWQtwDj89_52.057228_4.323974@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c0334f5f609f349137dc9a1aa9230e88",
+    "wof:geomhash":"bac45bc8eca7da8b3d7cc242fd2e95a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808315,
+            "region_id":85687041,
+            "venue_id":253528223
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808315,
             "region_id":85687041,
             "venue_id":253528223
         }
     ],
     "wof:id":253528223,
-    "wof:lastmodified":1473879660,
+    "wof:lastmodified":1492488974,
     "wof:name":"Catering De Nieuwe Brug",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

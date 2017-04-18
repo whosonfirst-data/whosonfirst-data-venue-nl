@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9044089317,52.4289093018,4.9044089317,52.4289093018",
     "geom:latitude":52.428909,
     "geom:longitude":4.904409,
@@ -24,9 +25,11 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687053,
+        102191581,
+        404474091,
         85633337,
-        85798523,
-        85687053
+        101754829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473803701,
-    "wof:geomhash":"1e0bc648d3bc7459a4aad7946a5b94cf",
+    "wof:geomhash":"20cb44473b5355e72a560d57a05061cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798523,
+            "localadmin_id":404474091,
+            "locality_id":101754829,
             "region_id":85687053,
             "venue_id":1091615615
         }
     ],
     "wof:id":1091615615,
-    "wof:lastmodified":1473878813,
+    "wof:lastmodified":1492510759,
     "wof:name":"Beeld En Geluidservice Landsmeer",
-    "wof:parent_id":85798523,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

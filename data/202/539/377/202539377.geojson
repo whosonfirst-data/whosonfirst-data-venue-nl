@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.276152,52.106243,4.276152,52.106243",
     "geom:latitude":52.106243,
     "geom:longitude":4.276152,
@@ -34,8 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808165,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +48,23 @@
         "sg:id":"SG_4JtACslUdk51bUX2YFu2BH_52.106243_4.276152@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7a1950022019a685c30022ca052944ec",
+    "wof:geomhash":"d554fd8d8e20cad96280a7ca06167696",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808165,
             "region_id":85687041,
             "venue_id":202539377
         }
     ],
     "wof:id":202539377,
-    "wof:lastmodified":1473878902,
+    "wof:lastmodified":1492498361,
     "wof:name":"Videotheek Miami Vice",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

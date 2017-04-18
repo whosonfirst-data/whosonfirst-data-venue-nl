@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.813433,52.347893,4.813433,52.347893",
     "geom:latitude":52.347893,
     "geom:longitude":4.813433,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803421,
+        1108802901,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6w4wRMZBaJZf4ts404Q34o_52.347893_4.813433@1306269930"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2ce07e3432fa23fccfed05b6100ba6c9",
+    "wof:geomhash":"cd474631f36916e0b5d082a2d209eeb5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803421,
+            "neighbourhood_id":1108802901,
             "region_id":85687053,
             "venue_id":219903477
         }
     ],
     "wof:id":219903477,
-    "wof:lastmodified":1473879725,
+    "wof:lastmodified":1492503329,
     "wof:name":"Performance Consultancy",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

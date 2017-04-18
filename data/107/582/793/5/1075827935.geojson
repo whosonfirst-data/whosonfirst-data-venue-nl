@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.7135801315,52.4689598083,6.7135801315,52.4689598083",
     "geom:latitude":52.46896,
     "geom:longitude":6.71358,
@@ -23,17 +24,32 @@
     "sg:postcode":"7679 VG",
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473855,
+        85633337,
+        101856061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bxGJrnqW5ErECv0B9M21o_52.468960_6.713580@1306270010"
     },
     "wof:country":"NL",
     "wof:created":1473799667,
-    "wof:geomhash":"cb863004bf22145da295fe46d57d053a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"073abb426021d0c7c01d21920f775cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473855,
+            "locality_id":101856061,
+            "region_id":85687045,
+            "venue_id":1075827935
+        }
+    ],
     "wof:id":1075827935,
-    "wof:lastmodified":1473879500,
+    "wof:lastmodified":1492486903,
     "wof:name":"De Gaarf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

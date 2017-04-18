@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5853562355,52.1406517029,5.5853562355,52.1406517029",
     "geom:latitude":52.140652,
     "geom:longitude":5.585356,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.sales-college.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473873,
+        85633337,
+        101807053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7c7uETvmOSwqySZabMRcMe_52.140652_5.585356@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802028,
-    "wof:geomhash":"dacf308c5dd4a37ca1b673362b2fe113",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b390510ebb1ecfad8b96868bcd11c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473873,
+            "locality_id":101807053,
+            "region_id":85687043,
+            "venue_id":1091591637
+        }
+    ],
     "wof:id":1091591637,
-    "wof:lastmodified":1473878563,
+    "wof:lastmodified":1492509573,
     "wof:name":"Sales College, The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

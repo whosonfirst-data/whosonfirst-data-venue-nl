@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.907507,52.357662,4.907507,52.357662",
     "geom:latitude":52.357662,
     "geom:longitude":4.907507,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803889,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6yrGiJrPl0nWmU3r7mvGzt_52.357662_4.907507@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5f0e3f1acd81e5052617597ed3661754",
+    "wof:geomhash":"45a3d54711bcc07e67ef19534c7d3e8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803889,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":186388861
         }
     ],
     "wof:id":186388861,
-    "wof:lastmodified":1473879377,
+    "wof:lastmodified":1492509253,
     "wof:name":"Gaudeamus, Sticht",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

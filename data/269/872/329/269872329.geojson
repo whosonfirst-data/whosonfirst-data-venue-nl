@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88148,52.375103,4.88148,52.375103",
     "geom:latitude":52.375103,
     "geom:longitude":4.88148,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.bikecity.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803831,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_5tQpOJN788znphgELwsWRV_52.375103_4.881480@1306269959"
     },
     "wof:country":"NL",
-    "wof:geomhash":"92f6f86d19f0aa4b134df44f1ed60886",
+    "wof:geomhash":"5e6f3b8853a0cd5eadfbd057bb739c9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803831,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":269872329
         }
     ],
     "wof:id":269872329,
-    "wof:lastmodified":1473879547,
+    "wof:lastmodified":1492495486,
     "wof:name":"Bike City",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

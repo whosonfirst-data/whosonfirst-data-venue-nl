@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.251611,52.068626,4.251611,52.068626",
     "geom:latitude":52.068626,
     "geom:longitude":4.251611,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797811,
+        85859585,
+        102191581,
+        1108808133,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3rJyVCK5vRXayWFpI0aIu5_52.068626_4.251611@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ff62849da1ce2390e9656e26932e578c",
+    "wof:geomhash":"8bbf0da3eca48ae60b77e6471bbad275",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797811,
+            "macrohood_id":1108808133,
+            "neighbourhood_id":85859585,
             "region_id":85687041,
             "venue_id":270016283
         }
     ],
     "wof:id":270016283,
-    "wof:lastmodified":1473878488,
+    "wof:lastmodified":1492499687,
     "wof:name":"Uitgeverij De Bolster",
-    "wof:parent_id":85797811,
+    "wof:parent_id":85859585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

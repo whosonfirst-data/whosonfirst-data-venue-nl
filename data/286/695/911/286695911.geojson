@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.090378,52.118626,5.090378,52.118626",
     "geom:latitude":52.118626,
     "geom:longitude":5.090378,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808893,
+        102191581,
+        1108832365,
         85633337,
         101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6GLflwGRfSJwDgiLKpZijU_52.118626_5.090378@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"17498303af298188c656dcac947aebaf",
+    "wof:geomhash":"6a5505330db3c0c06379822df16e0b9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808893,
             "region_id":85687039,
             "venue_id":286695911
         }
     ],
     "wof:id":286695911,
-    "wof:lastmodified":1473879434,
+    "wof:lastmodified":1492477915,
     "wof:name":"K-9 Int",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

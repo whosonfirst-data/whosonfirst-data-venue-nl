@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0117630959,53.3315887451,6.0117630959,53.3315887451",
     "geom:latitude":53.331589,
     "geom:longitude":6.011763,
@@ -24,17 +25,32 @@
     "sg:province":"Provincie Friesland",
     "sg:website":"http://www.wasservice.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687055,
+        102191581,
+        404473755,
+        85633337,
+        101806131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HeUvAGlpyFBp22xCp1Ayf_53.331589_6.011763@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800351,
-    "wof:geomhash":"9978210e9fd2dad7ff8fb1435530a025",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b426b778c8cf4ad9ee7de61391be7ede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473755,
+            "locality_id":101806131,
+            "region_id":85687055,
+            "venue_id":1091568351
+        }
+    ],
     "wof:id":1091568351,
-    "wof:lastmodified":1473878521,
+    "wof:lastmodified":1492510863,
     "wof:name":"Willy D?mmer, Wasservice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

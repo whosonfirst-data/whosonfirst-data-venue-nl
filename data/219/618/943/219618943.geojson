@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878555,52.367687,4.878555,52.367687",
     "geom:latitude":52.367687,
     "geom:longitude":4.878555,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803661,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2gOcZTs6meMpju4F9B7hOk_52.367687_4.878555@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"de58eab6d722b1a7ef2ba0c7dac1301e",
+    "wof:geomhash":"e1b549c26830a07a57e018300a6d928d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803661,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":219618943
         }
     ],
     "wof:id":219618943,
-    "wof:lastmodified":1473879508,
+    "wof:lastmodified":1492504161,
     "wof:name":"Faber, C S",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803661,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

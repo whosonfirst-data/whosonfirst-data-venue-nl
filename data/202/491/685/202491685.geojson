@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.40232,51.46841,5.40232,51.46841",
     "geom:latitude":51.46841,
     "geom:longitude":5.40232,
@@ -24,7 +25,12 @@
     "sg:province":"Noord-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102542811,
+        85798003,
+        102191581,
+        404474443,
         85633337,
+        101754579,
         85687035
     ],
     "wof:breaches":[],
@@ -32,21 +38,23 @@
         "sg:id":"SG_3dNXBGNeVrnbmPLxMNPlpR_51.468410_5.402320@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"35bd9ffe7d2629b88402aa1e37ed046b",
+    "wof:geomhash":"8af0967384fa70dd66326449302d6250",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102542811,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "localadmin_id":404474443,
+            "locality_id":101754579,
+            "neighbourhood_id":85798003,
             "region_id":85687035,
             "venue_id":202491685
         }
     ],
     "wof:id":202491685,
-    "wof:lastmodified":1473878774,
+    "wof:lastmodified":1492499093,
     "wof:name":"Groenvoorziening V. Hastenberg",
-    "wof:parent_id":-1,
+    "wof:parent_id":102542811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

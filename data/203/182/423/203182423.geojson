@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.975888,52.295704,4.975888,52.295704",
     "geom:latitude":52.295704,
     "geom:longitude":4.975888,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803939,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3PtpfT0V4vkaSIr1c6aGjR_52.295704_4.975888@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e950a52c04d10bf8d7b006a331d2db70",
+    "wof:geomhash":"e7ab73ce4cf3ba82dc7d08ffd7b7b14f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803939,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":203182423
         }
     ],
     "wof:id":203182423,
-    "wof:lastmodified":1473879069,
+    "wof:lastmodified":1492479984,
     "wof:name":"Select Verzekeringen",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

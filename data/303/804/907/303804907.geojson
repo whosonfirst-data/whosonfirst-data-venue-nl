@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.908393,52.36721,4.908393,52.36721",
     "geom:latitude":52.36721,
     "geom:longitude":4.908393,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.ivn.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803923,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_7ms6MW4l05eJV4mV8jqpi8_52.367210_4.908393@1306269988"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8a054a545cbe9075269826409a3a0ec6",
+    "wof:geomhash":"bf3cd18a8f149ca1c1ae98b742b06686",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803923,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":303804907
         }
     ],
     "wof:id":303804907,
-    "wof:lastmodified":1473879554,
+    "wof:lastmodified":1492474637,
     "wof:name":"Ivn, Vereniging Voor Natuur- En Milieueducatie",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

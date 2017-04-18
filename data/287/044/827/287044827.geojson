@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.909772,52.356579,4.909772,52.356579",
     "geom:latitude":52.356579,
     "geom:longitude":4.909772,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803889,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3Rq4HHmEeYBspmkozkWu6V_52.356579_4.909772@1306269976"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1abd8c531b96428ba27cd506875ce3a5",
+    "wof:geomhash":"0029aa89309341974608b1bb2562c47c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803889,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":287044827
         }
     ],
     "wof:id":287044827,
-    "wof:lastmodified":1473878673,
+    "wof:lastmodified":1492513926,
     "wof:name":"Davidsboom",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

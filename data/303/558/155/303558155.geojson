@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.220602,52.068241,4.220602,52.068241",
     "geom:latitude":52.068241,
     "geom:longitude":4.220602,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797143,
+        85797811,
+        102191581,
+        1108808099,
         85633337,
+        101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_5IMbreDVakg36Wnzv4Yk27_52.068241_4.220602@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fb5ee76c2bc92ce3445d2bc3bf341f11",
+    "wof:geomhash":"9948da7ea00328390c430dfd59499ec2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797143,
+            "locality_id":101752763,
+            "macrohood_id":1108808099,
+            "neighbourhood_id":85797811,
             "region_id":85687041,
             "venue_id":303558155
         }
     ],
     "wof:id":303558155,
-    "wof:lastmodified":1473879289,
+    "wof:lastmodified":1492470948,
     "wof:name":"Boetiek Casa Nova",
-    "wof:parent_id":85797143,
+    "wof:parent_id":85797811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

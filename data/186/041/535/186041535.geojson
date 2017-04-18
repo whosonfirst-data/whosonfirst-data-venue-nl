@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.811008,52.375526,4.811008,52.375526",
     "geom:latitude":52.375526,
     "geom:longitude":4.811008,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.expressworld.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797579,
+        1108803595,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_5rBY6EGEOiEZDBiI7crpVg_52.375526_4.811008@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f9ad8e78e0cbe0b8dc703746796db276",
+    "wof:geomhash":"5a9f5da2a4ab76552378e7f91b0ad983",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797579,
+            "macrohood_id":1108802303,
+            "microhood_id":1108803595,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":186041535
         }
     ],
     "wof:id":186041535,
-    "wof:lastmodified":1473878709,
+    "wof:lastmodified":1492509335,
     "wof:name":"Expressworld Bv",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108803595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

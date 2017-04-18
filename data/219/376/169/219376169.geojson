@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.409408,51.946159,4.409408,51.946159",
     "geom:latitude":51.946159,
     "geom:longitude":4.409408,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859705,
+        1108805757,
+        102191581,
         85633337,
-        101751845,
-        85687041
+        101751843,
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vz9KQCX3RX432N5bfzBaq_51.946159_4.409408@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a22ecbee82f10a829bacb4b3e358db31",
+    "wof:geomhash":"2fbb8738ee61450149b2b686562d0698",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805739,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":219376169
+        },
+        {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474253,
             "locality_id":101751845,
-            "neighbourhood_id":85859705,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":219376169
         }
     ],
     "wof:id":219376169,
-    "wof:lastmodified":1473879056,
+    "wof:lastmodified":1492503967,
     "wof:name":"Burgers Verwarming En Airconditioning Bv",
-    "wof:parent_id":85859705,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

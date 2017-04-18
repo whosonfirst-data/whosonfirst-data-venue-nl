@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.822808,52.262913,6.822808,52.262913",
     "geom:latitude":52.262913,
     "geom:longitude":6.822808,
@@ -24,40 +25,41 @@
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797817,
         85633337,
-        101751869,
+        85797595,
         85687045,
-        85797595
+        85797817,
+        102191581,
+        404473837,
+        101751869
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cPlXmYz9zEUmxMGKwBgQI_52.262913_6.822808@1306269974"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1327366386d7c824f747c50584ed41d6",
+    "wof:geomhash":"e930a9fc41758a7fa914a885e84f7ebe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751869,
-            "neighbourhood_id":85797817,
+            "neighbourhood_id":85797595,
             "region_id":85687045,
             "venue_id":286887383
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797595,
+            "localadmin_id":404473837,
+            "locality_id":101751869,
+            "neighbourhood_id":85797817,
             "region_id":85687045,
             "venue_id":286887383
         }
     ],
     "wof:id":286887383,
-    "wof:lastmodified":1473879675,
+    "wof:lastmodified":1492476790,
     "wof:name":"Constance",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

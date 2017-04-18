@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882886,52.332588,4.882886,52.332588",
     "geom:latitude":52.332588,
     "geom:longitude":4.882886,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803327,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4NacbYu9m4TWtttvZ3e0E4_52.332588_4.882886@1306269933"
     },
     "wof:country":"NL",
-    "wof:geomhash":"33bdaeb1e3f51a981859d35252ca46e4",
+    "wof:geomhash":"297162c5fcedc14f2cc3154b6fa632e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803327,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":220192897
         }
     ],
     "wof:id":220192897,
-    "wof:lastmodified":1473879052,
+    "wof:lastmodified":1492481244,
     "wof:name":"Imso",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

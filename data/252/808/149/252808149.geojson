@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.872095,52.357079,4.872095,52.357079",
     "geom:latitude":52.357079,
     "geom:longitude":4.872095,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803475,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_13DF63csnbfTtWQGLN2q0O_52.357079_4.872095@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2d47a280d433ad1cab4c9f0e0077a428",
+    "wof:geomhash":"0c935bd2462287091b6bb4674abbbe96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803475,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":252808149
         }
     ],
     "wof:id":252808149,
-    "wof:lastmodified":1473878536,
+    "wof:lastmodified":1492504774,
     "wof:name":"Denkwerk Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

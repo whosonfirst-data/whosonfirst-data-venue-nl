@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2447800636,51.8127441406,5.2447800636,51.8127441406",
     "geom:latitude":51.812744,
     "geom:longitude":5.24478,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.ultraspring.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473955,
+        85633337,
+        101809859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6e5Ru5i8PPhR9ZPhhnV1Le_51.812744_5.244780@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800394,
-    "wof:geomhash":"e2060a2022fa2c69eed13c4137a553bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8f462e5ce83e6829391961def2530ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473955,
+            "locality_id":101809859,
+            "region_id":85687043,
+            "venue_id":1091568921
+        }
+    ],
     "wof:id":1091568921,
-    "wof:lastmodified":1473878549,
+    "wof:lastmodified":1492510883,
     "wof:name":"Ultraspring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

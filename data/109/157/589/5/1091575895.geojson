@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.081152916,51.6814041138,5.081152916,51.6814041138",
     "geom:latitude":51.681404,
     "geom:longitude":5.081153,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.websign.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474451,
+        85633337,
+        101839403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6URKkwRjSkq8tNVtCoFeYz_51.681404_5.081153@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800845,
-    "wof:geomhash":"aeda33b57c778ca3e98863b87c4b3bfa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36df28ee95c0710638ec3b555363db27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474451,
+            "locality_id":101839403,
+            "region_id":85687035,
+            "venue_id":1091575895
+        }
+    ],
     "wof:id":1091575895,
-    "wof:lastmodified":1473878906,
+    "wof:lastmodified":1492511335,
     "wof:name":"Websign",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

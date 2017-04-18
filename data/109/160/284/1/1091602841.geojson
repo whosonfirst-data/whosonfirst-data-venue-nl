@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5922060013,51.5455360413,4.5922060013,51.5455360413",
     "geom:latitude":51.545536,
     "geom:longitude":4.592206,
@@ -23,17 +24,32 @@
     "sg:postcode":"4711 NG",
     "sg:province":"North Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474417,
+        85633337,
+        101839417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kmvryHSk7BlRNOjQchsav_51.545536_4.592206@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802692,
-    "wof:geomhash":"d1124d32cf47634ea918f09d9aeb7e67",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2fe5ecfde1527ecac1d70550fc0bfdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474417,
+            "locality_id":101839417,
+            "region_id":85687035,
+            "venue_id":1091602841
+        }
+    ],
     "wof:id":1091602841,
-    "wof:lastmodified":1473878594,
+    "wof:lastmodified":1492512530,
     "wof:name":"Jan Bruins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

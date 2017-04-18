@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1537947655,51.8434028625,4.1537947655,51.8434028625",
     "geom:latitude":51.843403,
     "geom:longitude":4.153795,
@@ -24,17 +25,32 @@
     "sg:province":"Zuid-Holland",
     "sg:website":"http://www.webadvertisement.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474183,
+        85633337,
+        101808501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00LpBMUojx7D9L23Au5fL1_51.843403_4.153795@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800839,
-    "wof:geomhash":"a74c3a9893516c7db701fec10138b417",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cacc13b2beaada6fe7183b01f70eed2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474183,
+            "locality_id":101808501,
+            "region_id":85687041,
+            "venue_id":1091575759
+        }
+    ],
     "wof:id":1091575759,
-    "wof:lastmodified":1473878895,
+    "wof:lastmodified":1492510990,
     "wof:name":"Web Advertisement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

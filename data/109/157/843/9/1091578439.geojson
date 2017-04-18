@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7989249229,52.4287376404,4.7989249229,52.4287376404",
     "geom:latitude":52.428738,
     "geom:longitude":4.798925,
@@ -24,9 +25,11 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687053,
+        102191581,
+        404474143,
         85633337,
-        85798675,
-        85687053
+        101754839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473801106,
-    "wof:geomhash":"6ad65f7af5a248788c9533ec5b90ee7d",
+    "wof:geomhash":"a0cd4ac9bf0ef56877384eba3d5a5cc6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798675,
+            "localadmin_id":404474143,
+            "locality_id":101754839,
             "region_id":85687053,
             "venue_id":1091578439
         }
     ],
     "wof:id":1091578439,
-    "wof:lastmodified":1473879038,
+    "wof:lastmodified":1492511013,
     "wof:name":"H Ten Have Straatwerken",
-    "wof:parent_id":85798675,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

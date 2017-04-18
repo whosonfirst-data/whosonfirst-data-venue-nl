@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.284244,52.113098,4.284244,52.113098",
     "geom:latitude":52.113098,
     "geom:longitude":4.284244,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808139,
+        102191581,
+        1108808075,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_2IkkH5NxT7Um38kNfuvFzE_52.113098_4.284244@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fda8fd2e268adc17aaf24e65cca1e6e3",
+    "wof:geomhash":"dde6fdabfb429b5225dfdbbe3978cb69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108808075,
+            "neighbourhood_id":1108808139,
             "region_id":85687041,
             "venue_id":253362047
         }
     ],
     "wof:id":253362047,
-    "wof:lastmodified":1473879422,
+    "wof:lastmodified":1492491221,
     "wof:name":"Havt Modelmanagement",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

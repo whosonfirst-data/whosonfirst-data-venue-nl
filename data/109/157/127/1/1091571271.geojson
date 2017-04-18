@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9853768349,52.0063705444,4.9853768349,52.0063705444",
     "geom:latitude":52.006371,
     "geom:longitude":4.985377,
@@ -23,17 +24,32 @@
     "sg:postcode":"3405 DB",
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473993,
+        85633337,
+        101754597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BvqTLJECvp7IKCTHBpXGA_52.006371_4.985377@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800564,
-    "wof:geomhash":"481bee2e5f76588224165e9b8430bf9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f913fdc908d1aab67e01ef4ffa3f2706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473993,
+            "locality_id":101754597,
+            "region_id":85687039,
+            "venue_id":1091571271
+        }
+    ],
     "wof:id":1091571271,
-    "wof:lastmodified":1473878536,
+    "wof:lastmodified":1492511364,
     "wof:name":"Add Value",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

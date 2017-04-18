@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.549833,51.969433,4.549833,51.969433",
     "geom:latitude":51.969433,
     "geom:longitude":4.549833,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AvqHe6BSGW5VUUMBKPJHW_51.969433_4.549833@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"493b6dd9dcc04439ad990e9a180c1d43",
+    "wof:geomhash":"5463eada29cf8e737b9b9736894bb54f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":203084867
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798149,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":203084867,
-    "wof:lastmodified":1473878788,
+    "wof:lastmodified":1492479892,
     "wof:name":"Assurantiekantoor C M Van Den Bos",
     "wof:parent_id":85798149,
     "wof:placetype":"venue",

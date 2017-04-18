@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.911431,52.359173,4.911431,52.359173",
     "geom:latitude":52.359173,
     "geom:longitude":4.911431,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803279,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5nOyWx2M5h4aLrTzcn5FL3_52.359173_4.911431@1306269939"
     },
     "wof:country":"NL",
-    "wof:geomhash":"601f6f1127871c23c06935c983b3c461",
+    "wof:geomhash":"88bc391c6a5f029507922f61b3c88d15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803279,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":236570045
         }
     ],
     "wof:id":236570045,
-    "wof:lastmodified":1473879417,
+    "wof:lastmodified":1492491916,
     "wof:name":"Garage Frans",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

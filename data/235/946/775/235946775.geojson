@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.899565,52.403526,4.899565,52.403526",
     "geom:latitude":52.403526,
     "geom:longitude":4.899565,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803309,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_2JbZl7NKCboolUFGO8oOBx_52.403526_4.899565@1306269933"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9a12b72fd30c0d7d6831056dd2afa4dc",
+    "wof:geomhash":"8a07ef024e0bbbd2b8c6828a0880b7d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803309,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":235946775
         }
     ],
     "wof:id":235946775,
-    "wof:lastmodified":1473878520,
+    "wof:lastmodified":1492514575,
     "wof:name":"N V F Best",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

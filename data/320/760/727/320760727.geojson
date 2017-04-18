@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.313181,52.075764,4.313181,52.075764",
     "geom:latitude":52.075764,
     "geom:longitude":4.313181,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808257,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4AEHdRL12qFUER0jhrQyAS_52.075764_4.313181@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e619ed83cc0a5c67e64076188f1ffff2",
+    "wof:geomhash":"dccc11d890a7e67b13637067397d6c28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808257,
             "region_id":85687041,
             "venue_id":320760727
         }
     ],
     "wof:id":320760727,
-    "wof:lastmodified":1473879624,
+    "wof:lastmodified":1492482985,
     "wof:name":"Den Besten Kaas Bv",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

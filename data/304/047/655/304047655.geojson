@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.850706,52.357819,4.850706,52.357819",
     "geom:latitude":52.357819,
     "geom:longitude":4.850706,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.belforthotel.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803655,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_60VB73QzLEXPH2e2aoBymA_52.357819_4.850706@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ccf2086cebf861c9084af2a6c1315c8c",
+    "wof:geomhash":"b4949ece27c4afd8532882dff1d7bfa5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803655,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":304047655
         }
     ],
     "wof:id":304047655,
-    "wof:lastmodified":1473878719,
+    "wof:lastmodified":1492504485,
     "wof:name":"Belfort",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

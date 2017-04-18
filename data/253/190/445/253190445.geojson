@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.120363,52.062016,5.120363,52.062016",
     "geom:latitude":52.062016,
     "geom:longitude":5.120363,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797727,
+        1108808809,
+        102191581,
+        1108808645,
         85633337,
         101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4y0ElaAw8ZWqSPWFH19sKr_52.062016_5.120363@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3e8c9fdbe2778ef108f420fff3790aea",
+    "wof:geomhash":"5c36084251ce9c93c3d98af79709ea09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797727,
+            "macrohood_id":1108808645,
+            "neighbourhood_id":1108808809,
             "region_id":85687039,
             "venue_id":253190445
         }
     ],
     "wof:id":253190445,
-    "wof:lastmodified":1473879081,
+    "wof:lastmodified":1492489797,
     "wof:name":"Emss",
-    "wof:parent_id":85797727,
+    "wof:parent_id":1108808809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

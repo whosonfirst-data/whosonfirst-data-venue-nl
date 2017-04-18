@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.986589,52.419186,4.986589,52.419186",
     "geom:latitude":52.419186,
     "geom:longitude":4.986589,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798817,
+        1108804263,
+        1108802941,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_4SPk14PWU4QrlR28Y9ztoF_52.419186_4.986589@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b04939b3c77735ec2c31b50d8ec1e257",
+    "wof:geomhash":"3c8cd4dde4fb8ec68b87a94b25ea548a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798817,
+            "locality_id":101751893,
+            "microhood_id":1108804263,
+            "neighbourhood_id":1108802941,
             "region_id":85687053,
             "venue_id":269758817
         }
     ],
     "wof:id":269758817,
-    "wof:lastmodified":1473879384,
+    "wof:lastmodified":1492496549,
     "wof:name":"G.J. Van Meerveld",
-    "wof:parent_id":85798817,
+    "wof:parent_id":1108804263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

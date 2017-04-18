@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.910176,52.356342,4.910176,52.356342",
     "geom:latitude":52.356342,
     "geom:longitude":4.910176,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803889,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1kTwvdxQwScvbZ41jQX3bE_52.356342_4.910176@1306269987"
     },
     "wof:country":"NL",
-    "wof:geomhash":"478a31e200b201d2ed4f6ac9559f940a",
+    "wof:geomhash":"a220a229842cab8dca9604c836d73910",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803889,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":303796775
         }
     ],
     "wof:id":303796775,
-    "wof:lastmodified":1473879565,
+    "wof:lastmodified":1492474690,
     "wof:name":"Just Friends",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

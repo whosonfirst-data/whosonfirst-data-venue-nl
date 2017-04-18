@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.311046,52.087231,4.311046,52.087231",
     "geom:latitude":52.087231,
     "geom:longitude":4.311046,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808223,
+        102191581,
+        1108808065,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_4ICcJu4kGtBClifs4zrf1i_52.087231_4.311046@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"32a4f6e372c081141ee089ea68280aa0",
+    "wof:geomhash":"013c95ec9dc463b90359c3086ed5a8c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808065,
+            "neighbourhood_id":1108808223,
             "region_id":85687041,
             "venue_id":269809089
         }
     ],
     "wof:id":269809089,
-    "wof:lastmodified":1473879503,
+    "wof:lastmodified":1492495995,
     "wof:name":"Toko Frederik Bv",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

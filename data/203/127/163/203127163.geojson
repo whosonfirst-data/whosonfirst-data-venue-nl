@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.280521,52.111206,4.280521,52.111206",
     "geom:latitude":52.111206,
     "geom:longitude":4.280521,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808165,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_57t5tMIwcarKPzs42SSEhY_52.111206_4.280521@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"eb958e2a808b475d6f1d31eafab20fba",
+    "wof:geomhash":"00e6998d876d63930f393bcdcba25da3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808165,
             "region_id":85687041,
             "venue_id":203127163
         }
     ],
     "wof:id":203127163,
-    "wof:lastmodified":1473878953,
+    "wof:lastmodified":1492480775,
     "wof:name":"Den Braber Assurantien Vof",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

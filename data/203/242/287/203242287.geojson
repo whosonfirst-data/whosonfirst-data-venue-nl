@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.938596,52.397354,4.938596,52.397354",
     "geom:latitude":52.397354,
     "geom:longitude":4.938596,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803947,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_7ZSzH8NvmyttlaXcTSLEMX_52.397354_4.938596@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3c205f47343f6b7dd991084b9d0669ed",
+    "wof:geomhash":"cf9f01e23b94a8bdfccebf0fd80ea63e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803947,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":203242287
         }
     ],
     "wof:id":203242287,
-    "wof:lastmodified":1473879197,
+    "wof:lastmodified":1492479902,
     "wof:name":"Albert Smit Bv, Vishandel",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

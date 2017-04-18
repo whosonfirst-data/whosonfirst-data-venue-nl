@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.848825,52.35146,4.848825,52.35146",
     "geom:latitude":52.35146,
     "geom:longitude":4.848825,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803459,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6JxbPOfz0vf6s5MkZrO5TO_52.351460_4.848825@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"96b52e33be2d2daf13019ae34003782b",
+    "wof:geomhash":"7d28b36adb8ed73d8a0a86cd57d43129",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803459,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":303559523
         }
     ],
     "wof:id":303559523,
-    "wof:lastmodified":1473879300,
+    "wof:lastmodified":1492474793,
     "wof:name":"Boetiek Romanski",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

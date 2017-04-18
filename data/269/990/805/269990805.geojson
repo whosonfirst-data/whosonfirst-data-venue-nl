@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.252565,52.080612,4.252565,52.080612",
     "geom:latitude":52.080612,
     "geom:longitude":4.252565,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859589,
+        85798595,
+        102191581,
+        1108808131,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4fVMjVyXqZ2mVyGIkLs0JM_52.080612_4.252565@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"37f5895d304bc89b4d6e98e63023ed8b",
+    "wof:geomhash":"4ae93529167d6a0bb1c6503edb573b47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859589,
+            "macrohood_id":1108808131,
+            "neighbourhood_id":85798595,
             "region_id":85687041,
             "venue_id":269990805
         }
     ],
     "wof:id":269990805,
-    "wof:lastmodified":1473879585,
+    "wof:lastmodified":1492494822,
     "wof:name":"Belastingadviesbureau Drs. W.J. Ras",
-    "wof:parent_id":85859589,
+    "wof:parent_id":85798595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

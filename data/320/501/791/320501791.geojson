@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.873266,52.365879,4.873266,52.365879",
     "geom:latitude":52.365879,
     "geom:longitude":4.873266,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803379,
+        1108802933,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4G1nlbz1pW2QQErhAFQWQ8_52.365879_4.873266@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1fb86a74bdc95a3f3802904e38e44875",
+    "wof:geomhash":"2e076fd5f480a6807db6dce6d8fcf5b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803379,
+            "neighbourhood_id":1108802933,
             "region_id":85687053,
             "venue_id":320501791
         }
     ],
     "wof:id":320501791,
-    "wof:lastmodified":1473879333,
+    "wof:lastmodified":1492484798,
     "wof:name":"Winston",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

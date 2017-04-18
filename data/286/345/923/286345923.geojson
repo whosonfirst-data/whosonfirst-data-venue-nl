@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.948074,52.401321,4.948074,52.401321",
     "geom:latitude":52.401321,
     "geom:longitude":4.948074,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804307,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5bt4CKgqn579lN7HrSqQYJ_52.401321_4.948074@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"19b771920d74a1374d466688274f41cf",
+    "wof:geomhash":"cb2e1387c91fafa5e65ac7c1b2628ef7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804307,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":286345923
         }
     ],
     "wof:id":286345923,
-    "wof:lastmodified":1473878870,
+    "wof:lastmodified":1492477586,
     "wof:name":"Buro Elpermeer Bv",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108804307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

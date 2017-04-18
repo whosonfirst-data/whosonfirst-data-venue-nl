@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.85401,52.336811,4.85401,52.336811",
     "geom:latitude":52.336811,
     "geom:longitude":4.85401,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.classicbootcenter.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108804069,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_7Kyg766C3Z8ng4i5bmSZrh_52.336811_4.854010@1306269953"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9dfcdf9061056ad9eefc0ac8e6d47a1e",
+    "wof:geomhash":"212f822a0bd52e9e52f75e1373194377",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804069,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":253709389
         }
     ],
     "wof:id":253709389,
-    "wof:lastmodified":1473879700,
+    "wof:lastmodified":1492491216,
     "wof:name":"Jachtwerf De Hoop Bv",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804069,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

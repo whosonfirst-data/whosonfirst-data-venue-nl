@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.872728,52.352718,4.872728,52.352718",
     "geom:latitude":52.352718,
     "geom:longitude":4.872728,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.kroonenberg.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108804009,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3qrsnRPEMQErgsj0HOKQ9I_52.352718_4.872728@1306270007"
     },
     "wof:country":"NL",
-    "wof:geomhash":"44a688e571a33b34a20d9364b8dc0253",
+    "wof:geomhash":"0b9bcafe76fcb73b74baf2acdffebbdb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108804009,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":336926857
         }
     ],
     "wof:id":336926857,
-    "wof:lastmodified":1473878469,
+    "wof:lastmodified":1492506966,
     "wof:name":"Kroonenberg Groep",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

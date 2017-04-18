@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.646545887,52.2221221924,4.646545887,52.2221221924",
     "geom:latitude":52.222122,
     "geom:longitude":4.646546,
@@ -23,17 +24,32 @@
     "sg:postcode":"2156 LA",
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474677,
+        85633337,
+        101874263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WvB7J1r6l7cuVhRSmLQSh_52.222122_4.646546@1306270010"
     },
     "wof:country":"NL",
     "wof:created":1473799681,
-    "wof:geomhash":"5cd4b2973a274aae300d65c02a685111",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba190f38bc8c849fb048de430200f4d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474677,
+            "locality_id":101874263,
+            "region_id":85687041,
+            "venue_id":1075828081
+        }
+    ],
     "wof:id":1075828081,
-    "wof:lastmodified":1473879493,
+    "wof:lastmodified":1492486677,
     "wof:name":"De Kern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

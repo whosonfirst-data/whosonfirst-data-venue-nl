@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.539214,51.937183,4.539214,51.937183",
     "geom:latitude":51.937183,
     "geom:longitude":4.539214,
@@ -24,31 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797899,
+        1108805851,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FQATiSqXk36FUS0KbvHX7_51.937183_4.539214@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"75efa1bdac229098569d18f63c41a4ea",
+    "wof:geomhash":"727b2f4ff3022e40e9edb38a61d587ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85797899,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805851,
+            "region_id":85687041,
+            "venue_id":220000079
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805851,
             "region_id":85687041,
             "venue_id":220000079
         }
     ],
     "wof:id":220000079,
-    "wof:lastmodified":1473878415,
+    "wof:lastmodified":1492481546,
     "wof:name":"Lakomach/Heleko Int",
-    "wof:parent_id":85797899,
+    "wof:parent_id":1108805851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

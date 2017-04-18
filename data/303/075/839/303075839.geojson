@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.832451,52.350346,4.832451,52.350346",
     "geom:latitude":52.350346,
     "geom:longitude":4.832451,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803813,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3HQRliSSxlcCO8iYTkkN1N_52.350346_4.832451@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b1ca20426d62d6d5efd9433f7b226e34",
+    "wof:geomhash":"3e648c7aa722e2539fc4045d3073b597",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803813,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":303075839
         }
     ],
     "wof:id":303075839,
-    "wof:lastmodified":1473878615,
+    "wof:lastmodified":1492472823,
     "wof:name":"Time Life Books Bv",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

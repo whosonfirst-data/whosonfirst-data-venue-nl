@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7594671249,51.8267745972,4.7594671249,51.8267745972",
     "geom:latitude":51.826775,
     "geom:longitude":4.759467,
@@ -24,17 +25,32 @@
     "sg:province":"Zuid-Holland",
     "sg:website":"HTTP://www.musicworks.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474257,
+        85633337,
+        101754745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RJyfUv16gZm6pecuLytcC_51.826775_4.759467@1306270009"
     },
     "wof:country":"NL",
     "wof:created":1473799355,
-    "wof:geomhash":"2241af995bf4a3776999f8775db9587d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"387bafcdee5dd8f502e168a36ad76284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474257,
+            "locality_id":101754745,
+            "region_id":85687041,
+            "venue_id":1075822823
+        }
+    ],
     "wof:id":1075822823,
-    "wof:lastmodified":1473879293,
+    "wof:lastmodified":1492486741,
     "wof:name":"Music Works, The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

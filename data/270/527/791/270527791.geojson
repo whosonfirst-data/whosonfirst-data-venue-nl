@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877869,52.354794,4.877869,52.354794",
     "geom:latitude":52.354794,
     "geom:longitude":4.877869,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803547,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_4lpVRswGrFsSCXoRV5jFo5_52.354794_4.877869@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4cf33e6ea414f083526ac63027cd67c1",
+    "wof:geomhash":"676fda292db2043883375917ff9147e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803547,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":270527791
         }
     ],
     "wof:id":270527791,
-    "wof:lastmodified":1473879428,
+    "wof:lastmodified":1492500041,
     "wof:name":"Hildebrand Van Loonschool",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

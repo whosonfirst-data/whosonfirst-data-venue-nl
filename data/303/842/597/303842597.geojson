@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.944653,52.391323,4.944653,52.391323",
     "geom:latitude":52.391323,
     "geom:longitude":4.944653,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108804127,
+        1108802927,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1eWIfUIfliLZnHqXmJq9tE_52.391323_4.944653@1306269988"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6bc5a4ef4dc1bf52194db64a73d65360",
+    "wof:geomhash":"fadf40ec27bcad4a3fe5e823b1036f09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804127,
+            "neighbourhood_id":1108802927,
             "region_id":85687053,
             "venue_id":303842597
         }
     ],
     "wof:id":303842597,
-    "wof:lastmodified":1473879599,
+    "wof:lastmodified":1492471209,
     "wof:name":"Wissewasjes",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108804127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

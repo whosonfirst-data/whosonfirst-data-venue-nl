@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.918135,52.347408,4.918135,52.347408",
     "geom:latitude":52.347408,
     "geom:longitude":4.918135,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.bruna.nl/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803961,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:brand_id":420574011,
@@ -36,21 +41,24 @@
         "sg:id":"SG_3xIX8Ccv2vtci0LMLs3tAl_52.347408_4.918135@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"65bee572413792df754614ffe6a08811",
+    "wof:geomhash":"602664b14eb72baf2e1d8b92828317d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803961,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":287149009
         }
     ],
     "wof:id":287149009,
-    "wof:lastmodified":1473878923,
+    "wof:lastmodified":1492514304,
     "wof:name":"Bruna",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

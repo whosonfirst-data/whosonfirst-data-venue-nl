@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.145763,51.98822,4.145763,51.98822",
     "geom:latitude":51.98822,
     "geom:longitude":4.145763,
@@ -33,7 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85797461,
+        102191581,
         85633337,
+        101751843,
+        1108805729,
         85687041
     ],
     "wof:breaches":[],
@@ -41,21 +46,22 @@
         "sg:id":"SG_0cPXdP7X6g2BWWoF4QZZgV_51.988220_4.145763@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1321c1aedb1c6aa9a7b47a134ec75f1f",
+    "wof:geomhash":"bf1b3ec2fc9219dcd13aa144d789ce74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805729,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101751843,
+            "neighbourhood_id":85797461,
             "region_id":85687041,
             "venue_id":320597535
         }
     ],
     "wof:id":320597535,
-    "wof:lastmodified":1473879448,
+    "wof:lastmodified":1492482001,
     "wof:name":"Vijverberg En Zn, Fa P W M",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

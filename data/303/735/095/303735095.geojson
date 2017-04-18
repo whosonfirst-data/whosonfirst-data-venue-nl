@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.849265,52.37862,4.849265,52.37862",
     "geom:latitude":52.37862,
     "geom:longitude":4.849265,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803529,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:brand_id":420574619,
@@ -35,21 +40,24 @@
         "sg:id":"SG_15eagyQySJvnt9j3Wptt8C_52.378620_4.849265@1306269987"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cbc13e8093730d23198fa376b0984785",
+    "wof:geomhash":"8e376c4c570ba231f92407635c59bc95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803529,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":303735095
         }
     ],
     "wof:id":303735095,
-    "wof:lastmodified":1473879478,
+    "wof:lastmodified":1492471227,
     "wof:name":"Kruidvat",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

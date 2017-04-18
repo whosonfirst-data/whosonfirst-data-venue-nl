@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.249894,52.054844,4.249894,52.054844",
     "geom:latitude":52.054844,
     "geom:longitude":4.249894,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859591,
+        85859571,
+        102191581,
+        1108805971,
         85633337,
         101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_3FYcojYGlXrsu6hS9arvfI_52.054844_4.249894@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8cdd261439bd678f2c25040175a539d0",
+    "wof:geomhash":"036a0c4c2ea4a5f206fc35c3c893b8bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859591,
+            "macrohood_id":1108805971,
+            "neighbourhood_id":85859571,
             "region_id":85687041,
             "venue_id":269760173
         }
     ],
     "wof:id":269760173,
-    "wof:lastmodified":1473879375,
+    "wof:lastmodified":1492495417,
     "wof:name":"Grillroom Samira Ii",
-    "wof:parent_id":85859591,
+    "wof:parent_id":85859571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

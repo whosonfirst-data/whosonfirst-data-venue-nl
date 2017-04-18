@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1280670166,51.9856109619,4.1280670166,51.9856109619",
     "geom:latitude":51.985611,
     "geom:longitude":4.128067,
@@ -23,19 +24,36 @@
     "sg:postcode":"3151 VN",
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108805869,
+        102191581,
+        85633337,
+        101751843,
+        1108805729,
+        85687041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_635Y21hfBSYjGoMY93ltc4_51.985611_4.128067@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800770,
-    "wof:geomhash":"744fe225f19e872747329039a71956d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0fbe46f1c47a368624db47e89276965a",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108805729,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805869,
+            "region_id":85687041,
+            "venue_id":1091574663
+        }
+    ],
     "wof:id":1091574663,
-    "wof:lastmodified":1473878800,
+    "wof:lastmodified":1492511269,
     "wof:name":"Rdh-Online-Support",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108805869,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

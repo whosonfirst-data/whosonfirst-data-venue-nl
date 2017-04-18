@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.89985,52.345509,4.89985,52.345509",
     "geom:latitude":52.345509,
     "geom:longitude":4.89985,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804281,
+        1108802897,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_06ld1twCtIvZ9tt7wb0s6j_52.345509_4.899850@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8a083fe2e722fc57e5eec93c97a64666",
+    "wof:geomhash":"e79a063cee0ef19e6b2099d053eddf58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108804281,
+            "neighbourhood_id":1108802897,
             "region_id":85687053,
             "venue_id":203229007
         }
     ],
     "wof:id":203229007,
-    "wof:lastmodified":1473879204,
+    "wof:lastmodified":1492480162,
     "wof:name":"Lemaire, Rob",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

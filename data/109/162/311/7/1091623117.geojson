@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3247270584,52.0587844849,4.3247270584,52.0587844849",
     "geom:latitude":52.058784,
     "geom:longitude":4.324727,
@@ -24,12 +25,15 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808315,
         102191581,
-        404474251,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,22 +41,34 @@
     },
     "wof:country":"NL",
     "wof:created":1473804092,
-    "wof:geomhash":"b6df325f0481b5eecd78f982d8f41c8a",
+    "wof:geomhash":"5242acd2dbd16b13e32578e779d4968f",
     "wof:hierarchy":[
         {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808315,
+            "region_id":85687041,
+            "venue_id":1091623117
+        },
+        {
+            "borough_id":1108808049,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808315,
             "region_id":85687041,
             "venue_id":1091623117
         }
     ],
     "wof:id":1091623117,
-    "wof:lastmodified":1473878654,
+    "wof:lastmodified":1492511998,
     "wof:name":"Dameskapsalon Cassandra",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

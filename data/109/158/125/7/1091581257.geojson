@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7632551193,52.57787323,5.7632551193,52.57787323",
     "geom:latitude":52.577873,
     "geom:longitude":5.763255,
@@ -33,17 +34,30 @@
         "prentbriefkaarten"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404473965,
+        85633337,
+        85687049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dVlk1riq6wI7PAZi9CPkS_52.577873_5.763255@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801253,
-    "wof:geomhash":"2ab78d3b2a11615c8d631a6384fb535b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"511cef64513ba7be5bd1b5fb65f6c194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473965,
+            "region_id":85687049,
+            "venue_id":1091581257
+        }
+    ],
     "wof:id":1091581257,
-    "wof:lastmodified":1473878572,
+    "wof:lastmodified":1492511907,
     "wof:name":"Hospers Vof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

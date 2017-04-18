@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.836075,52.384148,4.836075,52.384148",
     "geom:latitude":52.384148,
     "geom:longitude":4.836075,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108804011,
+        1108802905,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5QeoxFVmhBlBAnm3OcPVnm_52.384148_4.836075@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"179fb2c50ea6e82b0850af968ffc39fe",
+    "wof:geomhash":"0770d7301b5c0ded8b73ce173df47404",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108804011,
+            "neighbourhood_id":1108802905,
             "region_id":85687053,
             "venue_id":253202609
         }
     ],
     "wof:id":253202609,
-    "wof:lastmodified":1473879130,
+    "wof:lastmodified":1492489505,
     "wof:name":"Meubelstoffeerderij Verheyen",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108804011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

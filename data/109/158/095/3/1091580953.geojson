@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6169371605,51.6927566528,4.6169371605,51.6927566528",
     "geom:latitude":51.692757,
     "geom:longitude":4.616937,
@@ -24,17 +25,30 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.duravermeer.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474623,
+        85633337,
+        85687035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65i9cYyLwgzyDiHUoXEggV_51.692757_4.616937@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801240,
-    "wof:geomhash":"0a753091265287cf09bd1a671f1926fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a15814ef17c952df21c9d229fb0aae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474623,
+            "region_id":85687035,
+            "venue_id":1091580953
+        }
+    ],
     "wof:id":1091580953,
-    "wof:lastmodified":1473878548,
+    "wof:lastmodified":1492511683,
     "wof:name":"Vermeer Infrastructuur Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

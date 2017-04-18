@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.259846,52.043476,4.259846,52.043476",
     "geom:latitude":52.043476,
     "geom:longitude":4.259846,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859581,
+        1108808279,
+        102191581,
+        1108808029,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_7exRVipIRd4qzfBDRxUiBM_52.043476_4.259846@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"11316a6327ecd8b2974b223dc320ee54",
+    "wof:geomhash":"657fcfe19a4fd33742380fbfec301a9e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859581,
+            "macrohood_id":1108808029,
+            "neighbourhood_id":1108808279,
             "region_id":85687041,
             "venue_id":270104831
         }
     ],
     "wof:id":270104831,
-    "wof:lastmodified":1473878597,
+    "wof:lastmodified":1492499466,
     "wof:name":"Hafo Foto & Video",
-    "wof:parent_id":85859581,
+    "wof:parent_id":1108808279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

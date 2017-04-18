@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.30339,52.078442,4.30339,52.078442",
     "geom:latitude":52.078442,
     "geom:longitude":4.30339,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797685,
+        1108808249,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_7K9Tll8iVBh6EGR5Xv9RuX_52.078442_4.303390@1306269984"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8d3ed351ecc811f3179d108da39ce828",
+    "wof:geomhash":"804dfba41b1082e04b5b603fa67ef3cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797685,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808249,
             "region_id":85687041,
             "venue_id":303442481
         }
     ],
     "wof:id":303442481,
-    "wof:lastmodified":1473879178,
+    "wof:lastmodified":1492470574,
     "wof:name":"Huiswerkbegeleiding, Inst V",
-    "wof:parent_id":85797685,
+    "wof:parent_id":1108808249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

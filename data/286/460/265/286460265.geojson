@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.286402,52.102936,4.286402,52.102936",
     "geom:latitude":52.102936,
     "geom:longitude":4.286402,
@@ -25,8 +26,12 @@
     "sg:website":"http://www.iadc-dredging.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808157,
+        102191581,
+        1108808129,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +39,23 @@
         "sg:id":"SG_5MwICzM55zCg7JPsasz3aw_52.102936_4.286402@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6a66f81aa19916fb834e8868608834ab",
+    "wof:geomhash":"d7923e6132d9462e1843db04ea33e2d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108808129,
+            "neighbourhood_id":1108808157,
             "region_id":85687041,
             "venue_id":286460265
         }
     ],
     "wof:id":286460265,
-    "wof:lastmodified":1473879092,
+    "wof:lastmodified":1492475461,
     "wof:name":"Int Assoc Of Dredging Comp",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

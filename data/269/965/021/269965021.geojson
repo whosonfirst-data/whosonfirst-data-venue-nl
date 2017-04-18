@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.971298,52.302299,4.971298,52.302299",
     "geom:latitude":52.302299,
     "geom:longitude":4.971298,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108804143,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0UkT8NZJd56kquT2dpyqGB_52.302299_4.971298@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2fc7a7ff49cf39dd56648fc762f07718",
+    "wof:geomhash":"eabe2ae9aab6e6b835c702a307f7bd9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108804143,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":269965021
         }
     ],
     "wof:id":269965021,
-    "wof:lastmodified":1473879572,
+    "wof:lastmodified":1492496590,
     "wof:name":"D-Signed",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108804143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

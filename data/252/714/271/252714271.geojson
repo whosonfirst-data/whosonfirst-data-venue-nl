@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.875232,52.35738,4.875232,52.35738",
     "geom:latitude":52.35738,
     "geom:longitude":4.875232,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803743,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_37qjggm9OtqQWTHXPDjSyG_52.357380_4.875232@1306269942"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ec222848a29293ee7a8fa2ed26b2ac43",
+    "wof:geomhash":"c39fcc5c50cc3f17d766f3b7382b9919",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803743,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":252714271
         }
     ],
     "wof:id":252714271,
-    "wof:lastmodified":1473878468,
+    "wof:lastmodified":1492505628,
     "wof:name":"A.J. Vlasman",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

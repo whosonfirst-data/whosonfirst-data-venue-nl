@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4315690994,51.9501037598,4.4315690994,51.9501037598",
     "geom:latitude":51.950104,
     "geom:longitude":4.431569,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         102542781,
-        85798367,
+        1108805865,
+        102191581,
+        85633337,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -35,18 +39,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473803364,
-    "wof:geomhash":"0c500854eca45f05037f18205f99f015",
+    "wof:geomhash":"4e98a2f05b6ab8a8acd5387e990be1b5",
     "wof:hierarchy":[
         {
+            "borough_id":1108805713,
             "campus_id":102542781,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798367,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805865,
             "region_id":85687041,
             "venue_id":1091609625
         }
     ],
     "wof:id":1091609625,
-    "wof:lastmodified":1473878978,
+    "wof:lastmodified":1492512713,
     "wof:name":"Rac",
     "wof:parent_id":102542781,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.932952,52.355892,4.932952,52.355892",
     "geom:latitude":52.355892,
     "geom:longitude":4.932952,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803929,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5rPbBlsz8sjQOxikyrel55_52.355892_4.932952@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9c1119b1ff8c94558d552f3af3ee2f89",
+    "wof:geomhash":"f1541a69bc23442c945a54ddc0a8806b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803929,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":270156035
         }
     ],
     "wof:id":270156035,
-    "wof:lastmodified":1473878655,
+    "wof:lastmodified":1492500285,
     "wof:name":"Robertus, A",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

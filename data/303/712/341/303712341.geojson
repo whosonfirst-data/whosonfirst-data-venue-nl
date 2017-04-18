@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.944885,52.294838,4.944885,52.294838",
     "geom:latitude":52.294838,
     "geom:longitude":4.944885,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803431,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5gge96TazzOAJcDNEczbRP_52.294838_4.944885@1306269987"
     },
     "wof:country":"NL",
-    "wof:geomhash":"831c4a367f8414e11b0dea6e4500ba6c",
+    "wof:geomhash":"ce225ad365d218edfa68ef23ccca2522",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803431,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":303712341
         }
     ],
     "wof:id":303712341,
-    "wof:lastmodified":1473879482,
+    "wof:lastmodified":1492472433,
     "wof:name":"Zoomers + Zoomers Bv",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

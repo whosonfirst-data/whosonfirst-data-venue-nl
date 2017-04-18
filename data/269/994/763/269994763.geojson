@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.542797,51.923599,4.542797,51.923599",
     "geom:latitude":51.923599,
     "geom:longitude":4.542797,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859923,
+        1108805861,
+        102191581,
         85633337,
-        101754669,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2P5ll12TA2KG09g310nTuO_51.923599_4.542797@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2f05df0cf8eb76363895570fd11a6eba",
+    "wof:geomhash":"f3b8c3aa4c45ff5bdfca2f3f1dc38d97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754669,
-            "neighbourhood_id":85859923,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805861,
+            "region_id":85687041,
+            "venue_id":269994763
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805861,
             "region_id":85687041,
             "venue_id":269994763
         }
     ],
     "wof:id":269994763,
-    "wof:lastmodified":1473879598,
+    "wof:lastmodified":1492495595,
     "wof:name":"E Davids Bv",
-    "wof:parent_id":85859923,
+    "wof:parent_id":1108805861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

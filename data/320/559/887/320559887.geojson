@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.85556,52.381493,4.85556,52.381493",
     "geom:latitude":52.381493,
     "geom:longitude":4.85556,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803615,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_1IuaGeyxnyZiQ4Y0TDynd0_52.381493_4.855560@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"35af072449d4d079567c18c107fff005",
+    "wof:geomhash":"c3153ab61ba06b8eeb5ca2fc073e2582",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803615,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":320559887
         }
     ],
     "wof:id":320559887,
-    "wof:lastmodified":1473879413,
+    "wof:lastmodified":1492485309,
     "wof:name":"H.S. Lindeman",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

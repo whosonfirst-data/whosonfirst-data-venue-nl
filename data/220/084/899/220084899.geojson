@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879539,52.383312,4.879539,52.383312",
     "geom:latitude":52.383312,
     "geom:longitude":4.879539,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.peoplepractice.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804183,
+        1108802915,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3HRZa7Q5B33mZckNcE5OWb_52.383312_4.879539@1306269932"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3a70d52a9e67c11731d2388ca7ec898d",
+    "wof:geomhash":"188c8bdae9464e37e13c005cbf56e071",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108804183,
+            "neighbourhood_id":1108802915,
             "region_id":85687053,
             "venue_id":220084899
         }
     ],
     "wof:id":220084899,
-    "wof:lastmodified":1473878727,
+    "wof:lastmodified":1492481183,
     "wof:name":"People & Practice",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.563834,51.96489,4.563834,51.96489",
     "geom:latitude":51.96489,
     "geom:longitude":4.563834,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798779,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XJmqM1UXJHGOnyyxriDWm_51.964890_4.563834@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d15c4f76f95e41f085f381c427f82505",
+    "wof:geomhash":"a69caa89b3c68610abd2263258f41bd9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798779,
+            "region_id":85687041,
+            "venue_id":270235351
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798779,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":270235351,
-    "wof:lastmodified":1473878914,
+    "wof:lastmodified":1492501321,
     "wof:name":"Fred Noomen Fotografie",
     "wof:parent_id":85798779,
     "wof:placetype":"venue",

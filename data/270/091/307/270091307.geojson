@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877119,52.375248,4.877119,52.375248",
     "geom:latitude":52.375248,
     "geom:longitude":4.877119,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803863,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_3oxA0lg8rIXPBAundVPdEN_52.375248_4.877119@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e54ad0894cf5391f0e3909a14825cc52",
+    "wof:geomhash":"9a6f794bd210d81c5da229a76e28b20c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803863,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":270091307
         }
     ],
     "wof:id":270091307,
-    "wof:lastmodified":1473878552,
+    "wof:lastmodified":1492499300,
     "wof:name":"Filmcorner",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803863,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

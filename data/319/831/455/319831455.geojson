@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878406,52.362118,4.878406,52.362118",
     "geom:latitude":52.362118,
     "geom:longitude":4.878406,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804305,
+        1108802937,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_1gDDTroQgqLts1K7dbL5Vo_52.362118_4.878406@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"26a3252447eec4ca98e5074ba71f5f10",
+    "wof:geomhash":"6ae233d4ddc5a32c8c349618e06df841",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804305,
+            "neighbourhood_id":1108802937,
             "region_id":85687053,
             "venue_id":319831455
         }
     ],
     "wof:id":319831455,
-    "wof:lastmodified":1473878572,
+    "wof:lastmodified":1492478984,
     "wof:name":"Ams Hotel Terdam",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804305,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

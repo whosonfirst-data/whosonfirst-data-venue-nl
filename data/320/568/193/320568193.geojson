@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877183,52.344017,4.877183,52.344017",
     "geom:latitude":52.344017,
     "geom:longitude":4.877183,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803943,
+        1108802919,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_3s0DgqyM5LuDgEZcGZZLIg_52.344017_4.877183@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"678cb95d59cdb8c978053c82557836fb",
+    "wof:geomhash":"5ed28a8fbb9cdce9f0683823269ec728",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108803943,
+            "neighbourhood_id":1108802919,
             "region_id":85687053,
             "venue_id":320568193
         }
     ],
     "wof:id":320568193,
-    "wof:lastmodified":1473879418,
+    "wof:lastmodified":1492484594,
     "wof:name":"M.J.A.M. Holthuizen",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.279853,52.049919,4.279853,52.049919",
     "geom:latitude":52.049919,
     "geom:longitude":4.279853,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798031,
+        1108808293,
+        102191581,
+        1108805973,
         85633337,
-        101754743,
+        101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_73rVfe8P0Z59p5ZCUgqboK_52.049919_4.279853@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0f45580b10b96d567f69ceb0c673a113",
+    "wof:geomhash":"fcc41fb251327bc416f9b500781d2ddf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798031,
+            "locality_id":101752763,
+            "macrohood_id":1108805973,
+            "neighbourhood_id":1108808293,
             "region_id":85687041,
             "venue_id":320548625
         }
     ],
     "wof:id":320548625,
-    "wof:lastmodified":1473879410,
+    "wof:lastmodified":1492484965,
     "wof:name":"De Konings Groente & Fruitstad",
-    "wof:parent_id":85798031,
+    "wof:parent_id":1108808293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

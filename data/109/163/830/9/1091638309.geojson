@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4878109,52.1692579,4.4878109,52.1692579",
     "geom:latitude":52.169258,
     "geom:longitude":4.487811,
@@ -41,15 +42,15 @@
     "sg:website":"http://www.oclc.org/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798091,
-        102191581,
-        404474199,
-        85633337,
-        101751833,
-        85687041,
         85798025,
+        102191581,
         404474545,
-        101754717
+        85633337,
+        101754717,
+        85687041,
+        85798091,
+        404474199,
+        101751833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +58,8 @@
     },
     "wof:country":"NL",
     "wof:created":1473805206,
-    "wof:geomhash":"49a900433947a7138b88bf2ab34a19ff",
+    "wof:geomhash":"b1304eecb931a8bab37782b3fba01b70",
     "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474199,
-            "locality_id":101751833,
-            "neighbourhood_id":85798091,
-            "region_id":85687041,
-            "venue_id":1091638309
-        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -76,12 +68,21 @@
             "neighbourhood_id":85798025,
             "region_id":85687041,
             "venue_id":1091638309
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474199,
+            "locality_id":101751833,
+            "neighbourhood_id":85798091,
+            "region_id":85687041,
+            "venue_id":1091638309
         }
     ],
     "wof:id":1091638309,
-    "wof:lastmodified":1473878857,
+    "wof:lastmodified":1492510249,
     "wof:name":"OCLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

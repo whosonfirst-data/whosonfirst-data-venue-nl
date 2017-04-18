@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.8788490295,52.2271766663,6.8788490295,52.2271766663",
     "geom:latitude":52.227177,
     "geom:longitude":6.878849,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798019,
+        85798259,
         102191581,
         404473827,
         85633337,
-        101754773,
+        101751871,
         85687045,
-        85798259,
-        101751871
+        85798019,
+        101754773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,8 @@
     },
     "wof:country":"NL",
     "wof:created":1473798623,
-    "wof:geomhash":"c8201ca5eda6974abd18b6998333bc43",
+    "wof:geomhash":"a75958dc58c6263b634a27f5a41f9aa7",
     "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404473827,
-            "locality_id":101754773,
-            "neighbourhood_id":85798019,
-            "region_id":85687045,
-            "venue_id":1075809363
-        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -66,12 +58,21 @@
             "neighbourhood_id":85798259,
             "region_id":85687045,
             "venue_id":1075809363
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473827,
+            "locality_id":101754773,
+            "neighbourhood_id":85798019,
+            "region_id":85687045,
+            "venue_id":1075809363
         }
     ],
     "wof:id":1075809363,
-    "wof:lastmodified":1473878693,
+    "wof:lastmodified":1492485966,
     "wof:name":"Antonio, Pizzeria",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

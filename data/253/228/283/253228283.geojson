@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4977,51.931114,4.4977,51.931114",
     "geom:latitude":51.931114,
     "geom:longitude":4.4977,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.vrooyen.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859861,
+        1108805837,
+        102191581,
+        1108805657,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_1jEaaKcf57N81WCGf26GKY_51.931114_4.497700@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"290ea2f288bc2bfa43ab9fd66f0c7f34",
+    "wof:geomhash":"998df52e38cecac6a71f611d09c9282e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859861,
+            "macrohood_id":1108805657,
+            "neighbourhood_id":1108805837,
             "region_id":85687041,
             "venue_id":253228283
         }
     ],
     "wof:id":253228283,
-    "wof:lastmodified":1473879248,
+    "wof:lastmodified":1492490402,
     "wof:name":"Arthur Van Rooijen",
-    "wof:parent_id":85859861,
+    "wof:parent_id":1108805837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

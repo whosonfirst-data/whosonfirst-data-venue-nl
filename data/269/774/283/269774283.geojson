@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.293759,52.083317,4.293759,52.083317",
     "geom:latitude":52.083317,
     "geom:longitude":4.293759,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_6y1wYbcOsB5a3qcv24P2co_52.083317_4.293759@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"23daecf769c28b63bc63ea1f55d6662e",
+    "wof:geomhash":"9f147e6c13a8ab9465c44950292a590e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":269774283
         }
     ],
     "wof:id":269774283,
-    "wof:lastmodified":1473879413,
+    "wof:lastmodified":1492496215,
     "wof:name":"Prinsekelder Ii Snackbar",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

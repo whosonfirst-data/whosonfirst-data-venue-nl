@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.81715,52.37178,4.81715,52.37178",
     "geom:latitude":52.37178,
     "geom:longitude":4.81715,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.healthcentergroep",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803965,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_0UkX0LSqBcJmrbf4dZhFbg_52.371780_4.817150@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"23616a4db2c572449e54d8a7d58e1b94",
+    "wof:geomhash":"e73e9c3878e310feaa13c700357fa3ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "macrohood_id":1108802303,
+            "microhood_id":1108803965,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":270052807
         }
     ],
     "wof:id":270052807,
-    "wof:lastmodified":1473878514,
+    "wof:lastmodified":1492500264,
     "wof:name":"Healthcenter Sloterpark Bv",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.917483,52.357559,4.917483,52.357559",
     "geom:latitude":52.357559,
     "geom:longitude":4.917483,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803403,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4gpqsWlGBzTLuWlcDYVfDf_52.357559_4.917483@1306269933"
     },
     "wof:country":"NL",
-    "wof:geomhash":"75cb6e08ce3300c7e71f42e9ab127c7a",
+    "wof:geomhash":"d5188d2be2f2de9f04c6bce953d9d3cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803403,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":235974507
         }
     ],
     "wof:id":235974507,
-    "wof:lastmodified":1473878576,
+    "wof:lastmodified":1492514464,
     "wof:name":"Sat Nam",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803403,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

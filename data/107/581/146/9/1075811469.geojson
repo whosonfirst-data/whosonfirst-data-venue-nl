@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0889430046,52.0918540955,5.0889430046,52.0918540955",
     "geom:latitude":52.091854,
     "geom:longitude":5.088943,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808771,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473798735,
-    "wof:geomhash":"c9d71631b3997add4af114c3a809ed3b",
+    "wof:geomhash":"61c628bad5ecc9509fb9c9f4ef6d70f4",
     "wof:hierarchy":[
         {
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808771,
             "region_id":85687039,
             "venue_id":1075811469
         }
     ],
     "wof:id":1075811469,
-    "wof:lastmodified":1473878817,
+    "wof:lastmodified":1492486152,
     "wof:name":"Post Bv",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808771,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

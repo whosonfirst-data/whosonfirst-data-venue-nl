@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.837623,52.364304,4.837623,52.364304",
     "geom:latitude":52.364304,
     "geom:longitude":4.837623,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803331,
         85798223,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1jpkXjoOL2v3zKy6Gfa5SS_52.364304_4.837623@1306269905"
     },
     "wof:country":"NL",
-    "wof:geomhash":"74374b92b8d13c01b276a80b59a49cd8",
+    "wof:geomhash":"843bd210aa5891b00749ef16311f3201",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803331,
             "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":169723895
         }
     ],
     "wof:id":169723895,
-    "wof:lastmodified":1473878551,
+    "wof:lastmodified":1492478714,
     "wof:name":"Larose Kapsalon",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803331,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

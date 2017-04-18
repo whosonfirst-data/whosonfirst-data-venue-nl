@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.579001,51.967426,4.579001,51.967426",
     "geom:latitude":51.967426,
     "geom:longitude":4.579001,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798779,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FhfGntd0IZqcAP2NTnNyZ_51.967426_4.579001@1306269971"
     },
     "wof:country":"NL",
-    "wof:geomhash":"85d57b0f6947a84d66b4f96e53cfc545",
+    "wof:geomhash":"d871c7e86df6732c29cf6f9275a07b59",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798779,
+            "region_id":85687041,
+            "venue_id":286606191
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798779,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":286606191,
-    "wof:lastmodified":1473879226,
+    "wof:lastmodified":1492476423,
     "wof:name":"Vijf Havens, De",
     "wof:parent_id":85798779,
     "wof:placetype":"venue",

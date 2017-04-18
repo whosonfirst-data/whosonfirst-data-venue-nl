@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.868465,52.324898,4.868465,52.324898",
     "geom:latitude":52.324898,
     "geom:longitude":4.868465,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803485,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_34zIcw1OO9SOqLivqjmiGr_52.324898_4.868465@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"52211c457727a1e2f17d265bf2d2d412",
+    "wof:geomhash":"c0fce4a7e5d779696fe58cc2fc2d46ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803485,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":320703559
         }
     ],
     "wof:id":320703559,
-    "wof:lastmodified":1473879556,
+    "wof:lastmodified":1492482955,
     "wof:name":"Everbrown",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

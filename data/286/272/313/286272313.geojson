@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.82129,52.355793,4.82129,52.355793",
     "geom:latitude":52.355793,
     "geom:longitude":4.82129,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803265,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_3acFTnK5K4ADiTsmxV67nd_52.355793_4.821290@1306269967"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e836120fabfdf14393df111898d69c4b",
+    "wof:geomhash":"f1824fae02ce1d3ac400d2292e9f8065",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803265,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":286272313
         }
     ],
     "wof:id":286272313,
-    "wof:lastmodified":1473878586,
+    "wof:lastmodified":1492475005,
     "wof:name":"Openbare Basis Daltonschool Louis Bouwmeester",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

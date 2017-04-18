@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.859343,52.36993,4.859343,52.36993",
     "geom:latitude":52.36993,
     "geom:longitude":4.859343,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803381,
+        1108802785,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5QOELUZ3baarOW44ItA9I2_52.369930_4.859343@1306269976"
     },
     "wof:country":"NL",
-    "wof:geomhash":"253f91364c986154ea1e6a0236daf194",
+    "wof:geomhash":"9ff522e698f6b90001d5e16dbfd3dbfa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803381,
+            "neighbourhood_id":1108802785,
             "region_id":85687053,
             "venue_id":287075089
         }
     ],
     "wof:id":287075089,
-    "wof:lastmodified":1473878742,
+    "wof:lastmodified":1492513901,
     "wof:name":"Lelie, De",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803381,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

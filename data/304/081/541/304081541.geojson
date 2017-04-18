@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.896437,52.367874,4.896437,52.367874",
     "geom:latitude":52.367874,
     "geom:longitude":4.896437,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.hotelnes.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803271,
+        1108802875,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_4pMsGnZDpK2lunF2BB6zwp_52.367874_4.896437@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"975b5f83e5e9cacbbee6bf3bdfae5fa4",
+    "wof:geomhash":"300ca13a5ddfe1cfb9b78f00c8712356",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803271,
+            "neighbourhood_id":1108802875,
             "region_id":85687053,
             "venue_id":304081541
         }
     ],
     "wof:id":304081541,
-    "wof:lastmodified":1473878804,
+    "wof:lastmodified":1492504398,
     "wof:name":"Nes, Hotel",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

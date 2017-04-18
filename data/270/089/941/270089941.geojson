@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.31143,52.039291,4.31143,52.039291",
     "geom:latitude":52.039291,
     "geom:longitude":4.31143,
@@ -33,30 +34,24 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798433,
+        85798303,
+        102191581,
+        404474251,
         85633337,
         101754743,
-        85687041,
-        85798303
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51UQ7tUekuCIyjFI5dptC0_52.039291_4.311430@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7c88298ab84ea19827fb1ee4faadb0db",
+    "wof:geomhash":"661a2f627271fb38237d102917dbc6e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798433,
-            "region_id":85687041,
-            "venue_id":270089941
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
             "neighbourhood_id":85798303,
             "region_id":85687041,
@@ -64,9 +59,9 @@
         }
     ],
     "wof:id":270089941,
-    "wof:lastmodified":1473878572,
+    "wof:lastmodified":1492500149,
     "wof:name":"Super Photo Snelservice",
-    "wof:parent_id":-1,
+    "wof:parent_id":85798303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

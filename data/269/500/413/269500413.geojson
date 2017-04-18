@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.875987,52.373764,4.875987,52.373764",
     "geom:latitude":52.373764,
     "geom:longitude":4.875987,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803785,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_70xFmZFQu5mS49BF77IL6q_52.373764_4.875987@1306269953"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ab86d80eb81b74c76e28f1c62fd1a06f",
+    "wof:geomhash":"c873ac6c3e1a1028488f9890125f8537",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803785,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":269500413
         }
     ],
     "wof:id":269500413,
-    "wof:lastmodified":1473878578,
+    "wof:lastmodified":1492496499,
     "wof:name":"Politie Amsterdam Amstelland Wijkteam Raampoort",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.899444,52.376251,4.899444,52.376251",
     "geom:latitude":52.376251,
     "geom:longitude":4.899444,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804101,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_3jNaJIDDLwg6Wroi0qkRWn_52.376251_4.899444@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"85b330414e6f19a488723525156aa890",
+    "wof:geomhash":"1ea139761c5ad3c52134b319cf8c1186",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804101,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":269807237
         }
     ],
     "wof:id":269807237,
-    "wof:lastmodified":1473879494,
+    "wof:lastmodified":1492495789,
     "wof:name":"Chang Express",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

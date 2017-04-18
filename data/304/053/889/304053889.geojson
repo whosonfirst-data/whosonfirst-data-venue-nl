@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.896268,52.375755,4.896268,52.375755",
     "geom:latitude":52.375755,
     "geom:longitude":4.896268,
@@ -29,9 +30,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803257,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_4UGDtCZ6zNCaiHspf9hFQO_52.375755_4.896268@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"be0eddcee1725ccf132cfcfb106e1611",
+    "wof:geomhash":"b17edaf596b5f4546458cab8de5c6276",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803257,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":304053889
         }
     ],
     "wof:id":304053889,
-    "wof:lastmodified":1473878713,
+    "wof:lastmodified":1492504645,
     "wof:name":"Continental",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

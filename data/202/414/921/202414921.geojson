@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.863012,52.325783,4.863012,52.325783",
     "geom:latitude":52.325783,
     "geom:longitude":4.863012,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803485,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_00kAIYDaEged3dXR3ZA2p3_52.325783_4.863012@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3cf1ba4316722bcc0352e70f9e2d8bc8",
+    "wof:geomhash":"8148d26a5d894242ec177ce2ba47d88d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803485,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":202414921
         }
     ],
     "wof:id":202414921,
-    "wof:lastmodified":1473878616,
+    "wof:lastmodified":1492497484,
     "wof:name":"Linden & Zn, Fa Xyz Van Der",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

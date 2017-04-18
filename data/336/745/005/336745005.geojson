@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.863717,52.330505,4.863717,52.330505",
     "geom:latitude":52.330505,
     "geom:longitude":4.863717,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803659,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_3LNeon243bI0JJ6JwhLd6Y_52.330505_4.863717@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d09644a5ff147f8bcc87e1aad7676722",
+    "wof:geomhash":"a28339f66e2eef3fbc7d7607aa46693d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803659,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":336745005
         }
     ],
     "wof:id":336745005,
-    "wof:lastmodified":1473878414,
+    "wof:lastmodified":1492507025,
     "wof:name":"D.J. Wiersma",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803659,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

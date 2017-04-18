@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912914,52.356735,4.912914,52.356735",
     "geom:latitude":52.356735,
     "geom:longitude":4.912914,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803403,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1eAQVnIbeV27q69TtfpLOR_52.356735_4.912914@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a362b7052620c6fb442290aab55806e3",
+    "wof:geomhash":"f4a812456c452568ded9c2bda1691231",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803403,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":270139511
         }
     ],
     "wof:id":270139511,
-    "wof:lastmodified":1473878669,
+    "wof:lastmodified":1492499397,
     "wof:name":"Nico Boink",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803403,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

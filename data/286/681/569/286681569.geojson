@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.095343,52.088367,5.095343,52.088367",
     "geom:latitude":52.088367,
     "geom:longitude":5.095343,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798153,
+        1108808791,
+        102191581,
+        1108808651,
         85633337,
+        101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1CA0NQpeoDldLtIkddiVoq_52.088367_5.095343@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3c1c91cb347856a5fdcafed3091c9832",
+    "wof:geomhash":"b8c7fcd2092fe6eb910b704fcd66578e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "macrohood_id":1108808651,
+            "neighbourhood_id":1108808791,
             "region_id":85687039,
             "venue_id":286681569
         }
     ],
     "wof:id":286681569,
-    "wof:lastmodified":1473879395,
+    "wof:lastmodified":1492477785,
     "wof:name":"Joni Vof",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

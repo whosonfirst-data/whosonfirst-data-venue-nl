@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.4586639404,53.3649291992,6.4586639404,53.3649291992",
     "geom:latitude":53.364929,
     "geom:longitude":6.458664,
@@ -23,17 +24,32 @@
     "sg:postcode":"9967 RJ",
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404474575,
+        85633337,
+        101803729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OequW5wkPQ8yRK0nWX9AD_53.364929_6.458664@1306270010"
     },
     "wof:country":"NL",
     "wof:created":1473799769,
-    "wof:geomhash":"25cac2dfc246a976832169741d202b05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"024f4f817cf980600279bfc1f8f1b53e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474575,
+            "locality_id":101803729,
+            "region_id":85687059,
+            "venue_id":1075829681
+        }
+    ],
     "wof:id":1075829681,
-    "wof:lastmodified":1473879578,
+    "wof:lastmodified":1492487126,
     "wof:name":"Jeugdhaven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

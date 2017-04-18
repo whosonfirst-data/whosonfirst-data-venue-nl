@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.093821,52.074379,5.093821,52.074379",
     "geom:latitude":52.074379,
     "geom:longitude":5.093821,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797771,
+        1108808761,
+        102191581,
+        1108808647,
         85633337,
         101751827,
+        1108808679,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1AdzKO2fLCuEBjObJFLf00_52.074379_5.093821@1306269953"
     },
     "wof:country":"NL",
-    "wof:geomhash":"791fc5428d683424ff64032df0c21066",
+    "wof:geomhash":"58f385f32a71621c93461e2b2cf368be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808679,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797771,
+            "macrohood_id":1108808647,
+            "neighbourhood_id":1108808761,
             "region_id":85687039,
             "venue_id":269491321
         }
     ],
     "wof:id":269491321,
-    "wof:lastmodified":1473878522,
+    "wof:lastmodified":1492496807,
     "wof:name":"Chicken Today",
-    "wof:parent_id":85797771,
+    "wof:parent_id":1108808761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

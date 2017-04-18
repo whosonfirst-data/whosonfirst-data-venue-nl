@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.877132,52.227516,6.877132,52.227516",
     "geom:latitude":52.227516,
     "geom:longitude":6.877132,
@@ -24,40 +25,41 @@
     "sg:province":"Overijssel",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798019,
         85633337,
-        101754773,
+        85798535,
         85687045,
-        85798535
+        85798019,
+        102191581,
+        404473827,
+        101754773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DYDaNYIgX7npXfmBYx2Fi_52.227516_6.877132@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0ea36546b02375b70ba909477fc7ec45",
+    "wof:geomhash":"2a264fa2138e63c553e87384c47d43a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101754773,
-            "neighbourhood_id":85798019,
+            "neighbourhood_id":85798535,
             "region_id":85687045,
             "venue_id":203171745
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798535,
+            "localadmin_id":404473827,
+            "locality_id":101754773,
+            "neighbourhood_id":85798019,
             "region_id":85687045,
             "venue_id":203171745
         }
     ],
     "wof:id":203171745,
-    "wof:lastmodified":1473879041,
+    "wof:lastmodified":1492480316,
     "wof:name":"Parkzicht Assurantien",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

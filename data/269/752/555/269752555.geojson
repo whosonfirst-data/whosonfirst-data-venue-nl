@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.284292,52.071117,4.284292,52.071117",
     "geom:latitude":52.071117,
     "geom:longitude":4.284292,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797151,
+        1108808215,
+        102191581,
+        1108808117,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_7maZScx5RSsOGF2j6sE9ND_52.071117_4.284292@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"17f00317aa14b94bb23589c7565bfe70",
+    "wof:geomhash":"46089d44b84ea351da600515e66f7c1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797151,
+            "macrohood_id":1108808117,
+            "neighbourhood_id":1108808215,
             "region_id":85687041,
             "venue_id":269752555
         }
     ],
     "wof:id":269752555,
-    "wof:lastmodified":1473879379,
+    "wof:lastmodified":1492496436,
     "wof:name":"De Regent",
-    "wof:parent_id":85797151,
+    "wof:parent_id":1108808215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

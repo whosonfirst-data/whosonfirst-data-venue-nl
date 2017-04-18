@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.873387,52.325127,4.873387,52.325127",
     "geom:latitude":52.325127,
     "geom:longitude":4.873387,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803497,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2ovyW4TdnByWHOUJy9rMAO_52.325127_4.873387@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"72ef44b8a635e82df57f27761b14e8fc",
+    "wof:geomhash":"74f1af70a570635179e11cf54de0589c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803497,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":270245221
         }
     ],
     "wof:id":270245221,
-    "wof:lastmodified":1473878949,
+    "wof:lastmodified":1492500053,
     "wof:name":"L. Moerkerken",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

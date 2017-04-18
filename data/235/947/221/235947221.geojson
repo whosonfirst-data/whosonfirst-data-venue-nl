@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.549349,51.941444,4.549349,51.941444",
     "geom:latitude":51.941444,
     "geom:longitude":4.549349,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        85797053,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13K4dIc9102XbcelaqcwiG_51.941444_4.549349@1306269933"
     },
     "wof:country":"NL",
-    "wof:geomhash":"33fc50e30d9c90941c80c82d87475d85",
+    "wof:geomhash":"b99c2a820b2159255237b4ebf6307251",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797053,
+            "region_id":85687041,
+            "venue_id":235947221
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "neighbourhood_id":85797053,
             "region_id":85687041,
             "venue_id":235947221
         }
     ],
     "wof:id":235947221,
-    "wof:lastmodified":1473878513,
+    "wof:lastmodified":1492514596,
     "wof:name":"Osli Lasbedrijf",
-    "wof:parent_id":85798329,
+    "wof:parent_id":85797053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.930848,52.38678,4.930848,52.38678",
     "geom:latitude":52.38678,
     "geom:longitude":4.930848,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803621,
+        1108802869,
+        102191581,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_1oxc63YewnY9A1VzVBrc63_52.386780_4.930848@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"13368fc2ecd3f1812ec5047f1f451946",
+    "wof:geomhash":"1d13d7b6e23a5220575f52656203f61e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803621,
+            "neighbourhood_id":1108802869,
             "region_id":85687053,
             "venue_id":320094419
         }
     ],
     "wof:id":320094419,
-    "wof:lastmodified":1473878779,
+    "wof:lastmodified":1492482157,
     "wof:name":"Nijkamp Garage",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803621,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

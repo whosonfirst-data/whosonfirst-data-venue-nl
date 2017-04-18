@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.482384,51.944656,4.482384,51.944656",
     "geom:latitude":51.944656,
     "geom:longitude":4.482384,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859841,
+        1108805793,
+        102191581,
+        1108805981,
         85633337,
-        101753095,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_2IRgCjXCAU2tdiJi0vdwST_51.944656_4.482384@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fb087129b9e2a600508d0fd820e591ff",
+    "wof:geomhash":"9c9ce03fc1bd80e524eafcbc20dfb1bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859841,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805793,
             "region_id":85687041,
             "venue_id":269732577
         }
     ],
     "wof:id":269732577,
-    "wof:lastmodified":1473879345,
+    "wof:lastmodified":1492496632,
     "wof:name":"Automatiek Straatweg",
-    "wof:parent_id":85859841,
+    "wof:parent_id":1108805793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

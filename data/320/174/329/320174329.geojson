@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.078079,52.109882,5.078079,52.109882",
     "geom:latitude":52.109882,
     "geom:longitude":5.078079,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.spotspeaker.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808841,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_7AMGjWouqZBH4LBnUcYm2a_52.109882_5.078079@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0fa16eb04df27a91a81885d2e9b6b264",
+    "wof:geomhash":"0b8b47a45ee1383f55c3831dfdecce2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808841,
             "region_id":85687039,
             "venue_id":320174329
         }
     ],
     "wof:id":320174329,
-    "wof:lastmodified":1473879056,
+    "wof:lastmodified":1492485439,
     "wof:name":"Spot & Speaker Audiovisueel & Licht",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.874581,52.364262,4.874581,52.364262",
     "geom:latitude":52.364262,
     "geom:longitude":4.874581,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803521,
+        1108802821,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_79tpdI5arGwy8OoNEtyoGw_52.364262_4.874581@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fd190d7b70a442443619e066528d0b41",
+    "wof:geomhash":"e20d8450e515339615b76c741102fdd4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803521,
+            "neighbourhood_id":1108802821,
             "region_id":85687053,
             "venue_id":320485691
         }
     ],
     "wof:id":320485691,
-    "wof:lastmodified":1473879331,
+    "wof:lastmodified":1492482184,
     "wof:name":"Klinkenberg, Charley",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803521,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.361098,52.094002,4.361098,52.094002",
     "geom:latitude":52.094002,
     "geom:longitude":4.361098,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797989,
+        1108808233,
+        102191581,
+        1108808111,
         85633337,
         101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1vxrIXVsM3CwAhXNmQVv1S_52.094002_4.361098@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"18ac29c9975cfdc2c3231fc26e0cb923",
+    "wof:geomhash":"e66ff1860e21e3483fd3c375f68f3866",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797989,
+            "macrohood_id":1108808111,
+            "neighbourhood_id":1108808233,
             "region_id":85687041,
             "venue_id":185887807
         }
     ],
     "wof:id":185887807,
-    "wof:lastmodified":1473878838,
+    "wof:lastmodified":1492487758,
     "wof:name":"Falco Kinderopvang Dak",
-    "wof:parent_id":85797989,
+    "wof:parent_id":1108808233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

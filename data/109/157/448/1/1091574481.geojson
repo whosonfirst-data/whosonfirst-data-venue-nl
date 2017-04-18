@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.4056410789,53.1374931335,6.4056410789,53.1374931335",
     "geom:latitude":53.137493,
     "geom:longitude":6.405641,
@@ -24,17 +25,32 @@
     "sg:province":"Provincie Drenthe",
     "sg:website":"http://www.pjay.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474609,
+        85633337,
+        101807263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5d0Kcsd2LU92iCCVV4k1pi_53.137493_6.405641@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800759,
-    "wof:geomhash":"18a7ac29ac03619027cdec195a1f2d2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"888e8f79d41e61846115d2f4eeecdcd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474609,
+            "locality_id":101807263,
+            "region_id":85687051,
+            "venue_id":1091574481
+        }
+    ],
     "wof:id":1091574481,
-    "wof:lastmodified":1473878780,
+    "wof:lastmodified":1492511165,
     "wof:name":"Pjay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

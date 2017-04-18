@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.979394,52.307957,4.979394,52.307957",
     "geom:latitude":52.307957,
     "geom:longitude":4.979394,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108804297,
+        1108802863,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0S3DpNoIkkCBaUJgf47IFk_52.307957_4.979394@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cd35620bedae814429e28cd71c01d3d2",
+    "wof:geomhash":"6abed3aa5cdbae1bc28ceff54ce7ae67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108804297,
+            "neighbourhood_id":1108802863,
             "region_id":85687053,
             "venue_id":219636311
         }
     ],
     "wof:id":219636311,
-    "wof:lastmodified":1473879491,
+    "wof:lastmodified":1492504059,
     "wof:name":"Hardes",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108804297,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

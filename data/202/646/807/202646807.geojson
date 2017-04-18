@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876651,52.331104,4.876651,52.331104",
     "geom:latitude":52.331104,
     "geom:longitude":4.876651,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804091,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7FCfoKZFg7Anv1b0st8iCa_52.331104_4.876651@1306269917"
     },
     "wof:country":"NL",
-    "wof:geomhash":"20cb3c4e3144c2e67fe0b879022c4645",
+    "wof:geomhash":"58d5ab5b100a00e131c0c2bd2bcfbc62",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804091,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":202646807
         }
     ],
     "wof:id":202646807,
-    "wof:lastmodified":1473879106,
+    "wof:lastmodified":1492498577,
     "wof:name":"W. Beutler En Co Verlichtings Artikelen Bv",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

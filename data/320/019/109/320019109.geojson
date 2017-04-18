@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.554067,51.933647,4.554067,51.933647",
     "geom:latitude":51.933647,
     "geom:longitude":4.554067,
@@ -24,40 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798375,
+        1108805851,
+        102191581,
         85633337,
-        101753095,
+        101751843,
+        1108805725,
         85687041,
-        85797899
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fU4M7m7dAA5vxdqK3Gg5N_51.933647_4.554067@1306269993"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ce6340692ed722a008a2238a262193aa",
+    "wof:geomhash":"73024f7b2fb4052a58d69d3ad4d88938",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85798375,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805851,
             "region_id":85687041,
             "venue_id":320019109
         },
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85797899,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805851,
             "region_id":85687041,
             "venue_id":320019109
         }
     ],
     "wof:id":320019109,
-    "wof:lastmodified":1473878560,
+    "wof:lastmodified":1492482462,
     "wof:name":"P.H.M. Van Den Berg Consultancy",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108805851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

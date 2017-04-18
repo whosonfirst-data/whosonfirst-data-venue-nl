@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.136424,52.065105,5.136424,52.065105",
     "geom:latitude":52.065105,
     "geom:longitude":5.136424,
@@ -34,8 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859943,
+        1108808795,
+        102191581,
+        1108832363,
         85633337,
+        101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -43,21 +48,23 @@
         "sg:id":"SG_0vqH8tWQnaTe0NtGeNvHMN_52.065105_5.136424@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4dd21b7c7cdb1bb1e6e300725e4a8cef",
+    "wof:geomhash":"f5e27223e0488f3a4324103326b0ca34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859943,
+            "locality_id":101751827,
+            "macrohood_id":1108832363,
+            "neighbourhood_id":1108808795,
             "region_id":85687039,
             "venue_id":202523549
         }
     ],
     "wof:id":202523549,
-    "wof:lastmodified":1473878859,
+    "wof:lastmodified":1492498601,
     "wof:name":"Ster Lunetten",
-    "wof:parent_id":85859943,
+    "wof:parent_id":1108808795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

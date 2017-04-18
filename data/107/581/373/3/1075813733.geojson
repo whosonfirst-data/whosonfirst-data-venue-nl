@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1216349602,51.9542312622,4.1216349602,51.9542312622",
     "geom:latitude":51.954231,
     "geom:longitude":4.121635,
@@ -32,19 +33,36 @@
         "bewaring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108805785,
+        102191581,
+        85633337,
+        101751843,
+        1108805737,
+        85687041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62nia03zIOusHTmwlXFQF9_51.954231_4.121635@1306270008"
     },
     "wof:country":"NL",
     "wof:created":1473798842,
-    "wof:geomhash":"bacb4ebf1987f597256714bc51de898e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1bf3b3fa9826c98cdca8c6afe8a18a4",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108805737,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805785,
+            "region_id":85687041,
+            "venue_id":1075813733
+        }
+    ],
     "wof:id":1075813733,
-    "wof:lastmodified":1473878942,
+    "wof:lastmodified":1492486625,
     "wof:name":"Bv Graansilo Maatschappij",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108805785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.894617,52.3745,4.894617,52.3745",
     "geom:latitude":52.3745,
     "geom:longitude":4.894617,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803257,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_2rPRCONpE6B3oW7EGBTqGO_52.374500_4.894617@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c483ddb8594c6076d4c6f3e88636fe53",
+    "wof:geomhash":"745e482606dc537d7865453402bb8bde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803257,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":270463215
         }
     ],
     "wof:id":270463215,
-    "wof:lastmodified":1473879256,
+    "wof:lastmodified":1492500572,
     "wof:name":"M.J. Hulsen Coffee Club",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

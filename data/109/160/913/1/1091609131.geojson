@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.5726008415,53.2175064087,6.5726008415,53.2175064087",
     "geom:latitude":53.217506,
     "geom:longitude":6.572601,
@@ -24,13 +25,13 @@
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798193,
+        85797417,
         102191581,
         404473713,
         85633337,
         101751909,
         85687059,
-        85797417
+        85798193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,8 @@
     },
     "wof:country":"NL",
     "wof:created":1473803344,
-    "wof:geomhash":"3a4e94aa42c0b7becbf9fbf96922d97f",
+    "wof:geomhash":"9640dd85297e1375e41884eef0c9ae11",
     "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404473713,
-            "locality_id":101751909,
-            "neighbourhood_id":85798193,
-            "region_id":85687059,
-            "venue_id":1091609131
-        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -57,12 +49,21 @@
             "neighbourhood_id":85797417,
             "region_id":85687059,
             "venue_id":1091609131
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473713,
+            "locality_id":101751909,
+            "neighbourhood_id":85798193,
+            "region_id":85687059,
+            "venue_id":1091609131
         }
     ],
     "wof:id":1091609131,
-    "wof:lastmodified":1473878961,
+    "wof:lastmodified":1492512930,
     "wof:name":"Holland Casino Groningen",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

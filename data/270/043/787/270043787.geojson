@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.095215,52.119816,5.095215,52.119816",
     "geom:latitude":52.119816,
     "geom:longitude":5.095215,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798231,
+        1108808893,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1kWYBac107we4BRJx63EXB_52.119816_5.095215@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"019d9ea38e3867b2fadcca600f6caf3a",
+    "wof:geomhash":"42d3a7f03b5eb26b17f89a8dff99eae2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798231,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808893,
             "region_id":85687039,
             "venue_id":270043787
         }
     ],
     "wof:id":270043787,
-    "wof:lastmodified":1473878512,
+    "wof:lastmodified":1492501434,
     "wof:name":"Fit & Food",
-    "wof:parent_id":85798231,
+    "wof:parent_id":1108808893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1483960152,51.59217453,5.1483960152,51.59217453",
     "geom:latitude":51.592175,
     "geom:longitude":5.148396,
@@ -23,17 +24,32 @@
     "sg:postcode":"5056 LC",
     "sg:province":"North Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474435,
+        85633337,
+        101808167
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dFWTnGk1N97kyKM4C2ef5_51.592175_5.148396@1306270019"
     },
     "wof:country":"NL",
     "wof:created":1473803984,
-    "wof:geomhash":"9a03df35758a2a48ec1673a08487ef4d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"418172f16c73247da8e07169ec59fc74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474435,
+            "locality_id":101808167,
+            "region_id":85687035,
+            "venue_id":1091621167
+        }
+    ],
     "wof:id":1091621167,
-    "wof:lastmodified":1473878530,
+    "wof:lastmodified":1492512283,
     "wof:name":"Carakter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

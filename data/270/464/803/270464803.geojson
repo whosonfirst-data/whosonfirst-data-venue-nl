@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.295926,52.081524,4.295926,52.081524",
     "geom:latitude":52.081524,
     "geom:longitude":4.295926,
@@ -29,9 +30,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_5WQdvM8QJEktUHslUm3pPo_52.081524_4.295926@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d8f4914a19526ac7dcbd6c0675e03f91",
+    "wof:geomhash":"2309af10138b67578d1204584465209c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":270464803
         }
     ],
     "wof:id":270464803,
-    "wof:lastmodified":1473879263,
+    "wof:lastmodified":1492500837,
     "wof:name":"De Mazzelaar",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

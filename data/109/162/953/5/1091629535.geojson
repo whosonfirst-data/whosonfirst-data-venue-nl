@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1472578049,52.1129226685,5.1472578049,52.1129226685",
     "geom:latitude":52.112923,
     "geom:longitude":5.147258,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808911,
+        102191581,
         85633337,
-        85798227,
+        101751827,
+        1108808663,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473804527,
-    "wof:geomhash":"47d35f01f062e0abae08062006dce274",
+    "wof:geomhash":"2a804e51c75b01489f1365c82c1837b5",
     "wof:hierarchy":[
         {
+            "borough_id":1108808663,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808911,
             "region_id":85687039,
             "venue_id":1091629535
         }
     ],
     "wof:id":1091629535,
-    "wof:lastmodified":1473879119,
+    "wof:lastmodified":1492512111,
     "wof:name":"Hairstyling Your Hair",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808911,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

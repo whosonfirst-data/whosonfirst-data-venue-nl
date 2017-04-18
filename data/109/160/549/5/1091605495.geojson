@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5353441238,51.8964920044,4.5353441238,51.8964920044",
     "geom:latitude":51.896492,
     "geom:longitude":4.535344,
@@ -25,13 +26,12 @@
     "sg:website":"http://www.vervat.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859895,
+        85859927,
         102191581,
-        404474245,
         85633337,
         101751843,
-        85687041,
-        85859917
+        1108805721,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,31 +39,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473803008,
-    "wof:geomhash":"736620b3d40c98fd5cfcd87aa738793e",
+    "wof:geomhash":"0d1ce1d6ebce1344cb96143297d64b3d",
     "wof:hierarchy":[
         {
+            "borough_id":1108805721,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474245,
             "locality_id":101751843,
-            "neighbourhood_id":85859895,
-            "region_id":85687041,
-            "venue_id":1091605495
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474245,
-            "locality_id":101751843,
-            "neighbourhood_id":85859917,
+            "neighbourhood_id":85859927,
             "region_id":85687041,
             "venue_id":1091605495
         }
     ],
     "wof:id":1091605495,
-    "wof:lastmodified":1473878753,
+    "wof:lastmodified":1492512612,
     "wof:name":"Vervat Kampeer-Caravangroep",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859927,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

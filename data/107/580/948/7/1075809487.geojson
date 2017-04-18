@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5182552338,51.6206321716,5.5182552338,51.6206321716",
     "geom:latitude":51.620632,
     "geom:longitude":5.518255,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.sorbforce.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474441,
+        85633337,
+        101808329
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6klumFt6mx4YZG4q27Q8AJ_51.620632_5.518255@1306269953"
     },
     "wof:country":"NL",
     "wof:created":1473798629,
-    "wof:geomhash":"2d99330c59c78f6a783b32a73524a378",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7cb221b942c7a49ba5e7766dc2dc5dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474441,
+            "locality_id":101808329,
+            "region_id":85687035,
+            "venue_id":1075809487
+        }
+    ],
     "wof:id":1075809487,
-    "wof:lastmodified":1473878709,
+    "wof:lastmodified":1492486105,
     "wof:name":"Sorbforce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.837263,52.3592,4.837263,52.3592",
     "geom:latitude":52.3592,
     "geom:longitude":4.837263,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.effathaguyot.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108804249,
+        85798223,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_7lH09CAFy4mjpmGRBT5uQI_52.359200_4.837263@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"561021d7fd730cf75e0c2863ee6412e3",
+    "wof:geomhash":"9c384241914661099db44831e3dc12d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108804249,
+            "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":186375993
         }
     ],
     "wof:id":186375993,
-    "wof:lastmodified":1473879349,
+    "wof:lastmodified":1492507580,
     "wof:name":"Effatha",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.292218,52.045879,4.292218,52.045879",
     "geom:latitude":52.045879,
     "geom:longitude":4.292218,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798031,
+        1108808301,
+        102191581,
+        1108833203,
         85633337,
-        101754743,
+        101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6u8ywE67xNAav5V0LdFXvJ_52.045879_4.292218@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c389254954a22989e25a704c8fc02616",
+    "wof:geomhash":"84a151db60e5efe8cb5297614d3f16ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798031,
+            "locality_id":101752763,
+            "macrohood_id":1108833203,
+            "neighbourhood_id":1108808301,
             "region_id":85687041,
             "venue_id":202792007
         }
     ],
     "wof:id":202792007,
-    "wof:lastmodified":1473879192,
+    "wof:lastmodified":1492497856,
     "wof:name":"P.J.J. Tolksdorf",
-    "wof:parent_id":85798031,
+    "wof:parent_id":1108808301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

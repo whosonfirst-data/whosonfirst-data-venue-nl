@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.969215,52.361691,4.969215,52.361691",
     "geom:latitude":52.361691,
     "geom:longitude":4.969215,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797433,
+        1108803329,
+        1108802965,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3w3NhsymwzKcjmXKNy53Vd_52.361691_4.969215@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"299e454d947cf3178491f56ee10bf946",
+    "wof:geomhash":"bc3080bb467a20562d2e296f55af5dca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797433,
+            "microhood_id":1108803329,
+            "neighbourhood_id":1108802965,
             "region_id":85687053,
             "venue_id":270147567
         }
     ],
     "wof:id":270147567,
-    "wof:lastmodified":1473878661,
+    "wof:lastmodified":1492500762,
     "wof:name":"Bennekom, Joris Van",
-    "wof:parent_id":85797433,
+    "wof:parent_id":1108803329,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

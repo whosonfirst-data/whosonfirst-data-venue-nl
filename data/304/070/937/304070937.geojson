@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879785,52.354664,4.879785,52.354664",
     "geom:latitude":52.354664,
     "geom:longitude":4.879785,
@@ -29,9 +30,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803547,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_2Fm2xqKKiPj2j8NL65WfXc_52.354664_4.879785@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e015dc7c350b8cfb9319c054ca644700",
+    "wof:geomhash":"72f8260cb5f26b383b5a06ce77b480f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803547,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":304070937
         }
     ],
     "wof:id":304070937,
-    "wof:lastmodified":1473878804,
+    "wof:lastmodified":1492504627,
     "wof:name":"Hotel Peters",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

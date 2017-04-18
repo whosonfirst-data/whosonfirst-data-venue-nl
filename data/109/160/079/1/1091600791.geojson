@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0674819946,51.6865882874,5.0674819946,51.6865882874",
     "geom:latitude":51.686588,
     "geom:longitude":5.067482,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.wooncentrumwaalwijk.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474451,
+        85633337,
+        101839403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qgQHfMhMlhfSMNsH3twUI_51.686588_5.067482@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802565,
-    "wof:geomhash":"885ad9393b8dcfb4b63756e0d948f3ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"185ab7b9ec2d3f4b0d5620db52b807a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474451,
+            "locality_id":101839403,
+            "region_id":85687035,
+            "venue_id":1091600791
+        }
+    ],
     "wof:id":1091600791,
-    "wof:lastmodified":1473878513,
+    "wof:lastmodified":1492512572,
     "wof:name":"Wooncentrum Waalwijk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

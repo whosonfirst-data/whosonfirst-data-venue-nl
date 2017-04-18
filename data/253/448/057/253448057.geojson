@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.079073,52.110519,5.079073,52.110519",
     "geom:latitude":52.110519,
     "geom:longitude":5.079073,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.papicolor.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808841,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_7Z6navWFjJGf6qEscOeuf5_52.110519_5.079073@1306269949"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2a634fe37efe41ab252e61559dc68392",
+    "wof:geomhash":"4992bb698e781cfac6ef41338fa52566",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808841,
             "region_id":85687039,
             "venue_id":253448057
         }
     ],
     "wof:id":253448057,
-    "wof:lastmodified":1473879601,
+    "wof:lastmodified":1492489336,
     "wof:name":"Papicolor",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

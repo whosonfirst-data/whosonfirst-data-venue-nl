@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.87756,52.330521,4.87756,52.330521",
     "geom:latitude":52.330521,
     "geom:longitude":4.87756,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804091,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2bdWWs4iWoAYGhTv4KseEJ_52.330521_4.877560@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4e41b9224697465dea3806e6564635cc",
+    "wof:geomhash":"2091bec00925f5008156c1b626e7db94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804091,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":270424815
         }
     ],
     "wof:id":270424815,
-    "wof:lastmodified":1473879255,
+    "wof:lastmodified":1492499808,
     "wof:name":"Fortis",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

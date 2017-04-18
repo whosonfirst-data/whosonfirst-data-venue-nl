@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.928407,52.395485,4.928407,52.395485",
     "geom:latitude":52.395485,
     "geom:longitude":4.928407,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.fontis.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803449,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_4KHej2leempd449XuFnuRe_52.395485_4.928407@1306269971"
     },
     "wof:country":"NL",
-    "wof:geomhash":"08b9941a63d39b5d2012f1e2d46deb65",
+    "wof:geomhash":"0c7e36ec6ffad84aa01b9049ce4cc135",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803449,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":286587629
         }
     ],
     "wof:id":286587629,
-    "wof:lastmodified":1473879233,
+    "wof:lastmodified":1492477819,
     "wof:name":"Fontis, Sticht",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803449,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

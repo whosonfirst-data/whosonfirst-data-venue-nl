@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.409229,51.946125,4.409229,51.946125",
     "geom:latitude":51.946125,
     "geom:longitude":4.409229,
@@ -24,31 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859705,
+        1108805757,
+        102191581,
         85633337,
-        101751845,
-        85687041
+        101751843,
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dOi5e4P3xn6m9s2DWFtOC_51.946125_4.409229@1306269935"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c9440b0d1c78f213e28830cbdd8ac449",
+    "wof:geomhash":"2cd3674e6817faf50c391d5820889e9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805739,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":236175593
+        },
+        {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474253,
             "locality_id":101751845,
-            "neighbourhood_id":85859705,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":236175593
         }
     ],
     "wof:id":236175593,
-    "wof:lastmodified":1473878885,
+    "wof:lastmodified":1492493043,
     "wof:name":"Nobsguard (Nederland) Bv",
-    "wof:parent_id":85859705,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

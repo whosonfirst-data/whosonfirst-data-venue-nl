@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5519518852,51.9108963013,4.5519518852,51.9108963013",
     "geom:latitude":51.910896,
     "geom:longitude":4.551952,
@@ -26,10 +27,12 @@
     "wof:belongsto":[
         85797865,
         102191581,
-        404474163,
         85633337,
-        101754669,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,20 +40,30 @@
     },
     "wof:country":"NL",
     "wof:created":1473799649,
-    "wof:geomhash":"cd765792578636e623dc5d73efba7b23",
+    "wof:geomhash":"0f16976554c86b417f8d516897715793",
     "wof:hierarchy":[
         {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797865,
+            "region_id":85687041,
+            "venue_id":1075827657
+        },
+        {
+            "borough_id":1108805725,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474163,
-            "locality_id":101754669,
+            "locality_id":101752769,
             "neighbourhood_id":85797865,
             "region_id":85687041,
             "venue_id":1075827657
         }
     ],
     "wof:id":1075827657,
-    "wof:lastmodified":1473879507,
+    "wof:lastmodified":1492486780,
     "wof:name":"Clubhuis 'T Veer",
     "wof:parent_id":85797865,
     "wof:placetype":"venue",

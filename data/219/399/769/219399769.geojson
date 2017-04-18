@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.259841,52.059032,4.259841,52.059032",
     "geom:latitude":52.059032,
     "geom:longitude":4.259841,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859591,
+        85859571,
+        102191581,
+        1108805971,
         85633337,
         101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6S3quhe5UTowIcGhSxpxUi_52.059032_4.259841@1306269926"
     },
     "wof:country":"NL",
-    "wof:geomhash":"85d3819e765fd2a00e307789eb4b8d95",
+    "wof:geomhash":"892ad34bf5f66f6b3e31f97ebf3db5ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859591,
+            "macrohood_id":1108805971,
+            "neighbourhood_id":85859571,
             "region_id":85687041,
             "venue_id":219399769
         }
     ],
     "wof:id":219399769,
-    "wof:lastmodified":1473879094,
+    "wof:lastmodified":1492502987,
     "wof:name":"H.A. Elbers",
-    "wof:parent_id":85859591,
+    "wof:parent_id":85859571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

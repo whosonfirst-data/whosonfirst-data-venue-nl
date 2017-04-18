@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5356860161,51.9556312561,4.5356860161,51.9556312561",
     "geom:latitude":51.955631,
     "geom:longitude":4.535686,
@@ -25,12 +26,14 @@
     "sg:website":"http://www.janario.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798487,
+        85798149,
         102191581,
-        404474245,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,22 +41,32 @@
     },
     "wof:country":"NL",
     "wof:created":1473800693,
-    "wof:geomhash":"46d13bbd723efb596107960590bfa696",
+    "wof:geomhash":"5fbb6cc66c2365638328e84cfbf3fb32",
     "wof:hierarchy":[
         {
+            "borough_id":1108805725,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474245,
-            "locality_id":101753095,
-            "neighbourhood_id":85798487,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":1091573441
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":1091573441
         }
     ],
     "wof:id":1091573441,
-    "wof:lastmodified":1473878700,
+    "wof:lastmodified":1492511348,
     "wof:name":"Janario",
-    "wof:parent_id":85798487,
+    "wof:parent_id":85798149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

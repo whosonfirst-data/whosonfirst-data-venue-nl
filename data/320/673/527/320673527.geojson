@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.849201,52.335506,4.849201,52.335506",
     "geom:latitude":52.335506,
     "geom:longitude":4.849201,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803583,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5eAC8CRomel9IlepQMLfjH_52.335506_4.849201@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"42e1ebda1e2197fcb33ae67f7be7409e",
+    "wof:geomhash":"551082df060af630fa9af3e445fedb11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803583,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":320673527
         }
     ],
     "wof:id":320673527,
-    "wof:lastmodified":1473879492,
+    "wof:lastmodified":1492483708,
     "wof:name":"Uiterton, Sticht De",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

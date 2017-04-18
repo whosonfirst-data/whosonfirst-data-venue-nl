@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.10463,52.12719,5.10463,52.12719",
     "geom:latitude":52.12719,
     "geom:longitude":5.10463,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798231,
+        1108808877,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_4WRJa7mOf94jXdHCyPNknH_52.127190_5.104630@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e319af67c21cf59d6efef6e98ed08086",
+    "wof:geomhash":"0d24344497b72b5f3c3811c75c32bead",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798231,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808877,
             "region_id":85687039,
             "venue_id":303419893
         }
     ],
     "wof:id":303419893,
-    "wof:lastmodified":1473879160,
+    "wof:lastmodified":1492470435,
     "wof:name":"Johannes Rk",
-    "wof:parent_id":85798231,
+    "wof:parent_id":1108808877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

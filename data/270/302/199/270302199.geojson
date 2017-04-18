@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"138.576965,-34.908295,138.576965,-34.908295",
     "geom:latitude":-34.908295,
     "geom:longitude":138.576965,
@@ -34,35 +35,40 @@
     "sg:website":"www.exactsoftware.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681519,
+        85770435,
+        102191583,
+        404546413,
         85632793,
         101936671,
         102049621,
-        85770435,
+        85681519,
+        85774903,
+        404545955,
         101936351,
-        102048711,
-        85774903
+        102048711
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Xrgy14Jwe1PSOVVHI023H_-34.908295_138.576965@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"39c888c3b76236f2e3caea87b442353d",
+    "wof:geomhash":"b3560405a4b737661e19f98dbe2df475",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85632793,
             "county_id":102049621,
+            "localadmin_id":404546413,
             "locality_id":101936671,
             "neighbourhood_id":85770435,
             "region_id":85681519,
             "venue_id":270302199
         },
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85632793,
             "county_id":102048711,
+            "localadmin_id":404545955,
             "locality_id":101936351,
             "neighbourhood_id":85774903,
             "region_id":85681519,
@@ -70,9 +76,9 @@
         }
     ],
     "wof:id":270302199,
-    "wof:lastmodified":1473879059,
+    "wof:lastmodified":1492501378,
     "wof:name":"Exact Holding N.V.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

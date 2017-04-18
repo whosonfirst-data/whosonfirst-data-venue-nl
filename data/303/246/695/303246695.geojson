@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.345181,52.060513,4.345181,52.060513",
     "geom:latitude":52.060513,
     "geom:longitude":4.345181,
@@ -25,10 +26,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798353,
+        102191581,
+        404474251,
         85633337,
         101754743,
         85687041,
         85798255,
+        404474685,
         101754709
     ],
     "wof:breaches":[],
@@ -36,19 +40,21 @@
         "sg:id":"SG_4OMVlU4lbWwut3bFjAPK15_52.060513_4.345181@1306269981"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a4f424a51efc900295e8f06c0c4d1c95",
+    "wof:geomhash":"0949ab23758722294d7523c842446ae3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
             "neighbourhood_id":85798353,
             "region_id":85687041,
             "venue_id":303246695
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474685,
             "locality_id":101754709,
             "neighbourhood_id":85798255,
             "region_id":85687041,
@@ -56,9 +62,9 @@
         }
     ],
     "wof:id":303246695,
-    "wof:lastmodified":1473878952,
+    "wof:lastmodified":1492472042,
     "wof:name":"Looije, Schildersbedrijf",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

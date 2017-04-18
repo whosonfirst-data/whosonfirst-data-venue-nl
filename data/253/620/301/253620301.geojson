@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.828426,52.383774,4.828426,52.383774",
     "geom:latitude":52.383774,
     "geom:longitude":4.828426,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108804011,
+        1108802905,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3hYXKLdtIzu0BBwXm5e1hs_52.383774_4.828426@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bacf007310b97b961976c22a6be5b42d",
+    "wof:geomhash":"bfe991e1cb4ea89b152b960115e4ec2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108804011,
+            "neighbourhood_id":1108802905,
             "region_id":85687053,
             "venue_id":253620301
         }
     ],
     "wof:id":253620301,
-    "wof:lastmodified":1473879683,
+    "wof:lastmodified":1492490242,
     "wof:name":"Catharina",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108804011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

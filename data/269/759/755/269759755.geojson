@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.926003,52.358509,4.926003,52.358509",
     "geom:latitude":52.358509,
     "geom:longitude":4.926003,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803833,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_7V4Z8apJh3QRB4UAyL3d9Z_52.358509_4.926003@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fda84c9836cb3540c5c65361bf4263c1",
+    "wof:geomhash":"339db1127703c4ed8a07b9cfc73c71bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803833,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":269759755
         }
     ],
     "wof:id":269759755,
-    "wof:lastmodified":1473879382,
+    "wof:lastmodified":1492495399,
     "wof:name":"Grillroom Fata Morgana",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

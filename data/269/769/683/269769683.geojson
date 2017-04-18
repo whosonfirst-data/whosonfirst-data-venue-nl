@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.948171,52.296722,4.948171,52.296722",
     "geom:latitude":52.296722,
     "geom:longitude":4.948171,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803431,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_2fLAUdyaGxvmzVXQVxlbZV_52.296722_4.948171@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0d978a979ef56741cbffef4d9980211a",
+    "wof:geomhash":"ed05fb4d3e60f1e7f469e54494699fb1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803431,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":269769683
         }
     ],
     "wof:id":269769683,
-    "wof:lastmodified":1473879410,
+    "wof:lastmodified":1492495220,
     "wof:name":"Mcdonald'S Restaurant",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

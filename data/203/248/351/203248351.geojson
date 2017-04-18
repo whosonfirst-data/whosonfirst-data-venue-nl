@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.940008,52.361359,4.940008,52.361359",
     "geom:latitude":52.361359,
     "geom:longitude":4.940008,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803801,
+        1108802843,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_13NnfBwRB9D0OStHS5tyrg_52.361359_4.940008@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"59282e3b0cbdcd0470544f943eb39d00",
+    "wof:geomhash":"bfe5f2524aa9c7e9223be36ce6154048",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803801,
+            "neighbourhood_id":1108802843,
             "region_id":85687053,
             "venue_id":203248351
         }
     ],
     "wof:id":203248351,
-    "wof:lastmodified":1473879203,
+    "wof:lastmodified":1492480603,
     "wof:name":"Molenaar Vishandel",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

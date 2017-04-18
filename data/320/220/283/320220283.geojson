@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.22045,52.068539,4.22045,52.068539",
     "geom:latitude":52.068539,
     "geom:longitude":4.22045,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797143,
+        85797811,
+        102191581,
+        1108808099,
         85633337,
+        101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_1qeMC8rvogTB3OwgYTvHX6_52.068539_4.220450@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bc9d6a13b7fe6111121bd7a3cc195b6a",
+    "wof:geomhash":"fa2a70f3c66b4ddaa713df0c89bb6214",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797143,
+            "locality_id":101752763,
+            "macrohood_id":1108808099,
+            "neighbourhood_id":85797811,
             "region_id":85687041,
             "venue_id":320220283
         }
     ],
     "wof:id":320220283,
-    "wof:lastmodified":1473879107,
+    "wof:lastmodified":1492482751,
     "wof:name":"Souvenirshop Kijkduin",
-    "wof:parent_id":85797143,
+    "wof:parent_id":85797811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

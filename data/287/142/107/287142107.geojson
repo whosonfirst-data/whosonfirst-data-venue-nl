@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.427996,51.936047,4.427996,51.936047",
     "geom:latitude":51.936047,
     "geom:longitude":4.427996,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859761,
+        1108805669,
+        1108805799,
+        102191581,
         85633337,
         101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1p6uXBUhcEXBimwDOQwDvu_51.936047_4.427996@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4cd55a94e9d7b09016bad91ca64952f9",
+    "wof:geomhash":"313a81c2af753ef8d6466142f374dd76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859761,
+            "microhood_id":1108805669,
+            "neighbourhood_id":1108805799,
             "region_id":85687041,
             "venue_id":287142107
         }
     ],
     "wof:id":287142107,
-    "wof:lastmodified":1473878920,
+    "wof:lastmodified":1492513438,
     "wof:name":"Bensmann & Blankstein",
-    "wof:parent_id":85859761,
+    "wof:parent_id":1108805669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

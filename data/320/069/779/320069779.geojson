@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.862533,52.372368,4.862533,52.372368",
     "geom:latitude":52.372368,
     "geom:longitude":4.862533,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803849,
+        1108802785,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_25l5zHCGUGSdBov3xuOhMR_52.372368_4.862533@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ee7b8dbb40aed13f64cfe6aaf4e1b473",
+    "wof:geomhash":"ce771473db68e4d71abf3953049d753f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803849,
+            "neighbourhood_id":1108802785,
             "region_id":85687053,
             "venue_id":320069779
         }
     ],
     "wof:id":320069779,
-    "wof:lastmodified":1473878690,
+    "wof:lastmodified":1492483650,
     "wof:name":"Gendt, P H Van",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.900726,52.355103,4.900726,52.355103",
     "geom:latitude":52.355103,
     "geom:longitude":4.900726,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803931,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_5w4L7qMAXMlb2Yl9FRNw26_52.355103_4.900726@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"db05174a8d223991617f4eea8dfba1b5",
+    "wof:geomhash":"5f6c154ca36a3ad27dc8b47bc03ec513",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803931,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":270089635
         }
     ],
     "wof:id":270089635,
-    "wof:lastmodified":1473878565,
+    "wof:lastmodified":1492500148,
     "wof:name":"Sora Europe",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

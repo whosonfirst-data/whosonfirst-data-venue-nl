@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8694372177,51.6228561401,5.8694372177,51.6228561401",
     "geom:latitude":51.622856,
     "geom:longitude":5.869437,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.somas.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474615,
+        85633337,
+        101808291
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JyeNRrkDWFpxK0GpgZZVz_51.622856_5.869437@1306270009"
     },
     "wof:country":"NL",
     "wof:created":1473799516,
-    "wof:geomhash":"041ab36daf939987c83742a8378036e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10417ed7a269df15d60c73f5fc56891f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474615,
+            "locality_id":101808291,
+            "region_id":85687035,
+            "venue_id":1075825329
+        }
+    ],
     "wof:id":1075825329,
-    "wof:lastmodified":1473879397,
+    "wof:lastmodified":1492486930,
     "wof:name":"Somas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

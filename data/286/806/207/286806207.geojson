@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.561629,51.924465,4.561629,51.924465",
     "geom:latitude":51.924465,
     "geom:longitude":4.561629,
@@ -24,31 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798375,
+        1108805861,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4I3fNdrUjVtwoEHTN8pHPV_51.924465_4.561629@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ee1d2a8505dd0e852f57571b87bc45c3",
+    "wof:geomhash":"8a37f3316b9e10fd416da9611b5ed074",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85798375,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805861,
+            "region_id":85687041,
+            "venue_id":286806207
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805861,
             "region_id":85687041,
             "venue_id":286806207
         }
     ],
     "wof:id":286806207,
-    "wof:lastmodified":1473879609,
+    "wof:lastmodified":1492475584,
     "wof:name":"O'Neill",
-    "wof:parent_id":85798375,
+    "wof:parent_id":1108805861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

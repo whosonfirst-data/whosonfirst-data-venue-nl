@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.849561,52.394234,4.849561,52.394234",
     "geom:latitude":52.394234,
     "geom:longitude":4.849561,
@@ -33,9 +34,12 @@
     "sg:website":"http://www.moritztuning.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803313,
+        1108802535,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_0k7FWVogvLRgcLauXKauJg_52.394234_4.849561@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b579ba005491c4b70e436f6b211ee71c",
+    "wof:geomhash":"3e0023cc947ee458ce6f4fd338452293",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803313,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":320092909
         }
     ],
     "wof:id":320092909,
-    "wof:lastmodified":1473878790,
+    "wof:lastmodified":1492482475,
     "wof:name":"Moritz Tuning",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

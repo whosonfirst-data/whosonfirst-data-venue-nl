@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.474048,51.926628,4.474048,51.926628",
     "geom:latitude":51.926628,
     "geom:longitude":4.474048,
@@ -25,39 +26,33 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859817,
+        102191581,
         85633337,
         101751843,
-        85687041,
-        85859837
+        1108804843,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uvNO5oeuiMhj12KuQQFos_51.926628_4.474048@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8262587eacd4035baa860698145911c8",
+    "wof:geomhash":"6664100adffe7fe7fc40f33b2fc2fef1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108804843,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
             "neighbourhood_id":85859817,
             "region_id":85687041,
             "venue_id":303690727
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751843,
-            "neighbourhood_id":85859837,
-            "region_id":85687041,
-            "venue_id":303690727
         }
     ],
     "wof:id":303690727,
-    "wof:lastmodified":1473879459,
+    "wof:lastmodified":1492473743,
     "wof:name":"Frame Grafisch En Ruimtelijk Ontwerp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

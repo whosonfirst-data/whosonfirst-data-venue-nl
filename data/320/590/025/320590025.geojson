@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.827279,52.362984,4.827279,52.362984",
     "geom:latitude":52.362984,
     "geom:longitude":4.827279,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108804121,
+        85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_7XvzRtcuZEGXyRB0fiJKDI_52.362984_4.827279@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"52a51a3b7f93a29d5d81dc4262ef75ca",
+    "wof:geomhash":"1a0abebd1bd9ff703742ad6501660d99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108804121,
+            "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":320590025
         }
     ],
     "wof:id":320590025,
-    "wof:lastmodified":1473879410,
+    "wof:lastmodified":1492483102,
     "wof:name":"Doygun",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108804121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

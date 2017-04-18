@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893166,52.355598,4.893166,52.355598",
     "geom:latitude":52.355598,
     "geom:longitude":4.893166,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803931,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7Lx1tSzV8GJ6erDizHE5bx_52.355598_4.893166@1306269992"
     },
     "wof:country":"NL",
-    "wof:geomhash":"347bc4ee94b3c8fb36d1a2125352815f",
+    "wof:geomhash":"5fac9579652ad6f1d4661700c99a5a8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803931,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":319911527
         }
     ],
     "wof:id":319911527,
-    "wof:lastmodified":1473878850,
+    "wof:lastmodified":1492479482,
     "wof:name":"De Pittenkoning",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

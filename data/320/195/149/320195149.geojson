@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.899104,52.347046,4.899104,52.347046",
     "geom:latitude":52.347046,
     "geom:longitude":4.899104,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803569,
+        1108802841,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_695FJx77wJSNNxKgPplIFz_52.347046_4.899104@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a0618b1f5428b8b737d4f419c1689a8d",
+    "wof:geomhash":"e01d320b6a5a373c1bef00a81b946a92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803569,
+            "neighbourhood_id":1108802841,
             "region_id":85687053,
             "venue_id":320195149
         }
     ],
     "wof:id":320195149,
-    "wof:lastmodified":1473879079,
+    "wof:lastmodified":1492484543,
     "wof:name":"Tritonus",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

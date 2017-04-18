@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.135333,52.060158,5.135333,52.060158",
     "geom:latitude":52.060158,
     "geom:longitude":5.135333,
@@ -34,8 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859943,
+        1108808797,
+        102191581,
+        1108832363,
         85633337,
+        101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -43,21 +48,23 @@
         "sg:id":"SG_2gsp5QkfRr9J10zC435gtM_52.060158_5.135333@1306269932"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4c762c53007359991ab63d85ddf6acc9",
+    "wof:geomhash":"8db2a8718406dd24af495be13f559f60",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859943,
+            "locality_id":101751827,
+            "macrohood_id":1108832363,
+            "neighbourhood_id":1108808797,
             "region_id":85687039,
             "venue_id":220089203
         }
     ],
     "wof:id":220089203,
-    "wof:lastmodified":1473878722,
+    "wof:lastmodified":1492481375,
     "wof:name":"Bisbis",
-    "wof:parent_id":85859943,
+    "wof:parent_id":1108808797,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

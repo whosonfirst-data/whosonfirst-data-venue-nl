@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.334769,52.061523,4.334769,52.061523",
     "geom:latitude":52.061523,
     "geom:longitude":4.334769,
@@ -24,31 +25,49 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798353,
+        1108808317,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GvWnm0JMLKK2xXmw3wLt0_52.061523_4.334769@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7271386f6be144c6d3b5aece01fb58ee",
+    "wof:geomhash":"6e7ef32aefdd8f1f8a490ecc3491f7f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808317,
+            "region_id":85687041,
+            "venue_id":185933265
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85798353,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808317,
             "region_id":85687041,
             "venue_id":185933265
         }
     ],
     "wof:id":185933265,
-    "wof:lastmodified":1473878925,
+    "wof:lastmodified":1492487449,
     "wof:name":"Pieter Bas Kinderopvang Dak",
-    "wof:parent_id":85798353,
+    "wof:parent_id":1108808317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

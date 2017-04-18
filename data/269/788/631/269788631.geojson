@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.867619,52.37014,4.867619,52.37014",
     "geom:latitude":52.37014,
     "geom:longitude":4.867619,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803197,
+        1108802849,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_1DR6NrzZqAyR99d2jsnVxF_52.370140_4.867619@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"973e0b4af7875694d9b3e34f57fa04c1",
+    "wof:geomhash":"76fa52afc7bddf8bb3a059b5a0ef5c76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803197,
+            "neighbourhood_id":1108802849,
             "region_id":85687053,
             "venue_id":269788631
         }
     ],
     "wof:id":269788631,
-    "wof:lastmodified":1473879477,
+    "wof:lastmodified":1492494999,
     "wof:name":"Snackbar Santana",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

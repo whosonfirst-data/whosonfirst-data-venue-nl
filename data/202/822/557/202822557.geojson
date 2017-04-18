@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.112448,52.116352,5.112448,52.116352",
     "geom:latitude":52.116352,
     "geom:longitude":5.112448,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808929,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6KDqjsKBYK9yEN8NdvuzDr_52.116352_5.112448@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c884afec0f2414db52c0877078c37b38",
+    "wof:geomhash":"779a3538748d34e67ac2e74425997f3c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808929,
             "region_id":85687039,
             "venue_id":202822557
         }
     ],
     "wof:id":202822557,
-    "wof:lastmodified":1473879331,
+    "wof:lastmodified":1492496990,
     "wof:name":"Catnip",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

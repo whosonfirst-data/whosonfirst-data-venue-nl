@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.855926,52.39357,4.855926,52.39357",
     "geom:latitude":52.39357,
     "geom:longitude":4.855926,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803313,
+        1108802535,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3F7Kfdq5AKwB6m25vvuBYp_52.393570_4.855926@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c4f956f8767f0ae40e3f6fd1b4cae128",
+    "wof:geomhash":"36ceeabb97ca1e4c784f50f93ada646b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803313,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":303692227
         }
     ],
     "wof:id":303692227,
-    "wof:lastmodified":1473879452,
+    "wof:lastmodified":1492471616,
     "wof:name":"Het Werkt",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

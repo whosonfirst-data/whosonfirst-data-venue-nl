@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3910288811,53.1612892151,6.3910288811,53.1612892151",
     "geom:latitude":53.161289,
     "geom:longitude":6.391029,
@@ -24,17 +25,32 @@
     "sg:province":"Groningen",
     "sg:website":"http://www.hansanders.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473721,
+        85633337,
+        101837999
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LbEOGbB9B0FkHdq2sQPhO_53.161289_6.391029@1306270008"
     },
     "wof:country":"NL",
     "wof:created":1473798979,
-    "wof:geomhash":"c3627d2e2edfdbb220d8a33b77e3c5e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62b5b15fd00fe3ac0bc20896478bf5c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473721,
+            "locality_id":101837999,
+            "region_id":85687059,
+            "venue_id":1075817113
+        }
+    ],
     "wof:id":1075817113,
-    "wof:lastmodified":1473879078,
+    "wof:lastmodified":1492486565,
     "wof:name":"Hans Anders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

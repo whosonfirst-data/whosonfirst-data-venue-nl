@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.106037,52.114845,5.106037,52.114845",
     "geom:latitude":52.114845,
     "geom:longitude":5.106037,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808895,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_19EtLRo3gA2jHfGnz1SgyC_52.114845_5.106037@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3b07d174004aff5da37531052707f6c5",
+    "wof:geomhash":"d01840640f1a5a5bbfee9a9fef5b1799",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808895,
             "region_id":85687039,
             "venue_id":186369649
         }
     ],
     "wof:id":186369649,
-    "wof:lastmodified":1473879348,
+    "wof:lastmodified":1492509172,
     "wof:name":"Districts Huisartsen Vereniging Utrecht",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

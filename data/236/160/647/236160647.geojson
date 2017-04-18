@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885228,52.327911,4.885228,52.327911",
     "geom:latitude":52.327911,
     "geom:longitude":4.885228,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804145,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2nUcGOZ5s1nMuKpyfjgiDA_52.327911_4.885228@1306269935"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8cd8fa3b03bc2085a772cfaabf2a5ad2",
+    "wof:geomhash":"04c6d0b7469a0408ef5a941118312d78",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804145,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":236160647
         }
     ],
     "wof:id":236160647,
-    "wof:lastmodified":1473878892,
+    "wof:lastmodified":1492494596,
     "wof:name":"Maxell Benelux Bv",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

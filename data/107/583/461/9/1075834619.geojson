@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.7225189209,52.6606254578,6.7225189209,52.6606254578",
     "geom:latitude":52.660625,
     "geom:longitude":6.722519,
@@ -24,17 +25,32 @@
     "sg:province":"Provincie Drenthe",
     "sg:website":"http://www.dijkstra-witgoed-service.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473807,
+        85633337,
+        101807741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6o97a7r16MKMSYD3soVlSV_52.660625_6.722519@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800036,
-    "wof:geomhash":"0bcc02eecff26b12963a2982d0e3bb76",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18d0c494e9ebc4b49af46ecd43c3ec9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473807,
+            "locality_id":101807741,
+            "region_id":85687051,
+            "venue_id":1075834619
+        }
+    ],
     "wof:id":1075834619,
-    "wof:lastmodified":1473879402,
+    "wof:lastmodified":1492485801,
     "wof:name":"Dijkstra Witgoed Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

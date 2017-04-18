@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9036197662,52.4074897766,4.9036197662,52.4074897766",
     "geom:latitude":52.40749,
     "geom:longitude":4.90362,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
+        1108804179,
         85798523,
+        102191581,
+        85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,19 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473803367,
-    "wof:geomhash":"59338475f3c12be93024c16401b31994",
+    "wof:geomhash":"abd472aaf0e6106f192f9966d0bf60fb",
     "wof:hierarchy":[
         {
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1108804179,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":1091609709
         }
     ],
     "wof:id":1091609709,
-    "wof:lastmodified":1473878975,
+    "wof:lastmodified":1492512505,
     "wof:name":"Bakker Papiergroothandel Bv",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108804179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

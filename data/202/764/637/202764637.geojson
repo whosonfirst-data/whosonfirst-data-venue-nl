@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.299178,52.110233,4.299178,52.110233",
     "geom:latitude":52.110233,
     "geom:longitude":4.299178,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808139,
+        102191581,
+        1108808075,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_41Rwcc4LtaFCBvaoyTTO1A_52.110233_4.299178@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2737be7ae9a289d481df8ae06f468884",
+    "wof:geomhash":"41b63c99629b21ed999c5c7ac10520b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108808075,
+            "neighbourhood_id":1108808139,
             "region_id":85687041,
             "venue_id":202764637
         }
     ],
     "wof:id":202764637,
-    "wof:lastmodified":1473879192,
+    "wof:lastmodified":1492497077,
     "wof:name":"Buro Vd Scheer Vertaalbureau",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2743601799,52.3830299377,5.2743601799,52.3830299377",
     "geom:latitude":52.38303,
     "geom:longitude":5.27436,
@@ -24,17 +25,32 @@
     "sg:province":"Flevoland",
     "sg:website":"http://www.okapisoft.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101751875
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yYEl6ukZBSMllqIm42gbK_52.383030_5.274360@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800746,
-    "wof:geomhash":"9dffff19a651aaa69e32af670f275498",
-    "wof:hierarchy":[],
+    "wof:geomhash":"466dbd78a87e2be139d5dd1f9574d7fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101751875,
+            "region_id":85687049,
+            "venue_id":1091574283
+        }
+    ],
     "wof:id":1091574283,
-    "wof:lastmodified":1473878771,
+    "wof:lastmodified":1492511036,
     "wof:name":"Okapisoft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.888593,52.369564,4.888593,52.369564",
     "geom:latitude":52.369564,
     "geom:longitude":4.888593,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.krasevents.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803247,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_63fnvSTEh8JEyGL25O2icZ_52.369564_4.888593@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3072a1723f0d3a9a1b68e90acc32ae24",
+    "wof:geomhash":"f094fc9ca579f11902d7f6e25fff536b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803247,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":304076255
         }
     ],
     "wof:id":304076255,
-    "wof:lastmodified":1473878803,
+    "wof:lastmodified":1492504528,
     "wof:name":"Krasnapolsky Events",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

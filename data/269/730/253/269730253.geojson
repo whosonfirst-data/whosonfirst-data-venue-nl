@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.472106,51.944736,4.472106,51.944736",
     "geom:latitude":51.944736,
     "geom:longitude":4.472106,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859841,
+        102542781,
+        1108805865,
+        102191581,
         85633337,
-        101753095,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_4AHXH8FMf3l11def5Dmv76_51.944736_4.472106@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1defd06b310126db2972338059ea1eba",
+    "wof:geomhash":"9c4e406e83eff4702f52c0c9fa862173",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "campus_id":102542781,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859841,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805865,
             "region_id":85687041,
             "venue_id":269730253
         }
     ],
     "wof:id":269730253,
-    "wof:lastmodified":1473879348,
+    "wof:lastmodified":1492495355,
     "wof:name":"A Koppendrayer & Zoon",
-    "wof:parent_id":85859841,
+    "wof:parent_id":102542781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

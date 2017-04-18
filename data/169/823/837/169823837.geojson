@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.924349,52.343521,4.924349,52.343521",
     "geom:latitude":52.343521,
     "geom:longitude":4.924349,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803657,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0zVheCjj36wwxd4zPOkxEq_52.343521_4.924349@1306269906"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e4367f910a66850c360f8f61d29942ef",
+    "wof:geomhash":"f15d7996cdb9ef74f41157b4634a5304",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803657,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":169823837
         }
     ],
     "wof:id":169823837,
-    "wof:lastmodified":1473878816,
+    "wof:lastmodified":1492478669,
     "wof:name":"R Van Geemen",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

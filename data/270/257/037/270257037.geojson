@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881129,52.367397,4.881129,52.367397",
     "geom:latitude":52.367397,
     "geom:longitude":4.881129,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803925,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2ws6Xix3WVwXWpvhLl5nmt_52.367397_4.881129@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1a8642b36614c1102977c485a1c826f9",
+    "wof:geomhash":"61a2346b2fe36978025541cae1326d97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803925,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":270257037
         }
     ],
     "wof:id":270257037,
-    "wof:lastmodified":1473878962,
+    "wof:lastmodified":1492500695,
     "wof:name":"Studio Charles Van Gelder",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

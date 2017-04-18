@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.548306,51.946728,4.548306,51.946728",
     "geom:latitude":51.946728,
     "geom:longitude":4.548306,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        85797053,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Dp2nCKz0fbVOYnnQjjMVv_51.946728_4.548306@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6ea6fecdf434c150fd8aebd2b3e83d1c",
+    "wof:geomhash":"077a40a13d8d29aab6693cdf1fc42eba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797053,
+            "region_id":85687041,
+            "venue_id":253278457
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "neighbourhood_id":85797053,
             "region_id":85687041,
             "venue_id":253278457
         }
     ],
     "wof:id":253278457,
-    "wof:lastmodified":1473879315,
+    "wof:lastmodified":1492489848,
     "wof:name":"Goldwave Internat Import & Export Agenci",
-    "wof:parent_id":85798329,
+    "wof:parent_id":85797053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4229297638,52.1119766235,5.4229297638,52.1119766235",
     "geom:latitude":52.111977,
     "geom:longitude":5.42293,
@@ -24,17 +25,30 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.umefa.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404473989,
+        85633337,
+        85687039
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2C35FwAwiVpLBTfSK7kece_52.111977_5.422930@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473803007,
-    "wof:geomhash":"493eb5b6963229a06299c4ecdc84ba05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b25be53a03ebc1383d120262608bb65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473989,
+            "region_id":85687039,
+            "venue_id":1091605481
+        }
+    ],
     "wof:id":1091605481,
-    "wof:lastmodified":1473878734,
+    "wof:lastmodified":1492512988,
     "wof:name":"Umefa Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

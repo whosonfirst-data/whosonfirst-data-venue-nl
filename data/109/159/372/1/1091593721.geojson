@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8432087898,52.6500053406,4.8432087898,52.6500053406",
     "geom:latitude":52.650005,
     "geom:longitude":4.843209,
@@ -24,17 +25,30 @@
     "sg:province":"North Holland",
     "sg:website":"http://www.kopas.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474075,
+        85633337,
+        85687053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14jUFRZOy60U4umUgj1AQF_52.650005_4.843209@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802140,
-    "wof:geomhash":"88d89674bbcbb9346c9210377311ae8f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd721323633e738d9ae7496e6e5abf71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474075,
+            "region_id":85687053,
+            "venue_id":1091593721
+        }
+    ],
     "wof:id":1091593721,
-    "wof:lastmodified":1473878684,
+    "wof:lastmodified":1492509558,
     "wof:name":"Kopas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

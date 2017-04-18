@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6132531166,52.3673553467,6.6132531166,52.3673553467",
     "geom:latitude":52.367355,
     "geom:longitude":6.613253,
@@ -24,17 +25,32 @@
     "sg:province":"NL.08",
     "sg:website":"http://www.xflow.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473819,
+        85633337,
+        101754769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09IvPcEvadlhSVrpSsCXej_52.367355_6.613253@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800399,
-    "wof:geomhash":"bd1aff9a67a3482137db7fb2ba2cf9ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"325417c71862d30e0e4cac07fb3b71a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473819,
+            "locality_id":101754769,
+            "region_id":85687045,
+            "venue_id":1091569007
+        }
+    ],
     "wof:id":1091569007,
-    "wof:lastmodified":1473878557,
+    "wof:lastmodified":1492510901,
     "wof:name":"X-Flow Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

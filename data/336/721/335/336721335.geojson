@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.825134,52.359577,4.825134,52.359577",
     "geom:latitude":52.359577,
     "geom:longitude":4.825134,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803877,
+        85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_4z8ZvsxXOSjo8uL9PfyWWg_52.359577_4.825134@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b68281f6585a2c9cf5a610090478b870",
+    "wof:geomhash":"8d1199c794868ea4f2580fda002f7214",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803877,
+            "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":336721335
         }
     ],
     "wof:id":336721335,
-    "wof:lastmodified":1473878423,
+    "wof:lastmodified":1492506513,
     "wof:name":"R.C. Franken",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

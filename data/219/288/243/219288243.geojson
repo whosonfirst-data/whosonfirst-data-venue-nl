@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.253343,52.056034,4.253343,52.056034",
     "geom:latitude":52.056034,
     "geom:longitude":4.253343,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859591,
+        85859571,
+        102191581,
+        1108805971,
         85633337,
         101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7UJob2OejqCRVanYG7UaFU_52.056034_4.253343@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c7e895438398f0d294264c4a62cfee78",
+    "wof:geomhash":"b8f0a1b84fb46e8ac325ca2dae65d3d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859591,
+            "macrohood_id":1108805971,
+            "neighbourhood_id":85859571,
             "region_id":85687041,
             "venue_id":219288243
         }
     ],
     "wof:id":219288243,
-    "wof:lastmodified":1473878845,
+    "wof:lastmodified":1492502560,
     "wof:name":"Boogert & Kamps, Van Den",
-    "wof:parent_id":85859591,
+    "wof:parent_id":85859571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

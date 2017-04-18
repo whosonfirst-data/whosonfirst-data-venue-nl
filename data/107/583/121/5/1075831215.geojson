@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5568141937,51.9436988831,4.5568141937,51.9436988831",
     "geom:latitude":51.943699,
     "geom:longitude":4.556814,
@@ -24,12 +25,14 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        85798177,
         102191581,
-        404474163,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,22 +40,32 @@
     },
     "wof:country":"NL",
     "wof:created":1473799858,
-    "wof:geomhash":"91a32cfe996ec96619673d13e5c44cfa",
+    "wof:geomhash":"e7749c17aa2e1c1e4b4aff25ba3a4b3c",
     "wof:hierarchy":[
         {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":1075831215
+        },
+        {
+            "borough_id":1108805725,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "neighbourhood_id":85798177,
             "region_id":85687041,
             "venue_id":1075831215
         }
     ],
     "wof:id":1075831215,
-    "wof:lastmodified":1473879275,
+    "wof:lastmodified":1492485750,
     "wof:name":"Wijkcentrum Orient",
-    "wof:parent_id":85798329,
+    "wof:parent_id":85798177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

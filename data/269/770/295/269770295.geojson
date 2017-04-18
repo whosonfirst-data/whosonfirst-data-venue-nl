@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88959,52.350273,4.88959,52.350273",
     "geom:latitude":52.350273,
     "geom:longitude":4.88959,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803817,
+        1108802865,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_7Qt1wFeUJOQW86RbiI0sCl_52.350273_4.889590@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"24ccf30d98ced6400ae44550ff1edf29",
+    "wof:geomhash":"4e332ae6c342b1275d0d0b7e52604a16",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803817,
+            "neighbourhood_id":1108802865,
             "region_id":85687053,
             "venue_id":269770295
         }
     ],
     "wof:id":269770295,
-    "wof:lastmodified":1473879408,
+    "wof:lastmodified":1492495185,
     "wof:name":"Miga",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.356792,52.049316,4.356792,52.049316",
     "geom:latitude":52.049316,
     "geom:longitude":4.356792,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.citee.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798255,
+        1108808335,
+        102191581,
+        1108808097,
         85633337,
-        101754709,
+        101752763,
+        1108808047,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_5b6QhzPDvMFEWM0cvFUJri_52.049316_4.356792@1306269928"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cddc7b697f7f48e6113463f16e32f1bc",
+    "wof:geomhash":"77854f0402c8687d71ee1f136db36c46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808047,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754709,
-            "neighbourhood_id":85798255,
+            "locality_id":101752763,
+            "macrohood_id":1108808097,
+            "neighbourhood_id":1108808335,
             "region_id":85687041,
             "venue_id":219711085
         }
     ],
     "wof:id":219711085,
-    "wof:lastmodified":1473879643,
+    "wof:lastmodified":1492503935,
     "wof:name":"Citee Bv",
-    "wof:parent_id":85798255,
+    "wof:parent_id":1108808335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

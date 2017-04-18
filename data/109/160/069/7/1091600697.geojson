@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3633570671,52.8377685547,6.3633570671,52.8377685547",
     "geom:latitude":52.837769,
     "geom:longitude":6.363357,
@@ -24,17 +25,32 @@
     "sg:province":"Provincie Drenthe",
     "sg:website":"http://www.woonoase.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474613,
+        85633337,
+        101807291
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lOLp3OZTI2qcGrPmpkFY0_52.837769_6.363357@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802558,
-    "wof:geomhash":"c53ce4ce43b8b51e819d3f174b624dd7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbc20de0cb07d5fcf6afa848146fc64b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474613,
+            "locality_id":101807291,
+            "region_id":85687051,
+            "venue_id":1091600697
+        }
+    ],
     "wof:id":1091600697,
-    "wof:lastmodified":1473878509,
+    "wof:lastmodified":1492512772,
     "wof:name":"Wiechers Woonoase",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

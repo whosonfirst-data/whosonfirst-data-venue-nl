@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.926819,52.355309,4.926819,52.355309",
     "geom:latitude":52.355309,
     "geom:longitude":4.926819,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803941,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -45,21 +50,24 @@
         "sg:id":"SG_3toOgYNVz26p53HzgtBSlx_52.355309_4.926819@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2a8403f947021343ce4704888777da36",
+    "wof:geomhash":"f9e5ccbba7811caffae54499da0e662f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":319854953
         }
     ],
     "wof:id":319854953,
-    "wof:lastmodified":1473878733,
+    "wof:lastmodified":1492479536,
     "wof:name":"Andr?",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

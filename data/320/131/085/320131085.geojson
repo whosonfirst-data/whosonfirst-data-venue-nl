@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.900718,52.404221,4.900718,52.404221",
     "geom:latitude":52.404221,
     "geom:longitude":4.900718,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803309,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_3e6X8fs6s6lBkNY4YsDPHf_52.404221_4.900718@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"56a2f3ba09a49f41b38082caacaf6146",
+    "wof:geomhash":"f3f5708cafdb61d50c55ce9fa7f776f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803309,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":320131085
         }
     ],
     "wof:id":320131085,
-    "wof:lastmodified":1473878932,
+    "wof:lastmodified":1492483458,
     "wof:name":"Reben",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

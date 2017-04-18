@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6872901917,52.3087081909,4.6872901917,52.3087081909",
     "geom:latitude":52.308708,
     "geom:longitude":4.68729,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.fysio.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474065,
+        85633337,
+        101751899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JrvHdwi3yOqXuss75Xb9f_52.308708_4.687290@1306270014"
     },
     "wof:country":"NL",
     "wof:created":1473801998,
-    "wof:geomhash":"3c849b7dcfdd8f72cee4a5e26536fa08",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc8745cef40006e430ec626631ce79e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474065,
+            "locality_id":101751899,
+            "region_id":85687053,
+            "venue_id":1091591009
+        }
+    ],
     "wof:id":1091591009,
-    "wof:lastmodified":1473878525,
+    "wof:lastmodified":1492509560,
     "wof:name":"Fysion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

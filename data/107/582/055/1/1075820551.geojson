@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2460279465,52.0670318604,4.2460279465,52.0670318604",
     "geom:latitude":52.067032,
     "geom:longitude":4.246028,
@@ -24,13 +25,13 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        85797143,
-        85687041,
-        85797811,
+        1108808203,
         102191581,
-        404474179,
-        101752763
+        1108805977,
+        85633337,
+        101752763,
+        1108808039,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,28 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473799145,
-    "wof:geomhash":"2d922d16f962a48e7039b07765d3ad23",
+    "wof:geomhash":"55b7220548d84183b153b9e206e91e0d",
     "wof:hierarchy":[
         {
-            "country_id":85633337,
-            "neighbourhood_id":85797143,
-            "region_id":85687041,
-            "venue_id":1075820551
-        },
-        {
+            "borough_id":1108808039,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474179,
             "locality_id":101752763,
-            "neighbourhood_id":85797811,
+            "macrohood_id":1108805977,
+            "neighbourhood_id":1108808203,
             "region_id":85687041,
             "venue_id":1075820551
         }
     ],
     "wof:id":1075820551,
-    "wof:lastmodified":1473879223,
+    "wof:lastmodified":1492487001,
     "wof:name":"Van Erkelens Optiek",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108808203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

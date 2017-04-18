@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.906417,52.358383,4.906417,52.358383",
     "geom:latitude":52.358383,
     "geom:longitude":4.906417,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803889,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0ZYxSp8TtkFyrZKPiSRV7l_52.358383_4.906417@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1c344cc01eabb3f82ede626828e5684b",
+    "wof:geomhash":"27141a3ea9086be0524351ef3437d757",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803889,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":236387443
         }
     ],
     "wof:id":236387443,
-    "wof:lastmodified":1473879236,
+    "wof:lastmodified":1492492267,
     "wof:name":"P Olivier",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

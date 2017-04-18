@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.830667,52.357357,4.830667,52.357357",
     "geom:latitude":52.357357,
     "geom:longitude":4.830667,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803769,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4diU7DXmmjfE3o5b3JwO8I_52.357357_4.830667@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2ba7dbf2c25c1cdf3e7ab2ccd1849ee7",
+    "wof:geomhash":"af2d8223883fb54c2b25a68a2e9b7899",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803769,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":253493427
         }
     ],
     "wof:id":253493427,
-    "wof:lastmodified":1473879667,
+    "wof:lastmodified":1492488350,
     "wof:name":"Isis",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

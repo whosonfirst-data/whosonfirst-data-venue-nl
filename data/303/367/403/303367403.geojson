@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.494788,51.957085,4.494788,51.957085",
     "geom:latitude":51.957085,
     "geom:longitude":4.494788,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797707,
+        1108805791,
+        102191581,
+        1108805981,
         85633337,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6nboPkTfSrU0YgHNACJFwd_51.957085_4.494788@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d88d2dff28bd10ee549cc5013972b4a4",
+    "wof:geomhash":"1e6d2f21553e0de7007f84592f7049fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797707,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805791,
             "region_id":85687041,
             "venue_id":303367403
         }
     ],
     "wof:id":303367403,
-    "wof:lastmodified":1473879154,
+    "wof:lastmodified":1492472993,
     "wof:name":"Schudo",
-    "wof:parent_id":85797707,
+    "wof:parent_id":1108805791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

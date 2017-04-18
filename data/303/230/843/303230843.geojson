@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.822013,52.361683,4.822013,52.361683",
     "geom:latitude":52.361683,
     "geom:longitude":4.822013,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803877,
+        85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1h5JSF1kpaEodn5Nqci4YJ_52.361683_4.822013@1306269981"
     },
     "wof:country":"NL",
-    "wof:geomhash":"195293aff5ca954e332cf5484379f191",
+    "wof:geomhash":"646c1b19db1f00fab75d5df24e0dca04",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803877,
+            "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":303230843
         }
     ],
     "wof:id":303230843,
-    "wof:lastmodified":1473878939,
+    "wof:lastmodified":1492471957,
     "wof:name":"Ede, H K Van",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

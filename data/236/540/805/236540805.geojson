@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.30781,52.060638,4.30781,52.060638",
     "geom:latitude":52.060638,
     "geom:longitude":4.30781,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859615,
+        1108808303,
+        102191581,
+        1108808093,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1AmifTh0LtoH7OieJQR02o_52.060638_4.307810@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a9ec4ab700f3fcca46efaa7df555fb96",
+    "wof:geomhash":"98e66b790a20b112c2114d5b550a7dd3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108808093,
+            "neighbourhood_id":1108808303,
             "region_id":85687041,
             "venue_id":236540805
         }
     ],
     "wof:id":236540805,
-    "wof:lastmodified":1473879405,
+    "wof:lastmodified":1492492151,
     "wof:name":"All-Round Car Service",
-    "wof:parent_id":85859615,
+    "wof:parent_id":1108808303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

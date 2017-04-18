@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.83144,52.361385,4.83144,52.361385",
     "geom:latitude":52.361385,
     "geom:longitude":4.83144,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804121,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7AAHYxpEMgmuZNp0WPEQnf_52.361385_4.831440@1306269914"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f8293d5c21abab0c9d8cd79ad8446d8d",
+    "wof:geomhash":"2f0ed5f267fb52dc35173b7267417574",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804121,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":186582373
         }
     ],
     "wof:id":186582373,
-    "wof:lastmodified":1473879604,
+    "wof:lastmodified":1492508745,
     "wof:name":"Geeltje, Het",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

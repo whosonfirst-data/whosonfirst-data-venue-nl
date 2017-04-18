@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.961463,52.390888,4.961463,52.390888",
     "geom:latitude":52.390888,
     "geom:longitude":4.961463,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.bizonder.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108804083,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_0EwhDk8PGgO2o7jguwVmKS_52.390888_4.961463@1306269924"
     },
     "wof:country":"NL",
-    "wof:geomhash":"86a9ecac6e05aac8f3a81f5edd9ce1b9",
+    "wof:geomhash":"f4ff416d3b3557c15ef2b35d9b347a97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804083,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":219177075
         }
     ],
     "wof:id":219177075,
-    "wof:lastmodified":1473878575,
+    "wof:lastmodified":1492502611,
     "wof:name":"Bizonder By Bianca Wiedijk",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108804083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

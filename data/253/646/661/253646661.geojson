@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877667,52.368965,4.877667,52.368965",
     "geom:latitude":52.368965,
     "geom:longitude":4.877667,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.clavis.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803235,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_4Sjwrmar4ly71Q9FFUnvDe_52.368965_4.877667@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f9f049415431bf87f099c0563d253ce7",
+    "wof:geomhash":"29e53c24e8649421e3f5dd9df52c95df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803235,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":253646661
         }
     ],
     "wof:id":253646661,
-    "wof:lastmodified":1473879714,
+    "wof:lastmodified":1492490338,
     "wof:name":"Clavis Pianoservice Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803235,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

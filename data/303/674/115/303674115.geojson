@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.333172,52.060715,4.333172,52.060715",
     "geom:latitude":52.060715,
     "geom:longitude":4.333172,
@@ -24,31 +25,49 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808317,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XVamvkfmLLZbmlE870mBN_52.060715_4.333172@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f1694ee9c4a9b7d2d018dc7fc315f847",
+    "wof:geomhash":"7b5166606643a357556fbc9141876d17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808317,
+            "region_id":85687041,
+            "venue_id":303674115
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808317,
             "region_id":85687041,
             "venue_id":303674115
         }
     ],
     "wof:id":303674115,
-    "wof:lastmodified":1473879435,
+    "wof:lastmodified":1492471145,
     "wof:name":"3= 1Studio",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

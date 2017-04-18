@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880423,52.353313,4.880423,52.353313",
     "geom:latitude":52.353313,
     "geom:longitude":4.880423,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803547,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_79nYq2XukS7kZbASmAyzw9_52.353313_4.880423@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"017a8d4dcb342c1fcf92f3af63dbaa35",
+    "wof:geomhash":"e2a683801acb45a1705d8a8b20b69210",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803547,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":320101473
         }
     ],
     "wof:id":320101473,
-    "wof:lastmodified":1473878809,
+    "wof:lastmodified":1492482162,
     "wof:name":"Rens",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

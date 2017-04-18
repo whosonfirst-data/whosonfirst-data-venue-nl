@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.946242,52.390129,4.946242,52.390129",
     "geom:latitude":52.390129,
     "geom:longitude":4.946242,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108804127,
+        1108802927,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7QPvCecOkz0LmUrp7wY1b5_52.390129_4.946242@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4e9a58f2716b256ffee868e560978ffb",
+    "wof:geomhash":"42a3c4feb03b539868c2c978021e345f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804127,
+            "neighbourhood_id":1108802927,
             "region_id":85687053,
             "venue_id":320863603
         }
     ],
     "wof:id":320863603,
-    "wof:lastmodified":1473879643,
+    "wof:lastmodified":1492484419,
     "wof:name":"Akkermans Juwelier Vof",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108804127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

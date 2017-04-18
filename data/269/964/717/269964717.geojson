@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.874294,52.357197,4.874294,52.357197",
     "geom:latitude":52.357197,
     "geom:longitude":4.874294,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803475,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7fwT8vPtrpajwbnfLTOOmU_52.357197_4.874294@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e00daf3b0a33de765689584872643cfd",
+    "wof:geomhash":"c7fc4dccae634557c4b4a87f4571fab3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803475,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":269964717
         }
     ],
     "wof:id":269964717,
-    "wof:lastmodified":1473879590,
+    "wof:lastmodified":1492495162,
     "wof:name":"Condor Post Production",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

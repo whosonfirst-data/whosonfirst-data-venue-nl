@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5936470032,52.2171897888,4.5936470032,52.2171897888",
     "geom:latitude":52.21719,
     "geom:longitude":4.593647,
@@ -24,17 +25,30 @@
     "sg:province":"North Holland",
     "sg:website":"http://www.stapprojects.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474065,
+        85633337,
+        85687053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TSIixdunT8uDOYVP1QyGA_52.217190_4.593647@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800811,
-    "wof:geomhash":"169ba1a04f267bdac1b09ae038999742",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b44f222aaed4f75e69be6c184a6b1ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474065,
+            "region_id":85687053,
+            "venue_id":1091575181
+        }
+    ],
     "wof:id":1091575181,
-    "wof:lastmodified":1473878852,
+    "wof:lastmodified":1492511295,
     "wof:name":"Stap Projects",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

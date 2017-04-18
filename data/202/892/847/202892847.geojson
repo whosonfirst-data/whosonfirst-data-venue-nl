@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.830168,52.390362,4.830168,52.390362",
     "geom:latitude":52.390362,
     "geom:longitude":4.830168,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.actiefverzekeringen.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108803607,
+        1108802535,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_6HrNsfMkWNXx4hSWxp86gY_52.390362_4.830168@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"274e8961ed1595a36d17a0a5d3993a93",
+    "wof:geomhash":"46a43571e942c788d07b7f48a6c94101",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "microhood_id":1108803607,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":202892847
         }
     ],
     "wof:id":202892847,
-    "wof:lastmodified":1473879393,
+    "wof:lastmodified":1492497704,
     "wof:name":"Actief Adviesgroep & Verzekeringen",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108803607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.550903,51.956406,4.550903,51.956406",
     "geom:latitude":51.956406,
     "geom:longitude":4.550903,
@@ -26,20 +27,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qmLNzT8Et6NvANdUGmOZy_51.956406_4.550903@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"10d35f35b5d126c8b99b8cb5ca1cb197",
+    "wof:geomhash":"35a45392e8edc46a7e5f1b14ff9a857c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":286431769
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798149,
             "region_id":85687041,
@@ -47,7 +63,7 @@
         }
     ],
     "wof:id":286431769,
-    "wof:lastmodified":1473878998,
+    "wof:lastmodified":1492475929,
     "wof:name":"Holtgrefe",
     "wof:parent_id":85798149,
     "wof:placetype":"venue",

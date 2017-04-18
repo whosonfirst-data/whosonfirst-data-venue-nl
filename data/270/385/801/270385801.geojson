@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.274477,52.09058,4.274477,52.09058",
     "geom:latitude":52.09058,
     "geom:longitude":4.274477,
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798455,
+        102191581,
+        1108808089,
         85633337,
         101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -34,19 +38,21 @@
         "sg:id":"SG_6Uj8J0ZjkRaIzYijfRJ1KE_52.090580_4.274477@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"71defcb2da5373109d2b9871c7e459c0",
+    "wof:geomhash":"bb6184b423fdb5f536656ac475360223",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808089,
             "neighbourhood_id":85798455,
             "region_id":85687041,
             "venue_id":270385801
         }
     ],
     "wof:id":270385801,
-    "wof:lastmodified":1473879188,
+    "wof:lastmodified":1492500335,
     "wof:name":"Rabobank",
     "wof:parent_id":85798455,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.260447,52.041698,4.260447,52.041698",
     "geom:latitude":52.041698,
     "geom:longitude":4.260447,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859581,
+        1108808281,
+        102191581,
+        1108808029,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6Wq33uqJjDxULgRP8LLEdB_52.041698_4.260447@1306269974"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d5248e0f18bafbfafc3be152add463b3",
+    "wof:geomhash":"20e99917f74e12047dcf97f51569ffdb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859581,
+            "macrohood_id":1108808029,
+            "neighbourhood_id":1108808281,
             "region_id":85687041,
             "venue_id":286887301
         }
     ],
     "wof:id":286887301,
-    "wof:lastmodified":1473879675,
+    "wof:lastmodified":1492476792,
     "wof:name":"Congres Flora",
-    "wof:parent_id":85859581,
+    "wof:parent_id":1108808281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

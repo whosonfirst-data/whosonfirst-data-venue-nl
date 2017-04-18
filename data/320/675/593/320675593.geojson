@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.953139,52.298054,4.953139,52.298054",
     "geom:latitude":52.298054,
     "geom:longitude":4.953139,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803937,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_13zGZsi3SVeoFjEJCncaet_52.298054_4.953139@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"eecb5ecc0115fb707f7a0d5a50582500",
+    "wof:geomhash":"f1e70b985085108664d218a9afcf66e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803937,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":320675593
         }
     ],
     "wof:id":320675593,
-    "wof:lastmodified":1473879472,
+    "wof:lastmodified":1492482648,
     "wof:name":"Visio Regionale Instelling Noord Holland",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

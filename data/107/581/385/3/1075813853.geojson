@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4543180466,51.8891944885,4.4543180466,51.8891944885",
     "geom:latitude":51.889194,
     "geom:longitude":4.454318,
@@ -33,13 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797257,
+        1108805879,
         102191581,
-        404474245,
         85633337,
         101751843,
-        85687041,
-        85859781
+        1108805731,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,31 +47,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473798849,
-    "wof:geomhash":"9bb5ba046c53ea3999bba714ce9090df",
+    "wof:geomhash":"a062fcfa4e3343ffd63124834132d3a7",
     "wof:hierarchy":[
         {
+            "borough_id":1108805731,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474245,
             "locality_id":101751843,
-            "neighbourhood_id":85797257,
-            "region_id":85687041,
-            "venue_id":1075813853
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474245,
-            "locality_id":101751843,
-            "neighbourhood_id":85859781,
+            "neighbourhood_id":1108805879,
             "region_id":85687041,
             "venue_id":1075813853
         }
     ],
     "wof:id":1075813853,
-    "wof:lastmodified":1473878947,
+    "wof:lastmodified":1492486384,
     "wof:name":"Dijfo Warehousing Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108805879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

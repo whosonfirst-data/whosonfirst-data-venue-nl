@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.938999,52.30125,4.938999,52.30125",
     "geom:latitude":52.30125,
     "geom:longitude":4.938999,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.karnekamp.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797113,
+        1108803575,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_5OCD9TWSKgWIn7WtXlh0Xh_52.301250_4.938999@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5c05beed3224ebb7930dfe95af5ee940",
+    "wof:geomhash":"35fba2204c6b2d2f01f5d466e48bda2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797113,
+            "locality_id":101751893,
+            "microhood_id":1108803575,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":236870175
         }
     ],
     "wof:id":236870175,
-    "wof:lastmodified":1473879560,
+    "wof:lastmodified":1492491429,
     "wof:name":"Karnekamp Bv",
-    "wof:parent_id":85797113,
+    "wof:parent_id":1108803575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

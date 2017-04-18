@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.869893,52.324493,4.869893,52.324493",
     "geom:latitude":52.324493,
     "geom:longitude":4.869893,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803497,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6QTftN27OIchbVZ3xSW0Gt_52.324493_4.869893@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2cc8c8948d21ffec18a37b68c0814460",
+    "wof:geomhash":"846865e1c41e4ba2c8a59e31106b4630",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803497,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":203199253
         }
     ],
     "wof:id":203199253,
-    "wof:lastmodified":1473879094,
+    "wof:lastmodified":1492481023,
     "wof:name":"Vischjager Assurantie Groep Bv",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

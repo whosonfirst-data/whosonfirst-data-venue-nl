@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.085284,52.12775,5.085284,52.12775",
     "geom:latitude":52.12775,
     "geom:longitude":5.085284,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808701,
+        102191581,
+        1108832365,
         85633337,
         101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_1OuBbiqbhPsY97qMUK3D0n_52.127750_5.085284@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8af45ce7427344fbf3ad2e380f65d809",
+    "wof:geomhash":"b5a60d2adbc94db7a0eb5fa6f49f2929",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808701,
             "region_id":85687039,
             "venue_id":320052855
         }
     ],
     "wof:id":320052855,
-    "wof:lastmodified":1473878604,
+    "wof:lastmodified":1492483472,
     "wof:name":"Aktas",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

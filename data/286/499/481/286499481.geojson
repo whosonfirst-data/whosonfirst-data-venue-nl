@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.34848,51.868237,4.34848,51.868237",
     "geom:latitude":51.868237,
     "geom:longitude":4.34848,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.newdawnsociety.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798679,
+        1108806015,
+        1108805795,
+        102191581,
         85633337,
-        101760475,
+        101751843,
+        1108805727,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_60ADDXQpjrPwJ7QUCTT7Ug_51.868237_4.348480@1306269970"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1294c6fb0509485913478e535128662e",
+    "wof:geomhash":"182c6ca95a3db7aa5f70d131f35f1aca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805727,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101760475,
-            "neighbourhood_id":85798679,
+            "locality_id":101751843,
+            "microhood_id":1108806015,
+            "neighbourhood_id":1108805795,
             "region_id":85687041,
             "venue_id":286499481
         }
     ],
     "wof:id":286499481,
-    "wof:lastmodified":1473879169,
+    "wof:lastmodified":1492477110,
     "wof:name":"Newdawnsociety",
-    "wof:parent_id":85798679,
+    "wof:parent_id":1108806015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

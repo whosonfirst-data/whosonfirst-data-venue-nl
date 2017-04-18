@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.131552,51.981651,4.131552,51.981651",
     "geom:latitude":51.981651,
     "geom:longitude":4.131552,
@@ -24,8 +25,11 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85797461,
+        102191581,
         85633337,
-        101808077,
+        101751843,
+        1108805729,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +37,22 @@
         "sg:id":"SG_5ahDoVOSuaT8n4q3s3Tqek_51.981651_4.131552@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"700bd2d817d9ef35c99f3ce7cf68d2af",
+    "wof:geomhash":"d4d0373811917d0eeb27def62ba57c00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805729,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101808077,
-            "neighbourhood_id":-1,
+            "locality_id":101751843,
+            "neighbourhood_id":85797461,
             "region_id":85687041,
             "venue_id":236406405
         }
     ],
     "wof:id":236406405,
-    "wof:lastmodified":1473879250,
+    "wof:lastmodified":1492492289,
     "wof:name":"Tiritomba",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

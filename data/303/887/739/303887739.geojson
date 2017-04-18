@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893326,52.374409,4.893326,52.374409",
     "geom:latitude":52.374409,
     "geom:longitude":4.893326,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803257,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7Ox9SNJgwZwQCnzveNlYRZ_52.374409_4.893326@1306269988"
     },
     "wof:country":"NL",
-    "wof:geomhash":"58b37dfda766ee446268caaef06c0fbb",
+    "wof:geomhash":"10a7eb087a20db7fb290da8a03473e4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803257,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":303887739
         }
     ],
     "wof:id":303887739,
-    "wof:lastmodified":1473879658,
+    "wof:lastmodified":1492472769,
     "wof:name":"Ford Hat, The",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

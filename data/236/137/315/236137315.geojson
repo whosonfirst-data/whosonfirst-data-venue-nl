@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.892554,52.348595,4.892554,52.348595",
     "geom:latitude":52.348595,
     "geom:longitude":4.892554,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.skytours.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804099,
+        1108802865,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_4Us0oOEl42QrBKwFYIruRI_52.348595_4.892554@1306269935"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d5566cfa6a088691594278d478408237",
+    "wof:geomhash":"8893495247dfa2045d0f31836dd9a9c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108804099,
+            "neighbourhood_id":1108802865,
             "region_id":85687053,
             "venue_id":236137315
         }
     ],
     "wof:id":236137315,
-    "wof:lastmodified":1473878820,
+    "wof:lastmodified":1492492437,
     "wof:name":"Sky",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7998762131,52.4291000366,4.7998762131,52.4291000366",
     "geom:latitude":52.4291,
     "geom:longitude":4.799876,
@@ -24,9 +25,11 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687053,
+        102191581,
+        404474143,
         85633337,
-        85798675,
-        85687053
+        101754839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473801315,
-    "wof:geomhash":"b654e77db3720c16af77e7b56a4a2cf8",
+    "wof:geomhash":"fcfba0e9b217a229ed2aaefa92fa5746",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798675,
+            "localadmin_id":404474143,
+            "locality_id":101754839,
             "region_id":85687053,
             "venue_id":1091582483
         }
     ],
     "wof:id":1091582483,
-    "wof:lastmodified":1473878624,
+    "wof:lastmodified":1492511783,
     "wof:name":"Active Dienstverlening",
-    "wof:parent_id":85798675,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

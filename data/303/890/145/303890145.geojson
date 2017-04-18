@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.891188,52.367294,4.891188,52.367294",
     "geom:latitude":52.367294,
     "geom:longitude":4.891188,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803837,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4r6SUWG9khfWv8mIJfTnJQ_52.367294_4.891188@1306269988"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ae78e15877ca1d3e4a6119670441ba29",
+    "wof:geomhash":"960c7d5f1017e5999768e490838d77fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803837,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":303890145
         }
     ],
     "wof:id":303890145,
-    "wof:lastmodified":1473879648,
+    "wof:lastmodified":1492472121,
     "wof:name":"Hugo Boss Store",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

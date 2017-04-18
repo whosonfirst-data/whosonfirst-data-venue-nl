@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885885,52.365524,4.885885,52.365524",
     "geom:latitude":52.365524,
     "geom:longitude":4.885885,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803665,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_2v7mXbeRbj4sNjtIuUSawr_52.365524_4.885885@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"127b4b431b98396be8aaa2bbf011b64f",
+    "wof:geomhash":"9a07373ced1b3c10c6dc9e92dff799ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803665,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":320207881
         }
     ],
     "wof:id":320207881,
-    "wof:lastmodified":1473879112,
+    "wof:lastmodified":1492484013,
     "wof:name":"Holland Huis",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

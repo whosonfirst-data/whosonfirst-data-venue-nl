@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5907812119,51.9827919006,4.5907812119,51.9827919006",
     "geom:latitude":51.982792,
     "geom:longitude":4.590781,
@@ -24,9 +25,14 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108805821,
+        102191581,
         85633337,
-        85798209,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +40,32 @@
     },
     "wof:country":"NL",
     "wof:created":1473804252,
-    "wof:geomhash":"0371a982405df208eb75112d7c89836a",
+    "wof:geomhash":"c22ee84453eb68e4db3a2ffe55a27f78",
     "wof:hierarchy":[
         {
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798209,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805821,
+            "region_id":85687041,
+            "venue_id":1091626139
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805821,
             "region_id":85687041,
             "venue_id":1091626139
         }
     ],
     "wof:id":1091626139,
-    "wof:lastmodified":1473878900,
+    "wof:lastmodified":1492512085,
     "wof:name":"Free Art/Hair Flair/Roos Sep",
-    "wof:parent_id":85798209,
+    "wof:parent_id":1108805821,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

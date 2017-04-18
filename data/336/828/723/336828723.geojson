@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.504922,51.924026,4.504922,51.924026",
     "geom:latitude":51.924026,
     "geom:longitude":4.504922,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805807,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1yHtWRiC93sJiiYEHYxsFV_51.924026_4.504922@1306270006"
     },
     "wof:country":"NL",
-    "wof:geomhash":"34d475cefcf6e2fd48882cce9e062b8c",
+    "wof:geomhash":"b6324f49ca0bba2749b462d87c65f2b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805807,
             "region_id":85687041,
             "venue_id":336828723
         }
     ],
     "wof:id":336828723,
-    "wof:lastmodified":1473878463,
+    "wof:lastmodified":1492506184,
     "wof:name":"Campenhout Bv, Dick Van",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.414049,51.941887,4.414049,51.941887",
     "geom:latitude":51.941887,
     "geom:longitude":4.414049,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859761,
+        1108805757,
+        102191581,
         85633337,
         101751843,
-        85687041
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3X4beCZlsgLkervcsyiJIs_51.941887_4.414049@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f40b7418ec82ccdcbc14d6838d225040",
+    "wof:geomhash":"0ebc2dbe0150b2e0cafcc893f2819afd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805739,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859761,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":303636045
+        },
+        {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474253,
+            "locality_id":101751845,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":303636045
         }
     ],
     "wof:id":303636045,
-    "wof:lastmodified":1473879346,
+    "wof:lastmodified":1492474598,
     "wof:name":"Navos",
-    "wof:parent_id":85859761,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

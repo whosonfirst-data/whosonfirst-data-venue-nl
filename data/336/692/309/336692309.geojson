@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.538453,51.922703,4.538453,51.922703",
     "geom:latitude":51.922703,
     "geom:longitude":4.538453,
@@ -25,31 +26,46 @@
     "sg:website":"http://www.dzdk.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859923,
+        1108805861,
+        102191581,
         85633337,
-        101754669,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dUvXABfYpAVk7CIbUeOSm_51.922703_4.538453@1306270004"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0fa502f190e5c659af93258a88330a72",
+    "wof:geomhash":"65c80049f357d4c039fd0772b8eb8be6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754669,
-            "neighbourhood_id":85859923,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805861,
+            "region_id":85687041,
+            "venue_id":336692309
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805861,
             "region_id":85687041,
             "venue_id":336692309
         }
     ],
     "wof:id":336692309,
-    "wof:lastmodified":1473878411,
+    "wof:lastmodified":1492506266,
     "wof:name":"Zeeuw & De Keizer, De",
-    "wof:parent_id":85859923,
+    "wof:parent_id":1108805861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

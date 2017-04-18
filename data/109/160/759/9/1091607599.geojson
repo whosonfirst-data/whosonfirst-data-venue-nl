@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.1808600426,53.0130805969,7.1808600426,53.0130805969",
     "geom:latitude":53.013081,
     "geom:longitude":7.18086,
@@ -23,17 +24,32 @@
     "sg:postcode":"9545 TA",
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473739,
+        85633337,
+        101806199
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Do1aAT49aGEl3qquHbvyB_53.013081_7.180860@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803243,
-    "wof:geomhash":"a363cb439dfa934f917d587acb5d747d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ccaf664917fb2ca65a449b67e286b7ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473739,
+            "locality_id":101806199,
+            "region_id":85687059,
+            "venue_id":1091607599
+        }
+    ],
     "wof:id":1091607599,
-    "wof:lastmodified":1473878885,
+    "wof:lastmodified":1492512660,
     "wof:name":"Gastenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.896162,52.356922,4.896162,52.356922",
     "geom:latitude":52.356922,
     "geom:longitude":4.896162,
@@ -33,9 +34,12 @@
     "sg:website":"http://www.pizzadonna.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803865,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_0uei7hsYb7WeMWtab81RtJ_52.356922_4.896162@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0f7ed623aeeb9640e2ef81a2c399645e",
+    "wof:geomhash":"0dc440ca4acf33f20ba00330e61e0eeb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803865,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":253664483
         }
     ],
     "wof:id":253664483,
-    "wof:lastmodified":1473879707,
+    "wof:lastmodified":1492491174,
     "wof:name":"Donna, Pizza",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

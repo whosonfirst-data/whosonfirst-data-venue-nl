@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877392,52.374161,4.877392,52.374161",
     "geom:latitude":52.374161,
     "geom:longitude":4.877392,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803831,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_152vJdHrUS02SJVyey2iO2_52.374161_4.877392@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"02f65ac276204234d4b5cabff279783a",
+    "wof:geomhash":"378f5f36ee3f28c7081f0fd37a7961a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803831,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":320218937
         }
     ],
     "wof:id":320218937,
-    "wof:lastmodified":1473879124,
+    "wof:lastmodified":1492482334,
     "wof:name":"Scottish Arts Council",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

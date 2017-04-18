@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2626237869,52.0718421936,4.2626237869,52.0718421936",
     "geom:latitude":52.071842,
     "geom:longitude":4.262624,
@@ -24,13 +25,13 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        85859585,
         102191581,
-        404474179,
+        1108808133,
         85633337,
         101752763,
-        85687041,
-        85859585
+        1108808043,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,31 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473801932,
-    "wof:geomhash":"23ae369446094503b2bf9c71a52479f6",
+    "wof:geomhash":"6ead89d5e702ab47216bf2e5802ca0df",
     "wof:hierarchy":[
         {
+            "borough_id":1108808043,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474179,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
-            "region_id":85687041,
-            "venue_id":1091589747
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474179,
-            "locality_id":101752763,
+            "macrohood_id":1108808133,
             "neighbourhood_id":85859585,
             "region_id":85687041,
             "venue_id":1091589747
         }
     ],
     "wof:id":1091589747,
-    "wof:lastmodified":1473879030,
+    "wof:lastmodified":1492511547,
     "wof:name":"Rr Bur V Personele Zaken",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

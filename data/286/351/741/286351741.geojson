@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.252749,52.066341,4.252749,52.066341",
     "geom:latitude":52.066341,
     "geom:longitude":4.252749,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797811,
+        85859585,
+        102191581,
+        1108808133,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2xXd5sWDqX8l2F0C9ar7Ys_52.066341_4.252749@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1685f62bf23a59c01544e9d6bddb46ee",
+    "wof:geomhash":"c8b247f352e96009808e9b3038fe8d3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797811,
+            "macrohood_id":1108808133,
+            "neighbourhood_id":85859585,
             "region_id":85687041,
             "venue_id":286351741
         }
     ],
     "wof:id":286351741,
-    "wof:lastmodified":1473878870,
+    "wof:lastmodified":1492477228,
     "wof:name":"Ikat & Id",
-    "wof:parent_id":85797811,
+    "wof:parent_id":85859585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.903132,52.352295,4.903132,52.352295",
     "geom:latitude":52.352295,
     "geom:longitude":4.903132,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.greenhouse.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803241,
+        1108802865,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_5Y9AL3MkEkKVfUXrBgQiN2_52.352295_4.903132@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4fde90bf8736335089112785fad0a393",
+    "wof:geomhash":"bd266ca67580be888f6b7955450c50e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803241,
+            "neighbourhood_id":1108802865,
             "region_id":85687053,
             "venue_id":186074607
         }
     ],
     "wof:id":186074607,
-    "wof:lastmodified":1473878846,
+    "wof:lastmodified":1492509056,
     "wof:name":"Greenhouse",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

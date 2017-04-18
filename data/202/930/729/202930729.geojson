@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.947238,52.402637,4.947238,52.402637",
     "geom:latitude":52.402637,
     "geom:longitude":4.947238,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.dpfd.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804307,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_4UizMq32bVLrXOqcUQMeji_52.402637_4.947238@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fcacdb434be039dd0647c7db48a90aed",
+    "wof:geomhash":"1999978fbdfcc1b12609e3a07b6317f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804307,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":202930729
         }
     ],
     "wof:id":202930729,
-    "wof:lastmodified":1473879423,
+    "wof:lastmodified":1492497886,
     "wof:name":"Dpfd",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108804307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

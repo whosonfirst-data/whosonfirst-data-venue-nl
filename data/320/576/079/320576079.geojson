@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.495336,51.935993,4.495336,51.935993",
     "geom:latitude":51.935993,
     "geom:longitude":4.495336,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859861,
+        1108805825,
+        102191581,
+        1108805657,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_1x49buOy9sXQo7KEfxQxFw_51.935993_4.495336@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"21fd8689486feccd11134afcfa39c0ef",
+    "wof:geomhash":"a2163326a6a3cf07e3b5145312c5c6dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859861,
+            "macrohood_id":1108805657,
+            "neighbourhood_id":1108805825,
             "region_id":85687041,
             "venue_id":320576079
         }
     ],
     "wof:id":320576079,
-    "wof:lastmodified":1473879431,
+    "wof:lastmodified":1492484479,
     "wof:name":"Van Brenkelen Vof",
-    "wof:parent_id":85859861,
+    "wof:parent_id":1108805825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

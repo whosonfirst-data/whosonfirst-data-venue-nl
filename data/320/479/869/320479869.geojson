@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.090569,52.107819,5.090569,52.107819",
     "geom:latitude":52.107819,
     "geom:longitude":5.090569,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808759,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2tW5h6fJPGzEm097NG6Nkx_52.107819_5.090569@1306269998"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c526853d989944d80942987c08f21591",
+    "wof:geomhash":"9e36fc621f3d45fcb63e619010b99b87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808759,
             "region_id":85687039,
             "venue_id":320479869
         }
     ],
     "wof:id":320479869,
-    "wof:lastmodified":1473879340,
+    "wof:lastmodified":1492482149,
     "wof:name":"Heijden, M Van Der",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

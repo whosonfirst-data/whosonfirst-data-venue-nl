@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.886288,52.415833,4.886288,52.415833",
     "geom:latitude":52.415833,
     "geom:longitude":4.886288,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803913,
+        1108802883,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6FYKKtAVoCwiomyh7SALhn_52.415833_4.886288@1306270006"
     },
     "wof:country":"NL",
-    "wof:geomhash":"55635ff8f15b321aa3c24c25b1b2bf4a",
+    "wof:geomhash":"e7d631ef3ea0ff343b3e919738fdd16b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803913,
+            "neighbourhood_id":1108802883,
             "region_id":85687053,
             "venue_id":336859811
         }
     ],
     "wof:id":336859811,
-    "wof:lastmodified":1473878460,
+    "wof:lastmodified":1492507278,
     "wof:name":"Meijer, J",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.499195,51.928719,4.499195,51.928719",
     "geom:latitude":51.928719,
     "geom:longitude":4.499195,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805807,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_4CkBzf3nlMGmmLDVGUpYfu_51.928719_4.499195@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ece5256489b149f57ba6d37664ff1b7d",
+    "wof:geomhash":"a01aef2f8102a7d124c386fb0fc8271c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805807,
             "region_id":85687041,
             "venue_id":269786851
         }
     ],
     "wof:id":269786851,
-    "wof:lastmodified":1473879461,
+    "wof:lastmodified":1492494998,
     "wof:name":"Snackbar J. Polak",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

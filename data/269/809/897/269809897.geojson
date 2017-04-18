@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.298229,52.06699,4.298229,52.06699",
     "geom:latitude":52.06699,
     "geom:longitude":4.298229,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859615,
+        1108808259,
+        102191581,
+        1108808035,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_3KhoxX5E4rqGHLjT26KXc1_52.066990_4.298229@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ffcabd73448fab4d1bc4dcb4fba7a09e",
+    "wof:geomhash":"e286df38c7c88161da3a4386252e62f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808259,
             "region_id":85687041,
             "venue_id":269809897
         }
     ],
     "wof:id":269809897,
-    "wof:lastmodified":1473879513,
+    "wof:lastmodified":1492495995,
     "wof:name":"Afhaalcentr Po-Kee",
-    "wof:parent_id":85859615,
+    "wof:parent_id":1108808259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.429792,51.948181,4.429792,51.948181",
     "geom:latitude":51.948181,
     "geom:longitude":4.429792,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798367,
+        1108833229,
+        1108805883,
+        102191581,
         85633337,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_0e94LfO0TV8bktoSF1tXYM_51.948181_4.429792@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6a0477b5d8754c90ab2919c04a520832",
+    "wof:geomhash":"8c2b23ed8f3140c720399a7ed0df6a50",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798367,
+            "locality_id":101751843,
+            "microhood_id":1108833229,
+            "neighbourhood_id":1108805883,
             "region_id":85687041,
             "venue_id":219538815
         }
     ],
     "wof:id":219538815,
-    "wof:lastmodified":1473879372,
+    "wof:lastmodified":1492501582,
     "wof:name":"Road Air",
-    "wof:parent_id":85798367,
+    "wof:parent_id":1108833229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

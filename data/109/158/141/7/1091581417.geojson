@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8406701088,52.3619194031,4.8406701088,52.3619194031",
     "geom:latitude":52.361919,
     "geom:longitude":4.84067,
@@ -34,13 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803301,
         85798223,
         102191581,
-        404474029,
         85633337,
         101751893,
-        85687053,
-        85798403
+        1108802279,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,31 +49,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473801261,
-    "wof:geomhash":"e77e067151a51b07b43729406899d9ef",
+    "wof:geomhash":"38992181d08a2ea02dd1c23b4bffbd6e",
     "wof:hierarchy":[
         {
+            "borough_id":1108802279,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474029,
             "locality_id":101751893,
+            "microhood_id":1108803301,
             "neighbourhood_id":85798223,
-            "region_id":85687053,
-            "venue_id":1091581417
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474029,
-            "locality_id":101751893,
-            "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":1091581417
         }
     ],
     "wof:id":1091581417,
-    "wof:lastmodified":1473878572,
+    "wof:lastmodified":1492511812,
     "wof:name":"Unicef",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108803301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1236758232,52.1076316833,5.1236758232,52.1076316833",
     "geom:latitude":52.107632,
     "geom:longitude":5.123676,
@@ -25,8 +26,11 @@
     "sg:website":"http://www.camminoconsult.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85798515,
+        102191581,
         85633337,
-        85798227,
+        101751827,
+        1108808663,
         85687039
     ],
     "wof:breaches":[],
@@ -35,19 +39,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473798523,
-    "wof:geomhash":"de9b3a773b03f9908311c1304d83bb6b",
+    "wof:geomhash":"5556fe474e1ef9bc3d55a951129b8887",
     "wof:hierarchy":[
         {
+            "borough_id":1108808663,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "neighbourhood_id":85798515,
             "region_id":85687039,
             "venue_id":1075807615
         }
     ],
     "wof:id":1075807615,
-    "wof:lastmodified":1473878557,
+    "wof:lastmodified":1492486126,
     "wof:name":"Cammino Consult Bv",
-    "wof:parent_id":85798227,
+    "wof:parent_id":85798515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

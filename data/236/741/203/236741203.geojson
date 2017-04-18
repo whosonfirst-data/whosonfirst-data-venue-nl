@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.414913,52.170616,5.414913,52.170616",
     "geom:latitude":52.170616,
     "geom:longitude":5.414913,
@@ -24,40 +25,41 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798389,
-        85633337,
-        85687039,
         85798387,
-        101751821
+        102191581,
+        404473971,
+        85633337,
+        101751821,
+        85687039,
+        85798389
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lpUHX6cneKJEynfMB2X2k_52.170616_5.414913@1306269940"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e39f374dd426513f7ed2a3d6fb7eda8c",
+    "wof:geomhash":"113d8b04dcf8c6ce5d4bd7546ff84065",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798389,
+            "localadmin_id":404473971,
+            "locality_id":101751821,
+            "neighbourhood_id":85798387,
             "region_id":85687039,
             "venue_id":236741203
         },
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751821,
-            "neighbourhood_id":85798387,
+            "neighbourhood_id":85798389,
             "region_id":85687039,
             "venue_id":236741203
         }
     ],
     "wof:id":236741203,
-    "wof:lastmodified":1473879515,
+    "wof:lastmodified":1492494097,
     "wof:name":"United Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

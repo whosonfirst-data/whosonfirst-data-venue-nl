@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.926006,52.35997,4.926006,52.35997",
     "geom:latitude":52.35997,
     "geom:longitude":4.926006,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803667,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6tK63GT3rwqUbkIsPa32Df_52.359970_4.926006@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fa10cf71f53af9d91180afa136cb942b",
+    "wof:geomhash":"2c5940d88faa0ba2cc38a5717951ef17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803667,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":186443803
         }
     ],
     "wof:id":186443803,
-    "wof:lastmodified":1473879446,
+    "wof:lastmodified":1492508187,
     "wof:name":"Mdso Dapperbuurt",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

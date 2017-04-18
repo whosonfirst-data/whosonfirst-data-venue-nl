@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.913688,52.392597,4.913688,52.392597",
     "geom:latitude":52.392597,
     "geom:longitude":4.913688,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803563,
+        1108802935,
+        102191581,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_2woqNeC8Rg2PdVuswlpitB_52.392597_4.913688@1306269951"
     },
     "wof:country":"NL",
-    "wof:geomhash":"06ee57362bb0f5339b7471dc9da27d4b",
+    "wof:geomhash":"60beb376c9aac4b42a8f096d64d15b61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803563,
+            "neighbourhood_id":1108802935,
             "region_id":85687053,
             "venue_id":253587551
         }
     ],
     "wof:id":253587551,
-    "wof:lastmodified":1473879690,
+    "wof:lastmodified":1492490773,
     "wof:name":"Watt, William",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803563,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

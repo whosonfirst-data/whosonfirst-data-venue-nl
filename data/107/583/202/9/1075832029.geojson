@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8751649857,52.4410133362,4.8751649857,52.4410133362",
     "geom:latitude":52.441013,
     "geom:longitude":4.875165,
@@ -24,9 +25,11 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687053,
+        102191581,
+        404474105,
         85633337,
-        85798523,
-        85687053
+        101754851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473799898,
-    "wof:geomhash":"eeb4d0e2b18409df656131b450245e23",
+    "wof:geomhash":"4c2443e04001425c307e3e75fd0da8db",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798523,
+            "localadmin_id":404474105,
+            "locality_id":101754851,
             "region_id":85687053,
             "venue_id":1075832029
         }
     ],
     "wof:id":1075832029,
-    "wof:lastmodified":1473879300,
+    "wof:lastmodified":1492485689,
     "wof:name":"Gemeente Oostzaan",
-    "wof:parent_id":85798523,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

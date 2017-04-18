@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9028792381,52.4305648804,4.9028792381,52.4305648804",
     "geom:latitude":52.430565,
     "geom:longitude":4.902879,
@@ -24,9 +25,11 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687053,
+        102191581,
+        404474091,
         85633337,
-        85798523,
-        85687053
+        101754829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473802148,
-    "wof:geomhash":"f9c91357fb31837797e86c09deeae5ad",
+    "wof:geomhash":"eeed004c4fc2d6f7fedb6cb9242daf82",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798523,
+            "localadmin_id":404474091,
+            "locality_id":101754829,
             "region_id":85687053,
             "venue_id":1091593885
         }
     ],
     "wof:id":1091593885,
-    "wof:lastmodified":1473878679,
+    "wof:lastmodified":1492509851,
     "wof:name":"Actief Sport Landsmeer",
-    "wof:parent_id":85798523,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

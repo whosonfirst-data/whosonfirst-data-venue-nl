@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.103624,52.125954,5.103624,52.125954",
     "geom:latitude":52.125954,
     "geom:longitude":5.103624,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798231,
+        1108808877,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_5gfoREgugayXJXBTw9uy9e_52.125954_5.103624@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6d3caaf5a5c23c7063397b41e5e138cf",
+    "wof:geomhash":"1bf50bda1dd10fbb0a5fe98e96b95612",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798231,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808877,
             "region_id":85687039,
             "venue_id":303704357
         }
     ],
     "wof:id":303704357,
-    "wof:lastmodified":1473879452,
+    "wof:lastmodified":1492473523,
     "wof:name":"Qvorm Vormgeving & Ontwerp",
-    "wof:parent_id":85798231,
+    "wof:parent_id":1108808877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

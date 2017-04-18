@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8916621208,52.4096298218,4.8916621208,52.4096298218",
     "geom:latitude":52.40963,
     "geom:longitude":4.891662,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
+        1108803211,
         85798523,
+        102191581,
+        85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,19 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473799777,
-    "wof:geomhash":"59b7b5b42b91e395142dd4b7a2bb609c",
+    "wof:geomhash":"f364c2b3477fbbd0f9125140728649e9",
     "wof:hierarchy":[
         {
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1108803211,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":1075829735
         }
     ],
     "wof:id":1075829735,
-    "wof:lastmodified":1473879570,
+    "wof:lastmodified":1492486941,
     "wof:name":"Jongerencentrum Satirius",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3383,52.081738,4.3383,52.081738",
     "geom:latitude":52.081738,
     "geom:longitude":4.3383,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797093,
+        1108808239,
+        102191581,
+        1108805963,
         85633337,
         101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_1FSC2eQED6XwfNqLGrlvuk_52.081738_4.338300@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7f9fd69017a556e68944fd967432496b",
+    "wof:geomhash":"985f5b24e1da65435182ba9c283cea86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797093,
+            "macrohood_id":1108805963,
+            "neighbourhood_id":1108808239,
             "region_id":85687041,
             "venue_id":269835631
         }
     ],
     "wof:id":269835631,
-    "wof:lastmodified":1473879516,
+    "wof:lastmodified":1492495083,
     "wof:name":"India Glory",
-    "wof:parent_id":85797093,
+    "wof:parent_id":1108808239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

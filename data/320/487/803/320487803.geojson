@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.909353,52.360905,4.909353,52.360905",
     "geom:latitude":52.360905,
     "geom:longitude":4.909353,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803763,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6nwiU8C7e4V69oTrbmeuSC_52.360905_4.909353@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"84d239d46bb904e546a2f61631b10363",
+    "wof:geomhash":"5e800c8b947d2052f93a6c8c65196879",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803763,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":320487803
         }
     ],
     "wof:id":320487803,
-    "wof:lastmodified":1473879346,
+    "wof:lastmodified":1492483436,
     "wof:name":"Lebbink, G",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803763,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

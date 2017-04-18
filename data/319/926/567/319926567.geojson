@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.902381,52.353535,4.902381,52.353535",
     "geom:latitude":52.353535,
     "geom:longitude":4.902381,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803241,
+        1108802865,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0cMshb6QXwhrc8fF1IvTzM_52.353535_4.902381@1306269992"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e6d73413c404fce651232016f488a248",
+    "wof:geomhash":"4c79969ffcf9e0d8de698493a245bdb2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803241,
+            "neighbourhood_id":1108802865,
             "region_id":85687053,
             "venue_id":319926567
         }
     ],
     "wof:id":319926567,
-    "wof:lastmodified":1473878879,
+    "wof:lastmodified":1492479535,
     "wof:name":"Richer Sounds",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

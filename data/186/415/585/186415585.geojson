@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.922823,52.355995,4.922823,52.355995",
     "geom:latitude":52.355995,
     "geom:longitude":4.922823,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803941,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1QADNFkKVrRmtrTkRkEDUm_52.355995_4.922823@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"14e0d80431cf6c88b94b568720e46e52",
+    "wof:geomhash":"4c344ad847d03c67158572292d7c1765",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":186415585
         }
     ],
     "wof:id":186415585,
-    "wof:lastmodified":1473879386,
+    "wof:lastmodified":1492508639,
     "wof:name":"Itihaad Chora, Sticht El",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

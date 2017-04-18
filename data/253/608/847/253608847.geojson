@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.28131,52.103199,4.28131,52.103199",
     "geom:latitude":52.103199,
     "geom:longitude":4.28131,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808167,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_6444eEv8yUwm41SwdkOwHv_52.103199_4.281310@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"12be8451e051dce3c45cad8212a664f4",
+    "wof:geomhash":"de120ee6f36eb7523a9bc99293edc7bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808167,
             "region_id":85687041,
             "venue_id":253608847
         }
     ],
     "wof:id":253608847,
-    "wof:lastmodified":1473879688,
+    "wof:lastmodified":1492490320,
     "wof:name":"Schalke",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

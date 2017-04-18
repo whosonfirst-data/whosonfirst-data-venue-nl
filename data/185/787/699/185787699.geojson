@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.944513,52.312679,4.944513,52.312679",
     "geom:latitude":52.312679,
     "geom:longitude":4.944513,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797113,
+        1108803417,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0Ei8u8hGahVApfekCrTXSS_52.312679_4.944513@1306269907"
     },
     "wof:country":"NL",
-    "wof:geomhash":"358d7109c4f6be986a5154cdab0558c9",
+    "wof:geomhash":"5651a32d7866af903476ce6fcdc0c617",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797113,
+            "locality_id":101751893,
+            "microhood_id":1108803417,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":185787699
         }
     ],
     "wof:id":185787699,
-    "wof:lastmodified":1473878729,
+    "wof:lastmodified":1492487295,
     "wof:name":"Tulp Bv",
-    "wof:parent_id":85797113,
+    "wof:parent_id":1108803417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

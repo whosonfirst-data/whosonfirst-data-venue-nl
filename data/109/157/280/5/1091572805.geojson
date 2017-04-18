@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5415840149,52.3252487183,5.5415840149,52.3252487183",
     "geom:latitude":52.325249,
     "geom:longitude":5.541584,
@@ -24,17 +25,32 @@
     "sg:province":"Flevoland",
     "sg:website":"http://www.flevooware.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473741,
+        85633337,
+        101808771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EEnJwXJwXwNQJOruJ4vMV_52.325249_5.541584@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800652,
-    "wof:geomhash":"abcb40d360cb03a81dfc0069128093dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3202dbaeec762af68845e7a3581a6a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473741,
+            "locality_id":101808771,
+            "region_id":85687049,
+            "venue_id":1091572805
+        }
+    ],
     "wof:id":1091572805,
-    "wof:lastmodified":1473878648,
+    "wof:lastmodified":1492511204,
     "wof:name":"Flevooware Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

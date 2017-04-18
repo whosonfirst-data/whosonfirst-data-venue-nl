@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.7468881607,52.1561088562,6.7468881607,52.1561088562",
     "geom:latitude":52.156109,
     "geom:longitude":6.746888,
@@ -33,17 +34,32 @@
         "week-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473829,
+        85633337,
+        101807203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_191RBE47QZ8OemIgm84ZB3_52.156109_6.746888@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473800900,
-    "wof:geomhash":"98585796a9ecf4cd6944e5fc9859964f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a1e6c0975705109e63c91c067999943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473829,
+            "locality_id":101807203,
+            "region_id":85687045,
+            "venue_id":1091577035
+        }
+    ],
     "wof:id":1091577035,
-    "wof:lastmodified":1473878956,
+    "wof:lastmodified":1492511134,
     "wof:name":"Weekblad Rond Haaksbergen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

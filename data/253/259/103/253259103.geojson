@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.909879,52.39727,4.909879,52.39727",
     "geom:latitude":52.39727,
     "geom:longitude":4.909879,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803335,
+        1108802545,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_4wcBY8ImGhjewpxT4y9rdb_52.397270_4.909879@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"87d0f1b5c384f6acffaa0a3535692c16",
+    "wof:geomhash":"50b12ca00e6d63a9caf7d2ca41b10f48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803335,
+            "neighbourhood_id":1108802545,
             "region_id":85687053,
             "venue_id":253259103
         }
     ],
     "wof:id":253259103,
-    "wof:lastmodified":1473879295,
+    "wof:lastmodified":1492489064,
     "wof:name":"Beter Bed",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

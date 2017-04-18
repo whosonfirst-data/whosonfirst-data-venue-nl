@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881686,52.373085,4.881686,52.373085",
     "geom:latitude":52.373085,
     "geom:longitude":4.881686,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4O3s8bsUt2IA5IGMeujq7z_52.373085_4.881686@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"16cc6f848e62de933f7650800358de4e",
+    "wof:geomhash":"9760ce8a37b2daae4c79154420002ae3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":286751103
         }
     ],
     "wof:id":286751103,
-    "wof:lastmodified":1473879538,
+    "wof:lastmodified":1492475127,
     "wof:name":"Nvg",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

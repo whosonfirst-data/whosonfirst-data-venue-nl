@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.904946,52.346493,4.904946,52.346493",
     "geom:latitude":52.346493,
     "geom:longitude":4.904946,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803569,
+        1108802841,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3sHRvEygSNeGgM02fjHKGZ_52.346493_4.904946@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"89247c26eeea62ea59b025d79fde69aa",
+    "wof:geomhash":"3e689f26360d6ee71a3fb656f161c148",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803569,
+            "neighbourhood_id":1108802841,
             "region_id":85687053,
             "venue_id":270164621
         }
     ],
     "wof:id":270164621,
-    "wof:lastmodified":1473878732,
+    "wof:lastmodified":1492499831,
     "wof:name":"Quickprint Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

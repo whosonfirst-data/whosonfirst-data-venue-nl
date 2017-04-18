@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.950614,52.398312,4.950614,52.398312",
     "geom:latitude":52.398312,
     "geom:longitude":4.950614,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108803639,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1p6uerK50zq6VrOsQNxzQL_52.398312_4.950614@1306269928"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cb2e4888c6935d8474577863982c770f",
+    "wof:geomhash":"b014b1c6916595551640de8578eb8ec2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803639,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":219649985
         }
     ],
     "wof:id":219649985,
-    "wof:lastmodified":1473879515,
+    "wof:lastmodified":1492501885,
     "wof:name":"Ijdoorn",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

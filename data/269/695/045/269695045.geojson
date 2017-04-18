@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880661,52.330986,4.880661,52.330986",
     "geom:latitude":52.330986,
     "geom:longitude":4.880661,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803327,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3QTzjjYq6acX2lsb7dsSR7_52.330986_4.880661@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e217851eb4da46f02485add0e5b3fb01",
+    "wof:geomhash":"f2e58ba3679f418339c9d12dc79ae87c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803327,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":269695045
         }
     ],
     "wof:id":269695045,
-    "wof:lastmodified":1473879287,
+    "wof:lastmodified":1492496681,
     "wof:name":"Valentijn Publiciteit & Pr",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

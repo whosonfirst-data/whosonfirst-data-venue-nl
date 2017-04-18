@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.24084,52.038979,4.24084,52.038979",
     "geom:latitude":52.038979,
     "geom:longitude":4.24084,
@@ -36,39 +37,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859575,
+        102191581,
+        1108808029,
         85633337,
-        85687041,
-        85859581,
-        101752763
+        101752763,
+        1108808051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gmbaQO8wPvliGlOvdnhnJ_52.038979_4.240840@1306269906"
     },
     "wof:country":"NL",
-    "wof:geomhash":"95ec44934e73e2117c37b33529755d6c",
+    "wof:geomhash":"f8e7d4c68334fdabd137708b26326972",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859575,
-            "region_id":85687041,
-            "venue_id":185665127
-        },
-        {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859581,
+            "macrohood_id":1108808029,
+            "neighbourhood_id":85859575,
             "region_id":85687041,
             "venue_id":185665127
         }
     ],
     "wof:id":185665127,
-    "wof:lastmodified":1473878582,
+    "wof:lastmodified":1492487826,
     "wof:name":"Coronel",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.759062767,51.9274978638,4.759062767,51.9274978638",
     "geom:latitude":51.927498,
     "geom:longitude":4.759063,
@@ -24,17 +25,30 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.dzh.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474151,
+        85633337,
+        85687041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3T9vKz9NivPTeQve1HAQK2_51.927498_4.759063@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800363,
-    "wof:geomhash":"7893d129707e740fa2f1d36361a6f00f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"275cae6f449658ae79e52a0663c160b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474151,
+            "region_id":85687041,
+            "venue_id":1091568521
+        }
+    ],
     "wof:id":1091568521,
-    "wof:lastmodified":1473878513,
+    "wof:lastmodified":1492510957,
     "wof:name":"Dzh Bergambacht",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

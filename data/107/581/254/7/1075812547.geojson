@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6714968681,51.6101989746,5.6714968681,51.6101989746",
     "geom:latitude":51.610199,
     "geom:longitude":5.671497,
@@ -31,17 +32,32 @@
         "garage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474357,
+        85633337,
+        101808169
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DWKVdTs3IpHMHv8tE0RII_51.610199_5.671497@1306269994"
     },
     "wof:country":"NL",
     "wof:created":1473798790,
-    "wof:geomhash":"476aa1abcfd1c2259cac769fffe3ed27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f01d2668f53cf099458ed71fb3be128e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474357,
+            "locality_id":101808169,
+            "region_id":85687035,
+            "venue_id":1075812547
+        }
+    ],
     "wof:id":1075812547,
-    "wof:lastmodified":1473878878,
+    "wof:lastmodified":1492486583,
     "wof:name":"Haandel Bv, Ad Van",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

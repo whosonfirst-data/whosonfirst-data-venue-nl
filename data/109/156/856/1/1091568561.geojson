@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1043510437,51.8148574829,5.1043510437,51.8148574829",
     "geom:latitude":51.814857,
     "geom:longitude":5.104351,
@@ -24,17 +25,30 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.fegon.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404473955,
+        85633337,
+        85687043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7E5Fr0KbD3YCK6cIKHlXEN_51.814857_5.104351@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800365,
-    "wof:geomhash":"026445ddbab4efed869230e2019580df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45ec9b26002c09b6f66e7137ae1b1ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473955,
+            "region_id":85687043,
+            "venue_id":1091568561
+        }
+    ],
     "wof:id":1091568561,
-    "wof:lastmodified":1473878518,
+    "wof:lastmodified":1492510931,
     "wof:name":"Fegon Brakel Bbv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

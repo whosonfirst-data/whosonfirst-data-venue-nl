@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.0145874023,38.893699646,-77.0145874023,38.893699646",
     "geom:latitude":38.8937,
     "geom:longitude":-77.014587,
@@ -24,12 +25,14 @@
     "sg:province":"District of Columbia",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        1108723641,
+        85866033,
         102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85869193
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +47,17 @@
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":85869193,
+            "macrohood_id":1108723661,
+            "microhood_id":1108723641,
+            "neighbourhood_id":85866033,
             "region_id":85688741,
             "venue_id":1075824885
         }
     ],
     "wof:id":1075824885,
-    "wof:lastmodified":1473879388,
+    "wof:lastmodified":1490402024,
     "wof:name":"Willems, Drs E J G",
-    "wof:parent_id":85869193,
+    "wof:parent_id":1108723641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

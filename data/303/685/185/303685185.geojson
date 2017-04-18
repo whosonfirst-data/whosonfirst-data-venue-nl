@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.254191,52.082603,4.254191,52.082603",
     "geom:latitude":52.082603,
     "geom:longitude":4.254191,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859589,
+        85798595,
+        102191581,
+        1108808131,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2jQ7B829yyISKbx0COxPfP_52.082603_4.254191@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e049d6c6c93b7a1f57895c843a43af77",
+    "wof:geomhash":"786f03bedf2d891df3b0414f5b91c773",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859589,
+            "macrohood_id":1108808131,
+            "neighbourhood_id":85798595,
             "region_id":85687041,
             "venue_id":303685185
         }
     ],
     "wof:id":303685185,
-    "wof:lastmodified":1473879454,
+    "wof:lastmodified":1492470982,
     "wof:name":"D. Van Bruggen",
-    "wof:parent_id":85859589,
+    "wof:parent_id":85798595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

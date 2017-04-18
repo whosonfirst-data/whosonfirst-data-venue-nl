@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.873004,52.367344,4.873004,52.367344",
     "geom:latitude":52.367344,
     "geom:longitude":4.873004,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803379,
+        1108802933,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2p9seUgf1X4bi4OSUwHuye_52.367344_4.873004@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2c04622ee20180a495e5f30c26b0ad42",
+    "wof:geomhash":"4f95a01efd4e05f9d272d107028f3ea1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803379,
+            "neighbourhood_id":1108802933,
             "region_id":85687053,
             "venue_id":253170349
         }
     ],
     "wof:id":253170349,
-    "wof:lastmodified":1473879033,
+    "wof:lastmodified":1492488645,
     "wof:name":"Koet, M",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

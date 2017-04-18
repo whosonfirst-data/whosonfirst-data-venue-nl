@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.294948,52.079597,4.294948,52.079597",
     "geom:latitude":52.079597,
     "geom:longitude":4.294948,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3A0HL8i2HyeT97ccROHcVt_52.079597_4.294948@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"150411416eccc124e742b83e49fb50f2",
+    "wof:geomhash":"1804d6ed1ae4795be530db6ab21e66e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":186110471
         }
     ],
     "wof:id":186110471,
-    "wof:lastmodified":1473878984,
+    "wof:lastmodified":1492508480,
     "wof:name":"H. Gieselbach",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

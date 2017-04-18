@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.111495,52.112709,5.111495,52.112709",
     "geom:latitude":52.112709,
     "geom:longitude":5.111495,
@@ -25,8 +26,12 @@
     "sg:website":"http://www.veenhuizen.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808929,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +39,23 @@
         "sg:id":"SG_0J2iZTPavAA0MhZWJ18vzo_52.112709_5.111495@1306269942"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4faf0e1352513e1491031d0d6113bd52",
+    "wof:geomhash":"40f7bc1793497c495470b080824f23eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808929,
             "region_id":85687039,
             "venue_id":236973031
         }
     ],
     "wof:id":236973031,
-    "wof:lastmodified":1473879629,
+    "wof:lastmodified":1492493360,
     "wof:name":"Veenhuizen",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

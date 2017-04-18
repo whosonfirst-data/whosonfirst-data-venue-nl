@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878878,52.369827,4.878878,52.369827",
     "geom:latitude":52.369827,
     "geom:longitude":4.878878,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.sec-trainingen.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3kF4H1FlC4WoOPVXDMGena_52.369827_4.878878@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"730ce469c36e45152c85f79097b1e650",
+    "wof:geomhash":"ac7f57e96c06b333e87025e7d3aa6722",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":286450777
         }
     ],
     "wof:id":286450777,
-    "wof:lastmodified":1473879020,
+    "wof:lastmodified":1492476343,
     "wof:name":"Sec Training & Opleiding",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

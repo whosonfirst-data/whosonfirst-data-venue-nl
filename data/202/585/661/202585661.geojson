@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.413337,51.945225,4.413337,51.945225",
     "geom:latitude":51.945225,
     "geom:longitude":4.413337,
@@ -24,30 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798367,
+        1108805757,
+        102191581,
         85633337,
-        85687041
+        101751843,
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kuDRXvXLInisPgCR4FrNl_51.945225_4.413337@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cae2e4691930c801578bdc1c8dd56aba",
+    "wof:geomhash":"cda4a863f37791332924f1281bb6c3f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805739,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798367,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":202585661
+        },
+        {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474253,
+            "locality_id":101751845,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":202585661
         }
     ],
     "wof:id":202585661,
-    "wof:lastmodified":1473879016,
+    "wof:lastmodified":1492499116,
     "wof:name":"Vitomatics",
-    "wof:parent_id":85798367,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.541892,51.940529,4.541892,51.940529",
     "geom:latitude":51.940529,
     "geom:longitude":4.541892,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797899,
+        85797053,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QEUUIQo0aC6hOGi1VYAwx_51.940529_4.541892@1306269932"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e1d833d49d144d57eb5d0cf1f775e2aa",
+    "wof:geomhash":"b637b4b36b362905c41dd1d30d82e5c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85797899,
+            "locality_id":101751843,
+            "neighbourhood_id":85797053,
+            "region_id":85687041,
+            "venue_id":220125641
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":85797053,
             "region_id":85687041,
             "venue_id":220125641
         }
     ],
     "wof:id":220125641,
-    "wof:lastmodified":1473878919,
+    "wof:lastmodified":1492481718,
     "wof:name":"Interieuradvies, Buro",
-    "wof:parent_id":85797899,
+    "wof:parent_id":85797053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

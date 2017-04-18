@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.955176,52.393192,4.955176,52.393192",
     "geom:latitude":52.393192,
     "geom:longitude":4.955176,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.studioberkhout.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108803543,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_1fdvTd3P1W1wT1XtIzigk9_52.393192_4.955176@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c423b02d68f038def87a62788b238a48",
+    "wof:geomhash":"0178df88b3d89b7d00fc3f45571b3471",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803543,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":270127585
         }
     ],
     "wof:id":270127585,
-    "wof:lastmodified":1473878623,
+    "wof:lastmodified":1492500924,
     "wof:name":"Studio Berkhout",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803543,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

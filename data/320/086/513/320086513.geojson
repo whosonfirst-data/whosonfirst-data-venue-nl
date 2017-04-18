@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.431206,51.950359,4.431206,51.950359",
     "geom:latitude":51.950359,
     "geom:longitude":4.431206,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798367,
+        102542781,
+        1108805865,
+        102191581,
         85633337,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_6czeTXo1W3Z1lZfx7gPogo_51.950359_4.431206@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"155424becb501e6d3404274d3b261fd1",
+    "wof:geomhash":"80b80a390c12bc622474ae9b16971f47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "campus_id":102542781,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798367,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805865,
             "region_id":85687041,
             "venue_id":320086513
         }
     ],
     "wof:id":320086513,
-    "wof:lastmodified":1473878774,
+    "wof:lastmodified":1492484206,
     "wof:name":"Kruithof Bv, A",
-    "wof:parent_id":85798367,
+    "wof:parent_id":102542781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

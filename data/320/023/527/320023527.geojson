@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.555878,51.951298,4.555878,51.951298",
     "geom:latitude":51.951298,
     "geom:longitude":4.555878,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52dyXw9tjYrYWax8xt5ewq_51.951298_4.555878@1306269993"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a1f0861cace624d584ef91d7d8a2668a",
+    "wof:geomhash":"023d82c83661d02565205d649107a3d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":320023527
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798177,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":320023527,
-    "wof:lastmodified":1473878564,
+    "wof:lastmodified":1492483346,
     "wof:name":"Finacon Assurant Bv",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884059,52.414703,4.884059,52.414703",
     "geom:latitude":52.414703,
     "geom:longitude":4.884059,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803211,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_14LWJSq4VQaMmoiTXciqjv_52.414703_4.884059@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f5722a3f68c175485a99ae1704d20561",
+    "wof:geomhash":"35a059bb361e340a9ee0d9d4b293949a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803211,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":320547027
         }
     ],
     "wof:id":320547027,
-    "wof:lastmodified":1473879386,
+    "wof:lastmodified":1492481845,
     "wof:name":"C J Hotting En H Hotting-Op 'T Land",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.936985,52.348328,4.936985,52.348328",
     "geom:latitude":52.348328,
     "geom:longitude":4.936985,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803839,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_54KhIHfsP3sfbP4z7T2Itd_52.348328_4.936985@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0eb3e0c4eed35231c4eef07dacc66e97",
+    "wof:geomhash":"d453ddd02c46b880f8298170a3b7e1ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803839,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":270081931
         }
     ],
     "wof:id":270081931,
-    "wof:lastmodified":1473878548,
+    "wof:lastmodified":1492499691,
     "wof:name":"Fitness-Centrum Helisport",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

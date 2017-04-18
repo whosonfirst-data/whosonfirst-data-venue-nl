@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.929317,52.338299,4.929317,52.338299",
     "geom:latitude":52.338299,
     "geom:longitude":4.929317,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.inseurop.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803887,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_3y5sfJPSd2HWtGfKY0Gzgn_52.338299_4.929317@1306269928"
     },
     "wof:country":"NL",
-    "wof:geomhash":"560c2338b816e72c64de0bd02cae2e91",
+    "wof:geomhash":"77003a13073be7f42c49a217b080ed1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803887,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":219715217
         }
     ],
     "wof:id":219715217,
-    "wof:lastmodified":1473879654,
+    "wof:lastmodified":1492501959,
     "wof:name":"Ins Nederland Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

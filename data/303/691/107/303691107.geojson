@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.299599,52.085049,4.299599,52.085049",
     "geom:latitude":52.085049,
     "geom:longitude":4.299599,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3QVHhSqsOt90xWqT5exQt6_52.085049_4.299599@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f86236b5fb214ebedbbaf923bf1cb43b",
+    "wof:geomhash":"aa5809f65a35fb361541a68de0aed7de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":303691107
         }
     ],
     "wof:id":303691107,
-    "wof:lastmodified":1473879443,
+    "wof:lastmodified":1492473137,
     "wof:name":"Full House Kreatieve Diensten Den Haag",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.331662,52.062817,4.331662,52.062817",
     "geom:latitude":52.062817,
     "geom:longitude":4.331662,
@@ -34,31 +35,49 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808317,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WUVhQ6xqv2t1UwAHayErd_52.062817_4.331662@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ff7cea815b29f6570c2b588ee31d0451",
+    "wof:geomhash":"6a22d115097b51cf352ccb1d228a5f00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808317,
+            "region_id":85687041,
+            "venue_id":202523087
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808317,
             "region_id":85687041,
             "venue_id":202523087
         }
     ],
     "wof:id":202523087,
-    "wof:lastmodified":1473878855,
+    "wof:lastmodified":1492498600,
     "wof:name":"Sagar'S Video En Music Centre",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

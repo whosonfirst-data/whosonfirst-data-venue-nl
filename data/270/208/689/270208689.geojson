@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.308036,52.065655,4.308036,52.065655",
     "geom:latitude":52.065655,
     "geom:longitude":4.308036,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859615,
+        1108808263,
+        102191581,
+        1108808035,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2Fe3DiOPFBdoXCFNHZwQEr_52.065655_4.308036@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ae6d88cbeea532d7700dcab1402e42fb",
+    "wof:geomhash":"62822b1e689cb045346aeb2a94098288",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808263,
             "region_id":85687041,
             "venue_id":270208689
         }
     ],
     "wof:id":270208689,
-    "wof:lastmodified":1473878884,
+    "wof:lastmodified":1492499794,
     "wof:name":"Adil",
-    "wof:parent_id":85859615,
+    "wof:parent_id":1108808263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

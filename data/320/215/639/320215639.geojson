@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.285729,52.116528,4.285729,52.116528",
     "geom:latitude":52.116528,
     "geom:longitude":4.285729,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808139,
+        102191581,
+        1108808075,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_6St7f1c70VOhaIsjgzo2Lw_52.116528_4.285729@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a454aa5ecf43f4d63ef4e71bc50478b5",
+    "wof:geomhash":"3ff4b47fe9b23a2dae9227e4706f3f8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108808075,
+            "neighbourhood_id":1108808139,
             "region_id":85687041,
             "venue_id":320215639
         }
     ],
     "wof:id":320215639,
-    "wof:lastmodified":1473879109,
+    "wof:lastmodified":1492484791,
     "wof:name":"Mulders Souvenirs",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

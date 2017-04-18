@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.487391,51.949791,4.487391,51.949791",
     "geom:latitude":51.949791,
     "geom:longitude":4.487391,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859841,
+        1108805791,
+        102191581,
+        1108805981,
         85633337,
-        101753095,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3xXpRIhGD0CgvbkYmT32lQ_51.949791_4.487391@1306269933"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c9313e9691c06ef20f6b4dd3ebe91f50",
+    "wof:geomhash":"16712586f9ded3f732ecbea80ed56fd6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859841,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805791,
             "region_id":85687041,
             "venue_id":235949081
         }
     ],
     "wof:id":235949081,
-    "wof:lastmodified":1473878542,
+    "wof:lastmodified":1492514514,
     "wof:name":"Smederij C. Van Willigen",
-    "wof:parent_id":85859841,
+    "wof:parent_id":1108805791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

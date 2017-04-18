@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.674281,51.804352,4.674281,51.804352",
     "geom:latitude":51.804352,
     "geom:longitude":4.674281,
@@ -26,6 +27,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85797875,
+        102191581,
+        404474169,
         85633337,
         101751841,
         85687041,
@@ -36,19 +39,21 @@
         "sg:id":"SG_1iYBieW2tdzsmXZjeM6evF_51.804352_4.674281@1306269949"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f57970a865144065c4515a068c0667a4",
+    "wof:geomhash":"407945a1302552405fd4c7aa0e232a3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474169,
             "locality_id":101751841,
             "neighbourhood_id":85797875,
             "region_id":85687041,
             "venue_id":253417651
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474169,
             "locality_id":101751841,
             "neighbourhood_id":85798785,
             "region_id":85687041,
@@ -56,9 +61,9 @@
         }
     ],
     "wof:id":253417651,
-    "wof:lastmodified":1473879563,
+    "wof:lastmodified":1492488705,
     "wof:name":"Wilschut",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

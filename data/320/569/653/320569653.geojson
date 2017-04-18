@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.303605,52.076576,4.303605,52.076576",
     "geom:latitude":52.076576,
     "geom:longitude":4.303605,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798385,
+        1108808249,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_49DDEW1FQCmzra1I44Fexq_52.076576_4.303605@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5c234960f5d3a9c3e19ade7c67ac107a",
+    "wof:geomhash":"5b03bd116fdea7ec29b45776080364b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798385,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808249,
             "region_id":85687041,
             "venue_id":320569653
         }
     ],
     "wof:id":320569653,
-    "wof:lastmodified":1473879429,
+    "wof:lastmodified":1492482231,
     "wof:name":"P. Westmaas",
-    "wof:parent_id":85798385,
+    "wof:parent_id":1108808249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

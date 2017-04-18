@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.7241210938,52.1544876099,6.7241210938,52.1544876099",
     "geom:latitude":52.154488,
     "geom:longitude":6.724121,
@@ -24,17 +25,32 @@
     "sg:province":"NL.08",
     "sg:website":"http://www.luchtenlicht.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473829,
+        85633337,
+        101807203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BZto1IjrWl8xDTyeIqALh_52.154488_6.724121@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802202,
-    "wof:geomhash":"b5034e7ee55066ad6bd5e2034c962175",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d263fb31c04da76bd4e603df52165ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473829,
+            "locality_id":101807203,
+            "region_id":85687045,
+            "venue_id":1091594749
+        }
+    ],
     "wof:id":1091594749,
-    "wof:lastmodified":1473878737,
+    "wof:lastmodified":1492509802,
     "wof:name":"Lucht En Licht",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

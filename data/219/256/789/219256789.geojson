@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.850342,52.351696,4.850342,52.351696",
     "geom:latitude":52.351696,
     "geom:longitude":4.850342,
@@ -35,9 +36,12 @@
     "sg:website":"http://www.pipocas.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803797,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -45,21 +49,23 @@
         "sg:id":"SG_7HsF4v0xakaJUU5njyqWHH_52.351696_4.850342@1306269924"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fde92c9fc82ed141b7f7f2216f9a4afa",
+    "wof:geomhash":"de512e0cb52baea540b4942198fd61cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803797,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":219256789
         }
     ],
     "wof:id":219256789,
-    "wof:lastmodified":1473878736,
+    "wof:lastmodified":1492501881,
     "wof:name":"Pipocas Bv",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803797,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

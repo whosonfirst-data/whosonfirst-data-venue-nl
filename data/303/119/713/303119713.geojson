@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.333199,52.084656,4.333199,52.084656",
     "geom:latitude":52.084656,
     "geom:longitude":4.333199,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797093,
+        1108808239,
+        102191581,
+        1108805963,
         85633337,
         101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_4dB8M8e0PvY1RiMYwyHKEG_52.084656_4.333199@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9cad6375db207723dd5202ca598df9f1",
+    "wof:geomhash":"1835ac3cb21f6aa6ac67976b0e3e512d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797093,
+            "macrohood_id":1108805963,
+            "neighbourhood_id":1108808239,
             "region_id":85687041,
             "venue_id":303119713
         }
     ],
     "wof:id":303119713,
-    "wof:lastmodified":1473878709,
+    "wof:lastmodified":1492472645,
     "wof:name":"Klink Vof Bakkerij",
-    "wof:parent_id":85797093,
+    "wof:parent_id":1108808239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

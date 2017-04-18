@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.897916,52.362289,4.897916,52.362289",
     "geom:latitude":52.362289,
     "geom:longitude":4.897916,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.stadsherstel.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803805,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_03H1ddjILfbRtwSqs5nnHI_52.362289_4.897916@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bff256521ea7bab374b22cf9722be941",
+    "wof:geomhash":"0908e8a16fb3fd0f29ecf1b331f2e9ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803805,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":320659851
         }
     ],
     "wof:id":320659851,
-    "wof:lastmodified":1473879490,
+    "wof:lastmodified":1492482510,
     "wof:name":"Stadsherstel Amsterdam Nv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

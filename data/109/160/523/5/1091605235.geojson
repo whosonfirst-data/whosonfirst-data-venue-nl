@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4629039764,52.0003166199,5.4629039764,52.0003166199",
     "geom:latitude":52.000317,
     "geom:longitude":5.462904,
@@ -24,17 +25,32 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.arrowtrade.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474547,
+        85633337,
+        101808445
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zUDOkDwGFNSwJtXYtRO59_52.000317_5.462904@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802975,
-    "wof:geomhash":"d9ab173ffc996d917e247e8a01e8bcb8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6f958ce4bbd7a308a45cdb29640355a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474547,
+            "locality_id":101808445,
+            "region_id":85687039,
+            "venue_id":1091605235
+        }
+    ],
     "wof:id":1091605235,
-    "wof:lastmodified":1473878728,
+    "wof:lastmodified":1492512899,
     "wof:name":"Arrow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

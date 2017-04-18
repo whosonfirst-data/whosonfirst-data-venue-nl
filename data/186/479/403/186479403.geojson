@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.871745,52.379089,4.871745,52.379089",
     "geom:latitude":52.379089,
     "geom:longitude":4.871745,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803751,
+        1108802915,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6cwqWQNIme8ukF0rXDrzwT_52.379089_4.871745@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2f6eba6ffc46469a8079afe14ec4de31",
+    "wof:geomhash":"c4001971829a0f320fe5154ea8d1d213",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803751,
+            "neighbourhood_id":1108802915,
             "region_id":85687053,
             "venue_id":186479403
         }
     ],
     "wof:id":186479403,
-    "wof:lastmodified":1473879503,
+    "wof:lastmodified":1492507538,
     "wof:name":"Plancius Sticht",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

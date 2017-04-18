@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.1506471634,53.1045608521,7.1506471634,53.1045608521",
     "geom:latitude":53.104561,
     "geom:longitude":7.150647,
@@ -24,17 +25,32 @@
     "sg:province":"Groningen",
     "sg:website":"HTTP://www.web-impression.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473705,
+        85633337,
+        101806195
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RdYfHcsWvpA8nQrWHEDSO_53.104561_7.150647@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800840,
-    "wof:geomhash":"a965eb676902b2c67fd904a276a3c2c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b2b0a5b3bc6fcb10a675631b15f3f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473705,
+            "locality_id":101806195,
+            "region_id":85687059,
+            "venue_id":1091575785
+        }
+    ],
     "wof:id":1091575785,
-    "wof:lastmodified":1473878895,
+    "wof:lastmodified":1492511273,
     "wof:name":"Web Impression",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

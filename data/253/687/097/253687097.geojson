@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.383331,52.162418,5.383331,52.162418",
     "geom:latitude":52.162418,
     "geom:longitude":5.383331,
@@ -24,41 +25,45 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797913,
-        85633337,
-        101751821,
-        85687039,
         85798419,
-        101855289
+        102191581,
+        404473971,
+        85633337,
+        101855289,
+        85687039,
+        85797913,
+        101751821
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Cz2OeylWUW56MDSYnkJy4_52.162418_5.383331@1306269953"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e39aa27ac31c8d89890a33644e5b335d",
+    "wof:geomhash":"af909a41035070c365cad73493eca96e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751821,
-            "neighbourhood_id":85797913,
+            "localadmin_id":404473971,
+            "locality_id":101855289,
+            "neighbourhood_id":85798419,
             "region_id":85687039,
             "venue_id":253687097
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101855289,
-            "neighbourhood_id":85798419,
+            "localadmin_id":404473971,
+            "locality_id":101751821,
+            "neighbourhood_id":85797913,
             "region_id":85687039,
             "venue_id":253687097
         }
     ],
     "wof:id":253687097,
-    "wof:lastmodified":1473879691,
+    "wof:lastmodified":1492489615,
     "wof:name":"Jbs Install & Systeembouw",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

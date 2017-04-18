@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.866955,52.3311,4.866955,52.3311",
     "geom:latitude":52.3311,
     "geom:longitude":4.866955,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803659,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6IE2ZAKlS7BYti5XXIayzE_52.331100_4.866955@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cf0d6f04a2635f69ca9e217eb919c689",
+    "wof:geomhash":"4bcb12e784dd5d7473b396b643bf5d69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803659,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":320821117
         }
     ],
     "wof:id":320821117,
-    "wof:lastmodified":1473879618,
+    "wof:lastmodified":1492484431,
     "wof:name":"Rooijackers, J W",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803659,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

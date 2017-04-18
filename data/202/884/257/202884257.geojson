@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.883891,52.364925,4.883891,52.364925",
     "geom:latitude":52.364925,
     "geom:longitude":4.883891,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803553,
+        1108802791,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1m5un1SOEBf2novp98kR0d_52.364925_4.883891@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"600a603be2a77c408e0c6e993b91c746",
+    "wof:geomhash":"c965b101cbed045483f5419d7cf91c04",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803553,
+            "neighbourhood_id":1108802791,
             "region_id":85687053,
             "venue_id":202884257
         }
     ],
     "wof:id":202884257,
-    "wof:lastmodified":1473879365,
+    "wof:lastmodified":1492498192,
     "wof:name":"Taggenbrock",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

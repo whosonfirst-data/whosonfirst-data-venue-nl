@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.94217,52.350735,4.94217,52.350735",
     "geom:latitude":52.350735,
     "geom:longitude":4.94217,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.h2c.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804217,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_4wmacrRimjyFSIFiDHAK35_52.350735_4.942170@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"46306e9968495ab31c35c7925b726120",
+    "wof:geomhash":"6d23dee7e364412b32fbc207eddc4a52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804217,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":219806359
         }
     ],
     "wof:id":219806359,
-    "wof:lastmodified":1473879729,
+    "wof:lastmodified":1492502025,
     "wof:name":"H2C",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.935175,52.351006,4.935175,52.351006",
     "geom:latitude":52.351006,
     "geom:longitude":4.935175,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803929,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0YY5tzxJJD39Q0P645D2p3_52.351006_4.935175@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1c56ff2359516b75ff2b876cf9b74529",
+    "wof:geomhash":"2b45e2325d927882007783af7ee239f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803929,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":252788371
         }
     ],
     "wof:id":252788371,
-    "wof:lastmodified":1473878508,
+    "wof:lastmodified":1492504843,
     "wof:name":"Koolhaas-Wilke Arts",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

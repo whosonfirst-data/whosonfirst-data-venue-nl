@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.81226,52.373768,4.81226,52.373768",
     "geom:latitude":52.373768,
     "geom:longitude":4.81226,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803595,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_79w7Wf5AWRUEismBQavBoY_52.373768_4.812260@1306269905"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b21c8086f20017797bebb2f1f26f4827",
+    "wof:geomhash":"24a90b52b17ab7b973b86ac314b7f932",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "macrohood_id":1108802303,
+            "microhood_id":1108803595,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":169764771
         }
     ],
     "wof:id":169764771,
-    "wof:lastmodified":1473878647,
+    "wof:lastmodified":1492478331,
     "wof:name":"Marman Coiffures",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

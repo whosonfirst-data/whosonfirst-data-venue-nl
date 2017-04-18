@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.896383,52.377548,4.896383,52.377548",
     "geom:latitude":52.377548,
     "geom:longitude":4.896383,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803337,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_4DecFWAg8ZpBeEk5vEiLgq_52.377548_4.896383@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e3a90365fa7ca6a38aeff9fc931c435b",
+    "wof:geomhash":"314593195500d67454bad5cc53994cd7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803337,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":320210209
         }
     ],
     "wof:id":320210209,
-    "wof:lastmodified":1473879093,
+    "wof:lastmodified":1492482695,
     "wof:name":"Kadohoek",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803337,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

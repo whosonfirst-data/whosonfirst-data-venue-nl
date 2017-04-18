@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.128664,52.066299,5.128664,52.066299",
     "geom:latitude":52.066299,
     "geom:longitude":5.128664,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859943,
+        1108808795,
+        102191581,
+        1108832363,
         85633337,
+        101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_0PtmeAHg8YyIWtdWpcjtT0_52.066299_5.128664@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d3c9127d50301c89c97fc016530b7d6e",
+    "wof:geomhash":"6640d849e4159f1b3193c9fca3cceb95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859943,
+            "locality_id":101751827,
+            "macrohood_id":1108832363,
+            "neighbourhood_id":1108808795,
             "region_id":85687039,
             "venue_id":219571127
         }
     ],
     "wof:id":219571127,
-    "wof:lastmodified":1473879400,
+    "wof:lastmodified":1492503714,
     "wof:name":"Balance Adm & Adviesbureau",
-    "wof:parent_id":85859943,
+    "wof:parent_id":1108808795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

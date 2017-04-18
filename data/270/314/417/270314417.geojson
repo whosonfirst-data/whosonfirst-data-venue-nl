@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.930268,52.409363,4.930268,52.409363",
     "geom:latitude":52.409363,
     "geom:longitude":4.930268,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803919,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5baDteRVplVOqhJlLjzsDD_52.409363_4.930268@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"41a2467d99feb25bf4e334600ecac67e",
+    "wof:geomhash":"f0ece93716b8b9ab9c76f14072e8de57",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803919,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":270314417
         }
     ],
     "wof:id":270314417,
-    "wof:lastmodified":1473879105,
+    "wof:lastmodified":1492499313,
     "wof:name":"Kleine Tuin, De",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

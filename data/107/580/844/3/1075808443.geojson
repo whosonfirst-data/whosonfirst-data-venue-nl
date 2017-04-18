@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6436457634,52.1301422119,4.6436457634,52.1301422119",
     "geom:latitude":52.130142,
     "geom:longitude":4.643646,
@@ -23,17 +24,32 @@
     "sg:postcode":"2408 AX",
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474147,
+        85633337,
+        101751837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wQSTDXq1THdN51gdsmdLA_52.130142_4.643646@1306269940"
     },
     "wof:country":"NL",
     "wof:created":1473798578,
-    "wof:geomhash":"7f21824080a89e1b07f7f84b2dd02592",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86b96616c5ab6e38500b02aef7244899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474147,
+            "locality_id":101751837,
+            "region_id":85687041,
+            "venue_id":1075808443
+        }
+    ],
     "wof:id":1075808443,
-    "wof:lastmodified":1473878630,
+    "wof:lastmodified":1492485983,
     "wof:name":"Letter Partners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

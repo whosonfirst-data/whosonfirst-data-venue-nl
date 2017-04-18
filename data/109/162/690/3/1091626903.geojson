@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.415345192,52.0817260742,5.415345192,52.0817260742",
     "geom:latitude":52.081726,
     "geom:longitude":5.415345,
@@ -23,17 +24,32 @@
     "sg:postcode":"3931 JK",
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474011,
+        85633337,
+        101808437
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12zSDiYiJDha3HAM0m3DdZ_52.081726_5.415345@1306270019"
     },
     "wof:country":"NL",
     "wof:created":1473804309,
-    "wof:geomhash":"adb718fdbb54c2822f17a6beefe1f88f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8d39107ce83bcf41d779486f9911bdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474011,
+            "locality_id":101808437,
+            "region_id":85687039,
+            "venue_id":1091626903
+        }
+    ],
     "wof:id":1091626903,
-    "wof:lastmodified":1473878950,
+    "wof:lastmodified":1492512335,
     "wof:name":"Greet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

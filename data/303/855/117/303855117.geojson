@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.421409,51.906391,4.421409,51.906391",
     "geom:latitude":51.906391,
     "geom:longitude":4.421409,
@@ -25,39 +26,33 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859755,
+        102191581,
         85633337,
         101751843,
-        85687041,
-        85859733
+        1108805755,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1E6vfmRtGquV5BwbuwOWjV_51.906391_4.421409@1306269988"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7c1dcd6fcbfdb800901342179b986542",
+    "wof:geomhash":"c4bf7f67013c5c3a337f175fb19a920b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805755,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
             "neighbourhood_id":85859755,
             "region_id":85687041,
             "venue_id":303855117
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751843,
-            "neighbourhood_id":85859733,
-            "region_id":85687041,
-            "venue_id":303855117
         }
     ],
     "wof:id":303855117,
-    "wof:lastmodified":1473879602,
+    "wof:lastmodified":1492473032,
     "wof:name":"Seabrex Rotterdam Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

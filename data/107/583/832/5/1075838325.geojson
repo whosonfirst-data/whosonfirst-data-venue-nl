@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3999152184,52.079208374,4.3999152184,52.079208374",
     "geom:latitude":52.079208,
     "geom:longitude":4.399915,
@@ -24,14 +25,13 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859699,
+        85859675,
         102191581,
         404474685,
         85633337,
         101754679,
         85687041,
-        85859675,
-        101754709
+        85859699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,8 +39,17 @@
     },
     "wof:country":"NL",
     "wof:created":1473800258,
-    "wof:geomhash":"93e7929df8267bd2fa2eaf1e0bddff35",
+    "wof:geomhash":"5e2f82eb406bd2b80b3876ca131e2676",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474685,
+            "locality_id":101754679,
+            "neighbourhood_id":85859675,
+            "region_id":85687041,
+            "venue_id":1075838325
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -49,21 +58,12 @@
             "neighbourhood_id":85859699,
             "region_id":85687041,
             "venue_id":1075838325
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474685,
-            "locality_id":101754709,
-            "neighbourhood_id":85859675,
-            "region_id":85687041,
-            "venue_id":1075838325
         }
     ],
     "wof:id":1075838325,
-    "wof:lastmodified":1473879497,
+    "wof:lastmodified":1492485860,
     "wof:name":"Wass Aad Vd Akker",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

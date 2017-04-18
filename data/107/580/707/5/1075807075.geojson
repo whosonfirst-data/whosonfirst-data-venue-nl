@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.4616131783,51.9423866272,6.4616131783,51.9423866272",
     "geom:latitude":51.942387,
     "geom:longitude":6.461613,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.sturris.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474543,
+        85633337,
+        101808737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xSGsTCx4s2FRgmp9fiqjV_51.942387_6.461613@1306269920"
     },
     "wof:country":"NL",
     "wof:created":1473798498,
-    "wof:geomhash":"eebe0bacdcad17a1747f2dad5b547d3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56e09d89cf28212ded4210df62d88275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474543,
+            "locality_id":101808737,
+            "region_id":85687043,
+            "venue_id":1075807075
+        }
+    ],
     "wof:id":1075807075,
-    "wof:lastmodified":1473878523,
+    "wof:lastmodified":1492486034,
     "wof:name":"Sturris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.836338,52.363167,4.836338,52.363167",
     "geom:latitude":52.363167,
     "geom:longitude":4.836338,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803301,
         85798223,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_4iWsSc3at3lTD9qBBcDjdi_52.363167_4.836338@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"09a71853cd24950798786a95034c81ec",
+    "wof:geomhash":"4f56df39ee011f3da0774c7e363db410",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803301,
             "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":303150217
         }
     ],
     "wof:id":303150217,
-    "wof:lastmodified":1473878781,
+    "wof:lastmodified":1492473826,
     "wof:name":"Vries, De",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

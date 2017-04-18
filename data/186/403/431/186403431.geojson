@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9465,52.394806,4.9465,52.394806",
     "geom:latitude":52.394806,
     "geom:longitude":4.9465,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108803543,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4wd3fsSQY57aQeYALKttrd_52.394806_4.946500@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9c2f679f42de8a98970a8eab1b0a1c0f",
+    "wof:geomhash":"26fe118eba0f1fc3293cfd2d471f0891",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803543,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":186403431
         }
     ],
     "wof:id":186403431,
-    "wof:lastmodified":1473879389,
+    "wof:lastmodified":1492508138,
     "wof:name":"Historisch Centrum Amsterdam Noord, Sticht",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803543,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

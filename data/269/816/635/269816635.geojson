@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884461,52.32476,4.884461,52.32476",
     "geom:latitude":52.32476,
     "geom:longitude":4.884461,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804145,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_66M1sApdeu7SGltpONwBrw_52.324760_4.884461@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cc7e81f5cf106b81ea6615494a4c46f7",
+    "wof:geomhash":"5ba63a1c3421dec15c72010dab23a640",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804145,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":269816635
         }
     ],
     "wof:id":269816635,
-    "wof:lastmodified":1473879491,
+    "wof:lastmodified":1492496879,
     "wof:name":"Chinees Indisch Restaurant Happy Garden",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.260256,52.076397,4.260256,52.076397",
     "geom:latitude":52.076397,
     "geom:longitude":4.260256,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859589,
+        1108808185,
+        102191581,
+        1108805965,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1hyH0OMjfet6rNZ0ENu1qn_52.076397_4.260256@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ad3b1b43084a73645aa84cd383ef8ea4",
+    "wof:geomhash":"69d03ba105f5df32684bae6fba90aae1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859589,
+            "macrohood_id":1108805965,
+            "neighbourhood_id":1108808185,
             "region_id":85687041,
             "venue_id":303052359
         }
     ],
     "wof:id":303052359,
-    "wof:lastmodified":1473878514,
+    "wof:lastmodified":1492472378,
     "wof:name":"Kbs",
-    "wof:parent_id":85859589,
+    "wof:parent_id":1108808185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

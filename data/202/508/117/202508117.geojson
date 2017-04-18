@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.932935,52.365498,4.932935,52.365498",
     "geom:latitude":52.365498,
     "geom:longitude":4.932935,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803435,
+        1108802845,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1BsPfzx7fmUPwLK59eVPLb_52.365498_4.932935@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"185105d3b797ab008714c7485824712c",
+    "wof:geomhash":"3f0ffa0f22c60c01881836afdb3cf623",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803435,
+            "neighbourhood_id":1108802845,
             "region_id":85687053,
             "venue_id":202508117
         }
     ],
     "wof:id":202508117,
-    "wof:lastmodified":1473878805,
+    "wof:lastmodified":1492497951,
     "wof:name":"Riedwijn",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

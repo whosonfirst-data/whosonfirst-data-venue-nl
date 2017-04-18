@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4749398232,51.9942703247,4.4749398232,51.9942703247",
     "geom:latitude":51.99427,
     "geom:longitude":4.47494,
@@ -24,9 +25,11 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474555,
         85633337,
-        85797723,
-        85687041
+        101807023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473799977,
-    "wof:geomhash":"1c402b63cf8a384d4c7e42a0e1f0682a",
+    "wof:geomhash":"bb3fe2130cea92a75060df56383e5949",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797723,
+            "localadmin_id":404474555,
+            "locality_id":101807023,
             "region_id":85687041,
             "venue_id":1075833377
         }
     ],
     "wof:id":1075833377,
-    "wof:lastmodified":1473879350,
+    "wof:lastmodified":1492485827,
     "wof:name":"Hema",
-    "wof:parent_id":85797723,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

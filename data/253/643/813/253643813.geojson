@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.833009,52.382008,4.833009,52.382008",
     "geom:latitude":52.382008,
     "geom:longitude":4.833009,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108804011,
+        1108802905,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2LkJAa4466btCR5yPhNlQA_52.382008_4.833009@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7edf3dabfa974a9862447cb224c397b3",
+    "wof:geomhash":"d2c46c15112498f550a274378bea00ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108804011,
+            "neighbourhood_id":1108802905,
             "region_id":85687053,
             "venue_id":253643813
         }
     ],
     "wof:id":253643813,
-    "wof:lastmodified":1473879713,
+    "wof:lastmodified":1492489539,
     "wof:name":"Waterhoentje, Het",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108804011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

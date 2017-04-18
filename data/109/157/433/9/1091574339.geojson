@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6714229584,52.2974967957,4.6714229584,52.2974967957",
     "geom:latitude":52.297497,
     "geom:longitude":4.671423,
@@ -24,17 +25,32 @@
     "sg:province":"North Holland",
     "sg:website":"http://www.orbitstudio.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474065,
+        85633337,
+        101751899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SpaSgkfnPnxdG8tdzQu7Y_52.297497_4.671423@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800750,
-    "wof:geomhash":"da6551bce01442ba3e35c6da70e26de3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd60836c023a60115791266705801647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474065,
+            "locality_id":101751899,
+            "region_id":85687053,
+            "venue_id":1091574339
+        }
+    ],
     "wof:id":1091574339,
-    "wof:lastmodified":1473878779,
+    "wof:lastmodified":1492511014,
     "wof:name":"Orbit Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

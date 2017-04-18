@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.793738842,52.7895355225,4.793738842,52.7895355225",
     "geom:latitude":52.789536,
     "geom:longitude":4.793739,
@@ -33,17 +34,32 @@
         "week-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474113,
+        85633337,
+        101807377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XycR4OzERt10ZVwV1AYLY_52.789536_4.793739@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473800904,
-    "wof:geomhash":"62bebeada7a7efc706f8b70615d5ba74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d72aa84f00b8952052a5edbd1a9ffcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474113,
+            "locality_id":101807377,
+            "region_id":85687053,
+            "venue_id":1091577103
+        }
+    ],
     "wof:id":1091577103,
-    "wof:lastmodified":1473878963,
+    "wof:lastmodified":1492511444,
     "wof:name":"Zondagochtendblad Schagen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

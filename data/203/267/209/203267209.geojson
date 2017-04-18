@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.812036,52.345596,4.812036,52.345596",
     "geom:latitude":52.345596,
     "geom:longitude":4.812036,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803345,
+        1108802901,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1Z0pGKXb7ECKSe7CuSBUk1_52.345596_4.812036@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"26ef486bf760a26dfb09332b0ff5b935",
+    "wof:geomhash":"4a56b1fd5d28e3e9624010edb0d5c5d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803345,
+            "neighbourhood_id":1108802901,
             "region_id":85687053,
             "venue_id":203267209
         }
     ],
     "wof:id":203267209,
-    "wof:lastmodified":1473879205,
+    "wof:lastmodified":1492480408,
     "wof:name":"Vishandel J. Hendriks",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

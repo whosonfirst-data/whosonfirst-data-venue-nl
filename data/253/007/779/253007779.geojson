@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.339669,52.064606,4.339669,52.064606",
     "geom:latitude":52.064606,
     "geom:longitude":4.339669,
@@ -25,28 +26,46 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859633,
+        102191581,
+        1108808077,
         85633337,
         101752763,
-        85687041
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5k2kFXY2wS0VCYwu1M0jNP_52.064606_4.339669@1306269945"
     },
     "wof:country":"NL",
-    "wof:geomhash":"eed026c44509d47e05896a37be0f0715",
+    "wof:geomhash":"d96a68b87621f7d2ff41030b1b2e575d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808077,
+            "neighbourhood_id":85859633,
+            "region_id":85687041,
+            "venue_id":253007779
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
+            "locality_id":101754743,
+            "macrohood_id":1108808077,
             "neighbourhood_id":85859633,
             "region_id":85687041,
             "venue_id":253007779
         }
     ],
     "wof:id":253007779,
-    "wof:lastmodified":1473878519,
+    "wof:lastmodified":1492488487,
     "wof:name":"G. Van Weers Paper Recycling Bv",
     "wof:parent_id":85859633,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882168,52.373623,4.882168,52.373623",
     "geom:latitude":52.373623,
     "geom:longitude":4.882168,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2hc17JU9pu0iCwyCuwZN5U_52.373623_4.882168@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cc3ad9b06b021d56a16b3ef70221cfae",
+    "wof:geomhash":"4a59bb2ae86cc56a9888d4ce702ba44d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":287140849
         }
     ],
     "wof:id":287140849,
-    "wof:lastmodified":1473878932,
+    "wof:lastmodified":1492514073,
     "wof:name":"Ako",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

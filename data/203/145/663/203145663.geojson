@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.83215,52.374947,4.83215,52.374947",
     "geom:latitude":52.374947,
     "geom:longitude":4.83215,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108804125,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5Y60QQAKULANQGhEiKbLfP_52.374947_4.832150@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"11aa105b0f32e5c78b72e72399d8e34a",
+    "wof:geomhash":"2b7a9eb0546f42ed8b63f711bbdef481",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "macrohood_id":1108802303,
+            "microhood_id":1108804125,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":203145663
         }
     ],
     "wof:id":203145663,
-    "wof:lastmodified":1473879009,
+    "wof:lastmodified":1492481037,
     "wof:name":"Import-Export-En Agentuurhandel W Heijma",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108804125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

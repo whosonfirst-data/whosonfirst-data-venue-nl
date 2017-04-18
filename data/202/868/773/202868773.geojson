@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.922784,52.355579,4.922784,52.355579",
     "geom:latitude":52.355579,
     "geom:longitude":4.922784,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803941,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_26ATgr1VmyRl8ZydOk4GMD_52.355579_4.922784@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a4dfcb86a15c6a8308929e7a120cac14",
+    "wof:geomhash":"03e5bc4c5f68e18b88f384715dd9b7f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":202868773
         }
     ],
     "wof:id":202868773,
-    "wof:lastmodified":1473879363,
+    "wof:lastmodified":1492499095,
     "wof:name":"Hauschildt, D P",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

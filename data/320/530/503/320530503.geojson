@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.897593,52.372002,4.897593,52.372002",
     "geom:latitude":52.372002,
     "geom:longitude":4.897593,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803883,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0WGbIUd4dEyN2BtRQTqo9s_52.372002_4.897593@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"24de84b997143c6f0d8caa5ccb50787d",
+    "wof:geomhash":"5ba32a5db1309eedef86034af233e515",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803883,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":320530503
         }
     ],
     "wof:id":320530503,
-    "wof:lastmodified":1473879379,
+    "wof:lastmodified":1492484705,
     "wof:name":"The Flying Dutchman",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

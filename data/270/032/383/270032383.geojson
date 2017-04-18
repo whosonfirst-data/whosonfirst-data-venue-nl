@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.405828,51.944973,4.405828,51.944973",
     "geom:latitude":51.944973,
     "geom:longitude":4.405828,
@@ -25,31 +26,46 @@
     "sg:website":"http://www.technogym.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859705,
+        1108805757,
+        102191581,
         85633337,
-        101751845,
-        85687041
+        101751843,
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AongXE7J8sjsRIOhWPC5W_51.944973_4.405828@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4b2fbaceecfffa4a916f4d45778c4243",
+    "wof:geomhash":"7fc32488717507cdbbe50c0fe68c4897",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805739,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":270032383
+        },
+        {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474253,
             "locality_id":101751845,
-            "neighbourhood_id":85859705,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":270032383
         }
     ],
     "wof:id":270032383,
-    "wof:lastmodified":1473878495,
+    "wof:lastmodified":1492499625,
     "wof:name":"Technogym Benelux Bv",
-    "wof:parent_id":85859705,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

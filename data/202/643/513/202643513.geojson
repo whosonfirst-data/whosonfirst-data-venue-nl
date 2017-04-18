@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.898098,52.357082,4.898098,52.357082",
     "geom:latitude":52.357082,
     "geom:longitude":4.898098,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803931,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5aCDFv3dlPTkgK5P3Et2Fq_52.357082_4.898098@1306269917"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cee4bbb11ecdd25b10091ac6bf2bff6c",
+    "wof:geomhash":"3fd631da92b72559241c1d690b3965dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803931,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":202643513
         }
     ],
     "wof:id":202643513,
-    "wof:lastmodified":1473879095,
+    "wof:lastmodified":1492497941,
     "wof:name":"Vitrage Hal",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

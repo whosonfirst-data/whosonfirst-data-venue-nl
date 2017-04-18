@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.898102,52.364834,4.898102,52.364834",
     "geom:latitude":52.364834,
     "geom:longitude":4.898102,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.stix.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803805,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_6gJX07zSwb42D8hQdv8G2H_52.364834_4.898102@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"78907ddbe66250a34477537573a555cc",
+    "wof:geomhash":"103b9e0b6b42311ca5d1a3943400b496",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803805,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":186078793
         }
     ],
     "wof:id":186078793,
-    "wof:lastmodified":1473878863,
+    "wof:lastmodified":1492508660,
     "wof:name":"Stix",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

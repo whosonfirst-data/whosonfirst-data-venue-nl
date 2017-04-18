@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.256338,52.079887,4.256338,52.079887",
     "geom:latitude":52.079887,
     "geom:longitude":4.256338,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859589,
+        85798595,
+        102191581,
+        1108808131,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2JZxQrNeFI6jZccpA7t0vI_52.079887_4.256338@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a42c016664a8eb2a57b73688c5aec6aa",
+    "wof:geomhash":"87e65e0b004f087359e95f6f73ade2e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859589,
+            "macrohood_id":1108808131,
+            "neighbourhood_id":85798595,
             "region_id":85687041,
             "venue_id":202422129
         }
     ],
     "wof:id":202422129,
-    "wof:lastmodified":1473878617,
+    "wof:lastmodified":1492497255,
     "wof:name":"Adio Techn Ben De Vries",
-    "wof:parent_id":85859589,
+    "wof:parent_id":85798595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

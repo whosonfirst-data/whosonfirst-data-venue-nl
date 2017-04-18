@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.418806076,53.1761627197,5.418806076,53.1761627197",
     "geom:latitude":53.176163,
     "geom:longitude":5.418806,
@@ -24,17 +25,32 @@
     "sg:province":"Friesland",
     "sg:website":"http://www.tenbeaufort.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687055,
+        102191581,
+        404473769,
+        85633337,
+        101806147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BPLQ7vMX2Q2u7hCjbSETJ_53.176163_5.418806@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800539,
-    "wof:geomhash":"bcb1e0d0ddd24d76ffd3ae514de9210f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"689d6f343954df741c12ed2e266ccb5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473769,
+            "locality_id":101806147,
+            "region_id":85687055,
+            "venue_id":1091570991
+        }
+    ],
     "wof:id":1091570991,
-    "wof:lastmodified":1473878535,
+    "wof:lastmodified":1492511488,
     "wof:name":"Ten Beaufort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

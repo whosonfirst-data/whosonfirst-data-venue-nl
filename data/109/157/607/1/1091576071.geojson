@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2008547783,52.3792648315,5.2008547783,52.3792648315",
     "geom:latitude":52.379265,
     "geom:longitude":5.200855,
@@ -24,17 +25,32 @@
     "sg:province":"NL.",
     "sg:website":"http://www.xitemedia.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101751877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_086xWIsaZrSl3wy5pLL2AO_52.379265_5.200855@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800854,
-    "wof:geomhash":"fd5cf2c466c7676939efb29c11958773",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7843113287785602ddcec24592f81b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101751877,
+            "region_id":85687049,
+            "venue_id":1091576071
+        }
+    ],
     "wof:id":1091576071,
-    "wof:lastmodified":1473878922,
+    "wof:lastmodified":1492511475,
     "wof:name":"Xitemedia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

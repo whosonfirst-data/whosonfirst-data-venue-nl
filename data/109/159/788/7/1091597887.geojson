@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6440181732,52.3400802612,6.6440181732,52.3400802612",
     "geom:latitude":52.34008,
     "geom:longitude":6.644018,
@@ -24,17 +25,32 @@
     "sg:province":"Overijssel",
     "sg:website":"http://www.decorette.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473819,
+        85633337,
+        101751863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XG1P2VS8RWr4Afyzszt39_52.340080_6.644018@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802398,
-    "wof:geomhash":"4d5da7634cf9533b622f72e168d9da95",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c12a3df6afe3b72adf23e8ef87f0fc4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473819,
+            "locality_id":101751863,
+            "region_id":85687045,
+            "venue_id":1091597887
+        }
+    ],
     "wof:id":1091597887,
-    "wof:lastmodified":1473878942,
+    "wof:lastmodified":1492509461,
     "wof:name":"Decorette Van Dijk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

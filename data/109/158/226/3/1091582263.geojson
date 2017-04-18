@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3013029099,52.0811424255,4.3013029099,52.0811424255",
     "geom:latitude":52.081142,
     "geom:longitude":4.301303,
@@ -24,13 +25,13 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797685,
+        1108808221,
         102191581,
-        404474179,
+        1108808061,
         85633337,
         101752763,
-        85687041,
-        85859619
+        1108808053,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,31 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473801298,
-    "wof:geomhash":"21da4b178b1c2c79709595711f14053b",
+    "wof:geomhash":"1cb541bf87e7f6ad8e805dacfd8f339a",
     "wof:hierarchy":[
         {
+            "borough_id":1108808053,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474179,
             "locality_id":101752763,
-            "neighbourhood_id":85797685,
-            "region_id":85687041,
-            "venue_id":1091582263
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474179,
-            "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":1091582263
         }
     ],
     "wof:id":1091582263,
-    "wof:lastmodified":1473878604,
+    "wof:lastmodified":1492511897,
     "wof:name":"Mondial Au-Pairbureau",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

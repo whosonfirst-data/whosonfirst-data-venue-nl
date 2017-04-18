@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5305857658,52.3242301941,5.5305857658,52.3242301941",
     "geom:latitude":52.32423,
     "geom:longitude":5.530586,
@@ -24,17 +25,30 @@
     "sg:province":"NL.",
     "sg:website":"http://www.infram.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404473741,
+        85633337,
+        85687049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aGWkXmE4azIoWfF5s7027_52.324230_5.530586@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800443,
-    "wof:geomhash":"385032e5588a0215cacc7b2b5f2c7c96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5b424756b2154eeffee004ff7636a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473741,
+            "region_id":85687049,
+            "venue_id":1091569683
+        }
+    ],
     "wof:id":1091569683,
-    "wof:lastmodified":1473878607,
+    "wof:lastmodified":1492510968,
     "wof:name":"Infram Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

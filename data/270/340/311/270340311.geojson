@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.41188,51.946663,4.41188,51.946663",
     "geom:latitude":51.946663,
     "geom:longitude":4.41188,
@@ -24,30 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798367,
+        1108805757,
+        102191581,
         85633337,
-        85687041
+        101751843,
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1c3rUMVADV3p4THQ5iNiLU_51.946663_4.411880@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"78861c0bd84ff3ccab75130eb6f08e09",
+    "wof:geomhash":"92f9f3ef00c45ab03fac9fdd623d0b0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805739,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798367,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":270340311
+        },
+        {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474253,
+            "locality_id":101751845,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":270340311
         }
     ],
     "wof:id":270340311,
-    "wof:lastmodified":1473879101,
+    "wof:lastmodified":1492500311,
     "wof:name":"Kenda Europe Bv",
-    "wof:parent_id":85798367,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.32331,52.056927,4.32331,52.056927",
     "geom:latitude":52.056927,
     "geom:longitude":4.32331,
@@ -24,40 +25,49 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798433,
+        1108808315,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
+        101752763,
+        1108808049,
         85687041,
-        85859623
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BjJEDoJe4ZcrH1FB3sIDo_52.056927_4.323310@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b341d243bafb70436be3f0d2a8dbef6b",
+    "wof:geomhash":"28077ef31ed5603e186e9a935fd15a90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798433,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808315,
             "region_id":85687041,
             "venue_id":286396601
         },
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808315,
             "region_id":85687041,
             "venue_id":286396601
         }
     ],
     "wof:id":286396601,
-    "wof:lastmodified":1473878946,
+    "wof:lastmodified":1492477209,
     "wof:name":"De Ami Spec Ruud Van Oosten",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108808315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

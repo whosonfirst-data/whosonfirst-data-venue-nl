@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879516,52.366344,4.879516,52.366344",
     "geom:latitude":52.366344,
     "geom:longitude":4.879516,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803661,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1oC3aksbMZkzug9NNazxhN_52.366344_4.879516@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a0c8f11c5d4c0177bee26d6604b8f928",
+    "wof:geomhash":"ab809b989cb15ba77de7f78b2f0fd6aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803661,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":252731829
         }
     ],
     "wof:id":252731829,
-    "wof:lastmodified":1473878473,
+    "wof:lastmodified":1492504837,
     "wof:name":"Huisman Makelaardij Amsterdam",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803661,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

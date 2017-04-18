@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1689119339,52.0348396301,5.1689119339,52.0348396301",
     "geom:latitude":52.03484,
     "geom:longitude":5.168912,
@@ -24,9 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687039,
+        102191581,
+        404473987,
         85633337,
-        85859943,
-        85687039
+        101807003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473801774,
-    "wof:geomhash":"2fce9cba6606a79ee3dc15d225d728b1",
+    "wof:geomhash":"527225e3f77fb2ed0f1e30d08d4d6c68",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85859943,
+            "localadmin_id":404473987,
+            "locality_id":101807003,
             "region_id":85687039,
             "venue_id":1091587487
         }
     ],
     "wof:id":1091587487,
-    "wof:lastmodified":1473878912,
+    "wof:lastmodified":1492511850,
     "wof:name":"Trend",
-    "wof:parent_id":85859943,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

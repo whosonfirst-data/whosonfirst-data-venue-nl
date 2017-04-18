@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.910487,52.361881,4.910487,52.361881",
     "geom:latitude":52.361881,
     "geom:longitude":4.910487,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803763,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5Z3kIN5z2mVmPWsqHrzbdt_52.361881_4.910487@1306269920"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7fffb1d8eb26f3d2651dee44c8181596",
+    "wof:geomhash":"4114fab89ceb761beb3b413a944b11dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803763,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":202975315
         }
     ],
     "wof:id":202975315,
-    "wof:lastmodified":1473879450,
+    "wof:lastmodified":1492498784,
     "wof:name":"Kvo",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803763,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

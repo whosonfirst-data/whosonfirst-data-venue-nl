@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.970748,52.357128,4.970748,52.357128",
     "geom:latitude":52.357128,
     "geom:longitude":4.970748,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797433,
+        1108803329,
+        1108802965,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0iOeIS0M1SzRzPNbTYs3kY_52.357128_4.970748@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"680c3493cc2c976d8ececcee6ff53e20",
+    "wof:geomhash":"6793340e42835e26e61aad4df21e5338",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797433,
+            "microhood_id":1108803329,
+            "neighbourhood_id":1108802965,
             "region_id":85687053,
             "venue_id":320798537
         }
     ],
     "wof:id":320798537,
-    "wof:lastmodified":1473879614,
+    "wof:lastmodified":1492482611,
     "wof:name":"Pampus",
-    "wof:parent_id":85797433,
+    "wof:parent_id":1108803329,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.249393,52.066055,4.249393,52.066055",
     "geom:latitude":52.066055,
     "geom:longitude":4.249393,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797811,
+        85859585,
+        102191581,
+        1108808133,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0I8UHxG5fpbMmUmVOlhXEd_52.066055_4.249393@1306269949"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6cbbc81ad4da565d298e8fea408fe108",
+    "wof:geomhash":"c032b13746f5a2eae3fd9d77761b1733",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797811,
+            "macrohood_id":1108808133,
+            "neighbourhood_id":85859585,
             "region_id":85687041,
             "venue_id":253452167
         }
     ],
     "wof:id":253452167,
-    "wof:lastmodified":1473879603,
+    "wof:lastmodified":1492489210,
     "wof:name":"A M Buikema Wille",
-    "wof:parent_id":85797811,
+    "wof:parent_id":85859585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

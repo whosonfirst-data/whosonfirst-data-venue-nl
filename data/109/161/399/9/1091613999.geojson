@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1891298294,52.0713920593,5.1891298294,52.0713920593",
     "geom:latitude":52.071392,
     "geom:longitude":5.18913,
@@ -24,9 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687039,
+        102191581,
+        404473981,
         85633337,
-        85797403,
-        85687039
+        101806985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473803627,
-    "wof:geomhash":"057ebf16e9bea7d144e6b869c1561087",
+    "wof:geomhash":"97778fc2daf6c21362ba98af8d151c91",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797403,
+            "localadmin_id":404473981,
+            "locality_id":101806985,
             "region_id":85687039,
             "venue_id":1091613999
         }
     ],
     "wof:id":1091613999,
-    "wof:lastmodified":1473878691,
+    "wof:lastmodified":1492510601,
     "wof:name":"Buroforce Kantoorinrichting",
-    "wof:parent_id":85797403,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

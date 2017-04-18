@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878726,52.371098,4.878726,52.371098",
     "geom:latitude":52.371098,
     "geom:longitude":4.878726,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_46swrj3AVW9RmqPwbKXKZY_52.371098_4.878726@1306269928"
     },
     "wof:country":"NL",
-    "wof:geomhash":"794757046102e943a18df14ae7664895",
+    "wof:geomhash":"2e062a1a5d51ab40244e37f30562ccd5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":219755677
         }
     ],
     "wof:id":219755677,
-    "wof:lastmodified":1473879714,
+    "wof:lastmodified":1492502972,
     "wof:name":"Cenario",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

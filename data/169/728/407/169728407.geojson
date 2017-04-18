@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.91009,52.356323,4.91009,52.356323",
     "geom:latitude":52.356323,
     "geom:longitude":4.91009,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803889,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3QNtqrji6dBlm6tpHvwWvX_52.356323_4.910090@1306269905"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a9f04826bb8e1184485df87cde8b1c12",
+    "wof:geomhash":"665cffa38cea3823b93cdc65b237416d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803889,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":169728407
         }
     ],
     "wof:id":169728407,
-    "wof:lastmodified":1473878565,
+    "wof:lastmodified":1492478602,
     "wof:name":"Leomode Hairpoint",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

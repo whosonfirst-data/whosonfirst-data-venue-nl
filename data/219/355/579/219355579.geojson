@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.920147,52.35334,4.920147,52.35334",
     "geom:latitude":52.35334,
     "geom:longitude":4.920147,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803773,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5Rw5uJRCJ8LS2XUmjfo5Yo_52.353340_4.920147@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a7d4514cc2b0835602b900c8f9a72709",
+    "wof:geomhash":"99c024a0f2cc4295ba01b3ffc5c416cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803773,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":219355579
         }
     ],
     "wof:id":219355579,
-    "wof:lastmodified":1473879045,
+    "wof:lastmodified":1492502180,
     "wof:name":"Alex Mooyman Waterfittersbedrijf",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

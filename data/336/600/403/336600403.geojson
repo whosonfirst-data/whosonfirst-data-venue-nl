@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.929649,52.354427,4.929649,52.354427",
     "geom:latitude":52.354427,
     "geom:longitude":4.929649,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803929,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1aCWPkcqhntPKW4wuuUmb0_52.354427_4.929649@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"231d4dcfc0c823cb325defe4e37ece4f",
+    "wof:geomhash":"517a16f92d8e951176c0909f2991ac0b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803929,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":336600403
         }
     ],
     "wof:id":336600403,
-    "wof:lastmodified":1473878415,
+    "wof:lastmodified":1492506526,
     "wof:name":"Dijkema Juweliers",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

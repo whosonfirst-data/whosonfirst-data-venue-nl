@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1386141777,51.6917457581,5.1386141777,51.6917457581",
     "geom:latitude":51.691746,
     "geom:longitude":5.138614,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.direct-effect.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474395,
+        85633337,
+        101839349
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jYIDwApKCtGbRusV7OUBS_51.691746_5.138614@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800625,
-    "wof:geomhash":"8ec56186ba56c94e000e4a7deb55f980",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82d15ae5e117e78595da02856a1cb405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474395,
+            "locality_id":101839349,
+            "region_id":85687035,
+            "venue_id":1091572377
+        }
+    ],
     "wof:id":1091572377,
-    "wof:lastmodified":1473878618,
+    "wof:lastmodified":1492511476,
     "wof:name":"Direct Effect",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

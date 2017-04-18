@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.413672,51.944469,4.413672,51.944469",
     "geom:latitude":51.944469,
     "geom:longitude":4.413672,
@@ -25,30 +26,46 @@
     "sg:website":"http://www.lithohouse.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798367,
+        1108805757,
+        102191581,
         85633337,
-        85687041
+        101751843,
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Jd4D9bA9syw7Z8p9AvcGH_51.944469_4.413672@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4af168544a1cf6f724f5b7dc42adfdba",
+    "wof:geomhash":"a1051eb8dcd610ffe5e4af6978b0fb18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805739,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798367,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":270168587
+        },
+        {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474253,
+            "locality_id":101751845,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":270168587
         }
     ],
     "wof:id":270168587,
-    "wof:lastmodified":1473878755,
+    "wof:lastmodified":1492501072,
     "wof:name":"Litho House Bv",
-    "wof:parent_id":85798367,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.305255,52.069801,4.305255,52.069801",
     "geom:latitude":52.069801,
     "geom:longitude":4.305255,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798385,
+        1108808261,
+        102191581,
+        1108808035,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6xFJztQ403eOcRrk1rLExC_52.069801_4.305255@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6bb5163c6016d03f01f3bd941f2803cd",
+    "wof:geomhash":"9969a0428dee4329a366d39d2c81edfd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798385,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808261,
             "region_id":85687041,
             "venue_id":253280487
         }
     ],
     "wof:id":253280487,
-    "wof:lastmodified":1473879303,
+    "wof:lastmodified":1492489546,
     "wof:name":"Haco",
-    "wof:parent_id":85798385,
+    "wof:parent_id":1108808261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

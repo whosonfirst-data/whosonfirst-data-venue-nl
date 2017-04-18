@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.800698,52.38216,4.800698,52.38216",
     "geom:latitude":52.38216,
     "geom:longitude":4.800698,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803561,
         85797579,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4A50IEqy7lspZP8EcO3cJj_52.382160_4.800698@1306269906"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7538cfafcd5c12a43c0f6babe864b16b",
+    "wof:geomhash":"dc4fba09e314076446753ca09ebf7ba9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803561,
             "neighbourhood_id":85797579,
             "region_id":85687053,
             "venue_id":185623691
         }
     ],
     "wof:id":185623691,
-    "wof:lastmodified":1473878506,
+    "wof:lastmodified":1492487312,
     "wof:name":"Twee In Een",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108803561,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

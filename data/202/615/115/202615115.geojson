@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.55716,51.92149,4.55716,51.92149",
     "geom:latitude":51.92149,
     "geom:longitude":4.55716,
@@ -24,31 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797253,
+        1108805861,
+        102191581,
         85633337,
-        101754669,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nFzhu0LzrCkkhAMnY1Z1L_51.921490_4.557160@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fd23848f3295474ef35a44024d277c22",
+    "wof:geomhash":"5f28ea760e2496175da25140cecd6e7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754669,
-            "neighbourhood_id":85797253,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805861,
+            "region_id":85687041,
+            "venue_id":202615115
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805861,
             "region_id":85687041,
             "venue_id":202615115
         }
     ],
     "wof:id":202615115,
-    "wof:lastmodified":1473879058,
+    "wof:lastmodified":1492497852,
     "wof:name":"Hoefie",
-    "wof:parent_id":85797253,
+    "wof:parent_id":1108805861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

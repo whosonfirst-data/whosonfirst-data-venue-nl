@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.867977,52.341438,4.867977,52.341438",
     "geom:latitude":52.341438,
     "geom:longitude":4.867977,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803857,
+        1108802919,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1pi5RgTr9oUp706Ppwkh42_52.341438_4.867977@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7e6dfeb73c0fd0189abe105e889239f1",
+    "wof:geomhash":"3947ee82f1c3d258c471c7508ea3495d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108803857,
+            "neighbourhood_id":1108802919,
             "region_id":85687053,
             "venue_id":186039319
         }
     ],
     "wof:id":186039319,
-    "wof:lastmodified":1473878706,
+    "wof:lastmodified":1492509347,
     "wof:name":"Dhl Int Bv",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803857,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2875361443,51.4197654724,5.2875361443,51.4197654724",
     "geom:latitude":51.419765,
     "geom:longitude":5.287536,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.postkantoor.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474371,
+        85633337,
+        101809749
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18LBe5l9YKbZIkZ96y1kWC_51.419765_5.287536@1306269954"
     },
     "wof:country":"NL",
     "wof:created":1473798633,
-    "wof:geomhash":"d06f8c4d4906fff855c2ca49e09e67e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e5bc7642f6051053cfe46233ddbf254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474371,
+            "locality_id":101809749,
+            "region_id":85687035,
+            "venue_id":1075809567
+        }
+    ],
     "wof:id":1075809567,
-    "wof:lastmodified":1473878717,
+    "wof:lastmodified":1492486010,
     "wof:name":"Postkantoor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

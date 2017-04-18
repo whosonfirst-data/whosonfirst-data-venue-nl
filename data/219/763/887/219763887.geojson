@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.883375,52.375572,4.883375,52.375572",
     "geom:latitude":52.375572,
     "geom:longitude":4.883375,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803831,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3AJiMHWwWQJWA8Wisuc4Ry_52.375572_4.883375@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3020a07369102fcbaba1106e5f2817bd",
+    "wof:geomhash":"805ba86ec4efa9f488dbf1813c6c3de1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803831,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":219763887
         }
     ],
     "wof:id":219763887,
-    "wof:lastmodified":1473879716,
+    "wof:lastmodified":1492503210,
     "wof:name":"Coppens, Drs H",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

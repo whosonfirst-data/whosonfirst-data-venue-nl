@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.479294,51.945347,4.479294,51.945347",
     "geom:latitude":51.945347,
     "geom:longitude":4.479294,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859841,
+        1108805793,
+        102191581,
+        1108805981,
         85633337,
-        101753095,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6yzGPE1aoyDTZyIDIc27Wl_51.945347_4.479294@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9e135b490ce08f34978b0895e96990ca",
+    "wof:geomhash":"47d9d50078d59f0352179525c2aaf02a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859841,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805793,
             "region_id":85687041,
             "venue_id":253514083
         }
     ],
     "wof:id":253514083,
-    "wof:lastmodified":1473879658,
+    "wof:lastmodified":1492490488,
     "wof:name":"Elfra Parketvloeren",
-    "wof:parent_id":85859841,
+    "wof:parent_id":1108805793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

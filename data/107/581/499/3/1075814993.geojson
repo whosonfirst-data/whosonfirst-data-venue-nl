@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.007516861,50.8510780334,6.007516861,50.8510780334",
     "geom:latitude":50.851078,
     "geom:longitude":6.007517,
@@ -24,17 +25,32 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.shurgard.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474485,
+        85633337,
+        101839277
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bysUdw13njF1nTrgEKAjQ_50.851078_6.007517@1306270008"
     },
     "wof:country":"NL",
     "wof:created":1473798889,
-    "wof:geomhash":"918e3f4e0eebdee8512a93520242ea6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6113ef26e017f4767781078a5f3e9bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474485,
+            "locality_id":101839277,
+            "region_id":85687033,
+            "venue_id":1075814993
+        }
+    ],
     "wof:id":1075814993,
-    "wof:lastmodified":1473878985,
+    "wof:lastmodified":1492486460,
     "wof:name":"Shurgard Kerkrade",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

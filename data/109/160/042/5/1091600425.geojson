@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3700089455,51.9186515808,6.3700089455,51.9186515808",
     "geom:latitude":51.918652,
     "geom:longitude":6.370009,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.total-living.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474543,
+        85633337,
+        101837839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fo9SsOscuuNOwxJSrBggy_51.918652_6.370009@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802543,
-    "wof:geomhash":"af25eddf60fd8621128477d08e8d01f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba5c1db205255e2e622534eb917874da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474543,
+            "locality_id":101837839,
+            "region_id":85687043,
+            "venue_id":1091600425
+        }
+    ],
     "wof:id":1091600425,
-    "wof:lastmodified":1473878486,
+    "wof:lastmodified":1492512591,
     "wof:name":"Total Living",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

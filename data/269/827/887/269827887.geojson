@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.868262,52.33094,4.868262,52.33094",
     "geom:latitude":52.33094,
     "geom:longitude":4.868262,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803659,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_65drfb5gTjHpsQFp0fYIAV_52.330940_4.868262@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"319fae4635c1a25be675df23bff93278",
+    "wof:geomhash":"f3b9db5198427d5a210f9d2a0a7bf9a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803659,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":269827887
         }
     ],
     "wof:id":269827887,
-    "wof:lastmodified":1473879512,
+    "wof:lastmodified":1492496713,
     "wof:name":"New York Pizza",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803659,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3070912361,52.0652160645,4.3070912361,52.0652160645",
     "geom:latitude":52.065216,
     "geom:longitude":4.307091,
@@ -24,13 +25,13 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798385,
+        1108808263,
         102191581,
-        404474179,
+        1108808035,
         85633337,
         101752763,
-        85687041,
-        85859615
+        1108808053,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,31 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473800261,
-    "wof:geomhash":"646c7fcf49a42aaa7737a30506a2b87e",
+    "wof:geomhash":"f174248722aace8f055eb2be9a09343f",
     "wof:hierarchy":[
         {
+            "borough_id":1108808053,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474179,
             "locality_id":101752763,
-            "neighbourhood_id":85798385,
-            "region_id":85687041,
-            "venue_id":1075838369
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474179,
-            "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808263,
             "region_id":85687041,
             "venue_id":1075838369
         }
     ],
     "wof:id":1075838369,
-    "wof:lastmodified":1473879502,
+    "wof:lastmodified":1492485881,
     "wof:name":"Wassalon Haak",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108808263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

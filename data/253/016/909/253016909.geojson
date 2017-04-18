@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.093505,52.111584,5.093505,52.111584",
     "geom:latitude":52.111584,
     "geom:longitude":5.093505,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798231,
+        1108808731,
+        102191581,
+        1108808653,
         85633337,
+        101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_44mo1CyzLqSaQ1L5uhuFqz_52.111584_5.093505@1306269945"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7d4e980189ce92946b0c6f644ac76dc8",
+    "wof:geomhash":"902bbbaa1c9b9af83518c453dda51f21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798231,
+            "locality_id":101751827,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808731,
             "region_id":85687039,
             "venue_id":253016909
         }
     ],
     "wof:id":253016909,
-    "wof:lastmodified":1473878566,
+    "wof:lastmodified":1492488852,
     "wof:name":"Aldon",
-    "wof:parent_id":85798231,
+    "wof:parent_id":1108808731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

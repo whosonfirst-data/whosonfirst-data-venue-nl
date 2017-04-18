@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7194299698,51.2657356262,5.7194299698,51.2657356262",
     "geom:latitude":51.265736,
     "geom:longitude":5.71943,
@@ -24,17 +25,32 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.mebweb.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474531,
+        85633337,
+        101839297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36EeMJNBcU5qVUKC5zKiUH_51.265736_5.719430@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800726,
-    "wof:geomhash":"bf312f473532eb3fe75c834dd0e554e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f8366c3b6223e58f35de927858de6b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474531,
+            "locality_id":101839297,
+            "region_id":85687033,
+            "venue_id":1091573921
+        }
+    ],
     "wof:id":1091573921,
-    "wof:lastmodified":1473878738,
+    "wof:lastmodified":1492511064,
     "wof:name":"Mebweb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

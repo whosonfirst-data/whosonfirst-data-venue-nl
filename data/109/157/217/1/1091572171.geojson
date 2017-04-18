@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9540219307,51.648109436,5.9540219307,51.648109436",
     "geom:latitude":51.648109,
     "geom:longitude":5.954022,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.cybox.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474359,
+        85633337,
+        101839331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Aqj9oX1pCMTrsOT1EGCMr_51.648109_5.954022@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800614,
-    "wof:geomhash":"c508b683d66d50141b734f4156e2a97b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69d0c1261ace1a9ed6fcf0b05b5d5363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474359,
+            "locality_id":101839331,
+            "region_id":85687035,
+            "venue_id":1091572171
+        }
+    ],
     "wof:id":1091572171,
-    "wof:lastmodified":1473878592,
+    "wof:lastmodified":1492511388,
     "wof:name":"Cybox, Internet & Communicatie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

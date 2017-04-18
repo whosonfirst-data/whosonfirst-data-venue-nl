@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884726,52.380016,4.884726,52.380016",
     "geom:latitude":52.380016,
     "geom:longitude":4.884726,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803955,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1anoRj1zTPH7JBbPph2Dzs_52.380016_4.884726@1306269970"
     },
     "wof:country":"NL",
-    "wof:geomhash":"31d873d91dba2cd7fb6aad800abb4cd2",
+    "wof:geomhash":"6159c6d06b62044577920c02ab4dd1db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803955,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":286515327
         }
     ],
     "wof:id":286515327,
-    "wof:lastmodified":1473879185,
+    "wof:lastmodified":1492476844,
     "wof:name":"Studio Lindengracht",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

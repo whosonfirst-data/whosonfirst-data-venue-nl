@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2656130791,52.2593231201,5.2656130791,52.2593231201",
     "geom:latitude":52.259323,
     "geom:longitude":5.265613,
@@ -24,17 +25,32 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.dolphiq.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473985,
+        85633337,
+        101837669
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aD196XwmV0vbSPiaSHRwj_52.259323_5.265613@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800628,
-    "wof:geomhash":"1e4306c1228b51a7858db3d85a80c926",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82b9ee943f71a311574f410e718e311e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473985,
+            "locality_id":101837669,
+            "region_id":85687039,
+            "venue_id":1091572403
+        }
+    ],
     "wof:id":1091572403,
-    "wof:lastmodified":1473878620,
+    "wof:lastmodified":1492511408,
     "wof:name":"Dolphiq",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

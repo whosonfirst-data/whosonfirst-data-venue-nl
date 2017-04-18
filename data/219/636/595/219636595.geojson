@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.925373,52.355705,4.925373,52.355705",
     "geom:latitude":52.355705,
     "geom:longitude":4.925373,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803941,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4Si0hcSuKIjA87cnzEcZPR_52.355705_4.925373@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f85687b5fa8aab1fa1bfeac303f1c59c",
+    "wof:geomhash":"92394e37c40c6f776223eeb77e597a8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":219636595
         }
     ],
     "wof:id":219636595,
-    "wof:lastmodified":1473879501,
+    "wof:lastmodified":1492504060,
     "wof:name":"Harkisoen",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

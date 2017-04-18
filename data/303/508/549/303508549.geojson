@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.016856,52.30743,5.016856,52.30743",
     "geom:latitude":52.30743,
     "geom:longitude":5.016856,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803641,
+        1108802795,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6qmF74bC3En9JhynTegxBr_52.307430_5.016856@1306269984"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0052b2dd0377618007053d3c42182d1d",
+    "wof:geomhash":"beee0456a83a27bf684a44ae23190f58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803641,
+            "neighbourhood_id":1108802795,
             "region_id":85687053,
             "venue_id":303508549
         }
     ],
     "wof:id":303508549,
-    "wof:lastmodified":1473879241,
+    "wof:lastmodified":1492472321,
     "wof:name":"Geinburgia Sv",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

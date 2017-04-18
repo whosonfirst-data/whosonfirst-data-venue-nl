@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.428171,51.934364,4.428171,51.934364",
     "geom:latitude":51.934364,
     "geom:longitude":4.428171,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859761,
+        1108805669,
+        1108805799,
+        102191581,
         85633337,
         101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_71IiiMOcPjOYffmsajgSXg_51.934364_4.428171@1306269939"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2379b7c71f10fa859a95ee92c69363a5",
+    "wof:geomhash":"8e270a6b2b865c8ad0e5cd1e6d04cada",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859761,
+            "microhood_id":1108805669,
+            "neighbourhood_id":1108805799,
             "region_id":85687041,
             "venue_id":236579375
         }
     ],
     "wof:id":236579375,
-    "wof:lastmodified":1473879430,
+    "wof:lastmodified":1492492905,
     "wof:name":"Garage Willem",
-    "wof:parent_id":85859761,
+    "wof:parent_id":1108805669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

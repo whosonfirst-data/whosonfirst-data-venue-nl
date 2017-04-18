@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.997904,52.300274,4.997904,52.300274",
     "geom:latitude":52.300274,
     "geom:longitude":4.997904,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803973,
+        1108802809,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2Flqjybr9JGkz0eaD41OKF_52.300274_4.997904@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1c98cf2f7e35a9872eff6d60d7fa32d1",
+    "wof:geomhash":"247861d1c54810e71bb3d8c28632d944",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803973,
+            "neighbourhood_id":1108802809,
             "region_id":85687053,
             "venue_id":303056977
         }
     ],
     "wof:id":303056977,
-    "wof:lastmodified":1473878543,
+    "wof:lastmodified":1492474372,
     "wof:name":"M. De Langen",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

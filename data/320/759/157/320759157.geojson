@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.269992,52.062057,4.269992,52.062057",
     "geom:latitude":52.062057,
     "geom:longitude":4.269992,
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859591,
+        102191581,
+        1108808107,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,19 +38,21 @@
         "sg:id":"SG_3noKRLHT2lbAOZLBPHpzGA_52.062057_4.269992@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d1de9b9e636cd3ef6b44be2cc0e94687",
+    "wof:geomhash":"becc077d5b34ea7e9699d3662c57c373",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808107,
             "neighbourhood_id":85859591,
             "region_id":85687041,
             "venue_id":320759157
         }
     ],
     "wof:id":320759157,
-    "wof:lastmodified":1473879610,
+    "wof:lastmodified":1492482966,
     "wof:name":"De Kaasspecialist Bv",
     "wof:parent_id":85859591,
     "wof:placetype":"venue",

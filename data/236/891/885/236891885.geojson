@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.856222,52.353001,4.856222,52.353001",
     "geom:latitude":52.353001,
     "geom:longitude":4.856222,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803453,
+        1108802963,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_62588JrAVGPGx1McQvsQAt_52.353001_4.856222@1306269942"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d129ae676f52ce8aec7652a526ede172",
+    "wof:geomhash":"b58e2ebb077cb0e663d4e41eabd79682",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803453,
+            "neighbourhood_id":1108802963,
             "region_id":85687053,
             "venue_id":236891885
         }
     ],
     "wof:id":236891885,
-    "wof:lastmodified":1473879593,
+    "wof:lastmodified":1492491717,
     "wof:name":"Joy Luck Express",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

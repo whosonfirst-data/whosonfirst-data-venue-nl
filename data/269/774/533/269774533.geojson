@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.492252,51.956245,4.492252,51.956245",
     "geom:latitude":51.956245,
     "geom:longitude":4.492252,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797723,
+        1108805791,
+        102191581,
+        1108805981,
         85633337,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_1YuFw5pw8wszTUcjeZPr09_51.956245_4.492252@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"72e3030d2054a7fc530970a3f71efee2",
+    "wof:geomhash":"f3bf16ef8862a1a5ee00515db9a81771",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797723,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805791,
             "region_id":85687041,
             "venue_id":269774533
         }
     ],
     "wof:id":269774533,
-    "wof:lastmodified":1473879413,
+    "wof:lastmodified":1492496215,
     "wof:name":"R Jochmann-Grasman",
-    "wof:parent_id":85797723,
+    "wof:parent_id":1108805791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

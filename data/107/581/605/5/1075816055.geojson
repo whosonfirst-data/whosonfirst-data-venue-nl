@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.471367836,51.9165382385,4.471367836,51.9165382385",
     "geom:latitude":51.916538,
     "geom:longitude":4.471368,
@@ -24,13 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859833,
+        85859807,
         102191581,
-        404474245,
         85633337,
         101751843,
-        85687041,
-        85859799
+        1108804841,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,31 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473798935,
-    "wof:geomhash":"d912c4c2cb84910484700ec241996b55",
+    "wof:geomhash":"866f76671cd534d2b1e879e75fe8fb26",
     "wof:hierarchy":[
         {
+            "borough_id":1108804841,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474245,
             "locality_id":101751843,
-            "neighbourhood_id":85859833,
-            "region_id":85687041,
-            "venue_id":1075816055
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474245,
-            "locality_id":101751843,
-            "neighbourhood_id":85859799,
+            "neighbourhood_id":85859807,
             "region_id":85687041,
             "venue_id":1075816055
         }
     ],
     "wof:id":1075816055,
-    "wof:lastmodified":1473879023,
+    "wof:lastmodified":1492486380,
     "wof:name":"De Kievit Optiek",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

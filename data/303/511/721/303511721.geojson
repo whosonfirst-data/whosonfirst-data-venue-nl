@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.852887,52.333015,4.852887,52.333015",
     "geom:latitude":52.333015,
     "geom:longitude":4.852887,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803583,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5OziZmJo8SFQtdXgZ4oMTX_52.333015_4.852887@1306269984"
     },
     "wof:country":"NL",
-    "wof:geomhash":"81ee15d6f7ad71996066baf2392569de",
+    "wof:geomhash":"81ad3e1b9a28d28b574a0f526e7a5255",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803583,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":303511721
         }
     ],
     "wof:id":303511721,
-    "wof:lastmodified":1473879263,
+    "wof:lastmodified":1492472281,
     "wof:name":"H 79 Watersportver",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

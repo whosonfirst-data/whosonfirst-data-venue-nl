@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.559991,51.951431,4.559991,51.951431",
     "geom:latitude":51.951431,
     "geom:longitude":4.559991,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3z3aWF0OJ406zEoAjhEdiB_51.951431_4.559991@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f285c87f75e631b6f92b4b623d4374e7",
+    "wof:geomhash":"085cf6f8267c1ae978c272ae5b27ca16",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":253307597
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798177,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":253307597,
-    "wof:lastmodified":1473879382,
+    "wof:lastmodified":1492488356,
     "wof:name":"Rotan Alexandrium",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

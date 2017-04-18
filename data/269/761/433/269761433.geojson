@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.249843,52.054859,4.249843,52.054859",
     "geom:latitude":52.054859,
     "geom:longitude":4.249843,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859591,
+        85859571,
+        102191581,
+        1108805971,
         85633337,
         101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_0s892EUjiRFbv5tcRnClKl_52.054859_4.249843@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9253dbc304dcff35356fd322962f4b94",
+    "wof:geomhash":"9bde870353a4b4a84980e0b7eb826fbe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859591,
+            "macrohood_id":1108805971,
+            "neighbourhood_id":85859571,
             "region_id":85687041,
             "venue_id":269761433
         }
     ],
     "wof:id":269761433,
-    "wof:lastmodified":1473879373,
+    "wof:lastmodified":1492496790,
     "wof:name":"Hap Snap A.L. Snijders",
-    "wof:parent_id":85859591,
+    "wof:parent_id":85859571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

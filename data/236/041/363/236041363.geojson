@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.229069,52.078468,5.229069,52.078468",
     "geom:latitude":52.078468,
     "geom:longitude":5.229069,
@@ -25,10 +26,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85797785,
+        102191581,
+        404474019,
         85633337,
-        101751823,
         85687039,
         85798077,
+        404473981,
         101806985
     ],
     "wof:breaches":[],
@@ -36,19 +39,20 @@
         "sg:id":"SG_2asSqNzHbgIo9jtTIkvnYz_52.078468_5.229069@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"336032d6fe2c376c207e7f7b82502bed",
+    "wof:geomhash":"70a1b2a857b21de1351cf0c8ed28b07a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751823,
+            "localadmin_id":404474019,
             "neighbourhood_id":85797785,
             "region_id":85687039,
             "venue_id":236041363
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473981,
             "locality_id":101806985,
             "neighbourhood_id":85798077,
             "region_id":85687039,
@@ -56,9 +60,9 @@
         }
     ],
     "wof:id":236041363,
-    "wof:lastmodified":1473878597,
+    "wof:lastmodified":1492494609,
     "wof:name":"Cats",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.345491,52.076778,4.345491,52.076778",
     "geom:latitude":52.076778,
     "geom:longitude":4.345491,
@@ -24,31 +25,24 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797661,
-        85633337,
-        101752763,
-        85687041,
         85859643,
-        101754709
+        102191581,
+        404474685,
+        85633337,
+        101754709,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fnZNtrzxbItnl1ZMBQ4bw_52.076778_4.345491@1306269978"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f5819ecba2b0f9b6c1b430f76951e78b",
+    "wof:geomhash":"d53ebfd8b4c229c83088efb03416c812",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101752763,
-            "neighbourhood_id":85797661,
-            "region_id":85687041,
-            "venue_id":287278323
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
+            "localadmin_id":404474685,
             "locality_id":101754709,
             "neighbourhood_id":85859643,
             "region_id":85687041,
@@ -56,9 +50,9 @@
         }
     ],
     "wof:id":287278323,
-    "wof:lastmodified":1473879148,
+    "wof:lastmodified":1492513871,
     "wof:name":"Administratiekantoor Voorburg",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

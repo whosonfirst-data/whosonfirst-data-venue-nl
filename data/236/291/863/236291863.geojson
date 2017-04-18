@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.352189,51.867786,4.352189,51.867786",
     "geom:latitude":51.867786,
     "geom:longitude":4.352189,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798679,
+        1108806015,
+        1108805795,
+        102191581,
         85633337,
-        101760475,
+        101751843,
+        1108805727,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1QjCtp4O26ZLkBeQdCKrAD_51.867786_4.352189@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2a524ef431942e70d102dc26f3549e83",
+    "wof:geomhash":"f070cb61ecaa2d8baee28f5888997f9f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805727,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101760475,
-            "neighbourhood_id":85798679,
+            "locality_id":101751843,
+            "microhood_id":1108806015,
+            "neighbourhood_id":1108805795,
             "region_id":85687041,
             "venue_id":236291863
         }
     ],
     "wof:id":236291863,
-    "wof:lastmodified":1473879091,
+    "wof:lastmodified":1492492980,
     "wof:name":"Europoort",
-    "wof:parent_id":85798679,
+    "wof:parent_id":1108806015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

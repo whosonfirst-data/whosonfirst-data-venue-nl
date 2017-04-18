@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.91082,52.357265,4.91082,52.357265",
     "geom:latitude":52.357265,
     "geom:longitude":4.91082,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803279,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0SNZfjrgYzWGMw0lvnE2ZQ_52.357265_4.910820@1306269946"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fb07ab323f7e02d0fdc3a878bdb543ce",
+    "wof:geomhash":"9683bb29897af3849fd6c6262c246cd7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803279,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":253149497
         }
     ],
     "wof:id":253149497,
-    "wof:lastmodified":1473878980,
+    "wof:lastmodified":1492490988,
     "wof:name":"Rob Krol Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

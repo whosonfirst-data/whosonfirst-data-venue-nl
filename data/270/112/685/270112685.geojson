@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.903899,52.351879,4.903899,52.351879",
     "geom:latitude":52.351879,
     "geom:longitude":4.903899,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803479,
+        1108802793,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7eYWEfJCdTPk3Wctbr0Qk4_52.351879_4.903899@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e2247aab57a83debb456ace4cbedbbbf",
+    "wof:geomhash":"e087e8f183ef24486f80a6e1fb5bb637",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803479,
+            "neighbourhood_id":1108802793,
             "region_id":85687053,
             "venue_id":270112685
         }
     ],
     "wof:id":270112685,
-    "wof:lastmodified":1473878620,
+    "wof:lastmodified":1492500210,
     "wof:name":"Essamba",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

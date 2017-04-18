@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.454922,51.982529,4.454922,51.982529",
     "geom:latitude":51.982529,
     "geom:longitude":4.454922,
@@ -32,7 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102542781,
+        1108805865,
+        102191581,
         85633337,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -40,21 +46,23 @@
         "sg:id":"SG_35AwGQDRbhEOPIqwkz30su_51.982529_4.454922@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3a15ac5fae06fb31d5605f5d904bbc9f",
+    "wof:geomhash":"883fab35cc743d943a0ef00d2617e3c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "campus_id":102542781,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805865,
             "region_id":85687041,
             "venue_id":320119833
         }
     ],
     "wof:id":320119833,
-    "wof:lastmodified":1473878833,
+    "wof:lastmodified":1492483720,
     "wof:name":"W & R",
-    "wof:parent_id":-1,
+    "wof:parent_id":102542781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

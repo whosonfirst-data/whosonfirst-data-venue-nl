@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.85647,52.367828,4.85647,52.367828",
     "geom:latitude":52.367828,
     "geom:longitude":4.85647,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803461,
+        1108802827,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2wCWjmwLlU8rjKKIwhpRnE_52.367828_4.856470@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fe83b102ed9cfe251c4b1f82f6f98017",
+    "wof:geomhash":"68d365f64ba72dd1ed58efb77b44c549",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803461,
+            "neighbourhood_id":1108802827,
             "region_id":85687053,
             "venue_id":320198753
         }
     ],
     "wof:id":320198753,
-    "wof:lastmodified":1473879091,
+    "wof:lastmodified":1492484804,
     "wof:name":"Camina",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

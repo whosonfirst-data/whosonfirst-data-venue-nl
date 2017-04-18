@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.889046,52.352161,4.889046,52.352161",
     "geom:latitude":52.352161,
     "geom:longitude":4.889046,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803817,
+        1108802865,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5ky2129XbP1n0gf6AQDy0R_52.352161_4.889046@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4c90adebcbc5481f63bd8765a1c49205",
+    "wof:geomhash":"85a3837a2fad0dd435b30ff7bfbef051",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803817,
+            "neighbourhood_id":1108802865,
             "region_id":85687053,
             "venue_id":286410873
         }
     ],
     "wof:id":286410873,
-    "wof:lastmodified":1473878947,
+    "wof:lastmodified":1492475749,
     "wof:name":"Titia",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

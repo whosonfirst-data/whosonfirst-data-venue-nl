@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2922468185,52.406337738,5.2922468185,52.406337738",
     "geom:latitude":52.406338,
     "geom:longitude":5.292247,
@@ -24,17 +25,32 @@
     "sg:province":"Flevoland",
     "sg:website":"http://www.d-spot.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101751875
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QJZtG0MaaLTgOPNs2J3Ar_52.406338_5.292247@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802148,
-    "wof:geomhash":"035407b3c2353bd183a8fbd9f60631f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2110612ca63d3bc652af400a132b8ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101751875,
+            "region_id":85687049,
+            "venue_id":1091593893
+        }
+    ],
     "wof:id":1091593893,
-    "wof:lastmodified":1473878679,
+    "wof:lastmodified":1492509716,
     "wof:name":"D-Spot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

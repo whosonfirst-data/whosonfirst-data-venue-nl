@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.921772,52.358978,4.921772,52.358978",
     "geom:latitude":52.358978,
     "geom:longitude":4.921772,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803833,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3oNzo0T2dLGf8YHmqaBCMR_52.358978_4.921772@1306269932"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7c5f5766547dec03e0f1ebda45136e76",
+    "wof:geomhash":"367027d111e5a5acb9daf7cc6aceb2ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803833,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":220167425
         }
     ],
     "wof:id":220167425,
-    "wof:lastmodified":1473878999,
+    "wof:lastmodified":1492481146,
     "wof:name":"Vd Galien Advocatenkantoor",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

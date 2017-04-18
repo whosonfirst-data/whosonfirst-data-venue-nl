@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.285126,52.066528,4.285126,52.066528",
     "geom:latitude":52.066528,
     "geom:longitude":4.285126,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797151,
+        1108808277,
+        102191581,
+        1108808119,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_3sbsGdJYrbwqGLDKMp73es_52.066528_4.285126@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"36adb0682fe8495d5f5524ce149c4007",
+    "wof:geomhash":"c0cfaba92eb56c381cdf58cfc82dfb0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797151,
+            "macrohood_id":1108808119,
+            "neighbourhood_id":1108808277,
             "region_id":85687041,
             "venue_id":269773161
         }
     ],
     "wof:id":269773161,
-    "wof:lastmodified":1473879401,
+    "wof:lastmodified":1492494714,
     "wof:name":"Peter'S Snackcar Bv",
-    "wof:parent_id":85797151,
+    "wof:parent_id":1108808277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

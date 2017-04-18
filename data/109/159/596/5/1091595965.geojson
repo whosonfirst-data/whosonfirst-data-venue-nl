@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8848757744,51.6268692017,5.8848757744,51.6268692017",
     "geom:latitude":51.626869,
     "geom:longitude":5.884876,
@@ -23,17 +24,32 @@
     "sg:postcode":"5845 BL",
     "sg:province":"Noord-Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474615,
+        85633337,
+        101808291
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iV9LIzua0CJOQLpr9irnl_51.626869_5.884876@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802286,
-    "wof:geomhash":"7083f33618d633e2785b3bfd448972d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"465dd4fff67c3e363c591bbd92619038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474615,
+            "locality_id":101808291,
+            "region_id":85687035,
+            "venue_id":1091595965
+        }
+    ],
     "wof:id":1091595965,
-    "wof:lastmodified":1473878802,
+    "wof:lastmodified":1492509701,
     "wof:name":"St Tunnis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

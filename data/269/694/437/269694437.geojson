@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.243807,52.050526,4.243807,52.050526",
     "geom:latitude":52.050526,
     "geom:longitude":4.243807,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859581,
+        85859571,
+        102191581,
+        1108805971,
         85633337,
         101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6xwkBG8XALTt3TicT9sDVs_52.050526_4.243807@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"075facf2114e32cc6dec62435c1ae460",
+    "wof:geomhash":"7131e6ba084645239a6e5daf3d2176e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859581,
+            "macrohood_id":1108805971,
+            "neighbourhood_id":85859571,
             "region_id":85687041,
             "venue_id":269694437
         }
     ],
     "wof:id":269694437,
-    "wof:lastmodified":1473879282,
+    "wof:lastmodified":1492494866,
     "wof:name":"Titia Spaans Publ Rel",
-    "wof:parent_id":85859581,
+    "wof:parent_id":85859571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

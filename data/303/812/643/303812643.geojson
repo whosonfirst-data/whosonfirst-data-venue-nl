@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.849199,52.35062,4.849199,52.35062",
     "geom:latitude":52.35062,
     "geom:longitude":4.849199,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.denatuurwinkel.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803459,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_1JzKUiU9ikEx2x5jlflqQd_52.350620_4.849199@1306269988"
     },
     "wof:country":"NL",
-    "wof:geomhash":"90667b0391238d292dd92322a4e2c614",
+    "wof:geomhash":"1aceb3018228b17826f4bc96afc8b095",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803459,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":303812643
         }
     ],
     "wof:id":303812643,
-    "wof:lastmodified":1473879590,
+    "wof:lastmodified":1492471358,
     "wof:name":"Natuurwinkel, De",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

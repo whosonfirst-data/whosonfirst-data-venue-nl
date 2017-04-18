@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.394815,52.145786,4.394815,52.145786",
     "geom:latitude":52.145786,
     "geom:longitude":4.394815,
@@ -24,10 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798163,
         85633337,
+        85798163,
         85687041,
         85859711,
+        102191581,
+        404474281,
         101754719
     ],
     "wof:breaches":[],
@@ -35,19 +38,18 @@
         "sg:id":"SG_1Yjj4PZalb8knh1n5lNktL_52.145786_4.394815@1306269917"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4221aa3ede214805291c5a04d8d2d8e7",
+    "wof:geomhash":"759f00030a1455c833f4c44d72a62906",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85798163,
             "region_id":85687041,
             "venue_id":202648327
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474281,
             "locality_id":101754719,
             "neighbourhood_id":85859711,
             "region_id":85687041,
@@ -55,9 +57,9 @@
         }
     ],
     "wof:id":202648327,
-    "wof:lastmodified":1473879099,
+    "wof:lastmodified":1492497667,
     "wof:name":"Westgeest Kado Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

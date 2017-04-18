@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.356262,51.869923,4.356262,51.869923",
     "geom:latitude":51.869923,
     "geom:longitude":4.356262,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798679,
+        1108806099,
+        1108805795,
+        102191581,
         85633337,
-        101760475,
+        101751843,
+        1108805727,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_4jjHmlOwiQNCUXEBXFrDut_51.869923_4.356262@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"19ecca727ccd4ed598734fe61972eb6d",
+    "wof:geomhash":"0d44f7202999d44d6b730b6751ad1f3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805727,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101760475,
-            "neighbourhood_id":85798679,
+            "locality_id":101751843,
+            "microhood_id":1108806099,
+            "neighbourhood_id":1108805795,
             "region_id":85687041,
             "venue_id":269730137
         }
     ],
     "wof:id":269730137,
-    "wof:lastmodified":1473879345,
+    "wof:lastmodified":1492495355,
     "wof:name":"A Bergwerff-Cafetaria Bv",
-    "wof:parent_id":85798679,
+    "wof:parent_id":1108806099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

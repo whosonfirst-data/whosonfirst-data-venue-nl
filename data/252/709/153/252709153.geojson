@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.886666,52.364445,4.886666,52.364445",
     "geom:latitude":52.364445,
     "geom:longitude":4.886666,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.encuentro.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803665,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_43jTiJCKlxEByL24T7PZfq_52.364445_4.886666@1306269942"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a9fce31c716778968783da0510af186e",
+    "wof:geomhash":"746a36c0212d080875331bc98053e45d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803665,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":252709153
         }
     ],
     "wof:id":252709153,
-    "wof:lastmodified":1473878464,
+    "wof:lastmodified":1492505734,
     "wof:name":"Encuentro",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

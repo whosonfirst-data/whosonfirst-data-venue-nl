@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.305041,52.078716,4.305041,52.078716",
     "geom:latitude":52.078716,
     "geom:longitude":4.305041,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.vaneeden.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808249,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_6a3kJoVlHRg1KTjsuIIyiu_52.078716_4.305041@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a0613da86948a4730c27f89816fe7492",
+    "wof:geomhash":"05902886aa17b5a98e5622cf2fa175c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808249,
             "region_id":85687041,
             "venue_id":286811225
         }
     ],
     "wof:id":286811225,
-    "wof:lastmodified":1473879617,
+    "wof:lastmodified":1492476332,
     "wof:name":"Van Eeden Evenementen",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

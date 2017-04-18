@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.139073,52.061161,5.139073,52.061161",
     "geom:latitude":52.061161,
     "geom:longitude":5.139073,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859943,
+        1108808797,
+        102191581,
+        1108832363,
         85633337,
+        101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_7LKLCG2AgAdktIoXKH3jlR_52.061161_5.139073@1306269981"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b164c254c5cdd95ee9d20ceabbf39aaa",
+    "wof:geomhash":"324e40e00fa0ce73853de97b9426bc6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859943,
+            "locality_id":101751827,
+            "macrohood_id":1108832363,
+            "neighbourhood_id":1108808797,
             "region_id":85687039,
             "venue_id":303230901
         }
     ],
     "wof:id":303230901,
-    "wof:lastmodified":1473878938,
+    "wof:lastmodified":1492471959,
     "wof:name":"Ederveen Schilderwerken",
-    "wof:parent_id":85859943,
+    "wof:parent_id":1108808797,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

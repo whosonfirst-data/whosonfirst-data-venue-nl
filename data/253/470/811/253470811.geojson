@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.911909,52.357784,4.911909,52.357784",
     "geom:latitude":52.357784,
     "geom:longitude":4.911909,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803279,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4EWUDJqUYEVIY8vUFMRLgf_52.357784_4.911909@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"57ceedc65567dd727a000e7d58c9a04c",
+    "wof:geomhash":"7de54abafb826c50485410051e8c9652",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803279,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":253470811
         }
     ],
     "wof:id":253470811,
-    "wof:lastmodified":1473879614,
+    "wof:lastmodified":1492490972,
     "wof:name":"Logopediepraktijk Ruijschstraat",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.936031,52.370651,4.936031,52.370651",
     "geom:latitude":52.370651,
     "geom:longitude":4.936031,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803603,
+        1108802877,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_25dBZvM73agtpXpq51Nh7N_52.370651_4.936031@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"eca52de5ba5fcb30c9d1118043ccb32b",
+    "wof:geomhash":"f96a23205dbd43f8888439b8c25fb560",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803603,
+            "neighbourhood_id":1108802877,
             "region_id":85687053,
             "venue_id":320140427
         }
     ],
     "wof:id":320140427,
-    "wof:lastmodified":1473878974,
+    "wof:lastmodified":1492484391,
     "wof:name":"Fokus",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

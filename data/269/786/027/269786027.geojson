@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.847459,52.347992,4.847459,52.347992",
     "geom:latitude":52.347992,
     "geom:longitude":4.847459,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803459,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_049ACSOwjHBFgNS9ZTpDCj_52.347992_4.847459@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5aed1ed94605f486984f49e353ecd7fe",
+    "wof:geomhash":"7f0933daf39c2d53c4cbba893e5ce3a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803459,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":269786027
         }
     ],
     "wof:id":269786027,
-    "wof:lastmodified":1473879436,
+    "wof:lastmodified":1492494998,
     "wof:name":"Snackbar Hanny",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

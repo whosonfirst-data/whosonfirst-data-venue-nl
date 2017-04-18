@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8674259186,52.2042808533,4.8674259186,52.2042808533",
     "geom:latitude":52.204281,
     "geom:longitude":4.867426,
@@ -23,17 +24,32 @@
     "sg:postcode":"3641 AC",
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474341,
+        85633337,
+        101837675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SqhBsMUQMeSi5GYDiUhII_52.204281_4.867426@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802348,
-    "wof:geomhash":"75887daba940c26d013f49b1b075ddae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21a0407c36ac1c3a498c4a06fccdc040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474341,
+            "locality_id":101837675,
+            "region_id":85687039,
+            "venue_id":1091596975
+        }
+    ],
     "wof:id":1091596975,
-    "wof:lastmodified":1473878862,
+    "wof:lastmodified":1492509779,
     "wof:name":"Dutch Living Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

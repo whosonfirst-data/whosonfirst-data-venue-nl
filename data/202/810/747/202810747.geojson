@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.28687,52.116028,4.28687,52.116028",
     "geom:latitude":52.116028,
     "geom:longitude":4.28687,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808139,
+        102191581,
+        1108808075,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_5mvRWTVamt4AyRvmUuPniU_52.116028_4.286870@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dca27721e129818efa614b43b9ad70c3",
+    "wof:geomhash":"d2e52c5c0eb3d46966e0c615c2645a3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108808075,
+            "neighbourhood_id":1108808139,
             "region_id":85687041,
             "venue_id":202810747
         }
     ],
     "wof:id":202810747,
-    "wof:lastmodified":1473879254,
+    "wof:lastmodified":1492499130,
     "wof:name":"W G Joustra",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

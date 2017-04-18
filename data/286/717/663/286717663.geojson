@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.315808,52.077461,4.315808,52.077461",
     "geom:latitude":52.077461,
     "geom:longitude":4.315808,
@@ -24,9 +25,13 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808031,
+        1108808255,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2AWQcLAbJSHghg10s2ryo7_52.077461_4.315808@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"064b1a5667e6eb5d16493df0239ae50a",
+    "wof:geomhash":"b9761fc1996d03bef357fa872048ce71",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "microhood_id":1108808031,
+            "neighbourhood_id":1108808255,
             "region_id":85687041,
             "venue_id":286717663
         }
     ],
     "wof:id":286717663,
-    "wof:lastmodified":1473879442,
+    "wof:lastmodified":1492475517,
     "wof:name":"Dienst Openbare Bibliotheek",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

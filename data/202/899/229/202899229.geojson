@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.822078,52.354591,4.822078,52.354591",
     "geom:latitude":52.354591,
     "geom:longitude":4.822078,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803265,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2iLdqM4590dO23POBGat1c_52.354591_4.822078@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3221b013f7bdd68f15c5afa0ae7a04f0",
+    "wof:geomhash":"99362d322ba680636bfedd9500d958b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803265,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":202899229
         }
     ],
     "wof:id":202899229,
-    "wof:lastmodified":1473879397,
+    "wof:lastmodified":1492496945,
     "wof:name":"Asa",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

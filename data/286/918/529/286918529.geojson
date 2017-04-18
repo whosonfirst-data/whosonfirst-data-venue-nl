@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.814572,52.350971,4.814572,52.350971",
     "geom:latitude":52.350971,
     "geom:longitude":4.814572,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803421,
+        1108802901,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4EwVmZW4E4iEYb0CL5Gz1A_52.350971_4.814572@1306269974"
     },
     "wof:country":"NL",
-    "wof:geomhash":"05170beb869fc4c4a8332884ff8c40b5",
+    "wof:geomhash":"65327b1c1a0d356de8d0a70b9f0add3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803421,
+            "neighbourhood_id":1108802901,
             "region_id":85687053,
             "venue_id":286918529
         }
     ],
     "wof:id":286918529,
-    "wof:lastmodified":1473879702,
+    "wof:lastmodified":1492476402,
     "wof:name":"Plantencentrum Ottenhof",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

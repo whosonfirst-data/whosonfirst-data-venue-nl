@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.874653,52.380352,4.874653,52.380352",
     "geom:latitude":52.380352,
     "geom:longitude":4.874653,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803875,
+        1108802807,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1QmS5Bj6DFCfZWNSpRCe2h_52.380352_4.874653@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"759b06c0499f63800fc463742a5674d1",
+    "wof:geomhash":"7c14a8eab5d298f0642b6620515d6590",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803875,
+            "neighbourhood_id":1108802807,
             "region_id":85687053,
             "venue_id":202781929
         }
     ],
     "wof:id":202781929,
-    "wof:lastmodified":1473879208,
+    "wof:lastmodified":1492497328,
     "wof:name":"Jackson",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

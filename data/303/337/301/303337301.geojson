@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.892109,52.369881,4.892109,52.369881",
     "geom:latitude":52.369881,
     "geom:longitude":4.892109,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803399,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5KF1tkLMsyBFszwiR1XjGB_52.369881_4.892109@1306269982"
     },
     "wof:country":"NL",
-    "wof:geomhash":"be6bea68baee7e1e1817cf7c4b760462",
+    "wof:geomhash":"90940cfc58d3d8a5d27827a59bac2cdc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803399,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":303337301
         }
     ],
     "wof:id":303337301,
-    "wof:lastmodified":1473879125,
+    "wof:lastmodified":1492473719,
     "wof:name":"Freelance",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803399,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

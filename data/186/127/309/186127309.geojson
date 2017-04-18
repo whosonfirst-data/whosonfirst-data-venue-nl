@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.523295,51.890667,4.523295,51.890667",
     "geom:latitude":51.890667,
     "geom:longitude":4.523295,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.rijnmondflowers.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859895,
+        1108805665,
+        1108805789,
+        102191581,
         85633337,
         101751843,
+        1108805721,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2mKa7dvhS8YL1dt0KSoy7J_51.890667_4.523295@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0449cbf669ea3b423e499ea56768aa63",
+    "wof:geomhash":"fc54f4aa5230b94be066fa2ca9b587f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805721,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859895,
+            "microhood_id":1108805665,
+            "neighbourhood_id":1108805789,
             "region_id":85687041,
             "venue_id":186127309
         }
     ],
     "wof:id":186127309,
-    "wof:lastmodified":1473879017,
+    "wof:lastmodified":1492508877,
     "wof:name":"Rijnmond Flowers",
-    "wof:parent_id":85859895,
+    "wof:parent_id":1108805665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

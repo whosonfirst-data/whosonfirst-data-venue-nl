@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.300743,52.068958,4.300743,52.068958",
     "geom:latitude":52.068958,
     "geom:longitude":4.300743,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798385,
+        1108808259,
+        102191581,
+        1108808035,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6LFb406jqXa9HEg5FBHxis_52.068958_4.300743@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"39e49812c8d4bb17a54775ac25e52916",
+    "wof:geomhash":"cca5befa80569dccd16c3db2ebd3a490",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798385,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808259,
             "region_id":85687041,
             "venue_id":320180979
         }
     ],
     "wof:id":320180979,
-    "wof:lastmodified":1473879062,
+    "wof:lastmodified":1492482236,
     "wof:name":"Lex",
-    "wof:parent_id":85798385,
+    "wof:parent_id":1108808259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

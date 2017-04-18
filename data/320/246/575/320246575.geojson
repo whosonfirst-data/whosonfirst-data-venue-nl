@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.919898,52.354443,4.919898,52.354443",
     "geom:latitude":52.354443,
     "geom:longitude":4.919898,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803773,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2dTxKePnOq4lPTa9EsClHc_52.354443_4.919898@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"90734117f21ba9316e1da17be95497ef",
+    "wof:geomhash":"54430edd4f4c2c44b454f3a1ce3032d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803773,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":320246575
         }
     ],
     "wof:id":320246575,
-    "wof:lastmodified":1473879114,
+    "wof:lastmodified":1492483260,
     "wof:name":"Tropisch Huis Chris",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

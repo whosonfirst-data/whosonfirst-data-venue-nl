@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0377402306,52.0829048157,5.0377402306,52.0829048157",
     "geom:latitude":52.082905,
     "geom:longitude":5.03774,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808713,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808673,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473801383,
-    "wof:geomhash":"b326d1f3789d8454272f0838e019da3c",
+    "wof:geomhash":"cff76d4e1f6e971d6038d0d7b08bb5b6",
     "wof:hierarchy":[
         {
+            "borough_id":1108808673,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808713,
             "region_id":85687039,
             "venue_id":1091583975
         }
     ],
     "wof:id":1091583975,
-    "wof:lastmodified":1473878694,
+    "wof:lastmodified":1492511809,
     "wof:name":"Dactylo",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808713,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

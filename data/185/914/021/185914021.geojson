@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.823619,52.35603,4.823619,52.35603",
     "geom:latitude":52.35603,
     "geom:longitude":4.823619,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803265,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_51f9jEWDXr9HrR6Ex9b707_52.356030_4.823619@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6c44c668ef4926796e68611410d25cd4",
+    "wof:geomhash":"6c83496ac4380faf97d5dea8cc3968a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803265,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":185914021
         }
     ],
     "wof:id":185914021,
-    "wof:lastmodified":1473878886,
+    "wof:lastmodified":1492487819,
     "wof:name":"Kinderdagverblijf Slotervaart St Uk",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.938727,52.349754,4.938727,52.349754",
     "geom:latitude":52.349754,
     "geom:longitude":4.938727,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804217,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4CCBdT6zv5Z95jdHGhDjmG_52.349754_4.938727@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d5966b3d58d90f25453a610d12404f1a",
+    "wof:geomhash":"7562a38e79e095bae13e980edefdd325",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804217,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":287183273
         }
     ],
     "wof:id":287183273,
-    "wof:lastmodified":1473878957,
+    "wof:lastmodified":1492514167,
     "wof:name":"Ako Amsterdam Chr. Huygensplein",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

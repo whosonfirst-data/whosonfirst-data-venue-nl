@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.900268,52.375149,4.900268,52.375149",
     "geom:latitude":52.375149,
     "geom:longitude":4.900268,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.hotel-deglobe.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804101,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_5BvKff7BG9zolWKz7lyekp_52.375149_4.900268@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"33167104c2134fc8e8b7c45e6510c0bb",
+    "wof:geomhash":"0582998c3acd305b4e98a463b648dadf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804101,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":304061091
         }
     ],
     "wof:id":304061091,
-    "wof:lastmodified":1473878736,
+    "wof:lastmodified":1492504313,
     "wof:name":"Globe, De",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

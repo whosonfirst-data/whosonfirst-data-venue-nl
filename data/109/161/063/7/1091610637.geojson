@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8521947861,51.9399108887,4.8521947861,51.9399108887",
     "geom:latitude":51.939911,
     "geom:longitude":4.852195,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.holland-office.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474255,
+        85633337,
+        101837721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7M84F8QTuIzCAGCWcwbjdk_51.939911_4.852195@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803406,
-    "wof:geomhash":"2b8d1457b263505446c55ff53e432fe2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b97f96bf0d6ee1c0735a2eab5d2f1624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474255,
+            "locality_id":101837721,
+            "region_id":85687041,
+            "venue_id":1091610637
+        }
+    ],
     "wof:id":1091610637,
-    "wof:lastmodified":1473878506,
+    "wof:lastmodified":1492510822,
     "wof:name":"Holland-Office.Nl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

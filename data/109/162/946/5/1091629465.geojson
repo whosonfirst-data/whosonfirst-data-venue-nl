@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8964481354,52.4099884033,4.8964481354,52.4099884033",
     "geom:latitude":52.409988,
     "geom:longitude":4.896448,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
+        1108803309,
         85798523,
+        102191581,
+        85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,19 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473804524,
-    "wof:geomhash":"0ad336543246ad5a97d06fc0bf104e90",
+    "wof:geomhash":"097550ca63c9a57211da451617fcaaf1",
     "wof:hierarchy":[
         {
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1108803309,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":1091629465
         }
     ],
     "wof:id":1091629465,
-    "wof:lastmodified":1473879119,
+    "wof:lastmodified":1492512239,
     "wof:name":"Hairstyling Margreet",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

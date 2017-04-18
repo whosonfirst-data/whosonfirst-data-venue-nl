@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.314912,52.073372,4.314912,52.073372",
     "geom:latitude":52.073372,
     "geom:longitude":4.314912,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808257,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4DQveVvuo2JIbmSx2q92Ip_52.073372_4.314912@1306269987"
     },
     "wof:country":"NL",
-    "wof:geomhash":"24d0c58c71c4a8bdd82812516687972e",
+    "wof:geomhash":"ed9ecbe9ded78df5b8d7037a2c780549",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808257,
             "region_id":85687041,
             "venue_id":303744797
         }
     ],
     "wof:id":303744797,
-    "wof:lastmodified":1473879510,
+    "wof:lastmodified":1492472682,
     "wof:name":"Drukkerij Vegron Vof",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

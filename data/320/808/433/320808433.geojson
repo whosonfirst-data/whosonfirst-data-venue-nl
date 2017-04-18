@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.466165,51.912727,4.466165,51.912727",
     "geom:latitude":51.912727,
     "geom:longitude":4.466165,
@@ -25,40 +26,34 @@
     "sg:website":"http://www.stayokay.com/rotterdam",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859799,
+        85859807,
+        102191581,
         85633337,
         101751843,
-        85687041,
-        85859785
+        1108804841,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nQXZp0QJe3eDiOR2X6iiW_51.912727_4.466165@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"df27c8399ea92276633d03acda7d45e8",
+    "wof:geomhash":"79446e10cc0e6f25203f31635b50e58a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108804841,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859799,
-            "region_id":85687041,
-            "venue_id":320808433
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751843,
-            "neighbourhood_id":85859785,
+            "neighbourhood_id":85859807,
             "region_id":85687041,
             "venue_id":320808433
         }
     ],
     "wof:id":320808433,
-    "wof:lastmodified":1473879615,
+    "wof:lastmodified":1492482069,
     "wof:name":"Stayokay",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

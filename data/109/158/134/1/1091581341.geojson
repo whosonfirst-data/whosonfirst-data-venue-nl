@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2867388725,51.5407066345,4.2867388725,51.5407066345",
     "geom:latitude":51.540707,
     "geom:longitude":4.286739,
@@ -34,17 +35,32 @@
     ],
     "sg:website":"http://www.paperart.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474351,
+        85633337,
+        101839363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DXxvso5NQ8jrfdJquqvyw_51.540707_4.286739@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801257,
-    "wof:geomhash":"3a91b6a8df075daaf157444c4dbf41c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fee4783da095300db2e290d14ca73ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474351,
+            "locality_id":101839363,
+            "region_id":85687035,
+            "venue_id":1091581341
+        }
+    ],
     "wof:id":1091581341,
-    "wof:lastmodified":1473878573,
+    "wof:lastmodified":1492511590,
     "wof:name":"Paper Art Cards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2552599907,52.0912399292,4.2552599907,52.0912399292",
     "geom:latitude":52.09124,
     "geom:longitude":4.25526,
@@ -25,8 +26,12 @@
     "sg:website":"http://www.officepro.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         85797483,
+        102191581,
+        1108808083,
+        85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -35,17 +40,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473803733,
-    "wof:geomhash":"3913952d726ba21922cab718a2adcb65",
+    "wof:geomhash":"45f424b6a7c7af35ddfe438961169d6a",
     "wof:hierarchy":[
         {
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808083,
             "neighbourhood_id":85797483,
             "region_id":85687041,
             "venue_id":1091616319
         }
     ],
     "wof:id":1091616319,
-    "wof:lastmodified":1473878831,
+    "wof:lastmodified":1492510380,
     "wof:name":"Officepro",
     "wof:parent_id":85797483,
     "wof:placetype":"venue",

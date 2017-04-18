@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7857561111,52.9558486938,5.7857561111,52.9558486938",
     "geom:latitude":52.955849,
     "geom:longitude":5.785756,
@@ -24,17 +25,32 @@
     "sg:province":"Provincie Friesland",
     "sg:website":"http://www.offizzline.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687055,
+        102191581,
+        404473745,
+        85633337,
+        101806179
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UPZeIV5jNBKQYBYk1i5zK_52.955849_5.785756@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803444,
-    "wof:geomhash":"6639dd97bb1c1014b69a486377897cc6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f3ff199eb85a851a24a79dfff550470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473745,
+            "locality_id":101806179,
+            "region_id":85687055,
+            "venue_id":1091610943
+        }
+    ],
     "wof:id":1091610943,
-    "wof:lastmodified":1473878538,
+    "wof:lastmodified":1492510381,
     "wof:name":"Offizz Line",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

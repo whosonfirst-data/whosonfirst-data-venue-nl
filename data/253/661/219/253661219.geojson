@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.482136,51.945076,4.482136,51.945076",
     "geom:latitude":51.945076,
     "geom:longitude":4.482136,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859841,
+        1108805793,
+        102191581,
+        1108805981,
         85633337,
-        101753095,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_5ouxJzD1BoiVGswaereARc_51.945076_4.482136@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"453e7b457caf2a2754f19044004074c0",
+    "wof:geomhash":"7566b0a3722534938bd5fa5baa2aa9aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859841,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805793,
             "region_id":85687041,
             "venue_id":253661219
         }
     ],
     "wof:id":253661219,
-    "wof:lastmodified":1473879696,
+    "wof:lastmodified":1492488475,
     "wof:name":"Bel-Pizza",
-    "wof:parent_id":85859841,
+    "wof:parent_id":1108805793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

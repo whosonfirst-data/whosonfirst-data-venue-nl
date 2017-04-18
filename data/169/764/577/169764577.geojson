@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879179,52.326088,4.879179,52.326088",
     "geom:latitude":52.326088,
     "geom:longitude":4.879179,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803497,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3P2UW2L367uJuNhy0PsqSk_52.326088_4.879179@1306269905"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fcfd7b79116ccecaf2ab5b8e274bbc59",
+    "wof:geomhash":"c3cc2cb21b193f1a06c2740b3cf34e90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803497,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":169764577
         }
     ],
     "wof:id":169764577,
-    "wof:lastmodified":1473878652,
+    "wof:lastmodified":1492478331,
     "wof:name":"Marloes Van Den Berg Coiffures",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

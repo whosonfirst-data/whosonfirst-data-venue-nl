@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0472269058,51.6953163147,5.0472269058,51.6953163147",
     "geom:latitude":51.695316,
     "geom:longitude":5.047227,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.wini.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474451,
+        85633337,
+        101839421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ckP4rLUOGagdr6rBWIeiL_51.695316_5.047227@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803392,
-    "wof:geomhash":"c44d13e8a414c2f418fe3e140f3fab9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"596eb220ba008dd205c46be750b9a3e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474451,
+            "locality_id":101839421,
+            "region_id":85687035,
+            "venue_id":1091610287
+        }
+    ],
     "wof:id":1091610287,
-    "wof:lastmodified":1473878487,
+    "wof:lastmodified":1492510489,
     "wof:name":"Wini Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

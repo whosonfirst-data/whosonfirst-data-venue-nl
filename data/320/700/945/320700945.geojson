@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.936183,52.398331,4.936183,52.398331",
     "geom:latitude":52.398331,
     "geom:longitude":4.936183,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803947,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4ubhBpodh0b0w11h3aYgnn_52.398331_4.936183@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"97539205bb5ad7d35feb72d80f3d5116",
+    "wof:geomhash":"4502acbdb2131d6df096632702e76896",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803947,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":320700945
         }
     ],
     "wof:id":320700945,
-    "wof:lastmodified":1473879564,
+    "wof:lastmodified":1492482758,
     "wof:name":"Aphrodite",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

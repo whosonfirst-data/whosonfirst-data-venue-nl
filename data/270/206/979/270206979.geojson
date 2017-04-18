@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912332,52.366783,4.912332,52.366783",
     "geom:latitude":52.366783,
     "geom:longitude":4.912332,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.artis.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803923,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3YeEJCZ2wxuOWhqP5kqqkp_52.366783_4.912332@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8b6ef2f27de054713f3775aaf10aac26",
+    "wof:geomhash":"9585997131ccde0823164d2d10c1f300",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803923,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":270206979
         }
     ],
     "wof:id":270206979,
-    "wof:lastmodified":1473878860,
+    "wof:lastmodified":1492499788,
     "wof:name":"Zoo Artis",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

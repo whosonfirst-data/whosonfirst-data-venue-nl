@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.929473,52.35421,4.929473,52.35421",
     "geom:latitude":52.35421,
     "geom:longitude":4.929473,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804165,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3p0rKsq5LciKNcsmeNsWDB_52.354210_4.929473@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ab25049f194ce0ff3a5b72e0629aebd3",
+    "wof:geomhash":"3fd0c22c8b981aa869dde61fab6a7d42",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804165,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":253534755
         }
     ],
     "wof:id":253534755,
-    "wof:lastmodified":1473879682,
+    "wof:lastmodified":1492490747,
     "wof:name":"Marty`S Catering + Supply",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

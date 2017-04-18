@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.89654,52.368301,4.89654,52.368301",
     "geom:latitude":52.368301,
     "geom:longitude":4.89654,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803271,
+        1108802875,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_28BIerQ34nZL7StJCGckDA_52.368301_4.896540@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ba4c0a441b9f001b7f5cc1f5bfa768c7",
+    "wof:geomhash":"7003ee32c7a91fe880ffb87e6e70c804",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803271,
+            "neighbourhood_id":1108802875,
             "region_id":85687053,
             "venue_id":252885089
         }
     ],
     "wof:id":252885089,
-    "wof:lastmodified":1473878822,
+    "wof:lastmodified":1492504990,
     "wof:name":"S-Products Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

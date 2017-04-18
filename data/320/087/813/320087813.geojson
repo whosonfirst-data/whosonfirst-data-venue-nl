@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.905388,52.345078,4.905388,52.345078",
     "geom:latitude":52.345078,
     "geom:longitude":4.905388,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804281,
+        1108802897,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_4z57kssAaEHGvLyD3x9eq9_52.345078_4.905388@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f0fcd9354f203d9b357af99ca721ea07",
+    "wof:geomhash":"45aaa14d2ed16539f89257e6e9114c83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108804281,
+            "neighbourhood_id":1108802897,
             "region_id":85687053,
             "venue_id":320087813
         }
     ],
     "wof:id":320087813,
-    "wof:lastmodified":1473878774,
+    "wof:lastmodified":1492481928,
     "wof:name":"Lekgarage",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

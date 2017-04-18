@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877819,52.357616,4.877819,52.357616",
     "geom:latitude":52.357616,
     "geom:longitude":4.877819,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803743,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3ozLGs6u9hPvoKAqXV9CXT_52.357616_4.877819@1306269984"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3dad5cf01688ffab58bee582314a1ba7",
+    "wof:geomhash":"e4233b35ba7a25c96131149924392bc2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803743,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":303467491
         }
     ],
     "wof:id":303467491,
-    "wof:lastmodified":1473879208,
+    "wof:lastmodified":1492470677,
     "wof:name":"Salon Spoelstra",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

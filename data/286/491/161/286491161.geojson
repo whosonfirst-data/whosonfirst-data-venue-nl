@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.910855,52.361961,4.910855,52.361961",
     "geom:latitude":52.361961,
     "geom:longitude":4.910855,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803763,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5P4yv8sgyWWHcwPCrApMwl_52.361961_4.910855@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"453eb60ed1c5c90c111329851ac6d2a0",
+    "wof:geomhash":"9b678bd9bc90e6ad005b6197fed5e826",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803763,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":286491161
         }
     ],
     "wof:id":286491161,
-    "wof:lastmodified":1473879122,
+    "wof:lastmodified":1492478099,
     "wof:name":"Lagrange, F C A",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803763,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.8789858818,52.2271270752,6.8789858818,52.2271270752",
     "geom:latitude":52.227127,
     "geom:longitude":6.878986,
@@ -24,14 +25,14 @@
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798019,
+        85798259,
         102191581,
         404473827,
         85633337,
-        101754773,
+        101751871,
         85687045,
-        85798259,
-        101751871
+        85798019,
+        101754773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +40,8 @@
     },
     "wof:country":"NL",
     "wof:created":1473804829,
-    "wof:geomhash":"bc79aeaa9d16d0701cf0daae3212a4c0",
+    "wof:geomhash":"834f226f6dae62790f7e89c76e8bc4a0",
     "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404473827,
-            "locality_id":101754773,
-            "neighbourhood_id":85798019,
-            "region_id":85687045,
-            "venue_id":1091634387
-        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -58,12 +50,21 @@
             "neighbourhood_id":85798259,
             "region_id":85687045,
             "venue_id":1091634387
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473827,
+            "locality_id":101754773,
+            "neighbourhood_id":85798019,
+            "region_id":85687045,
+            "venue_id":1091634387
         }
     ],
     "wof:id":1091634387,
-    "wof:lastmodified":1473878605,
+    "wof:lastmodified":1492510089,
     "wof:name":"Kapsalon Dick",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

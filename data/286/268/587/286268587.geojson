@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.979877,52.3088,4.979877,52.3088",
     "geom:latitude":52.3088,
     "geom:longitude":4.979877,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108804297,
+        1108802863,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_7608MWSox4msC4TLOxN4N3_52.308800_4.979877@1306269967"
     },
     "wof:country":"NL",
-    "wof:geomhash":"97f4d7bc7e557227b4686815677baeab",
+    "wof:geomhash":"9ea2f6ede414a46825db6c72464bbd11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108804297,
+            "neighbourhood_id":1108802863,
             "region_id":85687053,
             "venue_id":286268587
         }
     ],
     "wof:id":286268587,
-    "wof:lastmodified":1473878558,
+    "wof:lastmodified":1492476655,
     "wof:name":"Nellesteinschool",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108804297,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

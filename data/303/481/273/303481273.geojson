@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.872207,52.335114,4.872207,52.335114",
     "geom:latitude":52.335114,
     "geom:longitude":4.872207,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803341,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2OIzBBugUjRkL0Aq6nZYxh_52.335114_4.872207@1306269984"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2d2f45ecba3b15bf1a5ff72f788ddae1",
+    "wof:geomhash":"3b8123fe7c4acdfba899ed139a16c351",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803341,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":303481273
         }
     ],
     "wof:id":303481273,
-    "wof:lastmodified":1473879184,
+    "wof:lastmodified":1492471848,
     "wof:name":"Sportpark Buitenveldert",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803341,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

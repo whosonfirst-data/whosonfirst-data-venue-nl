@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885999,52.364433,4.885999,52.364433",
     "geom:latitude":52.364433,
     "geom:longitude":4.885999,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.ncf-nl.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803665,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2p7O4YIZ2zyUAdV5UHB0rD_52.364433_4.885999@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"804d606a7098c276b56f3798801273de",
+    "wof:geomhash":"06e3ca31ed35558c48310b3cc4f02709",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803665,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":269981997
         }
     ],
     "wof:id":269981997,
-    "wof:lastmodified":1473879594,
+    "wof:lastmodified":1492496687,
     "wof:name":"Nature Conservation Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

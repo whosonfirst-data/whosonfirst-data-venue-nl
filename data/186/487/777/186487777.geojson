@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.096214,52.090786,5.096214,52.090786",
     "geom:latitude":52.090786,
     "geom:longitude":5.096214,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808791,
+        102191581,
+        1108808651,
         85633337,
         101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6NnlfMCjcJPLdSu2lMrDdW_52.090786_5.096214@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e0c69abba9c7f9824ae6f3e51bc11408",
+    "wof:geomhash":"329943ef7c5b6fd6efd89df8416bd353",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808651,
+            "neighbourhood_id":1108808791,
             "region_id":85687039,
             "venue_id":186487777
         }
     ],
     "wof:id":186487777,
-    "wof:lastmodified":1473879502,
+    "wof:lastmodified":1492508245,
     "wof:name":"Reizigers Openb Vervoer, Ver",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

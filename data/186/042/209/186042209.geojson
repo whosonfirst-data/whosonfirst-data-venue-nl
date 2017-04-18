@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.097194,52.112946,5.097194,52.112946",
     "geom:latitude":52.112946,
     "geom:longitude":5.097194,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798231,
+        1108808731,
+        102191581,
+        1108808653,
         85633337,
+        101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_7cjbrHCBE9vvY7vTIb98Yw_52.112946_5.097194@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"216afb2207d64ed976a1e506cb7ddae9",
+    "wof:geomhash":"b4ac229603eea30d6071b33f009c5ba4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798231,
+            "locality_id":101751827,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808731,
             "region_id":85687039,
             "venue_id":186042209
         }
     ],
     "wof:id":186042209,
-    "wof:lastmodified":1473878702,
+    "wof:lastmodified":1492507740,
     "wof:name":"Fast Robby Courier",
-    "wof:parent_id":85798231,
+    "wof:parent_id":1108808731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

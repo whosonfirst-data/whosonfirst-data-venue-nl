@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.500797,51.928944,4.500797,51.928944",
     "geom:latitude":51.928944,
     "geom:longitude":4.500797,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805807,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2MciLY3Odo0cnYsttD9H3x_51.928944_4.500797@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0d99e6e64ed1aaf520c93960b83313a7",
+    "wof:geomhash":"130e55bec70285af76ab13de2451b5e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805807,
             "region_id":85687041,
             "venue_id":202598031
         }
     ],
     "wof:id":202598031,
-    "wof:lastmodified":1473879009,
+    "wof:lastmodified":1492498109,
     "wof:name":"De Groene Lantaarn",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.318792,52.053448,4.318792,52.053448",
     "geom:latitude":52.053448,
     "geom:longitude":4.318792,
@@ -24,31 +25,49 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798433,
+        1108808313,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gL7gxGNEsH5xZjfFVt0Ra_52.053448_4.318792@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0590bf12adbd9ab12d802e6a8f73568b",
+    "wof:geomhash":"ce383ecd03d6225b79ff5529531b288d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808313,
+            "region_id":85687041,
+            "venue_id":219356007
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85798433,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808313,
             "region_id":85687041,
             "venue_id":219356007
         }
     ],
     "wof:id":219356007,
-    "wof:lastmodified":1473879042,
+    "wof:lastmodified":1492501720,
     "wof:name":"Arwind Aannemingsbedrijf En Installatie",
-    "wof:parent_id":85798433,
+    "wof:parent_id":1108808313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

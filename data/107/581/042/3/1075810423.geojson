@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0396008492,51.2670211792,6.0396008492,51.2670211792",
     "geom:latitude":51.267021,
     "geom:longitude":6.039601,
@@ -24,17 +25,32 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.rabobank.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474473,
+        85633337,
+        101809489
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71g1JIByQV1idlwIwh2cNw_51.267021_6.039601@1306269965"
     },
     "wof:country":"NL",
     "wof:created":1473798682,
-    "wof:geomhash":"237c04530822cfda09ecbaba967e1b0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37fdad1bf4943bac75009b741f980e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474473,
+            "locality_id":101809489,
+            "region_id":85687033,
+            "venue_id":1075810423
+        }
+    ],
     "wof:id":1075810423,
-    "wof:lastmodified":1473878741,
+    "wof:lastmodified":1492486241,
     "wof:name":"Rabobank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

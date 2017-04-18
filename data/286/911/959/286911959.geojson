@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.426099,51.9338,4.426099,51.9338",
     "geom:latitude":51.9338,
     "geom:longitude":4.426099,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859761,
+        1108805669,
+        1108805799,
+        102191581,
         85633337,
         101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2qbxlpCShlrvGBl2XRpG0N_51.933800_4.426099@1306269974"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1912665992a682e0e895db21a5a3ad4b",
+    "wof:geomhash":"b7fcc9764dd5868bc6a503f7521dc994",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859761,
+            "microhood_id":1108805669,
+            "neighbourhood_id":1108805799,
             "region_id":85687041,
             "venue_id":286911959
         }
     ],
     "wof:id":286911959,
-    "wof:lastmodified":1473879672,
+    "wof:lastmodified":1492477219,
     "wof:name":"L. Couvreur",
-    "wof:parent_id":85859761,
+    "wof:parent_id":1108805669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

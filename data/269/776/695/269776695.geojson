@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.330778,52.060364,4.330778,52.060364",
     "geom:latitude":52.060364,
     "geom:longitude":4.330778,
@@ -33,31 +34,49 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808317,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xA3hg2vZjUGcfXJ9zN9MK_52.060364_4.330778@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c5111353b2f3991e6b97b0d636d8fb43",
+    "wof:geomhash":"45b682335b840a4b653bb65c40869dce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808317,
+            "region_id":85687041,
+            "venue_id":269776695
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808317,
             "region_id":85687041,
             "venue_id":269776695
         }
     ],
     "wof:id":269776695,
-    "wof:lastmodified":1473879426,
+    "wof:lastmodified":1492496120,
     "wof:name":"Restaurantbedrijf Oase",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

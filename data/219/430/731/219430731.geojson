@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.327342,52.063313,4.327342,52.063313",
     "geom:latitude":52.063313,
     "geom:longitude":4.327342,
@@ -24,31 +25,49 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808315,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JVjx2xZL33BgegluTdlQu_52.063313_4.327342@1306269926"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cd6ac7126dc2025418921ad600d3257c",
+    "wof:geomhash":"38cc9a7842f554fd3ae1276e2684a7ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808315,
+            "region_id":85687041,
+            "venue_id":219430731
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808315,
             "region_id":85687041,
             "venue_id":219430731
         }
     ],
     "wof:id":219430731,
-    "wof:lastmodified":1473879132,
+    "wof:lastmodified":1492503238,
     "wof:name":"Timmer - Onderhoudsbedrijf D Houtman",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

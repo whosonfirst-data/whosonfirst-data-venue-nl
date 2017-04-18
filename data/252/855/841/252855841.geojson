@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.901818,52.362129,4.901818,52.362129",
     "geom:latitude":52.362129,
     "geom:longitude":4.901818,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804045,
+        1108802791,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6Hc2YtBulFVXkkXzgu4dSm_52.362129_4.901818@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"257b08ef5d687e7338e3f579e9301c6d",
+    "wof:geomhash":"c63646d2f6d4bd324bc98900d7ffb434",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804045,
+            "neighbourhood_id":1108802791,
             "region_id":85687053,
             "venue_id":252855841
         }
     ],
     "wof:id":252855841,
-    "wof:lastmodified":1473878692,
+    "wof:lastmodified":1492505328,
     "wof:name":"Tandtechnisch Laboratorium Denthomas",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

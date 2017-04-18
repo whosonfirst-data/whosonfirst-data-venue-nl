@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.902632,52.374069,4.902632,52.374069",
     "geom:latitude":52.374069,
     "geom:longitude":4.902632,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804265,
+        1108802875,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_2GKeJOK19HwoWz4kaLvk2F_52.374069_4.902632@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c94bf913ee0b3db94965d38dd8c01043",
+    "wof:geomhash":"c9ba5ff374efb49317c662d9ed33035a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804265,
+            "neighbourhood_id":1108802875,
             "region_id":85687053,
             "venue_id":304044235
         }
     ],
     "wof:id":304044235,
-    "wof:lastmodified":1473878698,
+    "wof:lastmodified":1492504532,
     "wof:name":"Amsterdam Appartments",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

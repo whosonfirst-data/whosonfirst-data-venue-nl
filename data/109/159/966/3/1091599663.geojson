@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1326098442,51.9768600464,4.1326098442,51.9768600464",
     "geom:latitude":51.97686,
     "geom:longitude":4.13261,
@@ -23,19 +24,36 @@
     "sg:postcode":"3151 AZ",
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85797461,
+        102191581,
+        85633337,
+        101751843,
+        1108805729,
+        85687041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FeBBfJ05iOoS4nrcO3ELI_51.976860_4.132610@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802501,
-    "wof:geomhash":"80e27e412f0908b9103461e05993906d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7aa7c3b35a9bc8bda724bf02720e54c",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108805729,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797461,
+            "region_id":85687041,
+            "venue_id":1091599663
+        }
+    ],
     "wof:id":1091599663,
-    "wof:lastmodified":1473879045,
+    "wof:lastmodified":1492509509,
     "wof:name":"Ons Huis",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.868127,52.360058,4.868127,52.360058",
     "geom:latitude":52.360058,
     "geom:longitude":4.868127,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803959,
+        1108802937,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1zTDub2vd3jcyWT8pCsnGY_52.360058_4.868127@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1d868c2d1d8aa4cf2de07d654332dd08",
+    "wof:geomhash":"67f5f211dd3995655b4e89d936ea2600",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803959,
+            "neighbourhood_id":1108802937,
             "region_id":85687053,
             "venue_id":286497573
         }
     ],
     "wof:id":286497573,
-    "wof:lastmodified":1473879165,
+    "wof:lastmodified":1492475072,
     "wof:name":"Metz, R",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

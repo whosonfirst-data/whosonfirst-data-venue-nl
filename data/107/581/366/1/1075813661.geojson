@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4329118729,51.928478241,4.4329118729,51.928478241",
     "geom:latitude":51.928478,
     "geom:longitude":4.432912,
@@ -33,14 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798219,
+        1108805799,
         102191581,
-        404474245,
         85633337,
-        101753095,
-        85687041,
-        85859747,
-        101751843
+        101751843,
+        1108805713,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,31 +47,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473798839,
-    "wof:geomhash":"31ff2883db5b9a62f1182fff581c5828",
+    "wof:geomhash":"6883cd0c382b0b5a2e948087d4ce7b2f",
     "wof:hierarchy":[
         {
+            "borough_id":1108805713,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474245,
-            "locality_id":101753095,
-            "neighbourhood_id":85798219,
-            "region_id":85687041,
-            "venue_id":1075813661
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474245,
             "locality_id":101751843,
-            "neighbourhood_id":85859747,
+            "neighbourhood_id":1108805799,
             "region_id":85687041,
             "venue_id":1075813661
         }
     ],
     "wof:id":1075813661,
-    "wof:lastmodified":1473878931,
+    "wof:lastmodified":1492486412,
     "wof:name":"Avr Container Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108805799,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

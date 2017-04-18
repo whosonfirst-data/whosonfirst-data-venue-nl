@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.852936,52.332504,4.852936,52.332504",
     "geom:latitude":52.332504,
     "geom:longitude":4.852936,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803583,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6jAdYyGAvY3Z9KrUOlEOZV_52.332504_4.852936@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d7c0ed6a09dc5b5180570114b7b6fa8a",
+    "wof:geomhash":"188451edeb14319a0af3528d9278fea4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803583,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":320637549
         }
     ],
     "wof:id":320637549,
-    "wof:lastmodified":1473879473,
+    "wof:lastmodified":1492484408,
     "wof:name":"Jachtwerf Klaver",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

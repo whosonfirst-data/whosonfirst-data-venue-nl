@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.936186,52.370953,4.936186,52.370953",
     "geom:latitude":52.370953,
     "geom:longitude":4.936186,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.hvhoorn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803603,
+        1108802877,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_24grAvTYrkD7NPaobeA4pe_52.370953_4.936186@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"df8eaeb40cdbb8ce1f75d7af3e9235a7",
+    "wof:geomhash":"3337cdb7ca1e8967f4d792ad9213dd97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803603,
+            "neighbourhood_id":1108802877,
             "region_id":85687053,
             "venue_id":269654545
         }
     ],
     "wof:id":269654545,
-    "wof:lastmodified":1473879231,
+    "wof:lastmodified":1492496516,
     "wof:name":"Hoorn, Van",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

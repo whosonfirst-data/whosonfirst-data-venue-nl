@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.850809,52.333099,4.850809,52.333099",
     "geom:latitude":52.333099,
     "geom:longitude":4.850809,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803583,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1U3bsx7FGc1kDEjE3mi84m_52.333099_4.850809@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"153df145ed32b20ff3e9df66dc5bb500",
+    "wof:geomhash":"df2c578698349623a17d742c5ae44d67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803583,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":320796785
         }
     ],
     "wof:id":320796785,
-    "wof:lastmodified":1473879624,
+    "wof:lastmodified":1492485235,
     "wof:name":"Meerzicht",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

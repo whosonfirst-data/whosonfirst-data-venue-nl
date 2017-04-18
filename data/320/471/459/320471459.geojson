@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881916,52.369576,4.881916,52.369576",
     "geom:latitude":52.369576,
     "geom:longitude":4.881916,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.sbdd.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3kBgwhej1zeDYWQIYMaaOV_52.369576_4.881916@1306269998"
     },
     "wof:country":"NL",
-    "wof:geomhash":"658b9032ae186f9a9472a56e5393d5cf",
+    "wof:geomhash":"9529ea51bab0a9425274ba352973db28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":320471459
         }
     ],
     "wof:id":320471459,
-    "wof:lastmodified":1473879324,
+    "wof:lastmodified":1492482307,
     "wof:name":"Buiten De Deur",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

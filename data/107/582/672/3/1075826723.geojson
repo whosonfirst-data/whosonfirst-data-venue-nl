@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.9953551292,53.1638565063,6.9953551292,53.1638565063",
     "geom:latitude":53.163857,
     "geom:longitude":6.995355,
@@ -24,17 +25,32 @@
     "sg:province":"Groningen",
     "sg:website":"http://www.virol.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473733,
+        85633337,
+        101807495
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5srzJh1E4s745n46VJfsXu_53.163857_6.995355@1306270010"
     },
     "wof:country":"NL",
     "wof:created":1473799591,
-    "wof:geomhash":"ef299aff9f63a1294e772004740bbd68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b7e98047234e86956174ae2bd49723a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473733,
+            "locality_id":101807495,
+            "region_id":85687059,
+            "venue_id":1075826723
+        }
+    ],
     "wof:id":1075826723,
-    "wof:lastmodified":1473879471,
+    "wof:lastmodified":1492487006,
     "wof:name":"Virol Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

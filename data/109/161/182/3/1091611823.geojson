@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7461771965,52.4703636169,4.7461771965,52.4703636169",
     "geom:latitude":52.470364,
     "geom:longitude":4.746177,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.fleximed.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474143,
+        85633337,
+        101754787
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4m5RQrO082o36FT5x0H4yE_52.470364_4.746177@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803500,
-    "wof:geomhash":"42e15a51a8d391ce06332248e0a5698b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"501822babbf6dbd816e7b490c57a0190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474143,
+            "locality_id":101754787,
+            "region_id":85687053,
+            "venue_id":1091611823
+        }
+    ],
     "wof:id":1091611823,
-    "wof:lastmodified":1473878572,
+    "wof:lastmodified":1492510426,
     "wof:name":"Fleximed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

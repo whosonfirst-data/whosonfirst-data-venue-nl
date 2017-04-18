@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.855014,52.372581,4.855014,52.372581",
     "geom:latitude":52.372581,
     "geom:longitude":4.855014,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804001,
+        1108802931,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_47OJQB0WGtPDQabAPH0wx4_52.372581_4.855014@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0c1712893773969811d0129693589aea",
+    "wof:geomhash":"805a7cba481de9a59844e59b2d5e7abe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108804001,
+            "neighbourhood_id":1108802931,
             "region_id":85687053,
             "venue_id":320239205
         }
     ],
     "wof:id":320239205,
-    "wof:lastmodified":1473879101,
+    "wof:lastmodified":1492482013,
     "wof:name":"Fa Broekman",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

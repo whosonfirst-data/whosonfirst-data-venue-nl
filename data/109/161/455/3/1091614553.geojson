@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4140119553,51.9434509277,4.4140119553,51.9434509277",
     "geom:latitude":51.943451,
     "geom:longitude":4.414012,
@@ -24,12 +25,14 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859761,
+        1108805757,
         102191581,
-        404474245,
         85633337,
         101751843,
-        85687041
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,22 +40,32 @@
     },
     "wof:country":"NL",
     "wof:created":1473803650,
-    "wof:geomhash":"cf4fbb1dd2790e8aef7b8ee5e168aeb3",
+    "wof:geomhash":"a213918975539f940704ded0cf6f64d1",
     "wof:hierarchy":[
         {
+            "borough_id":1108805739,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474245,
             "locality_id":101751843,
-            "neighbourhood_id":85859761,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":1091614553
+        },
+        {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474253,
+            "locality_id":101751845,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":1091614553
         }
     ],
     "wof:id":1091614553,
-    "wof:lastmodified":1473878722,
+    "wof:lastmodified":1492510476,
     "wof:name":"Kantoor Komfort Magazijn",
-    "wof:parent_id":85859761,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

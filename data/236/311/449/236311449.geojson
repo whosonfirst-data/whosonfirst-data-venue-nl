@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.85094,52.357658,4.85094,52.357658",
     "geom:latitude":52.357658,
     "geom:longitude":4.85094,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803655,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_2TPsM9FhQ07PUwK1EzEo9p_52.357658_4.850940@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a95983cf6b764b357be4eba2f6e931ad",
+    "wof:geomhash":"3843cf474d398a266bf935ffac26304d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803655,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":236311449
         }
     ],
     "wof:id":236311449,
-    "wof:lastmodified":1473879116,
+    "wof:lastmodified":1492491524,
     "wof:name":"Rena Casa",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

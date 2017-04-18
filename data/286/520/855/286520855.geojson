@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.861568,52.360725,4.861568,52.360725",
     "geom:latitude":52.360725,
     "geom:longitude":4.861568,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803855,
+        1108802893,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_26dE6XD5Xw8lMXwjyBzFW3_52.360725_4.861568@1306269970"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5c5aa844a24957154eaef0f488dd5935",
+    "wof:geomhash":"7773162f63d29f5d8c878111b4ea75c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803855,
+            "neighbourhood_id":1108802893,
             "region_id":85687053,
             "venue_id":286520855
         }
     ],
     "wof:id":286520855,
-    "wof:lastmodified":1473879197,
+    "wof:lastmodified":1492478168,
     "wof:name":"Vian",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.925821,52.353699,4.925821,52.353699",
     "geom:latitude":52.353699,
     "geom:longitude":4.925821,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804165,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_53bAiGaL5RiAFNQ0tWJmRw_52.353699_4.925821@1306269945"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5fec37563539186fc1e3ea4b199ed10d",
+    "wof:geomhash":"bf015b964a6096b827325b6510832607",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804165,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":252947697
         }
     ],
     "wof:id":252947697,
-    "wof:lastmodified":1473878939,
+    "wof:lastmodified":1492505403,
     "wof:name":"Slijptechniek A.H. Steenkist",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

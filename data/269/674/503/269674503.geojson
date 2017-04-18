@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893193,52.386181,4.893193,52.386181",
     "geom:latitude":52.386181,
     "geom:longitude":4.893193,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803255,
+        1108802819,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_67XrrKEq5hry01buJZ3HIu_52.386181_4.893193@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c3f3e06daa99d2be9b56c58f40c5c21b",
+    "wof:geomhash":"35c56b691fc622ff83285e5779b135c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803255,
+            "neighbourhood_id":1108802819,
             "region_id":85687053,
             "venue_id":269674503
         }
     ],
     "wof:id":269674503,
-    "wof:lastmodified":1473879271,
+    "wof:lastmodified":1492495158,
     "wof:name":"Animal Support Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

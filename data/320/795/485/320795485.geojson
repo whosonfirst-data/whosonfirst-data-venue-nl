@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.853505,52.333248,4.853505,52.333248",
     "geom:latitude":52.333248,
     "geom:longitude":4.853505,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803583,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_28KNKz3XdlHB6VdDdWyUXN_52.333248_4.853505@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"eedef1d3fed1c2cbf321878c8a74462f",
+    "wof:geomhash":"833441f1795c9b260b60aa35ac24c9a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803583,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":320795485
         }
     ],
     "wof:id":320795485,
-    "wof:lastmodified":1473879624,
+    "wof:lastmodified":1492483169,
     "wof:name":"Linnenbank, J",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

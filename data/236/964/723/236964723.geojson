@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.316881,52.08984,4.316881,52.08984",
     "geom:latitude":52.08984,
     "geom:longitude":4.316881,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.recidence-makelaardij.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797091,
+        1108808143,
+        102191581,
+        1108805961,
         85633337,
         101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3YyvuJJF3q1PHu2Ssalf77_52.089840_4.316881@1306269942"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ecfbc92bb43be2e25d142c57b0282922",
+    "wof:geomhash":"31eff20ebda8b34c3abfcc297781f49b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797091,
+            "macrohood_id":1108805961,
+            "neighbourhood_id":1108808143,
             "region_id":85687041,
             "venue_id":236964723
         }
     ],
     "wof:id":236964723,
-    "wof:lastmodified":1473879635,
+    "wof:lastmodified":1492491958,
     "wof:name":"Residence",
-    "wof:parent_id":85797091,
+    "wof:parent_id":1108808143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

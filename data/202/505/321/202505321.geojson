@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.312713,52.074253,4.312713,52.074253",
     "geom:latitude":52.074253,
     "geom:longitude":4.312713,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808257,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_10bD0oDruMKjdnr9VlzL0X_52.074253_4.312713@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7fb17995274cfa94138336df2dd53d13",
+    "wof:geomhash":"964e9029bbdc57962dd2e9ed0681fd19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808257,
             "region_id":85687041,
             "venue_id":202505321
         }
     ],
     "wof:id":202505321,
-    "wof:lastmodified":1473878795,
+    "wof:lastmodified":1492497464,
     "wof:name":"Ed Producties",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

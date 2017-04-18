@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.092028,52.121567,5.092028,52.121567",
     "geom:latitude":52.121567,
     "geom:longitude":5.092028,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808893,
+        102191581,
+        1108832365,
         85633337,
         101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0VPoO1GRLztTIZ0k37jsGq_52.121567_5.092028@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c9d65708254c745c17864001c70b3064",
+    "wof:geomhash":"6bdcb057399a95087df1dfdf3701374d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808893,
             "region_id":85687039,
             "venue_id":320248265
         }
     ],
     "wof:id":320248265,
-    "wof:lastmodified":1473879116,
+    "wof:lastmodified":1492484071,
     "wof:name":"Trajectum",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

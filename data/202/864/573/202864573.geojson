@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.131507,52.057392,5.131507,52.057392",
     "geom:latitude":52.057392,
     "geom:longitude":5.131507,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859943,
+        1108808797,
+        102191581,
+        1108832363,
         85633337,
+        101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6JOg8dxUerGaR23v5y4jSo_52.057392_5.131507@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"326661f195e13959d2bf803482de7ac3",
+    "wof:geomhash":"b308b07c646401015aa3cb62154e9f34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859943,
+            "locality_id":101751827,
+            "macrohood_id":1108832363,
+            "neighbourhood_id":1108808797,
             "region_id":85687039,
             "venue_id":202864573
         }
     ],
     "wof:id":202864573,
-    "wof:lastmodified":1473879368,
+    "wof:lastmodified":1492498889,
     "wof:name":"Dijkstra, T K",
-    "wof:parent_id":85859943,
+    "wof:parent_id":1108808797,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.899682,52.361954,4.899682,52.361954",
     "geom:latitude":52.361954,
     "geom:longitude":4.899682,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804045,
+        1108802791,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_10FM9GDLAUWILXfMj7QlVU_52.361954_4.899682@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9c2ea18bdf34ee5446df8f90b13c4361",
+    "wof:geomhash":"5dd6c45cd8e901e9932ccf63fbf16456",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804045,
+            "neighbourhood_id":1108802791,
             "region_id":85687053,
             "venue_id":304068207
         }
     ],
     "wof:id":304068207,
-    "wof:lastmodified":1473878772,
+    "wof:lastmodified":1492504561,
     "wof:name":"Hotel De Harmonie",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

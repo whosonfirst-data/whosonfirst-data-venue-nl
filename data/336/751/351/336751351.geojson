@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.57948,51.9646,4.57948,51.9646",
     "geom:latitude":51.9646,
     "geom:longitude":4.57948,
@@ -33,20 +34,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798779,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FEP0EoYjLkdrRq0z7NZuG_51.964600_4.579480@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"227cef6eca020836d4c3e694b202220b",
+    "wof:geomhash":"b01dfdc77b7b63d8edf64717631f84d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798779,
+            "region_id":85687041,
+            "venue_id":336751351
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798779,
             "region_id":85687041,
@@ -54,7 +70,7 @@
         }
     ],
     "wof:id":336751351,
-    "wof:lastmodified":1473878411,
+    "wof:lastmodified":1492505815,
     "wof:name":"F.J. Breevoort Assurantien",
     "wof:parent_id":85798779,
     "wof:placetype":"venue",

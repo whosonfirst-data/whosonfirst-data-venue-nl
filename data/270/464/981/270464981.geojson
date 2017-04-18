@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.900055,52.366123,4.900055,52.366123",
     "geom:latitude":52.366123,
     "geom:longitude":4.900055,
@@ -29,9 +30,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803223,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_2GYO8sqykjmELzuep7sOYy_52.366123_4.900055@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cbc9c397b3538474466f24905ace6b93",
+    "wof:geomhash":"4599634fd188359edf4773d0d7abb84f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803223,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":270464981
         }
     ],
     "wof:id":270464981,
-    "wof:lastmodified":1473879266,
+    "wof:lastmodified":1492500837,
     "wof:name":"Bar Bodega De Krokodil",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

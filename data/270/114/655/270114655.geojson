@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880697,52.360886,4.880697,52.360886",
     "geom:latitude":52.360886,
     "geom:longitude":4.880697,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803565,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2Ga3peayfVevp0MpiKe1tD_52.360886_4.880697@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a6c6aa311d6cac1cdf11b8e1ef12db0b",
+    "wof:geomhash":"26ba389e4a05b45473c58c9b79285857",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803565,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":270114655
         }
     ],
     "wof:id":270114655,
-    "wof:lastmodified":1473878615,
+    "wof:lastmodified":1492501197,
     "wof:name":"Bazen, R",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

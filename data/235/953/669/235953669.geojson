@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.873831,52.329922,4.873831,52.329922",
     "geom:latitude":52.329922,
     "geom:longitude":4.873831,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.accesstolife.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804091,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_5YtshTUSyLUMpBZlRzHzVh_52.329922_4.873831@1306269933"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1eb48015187e8226dd63e0d7502603e1",
+    "wof:geomhash":"f57be69638d352ca6faabef049c5d0ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804091,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":235953669
         }
     ],
     "wof:id":235953669,
-    "wof:lastmodified":1473878557,
+    "wof:lastmodified":1492514508,
     "wof:name":"Access To Life",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

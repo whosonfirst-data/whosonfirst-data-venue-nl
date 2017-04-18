@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.308872,52.088158,4.308872,52.088158",
     "geom:latitude":52.088158,
     "geom:longitude":4.308872,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808223,
+        102191581,
+        1108808065,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4aksLX5DBpkaB2WGw2B914_52.088158_4.308872@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"58aa762d79eced4e6cf8799c2c05db9c",
+    "wof:geomhash":"85fe9c34bcaef9c8a506f45d442f22b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808065,
+            "neighbourhood_id":1108808223,
             "region_id":85687041,
             "venue_id":303647123
         }
     ],
     "wof:id":303647123,
-    "wof:lastmodified":1473879410,
+    "wof:lastmodified":1492472237,
     "wof:name":"T Pakhuis",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

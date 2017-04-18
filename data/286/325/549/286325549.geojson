@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.275041,52.10524,4.275041,52.10524",
     "geom:latitude":52.10524,
     "geom:longitude":4.275041,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808165,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_4ene7rfKRmQkHV0HVU8lnb_52.105240_4.275041@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e05ecbc7090ec1f1d033a826cf606ee4",
+    "wof:geomhash":"6673e5504eb9691245fd215d29d187cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808165,
             "region_id":85687041,
             "venue_id":286325549
         }
     ],
     "wof:id":286325549,
-    "wof:lastmodified":1473878752,
+    "wof:lastmodified":1492476535,
     "wof:name":"Sauna Bijland",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

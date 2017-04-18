@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.943354,52.360752,4.943354,52.360752",
     "geom:latitude":52.360752,
     "geom:longitude":4.943354,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803801,
+        1108802843,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1MuZV78R6wl6KcrIj3emrl_52.360752_4.943354@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bec3be56e320b9aaabca2f7912f9e320",
+    "wof:geomhash":"52645fb9fdcbc4b78200042ec9fe42f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803801,
+            "neighbourhood_id":1108802843,
             "region_id":85687053,
             "venue_id":270320497
         }
     ],
     "wof:id":270320497,
-    "wof:lastmodified":1473879098,
+    "wof:lastmodified":1492500060,
     "wof:name":"Ei Interieur",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

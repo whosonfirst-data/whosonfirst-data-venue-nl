@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.907553,52.358334,4.907553,52.358334",
     "geom:latitude":52.358334,
     "geom:longitude":4.907553,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803889,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5nHwxPqxcrsUPnJnMmHT4F_52.358334_4.907553@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e5c84fd6cb964b33788547493c7df851",
+    "wof:geomhash":"31fe2bfec9972724f5445edc9d3eedaa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803889,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":286694203
         }
     ],
     "wof:id":286694203,
-    "wof:lastmodified":1473879436,
+    "wof:lastmodified":1492475207,
     "wof:name":"Golden Key",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.862741,52.361015,4.862741,52.361015",
     "geom:latitude":52.361015,
     "geom:longitude":4.862741,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.momkai.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803855,
+        1108802893,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_7GlG1TSHtFox5ugb9dfUUv_52.361015_4.862741@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"923fae3f36ea5706296723fd0b852d3e",
+    "wof:geomhash":"f07a768489d63df29b58e447aede1c70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803855,
+            "neighbourhood_id":1108802893,
             "region_id":85687053,
             "venue_id":320489247
         }
     ],
     "wof:id":320489247,
-    "wof:lastmodified":1473879323,
+    "wof:lastmodified":1492483678,
     "wof:name":"Momkai",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

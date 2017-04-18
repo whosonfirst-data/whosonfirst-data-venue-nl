@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.905881,52.360008,4.905881,52.360008",
     "geom:latitude":52.360008,
     "geom:longitude":4.905881,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.nbf.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803763,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_1MwKewLrXd136kJYEqAkBx_52.360008_4.905881@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b7e1a6f112c575c58707acb11db45cf8",
+    "wof:geomhash":"63c7f00260a0f628d27704a980b26f93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803763,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":186452277
         }
     ],
     "wof:id":186452277,
-    "wof:lastmodified":1473879446,
+    "wof:lastmodified":1492508008,
     "wof:name":"Nbf",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803763,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

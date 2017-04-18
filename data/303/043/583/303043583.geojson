@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.291091,52.077183,4.291091,52.077183",
     "geom:latitude":52.077183,
     "geom:longitude":4.291091,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798385,
+        1108808215,
+        102191581,
+        1108808117,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1Wa92SVrK3IPQdSyXCplXq_52.077183_4.291091@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9ce7a6287c4c385b4525e088410bf039",
+    "wof:geomhash":"3d094a0cccf5a8a76c2adddce25c578e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798385,
+            "macrohood_id":1108808117,
+            "neighbourhood_id":1108808215,
             "region_id":85687041,
             "venue_id":303043583
         }
     ],
     "wof:id":303043583,
-    "wof:lastmodified":1473878486,
+    "wof:lastmodified":1492474946,
     "wof:name":"Hobbit Facilities",
-    "wof:parent_id":85798385,
+    "wof:parent_id":1108808215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

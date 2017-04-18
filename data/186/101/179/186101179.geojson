@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.869208,52.355785,4.869208,52.355785",
     "geom:latitude":52.355785,
     "geom:longitude":4.869208,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803475,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3FznkcF0LvuDcdOgAo9zbB_52.355785_4.869208@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"763782e3e7ba0f0994bab80760079c80",
+    "wof:geomhash":"d9f5f573bd94f2184d379ad641e301f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803475,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":186101179
         }
     ],
     "wof:id":186101179,
-    "wof:lastmodified":1473878946,
+    "wof:lastmodified":1492507550,
     "wof:name":"Jan Van Baarle Uitgever",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

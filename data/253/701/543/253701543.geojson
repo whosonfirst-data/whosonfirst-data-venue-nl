@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.873775,52.334114,4.873775,52.334114",
     "geom:latitude":52.334114,
     "geom:longitude":4.873775,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804091,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_40O7UOHwk4IZR3UBO9ogAv_52.334114_4.873775@1306269953"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c50cc4f8729af1989720bd3102596339",
+    "wof:geomhash":"407f09c53ff0a12c67a4e91a92756643",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804091,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":253701543
         }
     ],
     "wof:id":253701543,
-    "wof:lastmodified":1473879701,
+    "wof:lastmodified":1492490872,
     "wof:name":"Chika Records & Music Publishing",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

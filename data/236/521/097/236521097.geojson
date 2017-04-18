@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.277474,52.059414,4.277474,52.059414",
     "geom:latitude":52.059414,
     "geom:longitude":4.277474,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859609,
+        85859591,
+        102191581,
+        1108808107,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3sLG06vcZyHDshtQwpXPLv_52.059414_4.277474@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ff7c134c03fbaa24a4c059f32653b841",
+    "wof:geomhash":"8d34fca47c4b212f505f29f4d3d2a965",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859609,
+            "macrohood_id":1108808107,
+            "neighbourhood_id":85859591,
             "region_id":85687041,
             "venue_id":236521097
         }
     ],
     "wof:id":236521097,
-    "wof:lastmodified":1473879374,
+    "wof:lastmodified":1492492311,
     "wof:name":"J. Priester Huisarts",
-    "wof:parent_id":85859609,
+    "wof:parent_id":85859591,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

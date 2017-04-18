@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.902715,52.375957,4.902715,52.375957",
     "geom:latitude":52.375957,
     "geom:longitude":4.902715,
@@ -29,9 +30,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804265,
+        1108802875,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_4Cc4BR8HdsUPfAjZrbBIUM_52.375957_4.902715@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"98db15ea18d68ff3ce660bd09f62548d",
+    "wof:geomhash":"b292fd56b8cc5d274078d10dfa07a147",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804265,
+            "neighbourhood_id":1108802875,
             "region_id":85687053,
             "venue_id":304073401
         }
     ],
     "wof:id":304073401,
-    "wof:lastmodified":1473878792,
+    "wof:lastmodified":1492504630,
     "wof:name":"Il Giardino",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

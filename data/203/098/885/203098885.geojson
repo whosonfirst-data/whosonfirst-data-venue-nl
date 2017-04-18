@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.383558,52.17284,5.383558,52.17284",
     "geom:latitude":52.17284,
     "geom:longitude":5.383558,
@@ -25,6 +26,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798419,
+        102191581,
+        404473971,
         85633337,
         101855289,
         85687039,
@@ -36,19 +39,21 @@
         "sg:id":"SG_7Xh3pP6ntX3CFJp2ZrQkIZ_52.172840_5.383558@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"19afa79f2abe5053613a801f7289199e",
+    "wof:geomhash":"3e953a485f11c84228119d325833877e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473971,
             "locality_id":101855289,
             "neighbourhood_id":85798419,
             "region_id":85687039,
             "venue_id":203098885
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473971,
             "locality_id":101751821,
             "neighbourhood_id":85798387,
             "region_id":85687039,
@@ -56,9 +61,9 @@
         }
     ],
     "wof:id":203098885,
-    "wof:lastmodified":1473878860,
+    "wof:lastmodified":1492480927,
     "wof:name":"Assurantiekantoor M.J.Peters",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

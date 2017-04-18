@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2418951988,51.8505706787,4.2418951988,51.8505706787",
     "geom:latitude":51.850571,
     "geom:longitude":4.241895,
@@ -23,17 +24,32 @@
     "sg:postcode":"3216 AH",
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474215,
+        85633337,
+        101754611
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_544cQtwoObXRPAYN9jknvO_51.850571_4.241895@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803829,
-    "wof:geomhash":"6c7741222e992039bb468e0f41971182",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54d3e95cac5924cef0ad52a1bcdedc51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474215,
+            "locality_id":101754611,
+            "region_id":85687041,
+            "venue_id":1091618311
+        }
+    ],
     "wof:id":1091618311,
-    "wof:lastmodified":1473878976,
+    "wof:lastmodified":1492510375,
     "wof:name":"Alice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

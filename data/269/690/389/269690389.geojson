@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878926,52.330597,4.878926,52.330597",
     "geom:latitude":52.330597,
     "geom:longitude":4.878926,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804091,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_50hcu9Vkjvg81aO91KYuXV_52.330597_4.878926@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9aa72fdb1162e6edc8daad731f979345",
+    "wof:geomhash":"d7ad50c4cbf54883ffe92b5d721e3bab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804091,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":269690389
         }
     ],
     "wof:id":269690389,
-    "wof:lastmodified":1473879276,
+    "wof:lastmodified":1492496348,
     "wof:name":"Puzzle",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

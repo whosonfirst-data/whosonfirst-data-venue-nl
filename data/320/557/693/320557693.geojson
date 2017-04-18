@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.503646,51.882648,4.503646,51.882648",
     "geom:latitude":51.882648,
     "geom:longitude":4.503646,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798517,
+        1108805711,
+        85798609,
+        102191581,
         85633337,
         101751843,
+        1108805747,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_4C2V3XY3PWuBmvv601h0a7_51.882648_4.503646@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"eaf7d9a8e5bc6e9abab29bdb74d983af",
+    "wof:geomhash":"e575879301a32a850e7a3b6f45d279f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805747,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85798517,
+            "microhood_id":1108805711,
+            "neighbourhood_id":85798609,
             "region_id":85687041,
             "venue_id":320557693
         }
     ],
     "wof:id":320557693,
-    "wof:lastmodified":1473879414,
+    "wof:lastmodified":1492484522,
     "wof:name":"Groenten & Fruithandel M A Van Beusekom",
-    "wof:parent_id":85798517,
+    "wof:parent_id":1108805711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

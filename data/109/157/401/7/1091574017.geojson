@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8015999794,52.7096176147,4.8015999794,52.7096176147",
     "geom:latitude":52.709618,
     "geom:longitude":4.8016,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.mirotek.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474093,
+        85633337,
+        101754817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JaQiKPwhqE2Ml4Dvi5O10_52.709618_4.801600@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800731,
-    "wof:geomhash":"33d328b2766e2aaabfb84fc9688caaa6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb2b54daa9bfe8e53241fce4b78431e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474093,
+            "locality_id":101754817,
+            "region_id":85687053,
+            "venue_id":1091574017
+        }
+    ],
     "wof:id":1091574017,
-    "wof:lastmodified":1473878750,
+    "wof:lastmodified":1492511109,
     "wof:name":"Mirotek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

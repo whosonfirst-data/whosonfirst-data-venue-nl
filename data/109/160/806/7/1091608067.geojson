@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.9306650162,53.2584609985,6.9306650162,53.2584609985",
     "geom:latitude":53.258461,
     "geom:longitude":6.930665,
@@ -23,17 +24,32 @@
     "sg:postcode":"9945 NA",
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473711,
+        85633337,
+        101807527
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wmQvVCtqPboX6rzHIDCaw_53.258461_6.930665@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803297,
-    "wof:geomhash":"a3371aa907f497c757b65e0ee49f2c75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04582ce11ecc372c3e651b580a7df443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473711,
+            "locality_id":101807527,
+            "region_id":85687059,
+            "venue_id":1091608067
+        }
+    ],
     "wof:id":1091608067,
-    "wof:lastmodified":1473878924,
+    "wof:lastmodified":1492512582,
     "wof:name":"Proostmeer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

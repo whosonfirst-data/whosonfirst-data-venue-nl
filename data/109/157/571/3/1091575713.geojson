@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7712459564,51.819442749,4.7712459564,51.819442749",
     "geom:latitude":51.819443,
     "geom:longitude":4.771246,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.vz-webdesign.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474257,
+        85633337,
+        101754745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Dr70G7Qjov1ZYNl8haGf3_51.819443_4.771246@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800837,
-    "wof:geomhash":"1ea622f98688ce3484dbe1ab6f4384f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12c64dd1d6c14b3b59aae31d0c07b132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474257,
+            "locality_id":101754745,
+            "region_id":85687041,
+            "venue_id":1091575713
+        }
+    ],
     "wof:id":1091575713,
-    "wof:lastmodified":1473878894,
+    "wof:lastmodified":1492511380,
     "wof:name":"Vz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.864279,52.383739,4.864279,52.383739",
     "geom:latitude":52.383739,
     "geom:longitude":4.864279,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803851,
+        1108802557,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5QCs4LGl4igV3VnWegBo1X_52.383739_4.864279@1306269998"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9d86d82fc242bea2d20722c16bca0a96",
+    "wof:geomhash":"c398b9edf614a3529c397645a5a4cdec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803851,
+            "neighbourhood_id":1108802557,
             "region_id":85687053,
             "venue_id":320473415
         }
     ],
     "wof:id":320473415,
-    "wof:lastmodified":1473879317,
+    "wof:lastmodified":1492482846,
     "wof:name":"D & D Concept",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

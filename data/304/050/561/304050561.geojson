@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.688199,50.847572,5.688199,50.847572",
     "geom:latitude":50.847572,
     "geom:longitude":5.688199,
@@ -30,40 +31,41 @@
     "sg:website":"http://www.hotelbotticelli.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798687,
         85633337,
-        101751803,
+        85797109,
         85687033,
-        85797109
+        85798687,
+        102191581,
+        404474495,
+        101751803
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ux0hsASiidQn8J5XB0z5g_50.847572_5.688199@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"65a639ecf8c9ebac0d2784e2b9d7fd02",
+    "wof:geomhash":"b220a0ebf1e67db930b49f3f7f6f05f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751803,
-            "neighbourhood_id":85798687,
+            "neighbourhood_id":85797109,
             "region_id":85687033,
             "venue_id":304050561
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797109,
+            "localadmin_id":404474495,
+            "locality_id":101751803,
+            "neighbourhood_id":85798687,
             "region_id":85687033,
             "venue_id":304050561
         }
     ],
     "wof:id":304050561,
-    "wof:lastmodified":1473878728,
+    "wof:lastmodified":1492504688,
     "wof:name":"Botticelli",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

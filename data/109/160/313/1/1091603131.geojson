@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4774060249,52.0441856384,4.4774060249,52.0441856384",
     "geom:latitude":52.044186,
     "geom:longitude":4.477406,
@@ -24,13 +25,13 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797467,
+        85798007,
         102191581,
         404474287,
         85633337,
         101751835,
         85687041,
-        85798007
+        85797467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +39,17 @@
     },
     "wof:country":"NL",
     "wof:created":1473802707,
-    "wof:geomhash":"fc128de07c5268f0dd4dd7fc00c3cba3",
+    "wof:geomhash":"4dbaa7325851dc23a834aaf4fd805071",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474287,
+            "locality_id":101751835,
+            "neighbourhood_id":85798007,
+            "region_id":85687041,
+            "venue_id":1091603131
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -48,18 +58,12 @@
             "neighbourhood_id":85797467,
             "region_id":85687041,
             "venue_id":1091603131
-        },
-        {
-            "country_id":85633337,
-            "neighbourhood_id":85798007,
-            "region_id":85687041,
-            "venue_id":1091603131
         }
     ],
     "wof:id":1091603131,
-    "wof:lastmodified":1473878614,
+    "wof:lastmodified":1492512863,
     "wof:name":"Kaasspecialist, De",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.500063,51.935642,4.500063,51.935642",
     "geom:latitude":51.935642,
     "geom:longitude":4.500063,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859861,
+        1108805837,
+        102191581,
+        1108805657,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_08MamgGBAdaorPin70PGk9_51.935642_4.500063@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"173bf31a326c7c1d3ff1d184d9e48c86",
+    "wof:geomhash":"f6e62a438ca41bcecc0a41c636bc2536",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859861,
+            "macrohood_id":1108805657,
+            "neighbourhood_id":1108805837,
             "region_id":85687041,
             "venue_id":203118843
         }
     ],
     "wof:id":203118843,
-    "wof:lastmodified":1473878950,
+    "wof:lastmodified":1492480419,
     "wof:name":"Bv Assurantiebedrijf De Lansingh",
-    "wof:parent_id":85859861,
+    "wof:parent_id":1108805837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

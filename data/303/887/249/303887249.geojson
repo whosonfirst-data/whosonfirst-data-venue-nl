@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.89664,52.376625,4.89664,52.376625",
     "geom:latitude":52.376625,
     "geom:longitude":4.89664,
@@ -24,31 +25,47 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804135,
+        1108802553,
+        102191581,
         85633337,
         101751893,
-        85687053
+        1108802283,
+        85687053,
+        1108803337
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dhiRcKPCQqqJznJSeoGmy_52.376625_4.896640@1306269988"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2fef2da58ac3323148b853c536d7d822",
+    "wof:geomhash":"db59063e86927f597d1d960a27df51ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804135,
+            "neighbourhood_id":1108802553,
+            "region_id":85687053,
+            "venue_id":303887249
+        },
+        {
+            "borough_id":1108802283,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1108803337,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":303887249
         }
     ],
     "wof:id":303887249,
-    "wof:lastmodified":1473879632,
+    "wof:lastmodified":1492472768,
     "wof:name":"Fashion On Top",
-    "wof:parent_id":85797363,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

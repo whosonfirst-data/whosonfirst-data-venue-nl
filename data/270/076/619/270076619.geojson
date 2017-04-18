@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.860108,52.364025,4.860108,52.364025",
     "geom:latitude":52.364025,
     "geom:longitude":4.860108,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803401,
+        1108802933,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7FBauPAwKkyMVvrjk5xMco_52.364025_4.860108@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3f67dc0b3d0bfb984d3aeff17a5c90a3",
+    "wof:geomhash":"053fa52283a08956a8aadabe9415e2eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803401,
+            "neighbourhood_id":1108802933,
             "region_id":85687053,
             "venue_id":270076619
         }
     ],
     "wof:id":270076619,
-    "wof:lastmodified":1473878544,
+    "wof:lastmodified":1492500532,
     "wof:name":"The Family Gym",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803401,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

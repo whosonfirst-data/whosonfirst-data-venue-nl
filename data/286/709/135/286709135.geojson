@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.569273,51.92318,4.569273,51.92318",
     "geom:latitude":51.92318,
     "geom:longitude":4.569273,
@@ -25,6 +26,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85797253,
+        102191581,
+        404474163,
         85633337,
         101754669,
         85687041,
@@ -38,16 +41,18 @@
     "wof:geomhash":"5749b80f59bbb3c8f32b4d800ef07805",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101754669,
             "neighbourhood_id":85797253,
             "region_id":85687041,
             "venue_id":286709135
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101754669,
             "neighbourhood_id":85797249,
             "region_id":85687041,
@@ -55,9 +60,9 @@
         }
     ],
     "wof:id":286709135,
-    "wof:lastmodified":1473879419,
+    "wof:lastmodified":1491918136,
     "wof:name":"Langhorst, J A",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

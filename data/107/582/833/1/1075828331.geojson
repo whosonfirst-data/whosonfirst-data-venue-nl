@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.5369458199,52.4364929199,6.5369458199,52.4364929199",
     "geom:latitude":52.436493,
     "geom:longitude":6.536946,
@@ -23,17 +24,32 @@
     "sg:postcode":"7688 PT",
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473835,
+        85633337,
+        101856053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XEnYbSMxIvlmRxLqF5FAQ_52.436493_6.536946@1306270010"
     },
     "wof:country":"NL",
     "wof:created":1473799692,
-    "wof:geomhash":"4e601497f194213bddd91bcb3533deff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"884eed1d99ec63ea134237fff4bc8d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473835,
+            "locality_id":101856053,
+            "region_id":85687045,
+            "venue_id":1075828331
+        }
+    ],
     "wof:id":1075828331,
-    "wof:lastmodified":1473879521,
+    "wof:lastmodified":1492486721,
     "wof:name":"De Ruimte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

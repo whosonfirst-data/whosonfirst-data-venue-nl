@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.310258,52.0667,4.310258,52.0667",
     "geom:latitude":52.0667,
     "geom:longitude":4.310258,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798385,
+        1108808263,
+        102191581,
+        1108808035,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_2EzxfFh7nFZ1ONMvgZH6Dw_52.066700_4.310258@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0458aec153dca69fec47498aa41962b2",
+    "wof:geomhash":"b3453a99106b574ff97adf67d0d78707",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798385,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808263,
             "region_id":85687041,
             "venue_id":320219773
         }
     ],
     "wof:id":320219773,
-    "wof:lastmodified":1473879109,
+    "wof:lastmodified":1492483665,
     "wof:name":"Soliman",
-    "wof:parent_id":85798385,
+    "wof:parent_id":1108808263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

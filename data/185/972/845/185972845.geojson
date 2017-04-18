@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884888,52.377945,4.884888,52.377945",
     "geom:latitude":52.377945,
     "geom:longitude":4.884888,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804119,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5hwggJUhuwN4sYVVcqwtW6_52.377945_4.884888@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"901f8612c26bb8ba6422b02c9a7ef19e",
+    "wof:geomhash":"f16a3878640b31a67def454299104417",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804119,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":185972845
         }
     ],
     "wof:id":185972845,
-    "wof:lastmodified":1473878994,
+    "wof:lastmodified":1492487698,
     "wof:name":"Lindengracht, De",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

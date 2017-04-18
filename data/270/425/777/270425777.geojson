@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.11313,52.112415,5.11313,52.112415",
     "geom:latitude":52.112415,
     "geom:longitude":5.11313,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808929,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6erJLY1roFJmpRYijJurag_52.112415_5.113130@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"69cb1480f69722f0292b7fd4550db273",
+    "wof:geomhash":"1a8c9827d76a6f5342a65c9a3d908184",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808929,
             "region_id":85687039,
             "venue_id":270425777
         }
     ],
     "wof:id":270425777,
-    "wof:lastmodified":1473879253,
+    "wof:lastmodified":1492500454,
     "wof:name":"Fortis",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

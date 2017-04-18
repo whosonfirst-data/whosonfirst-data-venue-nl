@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.917879,52.352661,4.917879,52.352661",
     "geom:latitude":52.352661,
     "geom:longitude":4.917879,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803773,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3tBgSKEWvqUvOusFWNlIsI_52.352661_4.917879@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ad3734bf445d6e5da3df42e1b37e2009",
+    "wof:geomhash":"3e700e4b817da63fe88afdad3dd954eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803773,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":186074857
         }
     ],
     "wof:id":186074857,
-    "wof:lastmodified":1473878845,
+    "wof:lastmodified":1492509055,
     "wof:name":"G\u00f6lbasi",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

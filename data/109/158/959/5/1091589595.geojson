@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1018857956,52.0884819031,5.1018857956,52.0884819031",
     "geom:latitude":52.088482,
     "geom:longitude":5.101886,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808753,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808659,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473801924,
-    "wof:geomhash":"7e62309193eb6a2ac284e6d1c7f329cf",
+    "wof:geomhash":"9b22b006a63874147c6cbae302690c34",
     "wof:hierarchy":[
         {
+            "borough_id":1108808659,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808753,
             "region_id":85687039,
             "venue_id":1091589595
         }
     ],
     "wof:id":1091589595,
-    "wof:lastmodified":1473879016,
+    "wof:lastmodified":1492511810,
     "wof:name":"Pegasus Human Capital Bv",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2531919479,52.0140342712,4.2531919479,52.0140342712",
     "geom:latitude":52.014034,
     "geom:longitude":4.253192,
@@ -24,9 +25,11 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
         85633337,
-        85859575,
-        85687041
+        101807041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473799542,
-    "wof:geomhash":"5a4b6eb46609c7b8ea9dbf34496a125d",
+    "wof:geomhash":"1e2fe24d8d35c8ad0b91034af65f8b55",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85859575,
+            "localadmin_id":404474667,
+            "locality_id":101807041,
             "region_id":85687041,
             "venue_id":1075825797
         }
     ],
     "wof:id":1075825797,
-    "wof:lastmodified":1473879407,
+    "wof:lastmodified":1492486873,
     "wof:name":"Ben Van De Zande",
-    "wof:parent_id":85859575,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

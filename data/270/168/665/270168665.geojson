@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.911373,52.355461,4.911373,52.355461",
     "geom:latitude":52.355461,
     "geom:longitude":4.911373,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.lithopartners.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803259,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_5owpRz9j3FHwmgcak5Ynw5_52.355461_4.911373@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"22f7eb896cf0f888f6582747662901e0",
+    "wof:geomhash":"098ab4e260a53311ae749e790010cd7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803259,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":270168665
         }
     ],
     "wof:id":270168665,
-    "wof:lastmodified":1473878757,
+    "wof:lastmodified":1492501071,
     "wof:name":"Lithopartners Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

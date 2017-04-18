@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5564050674,51.5338859558,4.5564050674,51.5338859558",
     "geom:latitude":51.533886,
     "geom:longitude":4.556405,
@@ -23,17 +24,32 @@
     "sg:postcode":"4715 AH",
     "sg:province":"North Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474417,
+        85633337,
+        101809675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74EtMLRZ4oHDV4hrdWPx5S_51.533886_4.556405@1306270010"
     },
     "wof:country":"NL",
     "wof:created":1473799698,
-    "wof:geomhash":"705b68b8cb47488db648c138f869786a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0e10837ac66b6268c58d0e14dfbda2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474417,
+            "locality_id":101809675,
+            "region_id":85687035,
+            "venue_id":1075828501
+        }
+    ],
     "wof:id":1075828501,
-    "wof:lastmodified":1473879527,
+    "wof:lastmodified":1492486713,
     "wof:name":"De Vaart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

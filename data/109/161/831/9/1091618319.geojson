@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5235099792,51.5861663818,4.5235099792,51.5861663818",
     "geom:latitude":51.586166,
     "geom:longitude":4.52351,
@@ -23,17 +24,32 @@
     "sg:postcode":"4731 NR",
     "sg:province":"North Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474565,
+        85633337,
+        101808323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uQdHs3vJtXo9IQHxFBxrV_51.586166_4.523510@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803830,
-    "wof:geomhash":"d7c5899641f42aba0c8b3da451627d9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"620fb60449a4919c834db1ef837b7013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474565,
+            "locality_id":101808323,
+            "region_id":85687035,
+            "venue_id":1091618319
+        }
+    ],
     "wof:id":1091618319,
-    "wof:lastmodified":1473878972,
+    "wof:lastmodified":1492510376,
     "wof:name":"Alice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

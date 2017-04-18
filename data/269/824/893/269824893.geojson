@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.886544,52.372158,4.886544,52.372158",
     "geom:latitude":52.372158,
     "geom:longitude":4.886544,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804103,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_7XIFtvjZJx6gAdhlDjVGGH_52.372158_4.886544@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cdf72b1b2a56253f25f075c789a18821",
+    "wof:geomhash":"b236adf225744ce7ed4a8a939d5f58e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804103,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":269824893
         }
     ],
     "wof:id":269824893,
-    "wof:lastmodified":1473879512,
+    "wof:lastmodified":1492496010,
     "wof:name":"Pizzeria Ristorante Del Ponte Da Gigi",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

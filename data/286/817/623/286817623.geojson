@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.495017,51.943291,4.495017,51.943291",
     "geom:latitude":51.943291,
     "geom:longitude":4.495017,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859871,
+        1108805825,
+        102191581,
+        1108805657,
         85633337,
-        101753095,
+        101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3lttDluL6wzH6EsD5XZNqm_51.943291_4.495017@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d0a7df7604a995ab1755a715cd5637a6",
+    "wof:geomhash":"8725d5b833cbba0d9d8f1ccd3a9525a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859871,
+            "locality_id":101751843,
+            "macrohood_id":1108805657,
+            "neighbourhood_id":1108805825,
             "region_id":85687041,
             "venue_id":286817623
         }
     ],
     "wof:id":286817623,
-    "wof:lastmodified":1473879611,
+    "wof:lastmodified":1492477773,
     "wof:name":"Aardingsbedrijf Zuid Holland",
-    "wof:parent_id":85859871,
+    "wof:parent_id":1108805825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

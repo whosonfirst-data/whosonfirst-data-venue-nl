@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.121528,52.111542,5.121528,52.111542",
     "geom:latitude":52.111542,
     "geom:longitude":5.121528,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808871,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_4tRphmdyDoYm3lftpyneE8_52.111542_5.121528@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b18877ff41904b33dd685ee2af8dabd5",
+    "wof:geomhash":"8ae1d7899f7cde1643991297ba9acccc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808871,
             "region_id":85687039,
             "venue_id":186370391
         }
     ],
     "wof:id":186370391,
-    "wof:lastmodified":1473879350,
+    "wof:lastmodified":1492507600,
     "wof:name":"Doktersassistenten, Ned Ver Van",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

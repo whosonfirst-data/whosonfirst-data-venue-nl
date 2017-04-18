@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.496669,51.93512,4.496669,51.93512",
     "geom:latitude":51.93512,
     "geom:longitude":4.496669,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859861,
+        1108805825,
+        102191581,
+        1108805657,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_2z2GuXOU7gijvDsfd4AAmb_51.935120_4.496669@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"062b0f4d20640a6e5ca37e083a9f6b07",
+    "wof:geomhash":"13154b9af9c8bd0d263b7f3ab3893ad2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859861,
+            "macrohood_id":1108805657,
+            "neighbourhood_id":1108805825,
             "region_id":85687041,
             "venue_id":253662807
         }
     ],
     "wof:id":253662807,
-    "wof:lastmodified":1473879701,
+    "wof:lastmodified":1492490078,
     "wof:name":"Crino",
-    "wof:parent_id":85859861,
+    "wof:parent_id":1108805825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

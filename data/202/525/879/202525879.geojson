@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.499537,51.92894,4.499537,51.92894",
     "geom:latitude":51.92894,
     "geom:longitude":4.499537,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805807,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_6AMZlJe0KHMXrLnPHR69ng_51.928940_4.499537@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f0ad070e7e697f0b13d77948d1b86287",
+    "wof:geomhash":"65c7231b31c9875d8f008f0f04306e22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805807,
             "region_id":85687041,
             "venue_id":202525879
         }
     ],
     "wof:id":202525879,
-    "wof:lastmodified":1473878862,
+    "wof:lastmodified":1492497524,
     "wof:name":"Video Palace",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.84333,52.356838,4.84333,52.356838",
     "geom:latitude":52.356838,
     "geom:longitude":4.84333,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.bastionhotels.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803549,
+        1108802959,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_3WyiH1UhxYcN5AxjeqKZDa_52.356838_4.843330@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"280f5aed507c826e166a33cb3ea5112b",
+    "wof:geomhash":"9ee4c026f4d648a063c9152e0632ceed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803549,
+            "neighbourhood_id":1108802959,
             "region_id":85687053,
             "venue_id":304046699
         }
     ],
     "wof:id":304046699,
-    "wof:lastmodified":1473878711,
+    "wof:lastmodified":1492504360,
     "wof:name":"Bastion Amsterdam",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803549,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

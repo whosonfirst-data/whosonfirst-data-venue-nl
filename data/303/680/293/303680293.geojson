@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.104394,52.090755,5.104394,52.090755",
     "geom:latitude":52.090755,
     "geom:longitude":5.104394,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808789,
+        102191581,
+        1108808651,
         85633337,
         101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6A5RxihadrkrQ8XZaQPp9x_52.090755_5.104394@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2eac6d3a06b918439842efbc578d2b3e",
+    "wof:geomhash":"f100bbb29eb64c483de93dd1e752042e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808651,
+            "neighbourhood_id":1108808789,
             "region_id":85687039,
             "venue_id":303680293
         }
     ],
     "wof:id":303680293,
-    "wof:lastmodified":1473879454,
+    "wof:lastmodified":1492473430,
     "wof:name":"Blik",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

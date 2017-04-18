@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.892803,52.375454,4.892803,52.375454",
     "geom:latitude":52.375454,
     "geom:longitude":4.892803,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803257,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_5ucSq4g2ckuNzqVqo4O88B_52.375454_4.892803@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"afedc1334e0c3038af8c9b582148335d",
+    "wof:geomhash":"33ee989adc6a1016a86573919b136989",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803257,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":319821175
         }
     ],
     "wof:id":319821175,
-    "wof:lastmodified":1473878520,
+    "wof:lastmodified":1492479521,
     "wof:name":"Sofitel Amsterdam",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

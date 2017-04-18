@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880474,52.416237,4.880474,52.416237",
     "geom:latitude":52.416237,
     "geom:longitude":4.880474,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804079,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_5OyLzJm5m804lUFRoTDYXm_52.416237_4.880474@1306269971"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a59a7cd5060d705329805b097a4d72a1",
+    "wof:geomhash":"46f6f4b0054fb63c07e0f1314a72ec16",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108804079,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":286605655
         }
     ],
     "wof:id":286605655,
-    "wof:lastmodified":1473879233,
+    "wof:lastmodified":1492476530,
     "wof:name":"Twiskehuis, Het",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108804079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

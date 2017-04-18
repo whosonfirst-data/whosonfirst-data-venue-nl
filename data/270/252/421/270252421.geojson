@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878853,52.376167,4.878853,52.376167",
     "geom:latitude":52.376167,
     "geom:longitude":4.878853,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804119,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5HK0Vuds9qeT8TwvqkMIPW_52.376167_4.878853@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"059b60b976dc89f644d5b88e5187b770",
+    "wof:geomhash":"0110bf5b92f35011deddc49562deed48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804119,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":270252421
         }
     ],
     "wof:id":270252421,
-    "wof:lastmodified":1473878965,
+    "wof:lastmodified":1492500731,
     "wof:name":"Peter Kooijman Fotografie",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

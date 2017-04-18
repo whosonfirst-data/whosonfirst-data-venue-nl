@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879402,52.371948,4.879402,52.371948",
     "geom:latitude":52.371948,
     "geom:longitude":4.879402,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0xjoS0Uz5Ep84uiIX4bi4V_52.371948_4.879402@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b881b1065a34227b0b733ff4052ab3e9",
+    "wof:geomhash":"0076d16855d193d21d5a5ea02e81e560",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":287171549
         }
     ],
     "wof:id":287171549,
-    "wof:lastmodified":1473878937,
+    "wof:lastmodified":1492513674,
     "wof:name":"Heuff Amsterdam Uitgever",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

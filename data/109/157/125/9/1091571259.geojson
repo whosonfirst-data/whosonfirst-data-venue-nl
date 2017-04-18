@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3702731133,51.7672538757,5.3702731133,51.7672538757",
     "geom:latitude":51.767254,
     "geom:longitude":5.370273,
@@ -24,17 +25,30 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.acteris.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474399,
+        85633337,
+        85687035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ABZG9e1kWe7GaLe4mwNLZ_51.767254_5.370273@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800563,
-    "wof:geomhash":"3f80f9c1f981abd39af070dc7c28ec07",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8439feebbc2015edb85105437148953f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474399,
+            "region_id":85687035,
+            "venue_id":1091571259
+        }
+    ],
     "wof:id":1091571259,
-    "wof:lastmodified":1473878529,
+    "wof:lastmodified":1492511442,
     "wof:name":"Acteris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

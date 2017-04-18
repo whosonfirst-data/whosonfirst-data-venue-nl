@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.015273,52.30582,5.015273,52.30582",
     "geom:latitude":52.30582,
     "geom:longitude":5.015273,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803641,
+        1108802795,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_18F4n0coIdpm3Sdhmxi4Pq_52.305820_5.015273@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bee5f0fb784fd7545581018ac02f584d",
+    "wof:geomhash":"2484644017f73b7a73bd766587da9dd2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803641,
+            "neighbourhood_id":1108802795,
             "region_id":85687053,
             "venue_id":219985071
         }
     ],
     "wof:id":219985071,
-    "wof:lastmodified":1473879735,
+    "wof:lastmodified":1492502679,
     "wof:name":"Estro",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

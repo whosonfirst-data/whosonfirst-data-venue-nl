@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.269099,52.097065,4.269099,52.097065",
     "geom:latitude":52.097065,
     "geom:longitude":4.269099,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798455,
+        1108808161,
+        102191581,
+        1108833207,
         85633337,
         101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0qiOrjGPu20ShRIexzDXq8_52.097065_4.269099@1306269939"
     },
     "wof:country":"NL",
-    "wof:geomhash":"22a996f23d0bc9394e874dc678060b82",
+    "wof:geomhash":"6e01d8e66e34f8999e513605c6bfd781",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798455,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808161,
             "region_id":85687041,
             "venue_id":236568719
         }
     ],
     "wof:id":236568719,
-    "wof:lastmodified":1473879430,
+    "wof:lastmodified":1492493885,
     "wof:name":"Garage De Jong",
-    "wof:parent_id":85798455,
+    "wof:parent_id":1108808161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

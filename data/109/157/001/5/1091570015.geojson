@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1607837677,52.0360527039,5.1607837677,52.0360527039",
     "geom:latitude":52.036053,
     "geom:longitude":5.160784,
@@ -24,9 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687039,
+        102191581,
+        404473987,
         85633337,
-        85859943,
-        85687039
+        101807003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473800467,
-    "wof:geomhash":"641409b2aae35c6d890483edc97c7912",
+    "wof:geomhash":"97751972470766ac8ade3f0cc6d19a32",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85859943,
+            "localadmin_id":404473987,
+            "locality_id":101807003,
             "region_id":85687039,
             "venue_id":1091570015
         }
     ],
     "wof:id":1091570015,
-    "wof:lastmodified":1473878415,
+    "wof:lastmodified":1492511178,
     "wof:name":"Dwh",
-    "wof:parent_id":85859943,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

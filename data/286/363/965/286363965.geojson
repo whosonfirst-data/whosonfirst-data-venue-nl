@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.253646,52.06472,4.253646,52.06472",
     "geom:latitude":52.06472,
     "geom:longitude":4.253646,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797811,
+        1108808209,
+        102191581,
+        1108808133,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5PnzOB580cSMFMuFouYIOA_52.064720_4.253646@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"383a2b50f43a69eef2e0ee3f449f9a94",
+    "wof:geomhash":"c1fc8de6621a05bbf9829c82934bba7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797811,
+            "macrohood_id":1108808133,
+            "neighbourhood_id":1108808209,
             "region_id":85687041,
             "venue_id":286363965
         }
     ],
     "wof:id":286363965,
-    "wof:lastmodified":1473878907,
+    "wof:lastmodified":1492476078,
     "wof:name":"Synthesis Int",
-    "wof:parent_id":85797811,
+    "wof:parent_id":1108808209,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

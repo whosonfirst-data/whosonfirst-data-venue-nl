@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.377369,52.085857,4.377369,52.085857",
     "geom:latitude":52.085857,
     "geom:longitude":4.377369,
@@ -25,6 +26,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859679,
+        102191581,
+        404474685,
         85633337,
         101754679,
         85687041,
@@ -36,19 +39,21 @@
         "sg:id":"SG_5J7FGfSPbuGnt8kuc5Q7QI_52.085857_4.377369@1306269933"
     },
     "wof:country":"NL",
-    "wof:geomhash":"77963d8143ba0eb17db239d39d812b9d",
+    "wof:geomhash":"880ded5e97edf3fd9447db294fc7b2f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474685,
             "locality_id":101754679,
             "neighbourhood_id":85859679,
             "region_id":85687041,
             "venue_id":235929947
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474685,
             "locality_id":101754709,
             "neighbourhood_id":85859653,
             "region_id":85687041,
@@ -56,9 +61,9 @@
         }
     ],
     "wof:id":235929947,
-    "wof:lastmodified":1473878418,
+    "wof:lastmodified":1492514593,
     "wof:name":"Toneman Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

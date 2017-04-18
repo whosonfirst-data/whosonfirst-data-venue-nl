@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.557911,51.883972,4.557911,51.883972",
     "geom:latitude":51.883972,
     "geom:longitude":4.557911,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.stoker.nu",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797587,
+        1108833227,
+        1108805789,
+        102191581,
         85633337,
         101751843,
+        1108805721,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_0rF6EiWtNJjFXB5amtzUJF_51.883972_4.557911@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"455341e1b0820930555f2e8b572d1788",
+    "wof:geomhash":"833d48efad41f5df136927f798ad98d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805721,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797587,
+            "microhood_id":1108833227,
+            "neighbourhood_id":1108805789,
             "region_id":85687041,
             "venue_id":270075283
         }
     ],
     "wof:id":270075283,
-    "wof:lastmodified":1473878542,
+    "wof:lastmodified":1492500504,
     "wof:name":"Stoker",
-    "wof:parent_id":85797587,
+    "wof:parent_id":1108833227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

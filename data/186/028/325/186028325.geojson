@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.906781,52.342682,4.906781,52.342682",
     "geom:latitude":52.342682,
     "geom:longitude":4.906781,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803527,
+        1108802895,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3gL7sRQNhvFGpV6JTNm7OR_52.342682_4.906781@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6f1b69702d3c52597e2604c6668e0fb4",
+    "wof:geomhash":"8ff03fff41d07d18153a0d67db9538bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803527,
+            "neighbourhood_id":1108802895,
             "region_id":85687053,
             "venue_id":186028325
         }
     ],
     "wof:id":186028325,
-    "wof:lastmodified":1473878628,
+    "wof:lastmodified":1492507963,
     "wof:name":"A. Van Der Heijden Koeriersservice",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

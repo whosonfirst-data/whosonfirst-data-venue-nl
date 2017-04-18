@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.93786,52.354443,4.93786,52.354443",
     "geom:latitude":52.354443,
     "geom:longitude":4.93786,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803631,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2LiZ0Ya5vT8qwfEFw1LCJc_52.354443_4.937860@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4fcb7b9abf4d802ea26b1721e8f6f7b3",
+    "wof:geomhash":"dd5acae3ef8e676abdd5d4218d4735ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803631,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":303436663
         }
     ],
     "wof:id":303436663,
-    "wof:lastmodified":1473879172,
+    "wof:lastmodified":1492474351,
     "wof:name":"Vijfde Montessori Watergraafsmeer",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

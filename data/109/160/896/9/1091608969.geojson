@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9387369156,52.3681526184,4.9387369156,52.3681526184",
     "geom:latitude":52.368153,
     "geom:longitude":4.938737,
@@ -24,13 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108804107,
+        1108802877,
         102191581,
-        404474029,
         85633337,
         101751893,
-        85687053,
-        85798627
+        1108802289,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,31 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473803338,
-    "wof:geomhash":"d238c69f349076e56d83ffebae7cfb90",
+    "wof:geomhash":"a32c3c7faa5e378b4dd5a16a75dc6c35",
     "wof:hierarchy":[
         {
+            "borough_id":1108802289,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474029,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
-            "region_id":85687053,
-            "venue_id":1091608969
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474029,
-            "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108804107,
+            "neighbourhood_id":1108802877,
             "region_id":85687053,
             "venue_id":1091608969
         }
     ],
     "wof:id":1091608969,
-    "wof:lastmodified":1473878952,
+    "wof:lastmodified":1492512653,
     "wof:name":"Coinco Games Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108804107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

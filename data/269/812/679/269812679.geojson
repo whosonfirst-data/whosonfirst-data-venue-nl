@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88957,52.354664,4.88957,52.354664",
     "geom:latitude":52.354664,
     "geom:longitude":4.88957,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803775,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_5Y7VSDtFFULOyknxEP4YcY_52.354664_4.889570@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6e409127fa799259586ffb465a9f30ef",
+    "wof:geomhash":"614ba12afcc872769d8dd24160604f41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803775,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":269812679
         }
     ],
     "wof:id":269812679,
-    "wof:lastmodified":1473879504,
+    "wof:lastmodified":1492495271,
     "wof:name":"Cambodja City",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

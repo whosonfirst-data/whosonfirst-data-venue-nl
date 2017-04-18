@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.887611,52.389107,4.887611,52.389107",
     "geom:latitude":52.389107,
     "geom:longitude":4.887611,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803869,
+        1108802911,
+        102191581,
         85633337,
+        101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1F4NtzZaJrptIID8zCwrx7_52.389107_4.887611@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"589d88aa1803b59f5662f8f71954904b",
+    "wof:geomhash":"b3644b3a13a8ad52a902f36291e6a21d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803869,
+            "neighbourhood_id":1108802911,
             "region_id":85687053,
             "venue_id":320264593
         }
     ],
     "wof:id":320264593,
-    "wof:lastmodified":1473879137,
+    "wof:lastmodified":1492484574,
     "wof:name":"Glashandel Geelhoed",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803869,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

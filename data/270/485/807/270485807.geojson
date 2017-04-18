@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.831114,52.360497,4.831114,52.360497",
     "geom:latitude":52.360497,
     "geom:longitude":4.831114,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804121,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_3cA9eriMlDpLcZzFB38uGG_52.360497_4.831114@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e3ac28851383a3ddac1cbe411d4722e0",
+    "wof:geomhash":"f7dfe906ddd012bbd07766892c807682",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804121,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":270485807
         }
     ],
     "wof:id":270485807,
-    "wof:lastmodified":1473879334,
+    "wof:lastmodified":1492499460,
     "wof:name":"Bischop Huibersschool",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

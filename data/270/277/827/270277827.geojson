@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.812829,52.382118,4.812829,52.382118",
     "geom:latitude":52.382118,
     "geom:longitude":4.812829,
@@ -24,40 +25,38 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797579,
+        1108803979,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
-        85687053,
-        85798399
+        1108802279,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UzuBgxDFszPzwHr3nw8Wv_52.382118_4.812829@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4d62e8ab1d80196ec1b8560353dadaf2",
+    "wof:geomhash":"74e8e541bafb3509c9cc64aed7d842e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797579,
-            "region_id":85687053,
-            "venue_id":270277827
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108803979,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":270277827
         }
     ],
     "wof:id":270277827,
-    "wof:lastmodified":1473879032,
+    "wof:lastmodified":1492500302,
     "wof:name":"Global",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108803979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

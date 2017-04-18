@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0327792168,51.6453208923,5.0327792168,51.6453208923",
     "geom:latitude":51.645321,
     "geom:longitude":5.032779,
@@ -24,17 +25,30 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.bureauvite.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474401,
+        85633337,
+        85687035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3buQgFfHY8LYmfsjYEflXq_51.645321_5.032779@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803579,
-    "wof:geomhash":"5048eeb74a1783a8537e0864d7b81c35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85019e3ff625cf7aa9d73d4f47d94881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474401,
+            "region_id":85687035,
+            "venue_id":1091612883
+        }
+    ],
     "wof:id":1091612883,
-    "wof:lastmodified":1473878629,
+    "wof:lastmodified":1492510522,
     "wof:name":"Vite, Bureau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

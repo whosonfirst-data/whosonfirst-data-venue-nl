@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2283229828,52.371181488,5.2283229828,52.371181488",
     "geom:latitude":52.371181,
     "geom:longitude":5.228323,
@@ -24,17 +25,32 @@
     "sg:province":"Flevoland",
     "sg:website":"http://www.sbb.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101751877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4V5Y2Yneeccbvugcc8EaGM_52.371181_5.228323@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803500,
-    "wof:geomhash":"f625d25d8190aa41b1b2880c04b492a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b88a51758e478bc211bd775b4c08cf36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101751877,
+            "region_id":85687049,
+            "venue_id":1091611807
+        }
+    ],
     "wof:id":1091611807,
-    "wof:lastmodified":1473878582,
+    "wof:lastmodified":1492510393,
     "wof:name":"Flevoland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

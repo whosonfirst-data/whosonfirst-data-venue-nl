@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.808849,52.345333,4.808849,52.345333",
     "geom:latitude":52.345333,
     "geom:longitude":4.808849,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803345,
+        1108802901,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2C8EqhRoBSKBDJdHLFq4LW_52.345333_4.808849@1306269924"
     },
     "wof:country":"NL",
-    "wof:geomhash":"99212167f43c3327693a52d797ac20c0",
+    "wof:geomhash":"252dfaad0eb83a5003d6b93ebaf1a46d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803345,
+            "neighbourhood_id":1108802901,
             "region_id":85687053,
             "venue_id":219228785
         }
     ],
     "wof:id":219228785,
-    "wof:lastmodified":1473878656,
+    "wof:lastmodified":1492503552,
     "wof:name":"Art And Entertainment Bv",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

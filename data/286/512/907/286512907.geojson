@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9373,52.400349,4.9373,52.400349",
     "geom:latitude":52.400349,
     "geom:longitude":4.9373,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803947,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6qLG8JbAYHYv93S4hdGtyj_52.400349_4.937300@1306269970"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ec45f21e9f66ec343b9df96ea37ef159",
+    "wof:geomhash":"1079d77666c9325c6b761aed71158504",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803947,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":286512907
         }
     ],
     "wof:id":286512907,
-    "wof:lastmodified":1473879193,
+    "wof:lastmodified":1492475490,
     "wof:name":"Smulders Paul",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

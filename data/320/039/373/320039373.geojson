@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.89895,52.362694,4.89895,52.362694",
     "geom:latitude":52.362694,
     "geom:longitude":4.89895,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.amsterdam.hypotheekshop.nl/545",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803805,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_1tNup36YHIhZoZnV3g3BtQ_52.362694_4.898950@1306269993"
     },
     "wof:country":"NL",
-    "wof:geomhash":"297b83ca6bcb916fb44a593ee3ff9363",
+    "wof:geomhash":"807d47a883540e6032a2e03526ab87e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803805,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":320039373
         }
     ],
     "wof:id":320039373,
-    "wof:lastmodified":1473878597,
+    "wof:lastmodified":1492485408,
     "wof:name":"Hypotheekshop, De",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

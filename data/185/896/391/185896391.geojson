@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.316302,52.052998,4.316302,52.052998",
     "geom:latitude":52.052998,
     "geom:longitude":4.316302,
@@ -24,31 +25,49 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798433,
+        1108808313,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IfzIZaGp5RNTN85msdORU_52.052998_4.316302@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1135a05292d22a811edc9621972b8852",
+    "wof:geomhash":"22bae5f55f58464993b41655782495e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808313,
+            "region_id":85687041,
+            "venue_id":185896391
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85798433,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808313,
             "region_id":85687041,
             "venue_id":185896391
         }
     ],
     "wof:id":185896391,
-    "wof:lastmodified":1473878854,
+    "wof:lastmodified":1492487474,
     "wof:name":"Jeroentje",
-    "wof:parent_id":85798433,
+    "wof:parent_id":1108808313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

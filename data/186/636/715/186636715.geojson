@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.356618,51.854519,4.356618,51.854519",
     "geom:latitude":51.854519,
     "geom:longitude":4.356618,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798011,
+        1108833225,
+        1108805797,
+        102191581,
         85633337,
-        101751847,
+        101751843,
+        1108805727,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1XudMN469asemhimNHg8w2_51.854519_4.356618@1306269914"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d0a14c77fe35b8505f1b33d1bc2b98db",
+    "wof:geomhash":"df014eb8906121e0e6c0dd6292237e18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805727,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751847,
-            "neighbourhood_id":85798011,
+            "locality_id":101751843,
+            "microhood_id":1108833225,
+            "neighbourhood_id":1108805797,
             "region_id":85687041,
             "venue_id":186636715
         }
     ],
     "wof:id":186636715,
-    "wof:lastmodified":1473879635,
+    "wof:lastmodified":1492509192,
     "wof:name":"Welzijn Hoogvliet, Stichting",
-    "wof:parent_id":85798011,
+    "wof:parent_id":1108833225,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

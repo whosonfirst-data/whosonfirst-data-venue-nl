@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0682268143,51.1512069702,6.0682268143,51.1512069702",
     "geom:latitude":51.151207,
     "geom:longitude":6.068227,
@@ -24,17 +25,32 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.cbdesign.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474581,
+        85633337,
+        101809513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LksNquvi1oRg24WbVSEQB_51.151207_6.068227@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800602,
-    "wof:geomhash":"dbada0d08ce014ddd9c4072ae408cc36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1dbf6d9ed0c83095fb88e086ab4fc75e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474581,
+            "locality_id":101809513,
+            "region_id":85687033,
+            "venue_id":1091571943
+        }
+    ],
     "wof:id":1091571943,
-    "wof:lastmodified":1473878592,
+    "wof:lastmodified":1492511301,
     "wof:name":"Cb-Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

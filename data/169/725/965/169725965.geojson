@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.089454,52.114723,5.089454,52.114723",
     "geom:latitude":52.114723,
     "geom:longitude":5.089454,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808857,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0SeyAM2CaJZJesgR1mNR1c_52.114723_5.089454@1306269905"
     },
     "wof:country":"NL",
-    "wof:geomhash":"889ff3af347a56f19b9aa7f218245f67",
+    "wof:geomhash":"5b6fdc0b320f62825f4d7e2b5ba1c307",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808857,
             "region_id":85687039,
             "venue_id":169725965
         }
     ],
     "wof:id":169725965,
-    "wof:lastmodified":1473878563,
+    "wof:lastmodified":1492478651,
     "wof:name":"Le Salon",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808857,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.249638,52.066422,4.249638,52.066422",
     "geom:latitude":52.066422,
     "geom:longitude":4.249638,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797811,
+        85859585,
+        102191581,
+        1108808133,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7SjfZsWgXbcUGKYdJoQvCS_52.066422_4.249638@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1aa12d9583310fee11782fb4d8bd73f5",
+    "wof:geomhash":"62027550197fdfab0aecfe486ea4e57b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797811,
+            "macrohood_id":1108808133,
+            "neighbourhood_id":85859585,
             "region_id":85687041,
             "venue_id":203144935
         }
     ],
     "wof:id":203144935,
-    "wof:lastmodified":1473879001,
+    "wof:lastmodified":1492480873,
     "wof:name":"Huisman Assurantien",
-    "wof:parent_id":85797811,
+    "wof:parent_id":85859585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

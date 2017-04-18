@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.87701,52.355549,4.87701,52.355549",
     "geom:latitude":52.355549,
     "geom:longitude":4.87701,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.intertaal.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803743,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_6oVIahPe26WEZPflv6VnEB_52.355549_4.877010@1306269978"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7322ce1d6cab0c2de02b76481e72400f",
+    "wof:geomhash":"2543b2b46e42529224db845bfc341e66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803743,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":287204797
         }
     ],
     "wof:id":287204797,
-    "wof:lastmodified":1473878990,
+    "wof:lastmodified":1492513408,
     "wof:name":"Intertaal, Boekhandel",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

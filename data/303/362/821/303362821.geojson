@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.826102,52.355793,4.826102,52.355793",
     "geom:latitude":52.355793,
     "geom:longitude":4.826102,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803265,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6tZPSdnjpgm6HsKshub6iB_52.355793_4.826102@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e5753da500a9b245d3b9edb4adef4684",
+    "wof:geomhash":"85e61eb5f4b5db6a28a3f9b62974e640",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803265,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":303362821
         }
     ],
     "wof:id":303362821,
-    "wof:lastmodified":1473879153,
+    "wof:lastmodified":1492474958,
     "wof:name":"Schoenenmode Collini",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

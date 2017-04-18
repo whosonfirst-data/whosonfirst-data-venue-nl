@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.938364,52.306149,4.938364,52.306149",
     "geom:latitude":52.306149,
     "geom:longitude":4.938364,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797113,
+        1108803575,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_36I0sb0WTkItbhGLgIIh7a_52.306149_4.938364@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"64c8f30ab1cab449716f1fd38c3c739a",
+    "wof:geomhash":"b520a3818b410a62df6bd9e59b8ebbfc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797113,
+            "locality_id":101751893,
+            "microhood_id":1108803575,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":320152571
         }
     ],
     "wof:id":320152571,
-    "wof:lastmodified":1473879008,
+    "wof:lastmodified":1492485315,
     "wof:name":"Brink'S Nederland Bv",
-    "wof:parent_id":85797113,
+    "wof:parent_id":1108803575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

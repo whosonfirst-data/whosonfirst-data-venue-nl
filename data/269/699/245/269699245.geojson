@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.887066,52.333958,4.887066,52.333958",
     "geom:latitude":52.333958,
     "geom:longitude":4.887066,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803873,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3jmgTuu60bRVQBrvBoInE6_52.333958_4.887066@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c93219fca3c421564f7bfa154ed3859f",
+    "wof:geomhash":"96604616ce27758e1f50f411fb45cf47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803873,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":269699245
         }
     ],
     "wof:id":269699245,
-    "wof:lastmodified":1473879301,
+    "wof:lastmodified":1492495913,
     "wof:name":"Ppgh Jwt-Colors",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

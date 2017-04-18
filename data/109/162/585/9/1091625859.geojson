@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6442217827,52.1034622192,6.6442217827,52.1034622192",
     "geom:latitude":52.103462,
     "geom:longitude":6.644222,
@@ -23,17 +24,32 @@
     "sg:postcode":"7151 BE",
     "sg:province":"Gelderland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474671,
+        85633337,
+        101807089
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6s7voi03TmgP98pk7GMbXO_52.103462_6.644222@1306270019"
     },
     "wof:country":"NL",
     "wof:created":1473804242,
-    "wof:geomhash":"0cde59f0d37801a6ea01ab1b5c96f7b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"170a5a2c590a2d7a0101ef21edaa0a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474671,
+            "locality_id":101807089,
+            "region_id":85687043,
+            "venue_id":1091625859
+        }
+    ],
     "wof:id":1091625859,
-    "wof:lastmodified":1473878884,
+    "wof:lastmodified":1492512438,
     "wof:name":"Flair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

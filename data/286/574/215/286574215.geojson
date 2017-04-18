@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.545226,51.933147,4.545226,51.933147",
     "geom:latitude":51.933147,
     "geom:longitude":4.545226,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797899,
+        1108805851,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5H69OBbgQMgjqqxTBMwEtl_51.933147_4.545226@1306269970"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0c85430b3777681b6ac09cb8f4f60e56",
+    "wof:geomhash":"3bf0d239b6efa0fe33beb9e1220bf675",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85797899,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805851,
+            "region_id":85687041,
+            "venue_id":286574215
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805851,
             "region_id":85687041,
             "venue_id":286574215
         }
     ],
     "wof:id":286574215,
-    "wof:lastmodified":1473879228,
+    "wof:lastmodified":1492477937,
     "wof:name":"Kalkan Behang & Stoffeerbedrijf",
-    "wof:parent_id":85797899,
+    "wof:parent_id":1108805851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

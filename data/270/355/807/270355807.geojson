@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.555625,51.947411,4.555625,51.947411",
     "geom:latitude":51.947411,
     "geom:longitude":4.555625,
@@ -25,9 +26,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:brand_id":420574313,
     "wof:breaches":[],
@@ -35,11 +40,22 @@
         "sg:id":"SG_7EmIiIPh0OlZS7Ie809R3k_51.947411_4.555625@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"16a40ec8cae9a1f1b2811bb6f70c28f4",
+    "wof:geomhash":"5514cd0141eaf84ec3a80fac9065be79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":270355807
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798177,
             "region_id":85687041,
@@ -47,7 +63,7 @@
         }
     ],
     "wof:id":270355807,
-    "wof:lastmodified":1473879157,
+    "wof:lastmodified":1492499749,
     "wof:name":"Abn Amro",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

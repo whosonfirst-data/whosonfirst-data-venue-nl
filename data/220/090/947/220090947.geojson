@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.852955,52.360558,4.852955,52.360558",
     "geom:latitude":52.360558,
     "geom:longitude":4.852955,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108804173,
+        1108802957,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_5U2bJP48YbaEjMPlhAQDv3_52.360558_4.852955@1306269932"
     },
     "wof:country":"NL",
-    "wof:geomhash":"767cc80625c111bf10663ad1e663fade",
+    "wof:geomhash":"da29cd450b21633e3f360739e9ca7129",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108804173,
+            "neighbourhood_id":1108802957,
             "region_id":85687053,
             "venue_id":220090947
         }
     ],
     "wof:id":220090947,
-    "wof:lastmodified":1473878738,
+    "wof:lastmodified":1492481387,
     "wof:name":"Euroknow",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

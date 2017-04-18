@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6933870316,52.3037834167,4.6933870316,52.3037834167",
     "geom:latitude":52.303783,
     "geom:longitude":4.693387,
@@ -23,17 +24,32 @@
     "sg:postcode":"2132 CZ",
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474065,
+        85633337,
+        101751899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MAS1qLmIsV1PDA6o3b3XB_52.303783_4.693387@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801277,
-    "wof:geomhash":"58826e954cedfa5c6496b0063bd58a50",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f08c21bb7316578bcc0041d421250fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474065,
+            "locality_id":101751899,
+            "region_id":85687053,
+            "venue_id":1091581819
+        }
+    ],
     "wof:id":1091581819,
-    "wof:lastmodified":1473878591,
+    "wof:lastmodified":1492511817,
     "wof:name":"Wereldwinkel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

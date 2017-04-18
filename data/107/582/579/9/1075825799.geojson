@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4936671257,51.9416160583,4.4936671257,51.9416160583",
     "geom:latitude":51.941616,
     "geom:longitude":4.493667,
@@ -25,14 +26,13 @@
     "sg:website":"http://www.benvanleeuwen.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859861,
+        1108805825,
         102191581,
-        404474245,
+        1108805657,
         85633337,
         101751843,
-        85687041,
-        85859871,
-        101753095
+        1108805719,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,31 +40,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473799542,
-    "wof:geomhash":"975dc5d65b068a32265003ebd8d037e5",
+    "wof:geomhash":"0b84749840f4e4c52f3026714aac84e7",
     "wof:hierarchy":[
         {
+            "borough_id":1108805719,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474245,
             "locality_id":101751843,
-            "neighbourhood_id":85859861,
-            "region_id":85687041,
-            "venue_id":1075825799
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474245,
-            "locality_id":101753095,
-            "neighbourhood_id":85859871,
+            "macrohood_id":1108805657,
+            "neighbourhood_id":1108805825,
             "region_id":85687041,
             "venue_id":1075825799
         }
     ],
     "wof:id":1075825799,
-    "wof:lastmodified":1473879403,
+    "wof:lastmodified":1492486873,
     "wof:name":"Ben Van Leeuwen Recycling",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108805825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884371,52.380459,4.884371,52.380459",
     "geom:latitude":52.380459,
     "geom:longitude":4.884371,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804285,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_442EeszqhGbrOuLCMmpcKN_52.380459_4.884371@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5011a71ae35c7595997bcf4db0ea2821",
+    "wof:geomhash":"d8705724fffb141f0b222980620ffe09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804285,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":236259409
         }
     ],
     "wof:id":236259409,
-    "wof:lastmodified":1473879046,
+    "wof:lastmodified":1492492224,
     "wof:name":"Marie & Elsie S. Interieur",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

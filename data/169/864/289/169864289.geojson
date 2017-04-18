@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.944958,52.391216,4.944958,52.391216",
     "geom:latitude":52.391216,
     "geom:longitude":4.944958,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108804127,
+        1108802927,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1tyrdgTi3HCCw7CfnmIyId_52.391216_4.944958@1306269906"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a949bb7853d0071265ee99aa47fd4c98",
+    "wof:geomhash":"3a110e16351f0bdfdf3130e553c05da8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804127,
+            "neighbourhood_id":1108802927,
             "region_id":85687053,
             "venue_id":169864289
         }
     ],
     "wof:id":169864289,
-    "wof:lastmodified":1473878860,
+    "wof:lastmodified":1492478818,
     "wof:name":"Simon Hair & Beauty Care",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108804127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

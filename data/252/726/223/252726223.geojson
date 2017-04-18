@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.544114,51.933731,4.544114,51.933731",
     "geom:latitude":51.933731,
     "geom:longitude":4.544114,
@@ -24,31 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797899,
+        1108805851,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BEP3Jg3CTLKeet6sZthC7_51.933731_4.544114@1306269942"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8d5c4ca548baf509075b54205e6c366d",
+    "wof:geomhash":"3a03927b62c9bf6b7f5e5400b5221877",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85797899,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805851,
+            "region_id":85687041,
+            "venue_id":252726223
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805851,
             "region_id":85687041,
             "venue_id":252726223
         }
     ],
     "wof:id":252726223,
-    "wof:lastmodified":1473878461,
+    "wof:lastmodified":1492505164,
     "wof:name":"Egard Vastgoed Adviseur",
-    "wof:parent_id":85797899,
+    "wof:parent_id":1108805851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878882,52.354164,4.878882,52.354164",
     "geom:latitude":52.354164,
     "geom:longitude":4.878882,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803547,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_79q6ASSNx2g121xO1ZH39m_52.354164_4.878882@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"29792ad60512fef379d7ee4107d2d3a0",
+    "wof:geomhash":"d3378ca6d0d3e6c492748daa2e1202b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803547,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":304078935
         }
     ],
     "wof:id":304078935,
-    "wof:lastmodified":1473878797,
+    "wof:lastmodified":1492504553,
     "wof:name":"Marianne",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

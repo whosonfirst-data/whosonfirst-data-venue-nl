@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.918863,52.33305,4.918863,52.33305",
     "geom:latitude":52.33305,
     "geom:longitude":4.918863,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804033,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6kpkXXAds8KvE4k2kAVej4_52.333050_4.918863@1306269945"
     },
     "wof:country":"NL",
-    "wof:geomhash":"294ecfccedddf0775e473f36572956dc",
+    "wof:geomhash":"99a11108bb4358e414f6241b939dcd0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804033,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":253019947
         }
     ],
     "wof:id":253019947,
-    "wof:lastmodified":1473878574,
+    "wof:lastmodified":1492488752,
     "wof:name":"Bonset & Co Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

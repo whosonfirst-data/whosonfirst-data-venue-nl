@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.548431,51.948193,4.548431,51.948193",
     "geom:latitude":51.948193,
     "geom:longitude":4.548431,
@@ -24,31 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798177,
+        85797053,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BBFjXmaBjsKPCta3TVKv1_51.948193_4.548431@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"12b31585df04b66387a00e393289cbe2",
+    "wof:geomhash":"708a716fd62bf39052d4a8b3d0ea0329",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797053,
+            "region_id":85687041,
+            "venue_id":203187039
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798177,
+            "neighbourhood_id":85797053,
             "region_id":85687041,
             "venue_id":203187039
         }
     ],
     "wof:id":203187039,
-    "wof:lastmodified":1473879082,
+    "wof:lastmodified":1492480613,
     "wof:name":"Towers Perrin Rotterdam",
-    "wof:parent_id":85798177,
+    "wof:parent_id":85797053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

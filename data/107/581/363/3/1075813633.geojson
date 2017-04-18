@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0682311058,52.0843048096,5.0682311058,52.0843048096",
     "geom:latitude":52.084305,
     "geom:longitude":5.068231,
@@ -33,8 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808779,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808661,
         85687039
     ],
     "wof:breaches":[],
@@ -43,19 +47,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473798838,
-    "wof:geomhash":"a3a4c6d40463e617b64f1443120415f0",
+    "wof:geomhash":"5a9a0fdcded743b6c6b3d07b9265cb77",
     "wof:hierarchy":[
         {
+            "borough_id":1108808661,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808779,
             "region_id":85687039,
             "venue_id":1075813633
         }
     ],
     "wof:id":1075813633,
-    "wof:lastmodified":1473878936,
+    "wof:lastmodified":1492486308,
     "wof:name":"Aldipress",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.927313,52.362125,4.927313,52.362125",
     "geom:latitude":52.362125,
     "geom:longitude":4.927313,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.mirjambos.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803667,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_5MRTLjBj1dE8AUtZJv62El_52.362125_4.927313@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"87f240bac7a4c0b9b4d3bb582adf813e",
+    "wof:geomhash":"09e74c78bb6cf6e56fc2871b4b48f850",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803667,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":303159101
         }
     ],
     "wof:id":303159101,
-    "wof:lastmodified":1473878800,
+    "wof:lastmodified":1492470839,
     "wof:name":"Bos, Mirjam",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

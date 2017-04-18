@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.29495,52.021309,4.29495,52.021309",
     "geom:latitude":52.021309,
     "geom:longitude":4.29495,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.attentiv.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798353,
+        1108808329,
+        102191581,
+        1108808069,
         85633337,
-        101754743,
+        101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2TZsJEM4XZ9uBIYWUYeqgb_52.021309_4.294950@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"93e86761b8f3a39fc5361579950f7225",
+    "wof:geomhash":"389a748eecd1354cb9a39fda506bbb54",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798353,
+            "locality_id":101752763,
+            "macrohood_id":1108808069,
+            "neighbourhood_id":1108808329,
             "region_id":85687041,
             "venue_id":202902745
         }
     ],
     "wof:id":202902745,
-    "wof:lastmodified":1473879404,
+    "wof:lastmodified":1492499017,
     "wof:name":"Attentiv",
-    "wof:parent_id":85798353,
+    "wof:parent_id":1108808329,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

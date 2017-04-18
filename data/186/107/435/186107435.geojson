@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.887372,52.371616,4.887372,52.371616",
     "geom:latitude":52.371616,
     "geom:longitude":4.887372,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804103,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_48KmXRBLOFzHYQ3JnpV1bM_52.371616_4.887372@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d3a3672d6e318f7049d9dc79430909ec",
+    "wof:geomhash":"896f758db179f0b9e20c462e5af8f814",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804103,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":186107435
         }
     ],
     "wof:id":186107435,
-    "wof:lastmodified":1473878985,
+    "wof:lastmodified":1492508141,
     "wof:name":"Clubwear House",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

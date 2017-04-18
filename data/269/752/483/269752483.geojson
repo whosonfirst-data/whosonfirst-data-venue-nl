@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.304665,52.083775,4.304665,52.083775",
     "geom:latitude":52.083775,
     "geom:longitude":4.304665,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808251,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_0fsNoi9YR2fcYMqEM1FFvg_52.083775_4.304665@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"265ff7832be6f81c11bfd43770b472a3",
+    "wof:geomhash":"f18d70ea7579e044b151ee1d2b2462ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808251,
             "region_id":85687041,
             "venue_id":269752483
         }
     ],
     "wof:id":269752483,
-    "wof:lastmodified":1473879379,
+    "wof:lastmodified":1492496436,
     "wof:name":"De Prinskelder Snackbar",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

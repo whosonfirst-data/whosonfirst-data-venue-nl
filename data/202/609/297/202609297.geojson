@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.275088,52.104851,4.275088,52.104851",
     "geom:latitude":52.104851,
     "geom:longitude":4.275088,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808159,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_512pZHJ42x7BPc2arnQ36r_52.104851_4.275088@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"06d052ccab476fbc448f98ae97e2f3cb",
+    "wof:geomhash":"925743fd10ad1dbfa7a99e8b32573cfa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808159,
             "region_id":85687041,
             "venue_id":202609297
         }
     ],
     "wof:id":202609297,
-    "wof:lastmodified":1473879057,
+    "wof:lastmodified":1492497530,
     "wof:name":"Gelauf Verlichting",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

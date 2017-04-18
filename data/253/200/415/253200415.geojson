@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.334699,52.060619,4.334699,52.060619",
     "geom:latitude":52.060619,
     "geom:longitude":4.334699,
@@ -24,31 +25,49 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798353,
+        1108808317,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eQ0vr7nJelxLeMlCPArS3_52.060619_4.334699@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2aba3dd626cd6fd43f25159fdb08c043",
+    "wof:geomhash":"3d1f6593b0e39d8525d7d222b1c528b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808317,
+            "region_id":85687041,
+            "venue_id":253200415
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85798353,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808317,
             "region_id":85687041,
             "venue_id":253200415
         }
     ],
     "wof:id":253200415,
-    "wof:lastmodified":1473879122,
+    "wof:lastmodified":1492488876,
     "wof:name":"Meubelstoffeerderij De Kroon",
-    "wof:parent_id":85798353,
+    "wof:parent_id":1108808317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

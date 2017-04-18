@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.289231,52.084568,4.289231,52.084568",
     "geom:latitude":52.084568,
     "geom:longitude":4.289231,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808179,
+        102191581,
+        1108808085,
         85633337,
         101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_20TvdCIPjr9bbnNvcTYhPC_52.084568_4.289231@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e309ea4ad69532738b9ae7861b5c222a",
+    "wof:geomhash":"c9ef9d8a87870abdd44abd93ac01d199",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808085,
+            "neighbourhood_id":1108808179,
             "region_id":85687041,
             "venue_id":336735629
         }
     ],
     "wof:id":336735629,
-    "wof:lastmodified":1473878435,
+    "wof:lastmodified":1492506123,
     "wof:name":"Accountantskantoor Lelieveld Bv",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

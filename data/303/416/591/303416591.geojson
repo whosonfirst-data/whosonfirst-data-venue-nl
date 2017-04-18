@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.83108,52.359951,4.83108,52.359951",
     "geom:latitude":52.359951,
     "geom:longitude":4.83108,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804121,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4BBtAu3lrOS7DelvwnTmal_52.359951_4.831080@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5abac9e73f0ee63956219044c04f6de2",
+    "wof:geomhash":"464593ce7043fd09773e639c8df666df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804121,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":303416591
         }
     ],
     "wof:id":303416591,
-    "wof:lastmodified":1473879157,
+    "wof:lastmodified":1492472811,
     "wof:name":"Huizinga Openb",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

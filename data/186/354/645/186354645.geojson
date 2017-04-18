@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884137,52.369957,4.884137,52.369957",
     "geom:latitude":52.369957,
     "geom:longitude":4.884137,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.caboamsterdam.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804103,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2lsX8bZAfJN1wNjApZT4qY_52.369957_4.884137@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8f98f5faf452faa4d34e758a35c84213",
+    "wof:geomhash":"206c33e85cca33cfd11342be71e29043",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804103,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":186354645
         }
     ],
     "wof:id":186354645,
-    "wof:lastmodified":1473879317,
+    "wof:lastmodified":1492509157,
     "wof:name":"Cabo, Sticht",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

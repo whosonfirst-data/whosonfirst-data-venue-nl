@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.84033,52.359734,4.84033,52.359734",
     "geom:latitude":52.359734,
     "geom:longitude":4.84033,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803301,
+        85798223,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7Hx3l3Tg4kNpTkPCwUv8ar_52.359734_4.840330@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1bfe592ffd645a07119f66dcf5d8c183",
+    "wof:geomhash":"23d1e3e7cc9c9c2e4b72d56c95e0667c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803301,
+            "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":252850067
         }
     ],
     "wof:id":252850067,
-    "wof:lastmodified":1473878642,
+    "wof:lastmodified":1492504867,
     "wof:name":"Gem. Audiologisch Centrum",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

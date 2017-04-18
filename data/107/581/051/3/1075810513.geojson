@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2116799355,51.9926795959,4.2116799355,51.9926795959",
     "geom:latitude":51.99268,
     "geom:longitude":4.21168,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
         85633337,
-        85859575,
-        85687041
+        101837719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473798685,
-    "wof:geomhash":"dc807ca1af2ac88e0f6adfb72c12afbf",
+    "wof:geomhash":"08a6c641b14965be90692ab240d2b586",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85859575,
+            "localadmin_id":404474667,
+            "locality_id":101837719,
             "region_id":85687041,
             "venue_id":1075810513
         }
     ],
     "wof:id":1075810513,
-    "wof:lastmodified":1473878758,
+    "wof:lastmodified":1492486617,
     "wof:name":"Christelijke Basisschool De Ouverture",
-    "wof:parent_id":85859575,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

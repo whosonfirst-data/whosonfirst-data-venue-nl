@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.321598,52.060852,4.321598,52.060852",
     "geom:latitude":52.060852,
     "geom:longitude":4.321598,
@@ -24,31 +25,49 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808315,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19iSkZzPAZmuSYM6d6FGMX_52.060852_4.321598@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"51cf6642559a8f917bb7593af1d84523",
+    "wof:geomhash":"9bb6cca96032b7d765626bcff8d6bbde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808315,
+            "region_id":85687041,
+            "venue_id":219332793
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808315,
             "region_id":85687041,
             "venue_id":219332793
         }
     ],
     "wof:id":219332793,
-    "wof:lastmodified":1473879005,
+    "wof:lastmodified":1492501800,
     "wof:name":"Holland Installatie Bouw",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

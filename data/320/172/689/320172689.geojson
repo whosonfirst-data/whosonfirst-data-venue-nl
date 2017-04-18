@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.900747,52.222191,6.900747,52.222191",
     "geom:latitude":52.222191,
     "geom:longitude":6.900747,
@@ -24,8 +25,12 @@
     "sg:province":"Overijssel",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797713,
+        102542825,
+        85797623,
+        102191581,
+        404473837,
         85633337,
+        101751869,
         85687045
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6zwtXnc61UZQLumBuaksL1_52.222191_6.900747@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ccfcddcefc8b2516077d77dc22bab440",
+    "wof:geomhash":"70a05881b295a26895b36cd31ec0febb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102542825,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797713,
+            "localadmin_id":404473837,
+            "locality_id":101751869,
+            "neighbourhood_id":85797623,
             "region_id":85687045,
             "venue_id":320172689
         }
     ],
     "wof:id":320172689,
-    "wof:lastmodified":1473879057,
+    "wof:lastmodified":1492482043,
     "wof:name":"Sample Temple",
-    "wof:parent_id":85797713,
+    "wof:parent_id":102542825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

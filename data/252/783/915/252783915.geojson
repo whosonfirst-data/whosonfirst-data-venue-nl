@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.928311,52.344078,4.928311,52.344078",
     "geom:latitude":52.344078,
     "geom:longitude":4.928311,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803657,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4ug37kHCKASuZn25u0OrqQ_52.344078_4.928311@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4ade12674103bc1e23e60759a6dc75f9",
+    "wof:geomhash":"dfb1affef79cce881e58d9b6e1d60cf2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803657,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":252783915
         }
     ],
     "wof:id":252783915,
-    "wof:lastmodified":1473878516,
+    "wof:lastmodified":1492505523,
     "wof:name":"Alkema, J J",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

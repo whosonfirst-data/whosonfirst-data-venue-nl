@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.369153,51.852165,4.369153,51.852165",
     "geom:latitude":51.852165,
     "geom:longitude":4.369153,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798725,
+        1108833297,
+        1108805797,
+        102191581,
         85633337,
+        101751843,
+        1108805727,
         85687041
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_4r4ed9mTfC35xxR490hCHV_51.852165_4.369153@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c0dc509f27c798a2030ba44eb2523cac",
+    "wof:geomhash":"138d4735f319a18623ed5a991b18cf42",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805727,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798725,
+            "locality_id":101751843,
+            "microhood_id":1108833297,
+            "neighbourhood_id":1108805797,
             "region_id":85687041,
             "venue_id":320123323
         }
     ],
     "wof:id":320123323,
-    "wof:lastmodified":1473878875,
+    "wof:lastmodified":1492482376,
     "wof:name":"Zalmplaat Bv",
-    "wof:parent_id":85798725,
+    "wof:parent_id":1108833297,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

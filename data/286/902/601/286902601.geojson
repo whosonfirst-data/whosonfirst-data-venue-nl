@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.309708,52.051308,4.309708,52.051308",
     "geom:latitude":52.051308,
     "geom:longitude":4.309708,
@@ -25,28 +26,46 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798433,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42DZCTOVG56fvAiglxsjFM_52.051308_4.309708@1306269974"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a85e35c72c0127e22fec5365b9b402ef",
+    "wof:geomhash":"4eef5f1465bf59fe3f5439f2d030a820",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":85798433,
+            "region_id":85687041,
+            "venue_id":286902601
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
+            "macrohood_id":1108808103,
             "neighbourhood_id":85798433,
             "region_id":85687041,
             "venue_id":286902601
         }
     ],
     "wof:id":286902601,
-    "wof:lastmodified":1473879661,
+    "wof:lastmodified":1492477973,
     "wof:name":"H A Vis Bloemen & Planten",
     "wof:parent_id":85798433,
     "wof:placetype":"venue",

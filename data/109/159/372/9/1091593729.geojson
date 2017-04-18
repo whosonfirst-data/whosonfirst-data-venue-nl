@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7502989769,51.7539253235,5.7502989769,51.7539253235",
     "geom:latitude":51.753925,
     "geom:longitude":5.750299,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.m51.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474385,
+        85633337,
+        101808247
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZfiSz3wsclAkZJSU6573C_51.753925_5.750299@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802140,
-    "wof:geomhash":"fe4405471f1c69195d48c8b1d033e03b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d464e8ea8c53e6c49295131594c249f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474385,
+            "locality_id":101808247,
+            "region_id":85687035,
+            "venue_id":1091593729
+        }
+    ],
     "wof:id":1091593729,
-    "wof:lastmodified":1473878676,
+    "wof:lastmodified":1492509558,
     "wof:name":"M 51",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

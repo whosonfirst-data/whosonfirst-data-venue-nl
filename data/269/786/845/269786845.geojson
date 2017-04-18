@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.076725,52.114304,5.076725,52.114304",
     "geom:latitude":52.114304,
     "geom:longitude":5.076725,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808841,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_2aLoyOQedLkHfi0PJNS6uz_52.114304_5.076725@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"95a8fecd296b2963fa0626de379d93e3",
+    "wof:geomhash":"ca9fd94a04784c481e9af32e3d4464c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808841,
             "region_id":85687039,
             "venue_id":269786845
         }
     ],
     "wof:id":269786845,
-    "wof:lastmodified":1473879461,
+    "wof:lastmodified":1492494995,
     "wof:name":"Snackbar Irini",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

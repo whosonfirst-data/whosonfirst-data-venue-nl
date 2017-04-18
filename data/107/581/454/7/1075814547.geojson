@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0976519585,51.3979263306,6.0976519585,51.3979263306",
     "geom:latitude":51.397926,
     "geom:longitude":6.097652,
@@ -32,17 +33,32 @@
         "bewaring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474525,
+        85633337,
+        101839251
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JzLv08SlYUUaQQ2anqZxv_51.397926_6.097652@1306270008"
     },
     "wof:country":"NL",
     "wof:created":1473798874,
-    "wof:geomhash":"9031e4b604ea4213843c46df6b6ec7aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54ecc9f2cb0fef2e97c5f935d5f6c52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839251,
+            "region_id":85687033,
+            "venue_id":1075814547
+        }
+    ],
     "wof:id":1075814547,
-    "wof:lastmodified":1473878955,
+    "wof:lastmodified":1492486485,
     "wof:name":"Vitesse Logistics Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

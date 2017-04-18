@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880638,52.413662,4.880638,52.413662",
     "geom:latitude":52.413662,
     "geom:longitude":4.880638,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803211,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_3ICZJgOlIky87ISKMjwhXR_52.413662_4.880638@1306269946"
     },
     "wof:country":"NL",
-    "wof:geomhash":"aa08689d0e198c9d3ed760b55777b5c4",
+    "wof:geomhash":"ff6dea8160a2ca20185ea800d9b26a47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803211,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":253084645
         }
     ],
     "wof:id":253084645,
-    "wof:lastmodified":1473878795,
+    "wof:lastmodified":1492488544,
     "wof:name":"Boekhout, Fa A L",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

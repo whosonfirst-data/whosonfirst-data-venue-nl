@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9565181732,51.5463638306,4.9565181732,51.5463638306",
     "geom:latitude":51.546364,
     "geom:longitude":4.956518,
@@ -23,17 +24,30 @@
     "sg:postcode":"5126 PD",
     "sg:province":"North Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474381,
+        85633337,
+        85687035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1J3wI2lu3tQguYdGnhEf6K_51.546364_4.956518@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803236,
-    "wof:geomhash":"568cddce76832ccefdf2d73d72939ae5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cff4af9b0fe3c2dd81b7b7c713c4678a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474381,
+            "region_id":85687035,
+            "venue_id":1091607449
+        }
+    ],
     "wof:id":1091607449,
-    "wof:lastmodified":1473878864,
+    "wof:lastmodified":1492512788,
     "wof:name":"De Vossenberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

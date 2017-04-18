@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.494139,51.956413,4.494139,51.956413",
     "geom:latitude":51.956413,
     "geom:longitude":4.494139,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797707,
+        1108805791,
+        102191581,
+        1108805981,
         85633337,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_676LCZll9AJagdMsXRHWmT_51.956413_4.494139@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d865e89923b0f9951a6ac829e52635c2",
+    "wof:geomhash":"86217a70bf47721976a32f5c958505aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797707,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805791,
             "region_id":85687041,
             "venue_id":320559765
         }
     ],
     "wof:id":320559765,
-    "wof:lastmodified":1473879409,
+    "wof:lastmodified":1492485308,
     "wof:name":"H.J. Bergwerff",
-    "wof:parent_id":85797707,
+    "wof:parent_id":1108805791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

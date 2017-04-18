@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.103682,52.091167,5.103682,52.091167",
     "geom:latitude":52.091167,
     "geom:longitude":5.103682,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808789,
+        102191581,
+        1108808651,
         85633337,
         101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_79cIfEekJTRIRytjj7p71k_52.091167_5.103682@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9fdcb83ffeb290b7ce91ce2d19c9b255",
+    "wof:geomhash":"0d76bfcf4f4a4109e8f9618c43dc677f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808651,
+            "neighbourhood_id":1108808789,
             "region_id":85687039,
             "venue_id":269820203
         }
     ],
     "wof:id":269820203,
-    "wof:lastmodified":1473879509,
+    "wof:lastmodified":1492496657,
     "wof:name":"De Gouden Kom",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

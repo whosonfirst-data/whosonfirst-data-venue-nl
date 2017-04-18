@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.900525,52.356766,4.900525,52.356766",
     "geom:latitude":52.356766,
     "geom:longitude":4.900525,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803835,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5rTLsksaFuzNRaWux1i5KG_52.356766_4.900525@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d4e7c830a6bb46f44753f38a98028c92",
+    "wof:geomhash":"c6ed1cb38764e26276431a0b33fb72a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803835,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":270148285
         }
     ],
     "wof:id":270148285,
-    "wof:lastmodified":1473878668,
+    "wof:lastmodified":1492500156,
     "wof:name":"Bosch, R P V D",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

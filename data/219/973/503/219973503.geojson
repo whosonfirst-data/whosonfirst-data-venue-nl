@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.48813,52.164894,4.48813,52.164894",
     "geom:latitude":52.164894,
     "geom:longitude":4.48813,
@@ -25,6 +26,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798091,
+        102191581,
+        404474199,
         85633337,
         101751833,
         85687041,
@@ -35,19 +38,21 @@
         "sg:id":"SG_1prGCrRJQH2ZrNUdzH34jT_52.164894_4.488130@1306269930"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2ba13e0e281be9564dcfe8e3f927ce59",
+    "wof:geomhash":"b77604a422660925583ed07d77a5d774",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474199,
             "locality_id":101751833,
             "neighbourhood_id":85798091,
             "region_id":85687041,
             "venue_id":219973503
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474199,
             "locality_id":101751833,
             "neighbourhood_id":85798811,
             "region_id":85687041,
@@ -55,9 +60,9 @@
         }
     ],
     "wof:id":219973503,
-    "wof:lastmodified":1473879741,
+    "wof:lastmodified":1492503206,
     "wof:name":"Bhs",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

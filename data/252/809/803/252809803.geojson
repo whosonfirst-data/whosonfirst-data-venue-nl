@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.780225,52.354229,4.780225,52.354229",
     "geom:latitude":52.354229,
     "geom:longitude":4.780225,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803511,
+        1108802857,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5mUsXHKcW6h9Y8z8yn37p5_52.354229_4.780225@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7652ddd2468c3fcb80c0699268c80c21",
+    "wof:geomhash":"a0b834abeee4dd6a1a4040ffe1ef3360",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803511,
+            "neighbourhood_id":1108802857,
             "region_id":85687053,
             "venue_id":252809803
         }
     ],
     "wof:id":252809803,
-    "wof:lastmodified":1473878536,
+    "wof:lastmodified":1492505320,
     "wof:name":"E.C. Michels",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

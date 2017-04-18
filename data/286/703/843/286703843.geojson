@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.463027,51.906876,4.463027,51.906876",
     "geom:latitude":51.906876,
     "geom:longitude":4.463027,
@@ -26,39 +27,33 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85797427,
+        102191581,
         85633337,
         101751843,
-        85687041,
-        85859785
+        1108805753,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZtmzSHHCqzxU6pYVY5Woe_51.906876_4.463027@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d134d0fc52e2c117ddfa640d9c30283a",
+    "wof:geomhash":"c8101ed988fff01d29bcb4077e0a90bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805753,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
             "neighbourhood_id":85797427,
             "region_id":85687041,
             "venue_id":286703843
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751843,
-            "neighbourhood_id":85859785,
-            "region_id":85687041,
-            "venue_id":286703843
         }
     ],
     "wof:id":286703843,
-    "wof:lastmodified":1473879438,
+    "wof:lastmodified":1492475982,
     "wof:name":"Trent International Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

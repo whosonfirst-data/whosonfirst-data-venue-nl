@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6489109993,51.6539001465,5.6489109993,51.6539001465",
     "geom:latitude":51.6539,
     "geom:longitude":5.648911,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.lanier.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474437,
+        85633337,
+        101839397
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0I4EcxQuBJUKQDE50YzMAb_51.653900_5.648911@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803779,
-    "wof:geomhash":"b18394124953052fcabcc9b9eecc53e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"695bc26a0a1dc7e10347e3ded0a9bf1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474437,
+            "locality_id":101839397,
+            "region_id":85687035,
+            "venue_id":1091617409
+        }
+    ],
     "wof:id":1091617409,
-    "wof:lastmodified":1473878916,
+    "wof:lastmodified":1492510608,
     "wof:name":"Lanier Nederland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

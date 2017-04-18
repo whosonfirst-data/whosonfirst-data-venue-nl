@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.301168,52.082138,4.301168,52.082138",
     "geom:latitude":52.082138,
     "geom:longitude":4.301168,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7HLH3gFq90OI2ycg98ksqW_52.082138_4.301168@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ede7678b7c372475c81fa1433b623890",
+    "wof:geomhash":"2b64fbfdb1517abd5d276878e94b21ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":286769375
         }
     ],
     "wof:id":286769375,
-    "wof:lastmodified":1473879580,
+    "wof:lastmodified":1492475726,
     "wof:name":"Chong Kok Sing",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

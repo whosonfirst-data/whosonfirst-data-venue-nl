@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.553288,51.950031,4.553288,51.950031",
     "geom:latitude":51.950031,
     "geom:longitude":4.553288,
@@ -33,20 +34,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Z8dKYYt0c89fPfsyNpyKK_51.950031_4.553288@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a314ca98a9544cfdd99bbf6f2a5dae67",
+    "wof:geomhash":"9e8c63c33a761366ad7ba5d419e69aae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":320217073
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798177,
             "region_id":85687041,
@@ -54,7 +70,7 @@
         }
     ],
     "wof:id":320217073,
-    "wof:lastmodified":1473879095,
+    "wof:lastmodified":1492484729,
     "wof:name":"Papirette Kado",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

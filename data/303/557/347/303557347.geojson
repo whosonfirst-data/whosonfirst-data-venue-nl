@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880043,52.370167,4.880043,52.370167",
     "geom:latitude":52.370167,
     "geom:longitude":4.880043,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7W1eOUy6RfDsa4C9VHFcsY_52.370167_4.880043@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fc70bbb5f2cfdaa3085964157bf509ee",
+    "wof:geomhash":"69f4bd2f545491a48f9c5ee391ac0f46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":303557347
         }
     ],
     "wof:id":303557347,
-    "wof:lastmodified":1473879309,
+    "wof:lastmodified":1492473730,
     "wof:name":"Boetiek 'T Haasje",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

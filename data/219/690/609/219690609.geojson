@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.846539,52.381657,4.846539,52.381657",
     "geom:latitude":52.381657,
     "geom:longitude":4.846539,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803529,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_34YOH35PVvJ9wkY0MhIHWY_52.381657_4.846539@1306269928"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7397082264d1f144d120c945b7b20772",
+    "wof:geomhash":"00b84f2147a90b02d223971c1c06b8a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803529,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":219690609
         }
     ],
     "wof:id":219690609,
-    "wof:lastmodified":1473879556,
+    "wof:lastmodified":1492503607,
     "wof:name":"Modak",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

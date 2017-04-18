@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1381101608,51.9821395874,4.1381101608,51.9821395874",
     "geom:latitude":51.98214,
     "geom:longitude":4.13811,
@@ -24,19 +25,36 @@
     "sg:province":"Zuid-Holland",
     "sg:website":"http://www.vanuwhuisarts.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85797461,
+        102191581,
+        85633337,
+        101751843,
+        1108805729,
+        85687041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uHeTYTvNQv7CfN8HOxIDd_51.982140_4.138110@1306269938"
     },
     "wof:country":"NL",
     "wof:created":1473798572,
-    "wof:geomhash":"a10c746b7a50051a5bfec39dd6e60332",
-    "wof:hierarchy":[],
+    "wof:geomhash":"767e7c274833c926d61a6b5342cc4e19",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108805729,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797461,
+            "region_id":85687041,
+            "venue_id":1075808319
+        }
+    ],
     "wof:id":1075808319,
-    "wof:lastmodified":1473878621,
+    "wof:lastmodified":1492485965,
     "wof:name":"Vugt, J Van",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

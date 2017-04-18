@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.32071,52.062988,4.32071,52.062988",
     "geom:latitude":52.062988,
     "geom:longitude":4.32071,
@@ -25,31 +26,49 @@
     "sg:website":"http://www.halal.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808309,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jQnxGMPXxD3pThJQ0oIxB_52.062988_4.320710@1306269907"
     },
     "wof:country":"NL",
-    "wof:geomhash":"77fe4eef6aba55189031967bdf205ccf",
+    "wof:geomhash":"a7ccaca8d2738967aa217c138bb65dd1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808309,
+            "region_id":85687041,
+            "venue_id":185801407
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808309,
             "region_id":85687041,
             "venue_id":185801407
         }
     ],
     "wof:id":185801407,
-    "wof:lastmodified":1473878750,
+    "wof:lastmodified":1492487805,
     "wof:name":"Halal Voedsel Keuringsdienst",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

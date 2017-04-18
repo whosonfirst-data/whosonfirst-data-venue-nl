@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.838346,52.363316,4.838346,52.363316",
     "geom:latitude":52.363316,
     "geom:longitude":4.838346,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803301,
         85798223,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4H8Oon7Tuth6mBEezeX17I_52.363316_4.838346@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6890423df45d635a3e76c74a9651ca74",
+    "wof:geomhash":"7e1e157d5eae641201bd171bdbddcc1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803301,
             "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":286814153
         }
     ],
     "wof:id":286814153,
-    "wof:lastmodified":1473879623,
+    "wof:lastmodified":1492477947,
     "wof:name":"Cinema Int 1-2",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

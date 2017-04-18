@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.271613,52.098335,4.271613,52.098335",
     "geom:latitude":52.098335,
     "geom:longitude":4.271613,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798455,
+        1108808161,
+        102191581,
+        1108833207,
         85633337,
         101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_5TJxYkj3tGZGwV19Yq4oCW_52.098335_4.271613@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e6584c7a2f808d2ed38f2c705b6e829e",
+    "wof:geomhash":"5a38c64c5992b537d9dd58d8e22d3737",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798455,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808161,
             "region_id":85687041,
             "venue_id":269845433
         }
     ],
     "wof:id":269845433,
-    "wof:lastmodified":1473879536,
+    "wof:lastmodified":1492494743,
     "wof:name":"J.J. Korenhof Jzn",
-    "wof:parent_id":85798455,
+    "wof:parent_id":1108808161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

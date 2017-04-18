@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893568,52.374687,4.893568,52.374687",
     "geom:latitude":52.374687,
     "geom:longitude":4.893568,
@@ -24,10 +25,14 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803257,
+        1108802553,
+        102191581,
         85633337,
         101751893,
-        85687053
+        1108802283,
+        85687053,
+        1108804025
     ],
     "wof:brand_id":420574503,
     "wof:breaches":[],
@@ -35,21 +40,33 @@
         "sg:id":"SG_0JcVg7pi6xY7dRss9Uesmt_52.374687_4.893568@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f6c789315c0cf6c5defd32240cc3be5d",
+    "wof:geomhash":"b1d6869e528e0adc758e4e766bdcb287",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803257,
+            "neighbourhood_id":1108802553,
+            "region_id":85687053,
+            "venue_id":303608359
+        },
+        {
+            "borough_id":1108802283,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1108804025,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":303608359
         }
     ],
     "wof:id":303608359,
-    "wof:lastmodified":1473879319,
+    "wof:lastmodified":1492473566,
     "wof:name":"Zeeman Textielsupers",
-    "wof:parent_id":85797363,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

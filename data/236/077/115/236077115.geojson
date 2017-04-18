@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.563029,51.945244,4.563029,51.945244",
     "geom:latitude":51.945244,
     "geom:longitude":4.563029,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OQYs9VztoBZsrJekUKknS_51.945244_4.563029@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"975389fdccad33ea0d4971f3ee765439",
+    "wof:geomhash":"d346d46fdfbfac100a5f7618b7a5ea8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":236077115
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798177,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":236077115,
-    "wof:lastmodified":1473878677,
+    "wof:lastmodified":1492493496,
     "wof:name":"J. Rietveldt Technieken",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

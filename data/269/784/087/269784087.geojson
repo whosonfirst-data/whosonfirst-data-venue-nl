@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.007537,52.382912,5.007537,52.382912",
     "geom:latitude":52.382912,
     "geom:longitude":5.007537,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797491,
+        1108803567,
+        1108802941,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_5icJYmpKXorBiEpPFLxbvD_52.382912_5.007537@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8e9134e70bbc0fa8ad11b021afe414d6",
+    "wof:geomhash":"3eff0ab5179351020247ad1d73ca933f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797491,
+            "locality_id":101751893,
+            "microhood_id":1108803567,
+            "neighbourhood_id":1108802941,
             "region_id":85687053,
             "venue_id":269784087
         }
     ],
     "wof:id":269784087,
-    "wof:lastmodified":1473879443,
+    "wof:lastmodified":1492496318,
     "wof:name":"Snackbar De Badhoeve",
-    "wof:parent_id":85797491,
+    "wof:parent_id":1108803567,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5369591713,51.9453048706,4.5369591713,51.9453048706",
     "geom:latitude":51.945305,
     "geom:longitude":4.536959,
@@ -25,12 +26,14 @@
     "sg:website":"http://www.disal.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        85797053,
         102191581,
-        404474163,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,22 +41,32 @@
     },
     "wof:country":"NL",
     "wof:created":1473800626,
-    "wof:geomhash":"33efecf0e4f910c884f56da189551c07",
+    "wof:geomhash":"bad89aeda70f15726416afb0e45bc852",
     "wof:hierarchy":[
         {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797053,
+            "region_id":85687041,
+            "venue_id":1091572379
+        },
+        {
+            "borough_id":1108805725,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "neighbourhood_id":85797053,
             "region_id":85687041,
             "venue_id":1091572379
         }
     ],
     "wof:id":1091572379,
-    "wof:lastmodified":1473878618,
+    "wof:lastmodified":1492511476,
     "wof:name":"Disal, Computers & Netwerken",
-    "wof:parent_id":85798329,
+    "wof:parent_id":85797053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

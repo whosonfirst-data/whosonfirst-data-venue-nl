@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.557213,51.880089,4.557213,51.880089",
     "geom:latitude":51.880089,
     "geom:longitude":4.557213,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798351,
+        1108833227,
+        1108805789,
+        102191581,
         85633337,
+        101751843,
+        1108805721,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_1aiwkhEelZ6z9JZCV2KWaq_51.880089_4.557213@1306269967"
     },
     "wof:country":"NL",
-    "wof:geomhash":"12857a91c9174270bdcedcdc72cadf0d",
+    "wof:geomhash":"c04f889f20d52c4809fe224bfef50bee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805721,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798351,
+            "locality_id":101751843,
+            "microhood_id":1108833227,
+            "neighbourhood_id":1108805789,
             "region_id":85687041,
             "venue_id":286280519
         }
     ],
     "wof:id":286280519,
-    "wof:lastmodified":1473878640,
+    "wof:lastmodified":1492476410,
     "wof:name":"Openbare Basisschool De Kubus",
-    "wof:parent_id":85798351,
+    "wof:parent_id":1108833227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

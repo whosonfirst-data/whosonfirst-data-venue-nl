@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.900026,52.374855,4.900026,52.374855",
     "geom:latitude":52.374855,
     "geom:longitude":4.900026,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.hotelthecrown.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804101,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_3TQk4CeyPVjjFjwjhn8UVK_52.374855_4.900026@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"23d35f5297f1ce6da6518ee5f4f79b8d",
+    "wof:geomhash":"0693b6875773fad1e08a6a7d91bc74a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804101,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":304054239
         }
     ],
     "wof:id":304054239,
-    "wof:lastmodified":1473878722,
+    "wof:lastmodified":1492504440,
     "wof:name":"Crown, The",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

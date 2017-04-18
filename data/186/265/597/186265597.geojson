@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.836403,52.359756,4.836403,52.359756",
     "geom:latitude":52.359756,
     "geom:longitude":4.836403,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.fnv.nl/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803301,
+        85798223,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3yefbWUtWsode0sFsSjKgS_52.359756_4.836403@1306269911"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8da03b966dfe8bd80956531721cfa85e",
+    "wof:geomhash":"78bc1fddb5741729763203392b9eedc3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803301,
+            "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":186265597
         }
     ],
     "wof:id":186265597,
-    "wof:lastmodified":1473879150,
+    "wof:lastmodified":1492508690,
     "wof:name":"Fnv",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

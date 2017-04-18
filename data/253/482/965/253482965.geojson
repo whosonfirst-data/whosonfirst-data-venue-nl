@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.113727,52.113392,5.113727,52.113392",
     "geom:latitude":52.113392,
     "geom:longitude":5.113727,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808929,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_01E4d34yUPMMDCjFBOxyiX_52.113392_5.113727@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4cdd0ad45309aa57e444cfdf2d3ae09e",
+    "wof:geomhash":"a2af97a3269ce44b2525456de81507d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808929,
             "region_id":85687039,
             "venue_id":253482965
         }
     ],
     "wof:id":253482965,
-    "wof:lastmodified":1473879622,
+    "wof:lastmodified":1492490732,
     "wof:name":"Thuiszorgwinkel",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.899923,52.366062,4.899923,52.366062",
     "geom:latitude":52.366062,
     "geom:longitude":4.899923,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.backdoor.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803223,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_5cGrsPvp4kQm6DvfrIpacw_52.366062_4.899923@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e47bfee54524099a81cc55ae012fae5f",
+    "wof:geomhash":"18b019f25cad84d33ddcd5337ac9051e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803223,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":303587741
         }
     ],
     "wof:id":303587741,
-    "wof:lastmodified":1473879307,
+    "wof:lastmodified":1492474303,
     "wof:name":"Back Door, The",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

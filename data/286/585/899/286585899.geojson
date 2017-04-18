@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.961711,52.299278,4.961711,52.299278",
     "geom:latitude":52.299278,
     "geom:longitude":4.961711,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803365,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6f5PwpZxvYRTTj9UVhz7Sb_52.299278_4.961711@1306269971"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d2a37adbb57a3b93d6645e5511624930",
+    "wof:geomhash":"7f99cac3198d1a76dcd685be7e4c089f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803365,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":286585899
         }
     ],
     "wof:id":286585899,
-    "wof:lastmodified":1473879235,
+    "wof:lastmodified":1492478133,
     "wof:name":"Drecht, De",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803365,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

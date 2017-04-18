@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.94179,52.376793,4.94179,52.376793",
     "geom:latitude":52.376793,
     "geom:longitude":4.94179,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.arttext.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803999,
+        1108802877,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2AN4xZA6jpqvjGMQPTtowQ_52.376793_4.941790@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8df51eba205626db2525443432a1a1db",
+    "wof:geomhash":"a0b810ddb86e53cb58245fe73842bd38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803999,
+            "neighbourhood_id":1108802877,
             "region_id":85687053,
             "venue_id":253610239
         }
     ],
     "wof:id":253610239,
-    "wof:lastmodified":1473879689,
+    "wof:lastmodified":1492490545,
     "wof:name":"Arttext",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

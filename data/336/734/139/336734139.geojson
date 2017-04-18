@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.131442,51.97662,4.131442,51.97662",
     "geom:latitude":51.97662,
     "geom:longitude":4.131442,
@@ -32,8 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85797461,
+        102191581,
         85633337,
-        101808077,
+        101751843,
+        1108805729,
         85687041
     ],
     "wof:breaches":[],
@@ -41,21 +45,22 @@
         "sg:id":"SG_4J618UwUxNLPbYKOb6hiIo_51.976620_4.131442@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dae76ce916b09238d339582c9344fc11",
+    "wof:geomhash":"e902160f569a435e84481f92e9c9831e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805729,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101808077,
-            "neighbourhood_id":-1,
+            "locality_id":101751843,
+            "neighbourhood_id":85797461,
             "region_id":85687041,
             "venue_id":336734139
         }
     ],
     "wof:id":336734139,
-    "wof:lastmodified":1473878416,
+    "wof:lastmodified":1492506956,
     "wof:name":"Behaenk Adviesgroep",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

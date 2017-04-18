@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4104061127,51.8277587891,4.4104061127,51.8277587891",
     "geom:latitude":51.827759,
     "geom:longitude":4.410406,
@@ -24,9 +25,11 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474231,
         85633337,
-        85798725,
-        85687041
+        101754705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473804593,
-    "wof:geomhash":"01e46d7642c9af2551529769ec3d2973",
+    "wof:geomhash":"b66aa624ec6dfe5e5d38721d6a6cf564",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798725,
+            "localadmin_id":404474231,
+            "locality_id":101754705,
             "region_id":85687041,
             "venue_id":1091630629
         }
     ],
     "wof:id":1091630629,
-    "wof:lastmodified":1473878430,
+    "wof:lastmodified":1492510251,
     "wof:name":"Hoek, Van Der",
-    "wof:parent_id":85798725,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

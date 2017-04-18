@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.900587,52.348198,4.900587,52.348198",
     "geom:latitude":52.348198,
     "geom:longitude":4.900587,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803569,
+        1108802841,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_5XuMT8UqoBRIHR9ImsXaXc_52.348198_4.900587@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"37142d184240425c895261ed4891d5e0",
+    "wof:geomhash":"8305af5fe114c8548948d91a66b3a10e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803569,
+            "neighbourhood_id":1108802841,
             "region_id":85687053,
             "venue_id":252834187
         }
     ],
     "wof:id":252834187,
-    "wof:lastmodified":1473878595,
+    "wof:lastmodified":1492505350,
     "wof:name":"Scholte, F Th C",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.532266,51.965157,4.532266,51.965157",
     "geom:latitude":51.965157,
     "geom:longitude":4.532266,
@@ -24,31 +25,49 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859913,
+        1108807127,
+        85798149,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4G8MHI19Dzo178GVac0KVa_51.965157_4.532266@1306269978"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fd1904613e287841e21a35991be64c33",
+    "wof:geomhash":"71b0c521ce0d80ad3d3d0e1fbfcbae05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859913,
+            "locality_id":101751843,
+            "microhood_id":1108807127,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":287224321
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "microhood_id":1108807127,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":287224321
         }
     ],
     "wof:id":287224321,
-    "wof:lastmodified":1473879022,
+    "wof:lastmodified":1492513319,
     "wof:name":"Adfo Administraties",
-    "wof:parent_id":85859913,
+    "wof:parent_id":1108807127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

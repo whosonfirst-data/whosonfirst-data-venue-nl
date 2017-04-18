@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.558907,51.957005,4.558907,51.957005",
     "geom:latitude":51.957005,
     "geom:longitude":4.558907,
@@ -24,31 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798177,
+        85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IolVssympYU8XDjVK8nP7_51.957005_4.558907@1306270006"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1d1e3bea6fe39c59ba28b5da8630f2fa",
+    "wof:geomhash":"1a756cc0f6a984acb40591f5323398e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":336837133
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798177,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":336837133
         }
     ],
     "wof:id":336837133,
-    "wof:lastmodified":1473878437,
+    "wof:lastmodified":1492506480,
     "wof:name":"Ftp Rotterdam",
-    "wof:parent_id":85798177,
+    "wof:parent_id":85798149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

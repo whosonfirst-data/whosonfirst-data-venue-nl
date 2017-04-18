@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.496212,51.93132,4.496212,51.93132",
     "geom:latitude":51.93132,
     "geom:longitude":4.496212,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859861,
+        1108805837,
+        102191581,
+        1108805657,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_7dz8Q8sWufDewxVzFdlDhe_51.931320_4.496212@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"90e084f07077eb8625bfeeb9bda7e635",
+    "wof:geomhash":"ef92bdb7cd55633c6ff6811caf6db1c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859861,
+            "macrohood_id":1108805657,
+            "neighbourhood_id":1108805837,
             "region_id":85687041,
             "venue_id":270512275
         }
     ],
     "wof:id":270512275,
-    "wof:lastmodified":1473879381,
+    "wof:lastmodified":1492499576,
     "wof:name":"De Waaier Openbare Basisschool",
-    "wof:parent_id":85859861,
+    "wof:parent_id":1108805837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

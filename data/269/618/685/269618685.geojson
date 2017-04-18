@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.546,51.923351,4.546,51.923351",
     "geom:latitude":51.923351,
     "geom:longitude":4.546,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797899,
+        1108805861,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qr8C3e5BnHTxE4VYpHojn_51.923351_4.546000@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b0bece6c4ffec0af8e67b02e0daa5c07",
+    "wof:geomhash":"eeae9bf7e7c8b6c4e3f154a364613e1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85797899,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805861,
+            "region_id":85687041,
+            "venue_id":269618685
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805861,
             "region_id":85687041,
             "venue_id":269618685
         }
     ],
     "wof:id":269618685,
-    "wof:lastmodified":1473879091,
+    "wof:lastmodified":1492496824,
     "wof:name":"Brepols, Dr L J",
-    "wof:parent_id":85797899,
+    "wof:parent_id":1108805861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

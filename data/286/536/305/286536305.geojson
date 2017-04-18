@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.341038,52.070065,4.341038,52.070065",
     "geom:latitude":52.070065,
     "geom:longitude":4.341038,
@@ -25,28 +26,46 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859633,
+        102191581,
+        1108808077,
         85633337,
         101752763,
-        85687041
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UpqrttoFtNqaZO9raZgXH_52.070065_4.341038@1306269970"
     },
     "wof:country":"NL",
-    "wof:geomhash":"48cb3bc52cc30fa17ec21e5a4ec8b89d",
+    "wof:geomhash":"47ef074a65f98be6f0ba4eb2f0f0d64c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808077,
+            "neighbourhood_id":85859633,
+            "region_id":85687041,
+            "venue_id":286536305
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
+            "locality_id":101754743,
+            "macrohood_id":1108808077,
             "neighbourhood_id":85859633,
             "region_id":85687041,
             "venue_id":286536305
         }
     ],
     "wof:id":286536305,
-    "wof:lastmodified":1473879185,
+    "wof:lastmodified":1492478060,
     "wof:name":"Bv Huisdierencrematorium En Begrafenisonderneming",
     "wof:parent_id":85859633,
     "wof:placetype":"venue",

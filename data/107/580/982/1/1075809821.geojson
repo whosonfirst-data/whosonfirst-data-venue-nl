@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2233629227,52.3404769897,5.2233629227,52.3404769897",
     "geom:latitude":52.340477,
     "geom:longitude":5.223363,
@@ -32,17 +33,32 @@
         "restaurant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101807237
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ip2RjEdEGqsVVHg5bYh4j_52.340477_5.223363@1306269957"
     },
     "wof:country":"NL",
     "wof:created":1473798649,
-    "wof:geomhash":"41a0959808e81bd1722edf038d0fb49a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d72dc79feea68af8e89a7e5e2627f5b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101807237,
+            "region_id":85687049,
+            "venue_id":1075809821
+        }
+    ],
     "wof:id":1075809821,
-    "wof:lastmodified":1473878709,
+    "wof:lastmodified":1492486122,
     "wof:name":"G.Q. Nguyen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8623,52.366821,4.8623,52.366821",
     "geom:latitude":52.366821,
     "geom:longitude":4.8623,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.houtsma.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803895,
+        1108802849,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_0rJvcegWWRQEteYPOqPpBs_52.366821_4.862300@1306269907"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f76095fa580ba67309bac33f397d1b38",
+    "wof:geomhash":"935a9f9c8d19e7700674ef9ff0628055",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803895,
+            "neighbourhood_id":1108802849,
             "region_id":85687053,
             "venue_id":185752383
         }
     ],
     "wof:id":185752383,
-    "wof:lastmodified":1473878704,
+    "wof:lastmodified":1492487975,
     "wof:name":"Houtsma",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

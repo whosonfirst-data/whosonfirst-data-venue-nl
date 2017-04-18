@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.566064,53.217735,6.566064,53.217735",
     "geom:latitude":53.217735,
     "geom:longitude":6.566064,
@@ -24,40 +25,41 @@
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797835,
-        85633337,
-        85687059,
         85797417,
-        101751909
+        102191581,
+        404473713,
+        85633337,
+        101751909,
+        85687059,
+        85797835
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XLBYdYgHMRwHft9LNpgSd_53.217735_6.566064@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5e919bd03f7200f4f2368349afd48c44",
+    "wof:geomhash":"ba224652ed2e32aa17317cedc6e325ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797835,
+            "localadmin_id":404473713,
+            "locality_id":101751909,
+            "neighbourhood_id":85797417,
             "region_id":85687059,
             "venue_id":203164235
         },
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751909,
-            "neighbourhood_id":85797417,
+            "neighbourhood_id":85797835,
             "region_id":85687059,
             "venue_id":203164235
         }
     ],
     "wof:id":203164235,
-    "wof:lastmodified":1473879015,
+    "wof:lastmodified":1492480115,
     "wof:name":"Meko Advies",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

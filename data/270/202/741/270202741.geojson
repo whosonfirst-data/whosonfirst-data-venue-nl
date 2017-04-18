@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.847012,52.34763,4.847012,52.34763",
     "geom:latitude":52.34763,
     "geom:longitude":4.847012,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803459,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5it2I9CQVPN0quaInJm31z_52.347630_4.847012@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"775fbb43cd7e7be67ebd26df8ebb2356",
+    "wof:geomhash":"0079cae4620b25b3cc0d3ec0cde177c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803459,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":270202741
         }
     ],
     "wof:id":270202741,
-    "wof:lastmodified":1473878864,
+    "wof:lastmodified":1492500201,
     "wof:name":"Szpakowski",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

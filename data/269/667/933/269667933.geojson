@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.929617,52.347027,4.929617,52.347027",
     "geom:latitude":52.347027,
     "geom:longitude":4.929617,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803839,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_43h5lDVLuE4FCZThn4mKAl_52.347027_4.929617@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c82644cfe911daab022ee2a39671c3f4",
+    "wof:geomhash":"c9f93e31c44c5c3ccd5c8fef4f33697a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803839,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":269667933
         }
     ],
     "wof:id":269667933,
-    "wof:lastmodified":1473879262,
+    "wof:lastmodified":1492496787,
     "wof:name":"Slob, Anja",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

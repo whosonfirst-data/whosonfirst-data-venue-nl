@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.54087,51.939426,4.54087,51.939426",
     "geom:latitude":51.939426,
     "geom:longitude":4.54087,
@@ -25,31 +26,46 @@
     "sg:website":"http://www.multiplevision.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797899,
+        85797053,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37ssYc8PhPo28phpyWsAvR_51.939426_4.540870@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e8999575f63dd2ca3acba64914cff871",
+    "wof:geomhash":"45b00b765f619604aea26a2116e52599",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85797899,
+            "locality_id":101751843,
+            "neighbourhood_id":85797053,
+            "region_id":85687041,
+            "venue_id":286443089
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":85797053,
             "region_id":85687041,
             "venue_id":286443089
         }
     ],
     "wof:id":286443089,
-    "wof:lastmodified":1473879009,
+    "wof:lastmodified":1492476347,
     "wof:name":"Multiple Vision",
-    "wof:parent_id":85797899,
+    "wof:parent_id":85797053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.485158,51.917011,4.485158,51.917011",
     "geom:latitude":51.917011,
     "geom:longitude":4.485158,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797053,
+        1108805663,
+        1108805867,
+        102191581,
         85633337,
         101751843,
+        1108804841,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4qb2mbiMzj9aDdQwhGqwNT_51.917011_4.485158@1306269998"
     },
     "wof:country":"NL",
-    "wof:geomhash":"75c9477a4ed51726cd9e8e7e3704d977",
+    "wof:geomhash":"32a5dc75e34d003334554492b53d92df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108804841,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797053,
+            "microhood_id":1108805663,
+            "neighbourhood_id":1108805867,
             "region_id":85687041,
             "venue_id":320411999
         }
     ],
     "wof:id":320411999,
-    "wof:lastmodified":1473879289,
+    "wof:lastmodified":1492484802,
     "wof:name":"Verenigd Overzee Vervoer",
-    "wof:parent_id":85797053,
+    "wof:parent_id":1108805663,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

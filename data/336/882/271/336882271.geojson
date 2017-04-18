@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.916529,52.392052,4.916529,52.392052",
     "geom:latitude":52.392052,
     "geom:longitude":4.916529,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803563,
+        1108802935,
+        102191581,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7iVs0l8WYRn1jUO6q74Iz8_52.392052_4.916529@1306270007"
     },
     "wof:country":"NL",
-    "wof:geomhash":"452ae4ac4ceb84812a0b9243662d6f0e",
+    "wof:geomhash":"047148cd78131e36b2f51eab4ca45d75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803563,
+            "neighbourhood_id":1108802935,
             "region_id":85687053,
             "venue_id":336882271
         }
     ],
     "wof:id":336882271,
-    "wof:lastmodified":1473878446,
+    "wof:lastmodified":1492506375,
     "wof:name":"Veeninga, H",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803563,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

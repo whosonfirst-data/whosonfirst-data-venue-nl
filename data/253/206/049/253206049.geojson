@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.760503,52.38036,4.760503,52.38036",
     "geom:latitude":52.38036,
     "geom:longitude":4.760503,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798675,
+        1108804073,
+        1108802855,
+        102191581,
         85633337,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_2P2aW2ZmPzVsMw1YDnCEdd_52.380360_4.760503@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6888e3485cf13e37262c839c18286532",
+    "wof:geomhash":"b0d315a53ac2e76d9ff0222a40b4e977",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798675,
+            "locality_id":101751893,
+            "microhood_id":1108804073,
+            "neighbourhood_id":1108802855,
             "region_id":85687053,
             "venue_id":253206049
         }
     ],
     "wof:id":253206049,
-    "wof:lastmodified":1473879155,
+    "wof:lastmodified":1492488992,
     "wof:name":"Siersema Interieur",
-    "wof:parent_id":85798675,
+    "wof:parent_id":1108804073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

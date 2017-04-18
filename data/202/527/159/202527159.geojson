@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.279331,52.104488,4.279331,52.104488",
     "geom:latitude":52.104488,
     "geom:longitude":4.279331,
@@ -34,8 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808167,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +48,23 @@
         "sg:id":"SG_1NRS0583iPye14jaGEogzz_52.104488_4.279331@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ae76ad013ae87debfba9ad90ba7e4154",
+    "wof:geomhash":"09edb650b643a38e1ebf948fb71ab433",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808167,
             "region_id":85687041,
             "venue_id":202527159
         }
     ],
     "wof:id":202527159,
-    "wof:lastmodified":1473878865,
+    "wof:lastmodified":1492497784,
     "wof:name":"Video Vision",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

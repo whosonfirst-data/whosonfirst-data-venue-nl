@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878175,52.357559,4.878175,52.357559",
     "geom:latitude":52.357559,
     "geom:longitude":4.878175,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803743,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3PoCUy1INayAhNzz43SRn0_52.357559_4.878175@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5c8a7cf170d8bc7aa5b9c3a1df69eb90",
+    "wof:geomhash":"c839398f5906f7bb24edfe57d2ced59a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803743,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":219805625
         }
     ],
     "wof:id":219805625,
-    "wof:lastmodified":1473879733,
+    "wof:lastmodified":1492502117,
     "wof:name":"Grunwald",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

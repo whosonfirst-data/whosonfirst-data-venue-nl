@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.434336,51.934258,4.434336,51.934258",
     "geom:latitude":51.934258,
     "geom:longitude":4.434336,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798219,
+        1108805669,
+        1108805799,
+        102191581,
         85633337,
-        101753095,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_05nVusOGk5ER78De2FL1HT_51.934258_4.434336@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"920dc276a3b31cc040605262a1206882",
+    "wof:geomhash":"a6012f0f8c6d18ff2634ad233d593a4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85798219,
+            "locality_id":101751843,
+            "microhood_id":1108805669,
+            "neighbourhood_id":1108805799,
             "region_id":85687041,
             "venue_id":270252929
         }
     ],
     "wof:id":270252929,
-    "wof:lastmodified":1473878981,
+    "wof:lastmodified":1492500731,
     "wof:name":"Photo Sea-Sky-Martin",
-    "wof:parent_id":85798219,
+    "wof:parent_id":1108805669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

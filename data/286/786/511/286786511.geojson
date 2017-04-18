@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.346026,52.066395,4.346026,52.066395",
     "geom:latitude":52.066395,
     "geom:longitude":4.346026,
@@ -25,28 +26,46 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859633,
+        102191581,
+        1108808077,
         85633337,
         101752763,
-        85687041
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1w0vbMn8gXkHJwFOny2oeW_52.066395_4.346026@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0ecca8b6995b3b28d742da49b31096e6",
+    "wof:geomhash":"d4b209b4002e90cd3668168f41743fff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808077,
+            "neighbourhood_id":85859633,
+            "region_id":85687041,
+            "venue_id":286786511
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
+            "locality_id":101754743,
+            "macrohood_id":1108808077,
             "neighbourhood_id":85859633,
             "region_id":85687041,
             "venue_id":286786511
         }
     ],
     "wof:id":286786511,
-    "wof:lastmodified":1473879595,
+    "wof:lastmodified":1492475412,
     "wof:name":"Pieterse & Wesdorp Decorcollectief",
     "wof:parent_id":85859633,
     "wof:placetype":"venue",

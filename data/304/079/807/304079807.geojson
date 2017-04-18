@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.913434,52.335381,4.913434,52.335381",
     "geom:latitude":52.335381,
     "geom:longitude":4.913434,
@@ -30,9 +31,13 @@
     "sg:website":"http://www.lookandbook.com/amsterdam/mercure_ad_amstel.htm",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804067,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +45,24 @@
         "sg:id":"SG_37cBFCCeUBVPR8jdIMlljO_52.335381_4.913434@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f6f3b098fb88c21b016853eec94001df",
+    "wof:geomhash":"9b2e805fe9faa1b50d6a3df1b9cff38f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804067,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":304079807
         }
     ],
     "wof:id":304079807,
-    "wof:lastmodified":1473878809,
+    "wof:lastmodified":1492504363,
     "wof:name":"Mercure",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8789830208,51.7299003601,5.8789830208,51.7299003601",
     "geom:latitude":51.7299,
     "geom:longitude":5.878983,
@@ -23,17 +24,32 @@
     "sg:postcode":"5431 BP",
     "sg:province":"North Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474597,
+        85633337,
+        101839723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MNTgAN6KrcfqkeDP6pSZt_51.729900_5.878983@1306270014"
     },
     "wof:country":"NL",
     "wof:created":1473801725,
-    "wof:geomhash":"23a344608fec3acde288e17d2ea4dd03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3cea0738b64b81f91f77dd4d08a69221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474597,
+            "locality_id":101839723,
+            "region_id":85687035,
+            "venue_id":1091586461
+        }
+    ],
     "wof:id":1091586461,
-    "wof:lastmodified":1473878862,
+    "wof:lastmodified":1492511823,
     "wof:name":"Randstad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.253488,52.066013,4.253488,52.066013",
     "geom:latitude":52.066013,
     "geom:longitude":4.253488,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797811,
+        85859585,
+        102191581,
+        1108808133,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_79p5CG49WaGekbPLZmpQZQ_52.066013_4.253488@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"145e5114e836efc48674d4f1bcfb40c1",
+    "wof:geomhash":"b8b27d1f57df3594823e67fd2d2d0d38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797811,
+            "macrohood_id":1108808133,
+            "neighbourhood_id":85859585,
             "region_id":85687041,
             "venue_id":203118141
         }
     ],
     "wof:id":203118141,
-    "wof:lastmodified":1473878940,
+    "wof:lastmodified":1492480421,
     "wof:name":"Burg Assurantien Bv",
-    "wof:parent_id":85797811,
+    "wof:parent_id":85859585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

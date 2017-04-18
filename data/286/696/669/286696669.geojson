@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.38937,51.426487,5.38937,51.426487",
     "geom:latitude":51.426487,
     "geom:longitude":5.38937,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.mdn.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798747,
+        102542811,
+        85798003,
+        102191581,
+        404474443,
         85633337,
-        101758611,
+        101754579,
         85687035
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_1LxDErAWYtp6digy1qH5se_51.426487_5.389370@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fd419212158dfb4db4f23056f01b0f87",
+    "wof:geomhash":"2852f306038e507748b6b57543649a3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102542811,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101758611,
-            "neighbourhood_id":85798747,
+            "localadmin_id":404474443,
+            "locality_id":101754579,
+            "neighbourhood_id":85798003,
             "region_id":85687035,
             "venue_id":286696669
         }
     ],
     "wof:id":286696669,
-    "wof:lastmodified":1473879441,
+    "wof:lastmodified":1492477833,
     "wof:name":"Mdn Security",
-    "wof:parent_id":85798747,
+    "wof:parent_id":102542811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

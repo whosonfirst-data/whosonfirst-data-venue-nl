@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.509542,51.923588,4.509542,51.923588",
     "geom:latitude":51.923588,
     "geom:longitude":4.509542,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805807,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0V50lJU6ktvRbLbjFlQPh7_51.923588_4.509542@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"903f856d2e6eea3dcb6e76f03ce3c06a",
+    "wof:geomhash":"b10eb71e6e3df276ef0419443d4cf789",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805807,
             "region_id":85687041,
             "venue_id":186463829
         }
     ],
     "wof:id":186463829,
-    "wof:lastmodified":1473879487,
+    "wof:lastmodified":1492508549,
     "wof:name":"O'Dunbeye Land Cult Centr",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

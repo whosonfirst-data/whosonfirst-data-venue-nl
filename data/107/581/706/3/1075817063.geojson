@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0003437996,53.3276824951,6.0003437996,53.3276824951",
     "geom:latitude":53.327682,
     "geom:longitude":6.000344,
@@ -24,17 +25,32 @@
     "sg:province":"Friesland",
     "sg:website":"http://www.hansanders.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687055,
+        102191581,
+        404473755,
+        85633337,
+        101806131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77wtnmJ0dB4RMt37qrCMAZ_53.327682_6.000344@1306270008"
     },
     "wof:country":"NL",
     "wof:created":1473798977,
-    "wof:geomhash":"873b07aa5086f6eb3d6253e094605186",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f53d3f8243ad7e6b7085fcdfa060492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473755,
+            "locality_id":101806131,
+            "region_id":85687055,
+            "venue_id":1075817063
+        }
+    ],
     "wof:id":1075817063,
-    "wof:lastmodified":1473879082,
+    "wof:lastmodified":1492486586,
     "wof:name":"Hans Anders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.078888,52.116665,5.078888,52.116665",
     "geom:latitude":52.116665,
     "geom:longitude":5.078888,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808841,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0tKZVkDv3D1kJGSah62p78_52.116665_5.078888@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6ef7bbaf363caac7d2928fea2663ac76",
+    "wof:geomhash":"b7a964da477d3c6826b5e6bad118a4fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808841,
             "region_id":85687039,
             "venue_id":270157343
         }
     ],
     "wof:id":270157343,
-    "wof:lastmodified":1473878687,
+    "wof:lastmodified":1492500511,
     "wof:name":"Stoops, Fotopersbureau Jeroen",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

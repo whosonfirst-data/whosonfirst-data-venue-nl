@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.897887,52.366367,4.897887,52.366367",
     "geom:latitude":52.366367,
     "geom:longitude":4.897887,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803223,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_3YOjL2dnLZjIy2FWMU5THG_52.366367_4.897887@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"98cd6e432e96dab3d3e940aedef4170b",
+    "wof:geomhash":"c1a0069df67c056f430a7f4d204fa5fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803223,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":270465051
         }
     ],
     "wof:id":270465051,
-    "wof:lastmodified":1473879269,
+    "wof:lastmodified":1492499677,
     "wof:name":"Bar Vivelavie",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

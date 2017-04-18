@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.844426,52.34087,4.844426,52.34087",
     "geom:latitude":52.34087,
     "geom:longitude":4.844426,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.profile.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803509,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2Ie2vh6sRLUMUVfxVMFTp9_52.340870_4.844426@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6e3383525f92482f5932650c8b728466",
+    "wof:geomhash":"5ab0e3b090dcaa266a6ea086c11d86ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803509,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":270354233
         }
     ],
     "wof:id":270354233,
-    "wof:lastmodified":1473879149,
+    "wof:lastmodified":1492501202,
     "wof:name":"Profile Tyrecenter Wals",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.839725,52.378338,4.839725,52.378338",
     "geom:latitude":52.378338,
     "geom:longitude":4.839725,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108804271,
+        1108802783,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_6WXKk4nTsEO2i9e6XivhwO_52.378338_4.839725@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ef281c62061ea2a4370205ca84f3cfb9",
+    "wof:geomhash":"0a21ee9c2d7c008433760782ddbd751e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802299,
+            "microhood_id":1108804271,
+            "neighbourhood_id":1108802783,
             "region_id":85687053,
             "venue_id":270092603
         }
     ],
     "wof:id":270092603,
-    "wof:lastmodified":1473878560,
+    "wof:lastmodified":1492499631,
     "wof:name":"Foto Film Pico",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108804271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

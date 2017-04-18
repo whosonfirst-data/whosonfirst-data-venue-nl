@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.540234,51.939342,4.540234,51.939342",
     "geom:latitude":51.939342,
     "geom:longitude":4.540234,
@@ -24,31 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797899,
+        85797053,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kUPVC3uGNSRqeR8tEOT4A_51.939342_4.540234@1306269997"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c36dffc8c7ff26231ade2a43e9d0a68c",
+    "wof:geomhash":"75c428db788a127e7619a4180af73c33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85797899,
+            "locality_id":101751843,
+            "neighbourhood_id":85797053,
+            "region_id":85687041,
+            "venue_id":320361413
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":85797053,
             "region_id":85687041,
             "venue_id":320361413
         }
     ],
     "wof:id":320361413,
-    "wof:lastmodified":1473879245,
+    "wof:lastmodified":1492484025,
     "wof:name":"Koster Transport Bv",
-    "wof:parent_id":85797899,
+    "wof:parent_id":85797053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

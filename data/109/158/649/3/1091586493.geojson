@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1443061829,52.0857543945,5.1443061829,52.0857543945",
     "geom:latitude":52.085754,
     "geom:longitude":5.144306,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808861,
+        102191581,
         85633337,
-        85797403,
+        101751827,
+        1108808669,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473801727,
-    "wof:geomhash":"ba0af93d57f23d71cc6b7adcc9bcb2b2",
+    "wof:geomhash":"624ed8babc0482eed2f00d84fcf14449",
     "wof:hierarchy":[
         {
+            "borough_id":1108808669,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797403,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808861,
             "region_id":85687039,
             "venue_id":1091586493
         }
     ],
     "wof:id":1091586493,
-    "wof:lastmodified":1473878854,
+    "wof:lastmodified":1492511564,
     "wof:name":"Roachford",
-    "wof:parent_id":85797403,
+    "wof:parent_id":1108808861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

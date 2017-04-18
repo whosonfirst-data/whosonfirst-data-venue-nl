@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3290820122,52.0661010742,4.3290820122,52.0661010742",
     "geom:latitude":52.066101,
     "geom:longitude":4.329082,
@@ -24,12 +25,15 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808315,
         102191581,
-        404474251,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,22 +41,34 @@
     },
     "wof:country":"NL",
     "wof:created":1473804468,
-    "wof:geomhash":"00f665b031cb5b8f74c36d2874af8913",
+    "wof:geomhash":"999ba3aca76674862a66c6269266808d",
     "wof:hierarchy":[
         {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808315,
+            "region_id":85687041,
+            "venue_id":1091628723
+        },
+        {
+            "borough_id":1108808049,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808315,
             "region_id":85687041,
             "venue_id":1091628723
         }
     ],
     "wof:id":1091628723,
-    "wof:lastmodified":1473879068,
+    "wof:lastmodified":1492512135,
     "wof:name":"Hair King Harold",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

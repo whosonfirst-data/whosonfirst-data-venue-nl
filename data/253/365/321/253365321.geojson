@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.529824,51.964863,4.529824,51.964863",
     "geom:latitude":51.964863,
     "geom:longitude":4.529824,
@@ -24,31 +25,49 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859913,
+        1108807127,
+        85798149,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04OoidLqjpNuMtRI9i5x9j_51.964863_4.529824@1306269949"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e34e76c98448ae8e307f04a26e322c71",
+    "wof:geomhash":"049f77f288f11038b6c111513e5d02c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859913,
+            "locality_id":101751843,
+            "microhood_id":1108807127,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":253365321
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "microhood_id":1108807127,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":253365321
         }
     ],
     "wof:id":253365321,
-    "wof:lastmodified":1473879431,
+    "wof:lastmodified":1492489731,
     "wof:name":"Atelier K",
-    "wof:parent_id":85859913,
+    "wof:parent_id":1108807127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

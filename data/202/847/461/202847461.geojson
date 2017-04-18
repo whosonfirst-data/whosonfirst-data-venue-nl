@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878146,52.35561,4.878146,52.35561",
     "geom:latitude":52.35561,
     "geom:longitude":4.878146,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.sdi-media.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803743,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_0gXrq7DuNCXVkEc7w243yo_52.355610_4.878146@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3378c2004b3735295a5daaa9ce5e82f8",
+    "wof:geomhash":"59642d062ab5076fc3ac892f56e60a1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803743,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":202847461
         }
     ],
     "wof:id":202847461,
-    "wof:lastmodified":1473879346,
+    "wof:lastmodified":1492498566,
     "wof:name":"Sdi, Media Netherlands",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

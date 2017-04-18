@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.945196,52.295048,4.945196,52.295048",
     "geom:latitude":52.295048,
     "geom:longitude":4.945196,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.dpabv.demon.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803431,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_50uPfSeF4fCllRCdG4zlPv_52.295048_4.945196@1306269987"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ebae3b91c1519e772de73ab15e0e14f0",
+    "wof:geomhash":"7f47304e3b09a6256648e6143ddf5e0b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803431,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":303776215
         }
     ],
     "wof:id":303776215,
-    "wof:lastmodified":1473879521,
+    "wof:lastmodified":1492473288,
     "wof:name":"Peters Amsterdam Drukkerij Bv",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

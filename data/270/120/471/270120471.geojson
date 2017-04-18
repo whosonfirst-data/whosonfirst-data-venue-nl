@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.872038,52.362125,4.872038,52.362125",
     "geom:latitude":52.362125,
     "geom:longitude":4.872038,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.hoornvanwegen.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803727,
+        1108802821,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2kS14khT10lLTXcKnH6q5m_52.362125_4.872038@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"32bb600ac893daf38d7ef88ad9b6c33c",
+    "wof:geomhash":"01f1bf0e5109e229e9e50c0db05de89f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803727,
+            "neighbourhood_id":1108802821,
             "region_id":85687053,
             "venue_id":270120471
         }
     ],
     "wof:id":270120471,
-    "wof:lastmodified":1473878620,
+    "wof:lastmodified":1492499284,
     "wof:name":"Hoorn/Vanwegen",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

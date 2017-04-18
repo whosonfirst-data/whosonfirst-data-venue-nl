@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.963769,52.299263,4.963769,52.299263",
     "geom:latitude":52.299263,
     "geom:longitude":4.963769,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803365,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_3YsGqmXYLwLvSQcPDv0gKH_52.299263_4.963769@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dad48110d5c46c05129f2a78ea10c173",
+    "wof:geomhash":"4a4c9edd22ddbbb027cba5d90e769edf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803365,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":269787135
         }
     ],
     "wof:id":269787135,
-    "wof:lastmodified":1473879468,
+    "wof:lastmodified":1492495013,
     "wof:name":"Snackbar Michelle",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803365,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

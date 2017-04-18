@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.315596,52.060032,4.315596,52.060032",
     "geom:latitude":52.060032,
     "geom:longitude":4.315596,
@@ -33,31 +34,49 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808309,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72TiIZOdCvYv9cDePL7JYC_52.060032_4.315596@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1cccb78a2c95b2e732416186da333acb",
+    "wof:geomhash":"b51be5bd38b2594b9da20066b95dbcf9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808309,
+            "region_id":85687041,
+            "venue_id":269791239
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808309,
             "region_id":85687041,
             "venue_id":269791239
         }
     ],
     "wof:id":269791239,
-    "wof:lastmodified":1473879470,
+    "wof:lastmodified":1492495934,
     "wof:name":"Snackcar Calandplein",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

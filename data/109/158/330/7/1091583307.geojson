@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.693198204,52.3035888672,4.693198204,52.3035888672",
     "geom:latitude":52.303589,
     "geom:longitude":4.693198,
@@ -23,17 +24,32 @@
     "sg:postcode":"2132 DM",
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474065,
+        85633337,
+        101751899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lrIDOrN84NaWe82i78Gq4_52.303589_4.693198@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801353,
-    "wof:geomhash":"29799c1fa96510a10d9865bad31cae14",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13e0bd504baef0acaffeb1b8734137dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474065,
+            "locality_id":101751899,
+            "region_id":85687053,
+            "venue_id":1091583307
+        }
+    ],
     "wof:id":1091583307,
-    "wof:lastmodified":1473878654,
+    "wof:lastmodified":1492511892,
     "wof:name":"Carriere",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5359301567,52.3687553406,4.5359301567,52.3687553406",
     "geom:latitude":52.368755,
     "geom:longitude":4.53593,
@@ -23,17 +24,32 @@
     "sg:postcode":"2042 DV",
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474135,
+        85633337,
+        101808813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uOMFti0tOGrzA8goiKrf9_52.368755_4.535930@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801165,
-    "wof:geomhash":"6adbeadb63f4384b5171632baa00622e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35c7f71b204c912c772cfdbf4f5a06c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474135,
+            "locality_id":101808813,
+            "region_id":85687053,
+            "venue_id":1091579363
+        }
+    ],
     "wof:id":1091579363,
-    "wof:lastmodified":1473879043,
+    "wof:lastmodified":1492511017,
     "wof:name":"Sebregts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

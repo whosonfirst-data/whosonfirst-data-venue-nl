@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.510307,51.923981,4.510307,51.923981",
     "geom:latitude":51.923981,
     "geom:longitude":4.510307,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805807,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_5X2qISNmrYw9BitUInMFlg_51.923981_4.510307@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9ed6fce945dfa21b71751ccbdf400b8d",
+    "wof:geomhash":"13dd917d610d31d252b1e9951c8b70f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805807,
             "region_id":85687041,
             "venue_id":202525077
         }
     ],
     "wof:id":202525077,
-    "wof:lastmodified":1473878854,
+    "wof:lastmodified":1492497526,
     "wof:name":"Video Club Schiedam",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

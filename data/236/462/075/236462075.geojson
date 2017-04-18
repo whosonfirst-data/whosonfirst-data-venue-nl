@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.824697,52.380436,4.824697,52.380436",
     "geom:latitude":52.380436,
     "geom:longitude":4.824697,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108804051,
+        1108802905,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_48sj5RDXcNoTBQBKMw82ut_52.380436_4.824697@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"55f8ace3ff143587739a1277f9ed7efe",
+    "wof:geomhash":"de45fee0182a275b94367fef1235650d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108804051,
+            "neighbourhood_id":1108802905,
             "region_id":85687053,
             "venue_id":236462075
         }
     ],
     "wof:id":236462075,
-    "wof:lastmodified":1473879333,
+    "wof:lastmodified":1492492334,
     "wof:name":"Otjes En P P Strikwerda, R P A",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108804051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

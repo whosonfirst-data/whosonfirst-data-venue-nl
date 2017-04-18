@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3808407784,52.0660514832,5.3808407784,52.0660514832",
     "geom:latitude":52.066051,
     "geom:longitude":5.380841,
@@ -24,17 +25,32 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.madjaro.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474547,
+        85633337,
+        101837663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JWn1vJYNOb9sndTHaki6I_52.066051_5.380841@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803780,
-    "wof:geomhash":"e9e7ecd1e531cf62fdc67f92f1bf7dae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"889cd998b2a558c39f8e524974c7b416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474547,
+            "locality_id":101837663,
+            "region_id":85687039,
+            "venue_id":1091617419
+        }
+    ],
     "wof:id":1091617419,
-    "wof:lastmodified":1473878921,
+    "wof:lastmodified":1492510749,
     "wof:name":"Madjaro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

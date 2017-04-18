@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.937627,52.349224,4.937627,52.349224",
     "geom:latitude":52.349224,
     "geom:longitude":4.937627,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803839,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5K9LEBHD3CVS3uFZTLJimB_52.349224_4.937627@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3983fa279420a2b2a5e388dc5b4c1085",
+    "wof:geomhash":"8b13d19acfb4733a8e915e1890b886a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803839,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":320650055
         }
     ],
     "wof:id":320650055,
-    "wof:lastmodified":1473879481,
+    "wof:lastmodified":1492484993,
     "wof:name":"Frankendaal",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

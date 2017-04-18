@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.33931,52.06786,4.33931,52.06786",
     "geom:latitude":52.06786,
     "geom:longitude":4.33931,
@@ -25,28 +26,46 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859633,
+        102191581,
+        1108808077,
         85633337,
         101752763,
-        85687041
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5h75thAi8QkvF41CSk36eG_52.067860_4.339310@1306269976"
     },
     "wof:country":"NL",
-    "wof:geomhash":"de77f10656e17f6aeeb0c9ead3e812a2",
+    "wof:geomhash":"172b4a69e1d5a282fa8ce25e092d8cfd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808077,
+            "neighbourhood_id":85859633,
+            "region_id":85687041,
+            "venue_id":287057429
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
+            "locality_id":101754743,
+            "macrohood_id":1108808077,
             "neighbourhood_id":85859633,
             "region_id":85687041,
             "venue_id":287057429
         }
     ],
     "wof:id":287057429,
-    "wof:lastmodified":1473878709,
+    "wof:lastmodified":1492514356,
     "wof:name":"Groenendijk, Yvonne",
     "wof:parent_id":85859633,
     "wof:placetype":"venue",

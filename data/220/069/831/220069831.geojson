@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912365,52.353046,4.912365,52.353046",
     "geom:latitude":52.353046,
     "geom:longitude":4.912365,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803259,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6BakBtgAdk1TO7Nfxy2kXr_52.353046_4.912365@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"16f951339a4ae97e56f71fce3cc9cdd8",
+    "wof:geomhash":"a1ea41485494b2e7d3610728011f559c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803259,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":220069831
         }
     ],
     "wof:id":220069831,
-    "wof:lastmodified":1473878678,
+    "wof:lastmodified":1492481451,
     "wof:name":"Ecolife",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

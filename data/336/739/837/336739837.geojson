@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.314708,52.092331,4.314708,52.092331",
     "geom:latitude":52.092331,
     "geom:longitude":4.314708,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808153,
+        102191581,
+        1108805961,
         85633337,
         101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_6FCvovN8kCntUhumP6xyzj_52.092331_4.314708@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b6f0674df64eea2099442261ae038631",
+    "wof:geomhash":"c125704cb60fc265d4fc02a116392567",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108805961,
+            "neighbourhood_id":1108808153,
             "region_id":85687041,
             "venue_id":336739837
         }
     ],
     "wof:id":336739837,
-    "wof:lastmodified":1473878430,
+    "wof:lastmodified":1492506347,
     "wof:name":"Pricewaterhousecoopers Nv",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

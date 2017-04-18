@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1122760773,51.8812446594,5.1122760773,51.8812446594",
     "geom:latitude":51.881245,
     "geom:longitude":5.112276,
@@ -23,17 +24,32 @@
     "sg:postcode":"4147 CA",
     "sg:province":"Gelderland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474339,
+        85633337,
+        101808587
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qpkb2HnY10Av7DoWWAW93_51.881245_5.112276@1306270010"
     },
     "wof:country":"NL",
     "wof:created":1473799811,
-    "wof:geomhash":"6dfe53f9dd397619c15d54dbbd4cb460",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82d2f8dcff58efc2f08c7b9876a3e000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474339,
+            "locality_id":101808587,
+            "region_id":85687043,
+            "venue_id":1075830325
+        }
+    ],
     "wof:id":1075830325,
-    "wof:lastmodified":1473879218,
+    "wof:lastmodified":1492485581,
     "wof:name":"Salem",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

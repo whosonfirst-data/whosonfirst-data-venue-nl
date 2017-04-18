@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.856261,52.352818,4.856261,52.352818",
     "geom:latitude":52.352818,
     "geom:longitude":4.856261,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803453,
+        1108802963,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_5Jk5c3cOLt1vcAWy8UFlSl_52.352818_4.856261@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a4c284595d94a500a45baffcd6cf636e",
+    "wof:geomhash":"10f0bc92f31257683b2809edb78d923c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803453,
+            "neighbourhood_id":1108802963,
             "region_id":85687053,
             "venue_id":269760433
         }
     ],
     "wof:id":269760433,
-    "wof:lastmodified":1473879375,
+    "wof:lastmodified":1492495413,
     "wof:name":"Grillrooom La-La",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.400671,52.144547,4.400671,52.144547",
     "geom:latitude":52.144547,
     "geom:longitude":4.400671,
@@ -24,40 +25,41 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797419,
-        85633337,
-        85687041,
         85859711,
-        101754719
+        102191581,
+        404474281,
+        85633337,
+        101754719,
+        85687041,
+        85797419
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TeBH8xfTpgtNLpVJnMDYn_52.144547_4.400671@1306269939"
     },
     "wof:country":"NL",
-    "wof:geomhash":"01005b9112f8a9022a109d1fcffe16ea",
+    "wof:geomhash":"15bd477195abb37b77bd91a7c91fc7c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797419,
+            "localadmin_id":404474281,
+            "locality_id":101754719,
+            "neighbourhood_id":85859711,
             "region_id":85687041,
             "venue_id":236605415
         },
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101754719,
-            "neighbourhood_id":85859711,
+            "neighbourhood_id":85797419,
             "region_id":85687041,
             "venue_id":236605415
         }
     ],
     "wof:id":236605415,
-    "wof:lastmodified":1473879451,
+    "wof:lastmodified":1492492917,
     "wof:name":"J.H. Van Eyk De Lange",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

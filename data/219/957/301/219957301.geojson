@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.832957,52.367958,4.832957,52.367958",
     "geom:latitude":52.367958,
     "geom:longitude":4.832957,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.aes-security.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803489,
+        85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_5yd5ZIejXFWbBGpR3KhK6h_52.367958_4.832957@1306269930"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5e58f29321b7df652077a5dd27768bda",
+    "wof:geomhash":"46750bcd786a3e64b48bcac974e98d00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803489,
+            "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":219957301
         }
     ],
     "wof:id":219957301,
-    "wof:lastmodified":1473879740,
+    "wof:lastmodified":1492502815,
     "wof:name":"Aes",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

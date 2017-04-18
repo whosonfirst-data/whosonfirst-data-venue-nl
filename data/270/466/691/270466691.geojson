@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.293603,52.066666,4.293603,52.066666",
     "geom:latitude":52.066666,
     "geom:longitude":4.293603,
@@ -29,9 +30,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859615,
+        1108808267,
+        102191581,
+        1108805975,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_42v0W1iWJMsq1EmDWwz3B0_52.066666_4.293603@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e1e6cca8ba075176eecd5f758ad91ef5",
+    "wof:geomhash":"08d0baa706161276d1c4f3e0f67fe4c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108805975,
+            "neighbourhood_id":1108808267,
             "region_id":85687041,
             "venue_id":270466691
         }
     ],
     "wof:id":270466691,
-    "wof:lastmodified":1473879279,
+    "wof:lastmodified":1492500521,
     "wof:name":"Koffieshop Wolmaran",
-    "wof:parent_id":85859615,
+    "wof:parent_id":1108808267,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

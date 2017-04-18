@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.106047,52.114899,5.106047,52.114899",
     "geom:latitude":52.114899,
     "geom:longitude":5.106047,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808895,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_0X5wIkYIRcJ4kex96imQv2_52.114899_5.106047@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"868f8912de09b0ca5784c121928bbf87",
+    "wof:geomhash":"748f2570adc40c0be53845be3b391e56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808895,
             "region_id":85687039,
             "venue_id":236439625
         }
     ],
     "wof:id":236439625,
-    "wof:lastmodified":1473879309,
+    "wof:lastmodified":1492494546,
     "wof:name":"Forensisch Medische Maatschap Utrecht",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

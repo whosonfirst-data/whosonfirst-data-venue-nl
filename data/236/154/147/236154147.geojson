@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.931153,52.35968,4.931153,52.35968",
     "geom:latitude":52.35968,
     "geom:longitude":4.931153,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.betronic.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803427,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_5c7FoedmH4dr32iqjV9rsw_52.359680_4.931153@1306269935"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bbf6817c1a423815ae00226b64da7f19",
+    "wof:geomhash":"c58cad3678070dcd6ade8c68a7894c77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803427,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":236154147
         }
     ],
     "wof:id":236154147,
-    "wof:lastmodified":1473878856,
+    "wof:lastmodified":1492492325,
     "wof:name":"Betronic Design Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

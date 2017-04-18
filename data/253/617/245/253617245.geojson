@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.911558,52.357338,4.911558,52.357338",
     "geom:latitude":52.357338,
     "geom:longitude":4.911558,
@@ -29,9 +30,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803279,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +44,24 @@
         "sg:id":"SG_6Maok0vCYAHW6ckE6sVNQa_52.357338_4.911558@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d73859efebf0714d63f425d49f92fec1",
+    "wof:geomhash":"013d51309bedbd3404fd97cdf18bc0d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803279,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":253617245
         }
     ],
     "wof:id":253617245,
-    "wof:lastmodified":1473879688,
+    "wof:lastmodified":1492489936,
     "wof:name":"Dam, Oliehandel A Van",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

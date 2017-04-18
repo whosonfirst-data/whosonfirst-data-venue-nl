@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.889725,52.350346,4.889725,52.350346",
     "geom:latitude":52.350346,
     "geom:longitude":4.889725,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803817,
+        1108802865,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_4MUcjTblfXCAdKnuVNmEA5_52.350346_4.889725@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"54640fa645a84d798c3606f372c13bcc",
+    "wof:geomhash":"5004c8bbeb26ad26a32132b0c826e168",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803817,
+            "neighbourhood_id":1108802865,
             "region_id":85687053,
             "venue_id":269833103
         }
     ],
     "wof:id":269833103,
-    "wof:lastmodified":1473879498,
+    "wof:lastmodified":1492495077,
     "wof:name":"Ciao Mamma Pizza",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

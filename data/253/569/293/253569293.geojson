@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.939189,52.353058,4.939189,52.353058",
     "geom:latitude":52.353058,
     "geom:longitude":4.939189,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804217,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_4G0OfZsR3R45j4gS3SyTBI_52.353058_4.939189@1306269951"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dbaecf6a8bd2090d2fe072a1deb2e209",
+    "wof:geomhash":"a77d8aa24bf7ce0fd34071eba3ffab58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804217,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":253569293
         }
     ],
     "wof:id":253569293,
-    "wof:lastmodified":1473879689,
+    "wof:lastmodified":1492488561,
     "wof:name":"Oostenrijk, Pedicuresalon",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

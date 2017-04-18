@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1090621948,51.6489562988,6.1090621948,51.6489562988",
     "geom:latitude":51.648956,
     "geom:longitude":6.109062,
@@ -24,17 +25,32 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.bemawonen.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474475,
+        85633337,
+        101906733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sJLEWQSPogMtXWRJUbmhF_51.648956_6.109062@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802372,
-    "wof:geomhash":"afce03a74d70df89a34c7f3010475cd2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21cf58371192c5aa0cfd4c2498729911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474475,
+            "locality_id":101906733,
+            "region_id":85687033,
+            "venue_id":1091597411
+        }
+    ],
     "wof:id":1091597411,
-    "wof:lastmodified":1473878916,
+    "wof:lastmodified":1492509798,
     "wof:name":"Bema Wonen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

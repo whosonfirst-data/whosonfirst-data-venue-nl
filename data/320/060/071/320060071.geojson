@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.920271,52.367767,4.920271,52.367767",
     "geom:latitude":52.367767,
     "geom:longitude":4.920271,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804161,
+        1108802879,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_3YGHcEAT5n08gpa5ZOUwz4_52.367767_4.920271@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ec9b7387dd862bf3cd4c45bc76d0f16a",
+    "wof:geomhash":"8b4372dd49f5c01d9c9ad1121ee30bed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108804161,
+            "neighbourhood_id":1108802879,
             "region_id":85687053,
             "venue_id":320060071
         }
     ],
     "wof:id":320060071,
-    "wof:lastmodified":1473878631,
+    "wof:lastmodified":1492483983,
     "wof:name":"Car Control",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

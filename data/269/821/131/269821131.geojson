@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.899716,52.366318,4.899716,52.366318",
     "geom:latitude":52.366318,
     "geom:longitude":4.899716,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803223,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_3gbOpLkA4nSzefLacZN7f0_52.366318_4.899716@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cfb56b5841959cd1b85d3836895ff897",
+    "wof:geomhash":"8b27c32e7cf0f9a1827dd409a433b8f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803223,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":269821131
         }
     ],
     "wof:id":269821131,
-    "wof:lastmodified":1473879502,
+    "wof:lastmodified":1492496292,
     "wof:name":"Grillroom Farao",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

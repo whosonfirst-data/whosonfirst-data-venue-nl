@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.858817,52.37458,4.858817,52.37458",
     "geom:latitude":52.37458,
     "geom:longitude":4.858817,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803849,
+        1108802785,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_6fDJIjoXYREuGRNHvOK54N_52.374580_4.858817@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cffeb162f21fc5fdfb6b3439078deb7e",
+    "wof:geomhash":"3b337d807e7df879b9e19be72d44240d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803849,
+            "neighbourhood_id":1108802785,
             "region_id":85687053,
             "venue_id":270091587
         }
     ],
     "wof:id":270091587,
-    "wof:lastmodified":1473878566,
+    "wof:lastmodified":1492499303,
     "wof:name":"Firma Gebr. Zaalberg",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

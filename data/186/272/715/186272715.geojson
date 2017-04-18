@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.265155,52.073544,4.265155,52.073544",
     "geom:latitude":52.073544,
     "geom:longitude":4.265155,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        1108808211,
+        102191581,
+        1108808125,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2eF9zHuN1NbjcPcRKpL3Al_52.073544_4.265155@1306269911"
     },
     "wof:country":"NL",
-    "wof:geomhash":"89e4bd9610582b3509d413f2b1e66304",
+    "wof:geomhash":"7b23fd4d3c56113dc0ee9f4a0510db70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
+            "macrohood_id":1108808125,
+            "neighbourhood_id":1108808211,
             "region_id":85687041,
             "venue_id":186272715
         }
     ],
     "wof:id":186272715,
-    "wof:lastmodified":1473879150,
+    "wof:lastmodified":1492507351,
     "wof:name":"Fa Vreeburg",
-    "wof:parent_id":85859605,
+    "wof:parent_id":1108808211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

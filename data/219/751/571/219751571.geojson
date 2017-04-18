@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.896056,52.355175,4.896056,52.355175",
     "geom:latitude":52.355175,
     "geom:longitude":4.896056,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803931,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0SAbUZyTfbx6S2NILw3QSN_52.355175_4.896056@1306269928"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5f1272ef5f7b8d83cd194200ba238e55",
+    "wof:geomhash":"4754e89cc830374645ba5826f16d92b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803931,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":219751571
         }
     ],
     "wof:id":219751571,
-    "wof:lastmodified":1473879709,
+    "wof:lastmodified":1492501590,
     "wof:name":"Bwing",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

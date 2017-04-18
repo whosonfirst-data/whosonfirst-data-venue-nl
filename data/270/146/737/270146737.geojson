@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.553054,51.952793,4.553054,51.952793",
     "geom:latitude":51.952793,
     "geom:longitude":4.553054,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hLjUiaOrIpFDyyxY6Ll46_51.952793_4.553054@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d1826056e4e1e2c4697c24b360797f67",
+    "wof:geomhash":"2adf9a36661cc064b94a8c5f5dcec903",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":270146737
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798177,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":270146737,
-    "wof:lastmodified":1473878668,
+    "wof:lastmodified":1492499282,
     "wof:name":"Wesley Jessen Nederland Bv",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

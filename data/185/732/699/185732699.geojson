@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.944247,52.312698,4.944247,52.312698",
     "geom:latitude":52.312698,
     "geom:longitude":4.944247,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.brugman.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797113,
+        1108803417,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_6fXXLFDdY4AetO0uoCLseV_52.312698_4.944247@1306269907"
     },
     "wof:country":"NL",
-    "wof:geomhash":"621a8e7a19b7a2bad727dd0affa03364",
+    "wof:geomhash":"8d7b7e8668337576859638889d92e62d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797113,
+            "locality_id":101751893,
+            "microhood_id":1108803417,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":185732699
         }
     ],
     "wof:id":185732699,
-    "wof:lastmodified":1473878681,
+    "wof:lastmodified":1492488071,
     "wof:name":"Brugman",
-    "wof:parent_id":85797113,
+    "wof:parent_id":1108803417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

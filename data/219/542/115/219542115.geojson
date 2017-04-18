@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.21987,52.046589,4.21987,52.046589",
     "geom:latitude":52.046589,
     "geom:longitude":4.21987,
@@ -25,8 +26,13 @@
     "sg:website":"http://www.aenmderuiter.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859557,
+        1108833209,
+        85797849,
+        102191581,
+        1108808101,
         85633337,
+        101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +40,24 @@
         "sg:id":"SG_4hVYcA3mOybtVWCVots4MZ_52.046589_4.219870@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a2739743694d66bae15bc39743c34bb1",
+    "wof:geomhash":"48b7450f8093b4afe34dad2689894915",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859557,
+            "locality_id":101752763,
+            "macrohood_id":1108808101,
+            "microhood_id":1108833209,
+            "neighbourhood_id":85797849,
             "region_id":85687041,
             "venue_id":219542115
         }
     ],
     "wof:id":219542115,
-    "wof:lastmodified":1473879375,
+    "wof:lastmodified":1492503539,
     "wof:name":"A & M De Ruiter, Bv",
-    "wof:parent_id":85859557,
+    "wof:parent_id":1108833209,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

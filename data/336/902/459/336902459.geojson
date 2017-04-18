@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.895644,52.357224,4.895644,52.357224",
     "geom:latitude":52.357224,
     "geom:longitude":4.895644,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803865,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5LGD7vDYLeylmkQF87vnHG_52.357224_4.895644@1306270007"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b5f485d069c25806dea081155a30d808",
+    "wof:geomhash":"af898ff63bf08b0cec592250cf592d4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803865,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":336902459
         }
     ],
     "wof:id":336902459,
-    "wof:lastmodified":1473878461,
+    "wof:lastmodified":1492507209,
     "wof:name":"Westenberg",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

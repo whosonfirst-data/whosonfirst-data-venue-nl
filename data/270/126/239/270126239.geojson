@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.85501,52.38438,4.85501,52.38438",
     "geom:latitude":52.38438,
     "geom:longitude":4.85501,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803867,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3x6zio5Ytch49fLmuaYDZk_52.384380_4.855010@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"46603bc6ebd246da9f15a44124f9dd64",
+    "wof:geomhash":"63ea2d8072a829ce9fb506c4cee144a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803867,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":270126239
         }
     ],
     "wof:id":270126239,
-    "wof:lastmodified":1473878632,
+    "wof:lastmodified":1492500830,
     "wof:name":"Sahetapy, Mirella",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803867,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

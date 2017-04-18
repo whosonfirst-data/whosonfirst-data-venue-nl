@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.896105,52.343231,4.896105,52.343231",
     "geom:latitude":52.343231,
     "geom:longitude":4.896105,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803985,
+        1108802897,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1PBHAHplE3QhLQ6mWSZ7vW_52.343231_4.896105@1306269976"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f5369de3e4568b3a3fde16534895cc59",
+    "wof:geomhash":"3770dc09d9d6d96e23cd01e21ce73b29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108803985,
+            "neighbourhood_id":1108802897,
             "region_id":85687053,
             "venue_id":287100105
         }
     ],
     "wof:id":287100105,
-    "wof:lastmodified":1473878802,
+    "wof:lastmodified":1492513535,
     "wof:name":"Smit Bloembinderij",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803985,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

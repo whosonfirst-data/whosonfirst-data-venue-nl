@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.97979,52.330399,4.97979,52.330399",
     "geom:latitude":52.330399,
     "geom:longitude":4.97979,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797431,
+        1108803325,
+        1108802543,
+        102191581,
+        1108807145,
         85633337,
         101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1W7ni32QTLPSqnVjwZ31PO_52.330399_4.979790@1306269975"
     },
     "wof:country":"NL",
-    "wof:geomhash":"02648d1523a54fd22788aec5c5bb4f3b",
+    "wof:geomhash":"2622bf4dd00f9d8a8c66ab468a680316",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797431,
+            "macrohood_id":1108807145,
+            "microhood_id":1108803325,
+            "neighbourhood_id":1108802543,
             "region_id":85687053,
             "venue_id":286965425
         }
     ],
     "wof:id":286965425,
-    "wof:lastmodified":1473879705,
+    "wof:lastmodified":1492477792,
     "wof:name":"Tuincentra De Boer Vof",
-    "wof:parent_id":85797431,
+    "wof:parent_id":1108803325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

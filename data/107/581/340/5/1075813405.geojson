@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7515258789,51.8313369751,4.7515258789,51.8313369751",
     "geom:latitude":51.831337,
     "geom:longitude":4.751526,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.connexxion.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474257,
+        85633337,
+        101754745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ueg28nPrOZ14gLr8i6S1e_51.831337_4.751526@1306270008"
     },
     "wof:country":"NL",
     "wof:created":1473798829,
-    "wof:geomhash":"c0d04d3501775fac1f0e68d749af3cc8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a00a0b1948e1412b32456a7627fda04e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474257,
+            "locality_id":101754745,
+            "region_id":85687041,
+            "venue_id":1075813405
+        }
+    ],
     "wof:id":1075813405,
-    "wof:lastmodified":1473878931,
+    "wof:lastmodified":1492486379,
     "wof:name":"Connexxion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.896308,52.36388,4.896308,52.36388",
     "geom:latitude":52.36388,
     "geom:longitude":4.896308,
@@ -29,9 +30,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803805,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_6zwKNrllpMiXUX61oGBpEd_52.363880_4.896308@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1dab901dc82d079890ae15597f749882",
+    "wof:geomhash":"ada4aa6bb58cfad1b910d928bed2a487",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803805,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":304066711
         }
     ],
     "wof:id":304066711,
-    "wof:lastmodified":1473878757,
+    "wof:lastmodified":1492504625,
     "wof:name":"Hotel 7 Bridges Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

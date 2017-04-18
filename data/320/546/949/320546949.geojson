@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.293266,52.082012,4.293266,52.082012",
     "geom:latitude":52.082012,
     "geom:longitude":4.293266,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_55Dv4Wju79nvvAYRi1aVtc_52.082012_4.293266@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"91967ef71449a837e50c4facf89a761a",
+    "wof:geomhash":"643aa8de57517eae814b40309ef6287d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":320546949
         }
     ],
     "wof:id":320546949,
-    "wof:lastmodified":1473879400,
+    "wof:lastmodified":1492482452,
     "wof:name":"C A Heerings",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

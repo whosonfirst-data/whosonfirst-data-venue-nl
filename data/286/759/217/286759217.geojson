@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.566863,53.218113,6.566863,53.218113",
     "geom:latitude":53.218113,
     "geom:longitude":6.566863,
@@ -24,10 +25,12 @@
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797835,
         85633337,
+        85797835,
         85687059,
         85797417,
+        102191581,
+        404473713,
         101751909
     ],
     "wof:breaches":[],
@@ -35,19 +38,18 @@
         "sg:id":"SG_1tXLhqjUtDzyZt5t63Shym_53.218113_6.566863@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6f8f1875bc2e119907acf11790aabf47",
+    "wof:geomhash":"d5240e7d510aaacd9d8dccc759a03539",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85797835,
             "region_id":85687059,
             "venue_id":286759217
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473713,
             "locality_id":101751909,
             "neighbourhood_id":85797417,
             "region_id":85687059,
@@ -55,9 +57,9 @@
         }
     ],
     "wof:id":286759217,
-    "wof:lastmodified":1473879542,
+    "wof:lastmodified":1492475997,
     "wof:name":"Cinema",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

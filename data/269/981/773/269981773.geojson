@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.857277,52.359573,4.857277,52.359573",
     "geom:latitude":52.359573,
     "geom:longitude":4.857277,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803855,
+        1108802893,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2QrhQzmwBa6rZj8ZyUV2PC_52.359573_4.857277@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"57ffb07974fd351f49d1188039b66979",
+    "wof:geomhash":"4c053b6053137d2e2a9527543ee61547",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803855,
+            "neighbourhood_id":1108802893,
             "region_id":85687053,
             "venue_id":269981773
         }
     ],
     "wof:id":269981773,
-    "wof:lastmodified":1473879592,
+    "wof:lastmodified":1492496684,
     "wof:name":"Morpheus Bv",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

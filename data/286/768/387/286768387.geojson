@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.917994,52.354435,4.917994,52.354435",
     "geom:latitude":52.354435,
     "geom:longitude":4.917994,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803773,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_23SMgtLFwCmdc431IUjFfo_52.354435_4.917994@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"83ae96f6ca14746a79238b1bdf490afb",
+    "wof:geomhash":"b2849a0536ba939482aba8378def8176",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803773,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":286768387
         }
     ],
     "wof:id":286768387,
-    "wof:lastmodified":1473879549,
+    "wof:lastmodified":1492477426,
     "wof:name":"Buro Ivo Van Der Lugt",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.793117,52.341164,4.793117,52.341164",
     "geom:latitude":52.341164,
     "geom:longitude":4.793117,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803689,
+        1108802857,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4YFFekJL3fa5CbwUkj0tp6_52.341164_4.793117@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"be2e67d4d846aa3b99cd485535d9bff6",
+    "wof:geomhash":"a5be40f495759e433ac03eb534a6f9b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803689,
+            "neighbourhood_id":1108802857,
             "region_id":85687053,
             "venue_id":286754569
         }
     ],
     "wof:id":286754569,
-    "wof:lastmodified":1473879544,
+    "wof:lastmodified":1492475390,
     "wof:name":"Cafe Bistro De Halve Maan",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.823375,52.359093,4.823375,52.359093",
     "geom:latitude":52.359093,
     "geom:longitude":4.823375,
@@ -24,41 +25,36 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803877,
+        85798403,
+        102191581,
         85633337,
         101751893,
-        85687053,
-        85798207,
-        101754789
+        1108802279,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fDduHJVfmnqXU8aPbbqr0_52.359093_4.823375@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"786c5c2aa4fbc9cbe5c4469b2a059294",
+    "wof:geomhash":"a27cf3dd21de07e20ce8e37722669799",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
-            "region_id":85687053,
-            "venue_id":186473509
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "microhood_id":1108803877,
+            "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":186473509
         }
     ],
     "wof:id":186473509,
-    "wof:lastmodified":1473879504,
+    "wof:lastmodified":1492507912,
     "wof:name":"Palladion",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108803877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

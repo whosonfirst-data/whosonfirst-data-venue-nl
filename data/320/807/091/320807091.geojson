@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.926363,52.389423,4.926363,52.389423",
     "geom:latitude":52.389423,
     "geom:longitude":4.926363,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803811,
+        1108802839,
+        102191581,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3M9pMEyimAUGccKn3QCLZM_52.389423_4.926363@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"783e969e01c2f113fc1c98342dfdf8ce",
+    "wof:geomhash":"c1f66ab843bed93d2aa55cf01be96412",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803811,
+            "neighbourhood_id":1108802839,
             "region_id":85687053,
             "venue_id":320807091
         }
     ],
     "wof:id":320807091,
-    "wof:lastmodified":1473879605,
+    "wof:lastmodified":1492483597,
     "wof:name":"Vliegenbos Vof",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

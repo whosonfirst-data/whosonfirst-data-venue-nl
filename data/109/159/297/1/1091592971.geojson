@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6630911827,52.3018875122,4.6630911827,52.3018875122",
     "geom:latitude":52.301888,
     "geom:longitude":4.663091,
@@ -23,17 +24,32 @@
     "sg:postcode":"2135 DS",
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474065,
+        85633337,
+        101751899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BWLhzbIwr5NCfJOm5frWv_52.301888_4.663091@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802101,
-    "wof:geomhash":"cd29ea13eada70372b44960ca9dda0f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81d7f41ee3331eaaa1740fdaf1cd5f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474065,
+            "locality_id":101751899,
+            "region_id":85687053,
+            "venue_id":1091592971
+        }
+    ],
     "wof:id":1091592971,
-    "wof:lastmodified":1473878641,
+    "wof:lastmodified":1492509832,
     "wof:name":"Ridder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

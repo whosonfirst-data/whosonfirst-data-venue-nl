@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.976286,52.295727,4.976286,52.295727",
     "geom:latitude":52.295727,
     "geom:longitude":4.976286,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803199,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1zse2l9JlHRqQRZfnxMyJI_52.295727_4.976286@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7e2cb78d42026d1557c13635c67bdd7c",
+    "wof:geomhash":"fc955de24de2365edcd50c8ab8950ba5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803199,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":320767177
         }
     ],
     "wof:id":320767177,
-    "wof:lastmodified":1473879615,
+    "wof:lastmodified":1492483085,
     "wof:name":"Kaaspaleis",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803199,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

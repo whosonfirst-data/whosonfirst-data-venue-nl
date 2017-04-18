@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.317856,52.07135,4.317856,52.07135",
     "geom:latitude":52.07135,
     "geom:longitude":4.317856,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808243,
+        102191581,
+        1108808123,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2DjEbPOG742YdiwlXi9ML4_52.071350_4.317856@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"57c254d608c63b3ee07d5140b514de4e",
+    "wof:geomhash":"9dbaf6b2b170481b0c0ec716214978f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808123,
+            "neighbourhood_id":1108808243,
             "region_id":85687041,
             "venue_id":236365175
         }
     ],
     "wof:id":236365175,
-    "wof:lastmodified":1473879220,
+    "wof:lastmodified":1492492971,
     "wof:name":"Ir Hans Van Mourik",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

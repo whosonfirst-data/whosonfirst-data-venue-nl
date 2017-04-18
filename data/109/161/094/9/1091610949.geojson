@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8347158432,52.4550323486,5.8347158432,52.4550323486",
     "geom:latitude":52.455032,
     "geom:longitude":5.834716,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.oudholland.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473895,
+        85633337,
+        101837785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fOEt5gzNGQQC04hztPk6Y_52.455032_5.834716@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803444,
-    "wof:geomhash":"49552bf4249ec9ec3125c37583d9575b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0bb8be121bdba8e260ef2c351362f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473895,
+            "locality_id":101837785,
+            "region_id":85687043,
+            "venue_id":1091610949
+        }
+    ],
     "wof:id":1091610949,
-    "wof:lastmodified":1473878540,
+    "wof:lastmodified":1492510381,
     "wof:name":"Oudholland Elburg Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

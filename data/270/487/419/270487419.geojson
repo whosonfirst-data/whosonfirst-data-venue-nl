@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.93181,52.394508,4.93181,52.394508",
     "geom:latitude":52.394508,
     "geom:longitude":4.93181,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803449,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_0j9sH38h1SPS2ecx2f6xwn_52.394508_4.931810@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"85f094adc1d94e2b9c71bfef075e95a4",
+    "wof:geomhash":"717d6b34d44c8abdd90fb8fa1c7d9279",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803449,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":270487419
         }
     ],
     "wof:id":270487419,
-    "wof:lastmodified":1473879335,
+    "wof:lastmodified":1492500236,
     "wof:name":"C.F. Capelleschool",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803449,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

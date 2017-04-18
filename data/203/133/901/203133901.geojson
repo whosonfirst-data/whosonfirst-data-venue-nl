@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.832269,52.372532,4.832269,52.372532",
     "geom:latitude":52.372532,
     "geom:longitude":4.832269,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803291,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5owImW8CYJJaFj6xSK3zzG_52.372532_4.832269@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"198733b94e77210eb8ad62e2c95ee5c2",
+    "wof:geomhash":"227f719f14b34cb57b81f23a94ee7bf6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "macrohood_id":1108802303,
+            "microhood_id":1108803291,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":203133901
         }
     ],
     "wof:id":203133901,
-    "wof:lastmodified":1473878974,
+    "wof:lastmodified":1492480058,
     "wof:name":"Firet Ass. Bemidellingskantoor",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

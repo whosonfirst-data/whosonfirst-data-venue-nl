@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.941796,52.404358,4.941796,52.404358",
     "geom:latitude":52.404358,
     "geom:longitude":4.941796,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804307,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_76CrNSIqwmT9Vc5sj3D1do_52.404358_4.941796@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"10cd79f14984f553471256e33126efab",
+    "wof:geomhash":"29536b8e385bb02cb1909afd8dd2d3c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804307,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":203145189
         }
     ],
     "wof:id":203145189,
-    "wof:lastmodified":1473879008,
+    "wof:lastmodified":1492481037,
     "wof:name":"Husmann Assurantie Groep Bv",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108804307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

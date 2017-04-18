@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.795655,52.379581,4.795655,52.379581",
     "geom:latitude":52.379581,
     "geom:longitude":4.795655,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803619,
         85797579,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3nJfotDx64kGihSaQ7lfVc_52.379581_4.795655@1306269988"
     },
     "wof:country":"NL",
-    "wof:geomhash":"50477fc64e50809fce3e36e691535d28",
+    "wof:geomhash":"c6ea34ab1a468de5b5ed53c4f2538ccf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803619,
             "neighbourhood_id":85797579,
             "region_id":85687053,
             "venue_id":303842307
         }
     ],
     "wof:id":303842307,
-    "wof:lastmodified":1473879599,
+    "wof:lastmodified":1492471209,
     "wof:name":"Wennex Comp",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108803619,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

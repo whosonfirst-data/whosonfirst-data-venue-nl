@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6633858681,51.9673156738,5.6633858681,51.9673156738",
     "geom:latitude":51.967316,
     "geom:longitude":5.663386,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.matser.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473947,
+        85633337,
+        101837813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mNy0z2sV7HGgY4VWg4hIT_51.967316_5.663386@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802495,
-    "wof:geomhash":"2812b2456ddc6432d9a181a7362bc52f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41e97670d5488ccd09df82dd5fd2d72c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473947,
+            "locality_id":101837813,
+            "region_id":85687043,
+            "venue_id":1091599523
+        }
+    ],
     "wof:id":1091599523,
-    "wof:lastmodified":1473879045,
+    "wof:lastmodified":1492509592,
     "wof:name":"Matser 'T Wonen Ten Toon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

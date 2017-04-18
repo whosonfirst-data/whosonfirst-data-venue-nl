@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.862707,52.351086,4.862707,52.351086",
     "geom:latitude":52.351086,
     "geom:longitude":4.862707,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803373,
+        1108802963,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1H6Yyq0PuRFO6MnRDlxlD8_52.351086_4.862707@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5b8c04341bfed0a2e078860e008eeae2",
+    "wof:geomhash":"6eafaf3731fcffa0ad7555b9914fe7c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803373,
+            "neighbourhood_id":1108802963,
             "region_id":85687053,
             "venue_id":219348201
         }
     ],
     "wof:id":219348201,
-    "wof:lastmodified":1473879019,
+    "wof:lastmodified":1492502822,
     "wof:name":"Tom Janssen",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803373,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

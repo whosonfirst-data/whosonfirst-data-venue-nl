@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.864337,52.355202,4.864337,52.355202",
     "geom:latitude":52.355202,
     "geom:longitude":4.864337,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803453,
+        1108802963,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6qOUEifOxhXUFAnAtc0xSE_52.355202_4.864337@1306269971"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fef36f9b63c8747920b3709341dc935c",
+    "wof:geomhash":"3b56460cd90d51f933879e9dd31f9aa6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803453,
+            "neighbourhood_id":1108802963,
             "region_id":85687053,
             "venue_id":286625981
         }
     ],
     "wof:id":286625981,
-    "wof:lastmodified":1473879276,
+    "wof:lastmodified":1492476437,
     "wof:name":"Krol",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

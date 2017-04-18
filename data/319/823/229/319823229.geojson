@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.896767,52.37479,4.896767,52.37479",
     "geom:latitude":52.37479,
     "geom:longitude":4.896767,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803787,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_55jXGK4oR7sxCQRYOqAoNE_52.374790_4.896767@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7ba96376a785df499b25d1d7f728e27d",
+    "wof:geomhash":"d436a2ae153cbf11cac16ef4ac6c6616",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803787,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":319823229
         }
     ],
     "wof:id":319823229,
-    "wof:lastmodified":1473878513,
+    "wof:lastmodified":1492479337,
     "wof:name":"Travel",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

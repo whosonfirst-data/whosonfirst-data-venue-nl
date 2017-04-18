@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.287305,52.025951,4.287305,52.025951",
     "geom:latitude":52.025951,
     "geom:longitude":4.287305,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859597,
+        1108808323,
+        102191581,
+        1108808069,
         85633337,
-        101754721,
+        101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1ZGZvXZc2APv1P5N2y0mGH_52.025951_4.287305@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bb2d57e9eac6f0ed6e6060e05128ad90",
+    "wof:geomhash":"8938932932ce6e23fede1daa68130f0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754721,
-            "neighbourhood_id":85859597,
+            "locality_id":101752763,
+            "macrohood_id":1108808069,
+            "neighbourhood_id":1108808323,
             "region_id":85687041,
             "venue_id":203155841
         }
     ],
     "wof:id":203155841,
-    "wof:lastmodified":1473879015,
+    "wof:lastmodified":1492480810,
     "wof:name":"Kfa Assurantiebeheer",
-    "wof:parent_id":85859597,
+    "wof:parent_id":1108808323,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

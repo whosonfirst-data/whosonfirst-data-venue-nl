@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9951581955,51.5478858948,5.9951581955,51.5478858948",
     "geom:latitude":51.547886,
     "geom:longitude":5.995158,
@@ -24,17 +25,30 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.xerox.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474527,
+        85633337,
+        85687033
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZHOLqF7sbvQ4N9eFYpLmR_51.547886_5.995158@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803784,
-    "wof:geomhash":"2d91cfc1b7a81a7e7283da0036fb525c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16ae7c54e28b21b75b102ddaf070ddcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474527,
+            "region_id":85687033,
+            "venue_id":1091617507
+        }
+    ],
     "wof:id":1091617507,
-    "wof:lastmodified":1473878924,
+    "wof:lastmodified":1492510410,
     "wof:name":"Xerox",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

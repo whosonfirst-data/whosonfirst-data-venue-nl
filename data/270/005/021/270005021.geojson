@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.901551,52.334019,4.901551,52.334019",
     "geom:latitude":52.334019,
     "geom:longitude":4.901551,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804303,
+        1108802895,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_07mj4HjUeIF1vv42QFZjuV_52.334019_4.901551@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"45a6c560e3d1b637b194b50047a76f60",
+    "wof:geomhash":"a3c928adc2f32c7905577e09d5eecc5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108804303,
+            "neighbourhood_id":1108802895,
             "region_id":85687053,
             "venue_id":270005021
         }
     ],
     "wof:id":270005021,
-    "wof:lastmodified":1473878496,
+    "wof:lastmodified":1492499964,
     "wof:name":"Kempers Belastingadviseurs Bv",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

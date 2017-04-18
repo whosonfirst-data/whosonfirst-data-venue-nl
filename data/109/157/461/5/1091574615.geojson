@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6656842232,52.1452407837,4.6656842232,52.1452407837",
     "geom:latitude":52.145241,
     "geom:longitude":4.665684,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.qrs-systems.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474147,
+        85633337,
+        101751837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OHth9ZOKkXTXaIYC82WVb_52.145241_4.665684@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800765,
-    "wof:geomhash":"665ffb30bb22ae3b114447b325279a58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e4b8a64cc1232fd8c7dd94398780814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474147,
+            "locality_id":101751837,
+            "region_id":85687041,
+            "venue_id":1091574615
+        }
+    ],
     "wof:id":1091574615,
-    "wof:lastmodified":1473878792,
+    "wof:lastmodified":1492511327,
     "wof:name":"Qrs Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

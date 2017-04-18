@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7975029945,53.0537643433,4.7975029945,53.0537643433",
     "geom:latitude":53.053764,
     "geom:longitude":4.797503,
@@ -23,17 +24,32 @@
     "sg:postcode":"1791 CC",
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474115,
+        85633337,
+        101806069
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eQcF0CqYMnmpqepjWjo7p_53.053764_4.797503@1306270010"
     },
     "wof:country":"NL",
     "wof:created":1473799905,
-    "wof:geomhash":"c1ad09070c0de067f25e8deb069954e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"910bc14f635fbb25dc7cb5ff00a97970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474115,
+            "locality_id":101806069,
+            "region_id":85687053,
+            "venue_id":1075832193
+        }
+    ],
     "wof:id":1075832193,
-    "wof:lastmodified":1473879309,
+    "wof:lastmodified":1492485725,
     "wof:name":"Gemeente Texel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

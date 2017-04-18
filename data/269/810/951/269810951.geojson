@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.29004,52.080334,4.29004,52.080334",
     "geom:latitude":52.080334,
     "geom:longitude":4.29004,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_0GgbEeFWkgnEJWf3qjdLM6_52.080334_4.290040@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dc062f1cc15c70b4a4089d9070784e98",
+    "wof:geomhash":"351de0bc6d65dbe3f91ccd9815ce4734",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":269810951
         }
     ],
     "wof:id":269810951,
-    "wof:lastmodified":1473879512,
+    "wof:lastmodified":1492496845,
     "wof:name":"Aziatisch Restaurant Asia",
-    "wof:parent_id":85859605,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.83265,52.353188,4.83265,52.353188",
     "geom:latitude":52.353188,
     "geom:longitude":4.83265,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803769,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4jEzOtWJirkFwueGJLJubl_52.353188_4.832650@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"73e9cf517d9d94dadd54e91695068586",
+    "wof:geomhash":"619be0c8f072e8cd74d6badbcf14229c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803769,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":185952233
         }
     ],
     "wof:id":185952233,
-    "wof:lastmodified":1473878980,
+    "wof:lastmodified":1492487576,
     "wof:name":"Blauwe Bosmier, De",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

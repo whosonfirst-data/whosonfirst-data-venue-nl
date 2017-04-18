@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.320148,52.090214,4.320148,52.090214",
     "geom:latitude":52.090214,
     "geom:longitude":4.320148,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797091,
+        1108808143,
+        102191581,
+        1108805961,
         85633337,
         101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_7dRkTENxTdrz6ciTnPU6P7_52.090214_4.320148@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"769d9fc1229c185c03b051e195c71086",
+    "wof:geomhash":"0386fa88d36196ec0bc8691e7ec7bd27",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797091,
+            "macrohood_id":1108805961,
+            "neighbourhood_id":1108808143,
             "region_id":85687041,
             "venue_id":202539001
         }
     ],
     "wof:id":202539001,
-    "wof:lastmodified":1473878889,
+    "wof:lastmodified":1492498362,
     "wof:name":"Videotheek Leo",
-    "wof:parent_id":85797091,
+    "wof:parent_id":1108808143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

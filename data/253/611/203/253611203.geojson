@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.349504,52.065556,4.349504,52.065556",
     "geom:latitude":52.065556,
     "geom:longitude":4.349504,
@@ -25,28 +26,46 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859633,
+        102191581,
+        1108808077,
         85633337,
         101752763,
-        85687041
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QbGVHAlPgEz5WNR575UjP_52.065556_4.349504@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8534a08b733d3fdf06a2f7131cfbbe0a",
+    "wof:geomhash":"f190a3b4fc2bfb7a7aa82627b8bb803c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808077,
+            "neighbourhood_id":85859633,
+            "region_id":85687041,
+            "venue_id":253611203
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
+            "locality_id":101754743,
+            "macrohood_id":1108808077,
             "neighbourhood_id":85859633,
             "region_id":85687041,
             "venue_id":253611203
         }
     ],
     "wof:id":253611203,
-    "wof:lastmodified":1473879681,
+    "wof:lastmodified":1492488236,
     "wof:name":"Nv Gemengd Bedrijf Haagsche Tramwegmaatschappij Ht",
     "wof:parent_id":85859633,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.895342,52.326168,4.895342,52.326168",
     "geom:latitude":52.326168,
     "geom:longitude":4.895342,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803731,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1ECEXu8fUdMmVXyS3shi7o_52.326168_4.895342@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0a6e4a810c007711c2b36253fad6935c",
+    "wof:geomhash":"3d1634ac1853818f0f1dbe4a781709c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803731,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":236244981
         }
     ],
     "wof:id":236244981,
-    "wof:lastmodified":1473879043,
+    "wof:lastmodified":1492494476,
     "wof:name":"Consulaat Van Togo",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

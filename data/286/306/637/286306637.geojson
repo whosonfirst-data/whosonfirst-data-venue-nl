@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.265635,52.064041,4.265635,52.064041",
     "geom:latitude":52.064041,
     "geom:longitude":4.265635,
@@ -34,8 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859591,
+        102191581,
+        1108808107,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -43,19 +47,21 @@
         "sg:id":"SG_5XabbJLZFz4SQWIDeLH4b0_52.064041_4.265635@1306269967"
     },
     "wof:country":"NL",
-    "wof:geomhash":"59dfdc9f523109a048c0a591650d30cb",
+    "wof:geomhash":"c840b95008217a7df692e72cefee14ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808107,
             "neighbourhood_id":85859591,
             "region_id":85687041,
             "venue_id":286306637
         }
     ],
     "wof:id":286306637,
-    "wof:lastmodified":1473878710,
+    "wof:lastmodified":1492475235,
     "wof:name":"Peuterspeelzaal Pino",
     "wof:parent_id":85859591,
     "wof:placetype":"venue",

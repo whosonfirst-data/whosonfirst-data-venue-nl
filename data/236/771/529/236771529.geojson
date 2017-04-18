@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.84068,52.362488,4.84068,52.362488",
     "geom:latitude":52.362488,
     "geom:longitude":4.84068,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803301,
         85798223,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3BqndcvhYGuyPhnkdafDLL_52.362488_4.840680@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"291d3936a1e55c6a6cc60f211b91390d",
+    "wof:geomhash":"33501174b01d5855dd21fe33a8f93e13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803301,
             "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":236771529
         }
     ],
     "wof:id":236771529,
-    "wof:lastmodified":1473879532,
+    "wof:lastmodified":1492492130,
     "wof:name":"Gerritsen, Verkeersschool",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

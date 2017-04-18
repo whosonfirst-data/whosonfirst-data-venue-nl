@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.867606,52.360992,4.867606,52.360992",
     "geom:latitude":52.360992,
     "geom:longitude":4.867606,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803347,
+        1108802821,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1ePxsuaO6MnVbnTusGpfkB_52.360992_4.867606@1306269954"
     },
     "wof:country":"NL",
-    "wof:geomhash":"40833872f67f782f187e755ce3816a04",
+    "wof:geomhash":"e93d6195a221126b587a6d33d6e56828",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803347,
+            "neighbourhood_id":1108802821,
             "region_id":85687053,
             "venue_id":269570867
         }
     ],
     "wof:id":269570867,
-    "wof:lastmodified":1473878919,
+    "wof:lastmodified":1492495147,
     "wof:name":"Pottery",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803347,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

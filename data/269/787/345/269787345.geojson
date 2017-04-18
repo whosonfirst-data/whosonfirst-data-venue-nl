@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.297623,52.066616,4.297623,52.066616",
     "geom:latitude":52.066616,
     "geom:longitude":4.297623,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859615,
+        1108808269,
+        102191581,
+        1108805975,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_09d2gSFCYv4BZk8DC7vqJc_52.066616_4.297623@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"885a3e16e7d81e50c8b1c489591d7cf3",
+    "wof:geomhash":"935bf619e53a840157a6d16de572c36b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108805975,
+            "neighbourhood_id":1108808269,
             "region_id":85687041,
             "venue_id":269787345
         }
     ],
     "wof:id":269787345,
-    "wof:lastmodified":1473879463,
+    "wof:lastmodified":1492495015,
     "wof:name":"Snackbar N.E. Gillisse",
-    "wof:parent_id":85859615,
+    "wof:parent_id":1108808269,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

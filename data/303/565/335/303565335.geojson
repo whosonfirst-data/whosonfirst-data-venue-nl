@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.312388,52.071259,4.312388,52.071259",
     "geom:latitude":52.071259,
     "geom:longitude":4.312388,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798385,
+        1108808243,
+        102191581,
+        1108808123,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2FzPSaZlZQ9X5pHySGe03S_52.071259_4.312388@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"afccdd3f066fd7320e85a359cee458f8",
+    "wof:geomhash":"970aee416d3284f8242a8b8d6ac6f003",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798385,
+            "macrohood_id":1108808123,
+            "neighbourhood_id":1108808243,
             "region_id":85687041,
             "venue_id":303565335
         }
     ],
     "wof:id":303565335,
-    "wof:lastmodified":1473879296,
+    "wof:lastmodified":1492471417,
     "wof:name":"Modehuis Ricochet",
-    "wof:parent_id":85798385,
+    "wof:parent_id":1108808243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

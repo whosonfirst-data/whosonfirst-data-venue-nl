@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880993,52.374222,4.880993,52.374222",
     "geom:latitude":52.374222,
     "geom:longitude":4.880993,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803831,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3230srvoHO03Xbk7lVoxU4_52.374222_4.880993@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a80bcef31e4927d80cc56c199c32014b",
+    "wof:geomhash":"da591c958db7d9195649a7be9868339e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803831,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":253534277
         }
     ],
     "wof:id":253534277,
-    "wof:lastmodified":1473879685,
+    "wof:lastmodified":1492490747,
     "wof:name":"M. Lowensteyn",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

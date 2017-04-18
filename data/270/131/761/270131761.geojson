@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.897542,52.373497,4.897542,52.373497",
     "geom:latitude":52.373497,
     "geom:longitude":4.897542,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803787,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6LKepXajirGVJut328czyX_52.373497_4.897542@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a8a7da12ca1894c990f23e9701d721f5",
+    "wof:geomhash":"4d572f5d74ca76b68e86b5efb3eeec74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803787,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":270131761
         }
     ],
     "wof:id":270131761,
-    "wof:lastmodified":1473878626,
+    "wof:lastmodified":1492500253,
     "wof:name":"Beek, Van",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

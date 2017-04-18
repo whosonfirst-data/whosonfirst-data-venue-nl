@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.532877,51.918415,4.532877,51.918415",
     "geom:latitude":51.918415,
     "geom:longitude":4.532877,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859923,
+        1108805803,
+        102191581,
+        1108805667,
         85633337,
-        101754669,
+        101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5cVibDAxlSAmizX5ocIWRP_51.918415_4.532877@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b11b343680e36f1b021ee76b4d025ea5",
+    "wof:geomhash":"c25ecf36ee28cba8f7064232690e154d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754669,
-            "neighbourhood_id":85859923,
+            "locality_id":101751843,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805803,
             "region_id":85687041,
             "venue_id":203167167
         }
     ],
     "wof:id":203167167,
-    "wof:lastmodified":1473879043,
+    "wof:lastmodified":1492479824,
     "wof:name":"Nausch Hogan & Murray Europe",
-    "wof:parent_id":85859923,
+    "wof:parent_id":1108805803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

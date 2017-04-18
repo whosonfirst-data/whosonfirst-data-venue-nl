@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.236542,52.04546,4.236542,52.04546",
     "geom:latitude":52.04546,
     "geom:longitude":4.236542,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859581,
+        85797849,
+        102191581,
+        1108808101,
         85633337,
         101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0G8DIDHuQvlo05nOFOG4DQ_52.045460_4.236542@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7861e5c099a4f5f20d0b426f20239164",
+    "wof:geomhash":"d6ba420dfb485bc4579fb11da3974cc7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859581,
+            "macrohood_id":1108808101,
+            "neighbourhood_id":85797849,
             "region_id":85687041,
             "venue_id":236368795
         }
     ],
     "wof:id":236368795,
-    "wof:lastmodified":1473879231,
+    "wof:lastmodified":1492493543,
     "wof:name":"Oba Business Architects",
-    "wof:parent_id":85859581,
+    "wof:parent_id":85797849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

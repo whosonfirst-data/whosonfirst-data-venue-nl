@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.889633,52.372086,4.889633,52.372086",
     "geom:latitude":52.372086,
     "geom:longitude":4.889633,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803247,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4HtKIly1xgh1eT4Q3f5J4I_52.372086_4.889633@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3eeae38714f3d75295b832bdbdc01a22",
+    "wof:geomhash":"309a83ecdab342ec63cc8ae07ac3e3cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803247,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":186519613
         }
     ],
     "wof:id":186519613,
-    "wof:lastmodified":1473879566,
+    "wof:lastmodified":1492508888,
     "wof:name":"Tibet",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

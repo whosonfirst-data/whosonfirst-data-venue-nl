@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.910435,52.356407,4.910435,52.356407",
     "geom:latitude":52.356407,
     "geom:longitude":4.910435,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803889,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5eCWJgGDhb8vsbnBJR7cyo_52.356407_4.910435@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"68225f9d4099630bab3dd2b2d5d2fc20",
+    "wof:geomhash":"9888564427395b2269ce16f2bf469c43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803889,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":320245231
         }
     ],
     "wof:id":320245231,
-    "wof:lastmodified":1473879097,
+    "wof:lastmodified":1492483181,
     "wof:name":"Pikieng Nanga Grang Vanodoe Oso",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

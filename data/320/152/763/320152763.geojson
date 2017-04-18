@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.780632,52.390911,4.780632,52.390911",
     "geom:latitude":52.390911,
     "geom:longitude":4.780632,
@@ -35,8 +36,12 @@
     "sg:website":"http://www.geldnet.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798675,
+        1108804105,
+        1108802535,
+        102191581,
         85633337,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +49,23 @@
         "sg:id":"SG_2kVqbe7SyYn5CfizIlbBym_52.390911_4.780632@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"97da0d6fdbd5da692c94dfe50579dcfd",
+    "wof:geomhash":"1d18cdaa8666c4cd8b59693d6bc9e616",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798675,
+            "locality_id":101751893,
+            "microhood_id":1108804105,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":320152763
         }
     ],
     "wof:id":320152763,
-    "wof:lastmodified":1473879016,
+    "wof:lastmodified":1492485315,
     "wof:name":"Geldnet Amsterdam",
-    "wof:parent_id":85798675,
+    "wof:parent_id":1108804105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

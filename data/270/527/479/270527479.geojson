@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.303159,52.064476,4.303159,52.064476",
     "geom:latitude":52.064476,
     "geom:longitude":4.303159,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859615,
+        1108808259,
+        102191581,
+        1108808035,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_4zBMCdk9LFEbsEa2suJkjj_52.064476_4.303159@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ce3c4253c1ffae8ec9d14b5366ecdaf9",
+    "wof:geomhash":"602078a52f843e9f4100c93298efc895",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808259,
             "region_id":85687041,
             "venue_id":270527479
         }
     ],
     "wof:id":270527479,
-    "wof:lastmodified":1473879421,
+    "wof:lastmodified":1492500038,
     "wof:name":"Het Spectrum",
-    "wof:parent_id":85859615,
+    "wof:parent_id":1108808259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

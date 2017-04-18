@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5212187767,51.9135131836,4.5212187767,51.9135131836",
     "geom:latitude":51.913513,
     "geom:longitude":4.521219,
@@ -24,15 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797523,
+        85859899,
         102191581,
-        404474245,
         85633337,
         101751843,
-        85687041,
-        85859899,
-        404474163,
-        101754669
+        1108805719,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,31 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473803866,
-    "wof:geomhash":"f71302bfa1cc19efa2194ce6606d0093",
+    "wof:geomhash":"f64c5052d4effac25b41fcdd092129b0",
     "wof:hierarchy":[
         {
+            "borough_id":1108805719,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474245,
             "locality_id":101751843,
-            "neighbourhood_id":85797523,
-            "region_id":85687041,
-            "venue_id":1091619101
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474163,
-            "locality_id":101754669,
             "neighbourhood_id":85859899,
             "region_id":85687041,
             "venue_id":1091619101
         }
     ],
     "wof:id":1091619101,
-    "wof:lastmodified":1473879036,
+    "wof:lastmodified":1492510365,
     "wof:name":"Ard Schenk",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

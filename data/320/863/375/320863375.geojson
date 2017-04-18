@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.887312,52.366196,4.887312,52.366196",
     "geom:latitude":52.366196,
     "geom:longitude":4.887312,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803665,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7cAOko4atRhEOO7DbQ3ORC_52.366196_4.887312@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"450e5ff1a05c9b975a9d09014481d237",
+    "wof:geomhash":"c2ae9c1ce2c5c30adbccf0f0e6811db7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803665,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":320863375
         }
     ],
     "wof:id":320863375,
-    "wof:lastmodified":1473879640,
+    "wof:lastmodified":1492484416,
     "wof:name":"Ace",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882283,52.376827,4.882283,52.376827",
     "geom:latitude":52.376827,
     "geom:longitude":4.882283,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804119,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4FaoJ2AmUcQ7dGGbezvdxt_52.376827_4.882283@1306269978"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b6657c907d600c63baa366ac06f9325b",
+    "wof:geomhash":"bab90c1625428c3f7aa976e4a629ba6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804119,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":287212117
         }
     ],
     "wof:id":287212117,
-    "wof:lastmodified":1473879004,
+    "wof:lastmodified":1492513781,
     "wof:name":"Stripwinkel Kapitein Rob",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

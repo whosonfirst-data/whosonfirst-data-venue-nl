@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.738161087,52.1527748108,6.738161087,52.1527748108",
     "geom:latitude":52.152775,
     "geom:longitude":6.738161,
@@ -23,17 +24,32 @@
     "sg:postcode":"7481 HL",
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473829,
+        85633337,
+        101807203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bIETZ54crUmNHpNA2UBRJ_52.152775_6.738161@1306270014"
     },
     "wof:country":"NL",
     "wof:created":1473801417,
-    "wof:geomhash":"789bcb57ede3c80b8c4bfaca56f428bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e828ddefb179e688b97766ada81ff49e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473829,
+            "locality_id":101807203,
+            "region_id":85687045,
+            "venue_id":1091584605
+        }
+    ],
     "wof:id":1091584605,
-    "wof:lastmodified":1473878717,
+    "wof:lastmodified":1492511568,
     "wof:name":"In Person",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

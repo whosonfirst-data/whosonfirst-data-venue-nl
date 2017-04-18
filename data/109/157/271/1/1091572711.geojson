@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7026128769,52.5394134521,5.7026128769,52.5394134521",
     "geom:latitude":52.539413,
     "geom:longitude":5.702613,
@@ -24,17 +25,32 @@
     "sg:province":"NL.",
     "sg:website":"http://www.exed.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473965,
+        85633337,
+        101803709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FodXSvQ8FsXzEpgWQ9DHw_52.539413_5.702613@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800647,
-    "wof:geomhash":"cf3a3f7ea19b1b5084f2025f73511044",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75cb94a5d9d4cef992ba78a211e19a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473965,
+            "locality_id":101803709,
+            "region_id":85687049,
+            "venue_id":1091572711
+        }
+    ],
     "wof:id":1091572711,
-    "wof:lastmodified":1473878651,
+    "wof:lastmodified":1492511201,
     "wof:name":"Exed Internet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

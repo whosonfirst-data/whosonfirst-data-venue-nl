@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.877579,-41.11824,174.877579,-41.11824",
     "geom:latitude":-41.11824,
     "geom:longitude":174.877579,
@@ -24,29 +25,34 @@
     "sg:province":"NZ.",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914321,
+        102079317,
+        85778715
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6caTCMtYzDmwBQURJTMNhY_-41.118240_174.877579@1306269998"
     },
     "wof:country":"NL",
-    "wof:geomhash":"577e1f4d52d0cc6eb0e2e26f7c3148ac",
+    "wof:geomhash":"9c50c32c0070996ba46a3e468c8b93a4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079317,
+            "locality_id":101914321,
+            "neighbourhood_id":85778715,
+            "region_id":85687233,
             "venue_id":320480233
         }
     ],
     "wof:id":320480233,
-    "wof:lastmodified":1473879321,
+    "wof:lastmodified":1492485240,
     "wof:name":"Halfers, Anne",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

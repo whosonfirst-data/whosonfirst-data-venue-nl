@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.928322,52.362972,4.928322,52.362972",
     "geom:latitude":52.362972,
     "geom:longitude":4.928322,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.baldevjewellers.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803579,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_45cSHE36MabXeeaMudzRDj_52.362972_4.928322@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"06e2e27b693f8608e369931ae8c671ff",
+    "wof:geomhash":"e09af2f8fa360b99de2b85a8450ad15d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803579,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":336594201
         }
     ],
     "wof:id":336594201,
-    "wof:lastmodified":1473878410,
+    "wof:lastmodified":1492507022,
     "wof:name":"Baldev Juwelier",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

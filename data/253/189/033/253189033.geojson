@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.289115,52.111538,4.289115,52.111538",
     "geom:latitude":52.111538,
     "geom:longitude":4.289115,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808139,
+        102191581,
+        1108808075,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_3uXghflC4lmX4teRy7CuKR_52.111538_4.289115@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dd2a313a75d828fa85af8c9b0f11af2a",
+    "wof:geomhash":"b767de713daecc99aa0f0b32a5a726ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108808075,
+            "neighbourhood_id":1108808139,
             "region_id":85687041,
             "venue_id":253189033
         }
     ],
     "wof:id":253189033,
-    "wof:lastmodified":1473879083,
+    "wof:lastmodified":1492489999,
     "wof:name":"De Kasterij",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

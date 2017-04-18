@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.895664,52.379025,4.895664,52.379025",
     "geom:latitude":52.379025,
     "geom:longitude":4.895664,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804135,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_3MvFCS7ajWvXeBkgd9q9V0_52.379025_4.895664@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e20d87f854cc226508394ef141b269c9",
+    "wof:geomhash":"95d3c5c5ce676d26ab5e2a924adabeec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804135,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":304070051
         }
     ],
     "wof:id":304070051,
-    "wof:lastmodified":1473878790,
+    "wof:lastmodified":1492504629,
     "wof:name":"Hotel Multatuli",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

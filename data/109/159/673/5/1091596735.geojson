@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9267311096,50.7969512939,5.9267311096,50.7969512939",
     "geom:latitude":50.796951,
     "geom:longitude":5.926731,
@@ -23,17 +24,32 @@
     "sg:postcode":"6281 AB",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474645,
+        85633337,
+        101810581
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DVUbxRDFRGhDzKaY9ILDu_50.796951_5.926731@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802334,
-    "wof:geomhash":"250910683b3ffd137c7b3abd51fc1aa6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58225b97213a66790082439c76fb75db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474645,
+            "locality_id":101810581,
+            "region_id":85687033,
+            "venue_id":1091596735
+        }
+    ],
     "wof:id":1091596735,
-    "wof:lastmodified":1473878860,
+    "wof:lastmodified":1492509651,
     "wof:name":"Woningvereniging Wittem",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

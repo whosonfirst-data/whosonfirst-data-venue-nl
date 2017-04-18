@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0965437889,52.0796928406,5.0965437889,52.0796928406",
     "geom:latitude":52.079693,
     "geom:longitude":5.096544,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808881,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808679,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473799688,
-    "wof:geomhash":"dbb1bc2090ca070e1cbd08b0dc4205d8",
+    "wof:geomhash":"f14f5490fcdeb0f6398195290ada54a9",
     "wof:hierarchy":[
         {
+            "borough_id":1108808679,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808881,
             "region_id":85687039,
             "venue_id":1075828253
         }
     ],
     "wof:id":1075828253,
-    "wof:lastmodified":1473879522,
+    "wof:lastmodified":1492486952,
     "wof:name":"De Paraplu",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

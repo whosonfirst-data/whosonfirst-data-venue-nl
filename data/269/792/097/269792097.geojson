@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.289636,52.051498,4.289636,52.051498",
     "geom:latitude":52.051498,
     "geom:longitude":4.289636,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798031,
+        1108808297,
+        102191581,
+        1108833203,
         85633337,
-        101754743,
+        101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_0XaGZOJ6Tr2lYV5fUuGaYE_52.051498_4.289636@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e4d7086878de456b71d59804d8258b4f",
+    "wof:geomhash":"157e21cacb9fc825c9b42cf58be66c3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798031,
+            "locality_id":101752763,
+            "macrohood_id":1108833203,
+            "neighbourhood_id":1108808297,
             "region_id":85687041,
             "venue_id":269792097
         }
     ],
     "wof:id":269792097,
-    "wof:lastmodified":1473879466,
+    "wof:lastmodified":1492495592,
     "wof:name":"Snackkiosk Miranda",
-    "wof:parent_id":85798031,
+    "wof:parent_id":1108808297,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

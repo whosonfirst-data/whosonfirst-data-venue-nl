@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.22464,52.035828,4.22464,52.035828",
     "geom:latitude":52.035828,
     "geom:longitude":4.22464,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859557,
+        85797849,
+        102191581,
+        1108808101,
         85633337,
+        101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_5c1L7BlEFesZ7rMDe1udvA_52.035828_4.224640@1306269993"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a91e98d141e50ed45e7a45e0c796049a",
+    "wof:geomhash":"fcc03898d52e3dd5cd2b4e863596f00e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859557,
+            "locality_id":101752763,
+            "macrohood_id":1108808101,
+            "neighbourhood_id":85797849,
             "region_id":85687041,
             "venue_id":319979017
         }
     ],
     "wof:id":319979017,
-    "wof:lastmodified":1473879027,
+    "wof:lastmodified":1492479554,
     "wof:name":"Aannemingsbedrijf De Jong & De Wilde Bv",
-    "wof:parent_id":85859557,
+    "wof:parent_id":85797849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

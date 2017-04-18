@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.340985,52.062859,4.340985,52.062859",
     "geom:latitude":52.062859,
     "geom:longitude":4.340985,
@@ -25,28 +26,46 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859633,
+        102191581,
+        1108808077,
         85633337,
         101752763,
-        85687041
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ahN6awnyoBd2eUn0hjFuC_52.062859_4.340985@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"388a31c871f7fdfc8537a44a6deb65e5",
+    "wof:geomhash":"0b93e17cb79847faf2bfb8f61777c95b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808077,
+            "neighbourhood_id":85859633,
+            "region_id":85687041,
+            "venue_id":185900397
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
+            "locality_id":101754743,
+            "macrohood_id":1108808077,
             "neighbourhood_id":85859633,
             "region_id":85687041,
             "venue_id":185900397
         }
     ],
     "wof:id":185900397,
-    "wof:lastmodified":1473878857,
+    "wof:lastmodified":1492487682,
     "wof:name":"Kinderdagverblijf De Binckhorst",
     "wof:parent_id":85859633,
     "wof:placetype":"venue",

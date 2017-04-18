@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1671981812,52.0341186523,5.1671981812,52.0341186523",
     "geom:latitude":52.034119,
     "geom:longitude":5.167198,
@@ -24,9 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687039,
+        102191581,
+        404473987,
         85633337,
-        85859943,
-        85687039
+        101807003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473799443,
-    "wof:geomhash":"6cb11052b23537a2fda3bc926f2c555f",
+    "wof:geomhash":"f3b9fc108fbc35ae58ee523fd1ddc240",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85859943,
+            "localadmin_id":404473987,
+            "locality_id":101807003,
             "region_id":85687039,
             "venue_id":1075824103
         }
     ],
     "wof:id":1075824103,
-    "wof:lastmodified":1473879341,
+    "wof:lastmodified":1492486758,
     "wof:name":"Provinciale Bibliotheek Centrale Utrecht",
-    "wof:parent_id":85859943,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.14624,51.988213,4.14624,51.988213",
     "geom:latitude":51.988213,
     "geom:longitude":4.14624,
@@ -24,7 +25,11 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85797461,
+        102191581,
         85633337,
+        101751843,
+        1108805729,
         85687041
     ],
     "wof:breaches":[],
@@ -32,21 +37,22 @@
         "sg:id":"SG_4l3kO1vAymyhBQ2fAC1yk1_51.988213_4.146240@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"424f8a3a595e954081cc54470aa5ceb6",
+    "wof:geomhash":"2345a107d515aa1f5bf2dd97d3d8ab8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805729,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101751843,
+            "neighbourhood_id":85797461,
             "region_id":85687041,
             "venue_id":270284701
         }
     ],
     "wof:id":270284701,
-    "wof:lastmodified":1473879036,
+    "wof:lastmodified":1492499452,
     "wof:name":"L W Van Der Houwen",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

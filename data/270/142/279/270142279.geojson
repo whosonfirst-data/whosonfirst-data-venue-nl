@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.820234,52.356609,4.820234,52.356609",
     "geom:latitude":52.356609,
     "geom:longitude":4.820234,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803265,
+        85798403,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7a1wJhjFhad5yEg7zBlhHy_52.356609_4.820234@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3e81dc8deabc5286c0361f9da965d438",
+    "wof:geomhash":"b9054073bd5577635874c5c6f4bdf1c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803265,
+            "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":270142279
         }
     ],
     "wof:id":270142279,
-    "wof:lastmodified":1473878662,
+    "wof:lastmodified":1492499771,
     "wof:name":"Thomas, Martin",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

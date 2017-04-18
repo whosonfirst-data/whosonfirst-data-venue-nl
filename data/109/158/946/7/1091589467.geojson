@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1451439857,52.0883331299,5.1451439857,52.0883331299",
     "geom:latitude":52.088333,
     "geom:longitude":5.145144,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808921,
+        102191581,
         85633337,
-        85797403,
+        101751827,
+        1108808669,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473801919,
-    "wof:geomhash":"029f8321c84d69a9c4be3eef4eb5e8d0",
+    "wof:geomhash":"3fa67fba61245e71d749194b7f07574c",
     "wof:hierarchy":[
         {
+            "borough_id":1108808669,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797403,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808921,
             "region_id":85687039,
             "venue_id":1091589467
         }
     ],
     "wof:id":1091589467,
-    "wof:lastmodified":1473879015,
+    "wof:lastmodified":1492511753,
     "wof:name":"Mathilde Van Den Berg",
-    "wof:parent_id":85797403,
+    "wof:parent_id":1108808921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

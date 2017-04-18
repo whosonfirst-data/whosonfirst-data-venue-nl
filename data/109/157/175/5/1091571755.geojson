@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1855139732,52.3717384338,5.1855139732,52.3717384338",
     "geom:latitude":52.371738,
     "geom:longitude":5.185514,
@@ -24,17 +25,32 @@
     "sg:province":"Flevoland",
     "sg:website":"http://www.bluespring.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101751877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lUMhPqGY3Hq1l2ROcFu0N_52.371738_5.185514@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800592,
-    "wof:geomhash":"175dc1426c8ba51d7d76f67b8d9b3d1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16270891fe40c8a028e8d45523ca1af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101751877,
+            "region_id":85687049,
+            "venue_id":1091571755
+        }
+    ],
     "wof:id":1091571755,
-    "wof:lastmodified":1473878567,
+    "wof:lastmodified":1492511242,
     "wof:name":"Blue Spring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

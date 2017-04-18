@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.857005,52.361816,4.857005,52.361816",
     "geom:latitude":52.361816,
     "geom:longitude":4.857005,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803531,
+        1108802957,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3OzShADXBsInNjRjwIpjrm_52.361816_4.857005@1306269933"
     },
     "wof:country":"NL",
-    "wof:geomhash":"50c8cf114d90d0dc95cf6c230da02873",
+    "wof:geomhash":"af0277acc4d69e78e582c72b989b923f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803531,
+            "neighbourhood_id":1108802957,
             "region_id":85687053,
             "venue_id":235980343
         }
     ],
     "wof:id":235980343,
-    "wof:lastmodified":1473878614,
+    "wof:lastmodified":1492514620,
     "wof:name":"J.M. Hartog",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

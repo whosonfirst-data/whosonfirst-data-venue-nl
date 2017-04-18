@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.320039,52.090176,4.320039,52.090176",
     "geom:latitude":52.090176,
     "geom:longitude":4.320039,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797091,
+        1108808143,
+        102191581,
+        1108805961,
         85633337,
         101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_2mOeRj48KUJ7QeXF50dAwi_52.090176_4.320039@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"864d7143b7381648accdd3bae34272aa",
+    "wof:geomhash":"fe2dbba6e058757d991a7372fd2f225b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797091,
+            "macrohood_id":1108805961,
+            "neighbourhood_id":1108808143,
             "region_id":85687041,
             "venue_id":269820199
         }
     ],
     "wof:id":269820199,
-    "wof:lastmodified":1473879503,
+    "wof:lastmodified":1492496660,
     "wof:name":"De Gouden Munt",
-    "wof:parent_id":85797091,
+    "wof:parent_id":1108808143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

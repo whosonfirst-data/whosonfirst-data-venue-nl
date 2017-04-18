@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.826938,52.416603,4.826938,52.416603",
     "geom:latitude":52.416603,
     "geom:longitude":4.826938,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798675,
+        1108803893,
+        1108802955,
+        102191581,
         85633337,
+        101751893,
+        1108802287,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1TjqFRIdwiDdWqAD5xaszD_52.416603_4.826938@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"42153b1f19e2ef1f4e511fca4fbe91b5",
+    "wof:geomhash":"10489cad8c47590f5821a9013102f098",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802287,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798675,
+            "locality_id":101751893,
+            "microhood_id":1108803893,
+            "neighbourhood_id":1108802955,
             "region_id":85687053,
             "venue_id":270125431
         }
     ],
     "wof:id":270125431,
-    "wof:lastmodified":1473878631,
+    "wof:lastmodified":1492501215,
     "wof:name":"Rietberg, Bert",
-    "wof:parent_id":85798675,
+    "wof:parent_id":1108803893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

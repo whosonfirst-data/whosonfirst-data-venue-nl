@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88989,52.407375,4.88989,52.407375",
     "geom:latitude":52.407375,
     "geom:longitude":4.88989,
@@ -25,8 +26,12 @@
     "sg:website":"http://www.nini-jira.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803821,
+        1108802545,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,23 @@
         "sg:id":"SG_4OLUZhR9QJV1eDVkKFk6wz_52.407375_4.889890@1306269949"
     },
     "wof:country":"NL",
-    "wof:geomhash":"69dd86eb31372feb84f31795189f2f2d",
+    "wof:geomhash":"25249f1870912cc56431584e914d1bd1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803821,
+            "neighbourhood_id":1108802545,
             "region_id":85687053,
             "venue_id":253367333
         }
     ],
     "wof:id":253367333,
-    "wof:lastmodified":1473879430,
+    "wof:lastmodified":1492490035,
     "wof:name":"Nini-Jira Bv",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803821,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

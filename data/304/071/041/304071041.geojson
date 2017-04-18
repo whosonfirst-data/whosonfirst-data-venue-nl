@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877269,52.36158,4.877269,52.36158",
     "geom:latitude":52.36158,
     "geom:longitude":4.877269,
@@ -29,9 +30,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804305,
+        1108802937,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_2AwKAvhx7WKN9IHNLa3BCZ_52.361580_4.877269@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3e385758382d703810cb9f4c486630d0",
+    "wof:geomhash":"360e20819502308fc1d9bd3bc160b69f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804305,
+            "neighbourhood_id":1108802937,
             "region_id":85687053,
             "venue_id":304071041
         }
     ],
     "wof:id":304071041,
-    "wof:lastmodified":1473878795,
+    "wof:lastmodified":1492504570,
     "wof:name":"Hotel Quentin Engeland",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804305,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

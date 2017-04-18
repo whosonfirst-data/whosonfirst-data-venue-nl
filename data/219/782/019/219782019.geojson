@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.902793,52.345867,4.902793,52.345867",
     "geom:latitude":52.345867,
     "geom:longitude":4.902793,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.eikonadvies.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804281,
+        1108802897,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_1aF2go3ago09XOCwSWyUzU_52.345867_4.902793@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e04b84e1a3e4215240bdbf823ada53b4",
+    "wof:geomhash":"a73d74750e74c077205079d95671b732",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108804281,
+            "neighbourhood_id":1108802897,
             "region_id":85687053,
             "venue_id":219782019
         }
     ],
     "wof:id":219782019,
-    "wof:lastmodified":1473879713,
+    "wof:lastmodified":1492502470,
     "wof:name":"Eikon",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

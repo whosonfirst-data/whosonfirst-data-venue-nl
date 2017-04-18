@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88265,52.375565,4.88265,52.375565",
     "geom:latitude":52.375565,
     "geom:longitude":4.88265,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803831,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5adSfSjGsknpUBr2rjoxRN_52.375565_4.882650@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3ced244c692c3655445b87e3175d7d48",
+    "wof:geomhash":"2fc4f2ceea09d5f60e5491a0be610839",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803831,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":270196257
         }
     ],
     "wof:id":270196257,
-    "wof:lastmodified":1473878820,
+    "wof:lastmodified":1492499324,
     "wof:name":"Noz",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

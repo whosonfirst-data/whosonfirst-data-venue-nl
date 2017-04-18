@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.15275,52.273254,6.15275,52.273254",
     "geom:latitude":52.273254,
     "geom:longitude":6.15275,
@@ -24,10 +25,12 @@
     "sg:province":"Overijssel",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798309,
         85633337,
+        85798309,
         85687045,
         85797157,
+        102191581,
+        404473825,
         101754775
     ],
     "wof:breaches":[],
@@ -35,19 +38,18 @@
         "sg:id":"SG_5Ntan0pEK2mxj9RQ8tjycI_52.273254_6.152750@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"56f368208a0fb78fcd0ed2e34e68c2b8",
+    "wof:geomhash":"d710262dfd3cd89a36c96e4bd4ef9df2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85798309,
             "region_id":85687045,
             "venue_id":304038271
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473825,
             "locality_id":101754775,
             "neighbourhood_id":85797157,
             "region_id":85687045,
@@ -55,9 +57,9 @@
         }
     ],
     "wof:id":304038271,
-    "wof:lastmodified":1473878672,
+    "wof:lastmodified":1492504639,
     "wof:name":"Nieuwland Klokkenatelier",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

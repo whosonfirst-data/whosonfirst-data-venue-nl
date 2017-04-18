@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8079,52.414883,4.8079,52.414883",
     "geom:latitude":52.414883,
     "geom:longitude":4.8079,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798675,
+        1108803963,
+        1108802955,
+        102191581,
         85633337,
+        101751893,
+        1108802287,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6ZCs6n2epvwrzDeVazIo3j_52.414883_4.807900@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"95460de49d2856a7f26d722f73fef582",
+    "wof:geomhash":"e0fac605f09f0a1cc8418fc8de402516",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802287,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798675,
+            "locality_id":101751893,
+            "microhood_id":1108803963,
+            "neighbourhood_id":1108802955,
             "region_id":85687053,
             "venue_id":186001617
         }
     ],
     "wof:id":186001617,
-    "wof:lastmodified":1473878460,
+    "wof:lastmodified":1492508153,
     "wof:name":"Beemsterboer Coldstore Bv",
-    "wof:parent_id":85798675,
+    "wof:parent_id":1108803963,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

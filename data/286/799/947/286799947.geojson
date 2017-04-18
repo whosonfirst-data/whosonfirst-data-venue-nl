@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893748,52.350391,4.893748,52.350391",
     "geom:latitude":52.350391,
     "geom:longitude":4.893748,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804099,
+        1108802865,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7eUJPbGHhF4BGLoymBQVRD_52.350391_4.893748@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"99955191b0ffeda2cd011496080ab6c3",
+    "wof:geomhash":"71d2f075e72cac1e0419c895ce422c1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108804099,
+            "neighbourhood_id":1108802865,
             "region_id":85687053,
             "venue_id":286799947
         }
     ],
     "wof:id":286799947,
-    "wof:lastmodified":1473879617,
+    "wof:lastmodified":1492475344,
     "wof:name":"Burke",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

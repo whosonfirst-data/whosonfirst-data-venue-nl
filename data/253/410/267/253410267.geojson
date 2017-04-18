@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880956,52.358559,4.880956,52.358559",
     "geom:latitude":52.358559,
     "geom:longitude":4.880956,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.vangoghmuseum.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804261,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3WKeIz7ojcS1pUlSBzXxg9_52.358559_4.880956@1306269949"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f0e578601164eab6b7cde75bd86eb787",
+    "wof:geomhash":"40fba7e86913e64a945d298420b5565c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804261,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":253410267
         }
     ],
     "wof:id":253410267,
-    "wof:lastmodified":1473879546,
+    "wof:lastmodified":1492488921,
     "wof:name":"Gogh Museum, Van",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

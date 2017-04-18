@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.930478,52.356758,4.930478,52.356758",
     "geom:latitude":52.356758,
     "geom:longitude":4.930478,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803427,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6X9T3UBFBs89gE9q8zme73_52.356758_4.930478@1306269976"
     },
     "wof:country":"NL",
-    "wof:geomhash":"81af9f339a839672d4f7f104f1507f94",
+    "wof:geomhash":"e4e97c4f9adf10755917cfbae804afe0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803427,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":287057285
         }
     ],
     "wof:id":287057285,
-    "wof:lastmodified":1473878701,
+    "wof:lastmodified":1492514352,
     "wof:name":"Groene Schuurtje, Het",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

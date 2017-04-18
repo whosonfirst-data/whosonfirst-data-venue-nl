@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.295545,52.079842,4.295545,52.079842",
     "geom:latitude":52.079842,
     "geom:longitude":4.295545,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3ULVXLUdPzeTtuXfPGhhqB_52.079842_4.295545@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d89a629f0a3ebdcd5ec17c5600c3bcee",
+    "wof:geomhash":"8c733029dbf1acfa5d60d412b0cbac1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":320759963
         }
     ],
     "wof:id":320759963,
-    "wof:lastmodified":1473879611,
+    "wof:lastmodified":1492482965,
     "wof:name":"De Ruyter Kaasmarkt",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

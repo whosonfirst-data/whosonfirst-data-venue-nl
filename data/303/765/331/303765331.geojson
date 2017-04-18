@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.960108,52.391357,4.960108,52.391357",
     "geom:latitude":52.391357,
     "geom:longitude":4.960108,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108804083,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0ACqynOPwRyFRRC6XZd2Ij_52.391357_4.960108@1306269987"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a912a15138c4cf643fe5bdc5c4d49af2",
+    "wof:geomhash":"0ec93619c1d5168c8629c2018276d657",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804083,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":303765331
         }
     ],
     "wof:id":303765331,
-    "wof:lastmodified":1473879523,
+    "wof:lastmodified":1492471488,
     "wof:name":"Antar-Okx-Veen",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108804083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

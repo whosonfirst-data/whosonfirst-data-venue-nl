@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.892463,52.377937,4.892463,52.377937",
     "geom:latitude":52.377937,
     "geom:longitude":4.892463,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803299,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5MGGsQVQzOxvY9h8zeKA2C_52.377937_4.892463@1306269970"
     },
     "wof:country":"NL",
-    "wof:geomhash":"80440070b7af1e98e756bd2ea116b825",
+    "wof:geomhash":"5042e69ad80e3965693db23f9935574f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803299,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":286518675
         }
     ],
     "wof:id":286518675,
-    "wof:lastmodified":1473879214,
+    "wof:lastmodified":1492477018,
     "wof:name":"Valen, L Van",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

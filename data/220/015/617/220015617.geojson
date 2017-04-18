@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.510452,51.923267,4.510452,51.923267",
     "geom:latitude":51.923267,
     "geom:longitude":4.510452,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805807,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6GuwgqMye49SfaLgW1i0mq_51.923267_4.510452@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2289a860a84623c33e90916ed18cff13",
+    "wof:geomhash":"c72c7ea44da72b37548d47aa10ad4094",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805807,
             "region_id":85687041,
             "venue_id":220015617
         }
     ],
     "wof:id":220015617,
-    "wof:lastmodified":1473878528,
+    "wof:lastmodified":1492481109,
     "wof:name":"Technical Services Holland Bv",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

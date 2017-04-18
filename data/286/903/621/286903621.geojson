@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.910556,52.341618,4.910556,52.341618",
     "geom:latitude":52.341618,
     "geom:longitude":4.910556,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803527,
+        1108802895,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2VKf96Nf3QUEohWAQ7h7cx_52.341618_4.910556@1306269974"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dfffe54d16ce2d8548bfcc16439931ee",
+    "wof:geomhash":"352c0a2cba319b4a13692a6bd1e510bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803527,
+            "neighbourhood_id":1108802895,
             "region_id":85687053,
             "venue_id":286903621
         }
     ],
     "wof:id":286903621,
-    "wof:lastmodified":1473879668,
+    "wof:lastmodified":1492477130,
     "wof:name":"H.V. Flower Design",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

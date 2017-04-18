@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.0331630707,52.7216110229,7.0331630707,52.7216110229",
     "geom:latitude":52.721611,
     "geom:longitude":7.033163,
@@ -24,17 +25,32 @@
     "sg:province":"Provincie Drenthe",
     "sg:website":"http://www.thewebdesigner.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473809,
+        85633337,
+        101837887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AwqFoL7VwOmwSFthohGIe_52.721611_7.033163@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800608,
-    "wof:geomhash":"a09adabc784b60761890a3183d601eec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68491d87237ac08bba76ddd9f190250e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473809,
+            "locality_id":101837887,
+            "region_id":85687051,
+            "venue_id":1091572057
+        }
+    ],
     "wof:id":1091572057,
-    "wof:lastmodified":1473878594,
+    "wof:lastmodified":1492511220,
     "wof:name":"Computer Designer, The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

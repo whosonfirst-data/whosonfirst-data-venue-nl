@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.28413,52.114296,4.28413,52.114296",
     "geom:latitude":52.114296,
     "geom:longitude":4.28413,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808139,
+        102191581,
+        1108808075,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_1kOOxRfwYHvofPBnmOUcvb_52.114296_4.284130@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9f833ccb1cd85711b023115586cd607a",
+    "wof:geomhash":"d5635dfed06f544ee68c8332fc2eee98",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108808075,
+            "neighbourhood_id":1108808139,
             "region_id":85687041,
             "venue_id":320577331
         }
     ],
     "wof:id":320577331,
-    "wof:lastmodified":1473879419,
+    "wof:lastmodified":1492482928,
     "wof:name":"Verhoog-Talen A.G.F., Vof",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

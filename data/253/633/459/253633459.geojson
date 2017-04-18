@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.938641,52.360321,4.938641,52.360321",
     "geom:latitude":52.360321,
     "geom:longitude":4.938641,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803597,
+        1108802845,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0p3Qz69X7qHSvCYcvTEXFd_52.360321_4.938641@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c1a0310ea246a4949bedaf0869e92f30",
+    "wof:geomhash":"5f19ce28b64ed4c129d3061de7827cfd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803597,
+            "neighbourhood_id":1108802845,
             "region_id":85687053,
             "venue_id":253633459
         }
     ],
     "wof:id":253633459,
-    "wof:lastmodified":1473879685,
+    "wof:lastmodified":1492489636,
     "wof:name":"Nijntje",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803597,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

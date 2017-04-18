@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.559075,51.886654,4.559075,51.886654",
     "geom:latitude":51.886654,
     "geom:longitude":4.559075,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797587,
+        1108805659,
+        1108805789,
+        102191581,
         85633337,
         101751843,
+        1108805721,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_771huNsXqNK3heWOu4Gp02_51.886654_4.559075@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6b10b138924617e77a4beff36c422896",
+    "wof:geomhash":"b142ee4a55763a9a566ddd16fbc4434c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805721,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797587,
+            "microhood_id":1108805659,
+            "neighbourhood_id":1108805789,
             "region_id":85687041,
             "venue_id":269801205
         }
     ],
     "wof:id":269801205,
-    "wof:lastmodified":1473879496,
+    "wof:lastmodified":1492496051,
     "wof:name":"Vof De Zuiderspits",
-    "wof:parent_id":85797587,
+    "wof:parent_id":1108805659,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

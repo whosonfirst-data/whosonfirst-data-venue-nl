@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876335,52.373398,4.876335,52.373398",
     "geom:latitude":52.373398,
     "geom:longitude":4.876335,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803785,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6As3lI99o29YeEJguKJBVv_52.373398_4.876335@1306269906"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9adebc9195f3839298dd927d03fb06c7",
+    "wof:geomhash":"abc5707d0b693b03135b1ac707a7b973",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803785,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":169817915
         }
     ],
     "wof:id":169817915,
-    "wof:lastmodified":1473878795,
+    "wof:lastmodified":1492478815,
     "wof:name":"Pieter Bas",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

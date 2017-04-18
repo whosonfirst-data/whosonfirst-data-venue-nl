@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.872195,52.326759,4.872195,52.326759",
     "geom:latitude":52.326759,
     "geom:longitude":4.872195,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803497,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0lX5vFZx30b9LAtoB4o4IY_52.326759_4.872195@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b2388a448c66618463b3137c7b5fb6c4",
+    "wof:geomhash":"2e4f1c11d0c4b2d44ff9778a157fb96a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803497,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":186376523
         }
     ],
     "wof:id":186376523,
-    "wof:lastmodified":1473879359,
+    "wof:lastmodified":1492509112,
     "wof:name":"Ehbo Buitenveldert",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

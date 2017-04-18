@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.087562,52.110931,5.087562,52.110931",
     "geom:latitude":52.110931,
     "geom:longitude":5.087562,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808727,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_1TFn3BimH1LGUcJzGVRXWG_52.110931_5.087562@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a22d8465fe97e9391d2425f371de4f2b",
+    "wof:geomhash":"0f11f31f024a090894f30bbdf4911387",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808727,
             "region_id":85687039,
             "venue_id":320053559
         }
     ],
     "wof:id":320053559,
-    "wof:lastmodified":1473878615,
+    "wof:lastmodified":1492485223,
     "wof:name":"Angeren, Van",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

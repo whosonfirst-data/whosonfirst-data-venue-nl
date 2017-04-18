@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.432258,51.949036,4.432258,51.949036",
     "geom:latitude":51.949036,
     "geom:longitude":4.432258,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798367,
+        1108833229,
+        1108805883,
+        102191581,
         85633337,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_5nPbMCsI0cu5tHy8cdSldI_51.949036_4.432258@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"66d23546bbe138a34d2bd281ead84d62",
+    "wof:geomhash":"2a21ece230fe6a7612d76ae89d430fe3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798367,
+            "locality_id":101751843,
+            "microhood_id":1108833229,
+            "neighbourhood_id":1108805883,
             "region_id":85687041,
             "venue_id":219527707
         }
     ],
     "wof:id":219527707,
-    "wof:lastmodified":1473879359,
+    "wof:lastmodified":1492502541,
     "wof:name":"National Airlines",
-    "wof:parent_id":85798367,
+    "wof:parent_id":1108833229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

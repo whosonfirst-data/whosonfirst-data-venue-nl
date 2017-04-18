@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.898909,52.408016,4.898909,52.408016",
     "geom:latitude":52.408016,
     "geom:longitude":4.898909,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803309,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1OB9tIMwwWCwGYebb5NHOs_52.408016_4.898909@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"eb59787da51fbf1337bfce9c85af4b5f",
+    "wof:geomhash":"76aa76fa14acc735020e585fac1150dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803309,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":253533919
         }
     ],
     "wof:id":253533919,
-    "wof:lastmodified":1473879678,
+    "wof:lastmodified":1492489441,
     "wof:name":"Labro Food",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

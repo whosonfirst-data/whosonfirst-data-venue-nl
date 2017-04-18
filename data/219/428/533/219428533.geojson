@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.213677,52.044861,4.213677,52.044861",
     "geom:latitude":52.044861,
     "geom:longitude":4.213677,
@@ -24,8 +25,13 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859557,
+        1108833209,
+        85797849,
+        102191581,
+        1108808101,
         85633337,
+        101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +39,24 @@
         "sg:id":"SG_36MQXXa5FfD5oisbQA6WeS_52.044861_4.213677@1306269926"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7cd144256d0b9acbf3fc5e47eaa262c1",
+    "wof:geomhash":"b9c6db2f04a7155713e658a2823c1dd9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859557,
+            "locality_id":101752763,
+            "macrohood_id":1108808101,
+            "microhood_id":1108833209,
+            "neighbourhood_id":85797849,
             "region_id":85687041,
             "venue_id":219428533
         }
     ],
     "wof:id":219428533,
-    "wof:lastmodified":1473879133,
+    "wof:lastmodified":1492501844,
     "wof:name":"T.J. Van Duijn",
-    "wof:parent_id":85859557,
+    "wof:parent_id":1108833209,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

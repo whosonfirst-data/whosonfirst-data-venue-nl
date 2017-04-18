@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.868939,52.360912,4.868939,52.360912",
     "geom:latitude":52.360912,
     "geom:longitude":4.868939,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803959,
+        1108802937,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1zV6sXSxa7ZXqAIi0YOMsH_52.360912_4.868939@1306270007"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3a6588a9035a526bf7a6897466689e76",
+    "wof:geomhash":"3bbb4b64c0786219778a70934a5ed023",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803959,
+            "neighbourhood_id":1108802937,
             "region_id":85687053,
             "venue_id":336943123
         }
     ],
     "wof:id":336943123,
-    "wof:lastmodified":1473878453,
+    "wof:lastmodified":1492506717,
     "wof:name":"Vondel Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

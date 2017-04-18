@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1253628731,51.8280563354,4.1253628731,51.8280563354",
     "geom:latitude":51.828056,
     "geom:longitude":4.125363,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.dshsailing.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474183,
+        85633337,
+        101808501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wBIVexriUT03vWNVsCBWn_51.828056_4.125363@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800513,
-    "wof:geomhash":"6676cc6601a003261c45e1261b0345a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0ef91683693a7a2c7dd4519e0b46e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474183,
+            "locality_id":101808501,
+            "region_id":85687041,
+            "venue_id":1091570653
+        }
+    ],
     "wof:id":1091570653,
-    "wof:lastmodified":1473878514,
+    "wof:lastmodified":1492511114,
     "wof:name":"Dsh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

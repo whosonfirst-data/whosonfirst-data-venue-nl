@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.90272,52.359615,4.90272,52.359615",
     "geom:latitude":52.359615,
     "geom:longitude":4.90272,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804137,
+        1108802791,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4Ww110EhY39gCDmMHpOG2m_52.359615_4.902720@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"43132f7f3504a23936831e842cf2e2c7",
+    "wof:geomhash":"f090085af0a51e4403e380e972b4e7bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804137,
+            "neighbourhood_id":1108802791,
             "region_id":85687053,
             "venue_id":269982137
         }
     ],
     "wof:id":269982137,
-    "wof:lastmodified":1473879577,
+    "wof:lastmodified":1492496746,
     "wof:name":"Ocean View",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

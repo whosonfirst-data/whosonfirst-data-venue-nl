@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2394142151,52.3641891479,5.2394142151,52.3641891479",
     "geom:latitude":52.364189,
     "geom:longitude":5.239414,
@@ -24,17 +25,32 @@
     "sg:province":"Flevoland",
     "sg:website":"http://www.amendo.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101751877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ulVNZ24InId1EQiTCWSZn_52.364189_5.239414@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800568,
-    "wof:geomhash":"a7945bae19376765b1b843b21a38146b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34a27216de61561ff94a51f07087a536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101751877,
+            "region_id":85687049,
+            "venue_id":1091571359
+        }
+    ],
     "wof:id":1091571359,
-    "wof:lastmodified":1473878539,
+    "wof:lastmodified":1492511113,
     "wof:name":"Amendo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.82746,52.408676,4.82746,52.408676",
     "geom:latitude":52.408676,
     "geom:longitude":4.82746,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803963,
+        1108802955,
+        102191581,
         85633337,
         101751893,
+        1108802287,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_14HFjHSfmXTXdaYqSvJSId_52.408676_4.827460@1306270007"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a5aecb7cb86818f98112210bb7aabe88",
+    "wof:geomhash":"2a24f0e88755199f5dd7429be3146746",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802287,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803963,
+            "neighbourhood_id":1108802955,
             "region_id":85687053,
             "venue_id":336956415
         }
     ],
     "wof:id":336956415,
-    "wof:lastmodified":1473878457,
+    "wof:lastmodified":1492506297,
     "wof:name":"Oba Bv",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803963,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

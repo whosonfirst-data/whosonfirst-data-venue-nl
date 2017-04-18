@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1437101364,52.0866012573,5.1437101364,52.0866012573",
     "geom:latitude":52.086601,
     "geom:longitude":5.14371,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808861,
+        102191581,
         85633337,
-        85797403,
+        101751827,
+        1108808669,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473800610,
-    "wof:geomhash":"6fed159a19b395263fc27d302d48bb0c",
+    "wof:geomhash":"3fb20baf83f1aedf84a14eb2ddb453bf",
     "wof:hierarchy":[
         {
+            "borough_id":1108808669,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797403,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808861,
             "region_id":85687039,
             "venue_id":1091572103
         }
     ],
     "wof:id":1091572103,
-    "wof:lastmodified":1473878577,
+    "wof:lastmodified":1492511098,
     "wof:name":"Cpdk",
-    "wof:parent_id":85797403,
+    "wof:parent_id":1108808861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

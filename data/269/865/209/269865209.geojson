@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.883647,52.362511,4.883647,52.362511",
     "geom:latitude":52.362511,
     "geom:longitude":4.883647,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.macbike.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803599,
+        1108802791,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_0nwFMpBd7SPtk0zCmTFAbd_52.362511_4.883647@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3b2c8bcb3978e1732ab0403a6f1782f0",
+    "wof:geomhash":"94c240c18c4967c18938270fbe3d532e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803599,
+            "neighbourhood_id":1108802791,
             "region_id":85687053,
             "venue_id":269865209
         }
     ],
     "wof:id":269865209,
-    "wof:lastmodified":1473879534,
+    "wof:lastmodified":1492495669,
     "wof:name":"Macbike",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

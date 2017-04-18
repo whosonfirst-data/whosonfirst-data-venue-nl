@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4633989334,51.998588562,5.4633989334,51.998588562",
     "geom:latitude":51.998589,
     "geom:longitude":5.463399,
@@ -24,17 +25,32 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.wijnenvantfort.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474547,
+        85633337,
+        101808445
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_067P3Z3EtrJ7gVUSENsw83_51.998589_5.463399@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802071,
-    "wof:geomhash":"906d0fadb49474783d83ab41db718e81",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b295bd7d96ad636a89418e21ae512dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474547,
+            "locality_id":101808445,
+            "region_id":85687039,
+            "venue_id":1091592361
+        }
+    ],
     "wof:id":1091592361,
-    "wof:lastmodified":1473878594,
+    "wof:lastmodified":1492509608,
     "wof:name":"Fort, Van 'T",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

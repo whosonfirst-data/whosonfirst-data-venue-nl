@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1376,52.068703,5.1376,52.068703",
     "geom:latitude":52.068703,
     "geom:longitude":5.1376,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859943,
+        1108808795,
+        102191581,
+        1108832363,
         85633337,
+        101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6IfMKjQESWKNJj8WI8teON_52.068703_5.137600@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d35952fc8779dfc59cd5f3e85954fa84",
+    "wof:geomhash":"4b94272c491f12aab90db93570355e8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859943,
+            "locality_id":101751827,
+            "macrohood_id":1108832363,
+            "neighbourhood_id":1108808795,
             "region_id":85687039,
             "venue_id":320260795
         }
     ],
     "wof:id":320260795,
-    "wof:lastmodified":1473879131,
+    "wof:lastmodified":1492482221,
     "wof:name":"Arabesk",
-    "wof:parent_id":85859943,
+    "wof:parent_id":1108808795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

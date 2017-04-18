@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7560281754,52.3731575012,4.7560281754,52.3731575012",
     "geom:latitude":52.373158,
     "geom:longitude":4.756028,
@@ -24,9 +25,11 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687053,
+        102191581,
+        404474065,
         85633337,
-        85798675,
-        85687053
+        101754847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473802627,
-    "wof:geomhash":"772c818a312028a219d7131fc353507b",
+    "wof:geomhash":"ae73cb2b0a79b32bafbbbdce6548b36b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798675,
+            "localadmin_id":404474065,
+            "locality_id":101754847,
             "region_id":85687053,
             "venue_id":1091601857
         }
     ],
     "wof:id":1091601857,
-    "wof:lastmodified":1473878555,
+    "wof:lastmodified":1492512712,
     "wof:name":"Colorique",
-    "wof:parent_id":85798675,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

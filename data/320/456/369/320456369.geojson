@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.899466,52.345058,4.899466,52.345058",
     "geom:latitude":52.345058,
     "geom:longitude":4.899466,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803935,
+        1108802897,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7WILVzTac2a63zYjr8pTBH_52.345058_4.899466@1306269998"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a17d988ecb1d29102d42def949dd15da",
+    "wof:geomhash":"5fa091efae9ea52c063375b6427c2baf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803935,
+            "neighbourhood_id":1108802897,
             "region_id":85687053,
             "venue_id":320456369
         }
     ],
     "wof:id":320456369,
-    "wof:lastmodified":1473879316,
+    "wof:lastmodified":1492482882,
     "wof:name":"Revliz",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

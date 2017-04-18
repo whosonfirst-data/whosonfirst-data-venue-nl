@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.786038,52.345703,4.786038,52.345703",
     "geom:latitude":52.345703,
     "geom:longitude":4.786038,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108804159,
+        1108802857,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6kL6kjiYz4uC0BAvwyJcr5_52.345703_4.786038@1306269923"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dda4f80b7fe87cec92290bd0c256ec7b",
+    "wof:geomhash":"5bae07e707d52c42d09d5803f952c34f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108804159,
+            "neighbourhood_id":1108802857,
             "region_id":85687053,
             "venue_id":203356787
         }
     ],
     "wof:id":203356787,
-    "wof:lastmodified":1473879305,
+    "wof:lastmodified":1492479849,
     "wof:name":"Os Lusitanos",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108804159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.088374,52.117512,5.088374,52.117512",
     "geom:latitude":52.117512,
     "geom:longitude":5.088374,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808857,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_708oaqmeEJGTzAZdWpusyq_52.117512_5.088374@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e1d4fdf425268c4fbf85bdd57b2c9c7e",
+    "wof:geomhash":"eabde7f2eafbd2474ac1b1e8646048d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808857,
             "region_id":85687039,
             "venue_id":219383499
         }
     ],
     "wof:id":219383499,
-    "wof:lastmodified":1473879070,
+    "wof:lastmodified":1492502780,
     "wof:name":"Archidan Klussenbedrijf",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808857,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

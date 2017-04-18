@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.850222,52.350201,4.850222,52.350201",
     "geom:latitude":52.350201,
     "geom:longitude":4.850222,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803473,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0SQ03yCXrTWea45DN9jPC3_52.350201_4.850222@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3d1e701bbd8ba363eb93ff215178b59c",
+    "wof:geomhash":"f8c05b0f4928f3f4f864bf713be17e9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803473,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":202763507
         }
     ],
     "wof:id":202763507,
-    "wof:lastmodified":1473879184,
+    "wof:lastmodified":1492498329,
     "wof:name":"Barnett Vertalingen",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.319634,52.076672,4.319634,52.076672",
     "geom:latitude":52.076672,
     "geom:longitude":4.319634,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808255,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_641rGHGQ3k6DjIPvWNZaqc_52.076672_4.319634@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e1557a9f5e4ad2ffccd5a1ceac537fbe",
+    "wof:geomhash":"afa2c9b97a2d5fee44a6229fb8d8c427",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808255,
             "region_id":85687041,
             "venue_id":202796605
         }
     ],
     "wof:id":202796605,
-    "wof:lastmodified":1473879208,
+    "wof:lastmodified":1492499079,
     "wof:name":"Sinotrans",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

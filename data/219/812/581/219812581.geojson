@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.905363,52.365196,4.905363,52.365196",
     "geom:latitude":52.365196,
     "geom:longitude":4.905363,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.satya.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803643,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_7FUTRD0DQ4xINp4prNkCtI_52.365196_4.905363@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"deb8ce892d196a725a8cda03e3361c0d",
+    "wof:geomhash":"d0bd41040dd9683415de0a1de5768b05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803643,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":219812581
         }
     ],
     "wof:id":219812581,
-    "wof:lastmodified":1473879728,
+    "wof:lastmodified":1492502216,
     "wof:name":"Henkes, Satya",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

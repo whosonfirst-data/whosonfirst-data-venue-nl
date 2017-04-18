@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.456966,51.979687,4.456966,51.979687",
     "geom:latitude":51.979687,
     "geom:longitude":4.456966,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798381,
+        102542781,
+        1108805865,
+        102191581,
         85633337,
-        101807023,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3xNJHCBlaY4uArIxNHpdJE_51.979687_4.456966@1306269933"
     },
     "wof:country":"NL",
-    "wof:geomhash":"77ddd7fd4e4894ff57f11a1d6fab2f71",
+    "wof:geomhash":"cb06b0caad601f16fc21ea69326c61fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "campus_id":102542781,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101807023,
-            "neighbourhood_id":85798381,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805865,
             "region_id":85687041,
             "venue_id":235946193
         }
     ],
     "wof:id":235946193,
-    "wof:lastmodified":1473878513,
+    "wof:lastmodified":1492514575,
     "wof:name":"Metaalbedrijf Bv",
-    "wof:parent_id":85798381,
+    "wof:parent_id":102542781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

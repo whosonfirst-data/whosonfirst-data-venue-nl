@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881431,52.370125,4.881431,52.370125",
     "geom:latitude":52.370125,
     "geom:longitude":4.881431,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3VJ10Y2fQMBqkILnmw3PRI_52.370125_4.881431@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cb11118446493ea73e2b8884e1477080",
+    "wof:geomhash":"1b66b5ebdb148cd15fae6a7e541317c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":304041493
         }
     ],
     "wof:id":304041493,
-    "wof:lastmodified":1473878709,
+    "wof:lastmodified":1492504657,
     "wof:name":"Pieterse, H",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

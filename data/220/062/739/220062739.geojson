@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912974,52.369312,4.912974,52.369312",
     "geom:latitude":52.369312,
     "geom:longitude":4.912974,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.dok.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804161,
+        1108802879,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_1iMl5xHQxnp7fCMViKDQvX_52.369312_4.912974@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cddcf55d6d63015ce53bd451f2f60d60",
+    "wof:geomhash":"28c306c024f0f8f0ab1ead1feb803935",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804161,
+            "neighbourhood_id":1108802879,
             "region_id":85687053,
             "venue_id":220062739
         }
     ],
     "wof:id":220062739,
-    "wof:lastmodified":1473878683,
+    "wof:lastmodified":1492481655,
     "wof:name":"Dok",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

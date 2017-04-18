@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.252368,52.080524,4.252368,52.080524",
     "geom:latitude":52.080524,
     "geom:longitude":4.252368,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859589,
+        85798595,
+        102191581,
+        1108808131,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4M3p5qjxUUC6ctIMmhWVRC_52.080524_4.252368@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"265b7f794523a4e194f31fae184b73c4",
+    "wof:geomhash":"5197ea9ab030d0b0a96deab2ad30a5c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859589,
+            "macrohood_id":1108808131,
+            "neighbourhood_id":85798595,
             "region_id":85687041,
             "venue_id":270021637
         }
     ],
     "wof:id":270021637,
-    "wof:lastmodified":1473878500,
+    "wof:lastmodified":1492500563,
     "wof:name":"Finraed Bv",
-    "wof:parent_id":85859589,
+    "wof:parent_id":85798595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

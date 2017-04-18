@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.932445,52.337532,4.932445,52.337532",
     "geom:latitude":52.337532,
     "geom:longitude":4.932445,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803887,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6Z62HOvRyMutwZ3cky6pfh_52.337532_4.932445@1306269998"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2f5c24bd7cf861691d2bcd22bb4e2def",
+    "wof:geomhash":"23e0db29f739903b2f951ffd2272811b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803887,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":320435683
         }
     ],
     "wof:id":320435683,
-    "wof:lastmodified":1473879312,
+    "wof:lastmodified":1492481815,
     "wof:name":"Balder Transport",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

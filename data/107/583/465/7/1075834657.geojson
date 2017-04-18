@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7953748703,52.1240501404,4.7953748703,52.1240501404",
     "geom:latitude":52.12405,
     "geom:longitude":4.795375,
@@ -24,17 +25,30 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.elwi.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474285,
+        85633337,
+        85687039
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tbeuKjGL2wFDO6roYGv8y_52.124050_4.795375@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800038,
-    "wof:geomhash":"fe6e8defb9df4a8ce41b358578fa956b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f80ee6ef3e7e529d8746c1443ef79c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474285,
+            "region_id":85687039,
+            "venue_id":1075834657
+        }
+    ],
     "wof:id":1075834657,
-    "wof:lastmodified":1473879413,
+    "wof:lastmodified":1492485591,
     "wof:name":"Elwi-Electra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.930128,52.378174,4.930128,52.378174",
     "geom:latitude":52.378174,
     "geom:longitude":4.930128,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803413,
+        1108802877,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5Ol97ldL7kjZFVdYlG37mM_52.378174_4.930128@1306269932"
     },
     "wof:country":"NL",
-    "wof:geomhash":"46d640b13ce2719eae4e47c84dd79dad",
+    "wof:geomhash":"f831eb7db9226751e7a3a2e0250b395b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803413,
+            "neighbourhood_id":1108802877,
             "region_id":85687053,
             "venue_id":220130161
         }
     ],
     "wof:id":220130161,
-    "wof:lastmodified":1473878929,
+    "wof:lastmodified":1492481202,
     "wof:name":"Martens Comm",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803413,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

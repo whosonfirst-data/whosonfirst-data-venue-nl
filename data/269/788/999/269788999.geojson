@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.294056,52.0821,4.294056,52.0821",
     "geom:latitude":52.0821,
     "geom:longitude":4.294056,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_7ESRbmVPSbRgm221k6W4OG_52.082100_4.294056@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c8b51a705936251e0b0767aa38b3ecfe",
+    "wof:geomhash":"954c74372e5fcf53cdcbe1e9d7d02ce2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":269788999
         }
     ],
     "wof:id":269788999,
-    "wof:lastmodified":1473879471,
+    "wof:lastmodified":1492495002,
     "wof:name":"Snackbar Snoopy",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

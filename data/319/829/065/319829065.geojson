@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.869126,52.355469,4.869126,52.355469",
     "geom:latitude":52.355469,
     "geom:longitude":4.869126,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.hotel-zandbergen.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803475,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_7bq5GH66Llok7JRlEy6PDC_52.355469_4.869126@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"90b78cf160fb1bb8250080c5569ddfec",
+    "wof:geomhash":"2a844ab938dc27d26b95434622af6da5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803475,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":319829065
         }
     ],
     "wof:id":319829065,
-    "wof:lastmodified":1473878542,
+    "wof:lastmodified":1492479189,
     "wof:name":"Zandbergen, Hotel",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

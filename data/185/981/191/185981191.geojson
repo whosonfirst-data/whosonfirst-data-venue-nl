@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.898762,52.374714,4.898762,52.374714",
     "geom:latitude":52.374714,
     "geom:longitude":4.898762,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803787,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0XLfc6hP2CU9XHnpHIHKud_52.374714_4.898762@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fd633fa952c5fc52473d8c265c99e817",
+    "wof:geomhash":"ad6ac23b34ffab628ae41feab09c33d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803787,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":185981191
         }
     ],
     "wof:id":185981191,
-    "wof:lastmodified":1473878983,
+    "wof:lastmodified":1492488098,
     "wof:name":"Prinses Juliana",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

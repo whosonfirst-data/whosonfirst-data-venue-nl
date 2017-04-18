@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881418,52.369606,4.881418,52.369606",
     "geom:latitude":52.369606,
     "geom:longitude":4.881418,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_5Oem4ulL9Jc0NpXupwOyXx_52.369606_4.881418@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"81f20b134774ecf2645ce81d70154b64",
+    "wof:geomhash":"70bfe3ebfa9b474dc2f37dcfe0bbcd2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":269825487
         }
     ],
     "wof:id":269825487,
-    "wof:lastmodified":1473879511,
+    "wof:lastmodified":1492496097,
     "wof:name":"Rakang Thai",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

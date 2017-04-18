@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880505,52.373158,4.880505,52.373158",
     "geom:latitude":52.373158,
     "geom:longitude":4.880505,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_65OkL8KeIREviGRl4wsV6G_52.373158_4.880505@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"32924d26ce267b8c00a8df8f88af8317",
+    "wof:geomhash":"1f3f9b2978c97a07aa7658403287ffdf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":270217253
         }
     ],
     "wof:id":270217253,
-    "wof:lastmodified":1473878902,
+    "wof:lastmodified":1492500995,
     "wof:name":"F.J. Van Diem",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

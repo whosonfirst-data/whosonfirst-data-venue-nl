@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.331644,52.094986,4.331644,52.094986",
     "geom:latitude":52.094986,
     "geom:longitude":4.331644,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859627,
+        1108808147,
+        102191581,
+        1108805961,
         85633337,
+        101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_3X2JHYoUAeO12RYp9tqJVH_52.094986_4.331644@1306269906"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2cf8795ef1ac566a0321c45a7c6f3ada",
+    "wof:geomhash":"cb5c37e9cd35e0ad0e4f3aa12c58a4c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859627,
+            "locality_id":101752763,
+            "macrohood_id":1108805961,
+            "neighbourhood_id":1108808147,
             "region_id":85687041,
             "venue_id":169812035
         }
     ],
     "wof:id":169812035,
-    "wof:lastmodified":1473878786,
+    "wof:lastmodified":1492478502,
     "wof:name":"Pentille Coiffures",
-    "wof:parent_id":85859627,
+    "wof:parent_id":1108808147,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.555446,51.931606,4.555446,51.931606",
     "geom:latitude":51.931606,
     "geom:longitude":4.555446,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798375,
+        1108805851,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3m57gtX2zTDL87RrzrJvDG_51.931606_4.555446@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fe8bbb06f3ee0f828c9ffaf1cb64fa22",
+    "wof:geomhash":"9875c11a171be532d7e74dbfaebc0a51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85798375,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805851,
+            "region_id":85687041,
+            "venue_id":252872075
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805851,
             "region_id":85687041,
             "venue_id":252872075
         }
     ],
     "wof:id":252872075,
-    "wof:lastmodified":1473878760,
+    "wof:lastmodified":1492505083,
     "wof:name":"Roan",
-    "wof:parent_id":85798375,
+    "wof:parent_id":1108805851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

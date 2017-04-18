@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879864,52.359585,4.879864,52.359585",
     "geom:latitude":52.359585,
     "geom:longitude":4.879864,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803565,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_7eZPRqxB22rC0kjRtKgpct_52.359585_4.879864@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7883db384a59b0252ce145773513529f",
+    "wof:geomhash":"6007f064eedb9efba350bb8edd469983",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803565,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":270499809
         }
     ],
     "wof:id":270499809,
-    "wof:lastmodified":1473879361,
+    "wof:lastmodified":1492500672,
     "wof:name":"Cornelis Vrijschool",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

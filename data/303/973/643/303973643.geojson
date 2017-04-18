@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8271,52.353924,4.8271,52.353924",
     "geom:latitude":52.353924,
     "geom:longitude":4.8271,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803265,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_33j4fp2ZGH1Hu170xspdKP_52.353924_4.827100@1306269989"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f3126d865f7d00e61565f7881923342e",
+    "wof:geomhash":"01a333b1772b08514647df9f12baa560",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803265,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":303973643
         }
     ],
     "wof:id":303973643,
-    "wof:lastmodified":1473879671,
+    "wof:lastmodified":1492473096,
     "wof:name":"Schreuder, J H T",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

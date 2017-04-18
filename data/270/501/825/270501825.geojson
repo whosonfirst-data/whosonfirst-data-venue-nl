@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.285294,52.074066,4.285294,52.074066",
     "geom:latitude":52.074066,
     "geom:longitude":4.285294,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797151,
+        1108808215,
+        102191581,
+        1108808117,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_3IxwBFONIEAMDKHUbP1ILy_52.074066_4.285294@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7f8d7a63f0b44cccc56ab5541b06a60b",
+    "wof:geomhash":"1afb8e2471d74ef37e4472bc1e6ca748",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797151,
+            "macrohood_id":1108808117,
+            "neighbourhood_id":1108808215,
             "region_id":85687041,
             "venue_id":270501825
         }
     ],
     "wof:id":270501825,
-    "wof:lastmodified":1473879351,
+    "wof:lastmodified":1492501049,
     "wof:name":"De Dondersteentjes",
-    "wof:parent_id":85797151,
+    "wof:parent_id":1108808215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.091048,52.122017,5.091048,52.122017",
     "geom:latitude":52.122017,
     "geom:longitude":5.091048,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808893,
+        102191581,
+        1108832365,
         85633337,
         101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3yzLilN3TOdAOGTPupLSD5_52.122017_5.091048@1306269923"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1395dc79e1cc1159837f8f99be4d2842",
+    "wof:geomhash":"7c82d7ccaa31295f8637816db554b719",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808893,
             "region_id":85687039,
             "venue_id":203368061
         }
     ],
     "wof:id":203368061,
-    "wof:lastmodified":1473879309,
+    "wof:lastmodified":1492480665,
     "wof:name":"College De Klop",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

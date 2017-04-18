@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.935339,52.398674,4.935339,52.398674",
     "geom:latitude":52.398674,
     "geom:longitude":4.935339,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803947,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5pLgasBq68ttdyKw0krLgL_52.398674_4.935339@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d7e1d80717536d30f2e8e55a576eb655",
+    "wof:geomhash":"667d28f72b93b7e52d54d643ff117cba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803947,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":186089381
         }
     ],
     "wof:id":186089381,
-    "wof:lastmodified":1473878891,
+    "wof:lastmodified":1492508170,
     "wof:name":"Copy Right Center",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

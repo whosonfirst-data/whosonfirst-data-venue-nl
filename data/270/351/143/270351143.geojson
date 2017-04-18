@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.491474,51.43644,5.491474,51.43644",
     "geom:latitude":51.43644,
     "geom:longitude":5.491474,
@@ -24,40 +25,41 @@
     "sg:province":"North Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797291,
         85633337,
-        101751819,
+        85798505,
         85687035,
-        85798505
+        85797291,
+        102191581,
+        404474375,
+        101751819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LccKFpmwEcj13sR7IXcpo_51.436440_5.491474@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3d737bc58cd425123c07bc956b7dc987",
+    "wof:geomhash":"ec791e3b02966fd3b56b40c3664936b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751819,
-            "neighbourhood_id":85797291,
+            "neighbourhood_id":85798505,
             "region_id":85687035,
             "venue_id":270351143
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798505,
+            "localadmin_id":404474375,
+            "locality_id":101751819,
+            "neighbourhood_id":85797291,
             "region_id":85687035,
             "venue_id":270351143
         }
     ],
     "wof:id":270351143,
-    "wof:lastmodified":1473879155,
+    "wof:lastmodified":1492500755,
     "wof:name":"Lafaire",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

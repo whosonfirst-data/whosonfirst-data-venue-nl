@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.939674,52.352592,4.939674,52.352592",
     "geom:latitude":52.352592,
     "geom:longitude":4.939674,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804217,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0ya2lBA8wM5JoeRBX4WP6W_52.352592_4.939674@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1825687cfe5c1510f86a5bfc979b4786",
+    "wof:geomhash":"521c0480b5fd1e376549e7f8def26090",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804217,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":202832905
         }
     ],
     "wof:id":202832905,
-    "wof:lastmodified":1473879356,
+    "wof:lastmodified":1492498835,
     "wof:name":"Invision",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

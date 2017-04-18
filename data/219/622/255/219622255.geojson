@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.100735,52.069023,5.100735,52.069023",
     "geom:latitude":52.069023,
     "geom:longitude":5.100735,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.flantua.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797771,
+        1108808767,
+        102191581,
+        1108808647,
         85633337,
         101751827,
+        1108808679,
         85687039
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_6QCUnjgySMdOK6gveclQsv_52.069023_5.100735@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f4cdaec359567b9e704ab7d093546c9b",
+    "wof:geomhash":"c638e32365026da554db14702c8dcfd6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808679,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797771,
+            "macrohood_id":1108808647,
+            "neighbourhood_id":1108808767,
             "region_id":85687039,
             "venue_id":219622255
         }
     ],
     "wof:id":219622255,
-    "wof:lastmodified":1473879509,
+    "wof:lastmodified":1492503067,
     "wof:name":"Flantua",
-    "wof:parent_id":85797771,
+    "wof:parent_id":1108808767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

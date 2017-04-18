@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.838139,52.372917,4.838139,52.372917",
     "geom:latitude":52.372917,
     "geom:longitude":4.838139,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803729,
+        1108802783,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4911jMQ1obJKAq67Jz6OaW_52.372917_4.838139@1306269984"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5f2821ebf60d6a1135e871ebefa54de8",
+    "wof:geomhash":"c9662c159fa7bf78e323a4f4a232544d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803729,
+            "neighbourhood_id":1108802783,
             "region_id":85687053,
             "venue_id":303481669
         }
     ],
     "wof:id":303481669,
-    "wof:lastmodified":1473879185,
+    "wof:lastmodified":1492471849,
     "wof:name":"Sportpark Jan Van Galen",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

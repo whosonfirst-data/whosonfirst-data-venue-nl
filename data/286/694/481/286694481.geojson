@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.094086,52.091946,5.094086,52.091946",
     "geom:latitude":52.091946,
     "geom:longitude":5.094086,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808791,
+        102191581,
+        1108808651,
         85633337,
         101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4VR1qGHISkIexT7nmIJeKB_52.091946_5.094086@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3379a4e22cd6d85e78e7fb67243bba08",
+    "wof:geomhash":"acec17bddc84a14f11ae4022efdb698f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808651,
+            "neighbourhood_id":1108808791,
             "region_id":85687039,
             "venue_id":286694481
         }
     ],
     "wof:id":286694481,
-    "wof:lastmodified":1473879431,
+    "wof:lastmodified":1492475207,
     "wof:name":"Ham, Van",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88255,52.372036,4.88255,52.372036",
     "geom:latitude":52.372036,
     "geom:longitude":4.88255,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7ZL3OtCY8avXPJbWHMpe5Y_52.372036_4.882550@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bf676a767ad5a01ceada851b545b5836",
+    "wof:geomhash":"079eacffa32d931716cac73a96973911",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":185873903
         }
     ],
     "wof:id":185873903,
-    "wof:lastmodified":1473878804,
+    "wof:lastmodified":1492487552,
     "wof:name":"Fakkeldij Groep",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

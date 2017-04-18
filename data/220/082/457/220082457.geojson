@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.889092,52.330048,4.889092,52.330048",
     "geom:latitude":52.330048,
     "geom:longitude":4.889092,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.nijsse-international.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803327,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_24ob3bWufSuucjPXIjkPCP_52.330048_4.889092@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"03b25f824d7b77a71a60baa2a1df7185",
+    "wof:geomhash":"88477e996f55eda991c4cd489ac99386",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803327,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":220082457
         }
     ],
     "wof:id":220082457,
-    "wof:lastmodified":1473878713,
+    "wof:lastmodified":1492481153,
     "wof:name":"Nmc-Nijsse Int",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

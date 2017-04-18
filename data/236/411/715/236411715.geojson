@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.913643,52.360222,4.913643,52.360222",
     "geom:latitude":52.360222,
     "geom:longitude":4.913643,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803279,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5n2qoOMzKNWw75NrrCl1qN_52.360222_4.913643@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"63b2b8d3a66a50e14867d01b7fc697eb",
+    "wof:geomhash":"12a95b31b0f7339a9ff6446dc80f62f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803279,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":236411715
         }
     ],
     "wof:id":236411715,
-    "wof:lastmodified":1473879276,
+    "wof:lastmodified":1492494077,
     "wof:name":"A E L Braumuller",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

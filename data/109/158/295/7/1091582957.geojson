@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5094661713,51.8959388733,4.5094661713,51.8959388733",
     "geom:latitude":51.895939,
     "geom:longitude":4.509466,
@@ -26,11 +27,10 @@
     "wof:belongsto":[
         85859891,
         102191581,
-        404474245,
         85633337,
         101751843,
-        85687041,
-        85859885
+        1108805747,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,31 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473801337,
-    "wof:geomhash":"9b2074737d7ddcb1d290148a09f3f0a1",
+    "wof:geomhash":"6cc657a55a6835c53f31d448cf301f1e",
     "wof:hierarchy":[
         {
+            "borough_id":1108805747,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474245,
             "locality_id":101751843,
             "neighbourhood_id":85859891,
-            "region_id":85687041,
-            "venue_id":1091582957
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474245,
-            "locality_id":101751843,
-            "neighbourhood_id":85859885,
             "region_id":85687041,
             "venue_id":1091582957
         }
     ],
     "wof:id":1091582957,
-    "wof:lastmodified":1473878644,
+    "wof:lastmodified":1492511812,
     "wof:name":"Amistad",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859891,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

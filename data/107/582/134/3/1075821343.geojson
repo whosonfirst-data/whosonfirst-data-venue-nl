@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.08604002,52.083278656,5.08604002,52.083278656",
     "geom:latitude":52.083279,
     "geom:longitude":5.08604,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         85798153,
+        102191581,
+        85633337,
+        101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -34,17 +38,20 @@
     },
     "wof:country":"NL",
     "wof:created":1473799185,
-    "wof:geomhash":"ff8448def03de5ee8cff15ffe670532c",
+    "wof:geomhash":"5f012a5673b7b4b39ab0f8645159a89e",
     "wof:hierarchy":[
         {
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751827,
             "neighbourhood_id":85798153,
             "region_id":85687039,
             "venue_id":1075821343
         }
     ],
     "wof:id":1075821343,
-    "wof:lastmodified":1473879227,
+    "wof:lastmodified":1492486734,
     "wof:name":"Asielzoekerscentrum Utrecht",
     "wof:parent_id":85798153,
     "wof:placetype":"venue",

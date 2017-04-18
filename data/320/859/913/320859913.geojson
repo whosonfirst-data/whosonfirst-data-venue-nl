@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.887766,52.390194,4.887766,52.390194",
     "geom:latitude":52.390194,
     "geom:longitude":4.887766,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803869,
+        1108802911,
+        102191581,
         85633337,
+        101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1quKUu4A4BJQCCsUsydoMN_52.390194_4.887766@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b38a07c78c7d4a9a7b77cc42eb64ce3d",
+    "wof:geomhash":"636a7a5ec5dc6bb4a61667e73e2469a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803869,
+            "neighbourhood_id":1108802911,
             "region_id":85687053,
             "venue_id":320859913
         }
     ],
     "wof:id":320859913,
-    "wof:lastmodified":1473879660,
+    "wof:lastmodified":1492485282,
     "wof:name":"Van Haaren & Partners",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803869,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

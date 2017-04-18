@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.137107,52.064838,5.137107,52.064838",
     "geom:latitude":52.064838,
     "geom:longitude":5.137107,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859943,
+        1108808795,
+        102191581,
+        1108832363,
         85633337,
+        101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_0mHfMgFsaDSsgwPqweVIvY_52.064838_5.137107@1306269982"
     },
     "wof:country":"NL",
-    "wof:geomhash":"de3230bf2c5796d5a4839bf4b1b433ba",
+    "wof:geomhash":"92ab74270aa93961083d9b76569fb08f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859943,
+            "locality_id":101751827,
+            "macrohood_id":1108832363,
+            "neighbourhood_id":1108808795,
             "region_id":85687039,
             "venue_id":303319261
         }
     ],
     "wof:id":303319261,
-    "wof:lastmodified":1473879099,
+    "wof:lastmodified":1492470940,
     "wof:name":"Bottina Bv",
-    "wof:parent_id":85859943,
+    "wof:parent_id":1108808795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

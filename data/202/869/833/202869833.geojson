@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.909544,52.344891,4.909544,52.344891",
     "geom:latitude":52.344891,
     "geom:longitude":4.909544,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803613,
+        1108802895,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6Db7eMfOcWSUzl6FKf46SP_52.344891_4.909544@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"005d70c3babce5dac4650efcc0c3ced4",
+    "wof:geomhash":"106793ecfa7903723aff8ddc7cd3219a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803613,
+            "neighbourhood_id":1108802895,
             "region_id":85687053,
             "venue_id":202869833
         }
     ],
     "wof:id":202869833,
-    "wof:lastmodified":1473879371,
+    "wof:lastmodified":1492497082,
     "wof:name":"Hofman",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

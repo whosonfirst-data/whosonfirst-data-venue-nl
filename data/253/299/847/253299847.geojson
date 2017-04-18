@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882485,52.372936,4.882485,52.372936",
     "geom:latitude":52.372936,
     "geom:longitude":4.882485,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1ikeY9zgEeyMnIdoHCy3o7_52.372936_4.882485@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d841665ee1314d4ffbee44999c750cdd",
+    "wof:geomhash":"eec80267b9b2a6abe17134ebc6ba65db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":253299847
         }
     ],
     "wof:id":253299847,
-    "wof:lastmodified":1473879385,
+    "wof:lastmodified":1492488962,
     "wof:name":"Miracles Fine Art",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

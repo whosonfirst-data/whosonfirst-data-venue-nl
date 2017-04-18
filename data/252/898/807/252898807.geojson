@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.518598,51.922024,4.518598,51.922024",
     "geom:latitude":51.922024,
     "geom:longitude":4.518598,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805803,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3cSai658rlvJRAE0D0rKCZ_51.922024_4.518598@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"78dbd49d322f9e6b49bb741c2571d4d0",
+    "wof:geomhash":"c7532ea0859a6151dc69bfbd72cc371e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805803,
             "region_id":85687041,
             "venue_id":252898807
         }
     ],
     "wof:id":252898807,
-    "wof:lastmodified":1473878838,
+    "wof:lastmodified":1492505375,
     "wof:name":"Hekking Bv",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

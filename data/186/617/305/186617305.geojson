@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.96458,52.299915,4.96458,52.299915",
     "geom:latitude":52.299915,
     "geom:longitude":4.96458,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803365,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2ISts7DRX7rOhbNS80YtOs_52.299915_4.964580@1306269914"
     },
     "wof:country":"NL",
-    "wof:geomhash":"aa58922131fbf20af1867526d9070024",
+    "wof:geomhash":"fce41c6f2061c986e3683238f859449f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803365,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":186617305
         }
     ],
     "wof:id":186617305,
-    "wof:lastmodified":1473879627,
+    "wof:lastmodified":1492508490,
     "wof:name":"Royal, Centr",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803365,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

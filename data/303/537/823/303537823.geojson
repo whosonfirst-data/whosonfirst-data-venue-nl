@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.897978,52.40633,4.897978,52.40633",
     "geom:latitude":52.40633,
     "geom:longitude":4.897978,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803309,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6w10ZC4Uh4m3yipSyvi2OR_52.406330_4.897978@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9bb20b1ceba0271f37d69849af08f669",
+    "wof:geomhash":"2aba702982a9c0f7432d573c5b053e9f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803309,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":303537823
         }
     ],
     "wof:id":303537823,
-    "wof:lastmodified":1473879298,
+    "wof:lastmodified":1492474703,
     "wof:name":"Brijker-Van De Nesse Schoonmaakbedrijf",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

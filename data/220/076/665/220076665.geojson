@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.887129,52.365124,4.887129,52.365124",
     "geom:latitude":52.365124,
     "geom:longitude":4.887129,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.boyden.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803665,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3LT0NI1P9GktLBLgRApXn3_52.365124_4.887129@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2549a0880f1e0d8454771b8b2fea2007",
+    "wof:geomhash":"7683c9b26c7d0cbd4c429e3cfdbba752",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803665,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":220076665
         }
     ],
     "wof:id":220076665,
-    "wof:lastmodified":1473878686,
+    "wof:lastmodified":1492481512,
     "wof:name":"Boyden",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

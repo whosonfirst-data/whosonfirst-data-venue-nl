@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.895654,52.375423,4.895654,52.375423",
     "geom:latitude":52.375423,
     "geom:longitude":4.895654,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.hotel-de-korenaer.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803257,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_6kZHiI92KYG6ETwYaFZRqI_52.375423_4.895654@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ca41093e000e4109e6ceb130041cd4a8",
+    "wof:geomhash":"00703526ee1b2d1036d44f379e8b38be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803257,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":270466211
         }
     ],
     "wof:id":270466211,
-    "wof:lastmodified":1473879269,
+    "wof:lastmodified":1492500519,
     "wof:name":"De Korenaer Hotel",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

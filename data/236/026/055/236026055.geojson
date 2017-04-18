@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.898951,52.37566,4.898951,52.37566",
     "geom:latitude":52.37566,
     "geom:longitude":4.898951,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804101,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_66y27IvnuUFEli5GrO572U_52.375660_4.898951@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7c5a921e2cbca67fdb9aad762e5eb821",
+    "wof:geomhash":"6a4f3d77eb6164bf17d8d20bb7e169cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804101,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":236026055
         }
     ],
     "wof:id":236026055,
-    "wof:lastmodified":1473878584,
+    "wof:lastmodified":1492491426,
     "wof:name":"Bar The Last Waterhole",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

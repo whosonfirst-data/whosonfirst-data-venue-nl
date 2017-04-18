@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.30555,52.0681,4.30555,52.0681",
     "geom:latitude":52.0681,
     "geom:longitude":4.30555,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798385,
+        1108808261,
+        102191581,
+        1108808035,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5jEF9McB2YZFsMA0WPEoII_52.068100_4.305550@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"59873db62d234f00c846854e8ea5f782",
+    "wof:geomhash":"753a9c9fc8995190ee173a43dfb286a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798385,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808261,
             "region_id":85687041,
             "venue_id":186396563
         }
     ],
     "wof:id":186396563,
-    "wof:lastmodified":1473879396,
+    "wof:lastmodified":1492508714,
     "wof:name":"Haags Werk Bedrijf Groep",
-    "wof:parent_id":85798385,
+    "wof:parent_id":1108808261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

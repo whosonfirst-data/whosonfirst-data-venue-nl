@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881235,52.369549,4.881235,52.369549",
     "geom:latitude":52.369549,
     "geom:longitude":4.881235,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_25FD8juvOiqtqoFx6GOdf1_52.369549_4.881235@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"044acde0f414cb3d016c3b4a38cdc6cd",
+    "wof:geomhash":"7b4743a69ef47ee4436a0baeef90fd7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":320710027
         }
     ],
     "wof:id":320710027,
-    "wof:lastmodified":1473879559,
+    "wof:lastmodified":1492485113,
     "wof:name":"Sunfit",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

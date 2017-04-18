@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5080471039,52.1775360107,5.5080471039,52.1775360107",
     "geom:latitude":52.177536,
     "geom:longitude":5.508047,
@@ -23,17 +24,32 @@
     "sg:postcode":"3785 LP",
     "sg:province":"Gelderland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473873,
+        85633337,
+        101855377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FfWUlR3qtC8wvNPuIcmBI_52.177536_5.508047@1306270010"
     },
     "wof:country":"NL",
     "wof:created":1473799659,
-    "wof:geomhash":"16cd81130ef575461a35b4728ed8cde0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36dae57905179ffd0171f5d58f2ed1c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473873,
+            "locality_id":101855377,
+            "region_id":85687043,
+            "venue_id":1075827785
+        }
+    ],
     "wof:id":1075827785,
-    "wof:lastmodified":1473879500,
+    "wof:lastmodified":1492486902,
     "wof:name":"De Belleman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

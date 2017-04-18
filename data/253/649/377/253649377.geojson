@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.941364,52.358768,4.941364,52.358768",
     "geom:latitude":52.358768,
     "geom:longitude":4.941364,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803801,
+        1108802843,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6RBqZVaPhuH5j7N9x3GmAS_52.358768_4.941364@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6068185c3fe7430c363faad0db96b027",
+    "wof:geomhash":"0744969cc96349df0cf1553c9ffced84",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803801,
+            "neighbourhood_id":1108802843,
             "region_id":85687053,
             "venue_id":253649377
         }
     ],
     "wof:id":253649377,
-    "wof:lastmodified":1473879705,
+    "wof:lastmodified":1492488621,
     "wof:name":"Assem, J R Van Der",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

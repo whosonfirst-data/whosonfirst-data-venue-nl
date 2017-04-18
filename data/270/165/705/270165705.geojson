@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.854596,52.370983,4.854596,52.370983",
     "geom:latitude":52.370983,
     "geom:longitude":4.854596,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108804001,
+        1108802931,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5ZnVDEIRNUoOi2ACaIhEdF_52.370983_4.854596@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"71813fd47abaf0141b1ba12e8fdc7202",
+    "wof:geomhash":"a810e325194affb6ea2074bff382a543",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108804001,
+            "neighbourhood_id":1108802931,
             "region_id":85687053,
             "venue_id":270165705
         }
     ],
     "wof:id":270165705,
-    "wof:lastmodified":1473878730,
+    "wof:lastmodified":1492500022,
     "wof:name":"Super Photo Snelservice",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108804001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

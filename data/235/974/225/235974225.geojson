@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.553156,51.913311,4.553156,51.913311",
     "geom:latitude":51.913311,
     "geom:longitude":4.553156,
@@ -25,28 +26,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85797865,
+        102191581,
         85633337,
-        101754669,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JeJiiOC9xQu6seB5ww4FC_51.913311_4.553156@1306269933"
     },
     "wof:country":"NL",
-    "wof:geomhash":"caaaf8a2861da1537181d859a1507d9c",
+    "wof:geomhash":"1c7f9ccf81c716dfd505518dec53c502",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754669,
+            "locality_id":101751843,
+            "neighbourhood_id":85797865,
+            "region_id":85687041,
+            "venue_id":235974225
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
             "neighbourhood_id":85797865,
             "region_id":85687041,
             "venue_id":235974225
         }
     ],
     "wof:id":235974225,
-    "wof:lastmodified":1473878575,
+    "wof:lastmodified":1492514462,
     "wof:name":"Samsara",
     "wof:parent_id":85797865,
     "wof:placetype":"venue",

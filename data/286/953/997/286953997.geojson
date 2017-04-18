@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.875504,52.375431,4.875504,52.375431",
     "geom:latitude":52.375431,
     "geom:longitude":4.875504,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803847,
+        1108802807,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_55MMnD3QtSPeECXAmBzNyt_52.375431_4.875504@1306269975"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e27ed2f9e4297fc8bc6a38bc66069691",
+    "wof:geomhash":"5fe57f6c0c2876a2aed3d06c7dc9f376",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803847,
+            "neighbourhood_id":1108802807,
             "region_id":85687053,
             "venue_id":286953997
         }
     ],
     "wof:id":286953997,
-    "wof:lastmodified":1473879721,
+    "wof:lastmodified":1492475961,
     "wof:name":"Morning Glory",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

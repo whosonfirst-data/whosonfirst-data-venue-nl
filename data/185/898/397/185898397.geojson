@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885035,52.365852,4.885035,52.365852",
     "geom:latitude":52.365852,
     "geom:longitude":4.885035,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803761,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7W0IQ1uH60npo6MNSuyLTt_52.365852_4.885035@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5804d64df46f8f8baa14678d6c1dd83f",
+    "wof:geomhash":"a5689723db3c661f2be4ac2bb2877b5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803761,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":185898397
         }
     ],
     "wof:id":185898397,
-    "wof:lastmodified":1473878867,
+    "wof:lastmodified":1492487832,
     "wof:name":"Kinderdagverblijf Baboffel",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

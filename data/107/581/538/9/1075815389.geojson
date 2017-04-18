@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.0586252213,52.8748245239,7.0586252213,52.8748245239",
     "geom:latitude":52.874825,
     "geom:longitude":7.058625,
@@ -24,17 +25,32 @@
     "sg:province":"Groningen",
     "sg:website":"http://www.booijoptiek.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473739,
+        85633337,
+        101838031
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3P59lpJR63MSjwIhjRKx24_52.874825_7.058625@1306270008"
     },
     "wof:country":"NL",
     "wof:created":1473798904,
-    "wof:geomhash":"764825463438dfc1a5ba2adf21f1e8ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0ad2d5da4c356dc20496440aa2dfedd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473739,
+            "locality_id":101838031,
+            "region_id":85687059,
+            "venue_id":1075815389
+        }
+    ],
     "wof:id":1075815389,
-    "wof:lastmodified":1473879012,
+    "wof:lastmodified":1492486159,
     "wof:name":"Booij Optiek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879855,52.378193,4.879855,52.378193",
     "geom:latitude":52.378193,
     "geom:longitude":4.879855,
@@ -35,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803955,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -45,21 +49,23 @@
         "sg:id":"SG_4gZnAeyJ6oLB4v9fkHukGm_52.378193_4.879855@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"07cb3ec543b0245748f1efdbe271b922",
+    "wof:geomhash":"80951dcd62fb7f3e3ae46fbe13b3ebd8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803955,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":319856955
         }
     ],
     "wof:id":319856955,
-    "wof:lastmodified":1473878719,
+    "wof:lastmodified":1492479491,
     "wof:name":"Zaagpoort, De",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

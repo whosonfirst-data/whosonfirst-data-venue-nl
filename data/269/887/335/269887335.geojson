@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.874356,52.374393,4.874356,52.374393",
     "geom:latitude":52.374393,
     "geom:longitude":4.874356,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803847,
+        1108802807,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5KN14tPwVNna1xmL7P2AhT_52.374393_4.874356@1306269959"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3076f64f7bb3cb91426b6adc85e73cdc",
+    "wof:geomhash":"f14c05f3ec76ce647e4098a428073f0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803847,
+            "neighbourhood_id":1108802807,
             "region_id":85687053,
             "venue_id":269887335
         }
     ],
     "wof:id":269887335,
-    "wof:lastmodified":1473879538,
+    "wof:lastmodified":1492495921,
     "wof:name":"Groeno Rijwielen",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

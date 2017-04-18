@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.57153,51.965977,4.57153,51.965977",
     "geom:latitude":51.965977,
     "geom:longitude":4.57153,
@@ -33,20 +34,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798779,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Z72InXXPq9iz1t1AbSVzS_51.965977_4.571530@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"67ae245595b71606a44e6a13e4641ab1",
+    "wof:geomhash":"ca6a4ea0a0366440671303bbdf9529e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798779,
+            "region_id":85687041,
+            "venue_id":253673533
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798779,
             "region_id":85687041,
@@ -54,7 +70,7 @@
         }
     ],
     "wof:id":253673533,
-    "wof:lastmodified":1473879698,
+    "wof:lastmodified":1492489812,
     "wof:name":"Signore",
     "wof:parent_id":85798779,
     "wof:placetype":"venue",

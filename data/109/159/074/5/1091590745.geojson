@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.4474058151,52.3934173584,6.4474058151,52.3934173584",
     "geom:latitude":52.393417,
     "geom:longitude":6.447406,
@@ -24,17 +25,32 @@
     "sg:province":"NL.08",
     "sg:website":"http://www.condor-recruitment.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473835,
+        85633337,
+        101807159
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XHh2SktLKbmLW6efQP0SY_52.393417_6.447406@1306270014"
     },
     "wof:country":"NL",
     "wof:created":1473801985,
-    "wof:geomhash":"083dfafee40ed0f803e3558c2cfc1059",
-    "wof:hierarchy":[],
+    "wof:geomhash":"413efb0fe82ca326e55e95889f95cf90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473835,
+            "locality_id":101807159,
+            "region_id":85687045,
+            "venue_id":1091590745
+        }
+    ],
     "wof:id":1091590745,
-    "wof:lastmodified":1473878524,
+    "wof:lastmodified":1492509808,
     "wof:name":"Condor Recruitment Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

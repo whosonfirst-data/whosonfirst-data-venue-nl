@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912672,52.356964,4.912672,52.356964",
     "geom:latitude":52.356964,
     "geom:longitude":4.912672,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803279,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2SOR5gkFVhIGC9PHsFNTbt_52.356964_4.912672@1306270004"
     },
     "wof:country":"NL",
-    "wof:geomhash":"69c5e5075a2f79212208c5d539124133",
+    "wof:geomhash":"81f95c0d2a1e0bf2700c495f177c1ad6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803279,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":336636955
         }
     ],
     "wof:id":336636955,
-    "wof:lastmodified":1473878475,
+    "wof:lastmodified":1492507225,
     "wof:name":"Taillie",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

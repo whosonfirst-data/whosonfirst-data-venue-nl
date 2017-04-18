@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9235677719,52.4293441772,4.9235677719,52.4293441772",
     "geom:latitude":52.429344,
     "geom:longitude":4.923568,
@@ -24,9 +25,11 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687053,
+        102191581,
+        404474091,
         85633337,
-        85798523,
-        85687053
+        101754829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473800217,
-    "wof:geomhash":"7f905ff02feccf99274f0846a2c7fa2b",
+    "wof:geomhash":"e7af63dad3598ed61604e19d568055d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798523,
+            "localadmin_id":404474091,
+            "locality_id":101754829,
             "region_id":85687053,
             "venue_id":1075837647
         }
     ],
     "wof:id":1075837647,
-    "wof:lastmodified":1473879496,
+    "wof:lastmodified":1492485532,
     "wof:name":"Servall Vof",
-    "wof:parent_id":85798523,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

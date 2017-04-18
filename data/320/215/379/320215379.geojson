@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.90003,52.36631,4.90003,52.36631",
     "geom:latitude":52.36631,
     "geom:longitude":4.90003,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803223,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_1dFG9xiIUv2CsCc4ZHGLKh_52.366310_4.900030@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"29685d96224b7787cdbe49952bdd0a95",
+    "wof:geomhash":"0b6c6344946c61f914baf0b36ad60ebf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803223,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":320215379
         }
     ],
     "wof:id":320215379,
-    "wof:lastmodified":1473879112,
+    "wof:lastmodified":1492484791,
     "wof:name":"Mondial Souvenirs Vof",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

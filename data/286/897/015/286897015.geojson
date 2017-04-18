@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.537002,53.229328,6.537002,53.229328",
     "geom:latitude":53.229328,
     "geom:longitude":6.537002,
@@ -24,10 +25,12 @@
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798239,
         85633337,
+        85798239,
         85687059,
         85798391,
+        102191581,
+        404473713,
         101751909
     ],
     "wof:breaches":[],
@@ -35,19 +38,18 @@
         "sg:id":"SG_2g4HPxMngYOX3NoCTyVAWa_53.229328_6.537002@1306269974"
     },
     "wof:country":"NL",
-    "wof:geomhash":"48273ef44331778a483d5e92e108bdca",
+    "wof:geomhash":"9e815340433696b87dca5638ec664212",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85798239,
             "region_id":85687059,
             "venue_id":286897015
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473713,
             "locality_id":101751909,
             "neighbourhood_id":85798391,
             "region_id":85687059,
@@ -55,9 +57,9 @@
         }
     ],
     "wof:id":286897015,
-    "wof:lastmodified":1473879661,
+    "wof:lastmodified":1492476221,
     "wof:name":"Firma N J Boot & Zoon",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

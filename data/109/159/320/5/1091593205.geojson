@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9434289932,51.8838882446,4.9434289932,51.8838882446",
     "geom:latitude":51.883888,
     "geom:longitude":4.943429,
@@ -24,17 +25,32 @@
     "sg:province":"Zuid-Holland",
     "sg:website":"http://www.vinnum.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474315,
+        85633337,
+        101837711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zxqFrJXsmFt2w9KVSNDT7_51.883888_4.943429@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802114,
-    "wof:geomhash":"89477f1d2f3aad7ce4619f39057dc216",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c19f59363b8df4ac772a63ab253362fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474315,
+            "locality_id":101837711,
+            "region_id":85687041,
+            "venue_id":1091593205
+        }
+    ],
     "wof:id":1091593205,
-    "wof:lastmodified":1473878652,
+    "wof:lastmodified":1492509579,
     "wof:name":"Vinnum Vof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

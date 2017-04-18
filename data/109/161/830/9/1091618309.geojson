@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0357470512,52.6210517883,6.0357470512,52.6210517883",
     "geom:latitude":52.621052,
     "geom:longitude":6.035747,
@@ -23,17 +24,32 @@
     "sg:postcode":"8281 ML",
     "sg:province":"Overijssel",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474683,
+        85633337,
+        101807193
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TI97LmKlNsj8hNv49ncXj_52.621052_6.035747@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803829,
-    "wof:geomhash":"d1a5a798d8d50200e2b12e6f99bc76b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"496871b5f47bcce96643c75c4952e534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474683,
+            "locality_id":101807193,
+            "region_id":85687045,
+            "venue_id":1091618309
+        }
+    ],
     "wof:id":1091618309,
-    "wof:lastmodified":1473878980,
+    "wof:lastmodified":1492510750,
     "wof:name":"Alice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

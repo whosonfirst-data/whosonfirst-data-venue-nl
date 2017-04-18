@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.694381237,51.477848053,5.694381237,51.477848053",
     "geom:latitude":51.477848,
     "geom:longitude":5.694381,
@@ -33,17 +34,32 @@
         "week-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474389,
+        85633337,
+        101751805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bfwiG33SXfsdX1TlsFWG0_51.477848_5.694381@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800876,
-    "wof:geomhash":"2e8a879a24b8e7c768f8164f007a32f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6861730710e45569a4d2f588dffa3ba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474389,
+            "locality_id":101751805,
+            "region_id":85687035,
+            "venue_id":1091576615
+        }
+    ],
     "wof:id":1091576615,
-    "wof:lastmodified":1473878923,
+    "wof:lastmodified":1492511017,
     "wof:name":"Hofkompas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

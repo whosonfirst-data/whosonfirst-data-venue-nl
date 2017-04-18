@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.258449,52.065598,4.258449,52.065598",
     "geom:latitude":52.065598,
     "geom:longitude":4.258449,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797811,
+        1108808209,
+        102191581,
+        1108808133,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3q6DxriWJTbaAY2ptrFtG8_52.065598_4.258449@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7a0c74a08fcac2df468d9ca15063902f",
+    "wof:geomhash":"8434bb1acfbb4066321924a10cb29c99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797811,
+            "macrohood_id":1108808133,
+            "neighbourhood_id":1108808209,
             "region_id":85687041,
             "venue_id":253454581
         }
     ],
     "wof:id":253454581,
-    "wof:lastmodified":1473879622,
+    "wof:lastmodified":1492490298,
     "wof:name":"B.M.P. De Munnik",
-    "wof:parent_id":85797811,
+    "wof:parent_id":1108808209,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

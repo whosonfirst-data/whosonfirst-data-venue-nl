@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877981,52.375484,4.877981,52.375484",
     "geom:latitude":52.375484,
     "geom:longitude":4.877981,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804119,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3vlHIObkPlsN9vDCR37oek_52.375484_4.877981@1306269970"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cc1297c3af847f833fc00ee2db20d23f",
+    "wof:geomhash":"10d23721e8a5737b6dd31bf368c5e33b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804119,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":286522951
         }
     ],
     "wof:id":286522951,
-    "wof:lastmodified":1473879200,
+    "wof:lastmodified":1492476811,
     "wof:name":"Wijnhoven, L",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

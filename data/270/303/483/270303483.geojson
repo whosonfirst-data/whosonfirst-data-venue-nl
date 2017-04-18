@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.883978,52.378719,4.883978,52.378719",
     "geom:latitude":52.378719,
     "geom:longitude":4.883978,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803955,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6ne0V4f9OMQCv1xTzhW1ef_52.378719_4.883978@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"960075b5b4d2713675c4bf3e82e42eed",
+    "wof:geomhash":"229b503ab0098575ae364473344243bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803955,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":270303483
         }
     ],
     "wof:id":270303483,
-    "wof:lastmodified":1473879067,
+    "wof:lastmodified":1492499278,
     "wof:name":"Hiawatha Kids",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

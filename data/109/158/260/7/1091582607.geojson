@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1656827927,52.0347824097,5.1656827927,52.0347824097",
     "geom:latitude":52.034782,
     "geom:longitude":5.165683,
@@ -24,9 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687039,
+        102191581,
+        404473987,
         85633337,
-        85859943,
-        85687039
+        101807003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473801321,
-    "wof:geomhash":"afc3c26206406bf595f79cabd33716fb",
+    "wof:geomhash":"e206f9aa476a67f433d90074a8ae288b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85859943,
+            "localadmin_id":404473987,
+            "locality_id":101807003,
             "region_id":85687039,
             "venue_id":1091582607
         }
     ],
     "wof:id":1091582607,
-    "wof:lastmodified":1473878630,
+    "wof:lastmodified":1492511553,
     "wof:name":"Adecco",
-    "wof:parent_id":85859943,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

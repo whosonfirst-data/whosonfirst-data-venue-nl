@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.87569,52.372002,4.87569,52.372002",
     "geom:latitude":52.372002,
     "geom:longitude":4.87569,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803235,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_73z682zHJk1GfyGV0urKWu_52.372002_4.875690@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0458c60ee3a6ba790fbe2f2cec7a24be",
+    "wof:geomhash":"d76a88901b9ec03150d4f2f4523e79f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803235,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":236246593
         }
     ],
     "wof:id":236246593,
-    "wof:lastmodified":1473879032,
+    "wof:lastmodified":1492492618,
     "wof:name":"Tock Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803235,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

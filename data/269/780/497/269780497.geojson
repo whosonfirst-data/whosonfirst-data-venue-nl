@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.853466,52.364479,4.853466,52.364479",
     "geom:latitude":52.364479,
     "geom:longitude":4.853466,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803461,
+        1108802827,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_2Ak2k5CfjJWvD984eFakZ0_52.364479_4.853466@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"01ccc1e55209ae8a391dd7a7a887ada9",
+    "wof:geomhash":"2ca3a2878bbf181745926b014da931a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803461,
+            "neighbourhood_id":1108802827,
             "region_id":85687053,
             "venue_id":269780497
         }
     ],
     "wof:id":269780497,
-    "wof:lastmodified":1473879439,
+    "wof:lastmodified":1492495206,
     "wof:name":"Snack 140",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

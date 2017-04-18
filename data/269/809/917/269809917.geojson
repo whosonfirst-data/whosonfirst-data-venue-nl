@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.558854,51.887066,4.558854,51.887066",
     "geom:latitude":51.887066,
     "geom:longitude":4.558854,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797587,
+        1108805659,
+        1108805789,
+        102191581,
         85633337,
         101751843,
+        1108805721,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_6d0vzG48LjzsgHoduKh1XJ_51.887066_4.558854@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"aead2c3dc2571a1d0399e6eb8ddcd4db",
+    "wof:geomhash":"43ca53a43ce82d8a0882a850e52fb818",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805721,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797587,
+            "microhood_id":1108805659,
+            "neighbourhood_id":1108805789,
             "region_id":85687041,
             "venue_id":269809917
         }
     ],
     "wof:id":269809917,
-    "wof:lastmodified":1473879507,
+    "wof:lastmodified":1492495993,
     "wof:name":"Afhaalcentrum China House",
-    "wof:parent_id":85797587,
+    "wof:parent_id":1108805659,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

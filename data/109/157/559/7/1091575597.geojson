@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6397337914,52.1059646606,5.6397337914,52.1059646606",
     "geom:latitude":52.105965,
     "geom:longitude":5.639734,
@@ -24,17 +25,30 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.vbc.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404473893,
+        85633337,
+        85687043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_229DYW6TXEU6oBpz6xkN2l_52.105965_5.639734@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800831,
-    "wof:geomhash":"a70219258e8859044087f01b357e6611",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b54fcea95a63979067e0857314a17b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473893,
+            "region_id":85687043,
+            "venue_id":1091575597
+        }
+    ],
     "wof:id":1091575597,
-    "wof:lastmodified":1473878896,
+    "wof:lastmodified":1492511471,
     "wof:name":"Vbc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

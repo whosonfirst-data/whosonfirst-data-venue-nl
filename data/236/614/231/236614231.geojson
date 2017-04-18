@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.242219,52.046291,4.242219,52.046291",
     "geom:latitude":52.046291,
     "geom:longitude":4.242219,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859581,
+        85859571,
+        102191581,
+        1108805971,
         85633337,
         101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0yn8Iq0VqBhf13vIA7qcb5_52.046291_4.242219@1306269939"
     },
     "wof:country":"NL",
-    "wof:geomhash":"71b5ea7694f9558df2e5a9c561e6816f",
+    "wof:geomhash":"17e05ac687d45a98e5c6952f18d0924f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859581,
+            "macrohood_id":1108805971,
+            "neighbourhood_id":85859571,
             "region_id":85687041,
             "venue_id":236614231
         }
     ],
     "wof:id":236614231,
-    "wof:lastmodified":1473879464,
+    "wof:lastmodified":1492491837,
     "wof:name":"Lepo Bv",
-    "wof:parent_id":85859581,
+    "wof:parent_id":85859571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

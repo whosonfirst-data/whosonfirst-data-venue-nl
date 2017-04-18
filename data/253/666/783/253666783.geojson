@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878227,52.382656,4.878227,52.382656",
     "geom:latitude":52.382656,
     "geom:longitude":4.878227,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804183,
+        1108802915,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_2EpWcdiYuh9XNqR6de3i7e_52.382656_4.878227@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1629399058e8e4e3f13d1501110f4134",
+    "wof:geomhash":"807fb7244629fdf5d89517bb12767680",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108804183,
+            "neighbourhood_id":1108802915,
             "region_id":85687053,
             "venue_id":253666783
         }
     ],
     "wof:id":253666783,
-    "wof:lastmodified":1473879705,
+    "wof:lastmodified":1492491194,
     "wof:name":"Luza",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

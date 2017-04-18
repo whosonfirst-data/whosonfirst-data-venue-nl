@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.921823,52.353718,4.921823,52.353718",
     "geom:latitude":52.353718,
     "geom:longitude":4.921823,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.douvenconsultancy.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803941,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_3a0H29IuYChDgNcE4pFmMm_52.353718_4.921823@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8df6a580e97ad360153bd4a0276f229e",
+    "wof:geomhash":"ef92a398034a94c148856e1d6150bfe0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":219776219
         }
     ],
     "wof:id":219776219,
-    "wof:lastmodified":1473879715,
+    "wof:lastmodified":1492503299,
     "wof:name":"Douven Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.898704,52.37289,4.898704,52.37289",
     "geom:latitude":52.37289,
     "geom:longitude":4.898704,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803883,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2nKbU3Jv7FgJppaxx8octm_52.372890_4.898704@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e0c08b51a4d8920986dd64e832db4378",
+    "wof:geomhash":"6294eff701f4c04a45ff765c942d8139",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803883,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":286469869
         }
     ],
     "wof:id":286469869,
-    "wof:lastmodified":1473879136,
+    "wof:lastmodified":1492478258,
     "wof:name":"Cobbenhagen, Wien",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

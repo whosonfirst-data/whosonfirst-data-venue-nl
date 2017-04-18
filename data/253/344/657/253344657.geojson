@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.935117,52.308731,4.935117,52.308731",
     "geom:latitude":52.308731,
     "geom:longitude":4.935117,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.cereon.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797113,
+        1108803575,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_7CWwubsxyxejPDUYd5Ktlc_52.308731_4.935117@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"61375677d41a9c9428fd4cccdccb4884",
+    "wof:geomhash":"93b2111d1b77e68ecdc365815e0d80e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797113,
+            "locality_id":101751893,
+            "microhood_id":1108803575,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":253344657
         }
     ],
     "wof:id":253344657,
-    "wof:lastmodified":1473879436,
+    "wof:lastmodified":1492490385,
     "wof:name":"Cereon Bv",
-    "wof:parent_id":85797113,
+    "wof:parent_id":1108803575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

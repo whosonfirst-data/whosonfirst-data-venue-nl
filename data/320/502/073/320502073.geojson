@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.939463,52.376835,4.939463,52.376835",
     "geom:latitude":52.376835,
     "geom:longitude":4.939463,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803999,
+        1108802877,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3x6UN7aR6r10OgmmI5o53o_52.376835_4.939463@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"70a0ecc1eb6e851b5ef1c6cf22ec59f1",
+    "wof:geomhash":"62cb7cd79e30baf161edbcc780e052d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803999,
+            "neighbourhood_id":1108802877,
             "region_id":85687053,
             "venue_id":320502073
         }
     ],
     "wof:id":320502073,
-    "wof:lastmodified":1473879334,
+    "wof:lastmodified":1492481867,
     "wof:name":"Witteveen",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

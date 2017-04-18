@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882962,52.383057,4.882962,52.383057",
     "geom:latitude":52.383057,
     "geom:longitude":4.882962,
@@ -24,40 +25,36 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804285,
         85797363,
+        102191581,
         85633337,
         101751893,
-        85687053,
-        85797161
+        1108802283,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_427dSSFT7C2FYP1QJe6rki_52.383057_4.882962@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"27cf10fd5ef540308f06b1a6ef6ffafa",
+    "wof:geomhash":"43848df72da73e17b556c5e9d1eff9b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804285,
             "neighbourhood_id":85797363,
-            "region_id":85687053,
-            "venue_id":320847315
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751893,
-            "neighbourhood_id":85797161,
             "region_id":85687053,
             "venue_id":320847315
         }
     ],
     "wof:id":320847315,
-    "wof:lastmodified":1473879641,
+    "wof:lastmodified":1492484366,
     "wof:name":"Elberse Ip",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108804285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.296259,52.0466,4.296259,52.0466",
     "geom:latitude":52.0466,
     "geom:longitude":4.296259,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798031,
+        1108808301,
+        102191581,
+        1108833203,
         85633337,
-        101754743,
+        101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_4DQ8JYVMYwb7XOD7cSRh2Q_52.046600_4.296259@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8a834b3a219405e3f40e82b82dd1c510",
+    "wof:geomhash":"3abe7eaf396fa73dbda3df0a8f074f95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798031,
+            "locality_id":101752763,
+            "macrohood_id":1108833203,
+            "neighbourhood_id":1108808301,
             "region_id":85687041,
             "venue_id":336729765
         }
     ],
     "wof:id":336729765,
-    "wof:lastmodified":1473878429,
+    "wof:lastmodified":1492506059,
     "wof:name":"Rens & Rens Administratiekantoor",
-    "wof:parent_id":85798031,
+    "wof:parent_id":1108808301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.108155,52.121986,5.108155,52.121986",
     "geom:latitude":52.121986,
     "geom:longitude":5.108155,
@@ -33,8 +34,12 @@
     "sg:website":"http://www.vankuilenburg.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808927,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_023nTrxkmdKIJtSpyATdHl_52.121986_5.108155@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e03f261587829778f88e8a90a11e6ff1",
+    "wof:geomhash":"4f45d537e942f6a809793004969790f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808927,
             "region_id":85687039,
             "venue_id":320086789
         }
     ],
     "wof:id":320086789,
-    "wof:lastmodified":1473878783,
+    "wof:lastmodified":1492484204,
     "wof:name":"Kuilenburg Bv, Van",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808927,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

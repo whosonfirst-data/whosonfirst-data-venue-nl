@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.850326,52.351685,4.850326,52.351685",
     "geom:latitude":52.351685,
     "geom:longitude":4.850326,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803797,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_0UzoA9uq5Sh45C30ZoJeqQ_52.351685_4.850326@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"45567734bb4942b5560691be34e23479",
+    "wof:geomhash":"532c5bb059531a9582e628887341e0c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803797,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":269795737
         }
     ],
     "wof:id":269795737,
-    "wof:lastmodified":1473879475,
+    "wof:lastmodified":1492495525,
     "wof:name":"Super Snack",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803797,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

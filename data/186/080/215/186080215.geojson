@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.889774,52.374462,4.889774,52.374462",
     "geom:latitude":52.374462,
     "geom:longitude":4.889774,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804025,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3uRJj3b980y245eV3nFKPD_52.374462_4.889774@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"38f2729c67e0c9421a41adb9dafa7665",
+    "wof:geomhash":"481b4f173a04651ae71ef51794ecf70d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804025,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":186080215
         }
     ],
     "wof:id":186080215,
-    "wof:lastmodified":1473878855,
+    "wof:lastmodified":1492508406,
     "wof:name":"Villa Zeezicht",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

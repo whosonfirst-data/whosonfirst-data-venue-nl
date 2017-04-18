@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.272843,52.059887,4.272843,52.059887",
     "geom:latitude":52.059887,
     "geom:longitude":4.272843,
@@ -34,8 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859591,
+        102191581,
+        1108808107,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -43,19 +47,21 @@
         "sg:id":"SG_57bJwYqPJ6phMBqf2LLwyF_52.059887_4.272843@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6108192181f96f1e77c47c46d6ae2015",
+    "wof:geomhash":"0aad92dce633b99358cb743808cdb7b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808107,
             "neighbourhood_id":85859591,
             "region_id":85687041,
             "venue_id":270518797
         }
     ],
     "wof:id":270518797,
-    "wof:lastmodified":1473879392,
+    "wof:lastmodified":1492500618,
     "wof:name":"Eben Haezer",
     "wof:parent_id":85859591,
     "wof:placetype":"venue",

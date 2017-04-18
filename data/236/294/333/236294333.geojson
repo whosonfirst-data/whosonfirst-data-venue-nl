@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.108755,52.117268,5.108755,52.117268",
     "geom:latitude":52.117268,
     "geom:longitude":5.108755,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808927,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_49ILujrGsa45FBG5xsCp3B_52.117268_5.108755@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1fc4fb0398c376b63e0f1082e3c75e8b",
+    "wof:geomhash":"5be61fb517c5d7931089519c05377b55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808927,
             "region_id":85687039,
             "venue_id":236294333
         }
     ],
     "wof:id":236294333,
-    "wof:lastmodified":1473879082,
+    "wof:lastmodified":1492494536,
     "wof:name":"Lusse Bv Apotheek",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808927,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

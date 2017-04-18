@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.940944,52.397282,4.940944,52.397282",
     "geom:latitude":52.397282,
     "geom:longitude":4.940944,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803947,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_68S81IOwo7JyzdmlwWzqYz_52.397282_4.940944@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dcda7ceac4b96b290fa7afc8defbb465",
+    "wof:geomhash":"0fec7cd0cba0b13706f19a87c9c24df5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803947,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":269599029
         }
     ],
     "wof:id":269599029,
-    "wof:lastmodified":1473878976,
+    "wof:lastmodified":1492495031,
     "wof:name":"Ij-Delta Vof",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

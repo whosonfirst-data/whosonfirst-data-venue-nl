@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.558806,51.887081,4.558806,51.887081",
     "geom:latitude":51.887081,
     "geom:longitude":4.558806,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797587,
+        1108805659,
+        1108805789,
+        102191581,
         85633337,
         101751843,
+        1108805721,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_65HClBX0x7srJ0iUzdtrhm_51.887081_4.558806@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"53d8f865e1923f68f428d25e6668933a",
+    "wof:geomhash":"40959d3779a0404176a787d1b7594927",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805721,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797587,
+            "microhood_id":1108805659,
+            "neighbourhood_id":1108805789,
             "region_id":85687041,
             "venue_id":253673449
         }
     ],
     "wof:id":253673449,
-    "wof:lastmodified":1473879697,
+    "wof:lastmodified":1492489814,
     "wof:name":"Shemshaak",
-    "wof:parent_id":85797587,
+    "wof:parent_id":1108805659,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

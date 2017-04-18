@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.872106,52.353558,4.872106,52.353558",
     "geom:latitude":52.353558,
     "geom:longitude":4.872106,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108804009,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_3laRv6Cqf1opQieWcGAUVP_52.353558_4.872106@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"270889163ef9aedf185bf50bd0a17db2",
+    "wof:geomhash":"bd210d92911eb1048484f4426d3884b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108804009,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":304079561
         }
     ],
     "wof:id":304079561,
-    "wof:lastmodified":1473878802,
+    "wof:lastmodified":1492504366,
     "wof:name":"Memphis Hotel",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.468905,51.916279,4.468905,51.916279",
     "geom:latitude":51.916279,
     "geom:longitude":4.468905,
@@ -25,39 +26,33 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859807,
+        102191581,
         85633337,
         101751843,
-        85687041,
-        85859799
+        1108804841,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BRVHo5Ho7akbDHSNmLpc8_51.916279_4.468905@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7b7c489d11318344e192461559209119",
+    "wof:geomhash":"f7deea093be442f99329d2962ecefee9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108804841,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
             "neighbourhood_id":85859807,
             "region_id":85687041,
             "venue_id":236275095
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751843,
-            "neighbourhood_id":85859799,
-            "region_id":85687041,
-            "venue_id":236275095
         }
     ],
     "wof:id":236275095,
-    "wof:lastmodified":1473879064,
+    "wof:lastmodified":1492491724,
     "wof:name":"Bertus",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

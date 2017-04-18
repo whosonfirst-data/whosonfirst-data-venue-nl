@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.918919,52.354153,4.918919,52.354153",
     "geom:latitude":52.354153,
     "geom:longitude":4.918919,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803773,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_2pZYYOCeyqCp8gZST86WlE_52.354153_4.918919@1306269967"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c6fde637aff696fa41da141fe2c7dbd3",
+    "wof:geomhash":"524e6e9b3f8d5d0a0871bb0760682d53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803773,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":286278515
         }
     ],
     "wof:id":286278515,
-    "wof:lastmodified":1473878640,
+    "wof:lastmodified":1492476687,
     "wof:name":"Openbare Basisschool De Kaap",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.857949,52.377598,4.857949,52.377598",
     "geom:latitude":52.377598,
     "geom:longitude":4.857949,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803263,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5U0HqQem8jTujRD1U3XAdR_52.377598_4.857949@1306269953"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9672208e553427acdc989d0ac620b71f",
+    "wof:geomhash":"f3473774d2fe7e6ef9d9e79abdb71f24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803263,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":269500187
         }
     ],
     "wof:id":269500187,
-    "wof:lastmodified":1473878573,
+    "wof:lastmodified":1492496499,
     "wof:name":"Politie Amsterdam Amstelland Wijkbureau Adm De Ruy",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

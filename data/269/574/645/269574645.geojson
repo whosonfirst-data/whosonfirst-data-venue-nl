@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.705349,52.298862,4.705349,52.298862",
     "geom:latitude":52.298862,
     "geom:longitude":4.705349,
@@ -33,30 +34,32 @@
     "sg:website":"http://www.document-house.nl/hoofddorp",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        101751899,
-        85687053
+        102542801,
+        85687053,
+        102191581,
+        404474065,
+        85633337
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27n3XB22WhY0PP5xjnXRxT_52.298862_4.705349@1306269954"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c0a218069ab99f28c48ced8c5646749b",
+    "wof:geomhash":"182fe6928e946adb21eb0374a9749a1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102542801,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751899,
-            "neighbourhood_id":-1,
+            "localadmin_id":404474065,
             "region_id":85687053,
             "venue_id":269574645
         }
     ],
     "wof:id":269574645,
-    "wof:lastmodified":1473878929,
+    "wof:lastmodified":1492496699,
     "wof:name":"Xerox Document House",
-    "wof:parent_id":-1,
+    "wof:parent_id":102542801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

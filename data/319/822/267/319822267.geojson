@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.891525,52.374809,4.891525,52.374809",
     "geom:latitude":52.374809,
     "geom:longitude":4.891525,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804025,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_5vCGX2b4ppbpYJD28RUvUA_52.374809_4.891525@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bce65e09a793081db736a170a053030b",
+    "wof:geomhash":"cbc2125112b0f8b8f579750e88d3ed0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804025,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":319822267
         }
     ],
     "wof:id":319822267,
-    "wof:lastmodified":1473878520,
+    "wof:lastmodified":1492478932,
     "wof:name":"Tamara",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

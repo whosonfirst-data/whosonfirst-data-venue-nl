@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876993,52.390232,4.876993,52.390232",
     "geom:latitude":52.390232,
     "geom:longitude":4.876993,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803637,
+        1108802911,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_7DwvycuTtVdaHdsmUZVToN_52.390232_4.876993@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"15cb73cdb6d903fd44fa27df90ea25ca",
+    "wof:geomhash":"a213e97f10b82ce693940fdc16fe1c27",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803637,
+            "neighbourhood_id":1108802911,
             "region_id":85687053,
             "venue_id":320583003
         }
     ],
     "wof:id":320583003,
-    "wof:lastmodified":1473879422,
+    "wof:lastmodified":1492482104,
     "wof:name":"Ak",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

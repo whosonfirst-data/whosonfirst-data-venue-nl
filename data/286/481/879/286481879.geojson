@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882155,52.382015,4.882155,52.382015",
     "geom:latitude":52.382015,
     "geom:longitude":4.882155,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804285,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4k30aieEDTAnSr2Pmz2JMQ_52.382015_4.882155@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f46be7d11788046da97c44093968bf2e",
+    "wof:geomhash":"42b4b1132045962e7a0d96c61e40bb5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804285,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":286481879
         }
     ],
     "wof:id":286481879,
-    "wof:lastmodified":1473879127,
+    "wof:lastmodified":1492476161,
     "wof:name":"Immoos, F",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

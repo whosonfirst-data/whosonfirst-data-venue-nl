@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.275543,52.077911,4.275543,52.077911",
     "geom:latitude":52.077911,
     "geom:longitude":4.275543,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        1108808213,
+        102191581,
+        1108808125,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_1skZeW5KScc2Tmx1ADWcMN_52.077911_4.275543@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fc4211217ba21ae70dc1c34500714066",
+    "wof:geomhash":"5d8ed66a6b847fdaf4c6df67efd1b001",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
+            "macrohood_id":1108808125,
+            "neighbourhood_id":1108808213,
             "region_id":85687041,
             "venue_id":336744343
         }
     ],
     "wof:id":336744343,
-    "wof:lastmodified":1473878419,
+    "wof:lastmodified":1492506599,
     "wof:name":"Belastingadviseurs & Register- Accountan",
-    "wof:parent_id":85859605,
+    "wof:parent_id":1108808213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

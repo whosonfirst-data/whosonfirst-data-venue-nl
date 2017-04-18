@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.262136,52.040375,4.262136,52.040375",
     "geom:latitude":52.040375,
     "geom:longitude":4.262136,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859601,
+        1108808281,
+        102191581,
+        1108808029,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5Ix1TNvQlmnHimCgDzayP1_52.040375_4.262136@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"09c14d3017ed528e9c54827619331102",
+    "wof:geomhash":"c806d7db76e912dfc236a43f9bf4c32b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859601,
+            "macrohood_id":1108808029,
+            "neighbourhood_id":1108808281,
             "region_id":85687041,
             "venue_id":270084971
         }
     ],
     "wof:id":270084971,
-    "wof:lastmodified":1473878540,
+    "wof:lastmodified":1492499478,
     "wof:name":"Yu-Wa Sports Hoogendam",
-    "wof:parent_id":85859601,
+    "wof:parent_id":1108808281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

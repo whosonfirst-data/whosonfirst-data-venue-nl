@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.277603,52.102726,4.277603,52.102726",
     "geom:latitude":52.102726,
     "geom:longitude":4.277603,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798455,
+        1108808159,
+        102191581,
+        1108833207,
         85633337,
         101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_68oxmzmijLdQcmq06145EX_52.102726_4.277603@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"56b2576cb18ee4344adc89282fccf90c",
+    "wof:geomhash":"aff984d041bef84a61bda28ba602d55a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798455,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808159,
             "region_id":85687041,
             "venue_id":336750605
         }
     ],
     "wof:id":336750605,
-    "wof:lastmodified":1473878443,
+    "wof:lastmodified":1492505966,
     "wof:name":"Visser & Co Belastingadviseurs En Registeraccounta",
-    "wof:parent_id":85798455,
+    "wof:parent_id":1108808159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

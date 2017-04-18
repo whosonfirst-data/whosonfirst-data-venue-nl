@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.9145340919,51.7249031067,3.9145340919,51.7249031067",
     "geom:latitude":51.724903,
     "geom:longitude":3.914534,
@@ -23,17 +24,32 @@
     "sg:postcode":"4318 AN",
     "sg:province":"Zeeland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474591,
+        85633337,
+        101808353
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yfFQRfJxXiexfjOiG0eRD_51.724903_3.914534@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803248,
-    "wof:geomhash":"923287d61fef48497c354853e769e189",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68d05cfe1b77c3740052745b419fa574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474591,
+            "locality_id":101808353,
+            "region_id":85687037,
+            "venue_id":1091607605
+        }
+    ],
     "wof:id":1091607605,
-    "wof:lastmodified":1473878882,
+    "wof:lastmodified":1492512663,
     "wof:name":"Grevelingenpolder Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

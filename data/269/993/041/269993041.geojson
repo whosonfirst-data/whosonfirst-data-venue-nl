@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.942725,52.310184,4.942725,52.310184",
     "geom:latitude":52.310184,
     "geom:longitude":4.942725,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797113,
+        1108803677,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_76LR1ioywBsuPzgY32Lm9d_52.310184_4.942725@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"40b793765a0f2582969d41f681c48f5c",
+    "wof:geomhash":"566f6800b5faa0e9f7e42c353091676c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797113,
+            "locality_id":101751893,
+            "microhood_id":1108803677,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":269993041
         }
     ],
     "wof:id":269993041,
-    "wof:lastmodified":1473879575,
+    "wof:lastmodified":1492494961,
     "wof:name":"Belastingadviseurs Boekel Cs",
-    "wof:parent_id":85797113,
+    "wof:parent_id":1108803677,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

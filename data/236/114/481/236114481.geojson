@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.924636,52.343697,4.924636,52.343697",
     "geom:latitude":52.343697,
     "geom:longitude":4.924636,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803657,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2XGUSvvT6RzMNkuAtZ5Rii_52.343697_4.924636@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"853d919ad078c93962593f8982b98228",
+    "wof:geomhash":"687a49089ef14a2a1f19fb0307dcc1a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803657,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":236114481
         }
     ],
     "wof:id":236114481,
-    "wof:lastmodified":1473878770,
+    "wof:lastmodified":1492494322,
     "wof:name":"Vliet, J Van",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

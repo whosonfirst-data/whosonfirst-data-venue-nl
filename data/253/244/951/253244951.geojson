@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880681,52.377682,4.880681,52.377682",
     "geom:latitude":52.377682,
     "geom:longitude":4.880681,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804119,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1au8ez8ok0tMh2yCYsatiN_52.377682_4.880681@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a0b8a17915f330eeb76ba020f3db0676",
+    "wof:geomhash":"7e35bfd9e8973d6f5dd8f9aa582abdbc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804119,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":253244951
         }
     ],
     "wof:id":253244951,
-    "wof:lastmodified":1473879285,
+    "wof:lastmodified":1492491030,
     "wof:name":"Canvast",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

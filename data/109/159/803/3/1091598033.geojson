@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5797982216,51.3816871643,5.5797982216,51.3816871643",
     "geom:latitude":51.381687,
     "geom:longitude":5.579798,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.domusinterieur.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474567,
+        85633337,
+        101809717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WMj20VHjujS5cbxt421dD_51.381687_5.579798@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802408,
-    "wof:geomhash":"8d75a69d364bda4dc6b89c9dec0ffd67",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98c147eb04f39770b97028f9d3af9395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474567,
+            "locality_id":101809717,
+            "region_id":85687035,
+            "venue_id":1091598033
+        }
+    ],
     "wof:id":1091598033,
-    "wof:lastmodified":1473878963,
+    "wof:lastmodified":1492509843,
     "wof:name":"Domus Interieur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

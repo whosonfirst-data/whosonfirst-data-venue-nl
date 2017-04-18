@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.869816,52.377682,4.869816,52.377682",
     "geom:latitude":52.377682,
     "geom:longitude":4.869816,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803751,
+        1108802915,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5uk6kSqFcHSmTwJ2zNeGhA_52.377682_4.869816@1306269940"
     },
     "wof:country":"NL",
-    "wof:geomhash":"26e8745c96902e5048ea82692fbb7110",
+    "wof:geomhash":"3d179dc3ef5acc919ff4709a82c4221b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803751,
+            "neighbourhood_id":1108802915,
             "region_id":85687053,
             "venue_id":236740457
         }
     ],
     "wof:id":236740457,
-    "wof:lastmodified":1473879530,
+    "wof:lastmodified":1492493136,
     "wof:name":"Garage Koekenbier",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

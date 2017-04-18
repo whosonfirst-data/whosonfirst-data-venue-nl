@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.9839520454,51.8191642761,3.9839520454,51.8191642761",
     "geom:latitude":51.819164,
     "geom:longitude":3.983952,
@@ -23,17 +24,32 @@
     "sg:postcode":"3252 AV",
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474171,
+        85633337,
+        101808511
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GLwuDCulesTpDggUorOkE_51.819164_3.983952@1306270010"
     },
     "wof:country":"NL",
     "wof:created":1473799795,
-    "wof:geomhash":"9902332c1e7aac225c71aa7ce56081b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9889eeb44d3135ece44b42b575e790bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474171,
+            "locality_id":101808511,
+            "region_id":85687041,
+            "venue_id":1075830119
+        }
+    ],
     "wof:id":1075830119,
-    "wof:lastmodified":1473879217,
+    "wof:lastmodified":1492485723,
     "wof:name":"Oostdam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

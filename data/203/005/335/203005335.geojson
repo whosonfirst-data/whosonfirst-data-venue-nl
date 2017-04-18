@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.844005,52.363808,4.844005,52.363808",
     "geom:latitude":52.363808,
     "geom:longitude":4.844005,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804211,
         85798223,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0Ld2eL9MgIZbwx4F7wusrO_52.363808_4.844005@1306269920"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8c5a0e67a77874539421a4d476f2ae07",
+    "wof:geomhash":"9b62ac7f324a004ee0c0ae73503fa50d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804211,
             "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":203005335
         }
     ],
     "wof:id":203005335,
-    "wof:lastmodified":1473878491,
+    "wof:lastmodified":1492480180,
     "wof:name":"Provision",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108804211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.552628,51.950424,4.552628,51.950424",
     "geom:latitude":51.950424,
     "geom:longitude":4.552628,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79ao9KTwrNqQhchh3SqXva_51.950424_4.552628@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"18b811bfcb752831d47e8d3a51cc3da6",
+    "wof:geomhash":"505e6818d3ba9a68e1ccc065840cfa33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":336601357
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798177,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":336601357,
-    "wof:lastmodified":1473878411,
+    "wof:lastmodified":1492507219,
     "wof:name":"Ed Kestens Juwelier Bv",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

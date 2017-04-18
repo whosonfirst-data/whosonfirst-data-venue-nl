@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.905184,52.391659,4.905184,52.391659",
     "geom:latitude":52.391659,
     "geom:longitude":4.905184,
@@ -33,9 +34,12 @@
     "sg:website":"http://www.garagestouten.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108804097,
+        1108802545,
+        102191581,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_1y71N0w0AbeMV2AdshAzvh_52.391659_4.905184@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"20bea10ca7b3018547cd8304f6c85686",
+    "wof:geomhash":"a63b6ac7b8be62b35768f813a8f9cfbb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108804097,
+            "neighbourhood_id":1108802545,
             "region_id":85687053,
             "venue_id":320110267
         }
     ],
     "wof:id":320110267,
-    "wof:lastmodified":1473878817,
+    "wof:lastmodified":1492483871,
     "wof:name":"Stouten Garage Classic",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108804097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

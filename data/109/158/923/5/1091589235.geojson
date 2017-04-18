@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8666911125,52.342300415,4.8666911125,52.342300415",
     "geom:latitude":52.3423,
     "geom:longitude":4.866691,
@@ -24,13 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803943,
+        1108802919,
         102191581,
-        404474029,
         85633337,
         101751893,
-        85687053,
-        85797223
+        1108802281,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,31 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473801909,
-    "wof:geomhash":"1ac19a2ac37b6b4eafbebceea283cce1",
+    "wof:geomhash":"320c33bfbd2f42f47e781c2f1238f4f5",
     "wof:hierarchy":[
         {
+            "borough_id":1108802281,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474029,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
-            "region_id":85687053,
-            "venue_id":1091589235
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474029,
-            "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108803943,
+            "neighbourhood_id":1108802919,
             "region_id":85687053,
             "venue_id":1091589235
         }
     ],
     "wof:id":1091589235,
-    "wof:lastmodified":1473879010,
+    "wof:lastmodified":1492511878,
     "wof:name":"Infotalent Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108803943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

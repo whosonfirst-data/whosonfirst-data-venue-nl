@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.506111,51.931419,4.506111,51.931419",
     "geom:latitude":51.931419,
     "geom:longitude":4.506111,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805807,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5nPNSj8EK4M2ZVYp6ihKMC_51.931419_4.506111@1306269920"
     },
     "wof:country":"NL",
-    "wof:geomhash":"eeb65206a7b58d25c03bd75171995654",
+    "wof:geomhash":"94fa44d881f0a466d007df7c91030137",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805807,
             "region_id":85687041,
             "venue_id":203002039
         }
     ],
     "wof:id":203002039,
-    "wof:lastmodified":1473878462,
+    "wof:lastmodified":1492480151,
     "wof:name":"Peter Pan",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

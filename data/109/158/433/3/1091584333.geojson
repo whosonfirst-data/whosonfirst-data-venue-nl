@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3118691444,52.0666389465,4.3118691444,52.0666389465",
     "geom:latitude":52.066639,
     "geom:longitude":4.311869,
@@ -24,15 +25,13 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798385,
+        1108808263,
         102191581,
-        404474179,
+        1108808035,
         85633337,
         101752763,
-        85687041,
-        85859623,
-        404474251,
-        101754743
+        1108808053,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,31 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473801405,
-    "wof:geomhash":"6f53a852048813d59dc2a38b44af5a4e",
+    "wof:geomhash":"cef920a2310259d078ca9717e8f71133",
     "wof:hierarchy":[
         {
+            "borough_id":1108808053,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474179,
             "locality_id":101752763,
-            "neighbourhood_id":85798385,
-            "region_id":85687041,
-            "venue_id":1091584333
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474251,
-            "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808263,
             "region_id":85687041,
             "venue_id":1091584333
         }
     ],
     "wof:id":1091584333,
-    "wof:lastmodified":1473878714,
+    "wof:lastmodified":1492511537,
     "wof:name":"Fatih",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108808263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

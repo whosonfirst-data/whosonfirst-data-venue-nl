@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.85554,52.359482,4.85554,52.359482",
     "geom:latitude":52.359482,
     "geom:longitude":4.85554,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803531,
+        1108802957,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_3Gsxfg86kfovOlEfMc9eNu_52.359482_4.855540@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ddbb29e590e078cc04af9387361176ba",
+    "wof:geomhash":"424e9fc76486c7806040aa80ea66ea08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803531,
+            "neighbourhood_id":1108802957,
             "region_id":85687053,
             "venue_id":320096191
         }
     ],
     "wof:id":320096191,
-    "wof:lastmodified":1473878804,
+    "wof:lastmodified":1492485146,
     "wof:name":"Osman Garage",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

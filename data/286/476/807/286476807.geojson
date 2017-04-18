@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.909625,52.357197,4.909625,52.357197",
     "geom:latitude":52.357197,
     "geom:longitude":4.909625,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.gregoire.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803889,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_6ZUxTfPIwssJ0OmKvdEC4Q_52.357197_4.909625@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"73302d6f353ad9c2ee5fd8d459198185",
+    "wof:geomhash":"e47a4675bffa96949de5b36933877002",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803889,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":286476807
         }
     ],
     "wof:id":286476807,
-    "wof:lastmodified":1473879127,
+    "wof:lastmodified":1492478172,
     "wof:name":"Gr?goire, Cilia",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5798740387,52.0462646484,4.5798740387,52.0462646484",
     "geom:latitude":52.046265,
     "geom:longitude":4.579874,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.inno-com.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474577,
+        85633337,
+        101807047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VQkhgr9TCtLzEWSqLjcAK_52.046265_4.579874@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803508,
-    "wof:geomhash":"e977683de17ac1a16942b2038290cbcd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d996622d9ed23d199ceac2abe17f9ccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474577,
+            "locality_id":101807047,
+            "region_id":85687041,
+            "venue_id":1091611939
+        }
+    ],
     "wof:id":1091611939,
-    "wof:lastmodified":1473878573,
+    "wof:lastmodified":1492510485,
     "wof:name":"Innocom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

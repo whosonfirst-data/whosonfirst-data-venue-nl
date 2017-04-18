@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.519659996,52.5366821289,5.519659996,52.5366821289",
     "geom:latitude":52.536682,
     "geom:longitude":5.51966,
@@ -24,17 +25,32 @@
     "sg:province":"Flevoland",
     "sg:website":"http://www.lankhorsttaselaar.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404474539,
+        85633337,
+        101751873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rGtQhar1ystFw3UtZrAif_52.536682_5.519660@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800525,
-    "wof:geomhash":"c36020e36f8a4653f04a2838cb311b6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45e0b6c87c0cc2d227bb81888b867d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474539,
+            "locality_id":101751873,
+            "region_id":85687049,
+            "venue_id":1091570811
+        }
+    ],
     "wof:id":1091570811,
-    "wof:lastmodified":1473878529,
+    "wof:lastmodified":1492511084,
     "wof:name":"Lankhorst Taselaar Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

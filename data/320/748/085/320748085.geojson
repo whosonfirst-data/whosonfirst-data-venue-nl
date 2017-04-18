@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.868381,52.375874,4.868381,52.375874",
     "geom:latitude":52.375874,
     "geom:longitude":4.868381,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803269,
+        1108802557,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6tZFClULXoBgS3m5i3w6fV_52.375874_4.868381@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ecf8b79e00594813b25aaa411505c3f1",
+    "wof:geomhash":"5c52809a5a333dab5728780fc1dfce8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803269,
+            "neighbourhood_id":1108802557,
             "region_id":85687053,
             "venue_id":320748085
         }
     ],
     "wof:id":320748085,
-    "wof:lastmodified":1473879587,
+    "wof:lastmodified":1492484635,
     "wof:name":"Kaptein Kaas Centrum Amsterdam Bv",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803269,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

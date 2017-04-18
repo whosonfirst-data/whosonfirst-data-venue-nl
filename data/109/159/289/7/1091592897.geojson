@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.5153670311,52.8758163452,6.5153670311,52.8758163452",
     "geom:latitude":52.875816,
     "geom:longitude":6.515367,
@@ -23,17 +24,32 @@
     "sg:postcode":"9411 XM",
     "sg:province":"Drenthe",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474649,
+        85633337,
+        101807273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GPuZVfph3YjI8FoCPPfGE_52.875816_6.515367@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802098,
-    "wof:geomhash":"85ee02cffef64057cc718abd2ca61c8a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d324ffacb4ab0f682000228efc3e073f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474649,
+            "locality_id":101807273,
+            "region_id":85687051,
+            "venue_id":1091592897
+        }
+    ],
     "wof:id":1091592897,
-    "wof:lastmodified":1473878634,
+    "wof:lastmodified":1492509879,
     "wof:name":"Pieroth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

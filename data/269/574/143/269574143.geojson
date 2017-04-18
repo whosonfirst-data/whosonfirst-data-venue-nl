@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.790811,52.39238,4.790811,52.39238",
     "geom:latitude":52.39238,
     "geom:longitude":4.790811,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797579,
+        1108804105,
+        1108802535,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_719reuVHZnCTdSkMygGJSX_52.392380_4.790811@1306269954"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8eba3df2e9514980791ff10c53710cf0",
+    "wof:geomhash":"a249d6095538ea4741123587fbe29419",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797579,
+            "microhood_id":1108804105,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":269574143
         }
     ],
     "wof:id":269574143,
-    "wof:lastmodified":1473878925,
+    "wof:lastmodified":1492496700,
     "wof:name":"Printercare Bv",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108804105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

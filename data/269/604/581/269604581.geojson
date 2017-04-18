@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.917465,52.340569,4.917465,52.340569",
     "geom:latitude":52.340569,
     "geom:longitude":4.917465,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804177,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2lLjMt8rA2k6a6Dwop1zjJ_52.340569_4.917465@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ec3573955ed7488ad1925c2a9f3043a2",
+    "wof:geomhash":"7a40adf54ea093b25165e3f0e7de04ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804177,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":269604581
         }
     ],
     "wof:id":269604581,
-    "wof:lastmodified":1473879003,
+    "wof:lastmodified":1492495257,
     "wof:name":"Omval Vof, De",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

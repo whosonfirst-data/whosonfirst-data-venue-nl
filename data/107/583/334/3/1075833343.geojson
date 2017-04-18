@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.988506794,52.7249908447,6.988506794,52.7249908447",
     "geom:latitude":52.724991,
     "geom:longitude":6.988507,
@@ -23,17 +24,32 @@
     "sg:postcode":"7891 AG",
     "sg:province":"Provincie Drenthe",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473809,
+        85633337,
+        101837879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QDu1FmnnlKatmmWRGTP1B_52.724991_6.988507@1306270010"
     },
     "wof:country":"NL",
     "wof:created":1473799974,
-    "wof:geomhash":"df1bb28b0a76034be45f4105cc923dae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"136daa874dcc12114d85abd2bb61ee3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473809,
+            "locality_id":101837879,
+            "region_id":85687051,
+            "venue_id":1075833343
+        }
+    ],
     "wof:id":1075833343,
-    "wof:lastmodified":1473879347,
+    "wof:lastmodified":1492485811,
     "wof:name":"Hema",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

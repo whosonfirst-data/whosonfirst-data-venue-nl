@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.111311,52.11282,5.111311,52.11282",
     "geom:latitude":52.11282,
     "geom:longitude":5.111311,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808929,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_0yKEAjT39vOcpJDyYJ4qAc_52.112820_5.111311@1306269959"
     },
     "wof:country":"NL",
-    "wof:geomhash":"781681c372bbc03fa6f9eaf9f198c25d",
+    "wof:geomhash":"f2948b39b08fe2087aa4df5bf873aec5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808929,
             "region_id":85687039,
             "venue_id":269929307
         }
     ],
     "wof:id":269929307,
-    "wof:lastmodified":1473879553,
+    "wof:lastmodified":1492496104,
     "wof:name":"Banierhuis Nv",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.851388,52.383221,4.851388,52.383221",
     "geom:latitude":52.383221,
     "geom:longitude":4.851388,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803867,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_0fGKIzFR1fkxED3u3XEo6l_52.383221_4.851388@1306269967"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8ea6ed0312f5fe72a7804316d7e4d8c0",
+    "wof:geomhash":"28870f3b141b7bf8b2f00aa50435c529",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803867,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":286296827
         }
     ],
     "wof:id":286296827,
-    "wof:lastmodified":1473878663,
+    "wof:lastmodified":1492475040,
     "wof:name":"Openbare Basisschool Narcis Querido Loc De Binnenp",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803867,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

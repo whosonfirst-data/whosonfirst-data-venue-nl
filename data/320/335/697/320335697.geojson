@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.599556,51.972775,4.599556,51.972775",
     "geom:latitude":51.972775,
     "geom:longitude":4.599556,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798779,
+        1108805821,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0P4SIph1fr0r578HoFWnBJ_51.972775_4.599556@1306269997"
     },
     "wof:country":"NL",
-    "wof:geomhash":"24098c5b8c39c935d3518eee34c5dd33",
+    "wof:geomhash":"e6f0902f322a56e9605bc446c5361c86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805821,
+            "region_id":85687041,
+            "venue_id":320335697
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798779,
+            "neighbourhood_id":1108805821,
             "region_id":85687041,
             "venue_id":320335697
         }
     ],
     "wof:id":320335697,
-    "wof:lastmodified":1473879236,
+    "wof:lastmodified":1492483053,
     "wof:name":"Gebr. Koot",
-    "wof:parent_id":85798779,
+    "wof:parent_id":1108805821,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

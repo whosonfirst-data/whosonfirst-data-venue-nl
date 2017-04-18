@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.566795,53.218052,6.566795,53.218052",
     "geom:latitude":53.218052,
     "geom:longitude":6.566795,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797835,
         85633337,
+        85797835,
         85687059,
         85797417,
+        102191581,
+        404473713,
         101751909
     ],
     "wof:breaches":[],
@@ -45,19 +48,18 @@
         "sg:id":"SG_6qcxZE5XurEaVuMnRZZa3i_53.218052_6.566795@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"578966f4985379a69857d3882291dff1",
+    "wof:geomhash":"3c0089103c7eed23133cb2f55a89a0cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85797835,
             "region_id":85687059,
             "venue_id":303134019
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473713,
             "locality_id":101751909,
             "neighbourhood_id":85797417,
             "region_id":85687059,
@@ -65,9 +67,9 @@
         }
     ],
     "wof:id":303134019,
-    "wof:lastmodified":1473878749,
+    "wof:lastmodified":1492471110,
     "wof:name":"Broodje Van Jootje",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

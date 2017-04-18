@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.956301,52.392685,4.956301,52.392685",
     "geom:latitude":52.392685,
     "geom:longitude":4.956301,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108803543,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:brand_id":420574313,
@@ -35,21 +40,24 @@
         "sg:id":"SG_6afGFHtrHULcwwGzQZ8BxT_52.392685_4.956301@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"103154b22e2747067145557076e94bd8",
+    "wof:geomhash":"39ed2910985c292efa111428663e0296",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803543,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":270354559
         }
     ],
     "wof:id":270354559,
-    "wof:lastmodified":1473879157,
+    "wof:lastmodified":1492501206,
     "wof:name":"Abn Amro",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803543,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

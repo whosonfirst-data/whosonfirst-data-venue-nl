@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.015197,52.311375,5.015197,52.311375",
     "geom:latitude":52.311375,
     "geom:longitude":5.015197,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108804233,
+        1108802795,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2gbhx93N9ErZQfuNnxHeZB_52.311375_5.015197@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f50d13649b213a8fc6a8782dbae29b0f",
+    "wof:geomhash":"82db80307e6eaaea82c4c91d419ccbc3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108804233,
+            "neighbourhood_id":1108802795,
             "region_id":85687053,
             "venue_id":186535913
         }
     ],
     "wof:id":186535913,
-    "wof:lastmodified":1473879589,
+    "wof:lastmodified":1492509353,
     "wof:name":"Volkstuinver Linnaeus",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108804233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

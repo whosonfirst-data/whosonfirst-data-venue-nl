@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.924804,52.361958,4.924804,52.361958",
     "geom:latitude":52.361958,
     "geom:longitude":4.924804,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.bikesandboards.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803667,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_0e7vLLE5eM87VA4H6KnB3k_52.361958_4.924804@1306269959"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2805655dbbf78af4bf6a0537478d1f1c",
+    "wof:geomhash":"9d8185a2374f7e9ee4e4816a499779d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803667,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":269872865
         }
     ],
     "wof:id":269872865,
-    "wof:lastmodified":1473879558,
+    "wof:lastmodified":1492495485,
     "wof:name":"Bikes & Boards",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

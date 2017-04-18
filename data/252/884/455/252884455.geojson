@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.50386,51.9296,4.50386,51.9296",
     "geom:latitude":51.9296,
     "geom:longitude":4.50386,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805807,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_1GnXS3NqkyupYS36Stm3LC_51.929600_4.503860@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ea481336efba326ddbb141353618802b",
+    "wof:geomhash":"af40ba25da3307ce76553edb30209b95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805807,
             "region_id":85687041,
             "venue_id":252884455
         }
     ],
     "wof:id":252884455,
-    "wof:lastmodified":1473878810,
+    "wof:lastmodified":1492505292,
     "wof:name":"Ravestijn, J C B",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

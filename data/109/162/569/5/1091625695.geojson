@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.438325882,51.7290992737,4.438325882,51.7290992737",
     "geom:latitude":51.729099,
     "geom:longitude":4.438326,
@@ -23,17 +24,32 @@
     "sg:postcode":"3281 AJ",
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474259,
+        85633337,
+        101808535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WTQlijBAYoRWmLTNquljO_51.729099_4.438326@1306270019"
     },
     "wof:country":"NL",
     "wof:created":1473804236,
-    "wof:geomhash":"7b086e18ef629a0b8461a89847e1572e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"38fd4a464881b62226e3840a617eb852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474259,
+            "locality_id":101808535,
+            "region_id":85687041,
+            "venue_id":1091625695
+        }
+    ],
     "wof:id":1091625695,
-    "wof:lastmodified":1473878868,
+    "wof:lastmodified":1492512021,
     "wof:name":"Figaro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

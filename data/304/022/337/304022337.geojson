@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.827345,52.408936,4.827345,52.408936",
     "geom:latitude":52.408936,
     "geom:longitude":4.827345,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803963,
+        1108802955,
+        102191581,
         85633337,
         101751893,
+        1108802287,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7JmsuDY018yQBkacu2DlX2_52.408936_4.827345@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ffe00aa73a7de30f57451cee377b53e6",
+    "wof:geomhash":"ae85db18ba31e0a841d5e663e1aba388",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802287,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803963,
+            "neighbourhood_id":1108802955,
             "region_id":85687053,
             "venue_id":304022337
         }
     ],
     "wof:id":304022337,
-    "wof:lastmodified":1473878637,
+    "wof:lastmodified":1492504574,
     "wof:name":"A Taste Of Ireland",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803963,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

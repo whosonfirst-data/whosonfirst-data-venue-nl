@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.544525,51.959385,4.544525,51.959385",
     "geom:latitude":51.959385,
     "geom:longitude":4.544525,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uKCKBPdvvroqA2NVxNQZ2_51.959385_4.544525@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"60c3403f3d2066a812ecc1f4e8159456",
+    "wof:geomhash":"4df0de4dcfb31ca23a57533dca0f5577",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":236487953
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798149,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":236487953,
-    "wof:lastmodified":1473879369,
+    "wof:lastmodified":1492492800,
     "wof:name":"Liem, B H",
     "wof:parent_id":85798149,
     "wof:placetype":"venue",

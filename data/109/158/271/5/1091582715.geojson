@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0921230316,51.8914146423,5.0921230316,51.8914146423",
     "geom:latitude":51.891415,
     "geom:longitude":5.092123,
@@ -23,17 +24,32 @@
     "sg:postcode":"4141 CB",
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474197,
+        85633337,
+        101808521
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bT99EWkus1S6vINJJRIIz_51.891415_5.092123@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801325,
-    "wof:geomhash":"2670e05d0a6ae74c68c592afd0ecf8be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc95b16109c657d94d8af089df369a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474197,
+            "locality_id":101808521,
+            "region_id":85687041,
+            "venue_id":1091582715
+        }
+    ],
     "wof:id":1091582715,
-    "wof:lastmodified":1473878634,
+    "wof:lastmodified":1492511703,
     "wof:name":"Adecco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

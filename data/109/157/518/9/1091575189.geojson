@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7231712341,51.9723243713,5.7231712341,51.9723243713",
     "geom:latitude":51.972324,
     "geom:longitude":5.723171,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.stbeets.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473931,
+        85633337,
+        101837829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LUB2BeNHDHfxZ3MScuJgw_51.972324_5.723171@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800811,
-    "wof:geomhash":"0945d099886d65704c2a7358d76fd038",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34d74919ec6145bdd1e6e33f1c80fb00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473931,
+            "locality_id":101837829,
+            "region_id":85687043,
+            "venue_id":1091575189
+        }
+    ],
     "wof:id":1091575189,
-    "wof:lastmodified":1473878855,
+    "wof:lastmodified":1492511295,
     "wof:name":"Stbeets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.859559,52.365742,4.859559,52.365742",
     "geom:latitude":52.365742,
     "geom:longitude":4.859559,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803407,
+        1108802785,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6HKrr41RMHpVTVWVSFnQff_52.365742_4.859559@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6a34382f7196f599af394c134f8d59bc",
+    "wof:geomhash":"d5c621c7857937cb051cac5731de9c67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803407,
+            "neighbourhood_id":1108802785,
             "region_id":85687053,
             "venue_id":186471183
         }
     ],
     "wof:id":186471183,
-    "wof:lastmodified":1473879484,
+    "wof:lastmodified":1492507626,
     "wof:name":"Oud West",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

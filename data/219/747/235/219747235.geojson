@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.909779,52.342571,4.909779,52.342571",
     "geom:latitude":52.342571,
     "geom:longitude":4.909779,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803527,
+        1108802895,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7i1YoepwuyqEfr361wrtpq_52.342571_4.909779@1306269928"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fd85818530ae1c5b7328ee1eafc992d6",
+    "wof:geomhash":"7bd4a83683b0cd0ba2c5b4f28b135249",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803527,
+            "neighbourhood_id":1108802895,
             "region_id":85687053,
             "venue_id":219747235
         }
     ],
     "wof:id":219747235,
-    "wof:lastmodified":1473879705,
+    "wof:lastmodified":1492501977,
     "wof:name":"Bruele, Van Den",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

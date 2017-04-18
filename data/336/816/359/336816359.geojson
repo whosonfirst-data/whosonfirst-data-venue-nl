@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.897154,52.347748,4.897154,52.347748",
     "geom:latitude":52.347748,
     "geom:longitude":4.897154,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803569,
+        1108802841,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3lLkr1fA2feymQmsD6KSeV_52.347748_4.897154@1306270006"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5cd141b0e6dec87cec4f9da3efd6b340",
+    "wof:geomhash":"98ddfcc2aa3fac8b4182dde64bf78b59",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803569,
+            "neighbourhood_id":1108802841,
             "region_id":85687053,
             "venue_id":336816359
         }
     ],
     "wof:id":336816359,
-    "wof:lastmodified":1473878433,
+    "wof:lastmodified":1492507305,
     "wof:name":"Zimmer West-East Trading",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

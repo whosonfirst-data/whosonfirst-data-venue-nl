@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.345692,52.069862,4.345692,52.069862",
     "geom:latitude":52.069862,
     "geom:longitude":4.345692,
@@ -25,28 +26,46 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859633,
+        102191581,
+        1108808077,
         85633337,
         101752763,
-        85687041
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dQ183lWU0QSb3SwmSAdoM_52.069862_4.345692@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e0ea0734598ca783776727a4ecaf687a",
+    "wof:geomhash":"97a56c29621445789e7b6c90897f8b00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808077,
+            "neighbourhood_id":85859633,
+            "region_id":85687041,
+            "venue_id":269977989
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
+            "locality_id":101754743,
+            "macrohood_id":1108808077,
             "neighbourhood_id":85859633,
             "region_id":85687041,
             "venue_id":269977989
         }
     ],
     "wof:id":269977989,
-    "wof:lastmodified":1473879595,
+    "wof:lastmodified":1492496485,
     "wof:name":"Heuvelman Bv",
     "wof:parent_id":85859633,
     "wof:placetype":"venue",

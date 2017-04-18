@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.935304,52.34745,4.935304,52.34745",
     "geom:latitude":52.34745,
     "geom:longitude":4.935304,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803839,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1av5UlB6qvaRIB8jEpVjfE_52.347450_4.935304@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c371fe18472e6a5ac0c41d5797e6951d",
+    "wof:geomhash":"839e9e7a7cb32bb7b6becad091824983",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803839,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":219371429
         }
     ],
     "wof:id":219371429,
-    "wof:lastmodified":1473879064,
+    "wof:lastmodified":1492502044,
     "wof:name":"Loodgietersbedrijf Ron Meersschaert",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

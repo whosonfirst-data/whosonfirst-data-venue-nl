@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876479,52.362869,4.876479,52.362869",
     "geom:latitude":52.362869,
     "geom:longitude":4.876479,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.franceplus.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804305,
+        1108802937,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3TSlMCGsWNeHLA4mHzUfDJ_52.362869_4.876479@1306269987"
     },
     "wof:country":"NL",
-    "wof:geomhash":"22045e296b8c5f58f7f9985ca871f69a",
+    "wof:geomhash":"dc85220dfbb7e5baa65ee601f24e3f6f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804305,
+            "neighbourhood_id":1108802937,
             "region_id":85687053,
             "venue_id":303723777
         }
     ],
     "wof:id":303723777,
-    "wof:lastmodified":1473879490,
+    "wof:lastmodified":1492473172,
     "wof:name":"France Plus",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804305,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

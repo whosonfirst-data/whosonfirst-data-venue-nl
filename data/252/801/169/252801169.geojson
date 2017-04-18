@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.857206,52.357281,4.857206,52.357281",
     "geom:latitude":52.357281,
     "geom:longitude":4.857206,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803957,
+        1108802893,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6ax2V3ePxDYTHKxzltn8WY_52.357281_4.857206@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fd321949f5cfb8d0375a4cd8a87b6839",
+    "wof:geomhash":"dfb11e9c822d780a20bc689d38705458",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803957,
+            "neighbourhood_id":1108802893,
             "region_id":85687053,
             "venue_id":252801169
         }
     ],
     "wof:id":252801169,
-    "wof:lastmodified":1473878536,
+    "wof:lastmodified":1492505345,
     "wof:name":"Smart House",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

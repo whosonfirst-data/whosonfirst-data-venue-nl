@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8182930946,52.6592826843,4.8182930946,52.6592826843",
     "geom:latitude":52.659283,
     "geom:longitude":4.818293,
@@ -24,17 +25,32 @@
     "sg:province":"North Holland",
     "sg:website":"http://www.kjak.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474075,
+        85633337,
+        101754815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rDF6Lw7sSuMajGCdK1zUq_52.659283_4.818293@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800523,
-    "wof:geomhash":"dd5966eea6b0f2090f6263769cebf131",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1ef676cd915ca114b869c04cedf4cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474075,
+            "locality_id":101754815,
+            "region_id":85687053,
+            "venue_id":1091570771
+        }
+    ],
     "wof:id":1091570771,
-    "wof:lastmodified":1473878525,
+    "wof:lastmodified":1492511311,
     "wof:name":"K-Jak",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

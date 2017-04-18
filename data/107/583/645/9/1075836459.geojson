@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4579172134,51.9129333496,4.4579172134,51.9129333496",
     "geom:latitude":51.912933,
     "geom:longitude":4.457917,
@@ -26,11 +27,10 @@
     "wof:belongsto":[
         85859785,
         102191581,
-        404474245,
         85633337,
         101751843,
-        85687041,
-        85859777
+        1108805753,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,31 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473800137,
-    "wof:geomhash":"39b99b4bc9396caa5de62d00cf7540d9",
+    "wof:geomhash":"c4e74b7d47725844ad1c72b49a10bf1f",
     "wof:hierarchy":[
         {
+            "borough_id":1108805753,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474245,
             "locality_id":101751843,
             "neighbourhood_id":85859785,
-            "region_id":85687041,
-            "venue_id":1075836459
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474245,
-            "locality_id":101751843,
-            "neighbourhood_id":85859777,
             "region_id":85687041,
             "venue_id":1075836459
         }
     ],
     "wof:id":1075836459,
-    "wof:lastmodified":1473879488,
+    "wof:lastmodified":1492485653,
     "wof:name":"Corina",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

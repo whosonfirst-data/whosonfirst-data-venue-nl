@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.896032,52.357559,4.896032,52.357559",
     "geom:latitude":52.357559,
     "geom:longitude":4.896032,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803865,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2q3X5pF8mOU1t28AArCdNz_52.357559_4.896032@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"72b0028da5ff57963337ddbea2fb1b97",
+    "wof:geomhash":"909a064eb948ba088890644d9e0704fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803865,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":320128555
         }
     ],
     "wof:id":320128555,
-    "wof:lastmodified":1473878918,
+    "wof:lastmodified":1492483942,
     "wof:name":"Bohle Gevelwerken",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

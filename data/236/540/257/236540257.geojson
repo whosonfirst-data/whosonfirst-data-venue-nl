@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.32706,52.073544,4.32706,52.073544",
     "geom:latitude":52.073544,
     "geom:longitude":4.32706,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808245,
+        102191581,
+        1108808123,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4OC0WAwRVI7ZiTPDm3Ma1y_52.073544_4.327060@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ab5e1df30b6ad2b7c8cc0609b7425129",
+    "wof:geomhash":"db1b6dd38ae1f368abe0f09dad9149c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808123,
+            "neighbourhood_id":1108808245,
             "region_id":85687041,
             "venue_id":236540257
         }
     ],
     "wof:id":236540257,
-    "wof:lastmodified":1473879404,
+    "wof:lastmodified":1492492153,
     "wof:name":"Aghten & Zn",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

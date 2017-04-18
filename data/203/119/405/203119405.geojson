@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.31239,52.041878,4.31239,52.041878",
     "geom:latitude":52.041878,
     "geom:longitude":4.31239,
@@ -24,30 +25,24 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798433,
+        85798303,
+        102191581,
+        404474251,
         85633337,
         101754743,
-        85687041,
-        85798303
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lcqKwlhe5g8KztCxQG2pZ_52.041878_4.312390@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"731fcb30b135667bac89a8bf005c99d5",
+    "wof:geomhash":"797151e6a4d3a514f8810c98744e39d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798433,
-            "region_id":85687041,
-            "venue_id":203119405
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
             "neighbourhood_id":85798303,
             "region_id":85687041,
@@ -55,9 +50,9 @@
         }
     ],
     "wof:id":203119405,
-    "wof:lastmodified":1473878931,
+    "wof:lastmodified":1492480481,
     "wof:name":"C. Rietbroek Assurantien",
-    "wof:parent_id":-1,
+    "wof:parent_id":85798303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.280606,52.075706,4.280606,52.075706",
     "geom:latitude":52.075706,
     "geom:longitude":4.280606,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        1108808219,
+        102191581,
+        1108808117,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_7SqmtK37pktuOWcLsKWs2h_52.075706_4.280606@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1c26c15508a2fb42f433109fc4cc3155",
+    "wof:geomhash":"1f6e94b8386b12118f6d987c866eb53b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
+            "macrohood_id":1108808117,
+            "neighbourhood_id":1108808219,
             "region_id":85687041,
             "venue_id":303123341
         }
     ],
     "wof:id":303123341,
-    "wof:lastmodified":1473878692,
+    "wof:lastmodified":1492470972,
     "wof:name":"Van Der Pluim Roodenrijs Bakker",
-    "wof:parent_id":85859605,
+    "wof:parent_id":1108808219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

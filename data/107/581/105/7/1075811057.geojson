@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1428217888,51.8302536011,4.1428217888,51.8302536011",
     "geom:latitude":51.830254,
     "geom:longitude":4.142822,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.hollandnet.nl/bibliotheek/hellevoetsluis",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474183,
+        85633337,
+        101808501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12S2N1hncZ7xhTHeXDKpuM_51.830254_4.142822@1306269972"
     },
     "wof:country":"NL",
     "wof:created":1473798713,
-    "wof:geomhash":"7585eb26f628ea7e23415f247a4b8438",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b8f015ddf9bc4da4cffc58eb6ab2a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474183,
+            "locality_id":101808501,
+            "region_id":85687041,
+            "venue_id":1075811057
+        }
+    ],
     "wof:id":1075811057,
-    "wof:lastmodified":1473878775,
+    "wof:lastmodified":1492486148,
     "wof:name":"Openb Bibliotheek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

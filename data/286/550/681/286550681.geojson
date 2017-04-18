@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88961,52.328026,4.88961,52.328026",
     "geom:latitude":52.328026,
     "geom:longitude":4.88961,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.pc.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804145,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_4UjfdEK5mHtddstV2y9WMW_52.328026_4.889610@1306269970"
     },
     "wof:country":"NL",
-    "wof:geomhash":"510b2ca3934ae73e7d79beb38ef647b5",
+    "wof:geomhash":"1cc522fa59bc1b70b8019cd50956309f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804145,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":286550681
         }
     ],
     "wof:id":286550681,
-    "wof:lastmodified":1473879197,
+    "wof:lastmodified":1492476357,
     "wof:name":"Afscheidscentr Buitenveldert Co\u00f7P",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

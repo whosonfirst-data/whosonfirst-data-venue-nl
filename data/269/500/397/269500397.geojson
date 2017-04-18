@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.891266,52.350388,4.891266,52.350388",
     "geom:latitude":52.350388,
     "geom:longitude":4.891266,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803817,
+        1108802865,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5LJ0Ox64SDYLl6nHemAqCE_52.350388_4.891266@1306269953"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d11421ce74ab13f3b26c6d1541af0354",
+    "wof:geomhash":"ccfbabe8f35f3b4de52fb41613f570ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803817,
+            "neighbourhood_id":1108802865,
             "region_id":85687053,
             "venue_id":269500397
         }
     ],
     "wof:id":269500397,
-    "wof:lastmodified":1473878578,
+    "wof:lastmodified":1492496499,
     "wof:name":"Politie Amsterdam Amstelland Wijkteam De Pijp",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

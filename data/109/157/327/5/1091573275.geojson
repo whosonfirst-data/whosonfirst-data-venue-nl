@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1939001083,52.3665885925,5.1939001083,52.3665885925",
     "geom:latitude":52.366589,
     "geom:longitude":5.1939,
@@ -24,17 +25,32 @@
     "sg:province":"NL.",
     "sg:website":"http://www.infohost.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101751877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6buuZoOxzxBJ82uMHPGkOk_52.366589_5.193900@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800684,
-    "wof:geomhash":"488fa7af982c0f802c8aec562efe6bbd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ced6b28134c0317736e56a41fb479d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101751877,
+            "region_id":85687049,
+            "venue_id":1091573275
+        }
+    ],
     "wof:id":1091573275,
-    "wof:lastmodified":1473878686,
+    "wof:lastmodified":1492511313,
     "wof:name":"Infohost Ua",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

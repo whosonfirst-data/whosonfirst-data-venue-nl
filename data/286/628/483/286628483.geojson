@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.541035,51.921619,4.541035,51.921619",
     "geom:latitude":51.921619,
     "geom:longitude":4.541035,
@@ -24,31 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859923,
+        1108805861,
+        102191581,
         85633337,
-        101754669,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hdyQA6hWSwFMHyCz6aVo7_51.921619_4.541035@1306269971"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a025eda259dad205f81efb863bf922cc",
+    "wof:geomhash":"5327551c2f554dc36b21d42d56781b14",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754669,
-            "neighbourhood_id":85859923,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805861,
+            "region_id":85687041,
+            "venue_id":286628483
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805861,
             "region_id":85687041,
             "venue_id":286628483
         }
     ],
     "wof:id":286628483,
-    "wof:lastmodified":1473879286,
+    "wof:lastmodified":1492475267,
     "wof:name":"Tax & Law Company",
-    "wof:parent_id":85859923,
+    "wof:parent_id":1108805861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

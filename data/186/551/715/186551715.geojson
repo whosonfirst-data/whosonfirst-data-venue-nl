@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.895208,52.376701,4.895208,52.376701",
     "geom:latitude":52.376701,
     "geom:longitude":4.895208,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803337,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5cNqwcZRWja9YyxMiHD9A2_52.376701_4.895208@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"64e3b58d36fdce689e425dd2edd3bde3",
+    "wof:geomhash":"2ef6eb617e25b2313afeb45916d894cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803337,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":186551715
         }
     ],
     "wof:id":186551715,
-    "wof:lastmodified":1473879609,
+    "wof:lastmodified":1492509258,
     "wof:name":"Woods, Sticht",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803337,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

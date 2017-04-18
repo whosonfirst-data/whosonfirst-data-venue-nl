@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1251440048,52.7041358948,6.1251440048,52.7041358948",
     "geom:latitude":52.704136,
     "geom:longitude":6.125144,
@@ -23,17 +24,32 @@
     "sg:postcode":"7946 LJ",
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474621,
+        85633337,
+        101808751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bfGvNvplRyAk1gOoYOq8O_52.704136_6.125144@1306270014"
     },
     "wof:country":"NL",
     "wof:created":1473801384,
-    "wof:geomhash":"766109a98eacccc37712c76d9b5ed93c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03f9c7e497fe1e368c3ab1dc2eac205e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474621,
+            "locality_id":101808751,
+            "region_id":85687045,
+            "venue_id":1091583987
+        }
+    ],
     "wof:id":1091583987,
-    "wof:lastmodified":1473878691,
+    "wof:lastmodified":1492511838,
     "wof:name":"De Baanbank Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

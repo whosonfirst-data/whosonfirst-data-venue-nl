@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1721138954,51.8380508423,4.1721138954,51.8380508423",
     "geom:latitude":51.838051,
     "geom:longitude":4.172114,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.publishnet.nl/kap",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474183,
+        85633337,
+        101808501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_505dEbvdhbadqw6LpQjPBJ_51.838051_4.172114@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803429,
-    "wof:geomhash":"44927f46c78926e20038687a002e0798",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fab49405dbeb7d53f70abca482535941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474183,
+            "locality_id":101808501,
+            "region_id":85687041,
+            "venue_id":1091610725
+        }
+    ],
     "wof:id":1091610725,
-    "wof:lastmodified":1473878518,
+    "wof:lastmodified":1492510513,
     "wof:name":"Kap",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

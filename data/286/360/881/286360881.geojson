@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.291635,52.109257,4.291635,52.109257",
     "geom:latitude":52.109257,
     "geom:longitude":4.291635,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808139,
+        102191581,
+        1108808075,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_72ObEpHiw76mq0RYQyvPA2_52.109257_4.291635@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"06bd51d07e7bb7283fd34cd9a4717667",
+    "wof:geomhash":"01dc86b0833bab2ce5f980acb6ae59bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108808075,
+            "neighbourhood_id":1108808139,
             "region_id":85687041,
             "venue_id":286360881
         }
     ],
     "wof:id":286360881,
-    "wof:lastmodified":1473878916,
+    "wof:lastmodified":1492476228,
     "wof:name":"Schreiner",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

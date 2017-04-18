@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88325,52.375965,4.88325,52.375965",
     "geom:latitude":52.375965,
     "geom:longitude":4.88325,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803831,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2F8L2gaJ4GbfgY8ex9J121_52.375965_4.883250@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"10b89f5f6d9fac2e92963a703b6656ff",
+    "wof:geomhash":"e32b6b9c852ea2357bdb0c65b228b84f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803831,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":286446365
         }
     ],
     "wof:id":286446365,
-    "wof:lastmodified":1473879005,
+    "wof:lastmodified":1492477753,
     "wof:name":"Partact",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884019,52.381268,4.884019,52.381268",
     "geom:latitude":52.381268,
     "geom:longitude":4.884019,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804285,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0eSLyBwFmXnkx72Z74t6SI_52.381268_4.884019@1306269906"
     },
     "wof:country":"NL",
-    "wof:geomhash":"64f15a428951786a3fe594026ea478d9",
+    "wof:geomhash":"bdfc4f02b9309281e6f33d7bfe44581d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804285,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":185636525
         }
     ],
     "wof:id":185636525,
-    "wof:lastmodified":1473878541,
+    "wof:lastmodified":1492488130,
     "wof:name":"Vof P & V Willems",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

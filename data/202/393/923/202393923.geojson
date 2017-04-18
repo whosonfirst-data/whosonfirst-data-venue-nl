@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.852771,52.390884,4.852771,52.390884",
     "geom:latitude":52.390884,
     "geom:longitude":4.852771,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.wandersn.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803313,
+        1108802535,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_6BPoK9bxwZ9P68xPxgn4Ga_52.390884_4.852771@1306269914"
     },
     "wof:country":"NL",
-    "wof:geomhash":"13cbaf17679943e1e3b2fb6b437b9168",
+    "wof:geomhash":"fcaa7532a7ebca454966846c7788ae53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803313,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":202393923
         }
     ],
     "wof:id":202393923,
-    "wof:lastmodified":1473878530,
+    "wof:lastmodified":1492498264,
     "wof:name":"Wanders",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

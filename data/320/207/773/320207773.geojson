@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.852954,52.360607,4.852954,52.360607",
     "geom:latitude":52.360607,
     "geom:longitude":4.852954,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108804173,
+        1108802957,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_0CcbegXIkvaL3OLmxqbG54_52.360607_4.852954@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9be941f60c349b2eb7bbf6b586c49f10",
+    "wof:geomhash":"7c3f3a3f4796be2e8145bf9f143646df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108804173,
+            "neighbourhood_id":1108802957,
             "region_id":85687053,
             "venue_id":320207773
         }
     ],
     "wof:id":320207773,
-    "wof:lastmodified":1473879111,
+    "wof:lastmodified":1492484011,
     "wof:name":"Hobbystee",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

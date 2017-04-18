@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.862291,52.377857,4.862291,52.377857",
     "geom:latitude":52.377857,
     "geom:longitude":4.862291,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803263,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6vHPhPMDcmgP0yfNjB3k7z_52.377857_4.862291@1306269920"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0dbc600b58a09cd52ca17596b9ce6efc",
+    "wof:geomhash":"2e7998a92c23d56ff3659ec12dc5de6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803263,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":202999433
         }
     ],
     "wof:id":202999433,
-    "wof:lastmodified":1473879452,
+    "wof:lastmodified":1492498258,
     "wof:name":"Oudshoorn Bv, P W",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.896907,52.374695,4.896907,52.374695",
     "geom:latitude":52.374695,
     "geom:longitude":4.896907,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803787,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_0RTy7lWNcKDuLuw6xV05s5_52.374695_4.896907@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ef9d92d159b8504ce0ff326b7dac21bd",
+    "wof:geomhash":"d9c8b7394777b411fc35da0513822eb6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803787,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":270465013
         }
     ],
     "wof:id":270465013,
-    "wof:lastmodified":1473879265,
+    "wof:lastmodified":1492499675,
     "wof:name":"Bar The Eagle",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

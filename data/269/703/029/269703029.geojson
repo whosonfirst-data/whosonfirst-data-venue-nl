@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.363678,52.037018,4.363678,52.037018",
     "geom:latitude":52.037018,
     "geom:longitude":4.363678,
@@ -23,8 +24,12 @@
     "sg:postcode":"2497 BV",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798113,
+        1108808351,
+        102191581,
+        1108808063,
         85633337,
+        101752763,
+        1108808047,
         85687041
     ],
     "wof:breaches":[],
@@ -32,21 +37,23 @@
         "sg:id":"SG_2ubGFOz1K3tuR1NltwkOe5_52.037018_4.363678@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b8dd6e962c64489df80d3e5411ced266",
+    "wof:geomhash":"b909d2f75955d143eedf3f1d6d9e464b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808047,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798113,
+            "locality_id":101752763,
+            "macrohood_id":1108808063,
+            "neighbourhood_id":1108808351,
             "region_id":85687041,
             "venue_id":269703029
         }
     ],
     "wof:id":269703029,
-    "wof:lastmodified":1473879288,
+    "wof:lastmodified":1492495391,
     "wof:name":"Facilities First",
-    "wof:parent_id":85798113,
+    "wof:parent_id":1108808351,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

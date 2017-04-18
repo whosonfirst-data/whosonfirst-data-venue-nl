@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879891,52.370934,4.879891,52.370934",
     "geom:latitude":52.370934,
     "geom:longitude":4.879891,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7NZqa2HKui7aLvRCmvcmYe_52.370934_4.879891@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4537eead3535ab4b5efb6866f5c89471",
+    "wof:geomhash":"b3f22db87f8b50eba881569fac8aa133",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":269980539
         }
     ],
     "wof:id":269980539,
-    "wof:lastmodified":1473879595,
+    "wof:lastmodified":1492496368,
     "wof:name":"Kouwenberg Bv, Lous",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

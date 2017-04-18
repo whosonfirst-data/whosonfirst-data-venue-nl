@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.763517,52.410103,4.763517,52.410103",
     "geom:latitude":52.410103,
     "geom:longitude":4.763517,
@@ -25,8 +26,12 @@
     "sg:website":"http://www.continentalchocolate.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798675,
+        1108803829,
+        1108802955,
+        102191581,
         85633337,
+        101751893,
+        1108802287,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,23 @@
         "sg:id":"SG_1q951XSLpMMGqMAnflsJhI_52.410103_4.763517@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"542bff274bd5ebf3e91a24b63e926f40",
+    "wof:geomhash":"f0649cf9760869285fb391535428db3c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802287,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798675,
+            "locality_id":101751893,
+            "microhood_id":1108803829,
+            "neighbourhood_id":1108802955,
             "region_id":85687053,
             "venue_id":320685909
         }
     ],
     "wof:id":320685909,
-    "wof:lastmodified":1473879519,
+    "wof:lastmodified":1492482382,
     "wof:name":"Continental Chocolate Bv",
-    "wof:parent_id":85798675,
+    "wof:parent_id":1108803829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.324114,52.073933,4.324114,52.073933",
     "geom:latitude":52.073933,
     "geom:longitude":4.324114,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808247,
+        102191581,
+        1108808123,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_2h4c2i7UB1JXYwm0n7TSNG_52.073933_4.324114@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1c83b911686ebff28f57ec3c0f513381",
+    "wof:geomhash":"7d7f2cfe8ad8792f89ddf702d1566c49",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808123,
+            "neighbourhood_id":1108808247,
             "region_id":85687041,
             "venue_id":269763709
         }
     ],
     "wof:id":269763709,
-    "wof:lastmodified":1473879397,
+    "wof:lastmodified":1492496044,
     "wof:name":"Irma La Douce",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

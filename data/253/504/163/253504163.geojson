@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.909019,52.369637,4.909019,52.369637",
     "geom:latitude":52.369637,
     "geom:longitude":4.909019,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803493,
+        1108802875,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4Om9KRKg4YwlARkTqFriWM_52.369637_4.909019@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"498dcb30061b796e13e3e02fc09a81ce",
+    "wof:geomhash":"3f446ace232b7361c453e70680810ad9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803493,
+            "neighbourhood_id":1108802875,
             "region_id":85687053,
             "venue_id":253504163
         }
     ],
     "wof:id":253504163,
-    "wof:lastmodified":1473879658,
+    "wof:lastmodified":1492490133,
     "wof:name":"Markenhoven",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5479130745,52.3216438293,5.5479130745,52.3216438293",
     "geom:latitude":52.321644,
     "geom:longitude":5.547913,
@@ -24,17 +25,32 @@
     "sg:province":"NL.",
     "sg:website":"http://www.uitdebrand.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473741,
+        85633337,
+        101808771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aL2SFq9xY2ds77R6p7G3o_52.321644_5.547913@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803578,
-    "wof:geomhash":"8eb8b3873dd47b5c54f3dedafb0854ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f808302ad89446173bb6299ca840104e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473741,
+            "locality_id":101808771,
+            "region_id":85687049,
+            "venue_id":1091612837
+        }
+    ],
     "wof:id":1091612837,
-    "wof:lastmodified":1473878624,
+    "wof:lastmodified":1492510519,
     "wof:name":"Uit De Brand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

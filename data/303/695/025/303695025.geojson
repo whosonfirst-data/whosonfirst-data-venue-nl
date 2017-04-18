@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.825335,52.358574,4.825335,52.358574",
     "geom:latitude":52.358574,
     "geom:longitude":4.825335,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803877,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6cvRAyoehbL9uBLg9iF1Km_52.358574_4.825335@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"16b104c7b6e5c8c53ab9e1a84ac9ba2f",
+    "wof:geomhash":"4ba8529ccb20e7f9f7f22d8728b6160f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803877,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":303695025
         }
     ],
     "wof:id":303695025,
-    "wof:lastmodified":1473879439,
+    "wof:lastmodified":1492474477,
     "wof:name":"J.A. Reijers",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.332805,52.062382,4.332805,52.062382",
     "geom:latitude":52.062382,
     "geom:longitude":4.332805,
@@ -33,31 +34,49 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808317,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ENLoGPIdN41uSIUSbfvdV_52.062382_4.332805@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4b84eae69fb363f44b1904320a4d0c58",
+    "wof:geomhash":"53a5538931c99e961c198abba57b8946",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808317,
+            "region_id":85687041,
+            "venue_id":269812025
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808317,
             "region_id":85687041,
             "venue_id":269812025
         }
     ],
     "wof:id":269812025,
-    "wof:lastmodified":1473879495,
+    "wof:lastmodified":1492495273,
     "wof:name":"Cafetaria Arthur",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.7220377922,51.9773445129,6.7220377922,51.9773445129",
     "geom:latitude":51.977345,
     "geom:longitude":6.722038,
@@ -32,17 +33,32 @@
         "basis-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473951,
+        85633337,
+        101809855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZTDdWmlilvD3jjxdwvrDX_51.977345_6.722038@1306269967"
     },
     "wof:country":"NL",
     "wof:created":1473798697,
-    "wof:geomhash":"000385424daed190cc2d568c6db132f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2c860f8b180776348d6e89056f79946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473951,
+            "locality_id":101809855,
+            "region_id":85687043,
+            "venue_id":1075810651
+        }
+    ],
     "wof:id":1075810651,
-    "wof:lastmodified":1473878767,
+    "wof:lastmodified":1492486276,
     "wof:name":"Peuterspeelzaal De Speeldoos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

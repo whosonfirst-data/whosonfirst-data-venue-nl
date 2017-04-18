@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4214401245,52.0097351074,5.4214401245,52.0097351074",
     "geom:latitude":52.009735,
     "geom:longitude":5.42144,
@@ -23,17 +24,32 @@
     "sg:postcode":"3956 EN",
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474547,
+        85633337,
+        101808455
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6d8kYYZYXsxVzTXFnihy0U_52.009735_5.421440@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803525,
-    "wof:geomhash":"5d191a2e3f008862f87b14b09bb66d2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c76c66ae346cff8e27ed6a22900e0dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474547,
+            "locality_id":101808455,
+            "region_id":85687039,
+            "venue_id":1091612085
+        }
+    ],
     "wof:id":1091612085,
-    "wof:lastmodified":1473878578,
+    "wof:lastmodified":1492510467,
     "wof:name":"Lucky Text",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8550348282,52.4194831848,4.8550348282,52.4194831848",
     "geom:latitude":52.419483,
     "geom:longitude":4.855035,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687053,
+        102191581,
+        404474143,
         85633337,
-        85798523,
-        85687053
+        101751901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473798869,
-    "wof:geomhash":"d88140547bb81f0e714fb69a90400180",
+    "wof:geomhash":"93a2f9c9229d18bdc6d37f57ebed7b7f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798523,
+            "localadmin_id":404474143,
+            "locality_id":101751901,
             "region_id":85687053,
             "venue_id":1075814389
         }
     ],
     "wof:id":1075814389,
-    "wof:lastmodified":1473878954,
+    "wof:lastmodified":1492486367,
     "wof:name":"Silobedrijf De Vrede Bv",
-    "wof:parent_id":85798523,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.933074,52.352325,4.933074,52.352325",
     "geom:latitude":52.352325,
     "geom:longitude":4.933074,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803929,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1wvL9ZFQ2LzyBISt8YXOWg_52.352325_4.933074@1306269920"
     },
     "wof:country":"NL",
-    "wof:geomhash":"069ce51589023c604adaadb480d555b7",
+    "wof:geomhash":"3cb77b2f2b38e6e6713e7f91970c63e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803929,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":203036533
         }
     ],
     "wof:id":203036533,
-    "wof:lastmodified":1473878614,
+    "wof:lastmodified":1492480880,
     "wof:name":"Veerman, W",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

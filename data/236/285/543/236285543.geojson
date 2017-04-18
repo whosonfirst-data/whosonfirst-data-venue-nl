@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.888186,52.362358,4.888186,52.362358",
     "geom:latitude":52.362358,
     "geom:longitude":4.888186,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803539,
+        1108802791,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0Zcj8DrMm17MM2DFpV4qjZ_52.362358_4.888186@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"65da1aa87ada4b8afdfdb304173bcbf0",
+    "wof:geomhash":"693039ef6f6215940cb4dde98ac81717",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803539,
+            "neighbourhood_id":1108802791,
             "region_id":85687053,
             "venue_id":236285543
         }
     ],
     "wof:id":236285543,
-    "wof:lastmodified":1473879084,
+    "wof:lastmodified":1492491337,
     "wof:name":"Ria Jong",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803539,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

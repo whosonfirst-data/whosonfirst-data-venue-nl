@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.862867,52.373833,4.862867,52.373833",
     "geom:latitude":52.373833,
     "geom:longitude":4.862867,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803849,
+        1108802785,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4qaPPCmUmBE3mqKBu4KVPf_52.373833_4.862867@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f85fb47e34a26249fb64e0adc45edb2a",
+    "wof:geomhash":"e5f917298d5b93f862cb8ad396fc4dbd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803849,
+            "neighbourhood_id":1108802785,
             "region_id":85687053,
             "venue_id":252739199
         }
     ],
     "wof:id":252739199,
-    "wof:lastmodified":1473878466,
+    "wof:lastmodified":1492505095,
     "wof:name":"Scholten Vastgoed Bv",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

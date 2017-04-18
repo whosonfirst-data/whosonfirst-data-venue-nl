@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.492596,51.936028,4.492596,51.936028",
     "geom:latitude":51.936028,
     "geom:longitude":4.492596,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859861,
+        1108805825,
+        102191581,
+        1108805657,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1HUVOerew0eeYo8fvYFEaa_51.936028_4.492596@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0a6cc978e219cca0ea838492993374d2",
+    "wof:geomhash":"953fa2982c288e07edefa3ba33f5fdd7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859861,
+            "macrohood_id":1108805657,
+            "neighbourhood_id":1108805825,
             "region_id":85687041,
             "venue_id":236027933
         }
     ],
     "wof:id":236027933,
-    "wof:lastmodified":1473878596,
+    "wof:lastmodified":1492494214,
     "wof:name":"Bizim Bar",
-    "wof:parent_id":85859861,
+    "wof:parent_id":1108805825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

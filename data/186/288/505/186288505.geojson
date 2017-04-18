@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884971,52.366364,4.884971,52.366364",
     "geom:latitude":52.366364,
     "geom:longitude":4.884971,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803761,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3hxlLZ1vHSBHRH5UA4hF3N_52.366364_4.884971@1306269911"
     },
     "wof:country":"NL",
-    "wof:geomhash":"20e4fb2c1e91654bc72387fcc4104171",
+    "wof:geomhash":"2d4adf6706ee10c5a7e73189c4d05104",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803761,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":186288505
         }
     ],
     "wof:id":186288505,
-    "wof:lastmodified":1473879212,
+    "wof:lastmodified":1492508097,
     "wof:name":"Zwaan Veilinggebouw, De",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

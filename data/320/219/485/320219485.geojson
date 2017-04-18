@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.311341,52.078033,4.311341,52.078033",
     "geom:latitude":52.078033,
     "geom:longitude":4.311341,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808251,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_3csr5eUpMTqdXJIDCE9w3r_52.078033_4.311341@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"deb925c4b06b6b8ee384489bd4ea5c92",
+    "wof:geomhash":"c6942d5b7acf88cbc0ef92e2cc5bb6e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808251,
             "region_id":85687041,
             "venue_id":320219485
         }
     ],
     "wof:id":320219485,
-    "wof:lastmodified":1473879103,
+    "wof:lastmodified":1492483666,
     "wof:name":"Sinnema Souvenirs",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

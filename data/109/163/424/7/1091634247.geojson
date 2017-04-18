@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8715119362,52.3546638489,4.8715119362,52.3546638489",
     "geom:latitude":52.354664,
     "geom:longitude":4.871512,
@@ -24,13 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803475,
+        1108802861,
         102191581,
-        404474029,
         85633337,
         101751893,
-        85687053,
-        85798403
+        1108802281,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,31 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473804822,
-    "wof:geomhash":"677727da16065b4cd83e5fec54a6ed6b",
+    "wof:geomhash":"78e8a7bcd61faa14ed5167cfca81355a",
     "wof:hierarchy":[
         {
+            "borough_id":1108802281,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474029,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
-            "region_id":85687053,
-            "venue_id":1091634247
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474029,
-            "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803475,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":1091634247
         }
     ],
     "wof:id":1091634247,
-    "wof:lastmodified":1473878575,
+    "wof:lastmodified":1492510004,
     "wof:name":"Kapsalon De Haan",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

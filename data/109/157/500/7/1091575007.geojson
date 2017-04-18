@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2137150764,52.3675842285,5.2137150764,52.3675842285",
     "geom:latitude":52.367584,
     "geom:longitude":5.213715,
@@ -24,17 +25,32 @@
     "sg:province":"Flevoland",
     "sg:website":"http://www.siteadviseur.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101751877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Yh3CjSYTWlvi3V61h9ez3_52.367584_5.213715@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800792,
-    "wof:geomhash":"1497fd5415ff2c7029232f9a13c5155f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a5732ac69fc73c87eba9ad7f3c60f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101751877,
+            "region_id":85687049,
+            "venue_id":1091575007
+        }
+    ],
     "wof:id":1091575007,
-    "wof:lastmodified":1473878841,
+    "wof:lastmodified":1492511389,
     "wof:name":"Siteadviseur.Nl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

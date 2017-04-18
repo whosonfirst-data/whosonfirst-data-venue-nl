@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.426804,51.935604,4.426804,51.935604",
     "geom:latitude":51.935604,
     "geom:longitude":4.426804,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859761,
+        1108805669,
+        1108805799,
+        102191581,
         85633337,
         101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1YMbGCf7Zbf0sf7UhxOdM0_51.935604_4.426804@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"04681e399fcc46a7cfa2efacf175014e",
+    "wof:geomhash":"4b64e1b2b042541bd8bd6985af2e954a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859761,
+            "microhood_id":1108805669,
+            "neighbourhood_id":1108805799,
             "region_id":85687041,
             "venue_id":270214373
         }
     ],
     "wof:id":270214373,
-    "wof:lastmodified":1473878904,
+    "wof:lastmodified":1492499448,
     "wof:name":"D Sluijter",
-    "wof:parent_id":85859761,
+    "wof:parent_id":1108805669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

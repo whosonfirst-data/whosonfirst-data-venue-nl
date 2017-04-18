@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.495032,51.956974,4.495032,51.956974",
     "geom:latitude":51.956974,
     "geom:longitude":4.495032,
@@ -25,8 +26,12 @@
     "sg:website":"http://www.monroeslounge.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797707,
+        1108805791,
+        102191581,
+        1108805981,
         85633337,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +39,23 @@
         "sg:id":"SG_3qeEo6SMsqCJGRg6LlcsYo_51.956974_4.495032@1306269905"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fcc3b8cb8e95f2eb5806766fc697862f",
+    "wof:geomhash":"e9fb88f116b5dde8471c4c4a108bdbba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797707,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805791,
             "region_id":85687041,
             "venue_id":169785841
         }
     ],
     "wof:id":169785841,
-    "wof:lastmodified":1473878711,
+    "wof:lastmodified":1492478793,
     "wof:name":"Monroe'S Lounge",
-    "wof:parent_id":85797707,
+    "wof:parent_id":1108805791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

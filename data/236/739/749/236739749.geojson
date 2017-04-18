@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.539629,51.931435,4.539629,51.931435",
     "geom:latitude":51.931435,
     "geom:longitude":4.539629,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797899,
+        1108805851,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QxdMQawMSpx1B1X81GQa4_51.931435_4.539629@1306269940"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ecfb5e88d4028759a3b5b16f9163ef09",
+    "wof:geomhash":"1157024259182969c33d14434a0c4e5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85797899,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805851,
+            "region_id":85687041,
+            "venue_id":236739749
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805851,
             "region_id":85687041,
             "venue_id":236739749
         }
     ],
     "wof:id":236739749,
-    "wof:lastmodified":1473879528,
+    "wof:lastmodified":1492492500,
     "wof:name":"Banden Service Prinsenland",
-    "wof:parent_id":85797899,
+    "wof:parent_id":1108805851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

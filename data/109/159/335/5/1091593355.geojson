@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.940530777,52.6529960632,4.940530777,52.6529960632",
     "geom:latitude":52.652996,
     "geom:longitude":4.940531,
@@ -24,17 +25,32 @@
     "sg:province":"North Holland",
     "sg:website":"http://www.winegallery.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474551,
+        85633337,
+        101855435
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nDveUzp6HHtgJK3tPXSIh_52.652996_4.940531@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802122,
-    "wof:geomhash":"b3fe0faf1306c8d11c6b143d51169249",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd8c82b13d3268967f464777e4779fe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474551,
+            "locality_id":101855435,
+            "region_id":85687053,
+            "venue_id":1091593355
+        }
+    ],
     "wof:id":1091593355,
-    "wof:lastmodified":1473878658,
+    "wof:lastmodified":1492509561,
     "wof:name":"Wine Gallery Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

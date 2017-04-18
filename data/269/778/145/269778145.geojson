@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.310987,52.074551,4.310987,52.074551",
     "geom:latitude":52.074551,
     "geom:longitude":4.310987,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808257,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_1S7qgzUHXWVfyoGDZLlw8w_52.074551_4.310987@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"27e755fcdf6a8d50740b22e2f3b062bf",
+    "wof:geomhash":"35b5c83d0e13c48b6bbca881c24dc3c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808257,
             "region_id":85687041,
             "venue_id":269778145
         }
     ],
     "wof:id":269778145,
-    "wof:lastmodified":1473879434,
+    "wof:lastmodified":1492495874,
     "wof:name":"Sarik",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

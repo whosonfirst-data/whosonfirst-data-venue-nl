@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.099113,52.119713,5.099113,52.119713",
     "geom:latitude":52.119713,
     "geom:longitude":5.099113,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798231,
+        1108808895,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_3zEbRuY80y2pqizyRDczA7_52.119713_5.099113@1306269971"
     },
     "wof:country":"NL",
-    "wof:geomhash":"065c4c94d97f57bfcf792ad4a4c69d8c",
+    "wof:geomhash":"e997092ebb5e0ae42a42d070458a4d47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798231,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808895,
             "region_id":85687039,
             "venue_id":286639787
         }
     ],
     "wof:id":286639787,
-    "wof:lastmodified":1473879300,
+    "wof:lastmodified":1492477633,
     "wof:name":"Shell",
-    "wof:parent_id":85798231,
+    "wof:parent_id":1108808895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

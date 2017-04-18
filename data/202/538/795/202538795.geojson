@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.904011,52.226551,6.904011,52.226551",
     "geom:latitude":52.226551,
     "geom:longitude":6.904011,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798019,
+        102542825,
+        85797623,
+        102191581,
+        404473837,
         85633337,
-        101754773,
+        101751869,
         85687045
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_1x8ZPd6P4mFfB7PTHK2ntn_52.226551_6.904011@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"25b7dbe199f31617327f08047594cf6e",
+    "wof:geomhash":"1e2dddea51f973d2fc8e843d11461693",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102542825,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754773,
-            "neighbourhood_id":85798019,
+            "localadmin_id":404473837,
+            "locality_id":101751869,
+            "neighbourhood_id":85797623,
             "region_id":85687045,
             "venue_id":202538795
         }
     ],
     "wof:id":202538795,
-    "wof:lastmodified":1473878903,
+    "wof:lastmodified":1492497007,
     "wof:name":"Videotheek Laares",
-    "wof:parent_id":85798019,
+    "wof:parent_id":102542825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8068919182,53.2009124756,5.8068919182,53.2009124756",
     "geom:latitude":53.200912,
     "geom:longitude":5.806892,
@@ -24,13 +25,13 @@
     "sg:province":"Friesland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797735,
+        85797627,
         102191581,
         404473775,
         85633337,
         101751907,
         85687055,
-        85797627
+        85797735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,8 @@
     },
     "wof:country":"NL",
     "wof:created":1473800504,
-    "wof:geomhash":"bacf91740c2133b7667c0c440fb33270",
+    "wof:geomhash":"eeb9097bed1ce23f49e3ed7129b9e847",
     "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404473775,
-            "locality_id":101751907,
-            "neighbourhood_id":85797735,
-            "region_id":85687055,
-            "venue_id":1091570515
-        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -57,12 +49,21 @@
             "neighbourhood_id":85797627,
             "region_id":85687055,
             "venue_id":1091570515
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473775,
+            "locality_id":101751907,
+            "neighbourhood_id":85797735,
+            "region_id":85687055,
+            "venue_id":1091570515
         }
     ],
     "wof:id":1091570515,
-    "wof:lastmodified":1473878509,
+    "wof:lastmodified":1492511474,
     "wof:name":"Zeilrederij Ebenhaezer",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

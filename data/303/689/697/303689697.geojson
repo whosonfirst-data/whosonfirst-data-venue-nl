@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.875454,52.356239,4.875454,52.356239",
     "geom:latitude":52.356239,
     "geom:longitude":4.875454,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803743,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1O2vQ9uqqwnhAdJVIZlaWF_52.356239_4.875454@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5ba11da8c3d18616f5bf12dd5b3c35ae",
+    "wof:geomhash":"52efa013e76bffc42e815a4f5593935e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803743,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":303689697
         }
     ],
     "wof:id":303689697,
-    "wof:lastmodified":1473879464,
+    "wof:lastmodified":1492471134,
     "wof:name":"Erik Groenhout",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

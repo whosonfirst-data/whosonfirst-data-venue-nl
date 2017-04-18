@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0118021965,52.1053504944,5.0118021965,52.1053504944",
     "geom:latitude":52.10535,
     "geom:longitude":5.011802,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808899,
+        102191581,
         85633337,
-        85797969,
+        101751827,
+        1108808673,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473803546,
-    "wof:geomhash":"eb29c244a78ed33bd578c31e921df9ec",
+    "wof:geomhash":"537db8f303ae28c1cde98b7111e9acda",
     "wof:hierarchy":[
         {
+            "borough_id":1108808673,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797969,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808899,
             "region_id":85687039,
             "venue_id":1091612517
         }
     ],
     "wof:id":1091612517,
-    "wof:lastmodified":1473878618,
+    "wof:lastmodified":1492510349,
     "wof:name":"Schaick, J Van",
-    "wof:parent_id":85797969,
+    "wof:parent_id":1108808899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

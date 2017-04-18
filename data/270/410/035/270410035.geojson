@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.873842,52.331955,4.873842,52.331955",
     "geom:latitude":52.331955,
     "geom:longitude":4.873842,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804091,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:brand_id":420573777,
@@ -35,21 +40,24 @@
         "sg:id":"SG_5rLkYa0s2mxcE5Pe6p16oV_52.331955_4.873842@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2a171d3711ffe17f92382fb91a86d1eb",
+    "wof:geomhash":"edf18f70951c274625c6296ac20cd41c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804091,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":270410035
         }
     ],
     "wof:id":270410035,
-    "wof:lastmodified":1473879203,
+    "wof:lastmodified":1492499734,
     "wof:name":"Postkantoor",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

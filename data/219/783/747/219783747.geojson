@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.888179,52.378391,4.888179,52.378391",
     "geom:latitude":52.378391,
     "geom:longitude":4.888179,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.emet.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803299,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_582uNfGBDoaowjaJJCX3rh_52.378391_4.888179@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ae381ba7a44088cebd41c5a2cd222f86",
+    "wof:geomhash":"fd722cd1159281a1fe77f310fdf2901d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803299,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":219783747
         }
     ],
     "wof:id":219783747,
-    "wof:lastmodified":1473879722,
+    "wof:lastmodified":1492503691,
     "wof:name":"Emet Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

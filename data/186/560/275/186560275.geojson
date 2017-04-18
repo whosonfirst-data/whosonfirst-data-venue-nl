@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.82466,52.352364,4.82466,52.352364",
     "geom:latitude":52.352364,
     "geom:longitude":4.82466,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803265,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0D3x78NepGYqbvAXt6c2Z3_52.352364_4.824660@1306269914"
     },
     "wof:country":"NL",
-    "wof:geomhash":"68931d49227d53527bdb69ed81c99237",
+    "wof:geomhash":"84f009c708be642163677297b2e1cc8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803265,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":186560275
         }
     ],
     "wof:id":186560275,
-    "wof:lastmodified":1473879611,
+    "wof:lastmodified":1492507474,
     "wof:name":"Anker, Het",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

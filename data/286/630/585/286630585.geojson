@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.489504,51.950642,4.489504,51.950642",
     "geom:latitude":51.950642,
     "geom:longitude":4.489504,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859841,
+        1108805791,
+        102191581,
+        1108805981,
         85633337,
-        101753095,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1zN34P44P9UqCuyPoJW7tu_51.950642_4.489504@1306269971"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8085811b71830e886efc119202f1e26a",
+    "wof:geomhash":"55fe60482acc2efb15970198059c3636",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859841,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805791,
             "region_id":85687041,
             "venue_id":286630585
         }
     ],
     "wof:id":286630585,
-    "wof:lastmodified":1473879286,
+    "wof:lastmodified":1492477122,
     "wof:name":"Cdn Holl Bv",
-    "wof:parent_id":85859841,
+    "wof:parent_id":1108805791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

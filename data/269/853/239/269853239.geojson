@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.091111,52.122768,5.091111,52.122768",
     "geom:latitude":52.122768,
     "geom:longitude":5.091111,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.lightit.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808893,
+        102191581,
+        1108832365,
         85633337,
         101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2SgfbBAlOEYUJW8z0P2FFT_52.122768_5.091111@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ffba24cc39ee78b261efa7176b0d9708",
+    "wof:geomhash":"3ded7f7dc2bc102bdd96188bb7be501f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808893,
             "region_id":85687039,
             "venue_id":269853239
         }
     ],
     "wof:id":269853239,
-    "wof:lastmodified":1473879530,
+    "wof:lastmodified":1492496092,
     "wof:name":"Light-It",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

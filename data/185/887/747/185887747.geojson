@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.872188,52.359375,4.872188,52.359375",
     "geom:latitude":52.359375,
     "geom:longitude":4.872188,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803793,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3EgPnf6xQlFWrTeJVLk4y9_52.359375_4.872188@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a3c6296bd2d942b9145adfb6552dab78",
+    "wof:geomhash":"47dbf978fe3af4bdecba58e4bdbd9e4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803793,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":185887747
         }
     ],
     "wof:id":185887747,
-    "wof:lastmodified":1473878837,
+    "wof:lastmodified":1492487758,
     "wof:name":"Dromelot Kinderdagverblijf",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

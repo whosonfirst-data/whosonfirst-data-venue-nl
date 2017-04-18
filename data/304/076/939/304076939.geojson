@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877379,52.354931,4.877379,52.354931",
     "geom:latitude":52.354931,
     "geom:longitude":4.877379,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803547,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_4yuogrzyklYvKduwWDrycL_52.354931_4.877379@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4e33b9080b72238f95a73501aeafa451",
+    "wof:geomhash":"48e2dd3d302c777ed05ed42c31568b09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803547,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":304076939
         }
     ],
     "wof:id":304076939,
-    "wof:lastmodified":1473878800,
+    "wof:lastmodified":1492504524,
     "wof:name":"Lairesse Ams",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.927527,52.356426,4.927527,52.356426",
     "geom:latitude":52.356426,
     "geom:longitude":4.927527,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.deballonnerie.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803941,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_4dY3SK7qGgbtp6L0KadQxJ_52.356426_4.927527@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"51186862528d7a414093eafdefb78dc7",
+    "wof:geomhash":"05a8cba94265e660ab6795628da64c62",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":270335769
         }
     ],
     "wof:id":270335769,
-    "wof:lastmodified":1473879118,
+    "wof:lastmodified":1492499982,
     "wof:name":"Feest- En Theaterartikelen, Dam",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

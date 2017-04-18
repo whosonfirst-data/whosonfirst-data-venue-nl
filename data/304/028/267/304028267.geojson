@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.790905,52.390057,4.790905,52.390057",
     "geom:latitude":52.390057,
     "geom:longitude":4.790905,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797579,
+        1108804105,
+        1108802535,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6R7oc4xcER2OYjt53s8Q4I_52.390057_4.790905@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"57cc3379b01ec1d0a10bf534bdbd685c",
+    "wof:geomhash":"af3ec5ea20db6ac72596caab759f0345",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797579,
+            "microhood_id":1108804105,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":304028267
         }
     ],
     "wof:id":304028267,
-    "wof:lastmodified":1473878634,
+    "wof:lastmodified":1492504416,
     "wof:name":"Houtop Bv",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108804105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

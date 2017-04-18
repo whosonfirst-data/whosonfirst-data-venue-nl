@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880595,52.330605,4.880595,52.330605",
     "geom:latitude":52.330605,
     "geom:longitude":4.880595,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803327,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7RcMqWEkmltfqEt39m7clA_52.330605_4.880595@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f36ea75896ee4dee45e3346aeb53dc27",
+    "wof:geomhash":"9eb393d8ebf83287bc252876fe0f516f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803327,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":236465259
         }
     ],
     "wof:id":236465259,
-    "wof:lastmodified":1473879341,
+    "wof:lastmodified":1492491971,
     "wof:name":"Prins, B A H",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

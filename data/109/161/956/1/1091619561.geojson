@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.7240138054,53.4137306213,6.7240138054,53.4137306213",
     "geom:latitude":53.413731,
     "geom:longitude":6.724014,
@@ -23,17 +24,32 @@
     "sg:postcode":"9982 AK",
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404474561,
+        85633337,
+        101807515
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AjSx1svuIyCfxb6JlJZ7N_53.413731_6.724014@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803894,
-    "wof:geomhash":"99693772df1344defde7c6c3493dad48",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cfaffc670626ebfa0d17b62027dec623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474561,
+            "locality_id":101807515,
+            "region_id":85687059,
+            "venue_id":1091619561
+        }
+    ],
     "wof:id":1091619561,
-    "wof:lastmodified":1473879056,
+    "wof:lastmodified":1492510503,
     "wof:name":"Barber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88284,52.3745,4.88284,52.3745",
     "geom:latitude":52.3745,
     "geom:longitude":4.88284,
@@ -33,9 +34,12 @@
     "sg:website":"http://www.helios-mppd.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803831,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_3ztNzDsDANDT2UCKTaTzPe_52.374500_4.882840@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2d774ed84b3e4073d7d15e5c4bad0d8f",
+    "wof:geomhash":"a4928a3b91bec36233e430a21d6e262e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803831,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":303615569
         }
     ],
     "wof:id":303615569,
-    "wof:lastmodified":1473879333,
+    "wof:lastmodified":1492472084,
     "wof:name":"Helios Mppd",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

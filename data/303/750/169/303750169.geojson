@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88526,52.38504,4.88526,52.38504",
     "geom:latitude":52.38504,
     "geom:longitude":4.88526,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804019,
+        1108802819,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3YfGLkogXQ1ERfRBdiPj0O_52.385040_4.885260@1306269987"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b278ffc40bf411d6f5f6044292ec29ef",
+    "wof:geomhash":"d109383e7019d955405174ddf9b574aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108804019,
+            "neighbourhood_id":1108802819,
             "region_id":85687053,
             "venue_id":303750169
         }
     ],
     "wof:id":303750169,
-    "wof:lastmodified":1473879517,
+    "wof:lastmodified":1492470942,
     "wof:name":"Het Lab",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

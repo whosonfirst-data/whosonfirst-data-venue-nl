@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1318922043,52.1106338501,5.1318922043,52.1106338501",
     "geom:latitude":52.110634,
     "geom:longitude":5.131892,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85798515,
+        102191581,
         85633337,
-        85798227,
+        101751827,
+        1108808663,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473799483,
-    "wof:geomhash":"6ece40e2c003e5483949618742249268",
+    "wof:geomhash":"5aa24749bc9c5e84cd89d3e7b7342fb8",
     "wof:hierarchy":[
         {
+            "borough_id":1108808663,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "neighbourhood_id":85798515,
             "region_id":85687039,
             "venue_id":1075824745
         }
     ],
     "wof:id":1075824745,
-    "wof:lastmodified":1473879383,
+    "wof:lastmodified":1492487051,
     "wof:name":"Opl",
-    "wof:parent_id":85798227,
+    "wof:parent_id":85798515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

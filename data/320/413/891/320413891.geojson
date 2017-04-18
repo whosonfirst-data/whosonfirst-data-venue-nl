@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.458423,51.976078,4.458423,51.976078",
     "geom:latitude":51.976078,
     "geom:longitude":4.458423,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798381,
+        102542781,
+        1108805865,
+        102191581,
         85633337,
-        101807023,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3JtTdhoty8rwGfkWLoZP5M_51.976078_4.458423@1306269998"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a944c039bcb458285ee6ee070c22bdea",
+    "wof:geomhash":"d5ffebe6001e35437b5c906a1e25b8df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "campus_id":102542781,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101807023,
-            "neighbourhood_id":85798381,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805865,
             "region_id":85687041,
             "venue_id":320413891
         }
     ],
     "wof:id":320413891,
-    "wof:lastmodified":1473879285,
+    "wof:lastmodified":1492484665,
     "wof:name":"Vof De Vogel Transport",
-    "wof:parent_id":85798381,
+    "wof:parent_id":102542781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

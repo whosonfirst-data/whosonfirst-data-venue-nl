@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.267942,52.075657,4.267942,52.075657",
     "geom:latitude":52.075657,
     "geom:longitude":4.267942,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        1108808185,
+        102191581,
+        1108805965,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4q4xTJmV5bsPchCZWJdKuw_52.075657_4.267942@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e83086a9b57b5e91f4577b13bd594013",
+    "wof:geomhash":"4ab041a98522fec0befc390d572e8dcc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
+            "macrohood_id":1108805965,
+            "neighbourhood_id":1108808185,
             "region_id":85687041,
             "venue_id":202423097
         }
     ],
     "wof:id":202423097,
-    "wof:lastmodified":1473878618,
+    "wof:lastmodified":1492497450,
     "wof:name":"Aveco",
-    "wof:parent_id":85859605,
+    "wof:parent_id":1108808185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

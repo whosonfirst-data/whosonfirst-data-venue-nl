@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.887833,52.365574,4.887833,52.365574",
     "geom:latitude":52.365574,
     "geom:longitude":4.887833,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803665,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0LK9Aa5j9pxKCd2Q0VX9S6_52.365574_4.887833@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8f1e20a6567477a2c57278ed9de93e07",
+    "wof:geomhash":"601887e5355bc42a31f68a2e3f925b97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803665,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":303571643
         }
     ],
     "wof:id":303571643,
-    "wof:lastmodified":1473879301,
+    "wof:lastmodified":1492473896,
     "wof:name":"Volksdans Centrum Amsterdklank En Beweging",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

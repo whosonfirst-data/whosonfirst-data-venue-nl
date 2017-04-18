@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.926972,52.352707,4.926972,52.352707",
     "geom:latitude":52.352707,
     "geom:longitude":4.926972,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804165,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4TD6gGTNd5L5TI6g0P2Kmv_52.352707_4.926972@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d8efc9a9f9c2da0e05a5f9ae9c116a7a",
+    "wof:geomhash":"9df6a80a115bd175723908877f38ad8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804165,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":270228749
         }
     ],
     "wof:id":270228749,
-    "wof:lastmodified":1473878914,
+    "wof:lastmodified":1492500868,
     "wof:name":"Fotografie Lex De Lang",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

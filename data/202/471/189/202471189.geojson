@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.886208,52.389038,4.886208,52.389038",
     "geom:latitude":52.389038,
     "geom:longitude":4.886208,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803869,
+        1108802911,
+        102191581,
         85633337,
+        101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_3ZXMT6epDaUp9fSUKpA1aR_52.389038_4.886208@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3912bffbc34d31d9decf0399199b255e",
+    "wof:geomhash":"6840c40ccc4a747785936ee6a8023525",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803869,
+            "neighbourhood_id":1108802911,
             "region_id":85687053,
             "venue_id":202471189
         }
     ],
     "wof:id":202471189,
-    "wof:lastmodified":1473878734,
+    "wof:lastmodified":1492497235,
     "wof:name":"F.D.C. Metz",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803869,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

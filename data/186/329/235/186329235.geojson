@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.927459,52.353161,4.927459,52.353161",
     "geom:latitude":52.353161,
     "geom:longitude":4.927459,
@@ -25,9 +26,13 @@
     "sg:website":"http://home.wxs.nl/~rbz/apc.htm",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804165,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_52JveKYXQpQ1RF1AqtxJPw_52.353161_4.927459@1306269911"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7407a1b0acbc00ad7ae7a2e1613a4221",
+    "wof:geomhash":"bd442e2ffc2dac62758026a57f436ff9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804165,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":186329235
         }
     ],
     "wof:id":186329235,
-    "wof:lastmodified":1473879289,
+    "wof:lastmodified":1492509022,
     "wof:name":"Amsterdamse Puch Club",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

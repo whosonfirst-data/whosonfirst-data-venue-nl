@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.114499,52.115139,5.114499,52.115139",
     "geom:latitude":52.115139,
     "geom:longitude":5.114499,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808929,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_0B71leBLWCW95KK2uttPVt_52.115139_5.114499@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1a64707d0ed6c3b9986e0070d33acad9",
+    "wof:geomhash":"ad882fa93344f5efafd8ae209c52ddd9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808929,
             "region_id":85687039,
             "venue_id":253222169
         }
     ],
     "wof:id":253222169,
-    "wof:lastmodified":1473879230,
+    "wof:lastmodified":1492490305,
     "wof:name":"Klinkenberg Import-Export",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.883483,52.360851,4.883483,52.360851",
     "geom:latitude":52.360851,
     "geom:longitude":4.883483,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803565,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2S75iJdph5pAgnG1CpF9zd_52.360851_4.883483@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0211b1d7a480341182e8dfb7e236d2e6",
+    "wof:geomhash":"dcd2b1f27b7d126bc1c82df4496a0848",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803565,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":202818781
         }
     ],
     "wof:id":202818781,
-    "wof:lastmodified":1473879321,
+    "wof:lastmodified":1492499200,
     "wof:name":"Balance Juridica",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4129638672,51.8260536194,4.4129638672,51.8260536194",
     "geom:latitude":51.826054,
     "geom:longitude":4.412964,
@@ -34,9 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474231,
         85633337,
-        85798725,
-        85687041
+        101754705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +47,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473801257,
-    "wof:geomhash":"3275bef25f4821e2c07f4a48a8db5b9f",
+    "wof:geomhash":"3f779164ea0a44301107c111e32f2385",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798725,
+            "localadmin_id":404474231,
+            "locality_id":101754705,
             "region_id":85687041,
             "venue_id":1091581357
         }
     ],
     "wof:id":1091581357,
-    "wof:lastmodified":1473878561,
+    "wof:lastmodified":1492511625,
     "wof:name":"Pokalot",
-    "wof:parent_id":85798725,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

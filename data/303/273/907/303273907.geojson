@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.80331,52.379204,4.80331,52.379204",
     "geom:latitude":52.379204,
     "geom:longitude":4.80331,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803633,
         85797579,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6xB060kCAeinAzBDvt4lQt_52.379204_4.803310@1306269982"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f8689d0d88d5d6545a59556466b158ea",
+    "wof:geomhash":"0d34927c2e5908984ff85242239d7d73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803633,
             "neighbourhood_id":85797579,
             "region_id":85687053,
             "venue_id":303273907
         }
     ],
     "wof:id":303273907,
-    "wof:lastmodified":1473879050,
+    "wof:lastmodified":1492472082,
     "wof:name":"K Bossenbroek Bv",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108803633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

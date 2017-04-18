@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.796685,52.375019,4.796685,52.375019",
     "geom:latitude":52.375019,
     "geom:longitude":4.796685,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803619,
         85797579,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5Shlo7Krrso2ddRheXOZ8e_52.375019_4.796685@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"96ed9ee8fb5f5811cf76c8d57362ad07",
+    "wof:geomhash":"b88d4e5138a5ee44f2b218f15b09ba0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803619,
             "neighbourhood_id":85797579,
             "region_id":85687053,
             "venue_id":320192945
         }
     ],
     "wof:id":320192945,
-    "wof:lastmodified":1473879072,
+    "wof:lastmodified":1492482520,
     "wof:name":"Soundquake Studio",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108803619,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

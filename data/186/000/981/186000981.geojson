@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.304614,52.083637,4.304614,52.083637",
     "geom:latitude":52.083637,
     "geom:longitude":4.304614,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808251,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0CyMJ97Gpb80YcOLAOF93l_52.083637_4.304614@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5e72d3027f0ee0373df922d336f4805d",
+    "wof:geomhash":"31b354ea936140fb96b10b4fad14d848",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808251,
             "region_id":85687041,
             "venue_id":186000981
         }
     ],
     "wof:id":186000981,
-    "wof:lastmodified":1473878442,
+    "wof:lastmodified":1492508642,
     "wof:name":"A. Gaemers Chronometrie",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

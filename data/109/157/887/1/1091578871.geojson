@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1290631294,51.985332489,4.1290631294,51.985332489",
     "geom:latitude":51.985332,
     "geom:longitude":4.129063,
@@ -23,19 +24,36 @@
     "sg:postcode":"3151 XM",
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108805869,
+        102191581,
+        85633337,
+        101751843,
+        1108805729,
+        85687041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40rqfdEO2W4yvhoRamVvGG_51.985332_4.129063@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801142,
-    "wof:geomhash":"a355af6119f911f9aeb18c506897a02b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a0085b388d6fe5c8b03ab3f9e09eb24",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108805729,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805869,
+            "region_id":85687041,
+            "venue_id":1091578871
+        }
+    ],
     "wof:id":1091578871,
-    "wof:lastmodified":1473879038,
+    "wof:lastmodified":1492511262,
     "wof:name":"Kuiper En Leeuwenkamp Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108805869,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

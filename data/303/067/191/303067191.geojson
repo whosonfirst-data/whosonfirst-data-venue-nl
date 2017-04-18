@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.996174,52.296989,4.996174,52.296989",
     "geom:latitude":52.296989,
     "geom:longitude":4.996174,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803973,
+        1108802809,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5RxhO4wSXBLAuXOhLq0rca_52.296989_4.996174@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1835c4913f51c0ae6d3883da4806b362",
+    "wof:geomhash":"e357a3ac474483f7435bf694ef5c0534",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803973,
+            "neighbourhood_id":1108802809,
             "region_id":85687053,
             "venue_id":303067191
         }
     ],
     "wof:id":303067191,
-    "wof:lastmodified":1473878564,
+    "wof:lastmodified":1492472353,
     "wof:name":"R.M.J. V.D. Griend",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

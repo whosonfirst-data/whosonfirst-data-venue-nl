@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.900708,52.345192,4.900708,52.345192",
     "geom:latitude":52.345192,
     "geom:longitude":4.900708,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804281,
+        1108802897,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_74gNLSN9HTt12UPlPFBpay_52.345192_4.900708@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"29b9c6181e241d50b30a780f7055072e",
+    "wof:geomhash":"de7299c80901097d3eb5eeddef9d73dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108804281,
+            "neighbourhood_id":1108802897,
             "region_id":85687053,
             "venue_id":320817671
         }
     ],
     "wof:id":320817671,
-    "wof:lastmodified":1473879632,
+    "wof:lastmodified":1492484866,
     "wof:name":"Loon, Van",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

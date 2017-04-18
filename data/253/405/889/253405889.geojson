@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.891375,52.365662,4.891375,52.365662",
     "geom:latitude":52.365662,
     "geom:longitude":4.891375,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803629,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3YSEnywNinoPlOe7llp0uH_52.365662_4.891375@1306269949"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4825122bf49016b6a850f83e66ca9d6d",
+    "wof:geomhash":"8ef13b879413f5976950870c9e865b35",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803629,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":253405889
         }
     ],
     "wof:id":253405889,
-    "wof:lastmodified":1473879561,
+    "wof:lastmodified":1492488740,
     "wof:name":"Kattenkabinet",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

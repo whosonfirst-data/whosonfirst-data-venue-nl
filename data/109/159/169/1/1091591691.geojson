@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.487449646,45.1300506592,-93.487449646,45.1300506592",
     "geom:latitude":45.130051,
     "geom:longitude":-93.48745,
@@ -24,17 +25,34 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.shd.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nakzap5il9vH280NF8txD_45.130051_-93.487450@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802030,
-    "wof:geomhash":"8f65965bcb59141e3089efa86093340e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6854a2cc95aaee41cb84b48654e1f1ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":1091591691
+        }
+    ],
     "wof:id":1091591691,
-    "wof:lastmodified":1473878561,
+    "wof:lastmodified":1492509460,
     "wof:name":"Shd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.089223,52.126415,5.089223,52.126415",
     "geom:latitude":52.126415,
     "geom:longitude":5.089223,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808701,
+        102191581,
+        1108832365,
         85633337,
         101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3vI27MzTtlHqZ9BI8GeoCO_52.126415_5.089223@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7145414ff42299ea03881f41afc47db8",
+    "wof:geomhash":"bf21f42bd1474a07a8fc06f26634d076",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808701,
             "region_id":85687039,
             "venue_id":253323697
         }
     ],
     "wof:id":253323697,
-    "wof:lastmodified":1473879398,
+    "wof:lastmodified":1492490693,
     "wof:name":"Waterbedden Winkel",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

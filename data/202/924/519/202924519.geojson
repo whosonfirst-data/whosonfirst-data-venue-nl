@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0184,52.30402,5.0184,52.30402",
     "geom:latitude":52.30402,
     "geom:longitude":5.0184,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803641,
+        1108802795,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5GrwkeCvO8JlrdRXvoGZBL_52.304020_5.018400@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b3533b2c05d2a78171277f8c4879775d",
+    "wof:geomhash":"402e696a284462956c92f0159cbb7890",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803641,
+            "neighbourhood_id":1108802795,
             "region_id":85687053,
             "venue_id":202924519
         }
     ],
     "wof:id":202924519,
-    "wof:lastmodified":1473879395,
+    "wof:lastmodified":1492497212,
     "wof:name":"Croese Bv",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

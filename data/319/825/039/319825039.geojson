@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.898075,52.377163,4.898075,52.377163",
     "geom:latitude":52.377163,
     "geom:longitude":4.898075,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.parkplazaeurope.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803337,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_5a2Qzcxt9MH4JM4xdv4F5x_52.377163_4.898075@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e9596d86678f52f86eaf18821ba6547c",
+    "wof:geomhash":"b11901c4f35a071dd9c1102c0730600d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803337,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":319825039
         }
     ],
     "wof:id":319825039,
-    "wof:lastmodified":1473878512,
+    "wof:lastmodified":1492479437,
     "wof:name":"Victoria Hotel Amsterdam",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803337,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4182248116,51.9449882507,4.4182248116,51.9449882507",
     "geom:latitude":51.944988,
     "geom:longitude":4.418225,
@@ -25,8 +26,11 @@
     "sg:website":"http://www.happywebdesign.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85798219,
+        102191581,
         85633337,
-        85798367,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -35,19 +39,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473800666,
-    "wof:geomhash":"4b9a8d0b3a96cd214dbad2ef040bf477",
+    "wof:geomhash":"334d46201474ca539203f39b4244ca72",
     "wof:hierarchy":[
         {
+            "borough_id":1108805713,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798367,
+            "locality_id":101751843,
+            "neighbourhood_id":85798219,
             "region_id":85687041,
             "venue_id":1091573041
         }
     ],
     "wof:id":1091573041,
-    "wof:lastmodified":1473878677,
+    "wof:lastmodified":1492511274,
     "wof:name":"Happy",
-    "wof:parent_id":85798367,
+    "wof:parent_id":85798219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

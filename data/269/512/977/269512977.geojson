@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.844424,52.340988,4.844424,52.340988",
     "geom:latitude":52.340988,
     "geom:longitude":4.844424,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803509,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4J4QQqHWR76U6SShJ65qbD_52.340988_4.844424@1306269954"
     },
     "wof:country":"NL",
-    "wof:geomhash":"382f24e155d3fe311cec412001213406",
+    "wof:geomhash":"9fd11b19b2cbc0bfbfcb68ba35547f67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803509,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":269512977
         }
     ],
     "wof:id":269512977,
-    "wof:lastmodified":1473878652,
+    "wof:lastmodified":1492495045,
     "wof:name":"Hebu Service Bv",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

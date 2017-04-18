@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.921371,52.351395,4.921371,52.351395",
     "geom:latitude":52.351395,
     "geom:longitude":4.921371,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.almaarif.a2000.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803495,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_1tktRm3mKw3VjjxcbJAyEM_52.351395_4.921371@1306269914"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d9a206a3021c427e5216c51d9ae824b6",
+    "wof:geomhash":"a135beb9aa56de82b2e2020f0641b557",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803495,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":186559035
         }
     ],
     "wof:id":186559035,
-    "wof:lastmodified":1473879600,
+    "wof:lastmodified":1492509283,
     "wof:name":"Al Maarif",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

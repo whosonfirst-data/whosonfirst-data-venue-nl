@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.544219,51.947277,4.544219,51.947277",
     "geom:latitude":51.947277,
     "geom:longitude":4.544219,
@@ -29,31 +30,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        85797053,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PyN8KoN6Gv3W0xYoSEVXZ_51.947277_4.544219@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a46acd1657bc57e9037a5ac934c6a737",
+    "wof:geomhash":"650e8c29a4f4a7cfb87209f84f5eb387",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797053,
+            "region_id":85687041,
+            "venue_id":304052133
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "neighbourhood_id":85797053,
             "region_id":85687041,
             "venue_id":304052133
         }
     ],
     "wof:id":304052133,
-    "wof:lastmodified":1473878711,
+    "wof:lastmodified":1492504474,
     "wof:name":"Campanile",
-    "wof:parent_id":85798329,
+    "wof:parent_id":85797053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

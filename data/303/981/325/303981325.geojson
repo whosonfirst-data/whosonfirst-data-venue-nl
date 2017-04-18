@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.36602,52.035912,4.36602,52.035912",
     "geom:latitude":52.035912,
     "geom:longitude":4.36602,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798113,
+        1108808353,
+        102191581,
+        1108808063,
         85633337,
+        101752763,
+        1108808047,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_7VGYL49bbFFEeTPuGuwWOk_52.035912_4.366020@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"aaf0ab6dc42c119172ac62a70571e164",
+    "wof:geomhash":"4b7bafcd221ce839bd8e283206577628",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808047,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798113,
+            "locality_id":101752763,
+            "macrohood_id":1108808063,
+            "neighbourhood_id":1108808353,
             "region_id":85687041,
             "venue_id":303981325
         }
     ],
     "wof:id":303981325,
-    "wof:lastmodified":1473879663,
+    "wof:lastmodified":1492474482,
     "wof:name":"Dierenzorg, Hondentrimsalon",
-    "wof:parent_id":85798113,
+    "wof:parent_id":1108808353,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.944397,52.401222,4.944397,52.401222",
     "geom:latitude":52.401222,
     "geom:longitude":4.944397,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803219,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_5Ia4NlgZ4G3QGFzmqdfMPA_52.401222_4.944397@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6690eb077ee3986880d7058a178b7a1e",
+    "wof:geomhash":"2af6ee445717af3b360502fc344b32bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803219,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":253661141
         }
     ],
     "wof:id":253661141,
-    "wof:lastmodified":1473879693,
+    "wof:lastmodified":1492488476,
     "wof:name":"Bakkali Bv",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

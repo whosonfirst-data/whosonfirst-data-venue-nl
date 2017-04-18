@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.476317,51.938259,4.476317,51.938259",
     "geom:latitude":51.938259,
     "geom:longitude":4.476317,
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859819,
+        85859823,
+        102191581,
         85633337,
-        101753095,
+        101751843,
+        1108804843,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +45,22 @@
         "sg:id":"SG_7XGPm1HI5vdobcmS42KMbT_51.938259_4.476317@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2fa9f6981deb04ba928c5d182a8ed874",
+    "wof:geomhash":"882a1dbb6d3cb10b3016a7f92455a2a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108804843,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859819,
+            "locality_id":101751843,
+            "neighbourhood_id":85859823,
             "region_id":85687041,
             "venue_id":320108305
         }
     ],
     "wof:id":320108305,
-    "wof:lastmodified":1473878823,
+    "wof:lastmodified":1492482976,
     "wof:name":"Sorgun",
-    "wof:parent_id":85859819,
+    "wof:parent_id":85859823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

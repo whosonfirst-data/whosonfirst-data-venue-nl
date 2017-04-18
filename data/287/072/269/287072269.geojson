@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.477951,51.945496,4.477951,51.945496",
     "geom:latitude":51.945496,
     "geom:longitude":4.477951,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859841,
+        1108805793,
+        102191581,
+        1108805981,
         85633337,
-        101753095,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5H9JzuWXunWmEvOYfrvnpv_51.945496_4.477951@1306269976"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5be1f74c8d5c7f284128402e014f5e2b",
+    "wof:geomhash":"694b4a7688cf1f930cf0fa75a56f775a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859841,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805793,
             "region_id":85687041,
             "venue_id":287072269
         }
     ],
     "wof:id":287072269,
-    "wof:lastmodified":1473878727,
+    "wof:lastmodified":1492513558,
     "wof:name":"Kouwen & Zn, P",
-    "wof:parent_id":85859841,
+    "wof:parent_id":1108805793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

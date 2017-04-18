@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.921432,52.337414,4.921432,52.337414",
     "geom:latitude":52.337414,
     "geom:longitude":4.921432,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.hanos.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804033,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_1ovqe48azej9DV4cmeBTfz_52.337414_4.921432@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"43e940ebc66ce0ba9540d8b72ba2a836",
+    "wof:geomhash":"1bb6a10526ac227a7d94f7e7723fe904",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804033,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":304027213
         }
     ],
     "wof:id":304027213,
-    "wof:lastmodified":1473878632,
+    "wof:lastmodified":1492504612,
     "wof:name":"Hanos",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

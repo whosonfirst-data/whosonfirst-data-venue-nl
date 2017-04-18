@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.918202,52.343288,4.918202,52.343288",
     "geom:latitude":52.343288,
     "geom:longitude":4.918202,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804087,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2ZmewA5SwB6siLN3gHfkl7_52.343288_4.918202@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8538139bb08c1a6a3b386886810655a5",
+    "wof:geomhash":"63dac7357d3f952dd9d1da75ac37c55b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804087,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":203111477
         }
     ],
     "wof:id":203111477,
-    "wof:lastmodified":1473878885,
+    "wof:lastmodified":1492480966,
     "wof:name":"B. Franco Mendes Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

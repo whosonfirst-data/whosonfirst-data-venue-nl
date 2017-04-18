@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.875745,52.362553,4.875745,52.362553",
     "geom:latitude":52.362553,
     "geom:longitude":4.875745,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.europa92.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804305,
+        1108802937,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_3jRJ5BLV1zwUhnogoEv8lS_52.362553_4.875745@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6f289cdc93a5c1be32b5b1c2dec1be40",
+    "wof:geomhash":"48066058ad03c33debf0cbfd024983d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804305,
+            "neighbourhood_id":1108802937,
             "region_id":85687053,
             "venue_id":304059017
         }
     ],
     "wof:id":304059017,
-    "wof:lastmodified":1473878715,
+    "wof:lastmodified":1492504332,
     "wof:name":"Europa 92",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804305,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

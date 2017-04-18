@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.936027,52.307606,4.936027,52.307606",
     "geom:latitude":52.307606,
     "geom:longitude":4.936027,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797113,
+        1108803575,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6sHrYK4gthHAE2j8FWq0oP_52.307606_4.936027@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b1e53486a716106594476ee19d39a0ba",
+    "wof:geomhash":"5cfd07b84d8f3209c230ed8cd3bc1aed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797113,
+            "locality_id":101751893,
+            "microhood_id":1108803575,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":270235979
         }
     ],
     "wof:id":270235979,
-    "wof:lastmodified":1473878915,
+    "wof:lastmodified":1492501322,
     "wof:name":"G. Van Delft",
-    "wof:parent_id":85797113,
+    "wof:parent_id":1108803575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

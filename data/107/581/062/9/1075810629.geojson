@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2249670029,52.0077819824,4.2249670029,52.0077819824",
     "geom:latitude":52.007782,
     "geom:longitude":4.224967,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
         85633337,
-        85859575,
-        85687041
+        101837705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473798691,
-    "wof:geomhash":"7f3f443fb0ecf9fa214133dafa76a926",
+    "wof:geomhash":"8ccd229a0dcc412a2a9d05f879883096",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85859575,
+            "localadmin_id":404474667,
+            "locality_id":101837705,
             "region_id":85687041,
             "venue_id":1075810629
         }
     ],
     "wof:id":1075810629,
-    "wof:lastmodified":1473878765,
+    "wof:lastmodified":1492486550,
     "wof:name":"Openbare Basisschool Het Palet",
-    "wof:parent_id":85859575,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

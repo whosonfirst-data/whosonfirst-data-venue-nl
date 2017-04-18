@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.902715,52.342091,4.902715,52.342091",
     "geom:latitude":52.342091,
     "geom:longitude":4.902715,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803419,
+        1108802895,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5IDOgz7Pe4j3Y7sAMdkaeW_52.342091_4.902715@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7a8e8bde560a58a5d182ca6a6dd1bac9",
+    "wof:geomhash":"653d491247b00f84be8c8900b190bf01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803419,
+            "neighbourhood_id":1108802895,
             "region_id":85687053,
             "venue_id":202881445
         }
     ],
     "wof:id":202881445,
-    "wof:lastmodified":1473879372,
+    "wof:lastmodified":1492498133,
     "wof:name":"Schaefer",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803419,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

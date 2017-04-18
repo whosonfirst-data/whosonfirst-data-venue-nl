@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.890857,52.378551,4.890857,52.378551",
     "geom:latitude":52.378551,
     "geom:longitude":4.890857,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803299,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_41TfO3XGyNovG0B2ISP4EB_52.378551_4.890857@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3f607c31f7c40c9624a1dd86cd0e964d",
+    "wof:geomhash":"4df388582e131f81f710b29cdfbe0ded",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803299,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":202771533
         }
     ],
     "wof:id":202771533,
-    "wof:lastmodified":1473879187,
+    "wof:lastmodified":1492497501,
     "wof:name":"Ellingjord Vertalingen",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

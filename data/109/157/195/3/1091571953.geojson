@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9932761192,51.840259552,5.9932761192,51.840259552",
     "geom:latitude":51.84026,
     "geom:longitude":5.993276,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.cephalon.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473943,
+        85633337,
+        101808625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5y5DWIzSwF12JicN6W81NH_51.840260_5.993276@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800602,
-    "wof:geomhash":"6302cd4d23f78153c45dc23311391d85",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba9cfca7c329443b0b306bd7e079f666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473943,
+            "locality_id":101808625,
+            "region_id":85687043,
+            "venue_id":1091571953
+        }
+    ],
     "wof:id":1091571953,
-    "wof:lastmodified":1473878582,
+    "wof:lastmodified":1492511359,
     "wof:name":"Cephalon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

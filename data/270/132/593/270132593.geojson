@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5702,51.96175,4.5702,51.96175",
     "geom:latitude":51.96175,
     "geom:longitude":4.5702,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798779,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HKmKhnuTCjLN3wwtRzhto_51.961750_4.570200@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fafdd19b7f1377be3e0df00ad01fc5b3",
+    "wof:geomhash":"7444645f32a63d49cc9802e4d5821351",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798779,
+            "region_id":85687041,
+            "venue_id":270132593
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798779,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":270132593,
-    "wof:lastmodified":1473878637,
+    "wof:lastmodified":1492501186,
     "wof:name":"Broekhoven, Y J",
     "wof:parent_id":85798779,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.285893,52.062328,4.285893,52.062328",
     "geom:latitude":52.062328,
     "geom:longitude":4.285893,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859609,
+        1108808277,
+        102191581,
+        1108808119,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2GSnWaqWwSLkGfN6xmdXBy_52.062328_4.285893@1306269992"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ad748964b027ab6e6f22cd8bf806448b",
+    "wof:geomhash":"1fc3c84e6e2a954bcaf2481a224e0bb8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859609,
+            "macrohood_id":1108808119,
+            "neighbourhood_id":1108808277,
             "region_id":85687041,
             "venue_id":319898051
         }
     ],
     "wof:id":319898051,
-    "wof:lastmodified":1473878778,
+    "wof:lastmodified":1492479446,
     "wof:name":"A.M. Den Buurman Van Wees",
-    "wof:parent_id":85859609,
+    "wof:parent_id":1108808277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

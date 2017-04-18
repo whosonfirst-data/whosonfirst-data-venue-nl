@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.118599,52.066647,5.118599,52.066647",
     "geom:latitude":52.066647,
     "geom:longitude":5.118599,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.verkeersschooltwin.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797727,
+        1108808823,
+        102191581,
+        1108808645,
         85633337,
         101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_0q2ECwBET6xb21RW67OxCO_52.066647_5.118599@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2ae2cf400fb3b4875f0241faa0298581",
+    "wof:geomhash":"3a959db8fb1ae56fe9c4862e50d64c25",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797727,
+            "macrohood_id":1108808645,
+            "neighbourhood_id":1108808823,
             "region_id":85687039,
             "venue_id":236827931
         }
     ],
     "wof:id":236827931,
-    "wof:lastmodified":1473879558,
+    "wof:lastmodified":1492494349,
     "wof:name":"Twin Verkeersschool",
-    "wof:parent_id":85797727,
+    "wof:parent_id":1108808823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

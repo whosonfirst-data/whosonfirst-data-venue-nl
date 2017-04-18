@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.917193,52.367867,4.917193,52.367867",
     "geom:latitude":52.367867,
     "geom:longitude":4.917193,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804161,
+        1108802879,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0haM1r2Y9NoIQr7lbclcjN_52.367867_4.917193@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"595797e5ce96818a97bb27aa0102583b",
+    "wof:geomhash":"1d91b2a3616aedb80889597aef7e6b5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108804161,
+            "neighbourhood_id":1108802879,
             "region_id":85687053,
             "venue_id":236414023
         }
     ],
     "wof:id":236414023,
-    "wof:lastmodified":1473879281,
+    "wof:lastmodified":1492492103,
     "wof:name":"Euro Stage",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

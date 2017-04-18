@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.93811,52.355019,4.93811,52.355019",
     "geom:latitude":52.355019,
     "geom:longitude":4.93811,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803631,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1tHbugWjmImwVflRfCZ213_52.355019_4.938110@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8dd42b495b581d59023a9e6c1d75b1d7",
+    "wof:geomhash":"cf2ad0790f87ddf952a7b03d8e0d6164",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803631,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":219297217
         }
     ],
     "wof:id":219297217,
-    "wof:lastmodified":1473878851,
+    "wof:lastmodified":1492504031,
     "wof:name":"Hevri",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

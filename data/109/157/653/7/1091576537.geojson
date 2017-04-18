@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.4163370132,52.1603012085,6.4163370132,52.1603012085",
     "geom:latitude":52.160301,
     "geom:longitude":6.416337,
@@ -33,17 +34,32 @@
         "week-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473915,
+        85633337,
+        101807065
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0flZZv0qFsQ9HGtIt5Smen_52.160301_6.416337@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800873,
-    "wof:geomhash":"35cee4f1bff91c7fb37e694e803e0d37",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6d38be0969c6923c24d551787d16d69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473915,
+            "locality_id":101807065,
+            "region_id":85687043,
+            "venue_id":1091576537
+        }
+    ],
     "wof:id":1091576537,
-    "wof:lastmodified":1473878923,
+    "wof:lastmodified":1492511257,
     "wof:name":"Extra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

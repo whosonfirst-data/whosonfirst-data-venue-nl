@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.916248,52.35553,4.916248,52.35553",
     "geom:latitude":52.35553,
     "geom:longitude":4.916248,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803403,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6VFuDz2XmeB9HiTORlotar_52.355530_4.916248@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2e3a55bb1501358e70a2fd8beff194a3",
+    "wof:geomhash":"518fdc1824dd1ab9d49bcd2ec514fd00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803403,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":236524053
         }
     ],
     "wof:id":236524053,
-    "wof:lastmodified":1473879375,
+    "wof:lastmodified":1492492864,
     "wof:name":"J.B. De Mirck En M.P.L. Bel",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803403,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

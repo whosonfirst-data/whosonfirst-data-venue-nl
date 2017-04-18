@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.871597,52.368935,4.871597,52.368935",
     "geom:latitude":52.368935,
     "geom:longitude":4.871597,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803451,
+        1108802777,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0J59mUppqIHopb4Y3GzofX_52.368935_4.871597@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"00c29d03357af1a7cbf788ff0c1fc563",
+    "wof:geomhash":"3aa43bec89d1760b4d33c4093fcfb8f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803451,
+            "neighbourhood_id":1108802777,
             "region_id":85687053,
             "venue_id":270112579
         }
     ],
     "wof:id":270112579,
-    "wof:lastmodified":1473878619,
+    "wof:lastmodified":1492500212,
     "wof:name":"Caro",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

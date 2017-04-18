@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6939058304,52.3030815125,4.6939058304,52.3030815125",
     "geom:latitude":52.303082,
     "geom:longitude":4.693906,
@@ -23,17 +24,32 @@
     "sg:postcode":"2132 DK",
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474065,
+        85633337,
+        101751899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IwrhI7yiP29B2EUGii6rD_52.303082_4.693906@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801358,
-    "wof:geomhash":"4b448d2a5b20181d2fe31dae321165f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6bac5134b6882c973c51cf1e900bff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474065,
+            "locality_id":101751899,
+            "region_id":85687053,
+            "venue_id":1091583421
+        }
+    ],
     "wof:id":1091583421,
-    "wof:lastmodified":1473878662,
+    "wof:lastmodified":1492511947,
     "wof:name":"Content",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.917126,52.34898,4.917126,52.34898",
     "geom:latitude":52.34898,
     "geom:longitude":4.917126,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.tobeone.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803495,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_5zPNDsiNrp9P0XyqgT7Hv9_52.348980_4.917126@1306269932"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8ab47aa1f5ca611c453ba492a6370676",
+    "wof:geomhash":"c0356ae1c098872c3512aa17302d4609",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803495,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":220146697
         }
     ],
     "wof:id":220146697,
-    "wof:lastmodified":1473878975,
+    "wof:lastmodified":1492481119,
     "wof:name":"To Be One",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

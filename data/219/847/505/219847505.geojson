@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.503475,51.932415,4.503475,51.932415",
     "geom:latitude":51.932415,
     "geom:longitude":4.503475,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805807,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0eoxZ5w7glhh3glgX96Gv9_51.932415_4.503475@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"35afd118dcf2bc2587c5c7626b8b9c7a",
+    "wof:geomhash":"dfd13c293d9feef436523129600a23e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805807,
             "region_id":85687041,
             "venue_id":219847505
         }
     ],
     "wof:id":219847505,
-    "wof:lastmodified":1473879728,
+    "wof:lastmodified":1492503479,
     "wof:name":"Klouwens",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.400669,51.942574,4.400669,51.942574",
     "geom:latitude":51.942574,
     "geom:longitude":4.400669,
@@ -24,30 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797797,
+        1108805757,
+        102191581,
         85633337,
-        85687041
+        101751843,
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7If7K9juM5TOZtF1jrZETl_51.942574_4.400669@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e9080839b78f4c9ec83946372b3b965d",
+    "wof:geomhash":"4947402788dbff0773578d2109bbb192",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805739,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797797,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":253227283
+        },
+        {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474253,
+            "locality_id":101751845,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":253227283
         }
     ],
     "wof:id":253227283,
-    "wof:lastmodified":1473879255,
+    "wof:lastmodified":1492488319,
     "wof:name":"Grand Fashion Bv",
-    "wof:parent_id":85797797,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

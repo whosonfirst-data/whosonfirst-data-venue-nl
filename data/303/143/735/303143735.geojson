@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.935376,52.363468,4.935376,52.363468",
     "geom:latitude":52.363468,
     "geom:longitude":4.935376,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803517,
+        1108802845,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_0RnCIYsnJa8vADCEbiGh0z_52.363468_4.935376@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1553947eebd18ffaafd2404ea4235ed0",
+    "wof:geomhash":"1201417424c5e4ac14a22ca06756d833",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803517,
+            "neighbourhood_id":1108802845,
             "region_id":85687053,
             "venue_id":303143735
         }
     ],
     "wof:id":303143735,
-    "wof:lastmodified":1473878788,
+    "wof:lastmodified":1492472462,
     "wof:name":"Oost, Van",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

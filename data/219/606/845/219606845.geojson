@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.812117,52.348759,4.812117,52.348759",
     "geom:latitude":52.348759,
     "geom:longitude":4.812117,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803421,
+        1108802901,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3r8E84b4upegjkw52Xuaw8_52.348759_4.812117@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6205fbf22fa1c8ef287eecc5feaf1acb",
+    "wof:geomhash":"2ef91e35317cd3b7e6e4433fdc1cc8ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803421,
+            "neighbourhood_id":1108802901,
             "region_id":85687053,
             "venue_id":219606845
         }
     ],
     "wof:id":219606845,
-    "wof:lastmodified":1473879462,
+    "wof:lastmodified":1492502762,
     "wof:name":"Dhp",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

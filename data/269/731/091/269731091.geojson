@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.929118,52.369644,4.929118,52.369644",
     "geom:latitude":52.369644,
     "geom:longitude":4.929118,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803207,
+        1108802879,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_4eMQYg3ppwRLaStvegRkHc_52.369644_4.929118@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a5c7ce374e8a046dc257599d553a5e5b",
+    "wof:geomhash":"68fc7cb044fe013c9824c9f37a610784",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803207,
+            "neighbourhood_id":1108802879,
             "region_id":85687053,
             "venue_id":269731091
         }
     ],
     "wof:id":269731091,
-    "wof:lastmodified":1473879337,
+    "wof:lastmodified":1492494991,
     "wof:name":"Al Khan Afhaalcentrum",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803207,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

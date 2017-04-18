@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880054,52.370792,4.880054,52.370792",
     "geom:latitude":52.370792,
     "geom:longitude":4.880054,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7ejaTTI6rnkOvIPAeY0H2r_52.370792_4.880054@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ba7617a1cb0de1f26109ad51e9c2f43c",
+    "wof:geomhash":"30ab97a6242046f6501cbce9aabd5554",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":186072637
         }
     ],
     "wof:id":186072637,
-    "wof:lastmodified":1473878827,
+    "wof:lastmodified":1492508055,
     "wof:name":"Biba, Coffeeshop",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

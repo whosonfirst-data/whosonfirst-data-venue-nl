@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1492848396,52.0907325745,5.1492848396,52.0907325745",
     "geom:latitude":52.090733,
     "geom:longitude":5.149285,
@@ -25,8 +26,11 @@
     "sg:website":"http://www.batenborch.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808849,
+        102191581,
         85633337,
-        85797403,
+        101751827,
+        1108808669,
         85687039
     ],
     "wof:breaches":[],
@@ -35,19 +39,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473801974,
-    "wof:geomhash":"99c25c1416b7476e40e34c4e5e70d816",
+    "wof:geomhash":"eb6421fa24c47a94dce804594e5ba3cc",
     "wof:hierarchy":[
         {
+            "borough_id":1108808669,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797403,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808849,
             "region_id":85687039,
             "venue_id":1091590517
         }
     ],
     "wof:id":1091590517,
-    "wof:lastmodified":1473878517,
+    "wof:lastmodified":1492509861,
     "wof:name":"Batenborch International",
-    "wof:parent_id":85797403,
+    "wof:parent_id":1108808849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

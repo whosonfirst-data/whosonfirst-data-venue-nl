@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.908137,52.362858,4.908137,52.362858",
     "geom:latitude":52.362858,
     "geom:longitude":4.908137,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803643,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_6CAmvZUuE5XYkkJxW7CMCp_52.362858_4.908137@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c0a11c50a5236429437e9c53b9cf7f73",
+    "wof:geomhash":"54a1396ff371bbf715139fd61ab8b9e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803643,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":304052273
         }
     ],
     "wof:id":304052273,
-    "wof:lastmodified":1473878718,
+    "wof:lastmodified":1492504475,
     "wof:name":"Canal Apartments",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

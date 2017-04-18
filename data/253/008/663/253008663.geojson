@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.347243,52.066727,4.347243,52.066727",
     "geom:latitude":52.066727,
     "geom:longitude":4.347243,
@@ -25,28 +26,46 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859633,
+        102191581,
+        1108808077,
         85633337,
         101752763,
-        85687041
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iXpA7YIUB4S1ND6KV9Gd5_52.066727_4.347243@1306269945"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d68378da11e7983d7e5e8b0661a177ab",
+    "wof:geomhash":"804f106bf4fa11e92c6b9d786711c504",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808077,
+            "neighbourhood_id":85859633,
+            "region_id":85687041,
+            "venue_id":253008663
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
+            "locality_id":101754743,
+            "macrohood_id":1108808077,
             "neighbourhood_id":85859633,
             "region_id":85687041,
             "venue_id":253008663
         }
     ],
     "wof:id":253008663,
-    "wof:lastmodified":1473878517,
+    "wof:lastmodified":1492489368,
     "wof:name":"Reparco Randstad Bv",
     "wof:parent_id":85859633,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.895562,52.379028,4.895562,52.379028",
     "geom:latitude":52.379028,
     "geom:longitude":4.895562,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.interpolm.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804135,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_68CawDXUQM7vGwzpvAeuae_52.379028_4.895562@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"399202b91d79cef96e9577ebe72c41a7",
+    "wof:geomhash":"828cb66aa5a2d91e816daa1a9ef0fa53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804135,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":186075695
         }
     ],
     "wof:id":186075695,
-    "wof:lastmodified":1473878836,
+    "wof:lastmodified":1492508486,
     "wof:name":"Interpolm Amsterdam",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

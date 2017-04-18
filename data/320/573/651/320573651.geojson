@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.919934,52.354542,4.919934,52.354542",
     "geom:latitude":52.354542,
     "geom:longitude":4.919934,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803773,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_0KOSohT9kTFTMAqAqNx8W7_52.354542_4.919934@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b39045410e368dcde0542e9835f8fcf9",
+    "wof:geomhash":"5bc8f9a9a1c1b1d9c3d0666de33ee2cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803773,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":320573651
         }
     ],
     "wof:id":320573651,
-    "wof:lastmodified":1473879426,
+    "wof:lastmodified":1492484688,
     "wof:name":"Supermarket Haymana",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

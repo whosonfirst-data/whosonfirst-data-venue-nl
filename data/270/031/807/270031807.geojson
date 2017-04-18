@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.504868,51.92944,4.504868,51.92944",
     "geom:latitude":51.92944,
     "geom:longitude":4.504868,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805807,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6W54DNAG3eKWN1x6yaG3tv_51.929440_4.504868@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"61b915a29875d45d9da4192d6d1d69e5",
+    "wof:geomhash":"287537487f104fa7c1dec145b94fa8fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805807,
             "region_id":85687041,
             "venue_id":270031807
         }
     ],
     "wof:id":270031807,
-    "wof:lastmodified":1473878509,
+    "wof:lastmodified":1492500438,
     "wof:name":"Fitnessworld",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

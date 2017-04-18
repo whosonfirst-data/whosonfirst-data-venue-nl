@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.278727,52.112301,4.278727,52.112301",
     "geom:latitude":52.112301,
     "geom:longitude":4.278727,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808165,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_0Tn5Zjt5HHUuqkKgsODyhF_52.112301_4.278727@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f42ab7e2367b25376e2714f25f70f3c6",
+    "wof:geomhash":"dd90ceae5f9d3f8e0bebe7270303be2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808165,
             "region_id":85687041,
             "venue_id":269751715
         }
     ],
     "wof:id":269751715,
-    "wof:lastmodified":1473879378,
+    "wof:lastmodified":1492494803,
     "wof:name":"De Kwartel Strandpaviljoen",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

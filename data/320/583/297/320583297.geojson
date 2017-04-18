@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.927764,52.34446,4.927764,52.34446",
     "geom:latitude":52.34446,
     "geom:longitude":4.927764,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803657,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_46QXvGZMOd37UKqz8obbi7_52.344460_4.927764@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"94ac36909f4c419213d053e658803172",
+    "wof:geomhash":"43cd082b3c340f1d4ce753c4b9afd1dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803657,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":320583297
         }
     ],
     "wof:id":320583297,
-    "wof:lastmodified":1473879418,
+    "wof:lastmodified":1492482104,
     "wof:name":"Amstel, De",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

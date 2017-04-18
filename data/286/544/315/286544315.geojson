@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.91475,52.357201,4.91475,52.357201",
     "geom:latitude":52.357201,
     "geom:longitude":4.91475,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803403,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0Awq8qebh7E9c0fhw04B0H_52.357201_4.914750@1306269970"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6d157d2bf9afbdbfc4cd372022e2584f",
+    "wof:geomhash":"f190e0bc950efc943ee00a2fb45dcea1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803403,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":286544315
         }
     ],
     "wof:id":286544315,
-    "wof:lastmodified":1473879191,
+    "wof:lastmodified":1492476412,
     "wof:name":"Uitvaart Com",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803403,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.796674,52.341553,4.796674,52.341553",
     "geom:latitude":52.341553,
     "geom:longitude":4.796674,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803689,
+        1108802857,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0smp0EHiKicbnKwf6zfDJB_52.341553_4.796674@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fa5536143876e4856c0c8fd87a05cf26",
+    "wof:geomhash":"1ea432d7afb9cbe492cbf7b702c91458",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803689,
+            "neighbourhood_id":1108802857,
             "region_id":85687053,
             "venue_id":269967215
         }
     ],
     "wof:id":269967215,
-    "wof:lastmodified":1473879578,
+    "wof:lastmodified":1492495719,
     "wof:name":"F.J. De Meij",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

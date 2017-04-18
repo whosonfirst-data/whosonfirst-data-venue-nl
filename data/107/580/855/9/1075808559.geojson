@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3208589554,51.359500885,5.3208589554,51.359500885",
     "geom:latitude":51.359501,
     "geom:longitude":5.320859,
@@ -23,17 +24,32 @@
     "sg:postcode":"5521 CP",
     "sg:province":"North Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474371,
+        85633337,
+        101839351
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YdK1TPoLPyqlHBEDk5tjo_51.359501_5.320859@1306269942"
     },
     "wof:country":"NL",
     "wof:created":1473798584,
-    "wof:geomhash":"e09f2a724a2424eed746a3a0cb484760",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d78886b8bc9588e08dc8add8bc2af7eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474371,
+            "locality_id":101839351,
+            "region_id":85687035,
+            "venue_id":1075808559
+        }
+    ],
     "wof:id":1075808559,
-    "wof:lastmodified":1473878627,
+    "wof:lastmodified":1492486060,
     "wof:name":"Maas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

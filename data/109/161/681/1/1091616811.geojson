@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1997079849,52.7119064331,6.1997079849,52.7119064331",
     "geom:latitude":52.711906,
     "geom:longitude":6.199708,
@@ -24,17 +25,32 @@
     "sg:province":"Provincie Drenthe",
     "sg:website":"http://www.multi-office.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473813,
+        85633337,
+        101807279
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CcM4LjCrdcQwavzGWdlPJ_52.711906_6.199708@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803758,
-    "wof:geomhash":"8a9fcb936a2a9fa1292ecb480e3cca73",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57ea169aebed3d7aca25109f5a8a3401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473813,
+            "locality_id":101807279,
+            "region_id":85687051,
+            "venue_id":1091616811
+        }
+    ],
     "wof:id":1091616811,
-    "wof:lastmodified":1473878866,
+    "wof:lastmodified":1492510756,
     "wof:name":"Multi-Office Meppel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

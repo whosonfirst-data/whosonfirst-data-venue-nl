@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884789,52.417721,4.884789,52.417721",
     "geom:latitude":52.417721,
     "geom:longitude":4.884789,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803913,
+        1108802883,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_0wxs3Qj3gWfEdGmKsrLWqk_52.417721_4.884789@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f8d8eef45feb2e01405cd990149a545c",
+    "wof:geomhash":"f06f7884b39b865614d8ed70886aec5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803913,
+            "neighbourhood_id":1108802883,
             "region_id":85687053,
             "venue_id":252800587
         }
     ],
     "wof:id":252800587,
-    "wof:lastmodified":1473878548,
+    "wof:lastmodified":1492504999,
     "wof:name":"Ragab",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

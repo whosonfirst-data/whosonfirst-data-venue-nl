@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.554159,51.932091,4.554159,51.932091",
     "geom:latitude":51.932091,
     "geom:longitude":4.554159,
@@ -24,31 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798375,
+        1108805851,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YPNVc9FeWypxQyMOMSdgp_51.932091_4.554159@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"050a11eee9aee4d024361d17e8126560",
+    "wof:geomhash":"462dcafa753024f52eae332127367347",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85798375,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805851,
+            "region_id":85687041,
+            "venue_id":202764107
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805851,
             "region_id":85687041,
             "venue_id":202764107
         }
     ],
     "wof:id":202764107,
-    "wof:lastmodified":1473879208,
+    "wof:lastmodified":1492497076,
     "wof:name":"Boogerd Techn Advies Vertaalbureau",
-    "wof:parent_id":85798375,
+    "wof:parent_id":1108805851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

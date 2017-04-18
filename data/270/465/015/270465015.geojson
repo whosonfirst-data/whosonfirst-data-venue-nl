@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.89599,52.376492,4.89599,52.376492",
     "geom:latitude":52.376492,
     "geom:longitude":4.89599,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803337,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_4qA9gPwMjZSb08fFHIPPEx_52.376492_4.895990@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"957e3b4aca389114f248080f84245da1",
+    "wof:geomhash":"7a7d7a5647ad5745f821310e1fa0374f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803337,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":270465015
         }
     ],
     "wof:id":270465015,
-    "wof:lastmodified":1473879270,
+    "wof:lastmodified":1492499674,
     "wof:name":"Bar The Web",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803337,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

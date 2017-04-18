@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.904589,52.344215,4.904589,52.344215",
     "geom:latitude":52.344215,
     "geom:longitude":4.904589,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804281,
+        1108802897,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5QXz3gE0adYEWppXgoQcDh_52.344215_4.904589@1306269920"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fbd2da318b2421a8c0e5c9a9f867d5a3",
+    "wof:geomhash":"553ea30c78508849401e2305dffa1ecf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108804281,
+            "neighbourhood_id":1108802897,
             "region_id":85687053,
             "venue_id":203004151
         }
     ],
     "wof:id":203004151,
-    "wof:lastmodified":1473878500,
+    "wof:lastmodified":1492480882,
     "wof:name":"Post, Van Der",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

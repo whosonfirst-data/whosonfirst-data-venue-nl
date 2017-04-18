@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9482607841,52.1479988098,4.9482607841,52.1479988098",
     "geom:latitude":52.147999,
     "geom:longitude":4.948261,
@@ -24,17 +25,32 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.yellowshout.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473979,
+        85633337,
+        101807007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iDpFIRcp7OR72hOtaTDjJ_52.147999_4.948261@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800855,
-    "wof:geomhash":"7fec6f984913233334b6ebf5d01f1fd3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"586cf3e132961d51e98055c63817778d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473979,
+            "locality_id":101807007,
+            "region_id":85687039,
+            "venue_id":1091576105
+        }
+    ],
     "wof:id":1091576105,
-    "wof:lastmodified":1473878915,
+    "wof:lastmodified":1492511375,
     "wof:name":"Yellowshout",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

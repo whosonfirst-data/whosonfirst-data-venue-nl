@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.79333,52.392189,4.79333,52.392189",
     "geom:latitude":52.392189,
     "geom:longitude":4.79333,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797579,
+        1108804105,
+        1108802535,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_6E0xobqvnnaLaLSsPoBEhr_52.392189_4.793330@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4fdd18bad553b0e0f71cabf6bdef01a2",
+    "wof:geomhash":"38bce53580cce490139a49105bffec85",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797579,
+            "microhood_id":1108804105,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":303111497
         }
     ],
     "wof:id":303111497,
-    "wof:lastmodified":1473878687,
+    "wof:lastmodified":1492474592,
     "wof:name":"Echte Bakker Verkerk",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108804105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7218270302,52.7220954895,5.7218270302,52.7220954895",
     "geom:latitude":52.722095,
     "geom:longitude":5.721827,
@@ -23,17 +24,32 @@
     "sg:postcode":"8302 NZ",
     "sg:province":"Flevoland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473843,
+        85633337,
+        101807245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fcYfWO5YYhFZQhsBbLxII_52.722095_5.721827@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800397,
-    "wof:geomhash":"7133322e6cd9690237c3b144299de085",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58ceec379c398c724b2d39a023b41e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473843,
+            "locality_id":101807245,
+            "region_id":85687049,
+            "venue_id":1091568977
+        }
+    ],
     "wof:id":1091568977,
-    "wof:lastmodified":1473878539,
+    "wof:lastmodified":1492510888,
     "wof:name":"Waterservice Ned",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.455028,52.12249,4.455028,52.12249",
     "geom:latitude":52.12249,
     "geom:longitude":4.455028,
@@ -24,10 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798589,
         85633337,
+        85798589,
         85687041,
         85797049,
+        102191581,
+        404474277,
         101754713
     ],
     "wof:breaches":[],
@@ -35,19 +38,18 @@
         "sg:id":"SG_4Ac7EHv1hkCBgiJgUdwhA0_52.122490_4.455028@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8a83b210c8d69b5c97cf20b7815f9d26",
+    "wof:geomhash":"b3bc3685a5971b542ce4a86fcfda1446",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85798589,
             "region_id":85687041,
             "venue_id":236787875
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474277,
             "locality_id":101754713,
             "neighbourhood_id":85797049,
             "region_id":85687041,
@@ -55,9 +57,9 @@
         }
     ],
     "wof:id":236787875,
-    "wof:lastmodified":1473879517,
+    "wof:lastmodified":1492491738,
     "wof:name":"Klink, Rob",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.26167,52.050453,4.26167,52.050453",
     "geom:latitude":52.050453,
     "geom:longitude":4.26167,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798043,
+        1108808279,
+        102191581,
+        1108808029,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1YVn23q2mzdftQrvd8su48_52.050453_4.261670@1306269978"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1568d41ae1bb7e8f619cc25f53bf78d5",
+    "wof:geomhash":"7435bbc66b069d140d8dc90006e08a16",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798043,
+            "macrohood_id":1108808029,
+            "neighbourhood_id":1108808279,
             "region_id":85687041,
             "venue_id":287282129
         }
     ],
     "wof:id":287282129,
-    "wof:lastmodified":1473879160,
+    "wof:lastmodified":1492513376,
     "wof:name":"Admoto",
-    "wof:parent_id":85798043,
+    "wof:parent_id":1108808279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

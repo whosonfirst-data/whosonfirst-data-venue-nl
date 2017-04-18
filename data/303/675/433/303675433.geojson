@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.120607,52.069569,5.120607,52.069569",
     "geom:latitude":52.069569,
     "geom:longitude":5.120607,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797727,
+        1108808823,
+        102191581,
+        1108808645,
         85633337,
         101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7Cy8aICnFqNLXaWyCz8geC_52.069569_5.120607@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"79c47aecc0eb22265076b62b6f5cd149",
+    "wof:geomhash":"5849777ad63ce6e98db8110d5c74e6c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797727,
+            "macrohood_id":1108808645,
+            "neighbourhood_id":1108808823,
             "region_id":85687039,
             "venue_id":303675433
         }
     ],
     "wof:id":303675433,
-    "wof:lastmodified":1473879421,
+    "wof:lastmodified":1492471255,
     "wof:name":"A.J.E. V.D. Pol",
-    "wof:parent_id":85797727,
+    "wof:parent_id":1108808823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

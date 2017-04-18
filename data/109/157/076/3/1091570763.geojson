@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7708179951,51.7321510315,3.7708179951,51.7321510315",
     "geom:latitude":51.732151,
     "geom:longitude":3.770818,
@@ -24,17 +25,32 @@
     "sg:province":"Zeeland",
     "sg:website":"http://www.jonkerfunsports.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474591,
+        85633337,
+        101809785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DXpm1Fh9o42X80k1oVAG6_51.732151_3.770818@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800522,
-    "wof:geomhash":"d525abe27493f3be7c46b4cad1d28cff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fec06cf3ffa6e87227aea09dc7c08c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474591,
+            "locality_id":101809785,
+            "region_id":85687037,
+            "venue_id":1091570763
+        }
+    ],
     "wof:id":1091570763,
-    "wof:lastmodified":1473878521,
+    "wof:lastmodified":1492511272,
     "wof:name":"Jonker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

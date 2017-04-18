@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0948982239,51.8995437622,5.0948982239,51.8995437622",
     "geom:latitude":51.899544,
     "geom:longitude":5.094898,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.felius-webdesign.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474197,
+        85633337,
+        101808521
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GTeQhtmt1GwpMwc1XZZSY_51.899544_5.094898@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800650,
-    "wof:geomhash":"bb449fe2ba8258de10f2f7af6c190e19",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c8f1688ccad28fb678b80fe51fce34b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474197,
+            "locality_id":101808521,
+            "region_id":85687041,
+            "venue_id":1091572777
+        }
+    ],
     "wof:id":1091572777,
-    "wof:lastmodified":1473878655,
+    "wof:lastmodified":1492511219,
     "wof:name":"Felius",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

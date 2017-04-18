@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.298205,52.085262,4.298205,52.085262",
     "geom:latitude":52.085262,
     "geom:longitude":4.298205,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_72gn5TJu1ZVJZYtb7TSxko_52.085262_4.298205@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dae0d1820b7c9cda3ebd882eb813f1da",
+    "wof:geomhash":"70fe9fc594814e646312ee5cd75d9061",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":287174375
         }
     ],
     "wof:id":287174375,
-    "wof:lastmodified":1473878931,
+    "wof:lastmodified":1492514404,
     "wof:name":"Occident",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

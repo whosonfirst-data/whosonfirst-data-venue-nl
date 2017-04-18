@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.567071,51.946804,4.567071,51.946804",
     "geom:latitude":51.946804,
     "geom:longitude":4.567071,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nNHyLUw2lxe6hx3yR272i_51.946804_4.567071@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b851018a45065c09e8614552bc211e53",
+    "wof:geomhash":"77543502c1ac19c4d47a74af8bc109d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":236822063
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798177,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":236822063,
-    "wof:lastmodified":1473879537,
+    "wof:lastmodified":1492491367,
     "wof:name":"Start",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

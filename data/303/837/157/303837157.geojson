@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.528896,51.96357,4.528896,51.96357",
     "geom:latitude":51.96357,
     "geom:longitude":4.528896,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859913,
+        85798149,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5F42XjN7v9jFR9jB7KyHYL_51.963570_4.528896@1306269988"
     },
     "wof:country":"NL",
-    "wof:geomhash":"374556978965ccf4fb9c2474b3872ad9",
+    "wof:geomhash":"e5ca220630771bd106b4e6a6a701bf20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859913,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":303837157
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":303837157
         }
     ],
     "wof:id":303837157,
-    "wof:lastmodified":1473879600,
+    "wof:lastmodified":1492472347,
     "wof:name":"Lintex Textielagenturen",
-    "wof:parent_id":85859913,
+    "wof:parent_id":85798149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

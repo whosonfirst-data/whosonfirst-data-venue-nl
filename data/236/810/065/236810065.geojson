@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.297036,52.026844,4.297036,52.026844",
     "geom:latitude":52.026844,
     "geom:longitude":4.297036,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798353,
+        1108808323,
+        102191581,
+        1108808069,
         85633337,
-        101754743,
+        101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6A3otWUwdeybTz6XmAREEu_52.026844_4.297036@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4cc8775f4f7c60acb0d7b8be32e84cc8",
+    "wof:geomhash":"747ef330376d22381546171165eb449c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798353,
+            "locality_id":101752763,
+            "macrohood_id":1108808069,
+            "neighbourhood_id":1108808323,
             "region_id":85687041,
             "venue_id":236810065
         }
     ],
     "wof:id":236810065,
-    "wof:lastmodified":1473879531,
+    "wof:lastmodified":1492494530,
     "wof:name":"Ramadhin",
-    "wof:parent_id":85798353,
+    "wof:parent_id":1108808323,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

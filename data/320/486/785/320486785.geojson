@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.945358,52.395985,4.945358,52.395985",
     "geom:latitude":52.395985,
     "geom:longitude":4.945358,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108803611,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0BRqJwEkN5sdQh2X9KdPzU_52.395985_4.945358@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c55775565ebdfe8c2b719243601d50e6",
+    "wof:geomhash":"1e929c1aa2aa4e724c7fb5803a931e99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803611,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":320486785
         }
     ],
     "wof:id":320486785,
-    "wof:lastmodified":1473879340,
+    "wof:lastmodified":1492483194,
     "wof:name":"Kracht 6",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803611,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

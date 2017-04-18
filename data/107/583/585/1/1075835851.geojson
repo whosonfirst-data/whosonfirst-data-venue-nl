@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4845747948,51.8870048523,4.4845747948,51.8870048523",
     "geom:latitude":51.887005,
     "geom:longitude":4.484575,
@@ -25,13 +26,12 @@
     "sg:website":"http://www.wasserette.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798517,
+        1108805773,
         102191581,
-        404474245,
         85633337,
         101751843,
-        85687041,
-        85797257
+        1108804837,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,31 +39,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473800100,
-    "wof:geomhash":"2b98600cb89fc24b0de039e05af75984",
+    "wof:geomhash":"aeb9f4afa3fc9946ac8c023920dc2905",
     "wof:hierarchy":[
         {
+            "borough_id":1108804837,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474245,
             "locality_id":101751843,
-            "neighbourhood_id":85798517,
-            "region_id":85687041,
-            "venue_id":1075835851
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474245,
-            "locality_id":101751843,
-            "neighbourhood_id":85797257,
+            "neighbourhood_id":1108805773,
             "region_id":85687041,
             "venue_id":1075835851
         }
     ],
     "wof:id":1075835851,
-    "wof:lastmodified":1473879455,
+    "wof:lastmodified":1492485922,
     "wof:name":"Huijsers",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108805773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

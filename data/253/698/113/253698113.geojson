@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.984105,52.30051,4.984105,52.30051",
     "geom:latitude":52.30051,
     "geom:longitude":4.984105,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803463,
+        1108802809,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6CXFQZbETZoYOyTKkrYIGK_52.300510_4.984105@1306269953"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c10808c9c11e5cfe99657d8a61ad7431",
+    "wof:geomhash":"5ed96cea779125ae94bd70e04d750650",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803463,
+            "neighbourhood_id":1108802809,
             "region_id":85687053,
             "venue_id":253698113
         }
     ],
     "wof:id":253698113,
-    "wof:lastmodified":1473879699,
+    "wof:lastmodified":1492488251,
     "wof:name":"Danplas",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

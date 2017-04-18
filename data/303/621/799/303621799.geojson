@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.906576,52.350761,4.906576,52.350761",
     "geom:latitude":52.350761,
     "geom:longitude":4.906576,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803479,
+        1108802793,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7ZZH46NxVfzTQtDVtx1Kfv_52.350761_4.906576@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d0e0db48fa45d607271a80f8f5f83fd6",
+    "wof:geomhash":"87592bfb2e7096771e7934f49b24008c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803479,
+            "neighbourhood_id":1108802793,
             "region_id":85687053,
             "venue_id":303621799
         }
     ],
     "wof:id":303621799,
-    "wof:lastmodified":1473879346,
+    "wof:lastmodified":1492473766,
     "wof:name":"W Wories",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

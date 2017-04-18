@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.068875,52.119576,5.068875,52.119576",
     "geom:latitude":52.119576,
     "geom:longitude":5.068875,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797903,
+        1108808933,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2KBQ0Gdj19bmmKss1h1L3u_52.119576_5.068875@1306269959"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d8042fc73b334ef54b85b7eebedbd53f",
+    "wof:geomhash":"59255e0c89ef3968399da6d246e85eda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797903,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808933,
             "region_id":85687039,
             "venue_id":269922829
         }
     ],
     "wof:id":269922829,
-    "wof:lastmodified":1473879570,
+    "wof:lastmodified":1492496334,
     "wof:name":"Vechtstroom Rijwielhandel",
-    "wof:parent_id":85797903,
+    "wof:parent_id":1108808933,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

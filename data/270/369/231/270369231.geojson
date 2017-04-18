@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878149,52.359074,4.878149,52.359074",
     "geom:latitude":52.359074,
     "geom:longitude":4.878149,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803565,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:brand_id":420575311,
@@ -35,21 +39,23 @@
         "sg:id":"SG_1yzTrFyKdpjO8X83Vkal7M_52.359074_4.878149@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c466b5af8bc56a7af6e041341d0cb493",
+    "wof:geomhash":"41180c83a1a35d9e6cb51dbea894d396",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803565,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":270369231
         }
     ],
     "wof:id":270369231,
-    "wof:lastmodified":1473879182,
+    "wof:lastmodified":1492501226,
     "wof:name":"Fortis Bank",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

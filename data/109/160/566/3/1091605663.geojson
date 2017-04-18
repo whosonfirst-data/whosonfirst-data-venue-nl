@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0040159225,52.4727783203,6.0040159225,52.4727783203",
     "geom:latitude":52.472778,
     "geom:longitude":6.004016,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.rhodos.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473927,
+        85633337,
+        101837823
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ylja7t9fcNUBtrfo8Hbx3_52.472778_6.004016@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473803035,
-    "wof:geomhash":"73a3e7d77f233967ceac452113b4138f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebeb7d524b8426495f2955089579e9db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473927,
+            "locality_id":101837823,
+            "region_id":85687043,
+            "venue_id":1091605663
+        }
+    ],
     "wof:id":1091605663,
-    "wof:lastmodified":1473878751,
+    "wof:lastmodified":1492512877,
     "wof:name":"Huisman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

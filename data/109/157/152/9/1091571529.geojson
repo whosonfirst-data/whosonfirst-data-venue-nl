@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7684669495,52.6610908508,4.7684669495,52.6610908508",
     "geom:latitude":52.661091,
     "geom:longitude":4.768467,
@@ -24,17 +25,32 @@
     "sg:province":"North Holland",
     "sg:website":"http://www.atraxion.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474025,
+        85633337,
+        101751887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xtNuI0X3JdiPdgEojmbkc_52.661091_4.768467@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800578,
-    "wof:geomhash":"81dd62018dd87334e28439679d624777",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78e4d2578c33be800c34effd10047c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474025,
+            "locality_id":101751887,
+            "region_id":85687053,
+            "venue_id":1091571529
+        }
+    ],
     "wof:id":1091571529,
-    "wof:lastmodified":1473878550,
+    "wof:lastmodified":1492511472,
     "wof:name":"Atraxion Nl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.927194,52.357212,4.927194,52.357212",
     "geom:latitude":52.357212,
     "geom:longitude":4.927194,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803427,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0LLc5Hijl2yREMEDhe2wGS_52.357212_4.927194@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dace6c7a0f01b8b99c1d1f0697fe1edf",
+    "wof:geomhash":"add0d9a724952015af11ef6fe73b5818",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803427,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":303441455
         }
     ],
     "wof:id":303441455,
-    "wof:lastmodified":1473879162,
+    "wof:lastmodified":1492474983,
     "wof:name":"Markus Verbeek Hogeschool",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

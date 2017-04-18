@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.871974,52.334599,4.871974,52.334599",
     "geom:latitude":52.334599,
     "geom:longitude":4.871974,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804091,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3WNEiWllRQalkObDuK6DDq_52.334599_4.871974@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fd4841a425b5cedabfa9037404bf434d",
+    "wof:geomhash":"ce0938a60bf836532ed5f722acd3ad09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804091,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":286358633
         }
     ],
     "wof:id":286358633,
-    "wof:lastmodified":1473878897,
+    "wof:lastmodified":1492476645,
     "wof:name":"Publicis Consultants Bv",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.92771,52.356316,4.92771,52.356316",
     "geom:latitude":52.356316,
     "geom:longitude":4.92771,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803427,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2e2PRXeFv8MsbpgnlWr0o4_52.356316_4.927710@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a00be4db38d5251b58bd11becd127504",
+    "wof:geomhash":"e57c254b5d8084e19019ecf6f2bcc3da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803427,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":252852873
         }
     ],
     "wof:id":252852873,
-    "wof:lastmodified":1473878649,
+    "wof:lastmodified":1492505645,
     "wof:name":"Monique Aarts",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

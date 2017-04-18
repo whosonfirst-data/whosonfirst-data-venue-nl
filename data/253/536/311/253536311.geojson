@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.222692,52.036304,4.222692,52.036304",
     "geom:latitude":52.036304,
     "geom:longitude":4.222692,
@@ -24,8 +25,13 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859557,
+        1108833209,
+        85797849,
+        102191581,
+        1108808101,
         85633337,
+        101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +39,24 @@
         "sg:id":"SG_55jSx1hAn9n6NwaO5wXASK_52.036304_4.222692@1306269951"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dbabbe058b9654dc374164094a03eb48",
+    "wof:geomhash":"eef7aeda1611267d497099be59cf75ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859557,
+            "locality_id":101752763,
+            "macrohood_id":1108808101,
+            "microhood_id":1108833209,
+            "neighbourhood_id":85797849,
             "region_id":85687041,
             "venue_id":253536311
         }
     ],
     "wof:id":253536311,
-    "wof:lastmodified":1473879678,
+    "wof:lastmodified":1492491008,
     "wof:name":"Partycentrum Madestein",
-    "wof:parent_id":85859557,
+    "wof:parent_id":1108833209,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

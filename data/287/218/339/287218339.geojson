@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88393,52.380516,4.88393,52.380516",
     "geom:latitude":52.380516,
     "geom:longitude":4.88393,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804285,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1GBjyH9MQ8m5EhCmfDKlno_52.380516_4.883930@1306269978"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e76c42762323b2604ebfa9f54582331d",
+    "wof:geomhash":"d69a2d64da118509833e13e1894fcaac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804285,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":287218339
         }
     ],
     "wof:id":287218339,
-    "wof:lastmodified":1473879015,
+    "wof:lastmodified":1492513311,
     "wof:name":"Sigarenmagazijn Steenbergen",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

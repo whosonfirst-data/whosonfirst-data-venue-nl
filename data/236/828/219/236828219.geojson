@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.111715,52.121735,5.111715,52.121735",
     "geom:latitude":52.121735,
     "geom:longitude":5.111715,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808927,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_5DeKc0AIca3sItI4gSPzbM_52.121735_5.111715@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1c61a64dbc315c304f4aec26b0bb49ef",
+    "wof:geomhash":"259ef165158abc660879d94d9bb3f98f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808927,
             "region_id":85687039,
             "venue_id":236828219
         }
     ],
     "wof:id":236828219,
-    "wof:lastmodified":1473879552,
+    "wof:lastmodified":1492492181,
     "wof:name":"Uysal",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808927,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

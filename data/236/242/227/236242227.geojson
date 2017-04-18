@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.25157,52.039551,4.25157,52.039551",
     "geom:latitude":52.039551,
     "geom:longitude":4.25157,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.europeoffice.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859581,
+        1108808279,
+        102191581,
+        1108808029,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_4cXGA5kLkXoZGvI4FXQArP_52.039551_4.251570@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7a3593e5db8636e6d71a0747ab7fecf2",
+    "wof:geomhash":"dbc5295543e63cc7e537e2e75c14a7d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859581,
+            "macrohood_id":1108808029,
+            "neighbourhood_id":1108808279,
             "region_id":85687041,
             "venue_id":236242227
         }
     ],
     "wof:id":236242227,
-    "wof:lastmodified":1473879016,
+    "wof:lastmodified":1492491660,
     "wof:name":"Europe Office",
-    "wof:parent_id":85859581,
+    "wof:parent_id":1108808279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

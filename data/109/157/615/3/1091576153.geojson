@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3426961899,51.5408821106,4.3426961899,51.5408821106",
     "geom:latitude":51.540882,
     "geom:longitude":4.342696,
@@ -24,17 +25,30 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.zetweb.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474587,
+        85633337,
+        85687035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YN747B0quXhhjGp5HLFU4_51.540882_4.342696@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800857,
-    "wof:geomhash":"02eee00d5f632345f22e6f8e35556b88",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85e6501c50248a41aaf4f9d7e9d07463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474587,
+            "region_id":85687035,
+            "venue_id":1091576153
+        }
+    ],
     "wof:id":1091576153,
-    "wof:lastmodified":1473878921,
+    "wof:lastmodified":1492511182,
     "wof:name":"Zetweb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

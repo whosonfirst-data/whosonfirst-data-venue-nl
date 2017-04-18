@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882972,52.352482,4.882972,52.352482",
     "geom:latitude":52.352482,
     "geom:longitude":4.882972,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.typtop.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803491,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_4LEqBQuvAQz1L4zQW1ZdOE_52.352482_4.882972@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cc0a3fadc333b92f9e242c4f2354fe74",
+    "wof:geomhash":"1cddf89e191363fdc3f86d8aa761be36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803491,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":253360923
         }
     ],
     "wof:id":253360923,
-    "wof:lastmodified":1473879438,
+    "wof:lastmodified":1492489378,
     "wof:name":"Typtop",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

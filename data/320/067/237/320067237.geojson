@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.908306,52.355896,4.908306,52.355896",
     "geom:latitude":52.355896,
     "geom:longitude":4.908306,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803889,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_4D1igx6pp1R8WKDMDRgPUA_52.355896_4.908306@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b84581fa20c75cf0dcb138a26bc8fdff",
+    "wof:geomhash":"3d864906de57c3149163dfd41258589a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803889,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":320067237
         }
     ],
     "wof:id":320067237,
-    "wof:lastmodified":1473878653,
+    "wof:lastmodified":1492483454,
     "wof:name":"Fack",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

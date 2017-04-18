@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.281969,52.105862,4.281969,52.105862",
     "geom:latitude":52.105862,
     "geom:longitude":4.281969,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808169,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_3mc0xVbWVJZsXWmVdrHQiz_52.105862_4.281969@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cb096862b9d3942673f93c84f26950c8",
+    "wof:geomhash":"8fd6124ae58a89178108954549c88160",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808169,
             "region_id":85687041,
             "venue_id":253466593
         }
     ],
     "wof:id":253466593,
-    "wof:lastmodified":1473879621,
+    "wof:lastmodified":1492489952,
     "wof:name":"Logopedie Gezondheidscentrum Scheve",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

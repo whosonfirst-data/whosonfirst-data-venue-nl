@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.91618,52.40316,4.91618,52.40316",
     "geom:latitude":52.40316,
     "geom:longitude":4.91618,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803203,
+        1108802531,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_16D5Ub6oxQSPP4VCr16Atk_52.403160_4.916180@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f3f6e780afbc267daa1e7c37209a4c2c",
+    "wof:geomhash":"c606bd7b2b004123b5dae47e0fd30505",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803203,
+            "neighbourhood_id":1108802531,
             "region_id":85687053,
             "venue_id":219342155
         }
     ],
     "wof:id":219342155,
-    "wof:lastmodified":1473879012,
+    "wof:lastmodified":1492504262,
     "wof:name":"M. V.D. Woude",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

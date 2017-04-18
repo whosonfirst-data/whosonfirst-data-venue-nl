@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.552043,51.960388,4.552043,51.960388",
     "geom:latitude":51.960388,
     "geom:longitude":4.552043,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4q0xCPzbDl77IR6TZIadup_51.960388_4.552043@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5ce140c26e298004ee800b072f08d738",
+    "wof:geomhash":"5b753de7a430687677535e3bd1bb8e7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":253642993
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798149,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":253642993,
-    "wof:lastmodified":1473879710,
+    "wof:lastmodified":1492490807,
     "wof:name":"Vlinders-Pippeloentje",
     "wof:parent_id":85798149,
     "wof:placetype":"venue",

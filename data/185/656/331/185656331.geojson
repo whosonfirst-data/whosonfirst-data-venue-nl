@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.092049,52.105198,5.092049,52.105198",
     "geom:latitude":52.105198,
     "geom:longitude":5.092049,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808759,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_59djI5YwQxZq31AH1NxEuC_52.105198_5.092049@1306269906"
     },
     "wof:country":"NL",
-    "wof:geomhash":"91d89bf0b829bcdfe890bb97ee55dd0b",
+    "wof:geomhash":"8e49e88595bd4cc77ce157ac54abf9be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808759,
             "region_id":85687039,
             "venue_id":185656331
         }
     ],
     "wof:id":185656331,
-    "wof:lastmodified":1473878571,
+    "wof:lastmodified":1492487442,
     "wof:name":"Hoenderop",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

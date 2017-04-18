@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912612,52.365898,4.912612,52.365898",
     "geom:latitude":52.365898,
     "geom:longitude":4.912612,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803923,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0pafUd0LvLiIs3Fd3Qkfml_52.365898_4.912612@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8fdb7d352c242fda76d1bd93bcec2d67",
+    "wof:geomhash":"53e7e9ea0214e464fac8da6a87934ce9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803923,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":185998783
         }
     ],
     "wof:id":185998783,
-    "wof:lastmodified":1473879037,
+    "wof:lastmodified":1492488165,
     "wof:name":"Pieter Alferink Alles Leer",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

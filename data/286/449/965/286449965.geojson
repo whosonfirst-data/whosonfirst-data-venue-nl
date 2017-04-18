@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.980314,52.328758,4.980314,52.328758",
     "geom:latitude":52.328758,
     "geom:longitude":4.980314,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797431,
+        1108803325,
+        1108802543,
+        102191581,
+        1108807145,
         85633337,
         101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_21pbGXgd2VajlX1YdgYQXf_52.328758_4.980314@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"24d13052ab56ef1f379d18fd1d197557",
+    "wof:geomhash":"313fcfd2218f738f04b03fc466555e34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797431,
+            "macrohood_id":1108807145,
+            "microhood_id":1108803325,
+            "neighbourhood_id":1108802543,
             "region_id":85687053,
             "venue_id":286449965
         }
     ],
     "wof:id":286449965,
-    "wof:lastmodified":1473879032,
+    "wof:lastmodified":1492477872,
     "wof:name":"Savonije Bv",
-    "wof:parent_id":85797431,
+    "wof:parent_id":1108803325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

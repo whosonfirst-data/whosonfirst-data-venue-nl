@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.312657,52.052402,4.312657,52.052402",
     "geom:latitude":52.052402,
     "geom:longitude":4.312657,
@@ -25,28 +26,46 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798433,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ebAGWatVlQk044ZEldZ5p_52.052402_4.312657@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"95edba244d4ed6268e0f29b5539dd95c",
+    "wof:geomhash":"1d40b4c67d7758c34e09203bf0890148",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":85798433,
+            "region_id":85687041,
+            "venue_id":236302133
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
+            "macrohood_id":1108808103,
             "neighbourhood_id":85798433,
             "region_id":85687041,
             "venue_id":236302133
         }
     ],
     "wof:id":236302133,
-    "wof:lastmodified":1473879082,
+    "wof:lastmodified":1492494584,
     "wof:name":"Apotheek Spoorwijk",
     "wof:parent_id":85798433,
     "wof:placetype":"venue",

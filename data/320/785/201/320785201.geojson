@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.863891,52.364342,4.863891,52.364342",
     "geom:latitude":52.364342,
     "geom:longitude":4.863891,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.bachyachting.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803675,
+        1108802933,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_74LULiXz5vbHzloFeoMzAK_52.364342_4.863891@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"596ce6013590196ce51d6b0b89ac0c1b",
+    "wof:geomhash":"a96bb4e78bcbd6bdb3262b81471890f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803675,
+            "neighbourhood_id":1108802933,
             "region_id":85687053,
             "venue_id":320785201
         }
     ],
     "wof:id":320785201,
-    "wof:lastmodified":1473879613,
+    "wof:lastmodified":1492484663,
     "wof:name":"Bach Yachting",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

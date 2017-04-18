@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.925731,52.358753,4.925731,52.358753",
     "geom:latitude":52.358753,
     "geom:longitude":4.925731,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803833,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_786emTT1vcOBoWbOTR4zPg_52.358753_4.925731@1306269967"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3a713cea8d727a53b7222e98b5315d19",
+    "wof:geomhash":"75519dc1c1d0632376cc66dc7a7c9bcd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803833,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":286295887
         }
     ],
     "wof:id":286295887,
-    "wof:lastmodified":1473878669,
+    "wof:lastmodified":1492477250,
     "wof:name":"Openbare Basisschool Linnaeus",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

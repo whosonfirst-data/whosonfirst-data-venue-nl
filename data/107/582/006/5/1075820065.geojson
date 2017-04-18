@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2197198868,52.3728370667,5.2197198868,52.3728370667",
     "geom:latitude":52.372837,
     "geom:longitude":5.21972,
@@ -24,17 +25,32 @@
     "sg:province":"Flevoland",
     "sg:website":"http://www.schotenboog.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101751877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IeASpQWEyCbjM7fOFo5zr_52.372837_5.219720@1306270009"
     },
     "wof:country":"NL",
     "wof:created":1473799125,
-    "wof:geomhash":"32c7e90b2596c7afba45b43341d66e70",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f406fad475d8e618cd7e10047233c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101751877,
+            "region_id":85687049,
+            "venue_id":1075820065
+        }
+    ],
     "wof:id":1075820065,
-    "wof:lastmodified":1473879194,
+    "wof:lastmodified":1492486809,
     "wof:name":"Schotenboog Lv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

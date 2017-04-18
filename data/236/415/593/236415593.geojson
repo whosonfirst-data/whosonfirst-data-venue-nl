@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.910623,52.356976,4.910623,52.356976",
     "geom:latitude":52.356976,
     "geom:longitude":4.910623,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803279,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0eiBR4Bne9HNcnlCSRNsUj_52.356976_4.910623@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b0468252ef888c28af22de55891eb5ad",
+    "wof:geomhash":"7bc8e2959ff0a54fb2434927c138fe94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803279,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":236415593
         }
     ],
     "wof:id":236415593,
-    "wof:lastmodified":1473879283,
+    "wof:lastmodified":1492493457,
     "wof:name":"L R Van Der Valk",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

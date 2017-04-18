@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.837961,52.384075,4.837961,52.384075",
     "geom:latitude":52.384075,
     "geom:longitude":4.837961,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108804011,
+        1108802905,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1RcqKMX1hstzdtfmy4lVMH_52.384075_4.837961@1306270004"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c346bbc94e9f3f69c4b3690a4c31cd73",
+    "wof:geomhash":"2e421617633b6ad6a3bf1db35257f22d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108804011,
+            "neighbourhood_id":1108802905,
             "region_id":85687053,
             "venue_id":336691857
         }
     ],
     "wof:id":336691857,
-    "wof:lastmodified":1473878432,
+    "wof:lastmodified":1492506741,
     "wof:name":"Witte, B",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108804011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4515161514,51.9555664062,4.4515161514,51.9555664062",
     "geom:latitude":51.955566,
     "geom:longitude":4.451516,
@@ -24,8 +25,11 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108805883,
+        102191581,
         85633337,
-        85798367,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473803740,
-    "wof:geomhash":"fd5276d3d822ed63b2346f2fa1b0a78c",
+    "wof:geomhash":"840804eb7973c6aafc8d963da88ed602",
     "wof:hierarchy":[
         {
+            "borough_id":1108805713,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798367,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805883,
             "region_id":85687041,
             "venue_id":1091616377
         }
     ],
     "wof:id":1091616377,
-    "wof:lastmodified":1473878832,
+    "wof:lastmodified":1492510694,
     "wof:name":"Twisk Rotterdam Bv",
-    "wof:parent_id":85798367,
+    "wof:parent_id":1108805883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

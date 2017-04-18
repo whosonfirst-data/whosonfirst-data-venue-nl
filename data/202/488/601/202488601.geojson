@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.492984,51.935841,4.492984,51.935841",
     "geom:latitude":51.935841,
     "geom:longitude":4.492984,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859861,
+        1108805825,
+        102191581,
+        1108805657,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1k4w2BspwakpLCPH5i94Ql_51.935841_4.492984@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"931674987651e5ff90b494c139275d00",
+    "wof:geomhash":"b905501d23c8741730b394c7ec11dbaf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859861,
+            "macrohood_id":1108805657,
+            "neighbourhood_id":1108805825,
             "region_id":85687041,
             "venue_id":202488601
         }
     ],
     "wof:id":202488601,
-    "wof:lastmodified":1473878780,
+    "wof:lastmodified":1492498249,
     "wof:name":"Rinkelton Bv",
-    "wof:parent_id":85859861,
+    "wof:parent_id":1108805825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

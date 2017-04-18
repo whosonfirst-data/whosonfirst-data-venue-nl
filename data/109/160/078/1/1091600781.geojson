@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3338398933,52.4397697449,6.3338398933,52.4397697449",
     "geom:latitude":52.43977,
     "geom:longitude":6.33384,
@@ -24,17 +25,32 @@
     "sg:province":"Overijssel",
     "sg:website":"http://www.woninkslapen.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473823,
+        85633337,
+        101807213
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ftlC26BMAynYWcF2a1imy_52.439770_6.333840@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802564,
-    "wof:geomhash":"51adc4c4bdf2acd64252ce84843818c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91014c11edf4b27dd7c80770f297b828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473823,
+            "locality_id":101807213,
+            "region_id":85687045,
+            "venue_id":1091600781
+        }
+    ],
     "wof:id":1091600781,
-    "wof:lastmodified":1473878513,
+    "wof:lastmodified":1492512856,
     "wof:name":"Wonink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.937133,52.397236,4.937133,52.397236",
     "geom:latitude":52.397236,
     "geom:longitude":4.937133,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803535,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5yC4F4aq740VqZ6RmbwVPG_52.397236_4.937133@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"767ecd65738ef3e29721bdb2ac3f6410",
+    "wof:geomhash":"485e3504e20e0d3fab59957551774846",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803535,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":303695591
         }
     ],
     "wof:id":303695591,
-    "wof:lastmodified":1473879446,
+    "wof:lastmodified":1492474478,
     "wof:name":"J.H.J. Geertzen",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803535,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

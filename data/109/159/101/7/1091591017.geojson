@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4366140366,52.1350021362,5.4366140366,52.1350021362",
     "geom:latitude":52.135002,
     "geom:longitude":5.436614,
@@ -24,17 +25,32 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.gilles.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473989,
+        85633337,
+        101837659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lSofsKKPNYvnsXXWNbIsY_52.135002_5.436614@1306270014"
     },
     "wof:country":"NL",
     "wof:created":1473801999,
-    "wof:geomhash":"04ddf7659bdbc0272d7748a9b7eb4b4d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"284285fce23914c3490f4a060590001d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473989,
+            "locality_id":101837659,
+            "region_id":85687039,
+            "venue_id":1091591017
+        }
+    ],
     "wof:id":1091591017,
-    "wof:lastmodified":1473878528,
+    "wof:lastmodified":1492509444,
     "wof:name":"Gilles & Partners Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.540624,51.926285,4.540624,51.926285",
     "geom:latitude":51.926285,
     "geom:longitude":4.540624,
@@ -24,31 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797899,
+        1108805861,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JuTqZligY8mBDdCrhLLIb_51.926285_4.540624@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0c61e805b904d0b94e3f354cb3613d6f",
+    "wof:geomhash":"368f3f491b5859bec280ea79677ced9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85797899,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805861,
+            "region_id":85687041,
+            "venue_id":219852677
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805861,
             "region_id":85687041,
             "venue_id":219852677
         }
     ],
     "wof:id":219852677,
-    "wof:lastmodified":1473879732,
+    "wof:lastmodified":1492504014,
     "wof:name":"Kruger & Partn",
-    "wof:parent_id":85797899,
+    "wof:parent_id":1108805861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

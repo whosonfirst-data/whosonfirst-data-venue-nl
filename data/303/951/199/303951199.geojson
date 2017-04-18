@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.084552,52.127281,5.084552,52.127281",
     "geom:latitude":52.127281,
     "geom:longitude":5.084552,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808701,
+        102191581,
+        1108832365,
         85633337,
         101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5WQMEzRV2gueE1NEBnB6Ds_52.127281_5.084552@1306269989"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ac9ec0f05d26cda60d38069421a40a30",
+    "wof:geomhash":"5885725427f4e9ac8d5bc306f7d445ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808701,
             "region_id":85687039,
             "venue_id":303951199
         }
     ],
     "wof:id":303951199,
-    "wof:lastmodified":1473879663,
+    "wof:lastmodified":1492473399,
     "wof:name":"Otogros",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

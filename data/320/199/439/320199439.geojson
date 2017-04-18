@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.81057,52.389679,4.81057,52.389679",
     "geom:latitude":52.389679,
     "geom:longitude":4.81057,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.westpoortbeheer.amsterdam.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797579,
+        1108804223,
+        1108802535,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3e4heF5Lc4Qh4PP6grpmxG_52.389679_4.810570@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"33d9a2581b0c5c5f1ad86f2c577870df",
+    "wof:geomhash":"5010d479b8ffec9307fd084a21c62070",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797579,
+            "microhood_id":1108804223,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":320199439
         }
     ],
     "wof:id":320199439,
-    "wof:lastmodified":1473879105,
+    "wof:lastmodified":1492485333,
     "wof:name":"Westpoortbeheer",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108804223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

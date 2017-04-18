@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880549,52.369335,4.880549,52.369335",
     "geom:latitude":52.369335,
     "geom:longitude":4.880549,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7lCrUGashdXk2x9aVny1my_52.369335_4.880549@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7c163a9233b624d1f24e8f60d0895128",
+    "wof:geomhash":"a37d3850079e2000eafae670e7cef1c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":236276467
         }
     ],
     "wof:id":236276467,
-    "wof:lastmodified":1473879072,
+    "wof:lastmodified":1492492940,
     "wof:name":"Haaksman, D I",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

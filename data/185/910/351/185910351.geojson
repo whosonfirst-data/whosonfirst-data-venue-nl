@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.519307,51.917595,4.519307,51.917595",
     "geom:latitude":51.917595,
     "geom:longitude":4.519307,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859899,
+        1108805803,
+        102191581,
+        1108805667,
         85633337,
-        101754669,
+        101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1alv4F1P30iYxJ2YUfGmPs_51.917595_4.519307@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d6069f031f882da3827f7b94dd2eabd1",
+    "wof:geomhash":"03736daa305800513efcff002e27db0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754669,
-            "neighbourhood_id":85859899,
+            "locality_id":101751843,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805803,
             "region_id":85687041,
             "venue_id":185910351
         }
     ],
     "wof:id":185910351,
-    "wof:lastmodified":1473878875,
+    "wof:lastmodified":1492487210,
     "wof:name":"Kinderdagverblijf Marijke",
-    "wof:parent_id":85859899,
+    "wof:parent_id":1108805803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

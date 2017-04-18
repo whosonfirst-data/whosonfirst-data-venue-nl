@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.857555,52.379211,4.857555,52.379211",
     "geom:latitude":52.379211,
     "geom:longitude":4.857555,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803263,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_0ZrvOvN0HDLbBm7QjqsYsQ_52.379211_4.857555@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"21635723c1be6fffb2f237d74a086af0",
+    "wof:geomhash":"2dc8da3751d69827cc121c87c1b552f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803263,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":269790607
         }
     ],
     "wof:id":269790607,
-    "wof:lastmodified":1473879481,
+    "wof:lastmodified":1492496901,
     "wof:name":"Snackbar Yvonne",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

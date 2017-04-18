@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.556961,51.944454,4.556961,51.944454",
     "geom:latitude":51.944454,
     "geom:longitude":4.556961,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MvqM9eam5ltQfwigeWj3o_51.944454_4.556961@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d6bd35cd4bd2b16dc3216a50ab65250d",
+    "wof:geomhash":"95e1fa975df63f0568d8a5df93871299",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":236525767
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "neighbourhood_id":85798177,
             "region_id":85687041,
             "venue_id":236525767
         }
     ],
     "wof:id":236525767,
-    "wof:lastmodified":1473879390,
+    "wof:lastmodified":1492492160,
     "wof:name":"J.F. Andriessen Huisarts",
-    "wof:parent_id":85798329,
+    "wof:parent_id":85798177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

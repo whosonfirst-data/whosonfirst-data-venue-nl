@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.926849,52.395443,4.926849,52.395443",
     "geom:latitude":52.395443,
     "geom:longitude":4.926849,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.isa-vo.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803449,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_3zEdDb9UmAJn1pOqQZ8BvV_52.395443_4.926849@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d8db44b780844b9fe4415b05318da449",
+    "wof:geomhash":"430e14361895b46bcc7f6c569d838e1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803449,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":303368997
         }
     ],
     "wof:id":303368997,
-    "wof:lastmodified":1473879171,
+    "wof:lastmodified":1492473405,
     "wof:name":"Bernard Nieuwentijt College",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803449,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

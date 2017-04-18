@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.010615,51.451809,7.010615,51.451809",
     "geom:latitude":51.451809,
     "geom:longitude":7.010615,
@@ -23,11 +24,13 @@
     "sg:postcode":"B-29 10",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682513,
+        85795447,
+        102191581,
         85633111,
+        404227561,
         101748709,
         102063791,
-        85795447
+        85682513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +40,18 @@
     "wof:geomhash":"00091da82b9a01ac9e0cfea626ec3ffb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633111,
             "county_id":102063791,
             "locality_id":101748709,
+            "macrocounty_id":404227561,
             "neighbourhood_id":85795447,
             "region_id":85682513,
             "venue_id":185762721
         }
     ],
     "wof:id":185762721,
-    "wof:lastmodified":1473878709,
+    "wof:lastmodified":1491897527,
     "wof:name":"Konings Keukens",
     "wof:parent_id":85795447,
     "wof:placetype":"venue",

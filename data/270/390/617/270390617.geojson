@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.297056,52.052582,4.297056,52.052582",
     "geom:latitude":52.052582,
     "geom:longitude":4.297056,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798433,
+        1108808297,
+        102191581,
+        1108833203,
         85633337,
-        101754743,
+        101752763,
+        1108808051,
         85687041
     ],
     "wof:brand_id":420573783,
@@ -35,21 +39,23 @@
         "sg:id":"SG_185vPr6MVf3wWwQQX779vx_52.052582_4.297056@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dc5927a74070b85511c1d267dedb6448",
+    "wof:geomhash":"1efbc665e3bbe164d788ff031886fa96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798433,
+            "locality_id":101752763,
+            "macrohood_id":1108833203,
+            "neighbourhood_id":1108808297,
             "region_id":85687041,
             "venue_id":270390617
         }
     ],
     "wof:id":270390617,
-    "wof:lastmodified":1473879199,
+    "wof:lastmodified":1492500321,
     "wof:name":"Rabobank",
-    "wof:parent_id":85798433,
+    "wof:parent_id":1108808297,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.269145,52.061558,4.269145,52.061558",
     "geom:latitude":52.061558,
     "geom:longitude":4.269145,
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859591,
+        102191581,
+        1108808107,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,19 +38,21 @@
         "sg:id":"SG_5M7fK16F7B9rohEV1xp6YI_52.061558_4.269145@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c0ddad3ac584818d3d0a7090a22b14e4",
+    "wof:geomhash":"6c212e71bd7b690c01781268c51954aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808107,
             "neighbourhood_id":85859591,
             "region_id":85687041,
             "venue_id":303570137
         }
     ],
     "wof:id":303570137,
-    "wof:lastmodified":1473879289,
+    "wof:lastmodified":1492471115,
     "wof:name":"Ofra-Mode",
     "wof:parent_id":85859591,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912502,52.353985,4.912502,52.353985",
     "geom:latitude":52.353985,
     "geom:longitude":4.912502,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803779,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1BmeZIetLY0xVIkupQ3TBb_52.353985_4.912502@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"32e6dae6b12b3ced30a4b2462d4c3c3a",
+    "wof:geomhash":"e0e9c5b41ea94b5a98639b7a202d35d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803779,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":286336833
         }
     ],
     "wof:id":286336833,
-    "wof:lastmodified":1473878818,
+    "wof:lastmodified":1492477376,
     "wof:name":"Aiming Better",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

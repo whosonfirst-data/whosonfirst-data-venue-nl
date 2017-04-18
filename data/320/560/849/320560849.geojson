@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.285777,52.062923,4.285777,52.062923",
     "geom:latitude":52.062923,
     "geom:longitude":4.285777,
@@ -32,40 +33,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797151,
+        1108808277,
+        102191581,
+        1108808119,
         85633337,
         101752763,
-        85687041,
-        85859609
+        1108808051,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2O55LOw12CbCMgqyNvaCET_52.062923_4.285777@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e542991d1c21a4836ae3c90c3eb7af12",
+    "wof:geomhash":"5d4f31146b0717b4c00aa2bbeeec9133",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797151,
-            "region_id":85687041,
-            "venue_id":320560849
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101752763,
-            "neighbourhood_id":85859609,
+            "macrohood_id":1108808119,
+            "neighbourhood_id":1108808277,
             "region_id":85687041,
             "venue_id":320560849
         }
     ],
     "wof:id":320560849,
-    "wof:lastmodified":1473879408,
+    "wof:lastmodified":1492482025,
     "wof:name":"J Bruins",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108808277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

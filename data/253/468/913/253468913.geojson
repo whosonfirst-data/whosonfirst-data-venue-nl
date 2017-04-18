@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.877198,52.227509,6.877198,52.227509",
     "geom:latitude":52.227509,
     "geom:longitude":6.877198,
@@ -24,40 +25,41 @@
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798019,
         85633337,
-        101754773,
+        85798535,
         85687045,
-        85798535
+        85798019,
+        102191581,
+        404473827,
+        101754773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_359FXiEB9S2BXAYTEowmrB_52.227509_6.877198@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"316bade22e1f0c684b9d33548ea82b37",
+    "wof:geomhash":"c33fba287aee840c36c6b522f704b7c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101754773,
-            "neighbourhood_id":85798019,
+            "neighbourhood_id":85798535,
             "region_id":85687045,
             "venue_id":253468913
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798535,
+            "localadmin_id":404473827,
+            "locality_id":101754773,
+            "neighbourhood_id":85798019,
             "region_id":85687045,
             "venue_id":253468913
         }
     ],
     "wof:id":253468913,
-    "wof:lastmodified":1473879624,
+    "wof:lastmodified":1492490375,
     "wof:name":"Logopediepraktijk E.M. Meerburg",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

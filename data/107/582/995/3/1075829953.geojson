@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3259558678,52.0833625793,4.3259558678,52.0833625793",
     "geom:latitude":52.083363,
     "geom:longitude":4.325956,
@@ -24,13 +25,13 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808237,
         102191581,
-        404474179,
+        1108805963,
         85633337,
         101752763,
-        85687041,
-        85797093
+        1108808045,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,31 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473799787,
-    "wof:geomhash":"5e999106316111093ce8095d83759682",
+    "wof:geomhash":"4d990a77984be9717f8dc0e603056d0d",
     "wof:hierarchy":[
         {
+            "borough_id":1108808045,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474179,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
-            "region_id":85687041,
-            "venue_id":1075829953
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474179,
-            "locality_id":101752763,
-            "neighbourhood_id":85797093,
+            "macrohood_id":1108805963,
+            "neighbourhood_id":1108808237,
             "region_id":85687041,
             "venue_id":1075829953
         }
     ],
     "wof:id":1075829953,
-    "wof:lastmodified":1473879570,
+    "wof:lastmodified":1492486689,
     "wof:name":"Ministerie Van Buitenlandse Zaken",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108808237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

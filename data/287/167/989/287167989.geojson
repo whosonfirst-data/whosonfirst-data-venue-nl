@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.897516,52.372791,4.897516,52.372791",
     "geom:latitude":52.372791,
     "geom:longitude":4.897516,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803883,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0RTBl7XxqFf2xzOrzMo2ek_52.372791_4.897516@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"472241065e1504c56b78163137d71bc1",
+    "wof:geomhash":"79af8f20e4ebb8624fd8a4761783780e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803883,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":287167989
         }
     ],
     "wof:id":287167989,
-    "wof:lastmodified":1473878941,
+    "wof:lastmodified":1492513186,
     "wof:name":"Asterisk",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

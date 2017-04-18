@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.095663,52.088146,5.095663,52.088146",
     "geom:latitude":52.088146,
     "geom:longitude":5.095663,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798153,
+        1108808791,
+        102191581,
+        1108808651,
         85633337,
+        101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_2uo8SYe229KtKF6jqASYoV_52.088146_5.095663@1306269906"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d0a5bb842c6dbfef4d98a42d49ed5456",
+    "wof:geomhash":"df80bcbeac5925f5eec83d60090c0060",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "macrohood_id":1108808651,
+            "neighbourhood_id":1108808791,
             "region_id":85687039,
             "venue_id":169846313
         }
     ],
     "wof:id":169846313,
-    "wof:lastmodified":1473878819,
+    "wof:lastmodified":1492478320,
     "wof:name":"Salon Smit",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

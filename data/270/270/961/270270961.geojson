@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.883717,52.331959,4.883717,52.331959",
     "geom:latitude":52.331959,
     "geom:longitude":4.883717,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803327,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_06tLoFsP2ZyLylKs2DVzxS_52.331959_4.883717@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e3a68a76ab2dc8ed0b300bc5afb1a4b0",
+    "wof:geomhash":"c6fd51fd60bf18b50a8946ffe3d1a03d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803327,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":270270961
         }
     ],
     "wof:id":270270961,
-    "wof:lastmodified":1473879007,
+    "wof:lastmodified":1492500288,
     "wof:name":"Bras Vruchtensappen Vof",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

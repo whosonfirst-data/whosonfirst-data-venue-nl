@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6854801178,52.2921333313,4.6854801178,52.2921333313",
     "geom:latitude":52.292133,
     "geom:longitude":4.68548,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.multikabel.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474065,
+        85633337,
+        101751899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Z4pVB2i9WpugWumrom7Pv_52.292133_4.685480@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802858,
-    "wof:geomhash":"2e04e263bd5cf124189bf5733fa96f82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ecc1c77797ba0ad8fd6699b1b1949ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474065,
+            "locality_id":101751899,
+            "region_id":85687053,
+            "venue_id":1091604459
+        }
+    ],
     "wof:id":1091604459,
-    "wof:lastmodified":1473878678,
+    "wof:lastmodified":1492512691,
     "wof:name":"Communikabel Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

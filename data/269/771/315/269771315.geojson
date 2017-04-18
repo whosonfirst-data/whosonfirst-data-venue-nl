@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.343071,52.082386,4.343071,52.082386",
     "geom:latitude":52.082386,
     "geom:longitude":4.343071,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797661,
+        1108808241,
+        102191581,
+        1108805963,
         85633337,
         101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_0kEg9GL01Cb2IYLk9VPVhG_52.082386_4.343071@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2270271d6c70921649791aecab8e97c5",
+    "wof:geomhash":"af39a3dedcb415b9b79528a6ddfedd36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797661,
+            "macrohood_id":1108805963,
+            "neighbourhood_id":1108808241,
             "region_id":85687041,
             "venue_id":269771315
         }
     ],
     "wof:id":269771315,
-    "wof:lastmodified":1473879409,
+    "wof:lastmodified":1492495268,
     "wof:name":"Nico'S Snackbar",
-    "wof:parent_id":85797661,
+    "wof:parent_id":1108808241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

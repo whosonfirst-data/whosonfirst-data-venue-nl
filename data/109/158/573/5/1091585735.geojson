@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3116841316,52.0656242371,4.3116841316,52.0656242371",
     "geom:latitude":52.065624,
     "geom:longitude":4.311684,
@@ -24,15 +25,13 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808263,
         102191581,
-        404474251,
+        1108808035,
         85633337,
-        101754743,
-        85687041,
-        85859615,
-        404474179,
-        101752763
+        101752763,
+        1108808053,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,31 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473801471,
-    "wof:geomhash":"9ceeee6e94d078011bff4147a55787cb",
+    "wof:geomhash":"1958c5ad567499ed608aa7b4e57d857c",
     "wof:hierarchy":[
         {
+            "borough_id":1108808053,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474251,
-            "locality_id":101754743,
-            "neighbourhood_id":85859623,
-            "region_id":85687041,
-            "venue_id":1091585735
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474179,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808263,
             "region_id":85687041,
             "venue_id":1091585735
         }
     ],
     "wof:id":1091585735,
-    "wof:lastmodified":1473878806,
+    "wof:lastmodified":1492511855,
     "wof:name":"Prestige",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108808263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

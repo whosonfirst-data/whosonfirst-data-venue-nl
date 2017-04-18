@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.902613,52.214291,6.902613,52.214291",
     "geom:latitude":52.214291,
     "geom:longitude":6.902613,
@@ -25,40 +26,41 @@
     "sg:website":"http://www.fokuswonen.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798259,
         85633337,
-        101751871,
+        85797713,
         85687045,
-        85797713
+        85798259,
+        102191581,
+        404473827,
+        101751871
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qwRfxehp4ob61ISkDEoGu_52.214291_6.902613@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9047588f1fcebc66754423bb58df5d55",
+    "wof:geomhash":"c3a0844b2f532bd8ca0454ce82445fec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751871,
-            "neighbourhood_id":85798259,
+            "neighbourhood_id":85797713,
             "region_id":85687045,
             "venue_id":186386955
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797713,
+            "localadmin_id":404473827,
+            "locality_id":101751871,
+            "neighbourhood_id":85798259,
             "region_id":85687045,
             "venue_id":186386955
         }
     ],
     "wof:id":186386955,
-    "wof:lastmodified":1473879374,
+    "wof:lastmodified":1492509273,
     "wof:name":"Fokus, Sticht",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.887761,52.354458,4.887761,52.354458",
     "geom:latitude":52.354458,
     "geom:longitude":4.887761,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803775,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_6Vj9nR66dL8EtQDCGbYFB2_52.354458_4.887761@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"855e3e98f32b10a5eb478cc7155e8604",
+    "wof:geomhash":"e3bfb18ee6a1ced9c8bdedc669f80e7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803775,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":320212829
         }
     ],
     "wof:id":320212829,
-    "wof:lastmodified":1473879110,
+    "wof:lastmodified":1492483607,
     "wof:name":"La Cucaracha",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880611,52.365608,4.880611,52.365608",
     "geom:latitude":52.365608,
     "geom:longitude":4.880611,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803661,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_55A8ohWoytqcnALvRbs7Jy_52.365608_4.880611@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4644f9d4d0c68a64df208bcba7bffa43",
+    "wof:geomhash":"1e7e8d801903fd8cc034046148c2d84b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803661,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":185886733
         }
     ],
     "wof:id":185886733,
-    "wof:lastmodified":1473878825,
+    "wof:lastmodified":1492488013,
     "wof:name":"De Wigwam Kinderopvang Vof",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803661,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.304995,52.079533,4.304995,52.079533",
     "geom:latitude":52.079533,
     "geom:longitude":4.304995,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797685,
+        1108808249,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_65IDof894GyCru6xDemnLo_52.079533_4.304995@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6ef921a2a71a157d0afc0bcdd95b5030",
+    "wof:geomhash":"cafa532432a99b9b18db64ee69d37baf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797685,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808249,
             "region_id":85687041,
             "venue_id":269827197
         }
     ],
     "wof:id":269827197,
-    "wof:lastmodified":1473879505,
+    "wof:lastmodified":1492496712,
     "wof:name":"Grillroom Cleopatra",
-    "wof:parent_id":85797685,
+    "wof:parent_id":1108808249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

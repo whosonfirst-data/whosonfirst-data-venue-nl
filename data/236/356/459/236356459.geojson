@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880618,52.360867,4.880618,52.360867",
     "geom:latitude":52.360867,
     "geom:longitude":4.880618,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803565,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_06WmHkdIWnTT1XbRARPiU6_52.360867_4.880618@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a91a6167bd8a842788662faf45b4ad22",
+    "wof:geomhash":"812b06bf075d553c6016698741df9704",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803565,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":236356459
         }
     ],
     "wof:id":236356459,
-    "wof:lastmodified":1473879214,
+    "wof:lastmodified":1492491556,
     "wof:name":"Architectenburo Holtrop Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

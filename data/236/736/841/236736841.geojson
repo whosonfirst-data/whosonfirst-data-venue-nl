@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.075751,52.115379,5.075751,52.115379",
     "geom:latitude":52.115379,
     "geom:longitude":5.075751,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808841,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3Yu6nhPyq1UaDDFDt4fNCq_52.115379_5.075751@1306269940"
     },
     "wof:country":"NL",
-    "wof:geomhash":"aca636bb59830006976f5bf6f8fabfd8",
+    "wof:geomhash":"bde8941f3df9e221f72dd016279ea6dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808841,
             "region_id":85687039,
             "venue_id":236736841
         }
     ],
     "wof:id":236736841,
-    "wof:lastmodified":1473879522,
+    "wof:lastmodified":1492492074,
     "wof:name":"Ritsrats",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

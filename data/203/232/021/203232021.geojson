@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.91855,52.333435,4.91855,52.333435",
     "geom:latitude":52.333435,
     "geom:longitude":4.91855,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.openstudio.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804033,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_1iBB2MSGYmAGNvwW9PUSda_52.333435_4.918550@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c7231efe31540499e4fa5845e0067a3d",
+    "wof:geomhash":"9dc0fa6287f8f7f2c6f6c3ebd81dfa32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804033,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":203232021
         }
     ],
     "wof:id":203232021,
-    "wof:lastmodified":1473879209,
+    "wof:lastmodified":1492479738,
     "wof:name":"Open Studio",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

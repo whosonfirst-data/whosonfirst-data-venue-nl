@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.871712,52.374939,4.871712,52.374939",
     "geom:latitude":52.374939,
     "geom:longitude":4.871712,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803847,
+        1108802807,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_2I0n3y1hXLwyYqabeWyVDJ_52.374939_4.871712@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0993c8b606fdcdbd25841979a8a01c82",
+    "wof:geomhash":"b5dfefbef0742f34e30e5ee20eb25209",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803847,
+            "neighbourhood_id":1108802807,
             "region_id":85687053,
             "venue_id":269779387
         }
     ],
     "wof:id":269779387,
-    "wof:lastmodified":1473879417,
+    "wof:lastmodified":1492496171,
     "wof:name":"Sixty Snackbar",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

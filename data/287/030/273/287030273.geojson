@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.892647,52.342667,4.892647,52.342667",
     "geom:latitude":52.342667,
     "geom:longitude":4.892647,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.bloembap.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803985,
+        1108802897,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_5cnVqJpcCtgrZwV5rzHTn8_52.342667_4.892647@1306269976"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cbd17704a25ec3e5c18660ed575ccaf7",
+    "wof:geomhash":"9c6f57565fd5403d3b4f29550646de4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108803985,
+            "neighbourhood_id":1108802897,
             "region_id":85687053,
             "venue_id":287030273
         }
     ],
     "wof:id":287030273,
-    "wof:lastmodified":1473878619,
+    "wof:lastmodified":1492514016,
     "wof:name":"Bap Bloemenservice",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803985,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882826,52.412605,4.882826,52.412605",
     "geom:latitude":52.412605,
     "geom:longitude":4.882826,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803211,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_2qIORmXPPpVBKLKvP7lS95_52.412605_4.882826@1306269926"
     },
     "wof:country":"NL",
-    "wof:geomhash":"552e75936e5138222b957e46b5d0345c",
+    "wof:geomhash":"f167fe7365118352d1614a11ba6f6553",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803211,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":219427059
         }
     ],
     "wof:id":219427059,
-    "wof:lastmodified":1473879122,
+    "wof:lastmodified":1492502511,
     "wof:name":"Ruud Kriger Onderhoudswerk",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

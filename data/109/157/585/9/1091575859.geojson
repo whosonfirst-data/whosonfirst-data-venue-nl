@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6553750038,52.303691864,4.6553750038,52.303691864",
     "geom:latitude":52.303692,
     "geom:longitude":4.655375,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.webdynamic.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474065,
+        85633337,
+        101751899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mntPPpEIVaYOD82Yuj4Wx_52.303692_4.655375@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800844,
-    "wof:geomhash":"631283066a45bb905fd6017d5c47d19c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e143ccf50aa2e75c1c853e2382638e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474065,
+            "locality_id":101751899,
+            "region_id":85687053,
+            "venue_id":1091575859
+        }
+    ],
     "wof:id":1091575859,
-    "wof:lastmodified":1473878909,
+    "wof:lastmodified":1492511468,
     "wof:name":"Webdynamic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

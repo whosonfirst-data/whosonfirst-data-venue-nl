@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.0058059692,52.2611732483,7.0058059692,52.2611732483",
     "geom:latitude":52.261173,
     "geom:longitude":7.005806,
@@ -24,17 +25,32 @@
     "sg:province":"Overijssel",
     "sg:website":"http://www.hansanders.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473841,
+        85633337,
+        101807147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sQyYdHzPQIHR8op2EshQ8_52.261173_7.005806@1306270008"
     },
     "wof:country":"NL",
     "wof:created":1473798979,
-    "wof:geomhash":"fd17bf38fa7860d07608df9c06a2259e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11487709dd1cc4e67aba20d26501a98d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473841,
+            "locality_id":101807147,
+            "region_id":85687045,
+            "venue_id":1075817107
+        }
+    ],
     "wof:id":1075817107,
-    "wof:lastmodified":1473879083,
+    "wof:lastmodified":1492486587,
     "wof:name":"Hans Anders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

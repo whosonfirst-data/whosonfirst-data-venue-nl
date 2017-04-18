@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.90196,52.376423,4.90196,52.376423",
     "geom:latitude":52.376423,
     "geom:longitude":4.90196,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804101,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_7GGbqQm4zIHHNi3Okgc32Y_52.376423_4.901960@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6c6473457260d5f0a888b3d6cfee441b",
+    "wof:geomhash":"fe7f2cbef328f6c8e88b86e7532f52be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804101,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":304072145
         }
     ],
     "wof:id":304072145,
-    "wof:lastmodified":1473878797,
+    "wof:lastmodified":1492504447,
     "wof:name":"Hotel Voyagers",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

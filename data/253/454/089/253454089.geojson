@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.834112,52.385708,4.834112,52.385708",
     "geom:latitude":52.385708,
     "geom:longitude":4.834112,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108803625,
+        1108802535,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6OhclPKRBcfOkeWnRv2ioz_52.385708_4.834112@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"284a3f228d1a41dc403e324756502ef6",
+    "wof:geomhash":"a355fc5192916381e923f6a3def065f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "microhood_id":1108803625,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":253454089
         }
     ],
     "wof:id":253454089,
-    "wof:lastmodified":1473879610,
+    "wof:lastmodified":1492490299,
     "wof:name":"Amsterdam Thuiszorg",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108803625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

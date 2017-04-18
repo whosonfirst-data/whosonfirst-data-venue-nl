@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.924339,52.362144,4.924339,52.362144",
     "geom:latitude":52.362144,
     "geom:longitude":4.924339,
@@ -24,31 +25,51 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803725,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
-        85687053
+        1108802289,
+        85687053,
+        1108803579,
+        1108802779
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DkOoEqQpCOQILuoM4il7d_52.362144_4.924339@1306269940"
     },
     "wof:country":"NL",
-    "wof:geomhash":"caba4d8a981275389012f8623fc32fdb",
+    "wof:geomhash":"4cfad3e1806cab5436a289ccc738dd5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803725,
+            "neighbourhood_id":1108802881,
+            "region_id":85687053,
+            "venue_id":236731233
+        },
+        {
+            "borough_id":1108802289,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803579,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":236731233
         }
     ],
     "wof:id":236731233,
-    "wof:lastmodified":1473879515,
+    "wof:lastmodified":1492491696,
     "wof:name":"Level",
-    "wof:parent_id":85798627,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

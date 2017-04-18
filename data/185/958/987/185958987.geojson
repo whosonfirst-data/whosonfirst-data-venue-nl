@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.871595,52.383759,4.871595,52.383759",
     "geom:latitude":52.383759,
     "geom:longitude":4.871595,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803305,
+        1108802915,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1s0yvs8AaEDGZLrYA66FQx_52.383759_4.871595@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c8e5bcde6a7dbcce91bb8be659ec8379",
+    "wof:geomhash":"11304155be57d1d5a389515eba8419e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803305,
+            "neighbourhood_id":1108802915,
             "region_id":85687053,
             "venue_id":185958987
         }
     ],
     "wof:id":185958987,
-    "wof:lastmodified":1473878991,
+    "wof:lastmodified":1492487892,
     "wof:name":"Buurtwerkplaats",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803305,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

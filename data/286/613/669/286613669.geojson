@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.355242,51.857098,4.355242,51.857098",
     "geom:latitude":51.857098,
     "geom:longitude":4.355242,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798011,
+        1108833225,
+        1108805797,
+        102191581,
         85633337,
-        101751847,
+        101751843,
+        1108805727,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5gduSp775e46MijpO4aZI7_51.857098_4.355242@1306269971"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8eaaa5ea293045a4e540cab43df8b76a",
+    "wof:geomhash":"fed26c1596d24c7756e60e4b0fd814a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805727,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751847,
-            "neighbourhood_id":85798011,
+            "locality_id":101751843,
+            "microhood_id":1108833225,
+            "neighbourhood_id":1108805797,
             "region_id":85687041,
             "venue_id":286613669
         }
     ],
     "wof:id":286613669,
-    "wof:lastmodified":1473879256,
+    "wof:lastmodified":1492475776,
     "wof:name":"Meeuwenhof",
-    "wof:parent_id":85798011,
+    "wof:parent_id":1108833225,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

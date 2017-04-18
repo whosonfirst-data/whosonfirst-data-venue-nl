@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.908563,52.363113,4.908563,52.363113",
     "geom:latitude":52.363113,
     "geom:longitude":4.908563,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803643,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_4NNRyMaxpv6g2QBNnmKS5v_52.363113_4.908563@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a3e5f30c35ae752065439503988b8ece",
+    "wof:geomhash":"14ad9a6b35f6cf3e0f9e43f06c29e8f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803643,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":252828953
         }
     ],
     "wof:id":252828953,
-    "wof:lastmodified":1473878577,
+    "wof:lastmodified":1492504993,
     "wof:name":"Ab Van Waveren",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

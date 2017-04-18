@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.521203,51.92704,4.521203,51.92704",
     "geom:latitude":51.92704,
     "geom:longitude":4.521203,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805803,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3CNr6c0k1GdvgQfiuBM7G0_51.927040_4.521203@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"465a20ee16dc6fbdbf385a407220deac",
+    "wof:geomhash":"33acb0e3d624da02bac7cc249b1d1722",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805803,
             "region_id":85687041,
             "venue_id":320804953
         }
     ],
     "wof:id":320804953,
-    "wof:lastmodified":1473879621,
+    "wof:lastmodified":1492485174,
     "wof:name":"Wismeijer, J H",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.13586,51.974907,4.13586,51.974907",
     "geom:latitude":51.974907,
     "geom:longitude":4.13586,
@@ -33,8 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85797461,
+        102191581,
         85633337,
-        101808077,
+        101751843,
+        1108805729,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,22 @@
         "sg:id":"SG_1Zzznr28myGvImGKbO5kwn_51.974907_4.135860@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b9071e52fd52cbfa3af516329eb3eabe",
+    "wof:geomhash":"05e8b342084bb14beae018b8bbe1a8d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805729,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101808077,
-            "neighbourhood_id":-1,
+            "locality_id":101751843,
+            "neighbourhood_id":85797461,
             "region_id":85687041,
             "venue_id":303108113
         }
     ],
     "wof:id":303108113,
-    "wof:lastmodified":1473878686,
+    "wof:lastmodified":1492471614,
     "wof:name":"Delicious",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

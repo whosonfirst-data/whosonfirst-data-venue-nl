@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.780772,52.368969,4.780772,52.368969",
     "geom:latitude":52.368969,
     "geom:longitude":4.780772,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108804073,
+        1108802855,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_653R1Yp5okNfbnog4dxOC5_52.368969_4.780772@1306269923"
     },
     "wof:country":"NL",
-    "wof:geomhash":"44db91ed33160195956bd05dc77635a0",
+    "wof:geomhash":"9dd7e915efdb77f41bd49154f7636b9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108804073,
+            "neighbourhood_id":1108802855,
             "region_id":85687053,
             "venue_id":203387523
         }
     ],
     "wof:id":203387523,
-    "wof:lastmodified":1473879312,
+    "wof:lastmodified":1492480129,
     "wof:name":"Bodegraven, Gerard Van",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108804073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

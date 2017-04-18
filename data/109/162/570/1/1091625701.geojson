@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3657851219,51.7500076294,4.3657851219,51.7500076294",
     "geom:latitude":51.750008,
     "geom:longitude":4.365785,
@@ -23,17 +24,32 @@
     "sg:postcode":"3284 AG",
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474235,
+        85633337,
+        101808537
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jEz6IqxEY62xK4FZzfX1b_51.750008_4.365785@1306270019"
     },
     "wof:country":"NL",
     "wof:created":1473804236,
-    "wof:geomhash":"af11d40d4fe5feb7a6f092690eeb0679",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47d9f8c64545c62d284680c0c8f5af56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474235,
+            "locality_id":101808537,
+            "region_id":85687041,
+            "venue_id":1091625701
+        }
+    ],
     "wof:id":1091625701,
-    "wof:lastmodified":1473878857,
+    "wof:lastmodified":1492512057,
     "wof:name":"Figaro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

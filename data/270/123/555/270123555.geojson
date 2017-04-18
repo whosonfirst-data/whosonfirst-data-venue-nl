@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88013,52.365349,4.88013,52.365349",
     "geom:latitude":52.365349,
     "geom:longitude":4.88013,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803661,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5iGULSBmZKkp4DmUUiJWNg_52.365349_4.880130@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7c3563bf7b682efea0ac3c7afe584814",
+    "wof:geomhash":"15fb69ba5132fa5e75d1275128e3863b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803661,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":270123555
         }
     ],
     "wof:id":270123555,
-    "wof:lastmodified":1473878615,
+    "wof:lastmodified":1492499583,
     "wof:name":"Mulder, Leendert",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803661,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

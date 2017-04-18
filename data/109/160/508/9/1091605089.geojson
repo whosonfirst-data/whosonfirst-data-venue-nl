@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1032328606,52.110244751,5.1032328606,52.110244751",
     "geom:latitude":52.110245,
     "geom:longitude":5.103233,
@@ -24,10 +25,13 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808929,
+        102191581,
+        1108832367,
         85633337,
-        85798231,
-        85687039,
-        85798227
+        101751827,
+        1108808671,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,25 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473802965,
-    "wof:geomhash":"fe493cdc2933529384156f5cbf1fe202",
+    "wof:geomhash":"2fe2e11e8fce867e2d8363b05c7f99be",
     "wof:hierarchy":[
         {
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798231,
-            "region_id":85687039,
-            "venue_id":1091605089
-        },
-        {
-            "country_id":85633337,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808929,
             "region_id":85687039,
             "venue_id":1091605089
         }
     ],
     "wof:id":1091605089,
-    "wof:lastmodified":1473878727,
+    "wof:lastmodified":1492512735,
     "wof:name":"Olifant, De",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108808929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.895148,52.37582,4.895148,52.37582",
     "geom:latitude":52.37582,
     "geom:longitude":4.895148,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803257,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1AiCmQpPdnk2jFIIpu55qR_52.375820_4.895148@1306269988"
     },
     "wof:country":"NL",
-    "wof:geomhash":"70e4062209a66b8f82a9386ae58b29a4",
+    "wof:geomhash":"b759e89f8b0efd7d7d0acf48c55475df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803257,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":303884427
         }
     ],
     "wof:id":303884427,
-    "wof:lastmodified":1473879649,
+    "wof:lastmodified":1492472765,
     "wof:name":"Capital",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

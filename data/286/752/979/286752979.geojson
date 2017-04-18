@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876937,52.379887,4.876937,52.379887",
     "geom:latitude":52.379887,
     "geom:longitude":4.876937,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803875,
+        1108802807,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1Q6ZTtySInwhtNnzUYqIHB_52.379887_4.876937@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"885779ac0af665bf7afe495cc5191a58",
+    "wof:geomhash":"8ea9162fdf4d942bc9e4045832b46819",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803875,
+            "neighbourhood_id":1108802807,
             "region_id":85687053,
             "venue_id":286752979
         }
     ],
     "wof:id":286752979,
-    "wof:lastmodified":1473879554,
+    "wof:lastmodified":1492477581,
     "wof:name":"Cafe Wierda",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

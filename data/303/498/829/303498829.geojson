@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.953586,52.391979,4.953586,52.391979",
     "geom:latitude":52.391979,
     "geom:longitude":4.953586,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803543,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3W4W5xd8cUSoczHBoh46lB_52.391979_4.953586@1306269984"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cbe8b7e6829d09e5135c1299a99a484b",
+    "wof:geomhash":"6ff40bcf633320b82a0180be4688bc5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803543,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":303498829
         }
     ],
     "wof:id":303498829,
-    "wof:lastmodified":1473879180,
+    "wof:lastmodified":1492471825,
     "wof:name":"Conditietraining",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803543,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

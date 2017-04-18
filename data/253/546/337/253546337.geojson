@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.353667,51.855728,4.353667,51.855728",
     "geom:latitude":51.855728,
     "geom:longitude":4.353667,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798011,
+        1108833225,
+        1108805797,
+        102191581,
         85633337,
-        101751847,
+        101751843,
+        1108805727,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_44sTcey2N73d7Wy1Ca1E82_51.855728_4.353667@1306269951"
     },
     "wof:country":"NL",
-    "wof:geomhash":"106a2b9d351dad1c3103d29e21353fb6",
+    "wof:geomhash":"c6a15ef46b1974119e77323408b75cf8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805727,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751847,
-            "neighbourhood_id":85798011,
+            "locality_id":101751843,
+            "microhood_id":1108833225,
+            "neighbourhood_id":1108805797,
             "region_id":85687041,
             "venue_id":253546337
         }
     ],
     "wof:id":253546337,
-    "wof:lastmodified":1473879679,
+    "wof:lastmodified":1492488743,
     "wof:name":"Duran Cuesta, S",
-    "wof:parent_id":85798011,
+    "wof:parent_id":1108833225,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

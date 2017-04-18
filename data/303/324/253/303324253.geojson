@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876482,52.357723,4.876482,52.357723",
     "geom:latitude":52.357723,
     "geom:longitude":4.876482,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803743,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6x3FUzWJFqE3BGUwOlbrkS_52.357723_4.876482@1306269982"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3e5f5095c800ae88fe01e842a23155b5",
+    "wof:geomhash":"63ce771f7ffe780c8533d8572b7708c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803743,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":303324253
         }
     ],
     "wof:id":303324253,
-    "wof:lastmodified":1473879124,
+    "wof:lastmodified":1492472846,
     "wof:name":"Cmax Europe",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

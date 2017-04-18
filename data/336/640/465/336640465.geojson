@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.930015,52.397984,4.930015,52.397984",
     "geom:latitude":52.397984,
     "geom:longitude":4.930015,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803353,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0uDKvXHvo9sp6umKLjyFN0_52.397984_4.930015@1306270004"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1d3f6f3ab20f203daa738936e9a28fca",
+    "wof:geomhash":"6ab40188b69f437df9c2b9720007260c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803353,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":336640465
         }
     ],
     "wof:id":336640465,
-    "wof:lastmodified":1473878422,
+    "wof:lastmodified":1492506203,
     "wof:name":"Von & Vic Design Collection",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803353,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

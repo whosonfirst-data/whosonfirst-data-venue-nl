@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.361582,51.870853,4.361582,51.870853",
     "geom:latitude":51.870853,
     "geom:longitude":4.361582,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798213,
+        1108806099,
+        1108805795,
+        102191581,
         85633337,
-        101754659,
+        101751843,
+        1108805727,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6mS1HKemC9LREnJugRrXdh_51.870853_4.361582@1306269953"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e8b18774ad0657f26c45429f36003c4a",
+    "wof:geomhash":"179baf847bf7880378585e688552cb12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805727,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754659,
-            "neighbourhood_id":85798213,
+            "locality_id":101751843,
+            "microhood_id":1108806099,
+            "neighbourhood_id":1108805795,
             "region_id":85687041,
             "venue_id":269498665
         }
     ],
     "wof:id":269498665,
-    "wof:lastmodified":1473878577,
+    "wof:lastmodified":1492495508,
     "wof:name":"Vleescentrum Hoogvliet",
-    "wof:parent_id":85798213,
+    "wof:parent_id":1108806099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

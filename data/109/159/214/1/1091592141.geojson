@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1733078957,52.3660430908,5.1733078957,52.3660430908",
     "geom:latitude":52.366043,
     "geom:longitude":5.173308,
@@ -23,17 +24,32 @@
     "sg:postcode":"1311 GB",
     "sg:province":"NL.",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101751877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DbjsPSdeDgFbPdLJ8EDBy_52.366043_5.173308@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802053,
-    "wof:geomhash":"7085ff6287e36b564d2ba95fbb714cc7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0b71726959cb9b754c55f89284650e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101751877,
+            "region_id":85687049,
+            "venue_id":1091592141
+        }
+    ],
     "wof:id":1091592141,
-    "wof:lastmodified":1473878589,
+    "wof:lastmodified":1492509446,
     "wof:name":"Barile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

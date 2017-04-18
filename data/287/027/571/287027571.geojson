@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.86536,52.346142,4.86536,52.346142",
     "geom:latitude":52.346142,
     "geom:longitude":4.86536,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108804129,
+        1108802917,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_35MOA6Zm62RD6W9AuB1Snz_52.346142_4.865360@1306269976"
     },
     "wof:country":"NL",
-    "wof:geomhash":"355a2eaeb362d0e24fed79b339c82eb2",
+    "wof:geomhash":"c10b79ce0d1d292b91c4cdbf652fcbc9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108804129,
+            "neighbourhood_id":1108802917,
             "region_id":85687053,
             "venue_id":287027571
         }
     ],
     "wof:id":287027571,
-    "wof:lastmodified":1473878609,
+    "wof:lastmodified":1492514216,
     "wof:name":"Anggrek",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

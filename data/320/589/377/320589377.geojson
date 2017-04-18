@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.083799,52.110271,5.083799,52.110271",
     "geom:latitude":52.110271,
     "geom:longitude":5.083799,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808727,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_7C5hg4Jeapt2T7af4H60In_52.110271_5.083799@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ca9c329dadd72699408187f6245eced4",
+    "wof:geomhash":"21bdcfeaea525a950d49618e71e3d787",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808727,
             "region_id":85687039,
             "venue_id":320589377
         }
     ],
     "wof:id":320589377,
-    "wof:lastmodified":1473879418,
+    "wof:lastmodified":1492484347,
     "wof:name":"Doesburg, A J Van",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

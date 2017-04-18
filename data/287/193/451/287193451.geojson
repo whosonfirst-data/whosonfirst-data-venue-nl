@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.872945,52.375538,4.872945,52.375538",
     "geom:latitude":52.375538,
     "geom:longitude":4.872945,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803847,
+        1108802807,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0PLMPnIWDAT6lDW2qs1BFh_52.375538_4.872945@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e57345634b24105fe814a08242a84229",
+    "wof:geomhash":"44fbd4a321cc21ea8b22dad3961df751",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803847,
+            "neighbourhood_id":1108802807,
             "region_id":85687053,
             "venue_id":287193451
         }
     ],
     "wof:id":287193451,
-    "wof:lastmodified":1473878981,
+    "wof:lastmodified":1492513492,
     "wof:name":"E. Van Twisk",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

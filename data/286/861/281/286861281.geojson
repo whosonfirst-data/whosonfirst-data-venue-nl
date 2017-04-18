@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.935574,52.347572,4.935574,52.347572",
     "geom:latitude":52.347572,
     "geom:longitude":4.935574,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803839,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4PagykpRaW1aaMXjZOyGCx_52.347572_4.935574@1306269974"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a4309291176fb02c22a7af50e0e33c8e",
+    "wof:geomhash":"9cd4725f298a1aeb11389b5d3e9175b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803839,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":286861281
         }
     ],
     "wof:id":286861281,
-    "wof:lastmodified":1473879666,
+    "wof:lastmodified":1492476917,
     "wof:name":"Bloemen- Kadoboetiek Edwin",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

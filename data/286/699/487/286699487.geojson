@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.842078,52.34293,4.842078,52.34293",
     "geom:latitude":52.34293,
     "geom:longitude":4.842078,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.qwinstone.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803509,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_095QkCYM40I59bVjkgimtV_52.342930_4.842078@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dc807917796c09a422689bb7c8f4aace",
+    "wof:geomhash":"144f4dec18e820fac7b5b99ecac82f26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803509,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":286699487
         }
     ],
     "wof:id":286699487,
-    "wof:lastmodified":1473879432,
+    "wof:lastmodified":1492476775,
     "wof:name":"Qwinstone",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

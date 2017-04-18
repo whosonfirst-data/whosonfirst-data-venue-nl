@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.512833,51.923332,4.512833,51.923332",
     "geom:latitude":51.923332,
     "geom:longitude":4.512833,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.opvakantie.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805803,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3QBUShpkVfPkPCvV9e5pGp_51.923332_4.512833@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e78443171ef29be0b488a0b27d79f5ab",
+    "wof:geomhash":"c89a2ef8c2f7d101ed375199d1aab4a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805803,
             "region_id":85687041,
             "venue_id":303539285
         }
     ],
     "wof:id":303539285,
-    "wof:lastmodified":1473879293,
+    "wof:lastmodified":1492473174,
     "wof:name":"Opvakantie.Nl",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

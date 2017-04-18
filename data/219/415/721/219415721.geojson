@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.937746,52.363865,4.937746,52.363865",
     "geom:latitude":52.363865,
     "geom:longitude":4.937746,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803435,
+        1108802845,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1zllm2ZiGVOkxodBXOoOv0_52.363865_4.937746@1306269926"
     },
     "wof:country":"NL",
-    "wof:geomhash":"507130aceac26d3d6d856624ab42c10b",
+    "wof:geomhash":"13e73e82c2fbe5e9622fff8c1aec4192",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803435,
+            "neighbourhood_id":1108802845,
             "region_id":85687053,
             "venue_id":219415721
         }
     ],
     "wof:id":219415721,
-    "wof:lastmodified":1473879132,
+    "wof:lastmodified":1492503292,
     "wof:name":"K.J. Schaper",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.344764,52.086559,4.344764,52.086559",
     "geom:latitude":52.086559,
     "geom:longitude":4.344764,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797661,
+        1108808241,
+        102191581,
+        1108805963,
         85633337,
         101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3buSkUBycU4PB7q733cECg_52.086559_4.344764@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"76940dc78171abaf045a09f6a530ba79",
+    "wof:geomhash":"b8fdb8f5fa8962d6dab9afef75f4e27a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797661,
+            "macrohood_id":1108805963,
+            "neighbourhood_id":1108808241,
             "region_id":85687041,
             "venue_id":320269379
         }
     ],
     "wof:id":320269379,
-    "wof:lastmodified":1473879146,
+    "wof:lastmodified":1492483367,
     "wof:name":"Glashandel Van Dijk",
-    "wof:parent_id":85797661,
+    "wof:parent_id":1108808241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

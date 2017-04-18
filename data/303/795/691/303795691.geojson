@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.574245,51.964336,4.574245,51.964336",
     "geom:latitude":51.964336,
     "geom:longitude":4.574245,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798779,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cH7JmiEyXqJDBYmKQxTD3_51.964336_4.574245@1306269987"
     },
     "wof:country":"NL",
-    "wof:geomhash":"33c1cd5e8cc678852fa90014b015dda2",
+    "wof:geomhash":"468375dd5808f0ffd873f54812bd95c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798779,
+            "region_id":85687041,
+            "venue_id":303795691
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798779,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":303795691,
-    "wof:lastmodified":1473879561,
+    "wof:lastmodified":1492471898,
     "wof:name":"Jansri",
     "wof:parent_id":85798779,
     "wof:placetype":"venue",

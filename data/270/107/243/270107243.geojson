@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.49412,51.956108,4.49412,51.956108",
     "geom:latitude":51.956108,
     "geom:longitude":4.49412,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797707,
+        1108805791,
+        102191581,
+        1108805981,
         85633337,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_534hV2hOOmMgNzAzC9rOEl_51.956108_4.494120@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"167a539f5cd53cb2ac87db89ef9296bc",
+    "wof:geomhash":"ad64c31b722aa48a3a566d6093cfb454",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797707,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805791,
             "region_id":85687041,
             "venue_id":270107243
         }
     ],
     "wof:id":270107243,
-    "wof:lastmodified":1473878590,
+    "wof:lastmodified":1492500117,
     "wof:name":"Kinorama",
-    "wof:parent_id":85797707,
+    "wof:parent_id":1108805791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

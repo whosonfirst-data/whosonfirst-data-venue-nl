@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.856093,52.351524,4.856093,52.351524",
     "geom:latitude":52.351524,
     "geom:longitude":4.856093,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108804247,
+        1108802899,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:brand_id":420574291,
@@ -35,21 +39,23 @@
         "sg:id":"SG_1o1ZEPA81k7IKqt0u9cC8C_52.351524_4.856093@1306269993"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1dd6631f2a015781cd5398582a92b0b1",
+    "wof:geomhash":"cf9fc452dd04dfb32afc695e14585e46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108804247,
+            "neighbourhood_id":1108802899,
             "region_id":85687053,
             "venue_id":319968667
         }
     ],
     "wof:id":319968667,
-    "wof:lastmodified":1473878998,
+    "wof:lastmodified":1492479717,
     "wof:name":"Blokker Bv",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

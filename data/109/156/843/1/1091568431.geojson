@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6255149841,52.6543197632,5.6255149841,52.6543197632",
     "geom:latitude":52.65432,
     "geom:longitude":5.625515,
@@ -24,17 +25,32 @@
     "sg:province":"NL.",
     "sg:website":"http://www.aquamar.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473857,
+        85633337,
+        101807251
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FMgzQmeFjL8d706mBOjIO_52.654320_5.625515@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800356,
-    "wof:geomhash":"d9c57f470fa34a1869475f8c87376bdf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b644b0a24818dca1fa5a8ea6dbfd8aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473857,
+            "locality_id":101807251,
+            "region_id":85687049,
+            "venue_id":1091568431
+        }
+    ],
     "wof:id":1091568431,
-    "wof:lastmodified":1473878524,
+    "wof:lastmodified":1492510849,
     "wof:name":"Aquamar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.891759,52.37627,4.891759,52.37627",
     "geom:latitude":52.37627,
     "geom:longitude":4.891759,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804025,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6usedZuPhqtgC3ndU1EmrI_52.376270_4.891759@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"af8ce1b6e9659266465ae139acc07d39",
+    "wof:geomhash":"955f6811e9101f5f5341754a62702f33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804025,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":287137743
         }
     ],
     "wof:id":287137743,
-    "wof:lastmodified":1473878911,
+    "wof:lastmodified":1492513545,
     "wof:name":"Nauta Boekhandel",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

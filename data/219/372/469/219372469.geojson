@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.345494,52.060822,4.345494,52.060822",
     "geom:latitude":52.060822,
     "geom:longitude":4.345494,
@@ -25,10 +26,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798353,
+        102191581,
+        404474251,
         85633337,
         101754743,
         85687041,
         85798255,
+        404474685,
         101754709
     ],
     "wof:breaches":[],
@@ -36,19 +40,21 @@
         "sg:id":"SG_1rrSK39fhICAIkIlZecxQe_52.060822_4.345494@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e71a89e0fe24929acfe30df5710f15ad",
+    "wof:geomhash":"405f7ab6162e3e4810acf2c751b1e393",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
             "neighbourhood_id":85798353,
             "region_id":85687041,
             "venue_id":219372469
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474685,
             "locality_id":101754709,
             "neighbourhood_id":85798255,
             "region_id":85687041,
@@ -56,9 +62,9 @@
         }
     ],
     "wof:id":219372469,
-    "wof:lastmodified":1473879060,
+    "wof:lastmodified":1492502445,
     "wof:name":"R Rausch",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

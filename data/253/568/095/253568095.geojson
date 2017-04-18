@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.900171,52.410667,4.900171,52.410667",
     "geom:latitude":52.410667,
     "geom:longitude":4.900171,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803309,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_1uoDUl7ugybjFFxlAqHaxQ_52.410667_4.900171@1306269951"
     },
     "wof:country":"NL",
-    "wof:geomhash":"171ee47147c8a73d5bdab0639f53b2ca",
+    "wof:geomhash":"c8df703020dc9f853eb3eca5e0aa4cbd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803309,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":253568095
         }
     ],
     "wof:id":253568095,
-    "wof:lastmodified":1473879685,
+    "wof:lastmodified":1492490503,
     "wof:name":"Nina Praktijk",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

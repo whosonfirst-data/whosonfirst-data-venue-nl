@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.320286,52.089973,4.320286,52.089973",
     "geom:latitude":52.089973,
     "geom:longitude":4.320286,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797091,
+        1108808143,
+        102191581,
+        1108805961,
         85633337,
         101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_0kkJ3rBiogRdh4XM9W5MRH_52.089973_4.320286@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e9cd21a9ac6081c6a258783fb7c3dc31",
+    "wof:geomhash":"b335d0dc551f4fdc1f8b97b180dc57c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797091,
+            "macrohood_id":1108805961,
+            "neighbourhood_id":1108808143,
             "region_id":85687041,
             "venue_id":269790927
         }
     ],
     "wof:id":269790927,
-    "wof:lastmodified":1473879488,
+    "wof:lastmodified":1492496897,
     "wof:name":"Snackbar-Lunchroom Ritchy",
-    "wof:parent_id":85797091,
+    "wof:parent_id":1108808143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

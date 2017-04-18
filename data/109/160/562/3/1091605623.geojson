@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1358590126,51.7218055725,5.1358590126,51.7218055725",
     "geom:latitude":51.721806,
     "geom:longitude":5.135859,
@@ -23,17 +24,32 @@
     "sg:postcode":"5256 KR",
     "sg:province":"Noord-Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474395,
+        85633337,
+        101808229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5P149rEC2eQQBJMQjSvOOv_51.721806_5.135859@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473803033,
-    "wof:geomhash":"f991f919a24cf122249ab93e91edb393",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7447a27c2fae43d1e9feef374b5baec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474395,
+            "locality_id":101808229,
+            "region_id":85687035,
+            "venue_id":1091605623
+        }
+    ],
     "wof:id":1091605623,
-    "wof:lastmodified":1473878750,
+    "wof:lastmodified":1492512812,
     "wof:name":"Discovery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

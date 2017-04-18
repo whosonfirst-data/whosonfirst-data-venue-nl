@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.563723,51.926777,4.563723,51.926777",
     "geom:latitude":51.926777,
     "geom:longitude":4.563723,
@@ -24,31 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798375,
+        1108805861,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4O8kKUy5EPe0rjBL0QKoq2_51.926777_4.563723@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5ca93a452637cab9d0b233c7750a3565",
+    "wof:geomhash":"69316f0433480ac100502a08e06a3f3c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85798375,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805861,
+            "region_id":85687041,
+            "venue_id":269689933
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805861,
             "region_id":85687041,
             "venue_id":269689933
         }
     ],
     "wof:id":269689933,
-    "wof:lastmodified":1473879284,
+    "wof:lastmodified":1492495154,
     "wof:name":"Projekt En Adviesburo A.M. Alblas Vof",
-    "wof:parent_id":85798375,
+    "wof:parent_id":1108805861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.93212,52.957527,5.93212,52.957527",
     "geom:latitude":52.957527,
     "geom:longitude":5.93212,
@@ -24,40 +25,41 @@
     "sg:province":"Friesland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797311,
         85633337,
-        101837957,
+        85859961,
         85687055,
-        85859961
+        85797311,
+        102191581,
+        404473771,
+        101837957
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jKR05FI4oqAeX23sp2QCM_52.957527_5.932120@1306270007"
     },
     "wof:country":"NL",
-    "wof:geomhash":"24f6b9fe9b7e09edfdba32c9e28c67b1",
+    "wof:geomhash":"f2de0fa6883d6e7967489310f4002c7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101837957,
-            "neighbourhood_id":85797311,
+            "neighbourhood_id":85859961,
             "region_id":85687055,
             "venue_id":336890229
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859961,
+            "localadmin_id":404473771,
+            "locality_id":101837957,
+            "neighbourhood_id":85797311,
             "region_id":85687055,
             "venue_id":336890229
         }
     ],
     "wof:id":336890229,
-    "wof:lastmodified":1473878443,
+    "wof:lastmodified":1492506404,
     "wof:name":"Woudstra, Wim",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

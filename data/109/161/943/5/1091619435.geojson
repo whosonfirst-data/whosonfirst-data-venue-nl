@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0819969177,52.0991363525,5.0819969177,52.0991363525",
     "geom:latitude":52.099136,
     "geom:longitude":5.081997,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808859,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473803885,
-    "wof:geomhash":"a3a1634dc9f2c16965d097e3d522bc6f",
+    "wof:geomhash":"0efc8e280da03ad23b103e4fa43891c8",
     "wof:hierarchy":[
         {
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808859,
             "region_id":85687039,
             "venue_id":1091619435
         }
     ],
     "wof:id":1091619435,
-    "wof:lastmodified":1473879055,
+    "wof:lastmodified":1492510639,
     "wof:name":"B & B",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808859,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

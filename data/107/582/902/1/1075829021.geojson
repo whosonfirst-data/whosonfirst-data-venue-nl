@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3207821846,52.0672531128,4.3207821846,52.0672531128",
     "geom:latitude":52.067253,
     "geom:longitude":4.320782,
@@ -24,12 +25,15 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808305,
         102191581,
-        404474251,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,22 +41,34 @@
     },
     "wof:country":"NL",
     "wof:created":1473799728,
-    "wof:geomhash":"31bb5acef9cb5ebc56bdfd8372d7a789",
+    "wof:geomhash":"2035c277e6fca2d7cd25fd4d2c93e825",
     "wof:hierarchy":[
         {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808305,
+            "region_id":85687041,
+            "venue_id":1075829021
+        },
+        {
+            "borough_id":1108808049,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808305,
             "region_id":85687041,
             "venue_id":1075829021
         }
     ],
     "wof:id":1075829021,
-    "wof:lastmodified":1473879562,
+    "wof:lastmodified":1492487086,
     "wof:name":"Gak Nederland Bv",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808305,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

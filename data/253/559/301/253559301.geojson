@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.929163,52.397701,4.929163,52.397701",
     "geom:latitude":52.397701,
     "geom:longitude":4.929163,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803353,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_1AyjiBBb1WnzA9xToBUD6Q_52.397701_4.929163@1306269951"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3a0aa09b7287424919e4133cce4a5e99",
+    "wof:geomhash":"8359d51c9459fa2847edc726c25db81f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803353,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":253559301
         }
     ],
     "wof:id":253559301,
-    "wof:lastmodified":1473879685,
+    "wof:lastmodified":1492491088,
     "wof:name":"Kollenburg, M Van",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803353,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

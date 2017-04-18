@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.42902,51.949627,4.42902,51.949627",
     "geom:latitude":51.949627,
     "geom:longitude":4.42902,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798367,
+        1108833229,
+        1108805883,
+        102191581,
         85633337,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1emJlz2LKoGCxLA6L9TDBX_51.949627_4.429020@1306269997"
     },
     "wof:country":"NL",
-    "wof:geomhash":"831d2102a9ec77ae456b83612754b93c",
+    "wof:geomhash":"da7b10b61f7a044d836d77ddb22fa3f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798367,
+            "locality_id":101751843,
+            "microhood_id":1108833229,
+            "neighbourhood_id":1108805883,
             "region_id":85687041,
             "venue_id":320381887
         }
     ],
     "wof:id":320381887,
-    "wof:lastmodified":1473879246,
+    "wof:lastmodified":1492485298,
     "wof:name":"Schiphol Expres Bv",
-    "wof:parent_id":85798367,
+    "wof:parent_id":1108833229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

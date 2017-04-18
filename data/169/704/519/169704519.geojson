@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878805,52.416138,4.878805,52.416138",
     "geom:latitude":52.416138,
     "geom:longitude":4.878805,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804079,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_0Ywub2eZvXpOhnwotjYSuH_52.416138_4.878805@1306269905"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d106abbd5c305c98537ea6ab095ecf54",
+    "wof:geomhash":"d6504a19c274a8d302dfde495b251181",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108804079,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":169704519
         }
     ],
     "wof:id":169704519,
-    "wof:lastmodified":1473878445,
+    "wof:lastmodified":1492478750,
     "wof:name":"Knip En Koffie",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108804079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

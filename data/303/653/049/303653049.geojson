@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.862218,52.375229,4.862218,52.375229",
     "geom:latitude":52.375229,
     "geom:longitude":4.862218,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803263,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_06aaANSCp6YvqQcGXwNo3R_52.375229_4.862218@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8f35b4a67ff466af5e24ebeb39f23a59",
+    "wof:geomhash":"ac9ff063419494f9c5d41093f42088c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803263,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":303653049
         }
     ],
     "wof:id":303653049,
-    "wof:lastmodified":1473879414,
+    "wof:lastmodified":1492472736,
     "wof:name":"Firma F. Molema",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

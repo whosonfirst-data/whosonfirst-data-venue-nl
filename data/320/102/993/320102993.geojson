@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.93426,52.366257,4.93426,52.366257",
     "geom:latitude":52.366257,
     "geom:longitude":4.93426,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803435,
+        1108802845,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_47LZLip1z3fmJXU6zPX4vt_52.366257_4.934260@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0d2be7fb6048cafeeb7e4c7cbb785a27",
+    "wof:geomhash":"645c148e212aca5fb01093a36c3a6c81",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803435,
+            "neighbourhood_id":1108802845,
             "region_id":85687053,
             "venue_id":320102993
         }
     ],
     "wof:id":320102993,
-    "wof:lastmodified":1473878823,
+    "wof:lastmodified":1492484589,
     "wof:name":"Roest Vof",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

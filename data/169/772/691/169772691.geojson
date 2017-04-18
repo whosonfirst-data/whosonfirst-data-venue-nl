@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.555765,51.944523,4.555765,51.944523",
     "geom:latitude":51.944523,
     "geom:longitude":4.555765,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28BRtt2ionttAsD8W45QhP_51.944523_4.555765@1306269905"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f04b68b46b2f6048d2aba5726cb4c53b",
+    "wof:geomhash":"c6c228dbc4094cb6bd4b201bf0c35222",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":169772691
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "neighbourhood_id":85798177,
             "region_id":85687041,
             "venue_id":169772691
         }
     ],
     "wof:id":169772691,
-    "wof:lastmodified":1473878673,
+    "wof:lastmodified":1492478764,
     "wof:name":"Mevr A J Timmermans-Burry",
-    "wof:parent_id":85798329,
+    "wof:parent_id":85798177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

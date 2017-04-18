@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.932276,52.399715,4.932276,52.399715",
     "geom:latitude":52.399715,
     "geom:longitude":4.932276,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803353,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_48P6aJWqYdEwVgjGjtuVP4_52.399715_4.932276@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"58a5bf1bdd9b85b6b335d94d9a09a5aa",
+    "wof:geomhash":"a9ab4140aef897daf34d59c5724adffa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803353,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":236464703
         }
     ],
     "wof:id":236464703,
-    "wof:lastmodified":1473879338,
+    "wof:lastmodified":1492493729,
     "wof:name":"Poelgeest",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803353,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

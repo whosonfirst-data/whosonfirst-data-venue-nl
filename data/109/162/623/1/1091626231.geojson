@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8982920647,52.4098014832,4.8982920647,52.4098014832",
     "geom:latitude":52.409801,
     "geom:longitude":4.898292,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
+        1108803309,
         85798523,
+        102191581,
+        85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,19 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473804255,
-    "wof:geomhash":"3bc24f1ba4457e3e7f0124136d9a90b3",
+    "wof:geomhash":"8634d86fe8dc5062ec99cd9005eed0ba",
     "wof:hierarchy":[
         {
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1108803309,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":1091626231
         }
     ],
     "wof:id":1091626231,
-    "wof:lastmodified":1473878894,
+    "wof:lastmodified":1492512039,
     "wof:name":"Future Line",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

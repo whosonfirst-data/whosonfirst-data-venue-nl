@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.896456,52.371796,4.896456,52.371796",
     "geom:latitude":52.371796,
     "geom:longitude":4.896456,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803883,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5K7wGsnTk2mjuYPFu1sOnO_52.371796_4.896456@1306269982"
     },
     "wof:country":"NL",
-    "wof:geomhash":"76876f4f39a0594134b721c1d8c31f93",
+    "wof:geomhash":"b020a4ec6de101127621cbf839d49ce9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803883,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":303330847
         }
     ],
     "wof:id":303330847,
-    "wof:lastmodified":1473879130,
+    "wof:lastmodified":1492474400,
     "wof:name":"Dr. Adam'S",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

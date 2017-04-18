@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.932255,52.396217,4.932255,52.396217",
     "geom:latitude":52.396217,
     "geom:longitude":4.932255,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803535,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4cDHMjKrYTSZWt10CTg4AP_52.396217_4.932255@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"22d6508abfd8d4849649f4bb49a058c1",
+    "wof:geomhash":"73ffa3b91089ff624d2f60c3aa3d96a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803535,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":270123943
         }
     ],
     "wof:id":270123943,
-    "wof:lastmodified":1473878618,
+    "wof:lastmodified":1492499582,
     "wof:name":"Olden, Michel",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803535,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

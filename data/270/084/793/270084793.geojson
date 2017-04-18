@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.268028,52.086948,4.268028,52.086948",
     "geom:latitude":52.086948,
     "geom:longitude":4.268028,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        85798595,
+        102191581,
+        1108808131,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5pfd1uGUrCcm16FuYIaz25_52.086948_4.268028@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d5530f286e4bace9ea923102b4a12a32",
+    "wof:geomhash":"1fadb7f4634bb8b75f29b47a08559e0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
+            "macrohood_id":1108808131,
+            "neighbourhood_id":85798595,
             "region_id":85687041,
             "venue_id":270084793
         }
     ],
     "wof:id":270084793,
-    "wof:lastmodified":1473878539,
+    "wof:lastmodified":1492499480,
     "wof:name":"Squash En Aerobic Centrum Houtrust",
-    "wof:parent_id":85859605,
+    "wof:parent_id":85798595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

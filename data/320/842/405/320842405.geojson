@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.922032,52.347008,4.922032,52.347008",
     "geom:latitude":52.347008,
     "geom:longitude":4.922032,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803961,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2P4k0vV3msXk2zMoOAHw6Z_52.347008_4.922032@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a9b5060c28c8bb4c212461ce6b67361e",
+    "wof:geomhash":"55b882c7959d9e11813642e64f8cfb58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803961,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":320842405
         }
     ],
     "wof:id":320842405,
-    "wof:lastmodified":1473879647,
+    "wof:lastmodified":1492482594,
     "wof:name":"Adviesbureau Arbeidsrecht Van Dorsten",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

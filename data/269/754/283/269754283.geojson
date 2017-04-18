@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.104626,52.124046,5.104626,52.124046",
     "geom:latitude":52.124046,
     "geom:longitude":5.104626,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798231,
+        1108808877,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_1CxhfIDrv433rVZayJJyJG_52.124046_5.104626@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"636f2c561e522e2effe7520457ee10c8",
+    "wof:geomhash":"98e0d06c62dba6627d5d9f61982c9854",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798231,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808877,
             "region_id":85687039,
             "venue_id":269754283
         }
     ],
     "wof:id":269754283,
-    "wof:lastmodified":1473879377,
+    "wof:lastmodified":1492494984,
     "wof:name":"Eetsalon Theo",
-    "wof:parent_id":85798231,
+    "wof:parent_id":1108808877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

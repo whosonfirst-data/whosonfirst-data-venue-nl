@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7638430595,52.6679763794,4.7638430595,52.6679763794",
     "geom:latitude":52.667976,
     "geom:longitude":4.763843,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.dspcommunicatie.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474025,
+        85633337,
+        101751887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TqOOCR0QUciO91KuLYv0X_52.667976_4.763843@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800631,
-    "wof:geomhash":"c4c065393875d40b0a5c119948c96baf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"465fd94d0b2865e4c60cbaeaa1abcd18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474025,
+            "locality_id":101751887,
+            "region_id":85687053,
+            "venue_id":1091572451
+        }
+    ],
     "wof:id":1091572451,
-    "wof:lastmodified":1473878621,
+    "wof:lastmodified":1492511166,
     "wof:name":"Dsp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

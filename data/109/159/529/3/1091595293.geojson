@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3748130798,53.1633415222,6.3748130798,53.1633415222",
     "geom:latitude":53.163342,
     "geom:longitude":6.374813,
@@ -24,17 +25,32 @@
     "sg:province":"Groningen",
     "sg:website":"http://www.woldwaard.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473721,
+        85633337,
+        101837999
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vYYOxxAEjfJusmiW3wHpJ_53.163342_6.374813@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802248,
-    "wof:geomhash":"8d6db05346e7557cd1c1a60df71b876e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54604331d0ca67da69ad98c12d75c6ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473721,
+            "locality_id":101837999,
+            "region_id":85687059,
+            "venue_id":1091595293
+        }
+    ],
     "wof:id":1091595293,
-    "wof:lastmodified":1473878760,
+    "wof:lastmodified":1492509451,
     "wof:name":"Wold En Waard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

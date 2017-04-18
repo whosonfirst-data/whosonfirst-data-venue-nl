@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.860417,52.345402,4.860417,52.345402",
     "geom:latitude":52.345402,
     "geom:longitude":4.860417,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108804129,
+        1108802917,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3jS4keGWDtGmkbffe6WYfZ_52.345402_4.860417@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ad77cb7e508dd4deb3382c354f6db457",
+    "wof:geomhash":"6574d97630c776d3b0da6c8b9cf9e0fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108804129,
+            "neighbourhood_id":1108802917,
             "region_id":85687053,
             "venue_id":270116477
         }
     ],
     "wof:id":270116477,
-    "wof:lastmodified":1473878621,
+    "wof:lastmodified":1492500669,
     "wof:name":"Cobra",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

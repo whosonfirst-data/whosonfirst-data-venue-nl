@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.30389,52.07552,4.30389,52.07552",
     "geom:latitude":52.07552,
     "geom:longitude":4.30389,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798385,
+        1108808249,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1szjK731x8hCepjrAO8gOP_52.075520_4.303890@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"42c606091f378626354360d453c75e05",
+    "wof:geomhash":"c8dcc467961db5975cecebb5476aa316",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798385,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808249,
             "region_id":85687041,
             "venue_id":185909593
         }
     ],
     "wof:id":185909593,
-    "wof:lastmodified":1473878860,
+    "wof:lastmodified":1492487784,
     "wof:name":"Kinderdagverblijf Klein Lombardije",
-    "wof:parent_id":85798385,
+    "wof:parent_id":1108808249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

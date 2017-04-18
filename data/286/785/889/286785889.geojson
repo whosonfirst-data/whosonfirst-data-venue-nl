@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.317714,52.078842,4.317714,52.078842",
     "geom:latitude":52.078842,
     "geom:longitude":4.317714,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808255,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2GjQY2z5fmLhHa6bHlgClQ_52.078842_4.317714@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3d7e735609ec0c87aea978dde5c426c2",
+    "wof:geomhash":"b89051ef5b92937bdde177c709c564a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808255,
             "region_id":85687041,
             "venue_id":286785889
         }
     ],
     "wof:id":286785889,
-    "wof:lastmodified":1473879603,
+    "wof:lastmodified":1492477573,
     "wof:name":"P.J. V.D. Zwan",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

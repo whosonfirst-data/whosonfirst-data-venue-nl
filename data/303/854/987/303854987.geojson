@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882164,52.38728,4.882164,52.38728",
     "geom:latitude":52.38728,
     "geom:longitude":4.882164,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803853,
+        1108802911,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1h9fi2RHxF80qsET0rQPsP_52.387280_4.882164@1306269988"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b5d65e2e8e040c6170f947f4167d299f",
+    "wof:geomhash":"7ca7efc0d644ccdb91e818a9e619bd66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803853,
+            "neighbourhood_id":1108802911,
             "region_id":85687053,
             "venue_id":303854987
         }
     ],
     "wof:id":303854987,
-    "wof:lastmodified":1473879625,
+    "wof:lastmodified":1492473839,
     "wof:name":"Rebo Vof",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803853,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

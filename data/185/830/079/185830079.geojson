@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881518,52.378273,4.881518,52.378273",
     "geom:latitude":52.378273,
     "geom:longitude":4.881518,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803955,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7Z0z9pUTNdTISrwEQlJDxs_52.378273_4.881518@1306269907"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0356d9139bb86ecb918ce5e39de04120",
+    "wof:geomhash":"a927f9db11140d322f83dbaaff776b56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803955,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":185830079
         }
     ],
     "wof:id":185830079,
-    "wof:lastmodified":1473878753,
+    "wof:lastmodified":1492488025,
     "wof:name":"Do-Re-Mi",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

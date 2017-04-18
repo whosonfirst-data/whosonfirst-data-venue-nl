@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.930497,52.39859,4.930497,52.39859",
     "geom:latitude":52.39859,
     "geom:longitude":4.930497,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803353,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7RwKhhdrDrpPVihFbUgYbB_52.398590_4.930497@1306269930"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ab6bef883b742bcb183ad6045e9abdb2",
+    "wof:geomhash":"d131d0ef0197bd61bfed6f86bd365a72",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803353,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":219870623
         }
     ],
     "wof:id":219870623,
-    "wof:lastmodified":1473879725,
+    "wof:lastmodified":1492501608,
     "wof:name":"Masterconsult",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803353,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

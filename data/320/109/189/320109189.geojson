@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.929411,52.386986,4.929411,52.386986",
     "geom:latitude":52.386986,
     "geom:longitude":4.929411,
@@ -32,31 +33,48 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803809,
+        1108802839,
+        102191581,
         85633337,
         101751893,
-        85687053
+        1108802291,
+        85687053,
+        1108803621,
+        1108802869
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4D9bKXOVOtSRngz2SomKwb_52.386986_4.929411@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6b3dd94d5d41e70700f340deb3b9e607",
+    "wof:geomhash":"48354e476e8b1e38ee453576eb396ba6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803809,
+            "neighbourhood_id":1108802839,
+            "region_id":85687053,
+            "venue_id":320109189
+        },
+        {
+            "borough_id":1108802291,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1108803621,
+            "neighbourhood_id":1108802869,
             "region_id":85687053,
             "venue_id":320109189
         }
     ],
     "wof:id":320109189,
-    "wof:lastmodified":1473878821,
+    "wof:lastmodified":1492484745,
     "wof:name":"Station Vogelbuurt",
-    "wof:parent_id":85798067,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

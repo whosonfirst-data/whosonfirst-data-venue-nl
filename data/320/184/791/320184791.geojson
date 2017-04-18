@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.930949,52.355736,4.930949,52.355736",
     "geom:latitude":52.355736,
     "geom:longitude":4.930949,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803929,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1nVFGPay05da8L1Wl2n37h_52.355736_4.930949@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"809728365e9c26051361ec8f10683bf0",
+    "wof:geomhash":"a20689c21d7f225892ff319c07c43497",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803929,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":320184791
         }
     ],
     "wof:id":320184791,
-    "wof:lastmodified":1473879063,
+    "wof:lastmodified":1492483911,
     "wof:name":"Arco Iris",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

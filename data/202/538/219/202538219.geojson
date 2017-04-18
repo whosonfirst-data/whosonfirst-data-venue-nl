@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.963421,52.299595,4.963421,52.299595",
     "geom:latitude":52.299595,
     "geom:longitude":4.963421,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803365,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_3mZiz0bqK6qmLqJGGavTKQ_52.299595_4.963421@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ec3158e3597f510f8774d186537df83a",
+    "wof:geomhash":"39abd31b71f5d75e2fead50be9c03517",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803365,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":202538219
         }
     ],
     "wof:id":202538219,
-    "wof:lastmodified":1473878892,
+    "wof:lastmodified":1492497008,
     "wof:name":"Videotheek Holendrecht",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803365,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

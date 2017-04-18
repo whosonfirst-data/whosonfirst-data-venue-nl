@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0258021355,52.0832366943,5.0258021355,52.0832366943",
     "geom:latitude":52.083237,
     "geom:longitude":5.025802,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808897,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808673,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473801159,
-    "wof:geomhash":"cfab498286d41bdf1a66a9a11599c4c6",
+    "wof:geomhash":"5b84bb368692b6c38b1448425aa3555b",
     "wof:hierarchy":[
         {
+            "borough_id":1108808673,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808897,
             "region_id":85687039,
             "venue_id":1091579199
         }
     ],
     "wof:id":1091579199,
-    "wof:lastmodified":1473879049,
+    "wof:lastmodified":1492511069,
     "wof:name":"Pol Bv",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808897,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

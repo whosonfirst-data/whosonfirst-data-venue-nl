@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6607198715,51.9664306641,5.6607198715,51.9664306641",
     "geom:latitude":51.966431,
     "geom:longitude":5.66072,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.sshw.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473947,
+        85633337,
+        101837813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TkxG0HapIFNfWZr1dpCt4_51.966431_5.660720@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802972,
-    "wof:geomhash":"2dd9662ee0798c3c2a84317252628a59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb6b5cd37d4fbdfaa5397d74bedaa143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473947,
+            "locality_id":101837813,
+            "region_id":85687043,
+            "venue_id":1091605173
+        }
+    ],
     "wof:id":1091605173,
-    "wof:lastmodified":1473878735,
+    "wof:lastmodified":1492512899,
     "wof:name":"Sshw Stichting Sociale Huisvesting Wageningen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

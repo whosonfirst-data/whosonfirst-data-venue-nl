@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2175498009,51.7511100769,5.2175498009,51.7511100769",
     "geom:latitude":51.75111,
     "geom:longitude":5.21755,
@@ -23,17 +24,32 @@
     "sg:postcode":"5324 AE",
     "sg:province":"Gelderland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473917,
+        85633337,
+        101808579
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6U54wwhG1jumgxzuBqoPNS_51.751110_5.217550@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802168,
-    "wof:geomhash":"7e834c93cd811fb400f515e5b8d32d1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7856b80153c96ffbca0e6b94fd4a7c00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473917,
+            "locality_id":101808579,
+            "region_id":85687043,
+            "venue_id":1091594231
+        }
+    ],
     "wof:id":1091594231,
-    "wof:lastmodified":1473878687,
+    "wof:lastmodified":1492509506,
     "wof:name":"Wolatelier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

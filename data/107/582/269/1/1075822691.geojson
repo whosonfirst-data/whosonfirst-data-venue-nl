@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0375199318,52.0789833069,5.0375199318,52.0789833069",
     "geom:latitude":52.078983,
     "geom:longitude":5.03752,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808715,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808673,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473799349,
-    "wof:geomhash":"f30e882930087264e890c1e9224d13dd",
+    "wof:geomhash":"eef1121a84496c601b13668e2b13acb0",
     "wof:hierarchy":[
         {
+            "borough_id":1108808673,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808715,
             "region_id":85687039,
             "venue_id":1075822691
         }
     ],
     "wof:id":1075822691,
-    "wof:lastmodified":1473879283,
+    "wof:lastmodified":1492486850,
     "wof:name":"Mcm Bv",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

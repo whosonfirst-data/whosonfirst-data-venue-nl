@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.94097,52.397228,4.94097,52.397228",
     "geom:latitude":52.397228,
     "geom:longitude":4.94097,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.boonrijnen.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803947,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_0fmh3es7267YlTJl1iNBxK_52.397228_4.940970@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ea082ac04712ea50968057d14d383025",
+    "wof:geomhash":"cb3f24978a64c3e775a794d5ec702fea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803947,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":219585659
         }
     ],
     "wof:id":219585659,
-    "wof:lastmodified":1473879401,
+    "wof:lastmodified":1492504166,
     "wof:name":"Boon, Rijnen & Partners",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

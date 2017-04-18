@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.478951,51.932983,4.478951,51.932983",
     "geom:latitude":51.932983,
     "geom:longitude":4.478951,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859837,
+        85859845,
+        102191581,
         85633337,
         101751843,
+        1108804843,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +46,22 @@
         "sg:id":"SG_3Mfp3dVmJR9Juhu1Ij24Cs_51.932983_4.478951@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fbf3aaa4028bfdafde2fb37a793abb4b",
+    "wof:geomhash":"705009894c12eeac46f8ced588fbee86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108804843,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859837,
+            "neighbourhood_id":85859845,
             "region_id":85687041,
             "venue_id":303118131
         }
     ],
     "wof:id":303118131,
-    "wof:lastmodified":1473878699,
+    "wof:lastmodified":1492472529,
     "wof:name":"Jamin",
-    "wof:parent_id":85859837,
+    "wof:parent_id":85859845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

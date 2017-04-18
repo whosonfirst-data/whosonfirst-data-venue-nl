@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885581,52.381752,4.885581,52.381752",
     "geom:latitude":52.381752,
     "geom:longitude":4.885581,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804285,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_6LfS5O1NTu5HeqD0eCr1wX_52.381752_4.885581@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"77e0dccaedffc59c431cba7ad0a42e6b",
+    "wof:geomhash":"b63b1f1e936b7fdb7a314192615393a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804285,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":252829579
         }
     ],
     "wof:id":252829579,
-    "wof:lastmodified":1473878570,
+    "wof:lastmodified":1492505073,
     "wof:name":"Annelies Van Der Heijden",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

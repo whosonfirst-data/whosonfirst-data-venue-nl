@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.837199,52.359135,4.837199,52.359135",
     "geom:latitude":52.359135,
     "geom:longitude":4.837199,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108804249,
+        85798223,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1NNNFJBr4w8pCOq12LfiIr_52.359135_4.837199@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4c650231057cb81ec0c1c6e74b195bc1",
+    "wof:geomhash":"580b2d9d8dc1a70395713cce0c4f8d54",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108804249,
+            "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":236785849
         }
     ],
     "wof:id":236785849,
-    "wof:lastmodified":1473879520,
+    "wof:lastmodified":1492493946,
     "wof:name":"Kalite",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

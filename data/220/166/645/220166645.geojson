@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.306977,52.082973,4.306977,52.082973",
     "geom:latitude":52.082973,
     "geom:longitude":4.306977,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.vandiepen.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797685,
+        1108808251,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_5ziwVgp522tGCagEbMxjR4_52.082973_4.306977@1306269932"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e26ef5841f534b939858a3b4bf8e7345",
+    "wof:geomhash":"186e51e1f02e7d8dea535cb68db6d80a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797685,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808251,
             "region_id":85687041,
             "venue_id":220166645
         }
     ],
     "wof:id":220166645,
-    "wof:lastmodified":1473879006,
+    "wof:lastmodified":1492481131,
     "wof:name":"Van Diepen Van Der Kroef",
-    "wof:parent_id":85797685,
+    "wof:parent_id":1108808251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

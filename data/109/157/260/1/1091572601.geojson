@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7454662323,51.8286743164,4.7454662323,51.8286743164",
     "geom:latitude":51.828674,
     "geom:longitude":4.745466,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.ekdesign.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474257,
+        85633337,
+        101754745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jUdAl9ZMS8rEHk7sJcCiC_51.828674_4.745466@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800640,
-    "wof:geomhash":"946a41fc7e32f50da7e8b0c9e2ac74ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd2f256dd2e98d2fc492a20370b27368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474257,
+            "locality_id":101754745,
+            "region_id":85687041,
+            "venue_id":1091572601
+        }
+    ],
     "wof:id":1091572601,
-    "wof:lastmodified":1473878621,
+    "wof:lastmodified":1492511032,
     "wof:name":"Ekdesign",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.279053,52.059929,4.279053,52.059929",
     "geom:latitude":52.059929,
     "geom:longitude":4.279053,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859609,
+        85859591,
+        102191581,
+        1108808107,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3t4jgCSqDD6aN6x5SVPUVk_52.059929_4.279053@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d576c41e2da064de001d6a187fb7e242",
+    "wof:geomhash":"8c753e8ca948ef5f07b54e79ac39dcac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859609,
+            "macrohood_id":1108808107,
+            "neighbourhood_id":85859591,
             "region_id":85687041,
             "venue_id":202504883
         }
     ],
     "wof:id":202504883,
-    "wof:lastmodified":1473878812,
+    "wof:lastmodified":1492498400,
     "wof:name":"De Bruin Wasautomatenverhuur",
-    "wof:parent_id":85859609,
+    "wof:parent_id":85859591,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

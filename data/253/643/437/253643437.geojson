@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.873104,52.356522,4.873104,52.356522",
     "geom:latitude":52.356522,
     "geom:longitude":4.873104,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803475,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0dMRocT2beM8t6QbkV69kL_52.356522_4.873104@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7fe61a11354f71db7a4ac1705f952924",
+    "wof:geomhash":"66f554cac8d8b39dadd7da2983ef6b3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803475,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":253643437
         }
     ],
     "wof:id":253643437,
-    "wof:lastmodified":1473879710,
+    "wof:lastmodified":1492489539,
     "wof:name":"Vrije Peuterklassen Amsterdam, Sticht",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

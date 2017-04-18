@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7072911263,51.2546615601,5.7072911263,51.2546615601",
     "geom:latitude":51.254662,
     "geom:longitude":5.707291,
@@ -24,17 +25,32 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.woonsfeer.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474531,
+        85633337,
+        101839297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QMfizKJ7Fsy6bzSXHyr3L_51.254662_5.707291@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802375,
-    "wof:geomhash":"41ca27b6b566ee7e01029ac6be17e0be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ffa756119cdc7bd6b735c2be92834428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474531,
+            "locality_id":101839297,
+            "region_id":85687033,
+            "venue_id":1091597467
+        }
+    ],
     "wof:id":1091597467,
-    "wof:lastmodified":1473878912,
+    "wof:lastmodified":1492509536,
     "wof:name":"Berntsen Woonsfeer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

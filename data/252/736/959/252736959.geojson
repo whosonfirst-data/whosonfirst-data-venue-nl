@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.852607,52.373341,4.852607,52.373341",
     "geom:latitude":52.373341,
     "geom:longitude":4.852607,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108804001,
+        1108802931,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5nk8ZH53qUOsxaQqUrlNnz_52.373341_4.852607@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"99a97926c526ac15e18f36fdf6e0dc66",
+    "wof:geomhash":"07df2d66db5956a32d8d6381abeb6209",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108804001,
+            "neighbourhood_id":1108802931,
             "region_id":85687053,
             "venue_id":252736959
         }
     ],
     "wof:id":252736959,
-    "wof:lastmodified":1473878480,
+    "wof:lastmodified":1492504972,
     "wof:name":"Match Makers",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108804001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

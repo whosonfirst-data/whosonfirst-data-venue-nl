@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.896336,52.356915,4.896336,52.356915",
     "geom:latitude":52.356915,
     "geom:longitude":4.896336,
@@ -33,9 +34,12 @@
     "sg:website":"http://www.westergarage.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803865,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_1cvyJfPCafUBZniUmA6YS7_52.356915_4.896336@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8dc350db214ac1f586bc2462475f6eac",
+    "wof:geomhash":"b4467c18725ab6fabf7f0dfef187a5e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803865,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":320120887
         }
     ],
     "wof:id":320120887,
-    "wof:lastmodified":1473878850,
+    "wof:lastmodified":1492481910,
     "wof:name":"Westergarage",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

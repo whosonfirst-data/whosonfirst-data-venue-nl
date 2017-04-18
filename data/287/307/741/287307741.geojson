@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.463804,51.980919,4.463804,51.980919",
     "geom:latitude":51.980919,
     "geom:longitude":4.463804,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798381,
+        102542781,
+        1108805865,
+        102191581,
         85633337,
-        101807023,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4OpHkCmd5hMW8VylY4U2WG_51.980919_4.463804@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0a611c71bb7904e199316a0eb02b04c2",
+    "wof:geomhash":"0297378b3c3ae3dc82cc1bd923a04add",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "campus_id":102542781,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101807023,
-            "neighbourhood_id":85798381,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805865,
             "region_id":85687041,
             "venue_id":287307741
         }
     ],
     "wof:id":287307741,
-    "wof:lastmodified":1473879203,
+    "wof:lastmodified":1492513172,
     "wof:name":"Fiscaal Support",
-    "wof:parent_id":85798381,
+    "wof:parent_id":102542781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

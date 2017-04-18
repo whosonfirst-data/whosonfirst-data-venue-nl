@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.894161,52.37225,4.894161,52.37225",
     "geom:latitude":52.37225,
     "geom:longitude":4.894161,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804175,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_3opzWJAVL01lbFl1D9c8Jl_52.372250_4.894161@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d87d5b4e16a425a75e623023d93f8b30",
+    "wof:geomhash":"3c1c8106b6836786e78c2c7d597e8ac2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804175,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":320218041
         }
     ],
     "wof:id":320218041,
-    "wof:lastmodified":1473879096,
+    "wof:lastmodified":1492482338,
     "wof:name":"Rally Wachtel",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

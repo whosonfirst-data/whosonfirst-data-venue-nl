@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.898518,52.363544,4.898518,52.363544",
     "geom:latitude":52.363544,
     "geom:longitude":4.898518,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803805,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_4mYcxrFtcHQqNLwA6pKWZc_52.363544_4.898518@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c2c7b1fa1721d5b87d1291db6a845128",
+    "wof:geomhash":"b39e29a32afb948bb5801e9c34d60ab2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803805,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":269779267
         }
     ],
     "wof:id":269779267,
-    "wof:lastmodified":1473879426,
+    "wof:lastmodified":1492496172,
     "wof:name":"Sickmann'S Snackhouse",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

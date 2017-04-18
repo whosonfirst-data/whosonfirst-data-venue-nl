@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.923259,52.365879,4.923259,52.365879",
     "geom:latitude":52.365879,
     "geom:longitude":4.923259,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804191,
+        1108802879,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7EZwc7x6Ss1l6yTwZAJEDi_52.365879_4.923259@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"44a150784894ad4ded062a6486169029",
+    "wof:geomhash":"ba949faa8915a29f6a6afa1a1ce3a028",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108804191,
+            "neighbourhood_id":1108802879,
             "region_id":85687053,
             "venue_id":287285835
         }
     ],
     "wof:id":287285835,
-    "wof:lastmodified":1473879189,
+    "wof:lastmodified":1492513111,
     "wof:name":"Amsterdam Medical Services Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804191,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

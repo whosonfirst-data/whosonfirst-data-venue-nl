@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877961,52.416229,4.877961,52.416229",
     "geom:latitude":52.416229,
     "geom:longitude":4.877961,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804079,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_7aPaCBG41GxDGOoTHTikf6_52.416229_4.877961@1306269993"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0e71be7c5912b29c2249f1acf2315b53",
+    "wof:geomhash":"1ba45168a27b0f43d2201bb1dad60eac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108804079,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":320012395
         }
     ],
     "wof:id":320012395,
-    "wof:lastmodified":1473878507,
+    "wof:lastmodified":1492483272,
     "wof:name":"Doevendans & Havermans",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108804079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

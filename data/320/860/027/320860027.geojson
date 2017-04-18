@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.128987,52.066696,5.128987,52.066696",
     "geom:latitude":52.066696,
     "geom:longitude":5.128987,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859943,
+        1108808795,
+        102191581,
+        1108832363,
         85633337,
+        101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_3sBAmFJkK5StSgO5wV1Hff_52.066696_5.128987@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2e010bbe633419880c85e6879f2af799",
+    "wof:geomhash":"e50ecc58af693cc01ef60a688e3b1fac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859943,
+            "locality_id":101751827,
+            "macrohood_id":1108832363,
+            "neighbourhood_id":1108808795,
             "region_id":85687039,
             "venue_id":320860027
         }
     ],
     "wof:id":320860027,
-    "wof:lastmodified":1473879637,
+    "wof:lastmodified":1492484168,
     "wof:name":"Van Waveren & Partners",
-    "wof:parent_id":85859943,
+    "wof:parent_id":1108808795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

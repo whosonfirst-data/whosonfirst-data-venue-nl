@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.921694,52.334705,4.921694,52.334705",
     "geom:latitude":52.334705,
     "geom:longitude":4.921694,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804033,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4toKMPj4fMv2M8sJZCcV6y_52.334705_4.921694@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"31cb5555831b7bf677759bc72cad3f0a",
+    "wof:geomhash":"85f990a32b42c604c73fbd8b0ee9a513",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804033,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":320689437
         }
     ],
     "wof:id":320689437,
-    "wof:lastmodified":1473879558,
+    "wof:lastmodified":1492482524,
     "wof:name":"Rbv Leaf Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

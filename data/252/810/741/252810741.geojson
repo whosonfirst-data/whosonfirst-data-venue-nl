@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.856706,52.384109,4.856706,52.384109",
     "geom:latitude":52.384109,
     "geom:longitude":4.856706,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803867,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0azm2UHuWP0eZg7dhdo1Iv_52.384109_4.856706@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"42141dcb5b60d83b11205126e9d9b309",
+    "wof:geomhash":"31037d7357da8689d96aff4f3ca19668",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803867,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":252810741
         }
     ],
     "wof:id":252810741,
-    "wof:lastmodified":1473878551,
+    "wof:lastmodified":1492505713,
     "wof:name":"Evidens Onderzoekdiensten",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803867,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

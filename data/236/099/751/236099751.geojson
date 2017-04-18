@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.937641,52.400646,4.937641,52.400646",
     "geom:latitude":52.400646,
     "geom:longitude":4.937641,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803219,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1rsOoSIWdeIfC4apvvSdxt_52.400646_4.937641@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f3427d5b749767a9bfe403753cb6d3aa",
+    "wof:geomhash":"348d5269f89a03b270a44d22fa87bd81",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803219,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":236099751
         }
     ],
     "wof:id":236099751,
-    "wof:lastmodified":1473878757,
+    "wof:lastmodified":1492494655,
     "wof:name":"R. Van Den Hoek",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

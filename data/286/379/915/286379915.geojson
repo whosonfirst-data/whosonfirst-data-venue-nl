@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880857,52.379475,4.880857,52.379475",
     "geom:latitude":52.379475,
     "geom:longitude":4.880857,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803955,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0SskNd59tSs8PNtw4bT6kH_52.379475_4.880857@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"31b1453cfc805d3949e26bbc04eb47a6",
+    "wof:geomhash":"3dda812c3cdfcf2078d096c518574a7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803955,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":286379915
         }
     ],
     "wof:id":286379915,
-    "wof:lastmodified":1473878911,
+    "wof:lastmodified":1492477669,
     "wof:name":"Juffermans & Van Der Kroon",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

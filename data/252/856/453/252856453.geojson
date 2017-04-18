@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.931078,52.354187,4.931078,52.354187",
     "geom:latitude":52.354187,
     "geom:longitude":4.931078,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803929,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5u2ShIi2owL82dDB7CAeXZ_52.354187_4.931078@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ddc1ee23e1544322d4ad5bd83f0e6e77",
+    "wof:geomhash":"6754b735ffd75be1baf1ea04f027d874",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803929,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":252856453
         }
     ],
     "wof:id":252856453,
-    "wof:lastmodified":1473878703,
+    "wof:lastmodified":1492505430,
     "wof:name":"Van Haeften'S Horophoon",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

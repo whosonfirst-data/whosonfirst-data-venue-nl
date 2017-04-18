@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1578621864,51.9961891174,4.1578621864,51.9961891174",
     "geom:latitude":51.996189,
     "geom:longitude":4.157862,
@@ -23,17 +24,32 @@
     "sg:postcode":"2692 DA",
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
+        85633337,
+        101808481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CFdKHKbbM5xRF4c8bD37v_51.996189_4.157862@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801348,
-    "wof:geomhash":"a428db559f323807e8f63b442b65f625",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45ef09a888c21f95bfd1cc45d3907b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474667,
+            "locality_id":101808481,
+            "region_id":85687041,
+            "venue_id":1091583211
+        }
+    ],
     "wof:id":1091583211,
-    "wof:lastmodified":1473878660,
+    "wof:lastmodified":1492511548,
     "wof:name":"Boka",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

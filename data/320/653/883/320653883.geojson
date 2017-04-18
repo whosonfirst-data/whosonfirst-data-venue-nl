@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.855542,52.342667,4.855542,52.342667",
     "geom:latitude":52.342667,
     "geom:longitude":4.855542,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.meetingmasters.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803559,
+        1108802917,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_0UyjLrzvWM5v1pAt3HyTqH_52.342667_4.855542@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"72f1a43c1df512ac77d5f9631810db9d",
+    "wof:geomhash":"b45c202d706ec0c1eadb51c40471b468",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803559,
+            "neighbourhood_id":1108802917,
             "region_id":85687053,
             "venue_id":320653883
         }
     ],
     "wof:id":320653883,
-    "wof:lastmodified":1473879476,
+    "wof:lastmodified":1492483810,
     "wof:name":"Meeting Plaza Amsterdam",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803559,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

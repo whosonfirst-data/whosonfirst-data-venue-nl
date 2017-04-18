@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.254082,52.065506,4.254082,52.065506",
     "geom:latitude":52.065506,
     "geom:longitude":4.254082,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797811,
+        1108808209,
+        102191581,
+        1108808133,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7WLcXHDZYuvFGGFSAKrDiK_52.065506_4.254082@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f100329a112672b84baefd7f13ea02b6",
+    "wof:geomhash":"8b6dc7aaa2ebbcee0d1390fb93c3d9fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797811,
+            "macrohood_id":1108808133,
+            "neighbourhood_id":1108808209,
             "region_id":85687041,
             "venue_id":236023853
         }
     ],
     "wof:id":236023853,
-    "wof:lastmodified":1473878571,
+    "wof:lastmodified":1492492715,
     "wof:name":"Bar Bodega Trocadero",
-    "wof:parent_id":85797811,
+    "wof:parent_id":1108808209,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

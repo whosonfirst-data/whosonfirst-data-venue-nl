@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8985171318,52.6268501282,4.8985171318,52.6268501282",
     "geom:latitude":52.62685,
     "geom:longitude":4.898517,
@@ -24,17 +25,32 @@
     "sg:province":"North Holland",
     "sg:website":"http://www.suc6.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474551,
+        85633337,
+        101807401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74kyiViHh8M6nhfd9ANHln_52.626850_4.898517@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800815,
-    "wof:geomhash":"edcd909bcd51073d01141c4575e14b8f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58485d89d79e2fe7a0aa16a04681d26d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474551,
+            "locality_id":101807401,
+            "region_id":85687053,
+            "venue_id":1091575257
+        }
+    ],
     "wof:id":1091575257,
-    "wof:lastmodified":1473878859,
+    "wof:lastmodified":1492511108,
     "wof:name":"Suc6",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5490961075,51.9215278625,4.5490961075,51.9215278625",
     "geom:latitude":51.921528,
     "geom:longitude":4.549096,
@@ -25,12 +26,14 @@
     "sg:website":"http://www.recruitmentadvisors.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797253,
+        1108805861,
         102191581,
-        404474163,
         85633337,
-        101754669,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,22 +41,32 @@
     },
     "wof:country":"NL",
     "wof:created":1473802024,
-    "wof:geomhash":"e1a6698f4355158bc3c525967e0a90a0",
+    "wof:geomhash":"5e6ee2b128802867ea95b27a71dd3e34",
     "wof:hierarchy":[
         {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805861,
+            "region_id":85687041,
+            "venue_id":1091591563
+        },
+        {
+            "borough_id":1108805725,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474163,
-            "locality_id":101754669,
-            "neighbourhood_id":85797253,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805861,
             "region_id":85687041,
             "venue_id":1091591563
         }
     ],
     "wof:id":1091591563,
-    "wof:lastmodified":1473878550,
+    "wof:lastmodified":1492509627,
     "wof:name":"Recruitment Advisors",
-    "wof:parent_id":85797253,
+    "wof:parent_id":1108805861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.537875,51.947086,4.537875,51.947086",
     "geom:latitude":51.947086,
     "geom:longitude":4.537875,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        85797053,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FG6sc6loEedrpL2SOVWQZ_51.947086_4.537875@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"16dcc3da1afbb711ecf69aa3850ce819",
+    "wof:geomhash":"90b1b009695e524623a066e2db4d176b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797053,
+            "region_id":85687041,
+            "venue_id":320129921
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "neighbourhood_id":85797053,
             "region_id":85687041,
             "venue_id":320129921
         }
     ],
     "wof:id":320129921,
-    "wof:lastmodified":1473878919,
+    "wof:lastmodified":1492484324,
     "wof:name":"H. Schuurink Spuit Isolatie Reiniging Bv",
-    "wof:parent_id":85798329,
+    "wof:parent_id":85797053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

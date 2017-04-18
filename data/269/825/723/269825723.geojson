@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.143299,51.36187,6.143299,51.36187",
     "geom:latitude":51.36187,
     "geom:longitude":6.143299,
@@ -33,40 +34,41 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797131,
         85633337,
-        101839287,
+        85797195,
         85687033,
-        85797195
+        85797131,
+        102191581,
+        404474525,
+        101839287
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CPTeyKmCp2lSgtbtWU5Z3_51.361870_6.143299@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b3721f6569c570cb92aa8dc25babc6b5",
+    "wof:geomhash":"92e0fb0bdc0417aa90aa6cb8188b8b96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101839287,
-            "neighbourhood_id":85797131,
+            "neighbourhood_id":85797195,
             "region_id":85687033,
             "venue_id":269825723
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797195,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "neighbourhood_id":85797131,
             "region_id":85687033,
             "venue_id":269825723
         }
     ],
     "wof:id":269825723,
-    "wof:lastmodified":1473879513,
+    "wof:lastmodified":1492496097,
     "wof:name":"Restaurant Mandarin",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

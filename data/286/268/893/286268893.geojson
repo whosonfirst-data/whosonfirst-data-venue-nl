@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876197,52.353828,4.876197,52.353828",
     "geom:latitude":52.353828,
     "geom:longitude":4.876197,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804009,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_1zdz2MZvyKi5HKtor3G4im_52.353828_4.876197@1306269967"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8ec81adceb7bad510cd999404661163e",
+    "wof:geomhash":"e03ca7dfbc46ea4b50eced07462c9604",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804009,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":286268893
         }
     ],
     "wof:id":286268893,
-    "wof:lastmodified":1473878554,
+    "wof:lastmodified":1492476653,
     "wof:name":"Nicolaas Maesschool",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

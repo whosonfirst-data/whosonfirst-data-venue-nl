@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.939689,52.364777,4.939689,52.364777",
     "geom:latitude":52.364777,
     "geom:longitude":4.939689,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803917,
+        1108802843,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_3m4AVTJv11qOXlCCsx9xbD_52.364777_4.939689@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dce6ca2b9cab6356f78413a907b64b41",
+    "wof:geomhash":"8680be5ddf97d1a6bc047a1bff42014f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803917,
+            "neighbourhood_id":1108802843,
             "region_id":85687053,
             "venue_id":303131019
         }
     ],
     "wof:id":303131019,
-    "wof:lastmodified":1473878740,
+    "wof:lastmodified":1492472359,
     "wof:name":"Bartels",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

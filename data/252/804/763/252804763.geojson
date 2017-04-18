@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.891634,52.356644,4.891634,52.356644",
     "geom:latitude":52.356644,
     "geom:longitude":4.891634,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803865,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6IKDHy3eHggEwpzCe5YFwZ_52.356644_4.891634@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d5c7bddb94ee415d69e3f4b94b3a367e",
+    "wof:geomhash":"804070c03d10cf4f687a55b3939307cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803865,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":252804763
         }
     ],
     "wof:id":252804763,
-    "wof:lastmodified":1473878552,
+    "wof:lastmodified":1492505675,
     "wof:name":"Admission Agency Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

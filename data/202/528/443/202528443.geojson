@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.283351,52.073997,4.283351,52.073997",
     "geom:latitude":52.073997,
     "geom:longitude":4.283351,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797151,
+        1108808215,
+        102191581,
+        1108808117,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_3fxBnGmumnuIVcmllNb8Xz_52.073997_4.283351@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"286ee0ce007a4c965fcdd51c198b2ecb",
+    "wof:geomhash":"5f2a1661e4915bc5c07e57f7adaced1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797151,
+            "macrohood_id":1108808117,
+            "neighbourhood_id":1108808215,
             "region_id":85687041,
             "venue_id":202528443
         }
     ],
     "wof:id":202528443,
-    "wof:lastmodified":1473878878,
+    "wof:lastmodified":1492497497,
     "wof:name":"Videodome",
-    "wof:parent_id":85797151,
+    "wof:parent_id":1108808215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

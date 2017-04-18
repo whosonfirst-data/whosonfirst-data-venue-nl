@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.316849,52.079872,4.316849,52.079872",
     "geom:latitude":52.079872,
     "geom:longitude":4.316849,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808251,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_0dI8qoGdZsmUy5HMQpeEOU_52.079872_4.316849@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"119f848d2135691c7a9e4b1095ce0878",
+    "wof:geomhash":"2ff63085be34bb70cbc67e1929f7b3d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808251,
             "region_id":85687041,
             "venue_id":269789307
         }
     ],
     "wof:id":269789307,
-    "wof:lastmodified":1473879472,
+    "wof:lastmodified":1492495096,
     "wof:name":"Snackbar Syed",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

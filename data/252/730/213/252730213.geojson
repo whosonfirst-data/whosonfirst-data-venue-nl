@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.319696,52.075432,4.319696,52.075432",
     "geom:latitude":52.075432,
     "geom:longitude":4.319696,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808255,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6nGntyYp3Xtt5Emilqykmd_52.075432_4.319696@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4cd3b450fd69b104d693ec5195eba803",
+    "wof:geomhash":"8f33439d361f5974b9f6cd827a7ec522",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808255,
             "region_id":85687041,
             "venue_id":252730213
         }
     ],
     "wof:id":252730213,
-    "wof:lastmodified":1473878463,
+    "wof:lastmodified":1492505014,
     "wof:name":"Haagse Wooncentrale",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

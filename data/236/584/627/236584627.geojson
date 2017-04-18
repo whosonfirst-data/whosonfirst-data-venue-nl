@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.330486,52.067883,4.330486,52.067883",
     "geom:latitude":52.067883,
     "geom:longitude":4.330486,
@@ -24,31 +25,49 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808305,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wfjgI2m1BFBCVnPbzR19j_52.067883_4.330486@1306269939"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b8eaa1584b1e6d47374de3f138f307c6",
+    "wof:geomhash":"b8e21e648e7e415653143417418a3d1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808305,
+            "region_id":85687041,
+            "venue_id":236584627
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808305,
             "region_id":85687041,
             "venue_id":236584627
         }
     ],
     "wof:id":236584627,
-    "wof:lastmodified":1473879413,
+    "wof:lastmodified":1492493147,
     "wof:name":"Garagebedrijf T.G. Brouwer",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808305,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

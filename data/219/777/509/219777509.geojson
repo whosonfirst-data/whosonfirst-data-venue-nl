@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.896968,52.372356,4.896968,52.372356",
     "geom:latitude":52.372356,
     "geom:longitude":4.896968,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803883,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_01M5eNNm0nNpyrRe4r2eqC_52.372356_4.896968@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e2b9b9048188a5a7967c0d194b190c78",
+    "wof:geomhash":"1f3dd31f5c6f70b3c22af33fd1c604ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803883,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":219777509
         }
     ],
     "wof:id":219777509,
-    "wof:lastmodified":1473879708,
+    "wof:lastmodified":1492503006,
     "wof:name":"Duijm",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

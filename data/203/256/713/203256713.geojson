@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.267714,52.102184,4.267714,52.102184",
     "geom:latitude":52.102184,
     "geom:longitude":4.267714,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808161,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_4vtLoCbfPVKmhL5jm3H5Bc_52.102184_4.267714@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"63c9be0c2b5a18b4a7c48720518a1129",
+    "wof:geomhash":"dbeb8fb8730c41bcb801371025794580",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808161,
             "region_id":85687041,
             "venue_id":203256713
         }
     ],
     "wof:id":203256713,
-    "wof:lastmodified":1473879211,
+    "wof:lastmodified":1492479929,
     "wof:name":"Het Haringhuisje C G Antonisse",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.868831,52.366177,4.868831,52.366177",
     "geom:latitude":52.366177,
     "geom:longitude":4.868831,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803675,
+        1108802933,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2mVPn3KPtEUGLFjC7mmBro_52.366177_4.868831@1306269982"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f481a5059f0f3115232a129605972dd8",
+    "wof:geomhash":"dc55af6bc6ed4bf8b33589e180f0763b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803675,
+            "neighbourhood_id":1108802933,
             "region_id":85687053,
             "venue_id":303341555
         }
     ],
     "wof:id":303341555,
-    "wof:lastmodified":1473879141,
+    "wof:lastmodified":1492471351,
     "wof:name":"Haren Bv, Van",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

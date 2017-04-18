@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6781377792,52.0061531067,5.6781377792,52.0061531067",
     "geom:latitude":52.006153,
     "geom:longitude":5.678138,
@@ -23,17 +24,32 @@
     "sg:postcode":"6721 CB",
     "sg:province":"Gelderland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473893,
+        85633337,
+        101837743
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ErnY4QcGitZPQ6ZMLZMMh_52.006153_5.678138@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802548,
-    "wof:geomhash":"13f9180168c20b9421d5aa59bc69706d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05fe93068652b1aaedd66e00d9b4fee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473893,
+            "locality_id":101837743,
+            "region_id":85687043,
+            "venue_id":1091600511
+        }
+    ],
     "wof:id":1091600511,
-    "wof:lastmodified":1473878501,
+    "wof:lastmodified":1492513046,
     "wof:name":"Verhoef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.942897,52.354641,4.942897,52.354641",
     "geom:latitude":52.354641,
     "geom:longitude":4.942897,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804217,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5cFUwXyk82XDTQxwbawIlJ_52.354641_4.942897@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a7d7ad8170730fd84922e6be3a67cc04",
+    "wof:geomhash":"37efff988b4c6b4f17e932f10fb31b7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804217,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":219544359
         }
     ],
     "wof:id":219544359,
-    "wof:lastmodified":1473879382,
+    "wof:lastmodified":1492502757,
     "wof:name":"Ab & B",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

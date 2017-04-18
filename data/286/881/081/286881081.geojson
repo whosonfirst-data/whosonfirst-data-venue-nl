@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88693,52.41188,4.88693,52.41188",
     "geom:latitude":52.41188,
     "geom:longitude":4.88693,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803211,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1PkCfbukH4lD2jpn2vKfvE_52.411880_4.886930@1306269974"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d4d21d3b0a18ea5e59297051872d641d",
+    "wof:geomhash":"496904fd87fd8b520d08e78f794e5365",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803211,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":286881081
         }
     ],
     "wof:id":286881081,
-    "wof:lastmodified":1473879659,
+    "wof:lastmodified":1492476701,
     "wof:name":"Bloemsierkunst J.J. Eichelberg",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

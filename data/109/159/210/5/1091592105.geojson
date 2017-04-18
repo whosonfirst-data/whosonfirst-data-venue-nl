@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9460868835,50.8552284241,5.9460868835,50.8552284241",
     "geom:latitude":50.855228,
     "geom:longitude":5.946087,
@@ -24,17 +25,32 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.adriennevangils.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474529,
+        85633337,
+        101810587
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DTOiUiGqqzXpuvGBqwdpE_50.855228_5.946087@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802051,
-    "wof:geomhash":"62813d4ff1c63706247f6df24d5abc89",
-    "wof:hierarchy":[],
+    "wof:geomhash":"453d3aaa0eaa73a21a73bf011fc050c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474529,
+            "locality_id":101810587,
+            "region_id":85687033,
+            "venue_id":1091592105
+        }
+    ],
     "wof:id":1091592105,
-    "wof:lastmodified":1473878581,
+    "wof:lastmodified":1492509512,
     "wof:name":"Adrienne Van Gils",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

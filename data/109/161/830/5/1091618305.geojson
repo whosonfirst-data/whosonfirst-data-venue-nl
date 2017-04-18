@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4646019936,52.1939926147,5.4646019936,52.1939926147",
     "geom:latitude":52.193993,
     "geom:longitude":5.464602,
@@ -23,17 +24,32 @@
     "sg:postcode":"3864 GB",
     "sg:province":"Gelderland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473921,
+        85633337,
+        101807077
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pc98uacmay8oWXH2HCRSJ_52.193993_5.464602@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803828,
-    "wof:geomhash":"05a6f34bb87c37b6d1495e9bc58a3403",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8690232b4dcb999c076ccadab5b6fc0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473921,
+            "locality_id":101807077,
+            "region_id":85687043,
+            "venue_id":1091618305
+        }
+    ],
     "wof:id":1091618305,
-    "wof:lastmodified":1473878980,
+    "wof:lastmodified":1492510749,
     "wof:name":"Alice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

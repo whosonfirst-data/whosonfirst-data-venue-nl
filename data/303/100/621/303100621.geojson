@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.084913,52.128086,5.084913,52.128086",
     "geom:latitude":52.128086,
     "geom:longitude":5.084913,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808701,
+        102191581,
+        1108832365,
         85633337,
         101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5HltlFICyhcO8fEiuPg9QK_52.128086_5.084913@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"43f3a056b84e9a6c4533bb496c2ba6a1",
+    "wof:geomhash":"83146ff8953257add5d307584ff26274",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808701,
             "region_id":85687039,
             "venue_id":303100621
         }
     ],
     "wof:id":303100621,
-    "wof:lastmodified":1473878652,
+    "wof:lastmodified":1492471698,
     "wof:name":"Technische Unie Bv",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

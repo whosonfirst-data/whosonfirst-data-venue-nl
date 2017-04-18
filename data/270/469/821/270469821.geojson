@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.11963,52.0634,5.11963,52.0634",
     "geom:latitude":52.0634,
     "geom:longitude":5.11963,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797727,
+        1108808809,
+        102191581,
+        1108808645,
         85633337,
         101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_5nd7TXPDAgPJ2vdtPmQTvj_52.063400_5.119630@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"31c46ef849e2fea02ee361db840e8828",
+    "wof:geomhash":"323cd7148157586d7532c3949b32474c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797727,
+            "macrohood_id":1108808645,
+            "neighbourhood_id":1108808809,
             "region_id":85687039,
             "venue_id":270469821
         }
     ],
     "wof:id":270469821,
-    "wof:lastmodified":1473879285,
+    "wof:lastmodified":1492501432,
     "wof:name":"Ariensschool",
-    "wof:parent_id":85797727,
+    "wof:parent_id":1108808809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

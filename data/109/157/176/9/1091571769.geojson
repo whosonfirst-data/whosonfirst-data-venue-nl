@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"124.499458313,7.0090498924,124.499458313,7.0090498924",
     "geom:latitude":7.00905,
     "geom:longitude":124.499458,
@@ -23,17 +24,30 @@
     "sg:postcode":"9607 PH",
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        "102191569",
+        "85632509",
+        85676173,
+        1108697459
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SErXNd4XoYXJKjcqhamcB_7.009050_124.499458@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800593,
-    "wof:geomhash":"11322174cb562506ca0cb501bb5aa282",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e22c84a297da636ab80babc9a4895c12",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632509",
+            "county_id":1108697459,
+            "region_id":85676173,
+            "venue_id":1091571769
+        }
+    ],
     "wof:id":1091571769,
-    "wof:lastmodified":1473878555,
+    "wof:lastmodified":1492511019,
     "wof:name":"Boer, M P De",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.133793,52.060997,5.133793,52.060997",
     "geom:latitude":52.060997,
     "geom:longitude":5.133793,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859943,
+        1108808797,
+        102191581,
+        1108832363,
         85633337,
+        101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_2ghoa61jKWOf6A6R9RBkmz_52.060997_5.133793@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b70f974ecb10d79e6b70f7db59495fca",
+    "wof:geomhash":"088cad311703651f40678917222f267d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859943,
+            "locality_id":101751827,
+            "macrohood_id":1108832363,
+            "neighbourhood_id":1108808797,
             "region_id":85687039,
             "venue_id":303384823
         }
     ],
     "wof:id":303384823,
-    "wof:lastmodified":1473879149,
+    "wof:lastmodified":1492473815,
     "wof:name":"Baanbreker Prot Chr, De",
-    "wof:parent_id":85859943,
+    "wof:parent_id":1108808797,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

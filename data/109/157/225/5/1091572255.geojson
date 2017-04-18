@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2979030609,51.5092773438,4.2979030609,51.5092773438",
     "geom:latitude":51.509277,
     "geom:longitude":4.297903,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.deepweb.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474351,
+        85633337,
+        101839323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24ne1BDpXEWJ5ch1Qr4s80_51.509277_4.297903@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800619,
-    "wof:geomhash":"fd5839d8275ac40b8d9da42783c99097",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1332883706cc95d5d27e58e321efa92d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474351,
+            "locality_id":101839323,
+            "region_id":85687035,
+            "venue_id":1091572255
+        }
+    ],
     "wof:id":1091572255,
-    "wof:lastmodified":1473878617,
+    "wof:lastmodified":1492510975,
     "wof:name":"Deepweb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

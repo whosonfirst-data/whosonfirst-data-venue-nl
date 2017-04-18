@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.577979,51.964268,4.577979,51.964268",
     "geom:latitude":51.964268,
     "geom:longitude":4.577979,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798779,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RwNCMd2S6efsA1gMtDsfq_51.964268_4.577979@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c47051a38262fb6bae2d7daf03243371",
+    "wof:geomhash":"85693e8ee3e378d996ee0f4a77802323",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798779,
+            "region_id":85687041,
+            "venue_id":219544825
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798779,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":219544825,
-    "wof:lastmodified":1473879379,
+    "wof:lastmodified":1492502758,
     "wof:name":"Abaco Int Bv",
     "wof:parent_id":85798779,
     "wof:placetype":"venue",

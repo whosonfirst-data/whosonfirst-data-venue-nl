@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.267281,52.071117,4.267281,52.071117",
     "geom:latitude":52.071117,
     "geom:longitude":4.267281,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        1108808211,
+        102191581,
+        1108808125,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_4ssZlRlG9z6zabgb3s5FRv_52.071117_4.267281@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"18d5e52a3e4c594dffe73d4b7704e36b",
+    "wof:geomhash":"75f7ec2ef89120d2bb105eeeb24512ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
+            "macrohood_id":1108808125,
+            "neighbourhood_id":1108808211,
             "region_id":85687041,
             "venue_id":269763197
         }
     ],
     "wof:id":269763197,
-    "wof:lastmodified":1473879393,
+    "wof:lastmodified":1492496041,
     "wof:name":"Hortensia Snackbar",
-    "wof:parent_id":85859605,
+    "wof:parent_id":1108808211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

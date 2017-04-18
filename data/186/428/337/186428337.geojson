@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.270956,52.072578,4.270956,52.072578",
     "geom:latitude":52.072578,
     "geom:longitude":4.270956,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        1108808211,
+        102191581,
+        1108808125,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_07dkpmGhcAWjILMq8eRdNs_52.072578_4.270956@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1e1d73fb706222ea01349cb198ecb1d3",
+    "wof:geomhash":"a0ce8e16db6ef2654f716d8ee25000d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
+            "macrohood_id":1108808125,
+            "neighbourhood_id":1108808211,
             "region_id":85687041,
             "venue_id":186428337
         }
     ],
     "wof:id":186428337,
-    "wof:lastmodified":1473879436,
+    "wof:lastmodified":1492507597,
     "wof:name":"Klojo",
-    "wof:parent_id":85859605,
+    "wof:parent_id":1108808211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

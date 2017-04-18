@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885105,52.333729,4.885105,52.333729",
     "geom:latitude":52.333729,
     "geom:longitude":4.885105,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.stavc.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803873,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_5ChpsxZ5XuKeFdmfMtdTec_52.333729_4.885105@1306269911"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a6295af4cf705a9e35b6a564f0e0d962",
+    "wof:geomhash":"9fd952b5f33c66b34cbf071a1fe266bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803873,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":186320459
         }
     ],
     "wof:id":186320459,
-    "wof:lastmodified":1473879272,
+    "wof:lastmodified":1492508101,
     "wof:name":"Aanpak Voertuigcriminaliteit",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

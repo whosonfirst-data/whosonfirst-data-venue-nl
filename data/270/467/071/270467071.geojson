@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.897713,52.364689,4.897713,52.364689",
     "geom:latitude":52.364689,
     "geom:longitude":4.897713,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803805,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_4WNjttkGvk6g3f23Uxqn28_52.364689_4.897713@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"417a85df2e4030509ebf0db9936628a4",
+    "wof:geomhash":"cc590a485220fe852f37a4a6e87ae3c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803805,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":270467071
         }
     ],
     "wof:id":270467071,
-    "wof:lastmodified":1473879270,
+    "wof:lastmodified":1492499414,
     "wof:name":"J C Stuffers",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

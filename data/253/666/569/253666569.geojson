@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.308531,52.088715,4.308531,52.088715",
     "geom:latitude":52.088715,
     "geom:longitude":4.308531,
@@ -33,9 +34,12 @@
     "sg:website":"http://www.lalanterna.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808223,
+        102191581,
+        1108808065,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_59ZVJsj5cjOf5Y7PILjeN3_52.088715_4.308531@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"df8b3465e4db231b927dfb515d5622bb",
+    "wof:geomhash":"fa0d92adf0d8ac83a14636a082f6a88b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808065,
+            "neighbourhood_id":1108808223,
             "region_id":85687041,
             "venue_id":253666569
         }
     ],
     "wof:id":253666569,
-    "wof:lastmodified":1473879698,
+    "wof:lastmodified":1492491192,
     "wof:name":"Lanterna",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

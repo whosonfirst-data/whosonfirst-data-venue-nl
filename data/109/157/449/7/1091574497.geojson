@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5373902321,53.1937103271,5.5373902321,53.1937103271",
     "geom:latitude":53.19371,
     "geom:longitude":5.53739,
@@ -24,17 +25,32 @@
     "sg:province":"Provincie Friesland",
     "sg:website":"http://www.ploeg-it.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687055,
+        102191581,
+        404473767,
+        85633337,
+        101806163
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5w5EwTNVXtTjredrysoMFD_53.193710_5.537390@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800760,
-    "wof:geomhash":"7a93d7a4ade03344c64dfdcb76a73ae0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4392f9036a3fb2dc034c326d822a407c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473767,
+            "locality_id":101806163,
+            "region_id":85687055,
+            "venue_id":1091574497
+        }
+    ],
     "wof:id":1091574497,
-    "wof:lastmodified":1473878786,
+    "wof:lastmodified":1492511425,
     "wof:name":"Ploeg-It",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

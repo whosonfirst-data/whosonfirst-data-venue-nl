@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.789299,52.34845,4.789299,52.34845",
     "geom:latitude":52.34845,
     "geom:longitude":4.789299,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108804159,
+        1108802857,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1Db40TgU7kViE8kyLEROBC_52.348450_4.789299@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"60731c471e49d73dd11406da51c60474",
+    "wof:geomhash":"72e7a719e911e1d14dd50a8179ae1967",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108804159,
+            "neighbourhood_id":1108802857,
             "region_id":85687053,
             "venue_id":186115877
         }
     ],
     "wof:id":186115877,
-    "wof:lastmodified":1473879003,
+    "wof:lastmodified":1492507743,
     "wof:name":"Kunsthandel Opdam",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108804159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

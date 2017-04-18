@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882287,52.334099,4.882287,52.334099",
     "geom:latitude":52.334099,
     "geom:longitude":4.882287,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803873,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3sPRzYlCc7gHpbZ2cWeBxK_52.334099_4.882287@1306269984"
     },
     "wof:country":"NL",
-    "wof:geomhash":"015eb5e8abd8d3e513323fe91137736d",
+    "wof:geomhash":"d1ab79cc2a9f63807f8a88f07acfc481",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803873,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":303459373
         }
     ],
     "wof:id":303459373,
-    "wof:lastmodified":1473879184,
+    "wof:lastmodified":1492474663,
     "wof:name":"World Of Our Own Wooo",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

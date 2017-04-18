@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.886406,52.390369,4.886406,52.390369",
     "geom:latitude":52.390369,
     "geom:longitude":4.886406,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803869,
+        1108802911,
+        102191581,
         85633337,
+        101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1R5Zu94KsmSnLm25p7wCVJ_52.390369_4.886406@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c245986f81f0152111bf818271f555f6",
+    "wof:geomhash":"b943298d9d51eefdbc102691f6f745c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803869,
+            "neighbourhood_id":1108802911,
             "region_id":85687053,
             "venue_id":253214897
         }
     ],
     "wof:id":253214897,
-    "wof:lastmodified":1473879220,
+    "wof:lastmodified":1492488509,
     "wof:name":"G.J. Vos",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803869,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

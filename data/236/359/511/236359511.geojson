@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881644,52.380188,4.881644,52.380188",
     "geom:latitude":52.380188,
     "geom:longitude":4.881644,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804285,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2V2YGsxWgogNRhBxXzke0J_52.380188_4.881644@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d4a029d09fe702454eae9d7fd3a13676",
+    "wof:geomhash":"c48f2cb83af5f646d0d17cee6e34bef8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804285,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":236359511
         }
     ],
     "wof:id":236359511,
-    "wof:lastmodified":1473879226,
+    "wof:lastmodified":1492492419,
     "wof:name":"C.P. Schrader Architect",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

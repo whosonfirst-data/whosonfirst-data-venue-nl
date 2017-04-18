@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.863459,52.327904,4.863459,52.327904",
     "geom:latitude":52.327904,
     "geom:longitude":4.863459,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803485,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3LveesZbEIGPNwPXpZlx1S_52.327904_4.863459@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e53856a0d736dcdc3eb78f33334a4a05",
+    "wof:geomhash":"4189758a5441cb2ae63c4f6f363d874c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803485,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":252859339
         }
     ],
     "wof:id":252859339,
-    "wof:lastmodified":1473878691,
+    "wof:lastmodified":1492505706,
     "wof:name":"Deutronic",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

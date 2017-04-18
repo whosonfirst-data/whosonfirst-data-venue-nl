@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.856575,52.349548,4.856575,52.349548",
     "geom:latitude":52.349548,
     "geom:longitude":4.856575,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803439,
+        1108802899,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2AoBE38zeijBfC75eQSAAm_52.349548_4.856575@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3b6b63ed7d3e302576772635c71669ad",
+    "wof:geomhash":"734736f707584b98d6b10cbaba8f31a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803439,
+            "neighbourhood_id":1108802899,
             "region_id":85687053,
             "venue_id":303039815
         }
     ],
     "wof:id":303039815,
-    "wof:lastmodified":1473878432,
+    "wof:lastmodified":1492474894,
     "wof:name":"Groothandel Wws",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.909481,52.359039,4.909481,52.359039",
     "geom:latitude":52.359039,
     "geom:longitude":4.909481,
@@ -24,40 +25,38 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803279,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
-        85687053,
-        85798627
+        1108802289,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0N6zbNyw3ZCf8ySKDtv2fe_52.359039_4.909481@1306269923"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7cdcb4d522b288f78e0da962f0ce53e9",
+    "wof:geomhash":"0d33aa390d163084641f42ab3b424e8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
-            "region_id":85687053,
-            "venue_id":203419355
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803279,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":203419355
         }
     ],
     "wof:id":203419355,
-    "wof:lastmodified":1473879342,
+    "wof:lastmodified":1492479776,
     "wof:name":"Geo-Informatie Amsterdam",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108803279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

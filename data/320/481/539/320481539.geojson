@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.865858,52.366009,4.865858,52.366009",
     "geom:latitude":52.366009,
     "geom:longitude":4.865858,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803895,
+        1108802849,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6xY55ehqFATpOr8HEvqcAL_52.366009_4.865858@1306269998"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f1354eeb7ad86f2e506844c7eaee2452",
+    "wof:geomhash":"d654b30192f458ec6d77f362e18304e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803895,
+            "neighbourhood_id":1108802849,
             "region_id":85687053,
             "venue_id":320481539
         }
     ],
     "wof:id":320481539,
-    "wof:lastmodified":1473879335,
+    "wof:lastmodified":1492483136,
     "wof:name":"Intuitive Design",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

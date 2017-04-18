@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.861089,52.363506,4.861089,52.363506",
     "geom:latitude":52.363506,
     "geom:longitude":4.861089,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803401,
+        1108802933,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3UkBqCOBOz6MTL0C8rf1EB_52.363506_4.861089@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ac1408a40101c8d0bc5ab8606b163f55",
+    "wof:geomhash":"7c019a657bba125c37cb96c642794383",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803401,
+            "neighbourhood_id":1108802933,
             "region_id":85687053,
             "venue_id":202828433
         }
     ],
     "wof:id":202828433,
-    "wof:lastmodified":1473879320,
+    "wof:lastmodified":1492497542,
     "wof:name":"Fisher, A M",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803401,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

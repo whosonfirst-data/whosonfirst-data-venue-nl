@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.81429,52.399754,4.81429,52.399754",
     "geom:latitude":52.399754,
     "geom:longitude":4.81429,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798675,
+        1108803963,
+        1108802955,
+        102191581,
         85633337,
+        101751893,
+        1108802287,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_61rUk24oWmboFWko6Whqic_52.399754_4.814290@1306269935"
     },
     "wof:country":"NL",
-    "wof:geomhash":"50da580e897fb5b88da9aac9fa41298d",
+    "wof:geomhash":"5dcfa7c18dff9feab6b9e4ab15240e3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802287,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798675,
+            "locality_id":101751893,
+            "microhood_id":1108803963,
+            "neighbourhood_id":1108802955,
             "region_id":85687053,
             "venue_id":236172115
         }
     ],
     "wof:id":236172115,
-    "wof:lastmodified":1473878874,
+    "wof:lastmodified":1492491487,
     "wof:name":"Haven Beveiliging Amsterdam",
-    "wof:parent_id":85798675,
+    "wof:parent_id":1108803963,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

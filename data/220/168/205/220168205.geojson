@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.942601,52.401531,4.942601,52.401531",
     "geom:latitude":52.401531,
     "geom:longitude":4.942601,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803219,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5gdWOdN377A3MS5Q7KX2D0_52.401531_4.942601@1306269932"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1b24f343cb0e5d0ccfb84e3b6855ec7e",
+    "wof:geomhash":"acce27ba4f2c6640d240dbbc559bbafb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803219,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":220168205
         }
     ],
     "wof:id":220168205,
-    "wof:lastmodified":1473878995,
+    "wof:lastmodified":1492481653,
     "wof:name":"Brander, Mr H J G",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

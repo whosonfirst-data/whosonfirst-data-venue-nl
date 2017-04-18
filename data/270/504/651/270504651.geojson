@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.984661,52.296616,4.984661,52.296616",
     "geom:latitude":52.296616,
     "geom:longitude":4.984661,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803463,
+        1108802809,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_1ssPXCxtrSrJu9OQLVxrBK_52.296616_4.984661@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"53c986d27d6a453de605331c7c96e836",
+    "wof:geomhash":"fa045bff4d1450e37fb2bf2c957d91a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803463,
+            "neighbourhood_id":1108802809,
             "region_id":85687053,
             "venue_id":270504651
         }
     ],
     "wof:id":270504651,
-    "wof:lastmodified":1473879340,
+    "wof:lastmodified":1492500644,
     "wof:name":"De Knotwilg School Op Levensbeschouwelijke Grondsl",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

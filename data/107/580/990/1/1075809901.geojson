@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8347268105,52.8614997864,4.8347268105,52.8614997864",
     "geom:latitude":52.8615,
     "geom:longitude":4.834727,
@@ -32,17 +33,32 @@
         "restaurant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474037,
+        85633337,
+        101806079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GwLF8qSdh0ucMp44reYUc_52.861500_4.834727@1306269958"
     },
     "wof:country":"NL",
     "wof:created":1473798652,
-    "wof:geomhash":"b65815a71a45ab97a159df3f34721d71",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af77c9835c94aed9a86d9fa31b2ab7fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474037,
+            "locality_id":101806079,
+            "region_id":85687053,
+            "venue_id":1075809901
+        }
+    ],
     "wof:id":1075809901,
-    "wof:lastmodified":1473878725,
+    "wof:lastmodified":1492485958,
     "wof:name":"Baba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

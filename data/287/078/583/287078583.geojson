@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.832539,52.379978,4.832539,52.379978",
     "geom:latitude":52.379978,
     "geom:longitude":4.832539,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108804011,
+        1108802905,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_432XVdwPw0YTNIUQ4Q9MZq_52.379978_4.832539@1306269976"
     },
     "wof:country":"NL",
-    "wof:geomhash":"663eca7edc52198430b709fea902d87d",
+    "wof:geomhash":"f7b47cce0635c310fc6fa5fa0e5dc5e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108804011,
+            "neighbourhood_id":1108802905,
             "region_id":85687053,
             "venue_id":287078583
         }
     ],
     "wof:id":287078583,
-    "wof:lastmodified":1473878758,
+    "wof:lastmodified":1492514002,
     "wof:name":"Main Flower Bv",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108804011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

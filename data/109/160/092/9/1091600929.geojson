@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9543237686,52.9299697876,5.9543237686,52.9299697876",
     "geom:latitude":52.92997,
     "geom:longitude":5.954324,
@@ -24,17 +25,32 @@
     "sg:province":"Provincie Friesland",
     "sg:website":"HTTP://www.bosgoed.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687055,
+        102191581,
+        404473771,
+        85633337,
+        101837963
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eGU9DYJQFsRLaskA0rQ7R_52.929970_5.954324@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802573,
-    "wof:geomhash":"d76f7b63050713ba93c9b32583ac1e61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2532ce82ee6db1f8d089b60c35907231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473771,
+            "locality_id":101837963,
+            "region_id":85687055,
+            "venue_id":1091600929
+        }
+    ],
     "wof:id":1091600929,
-    "wof:lastmodified":1473878516,
+    "wof:lastmodified":1492512582,
     "wof:name":"Bosgoed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5752048492,51.9631652832,4.5752048492,51.9631652832",
     "geom:latitude":51.963165,
     "geom:longitude":4.575205,
@@ -26,10 +27,12 @@
     "wof:belongsto":[
         85798779,
         102191581,
-        404474163,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,9 +40,19 @@
     },
     "wof:country":"NL",
     "wof:created":1473799771,
-    "wof:geomhash":"42af333b9f0283ac6bce385376aee7bd",
+    "wof:geomhash":"bbffca2d18fc4b6fc66df2854689aa7d",
     "wof:hierarchy":[
         {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798779,
+            "region_id":85687041,
+            "venue_id":1075829727
+        },
+        {
+            "borough_id":1108805725,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474163,
@@ -50,7 +63,7 @@
         }
     ],
     "wof:id":1075829727,
-    "wof:lastmodified":1473879573,
+    "wof:lastmodified":1492486883,
     "wof:name":"Jongerencentrum Plexat",
     "wof:parent_id":85798779,
     "wof:placetype":"venue",

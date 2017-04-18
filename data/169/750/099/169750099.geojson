@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.365987,52.16029,5.365987,52.16029",
     "geom:latitude":52.16029,
     "geom:longitude":5.365987,
@@ -24,40 +25,41 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797097,
-        85633337,
-        85687039,
         85798419,
-        101855289
+        102191581,
+        404473971,
+        85633337,
+        101855289,
+        85687039,
+        85797097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zii0tMZrN4R5cuFdq3w85_52.160290_5.365987@1306269905"
     },
     "wof:country":"NL",
-    "wof:geomhash":"88f267f949a76c97999e127165d6b083",
+    "wof:geomhash":"549e9b527356c35171fa12aae93295d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797097,
+            "localadmin_id":404473971,
+            "locality_id":101855289,
+            "neighbourhood_id":85798419,
             "region_id":85687039,
             "venue_id":169750099
         },
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101855289,
-            "neighbourhood_id":85798419,
+            "neighbourhood_id":85797097,
             "region_id":85687039,
             "venue_id":169750099
         }
     ],
     "wof:id":169750099,
-    "wof:lastmodified":1473878647,
+    "wof:lastmodified":1492478389,
     "wof:name":"Mar-X",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

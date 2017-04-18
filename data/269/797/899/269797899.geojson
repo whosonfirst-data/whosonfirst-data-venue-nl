@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884873,52.352524,4.884873,52.352524",
     "geom:latitude":52.352524,
     "geom:longitude":4.884873,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803715,
+        1108802797,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_1PAG7SB4oGcX8sGIUh3Sws_52.352524_4.884873@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1625f6777b01480b609349132a3f9683",
+    "wof:geomhash":"98ec34c9e2fe48b7671384cb920d89b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803715,
+            "neighbourhood_id":1108802797,
             "region_id":85687053,
             "venue_id":269797899
         }
     ],
     "wof:id":269797899,
-    "wof:lastmodified":1473879478,
+    "wof:lastmodified":1492495942,
     "wof:name":"Valentino Twee",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

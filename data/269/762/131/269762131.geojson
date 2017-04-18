@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.305851,52.077507,4.305851,52.077507",
     "geom:latitude":52.077507,
     "geom:longitude":4.305851,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808249,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_4E37QuD1Ooxg2lWcdL6oj6_52.077507_4.305851@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"59115bb3327ee71eb6a2ca516a9165ba",
+    "wof:geomhash":"6be32f49f6f7b5bfbb938620d4650bbd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808249,
             "region_id":85687041,
             "venue_id":269762131
         }
     ],
     "wof:id":269762131,
-    "wof:lastmodified":1473879392,
+    "wof:lastmodified":1492495168,
     "wof:name":"Henri'S Snackbar",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4091701508,51.822719574,4.4091701508,51.822719574",
     "geom:latitude":51.82272,
     "geom:longitude":4.40917,
@@ -24,9 +25,11 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474231,
         85633337,
-        85798725,
-        85687041
+        101754705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473799231,
-    "wof:geomhash":"64242e3a13c45f868f089d4bf84488e1",
+    "wof:geomhash":"3a572c0273480467d9b3114bd94513e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798725,
+            "localadmin_id":404474231,
+            "locality_id":101754705,
             "region_id":85687041,
             "venue_id":1075821689
         }
     ],
     "wof:id":1075821689,
-    "wof:lastmodified":1473879241,
+    "wof:lastmodified":1492487049,
     "wof:name":"Bsp",
-    "wof:parent_id":85798725,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

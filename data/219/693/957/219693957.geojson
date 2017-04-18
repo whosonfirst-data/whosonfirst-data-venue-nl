@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.130087,52.067158,5.130087,52.067158",
     "geom:latitude":52.067158,
     "geom:longitude":5.130087,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859943,
+        1108808795,
+        102191581,
+        1108832363,
         85633337,
+        101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1kLScCHlC03ohOJLr3Wcyk_52.067158_5.130087@1306269928"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ff9772c17acdbe5e0257ee82c5b5cc61",
+    "wof:geomhash":"ce66b689230b316380838c94dd217c69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859943,
+            "locality_id":101751827,
+            "macrohood_id":1108832363,
+            "neighbourhood_id":1108808795,
             "region_id":85687039,
             "venue_id":219693957
         }
     ],
     "wof:id":219693957,
-    "wof:lastmodified":1473879568,
+    "wof:lastmodified":1492501950,
     "wof:name":"Nanden",
-    "wof:parent_id":85859943,
+    "wof:parent_id":1108808795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

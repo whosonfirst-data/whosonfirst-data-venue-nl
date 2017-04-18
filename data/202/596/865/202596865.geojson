@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.303755,52.078594,4.303755,52.078594",
     "geom:latitude":52.078594,
     "geom:longitude":4.303755,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797685,
+        1108808249,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_70ST6S90NvkFeibxiWrbmt_52.078594_4.303755@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"eccb1c125bc3782c2eb96dd8e0c9f36d",
+    "wof:geomhash":"bbcde25d3c8e20f8ba40dbb779014701",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797685,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808249,
             "region_id":85687041,
             "venue_id":202596865
         }
     ],
     "wof:id":202596865,
-    "wof:lastmodified":1473879020,
+    "wof:lastmodified":1492498371,
     "wof:name":"Damad Lichtstudio",
-    "wof:parent_id":85797685,
+    "wof:parent_id":1108808249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

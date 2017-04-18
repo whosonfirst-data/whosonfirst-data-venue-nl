@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.121399,52.066139,5.121399,52.066139",
     "geom:latitude":52.066139,
     "geom:longitude":5.121399,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797727,
+        1108808807,
+        102191581,
+        1108808645,
         85633337,
         101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0VU8UtHRJ6xRjpVFX4V44Q_52.066139_5.121399@1306269906"
     },
     "wof:country":"NL",
-    "wof:geomhash":"388278c8bb7ae4b457b0c3cdc5c5ede7",
+    "wof:geomhash":"aa750f330a74784311cb3d4271d2420a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797727,
+            "macrohood_id":1108808645,
+            "neighbourhood_id":1108808807,
             "region_id":85687039,
             "venue_id":185616483
         }
     ],
     "wof:id":185616483,
-    "wof:lastmodified":1473878499,
+    "wof:lastmodified":1492487164,
     "wof:name":"Ton De Bruyn Haarverzorging",
-    "wof:parent_id":85797727,
+    "wof:parent_id":1108808807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

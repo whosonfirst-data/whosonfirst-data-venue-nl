@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881051,52.369488,4.881051,52.369488",
     "geom:latitude":52.369488,
     "geom:longitude":4.881051,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2hvKbXi5qp4U3D3tFoHTax_52.369488_4.881051@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5c3273179486419a9be67ccbd94ba49f",
+    "wof:geomhash":"5b3a6ec71ddde021bb0a59bf1827e931",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":236249691
         }
     ],
     "wof:id":236249691,
-    "wof:lastmodified":1473879034,
+    "wof:lastmodified":1492491327,
     "wof:name":"Antiekhandel Lyra",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.108958,52.121212,5.108958,52.121212",
     "geom:latitude":52.121212,
     "geom:longitude":5.108958,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808927,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_3hiSJoH7JWcch7yW7yxjY5_52.121212_5.108958@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"23151ef31c84eea05d5c350e7088e39d",
+    "wof:geomhash":"6923e8c7b02b4cbb1789b822cab8b406",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808927,
             "region_id":85687039,
             "venue_id":269835047
         }
     ],
     "wof:id":269835047,
-    "wof:lastmodified":1473879505,
+    "wof:lastmodified":1492495085,
     "wof:name":"Grillroom Shoarma Aswan",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808927,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

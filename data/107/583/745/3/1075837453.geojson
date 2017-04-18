@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3250579834,52.1047515869,4.3250579834,52.1047515869",
     "geom:latitude":52.104752,
     "geom:longitude":4.325058,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         85797487,
+        102191581,
+        1108805961,
+        85633337,
+        101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -34,17 +39,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473800204,
-    "wof:geomhash":"634cb61506f07743ac96d62b0d470854",
+    "wof:geomhash":"78bcb3ffadafa09b10f61b4bfed07b18",
     "wof:hierarchy":[
         {
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108805961,
             "neighbourhood_id":85797487,
             "region_id":85687041,
             "venue_id":1075837453
         }
     ],
     "wof:id":1075837453,
-    "wof:lastmodified":1473879492,
+    "wof:lastmodified":1492485850,
     "wof:name":"Palthe Stomerijen Bv",
     "wof:parent_id":85797487,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.199092865,52.2209625244,5.199092865,52.2209625244",
     "geom:latitude":52.220963,
     "geom:longitude":5.199093,
@@ -23,17 +24,32 @@
     "sg:postcode":"1223 RE",
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474081,
+        85633337,
+        101751905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Nn2ISrwtCL9FAsAGxRP6s_52.220963_5.199093@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803384,
-    "wof:geomhash":"81da372fa67b25deab0ccfd082b66986",
-    "wof:hierarchy":[],
+    "wof:geomhash":"447db712a130d3928f56882f2bb20295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474081,
+            "locality_id":101751905,
+            "region_id":85687053,
+            "venue_id":1091610085
+        }
+    ],
     "wof:id":1091610085,
-    "wof:lastmodified":1473878449,
+    "wof:lastmodified":1492510526,
     "wof:name":"Van Eeuwen Hobby Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

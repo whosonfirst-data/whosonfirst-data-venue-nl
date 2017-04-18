@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1336011887,51.9828453064,4.1336011887,51.9828453064",
     "geom:latitude":51.982845,
     "geom:longitude":4.133601,
@@ -31,19 +32,36 @@
         "pedicure"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85797461,
+        102191581,
+        85633337,
+        101751843,
+        1108805729,
+        85687041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GHEENyNxol1wlR1xtacjk_51.982845_4.133601@1306269951"
     },
     "wof:country":"NL",
     "wof:created":1473798619,
-    "wof:geomhash":"8784d95bedd1b5333cdf35fcdde758be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03a754824c7665982b90e6f308aae28b",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108805729,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797461,
+            "region_id":85687041,
+            "venue_id":1075809291
+        }
+    ],
     "wof:id":1075809291,
-    "wof:lastmodified":1473878702,
+    "wof:lastmodified":1492486069,
     "wof:name":"Knoop Van Vliet, T N",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

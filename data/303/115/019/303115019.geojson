@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.888907,52.349571,4.888907,52.349571",
     "geom:latitude":52.349571,
     "geom:longitude":4.888907,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803817,
+        1108802865,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_1expd3PH1vCJFA3CZWXg0r_52.349571_4.888907@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b3a2f8f36336daacfe1ea3992656d177",
+    "wof:geomhash":"ce699d6c65ce8775318ba1d3913b814d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803817,
+            "neighbourhood_id":1108802865,
             "region_id":85687053,
             "venue_id":303115019
         }
     ],
     "wof:id":303115019,
-    "wof:lastmodified":1473878695,
+    "wof:lastmodified":1492471149,
     "wof:name":"J Hoff",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

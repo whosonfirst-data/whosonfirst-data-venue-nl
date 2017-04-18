@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.936564,52.399082,4.936564,52.399082",
     "geom:latitude":52.399082,
     "geom:longitude":4.936564,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803947,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4sX20KDjMJnXuDh1ZhzpNe_52.399082_4.936564@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"09a3dfb6ecccf0ef36d0cf66835b63eb",
+    "wof:geomhash":"96572f8f082d8cfbf94db0e99d50e50b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803947,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":336618949
         }
     ],
     "wof:id":336618949,
-    "wof:lastmodified":1473878428,
+    "wof:lastmodified":1492507274,
     "wof:name":"Juwelier Van Zijp",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

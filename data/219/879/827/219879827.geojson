@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.861643,52.355087,4.861643,52.355087",
     "geom:latitude":52.355087,
     "geom:longitude":4.861643,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.mkbase.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803453,
+        1108802963,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3ixLMXcx7BhcCYKbziRTps_52.355087_4.861643@1306269930"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d99d1d056e302979c1c2a9b55b4498b3",
+    "wof:geomhash":"401cb2e08983498cb6a2d0a8b3bcc075",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803453,
+            "neighbourhood_id":1108802963,
             "region_id":85687053,
             "venue_id":219879827
         }
     ],
     "wof:id":219879827,
-    "wof:lastmodified":1473879733,
+    "wof:lastmodified":1492501970,
     "wof:name":"Mkbase Bv",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

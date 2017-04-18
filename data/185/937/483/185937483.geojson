@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.282644,52.109978,4.282644,52.109978",
     "geom:latitude":52.109978,
     "geom:longitude":4.282644,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808165,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_7e57DZzIUiUzrrciu7d33W_52.109978_4.282644@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"677536b93a4cc6f27d76dc9de84c74d9",
+    "wof:geomhash":"6c3cf8b79494a3edb227daafb41f3a5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808165,
             "region_id":85687041,
             "venue_id":185937483
         }
     ],
     "wof:id":185937483,
-    "wof:lastmodified":1473878931,
+    "wof:lastmodified":1492487527,
     "wof:name":"Stichting Gymzaal De Kubus",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

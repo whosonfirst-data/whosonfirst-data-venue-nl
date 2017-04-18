@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3421869278,52.0695495605,4.3421869278,52.0695495605",
     "geom:latitude":52.06955,
     "geom:longitude":4.342187,
@@ -35,10 +36,13 @@
     "wof:belongsto":[
         85859633,
         102191581,
-        404474179,
+        1108808077,
         85633337,
         101752763,
-        85687041
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,20 +50,32 @@
     },
     "wof:country":"NL",
     "wof:created":1473798872,
-    "wof:geomhash":"6c38e73b3e9b53d4bb51b0d09023e0ea",
+    "wof:geomhash":"18b21740e1be88cdf8aa72769f67029c",
     "wof:hierarchy":[
         {
+            "borough_id":1108808049,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474179,
             "locality_id":101752763,
+            "macrohood_id":1108808077,
+            "neighbourhood_id":85859633,
+            "region_id":85687041,
+            "venue_id":1075814497
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
+            "locality_id":101754743,
+            "macrohood_id":1108808077,
             "neighbourhood_id":85859633,
             "region_id":85687041,
             "venue_id":1075814497
         }
     ],
     "wof:id":1075814497,
-    "wof:lastmodified":1473878953,
+    "wof:lastmodified":1492486568,
     "wof:name":"Van Kralingen Bv",
     "wof:parent_id":85859633,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.306502,52.064957,4.306502,52.064957",
     "geom:latitude":52.064957,
     "geom:longitude":4.306502,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798385,
+        1108808263,
+        102191581,
+        1108808035,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_4AzI9Ub02Z9OGSJjEyQ7zM_52.064957_4.306502@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"405fbb4edccdd08562a569fae01b9f25",
+    "wof:geomhash":"8ed8c9f45043ad412499952f8e132645",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798385,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808263,
             "region_id":85687041,
             "venue_id":303111913
         }
     ],
     "wof:id":303111913,
-    "wof:lastmodified":1473878695,
+    "wof:lastmodified":1492474596,
     "wof:name":"Eethuis Firat",
-    "wof:parent_id":85798385,
+    "wof:parent_id":1108808263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

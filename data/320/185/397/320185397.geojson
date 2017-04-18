@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.866154,52.385162,4.866154,52.385162",
     "geom:latitude":52.385162,
     "geom:longitude":4.866154,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803851,
+        1108802557,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3vMbW3edSMaPxIMxUIbWFy_52.385162_4.866154@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a480d812afb986cdb07c65ee70352eae",
+    "wof:geomhash":"a3e6c067f0a866360472f22c81191b3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803851,
+            "neighbourhood_id":1108802557,
             "region_id":85687053,
             "venue_id":320185397
         }
     ],
     "wof:id":320185397,
-    "wof:lastmodified":1473879054,
+    "wof:lastmodified":1492483297,
     "wof:name":"Bill & Ted'S Excellent Recording Studio",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

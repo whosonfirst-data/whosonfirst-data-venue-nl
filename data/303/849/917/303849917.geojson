@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.934008,52.359978,4.934008,52.359978",
     "geom:latitude":52.359978,
     "geom:longitude":4.934008,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803597,
+        1108802845,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_66x167Mggn2xXt4PiqfDki_52.359978_4.934008@1306269988"
     },
     "wof:country":"NL",
-    "wof:geomhash":"280362d62c1fff010238a18c72ab701b",
+    "wof:geomhash":"2620a1952e7acc97965f04a2680e1cd0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803597,
+            "neighbourhood_id":1108802845,
             "region_id":85687053,
             "venue_id":303849917
         }
     ],
     "wof:id":303849917,
-    "wof:lastmodified":1473879621,
+    "wof:lastmodified":1492474646,
     "wof:name":"Schouten, Dirk",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803597,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

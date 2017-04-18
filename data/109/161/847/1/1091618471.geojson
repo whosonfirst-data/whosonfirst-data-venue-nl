@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8836350441,52.4351921082,4.8836350441,52.4351921082",
     "geom:latitude":52.435192,
     "geom:longitude":4.883635,
@@ -24,9 +25,11 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687053,
+        102191581,
+        404474105,
         85633337,
-        85798523,
-        85687053
+        101754851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473803835,
-    "wof:geomhash":"7a3f00557afdd028e0d8b7fe7a53cab9",
+    "wof:geomhash":"e27c306ef87f3c0679eae8e0b037506f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798523,
+            "localadmin_id":404474105,
+            "locality_id":101754851,
             "region_id":85687053,
             "venue_id":1091618471
         }
     ],
     "wof:id":1091618471,
-    "wof:lastmodified":1473878977,
+    "wof:lastmodified":1492510689,
     "wof:name":"Amerongen, N Van",
-    "wof:parent_id":85798523,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

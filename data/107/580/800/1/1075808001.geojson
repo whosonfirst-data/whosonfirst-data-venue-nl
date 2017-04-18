@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.2769479752,52.9891242981,6.2769479752,52.9891242981",
     "geom:latitude":52.989124,
     "geom:longitude":6.276948,
@@ -24,17 +25,30 @@
     "sg:province":"Provincie Friesland",
     "sg:website":"http://www.datastorm.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404473785,
+        85633337,
+        85687055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VE0BLzFYYDrcSRHDX1zmy_52.989124_6.276948@1306269935"
     },
     "wof:country":"NL",
     "wof:created":1473798557,
-    "wof:geomhash":"b86fc63c2a481b78b05a99179e569e00",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4928c4a7697bb27527201a39987382f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473785,
+            "region_id":85687055,
+            "venue_id":1075808001
+        }
+    ],
     "wof:id":1075808001,
-    "wof:lastmodified":1473878615,
+    "wof:lastmodified":1492485999,
     "wof:name":"Datastorm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

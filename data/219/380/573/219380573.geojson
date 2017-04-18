@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.928447,52.344757,4.928447,52.344757",
     "geom:latitude":52.344757,
     "geom:longitude":4.928447,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803657,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5WLtyGK6JPYFogP9qI5wPE_52.344757_4.928447@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8fa5531d04066a83e1af7b0afac8f7ca",
+    "wof:geomhash":"2c73205caa67cbdcfd46ec053354ac23",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803657,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":219380573
         }
     ],
     "wof:id":219380573,
-    "wof:lastmodified":1473879063,
+    "wof:lastmodified":1492502326,
     "wof:name":"A.R.Renfrum",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

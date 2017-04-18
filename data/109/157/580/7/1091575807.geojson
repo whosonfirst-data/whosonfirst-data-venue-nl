@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3135938644,53.1168327332,6.3135938644,53.1168327332",
     "geom:latitude":53.116833,
     "geom:longitude":6.313594,
@@ -24,17 +25,30 @@
     "sg:province":"Groningen",
     "sg:website":"http://www.webadvise4u.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404473721,
+        85633337,
+        85687059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AbQ0IaEj88sliotUyl28x_53.116833_6.313594@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800841,
-    "wof:geomhash":"5994413f3a76503505db9d3399511b93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23f5a3ec34384142a3ea5d5052a13161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473721,
+            "region_id":85687059,
+            "venue_id":1091575807
+        }
+    ],
     "wof:id":1091575807,
-    "wof:lastmodified":1473878895,
+    "wof:lastmodified":1492511060,
     "wof:name":"Webadvise4U",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

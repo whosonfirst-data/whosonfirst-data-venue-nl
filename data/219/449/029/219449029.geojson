@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885604,52.362556,4.885604,52.362556",
     "geom:latitude":52.362556,
     "geom:longitude":4.885604,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803237,
+        1108802791,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_51t9tU31KvWGonp0TUy83O_52.362556_4.885604@1306269926"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a21e2b27157818c1ae8d16e985228c65",
+    "wof:geomhash":"a6629c6697612e26366c9706989afdf0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803237,
+            "neighbourhood_id":1108802791,
             "region_id":85687053,
             "venue_id":219449029
         }
     ],
     "wof:id":219449029,
-    "wof:lastmodified":1473879151,
+    "wof:lastmodified":1492503952,
     "wof:name":"Zijlstra Nijland Vof",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

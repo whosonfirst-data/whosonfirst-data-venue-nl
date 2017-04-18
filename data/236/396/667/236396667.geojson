@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.914872,52.407402,4.914872,52.407402",
     "geom:latitude":52.407402,
     "geom:longitude":4.914872,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803203,
+        1108802531,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_2lNhFP2vIDE4uPL5pkU0TS_52.407402_4.914872@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0e65b24bdb23ee46da9ba08b93dce293",
+    "wof:geomhash":"ecb5f0a0491662df19d05359bcb93b5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803203,
+            "neighbourhood_id":1108802531,
             "region_id":85687053,
             "venue_id":236396667
         }
     ],
     "wof:id":236396667,
-    "wof:lastmodified":1473879250,
+    "wof:lastmodified":1492493589,
     "wof:name":"Joyfelt",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

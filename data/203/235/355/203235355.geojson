@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.924732,52.372955,4.924732,52.372955",
     "geom:latitude":52.372955,
     "geom:longitude":4.924732,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803881,
+        1108802879,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7NNYqgfeVU3EeiPSMUwaXQ_52.372955_4.924732@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"30d3613614e5f0d9dc9ff1cba9358f18",
+    "wof:geomhash":"8586b2e5e567afaa1db6adf1c4ae72fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803881,
+            "neighbourhood_id":1108802879,
             "region_id":85687053,
             "venue_id":203235355
         }
     ],
     "wof:id":203235355,
-    "wof:lastmodified":1473879204,
+    "wof:lastmodified":1492481006,
     "wof:name":"Smulders",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

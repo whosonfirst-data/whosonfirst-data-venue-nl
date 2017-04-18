@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.307627,52.076904,4.307627,52.076904",
     "geom:latitude":52.076904,
     "geom:longitude":4.307627,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808249,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1utOFXC9l5rskIMy4wFqiF_52.076904_4.307627@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0cf262d5b694e5658443cd70b6f5ca88",
+    "wof:geomhash":"2e80edc0f0c98eda5c2e2dedbbe949ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808249,
             "region_id":85687041,
             "venue_id":303599651
         }
     ],
     "wof:id":303599651,
-    "wof:lastmodified":1473879323,
+    "wof:lastmodified":1492470950,
     "wof:name":"Snuffel",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

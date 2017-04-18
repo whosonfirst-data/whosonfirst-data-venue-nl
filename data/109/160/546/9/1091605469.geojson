@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2561149597,52.4095039368,5.2561149597,52.4095039368",
     "geom:latitude":52.409504,
     "geom:longitude":5.256115,
@@ -23,17 +24,32 @@
     "sg:postcode":"1332 BJ",
     "sg:province":"Flevoland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101751875
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PcJVt8pohNos7PkI3spww_52.409504_5.256115@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473803007,
-    "wof:geomhash":"8f0a0818d59ac435c0e7bd481869d065",
-    "wof:hierarchy":[],
+    "wof:geomhash":"539d92f6859baca52544700808b390e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101751875,
+            "region_id":85687049,
+            "venue_id":1091605469
+        }
+    ],
     "wof:id":1091605469,
-    "wof:lastmodified":1473878733,
+    "wof:lastmodified":1492512578,
     "wof:name":"Tervoort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

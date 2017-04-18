@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.28581,52.05286,4.28581,52.05286",
     "geom:latitude":52.05286,
     "geom:longitude":4.28581,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.fitnessfirst.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798031,
+        85859609,
+        102191581,
+        1108808057,
         85633337,
-        101754743,
+        101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_44rgTQnjIN85lfHIeW2TrI_52.052860_4.285810@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a46d5f25f114b3a01ed3551a350502a1",
+    "wof:geomhash":"ede45270ea74f670dc213804947e59a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798031,
+            "locality_id":101752763,
+            "macrohood_id":1108808057,
+            "neighbourhood_id":85859609,
             "region_id":85687041,
             "venue_id":270046699
         }
     ],
     "wof:id":270046699,
-    "wof:lastmodified":1473878506,
+    "wof:lastmodified":1492499594,
     "wof:name":"Fitness First Health Clubs",
-    "wof:parent_id":85798031,
+    "wof:parent_id":85859609,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

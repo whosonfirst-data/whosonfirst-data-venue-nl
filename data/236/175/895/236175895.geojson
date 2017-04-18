@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.935793,52.312057,4.935793,52.312057",
     "geom:latitude":52.312057,
     "geom:longitude":4.935793,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797113,
+        1108803575,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_15SG53Rns8gF6tD8u3ROmu_52.312057_4.935793@1306269935"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b1b755ee18663463b32e41d0cfdca405",
+    "wof:geomhash":"5c85651dbecf068454469ad0d702e5fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797113,
+            "locality_id":101751893,
+            "microhood_id":1108803575,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":236175895
         }
     ],
     "wof:id":236175895,
-    "wof:lastmodified":1473878885,
+    "wof:lastmodified":1492493041,
     "wof:name":"Otis Bv District Noord West Nederland",
-    "wof:parent_id":85797113,
+    "wof:parent_id":1108803575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

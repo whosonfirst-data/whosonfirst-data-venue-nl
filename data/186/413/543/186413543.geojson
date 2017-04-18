@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.886548,52.376625,4.886548,52.376625",
     "geom:latitude":52.376625,
     "geom:longitude":4.886548,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803311,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4bM63ZwGei8Opg4nZtvZki_52.376625_4.886548@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"be665586d3878954041935eab1ec4826",
+    "wof:geomhash":"7b26995dde6f272a80d36144706ae748",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803311,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":186413543
         }
     ],
     "wof:id":186413543,
-    "wof:lastmodified":1473879389,
+    "wof:lastmodified":1492508930,
     "wof:name":"Inzet",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803311,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

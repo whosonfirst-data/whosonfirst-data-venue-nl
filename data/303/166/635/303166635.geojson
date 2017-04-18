@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.795518,52.344128,4.795518,52.344128",
     "geom:latitude":52.344128,
     "geom:longitude":4.795518,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803689,
+        1108802857,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4Cju9CJoomaV7l301tD1k6_52.344128_4.795518@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c212272dc77fdfa85b3e417b20296a0f",
+    "wof:geomhash":"bec39fbf97d6294b7a67ad9e91ae0296",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803689,
+            "neighbourhood_id":1108802857,
             "region_id":85687053,
             "venue_id":303166635
         }
     ],
     "wof:id":303166635,
-    "wof:lastmodified":1473878827,
+    "wof:lastmodified":1492470485,
     "wof:name":"Meulen, Van Der",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

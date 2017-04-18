@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.886016,52.365845,4.886016,52.365845",
     "geom:latitude":52.365845,
     "geom:longitude":4.886016,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.sprachgitter.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803761,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_7b74FaqIM16lwkfXVmZPHO_52.365845_4.886016@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"76d76d8c6239bc19094ad451e0b74067",
+    "wof:geomhash":"48f38590009fe2cbdd2966d6ffad2ced",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803761,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":202883207
         }
     ],
     "wof:id":202883207,
-    "wof:lastmodified":1473879371,
+    "wof:lastmodified":1492497692,
     "wof:name":"Spachgitter",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

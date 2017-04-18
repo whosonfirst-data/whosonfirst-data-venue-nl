@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.836681,52.368881,4.836681,52.368881",
     "geom:latitude":52.368881,
     "geom:longitude":4.836681,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803331,
         85798223,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_5r9NcHnlBGsautNcTuFjtd_52.368881_4.836681@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b9a3db0b6ca42cf11e0579e5f3c7f6c0",
+    "wof:geomhash":"f88c1580ba8d8e60223807cfc90759ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803331,
             "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":270519649
         }
     ],
     "wof:id":270519649,
-    "wof:lastmodified":1473879387,
+    "wof:lastmodified":1492500939,
     "wof:name":"El Kadisia Islamitisch",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803331,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

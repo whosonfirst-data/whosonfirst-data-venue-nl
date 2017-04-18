@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.303428,52.063869,4.303428,52.063869",
     "geom:latitude":52.063869,
     "geom:longitude":4.303428,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859615,
+        1108808259,
+        102191581,
+        1108808035,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_4OhbcdHpqOtSHbBTBavakc_52.063869_4.303428@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d10f2541eecaf5610ac512f62754e987",
+    "wof:geomhash":"bbe190e9612f0fa2bef069b80932e211",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808259,
             "region_id":85687041,
             "venue_id":269741507
         }
     ],
     "wof:id":269741507,
-    "wof:lastmodified":1473879366,
+    "wof:lastmodified":1492496546,
     "wof:name":"Cafetaria De Hoef",
-    "wof:parent_id":85859615,
+    "wof:parent_id":1108808259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

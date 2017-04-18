@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.892288,52.377773,4.892288,52.377773",
     "geom:latitude":52.377773,
     "geom:longitude":4.892288,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803299,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_36xscdSzZ21o8oj2Li9FyK_52.377773_4.892288@1306269930"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c03c93fa4396783f148aad31cdfc9df2",
+    "wof:geomhash":"2ebdfb8132ba28d46b11fd5ec2288245",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803299,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":219935465
         }
     ],
     "wof:id":219935465,
-    "wof:lastmodified":1473879736,
+    "wof:lastmodified":1492503459,
     "wof:name":"Ven, Van De",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

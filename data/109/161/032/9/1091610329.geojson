@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3945250511,53.1810493469,6.3945250511,53.1810493469",
     "geom:latitude":53.181049,
     "geom:longitude":6.394525,
@@ -24,17 +25,30 @@
     "sg:province":"Groningen",
     "sg:website":"HTTP://www.alge.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404473721,
+        85633337,
+        85687059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SpPFbOLqxmYt7K9X9XMXj_53.181049_6.394525@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803394,
-    "wof:geomhash":"8dc96bdd89ba95ce1ae7fe30d11a67ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe839db85e86d0ec74bc61e66e44d49c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473721,
+            "region_id":85687059,
+            "venue_id":1091610329
+        }
+    ],
     "wof:id":1091610329,
-    "wof:lastmodified":1473878484,
+    "wof:lastmodified":1492510427,
     "wof:name":"Alg?",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

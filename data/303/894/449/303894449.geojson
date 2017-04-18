@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.689729,50.848873,5.689729,50.848873",
     "geom:latitude":50.848873,
     "geom:longitude":5.689729,
@@ -24,40 +25,41 @@
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798687,
         85633337,
-        101751803,
+        85797109,
         85687033,
-        85797109
+        85798687,
+        102191581,
+        404474495,
+        101751803
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oGvFDOrWaKsWv3MfRKvYR_50.848873_5.689729@1306269989"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fc9506db5db2f6d7166475e4abb560ec",
+    "wof:geomhash":"63cd4af94c69baaabb0c7daa84e57ead",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751803,
-            "neighbourhood_id":85798687,
+            "neighbourhood_id":85797109,
             "region_id":85687033,
             "venue_id":303894449
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797109,
+            "localadmin_id":404474495,
+            "locality_id":101751803,
+            "neighbourhood_id":85798687,
             "region_id":85687033,
             "venue_id":303894449
         }
     ],
     "wof:id":303894449,
-    "wof:lastmodified":1473879642,
+    "wof:lastmodified":1492474864,
     "wof:name":"New Hampshire",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

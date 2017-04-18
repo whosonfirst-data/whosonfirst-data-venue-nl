@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.886626,52.375416,4.886626,52.375416",
     "geom:latitude":52.375416,
     "geom:longitude":4.886626,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803311,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3lreipVUYV1m35NtrUf7p2_52.375416_4.886626@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e50292ddd8b1f0c59d65cc11555a747a",
+    "wof:geomhash":"6ab8142e9b5366a09b1c090734b69f91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803311,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":287157307
         }
     ],
     "wof:id":287157307,
-    "wof:lastmodified":1473878928,
+    "wof:lastmodified":1492513909,
     "wof:name":"Kirchner",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803311,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.481617,51.94054,4.481617,51.94054",
     "geom:latitude":51.94054,
     "geom:longitude":4.481617,
@@ -25,39 +26,33 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859845,
+        102191581,
         85633337,
-        101753095,
-        85687041,
-        85859841
+        101751843,
+        1108804843,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zDS5ykc7ZZBXpR9ABJsP0_51.940540_4.481617@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"36c361b0b7eb08d414725ae2159e4cbf",
+    "wof:geomhash":"8fe5d1325b496aec613b4835f361088c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108804843,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
+            "locality_id":101751843,
             "neighbourhood_id":85859845,
-            "region_id":85687041,
-            "venue_id":253273103
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859841,
             "region_id":85687041,
             "venue_id":253273103
         }
     ],
     "wof:id":253273103,
-    "wof:lastmodified":1473879302,
+    "wof:lastmodified":1492489421,
     "wof:name":"Ensar",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

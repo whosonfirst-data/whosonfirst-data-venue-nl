@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.335635,52.085464,4.335635,52.085464",
     "geom:latitude":52.085464,
     "geom:longitude":4.335635,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.rabobank.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797093,
+        1108808239,
+        102191581,
+        1108805963,
         85633337,
         101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_6SDaWzX0omElx7oRmjsgWT_52.085464_4.335635@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1e155967850777cd57f739889204832f",
+    "wof:geomhash":"e452f14966aecb3ec9fb5717524ccaa7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797093,
+            "macrohood_id":1108805963,
+            "neighbourhood_id":1108808239,
             "region_id":85687041,
             "venue_id":270444349
         }
     ],
     "wof:id":270444349,
-    "wof:lastmodified":1473879255,
+    "wof:lastmodified":1492499701,
     "wof:name":"Rabobank",
-    "wof:parent_id":85797093,
+    "wof:parent_id":1108808239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880187,52.327751,4.880187,52.327751",
     "geom:latitude":52.327751,
     "geom:longitude":4.880187,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804145,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2oNT7EbisY95jUhXvWDdBS_52.327751_4.880187@1306269926"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f989ccaae9d613028c82bc34dc637276",
+    "wof:geomhash":"a133a15b25bf83dc1336fc50f5c22171",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804145,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":219424217
         }
     ],
     "wof:id":219424217,
-    "wof:lastmodified":1473879124,
+    "wof:lastmodified":1492502255,
     "wof:name":"R Hoet",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.786822,52.349743,4.786822,52.349743",
     "geom:latitude":52.349743,
     "geom:longitude":4.786822,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108804159,
+        1108802857,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5TPIosvP0zjo3rXi9ZRy1U_52.349743_4.786822@1306269905"
     },
     "wof:country":"NL",
-    "wof:geomhash":"40ea9c2d1b761a0ecf8cebd6d39fed12",
+    "wof:geomhash":"f145a5fbbd469a5d21330b49d9843a11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108804159,
+            "neighbourhood_id":1108802857,
             "region_id":85687053,
             "venue_id":169735141
         }
     ],
     "wof:id":169735141,
-    "wof:lastmodified":1473878591,
+    "wof:lastmodified":1492478477,
     "wof:name":"Loes De Kort",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108804159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

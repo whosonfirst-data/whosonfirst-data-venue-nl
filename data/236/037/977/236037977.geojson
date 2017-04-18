@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.905502,52.417229,4.905502,52.417229",
     "geom:latitude":52.417229,
     "geom:longitude":4.905502,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803967,
+        1108802847,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_22jNEmrf0YCk8vQejVOajF_52.417229_4.905502@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f37d3f1f7b818ec1c646d7f98c18b7a9",
+    "wof:geomhash":"2c4541dad7b137924c645947320bf5ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803967,
+            "neighbourhood_id":1108802847,
             "region_id":85687053,
             "venue_id":236037977
         }
     ],
     "wof:id":236037977,
-    "wof:lastmodified":1473878608,
+    "wof:lastmodified":1492494464,
     "wof:name":"Cafe De Bierhut",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803967,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.350856,52.064461,4.350856,52.064461",
     "geom:latitude":52.064461,
     "geom:longitude":4.350856,
@@ -24,12 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859633,
-        85633337,
-        101752763,
-        85687041,
         85798255,
-        101754709
+        102191581,
+        404474685,
+        85633337,
+        101754709,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +40,9 @@
     "wof:geomhash":"aae436b282beefaeaa6dad1910e9ce5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101752763,
-            "neighbourhood_id":85859633,
-            "region_id":85687041,
-            "venue_id":219747491
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
+            "localadmin_id":404474685,
             "locality_id":101754709,
             "neighbourhood_id":85798255,
             "region_id":85687041,
@@ -56,9 +50,9 @@
         }
     ],
     "wof:id":219747491,
-    "wof:lastmodified":1473879716,
+    "wof:lastmodified":1491906958,
     "wof:name":"Bruijn, De",
-    "wof:parent_id":-1,
+    "wof:parent_id":85798255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

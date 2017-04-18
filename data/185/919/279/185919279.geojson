@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.490074,51.9622,4.490074,51.9622",
     "geom:latitude":51.9622,
     "geom:longitude":4.490074,
@@ -24,8 +25,13 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797723,
+        1108833221,
+        1108805791,
+        102191581,
+        1108805981,
         85633337,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +39,24 @@
         "sg:id":"SG_1aVrnoYxarlpuhnQyfyw9W_51.962200_4.490074@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c038a983b330b60317e47d56626d84b9",
+    "wof:geomhash":"552afecef6aa230530dc5f0c5cea6842",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797723,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "microhood_id":1108833221,
+            "neighbourhood_id":1108805791,
             "region_id":85687041,
             "venue_id":185919279
         }
     ],
     "wof:id":185919279,
-    "wof:lastmodified":1473878890,
+    "wof:lastmodified":1492487356,
     "wof:name":"Kinderopvang St Hillegersberg/Schiebroek",
-    "wof:parent_id":85797723,
+    "wof:parent_id":1108833221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

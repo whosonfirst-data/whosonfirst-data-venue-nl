@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.937724,52.402081,4.937724,52.402081",
     "geom:latitude":52.402081,
     "geom:longitude":4.937724,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803219,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0Q1cJritTef4D3eusnWHYZ_52.402081_4.937724@1306269928"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0b8ae3d694a7c965d7550d5a828e6809",
+    "wof:geomhash":"95d546d10e20116ca634d6775b80bde4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803219,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":219740837
         }
     ],
     "wof:id":219740837,
-    "wof:lastmodified":1473879719,
+    "wof:lastmodified":1492503030,
     "wof:name":"Borex",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

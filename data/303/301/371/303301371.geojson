@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.277918,52.075134,4.277918,52.075134",
     "geom:latitude":52.075134,
     "geom:longitude":4.277918,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        1108808213,
+        102191581,
+        1108808125,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5SsT3OzKKLlN3z1XarrGqX_52.075134_4.277918@1306269982"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3088412308de7e28dd391247d8205d84",
+    "wof:geomhash":"3edf0bd13ef09eaa82cd3495fcc9b57e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
+            "macrohood_id":1108808125,
+            "neighbourhood_id":1108808213,
             "region_id":85687041,
             "venue_id":303301371
         }
     ],
     "wof:id":303301371,
-    "wof:lastmodified":1473879060,
+    "wof:lastmodified":1492474651,
     "wof:name":"Willem Van Der Kaag",
-    "wof:parent_id":85859605,
+    "wof:parent_id":1108808213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

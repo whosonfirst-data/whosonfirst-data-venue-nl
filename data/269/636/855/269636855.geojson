@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.858993,52.351711,4.858993,52.351711",
     "geom:latitude":52.351711,
     "geom:longitude":4.858993,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803373,
+        1108802963,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6I15IQVFSrp9zeFvicm6RD_52.351711_4.858993@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3391fe82bff2679888c07f02e33e7544",
+    "wof:geomhash":"d251ebe9df5abe04b25870a34d4f3d2d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803373,
+            "neighbourhood_id":1108802963,
             "region_id":85687053,
             "venue_id":269636855
         }
     ],
     "wof:id":269636855,
-    "wof:lastmodified":1473879112,
+    "wof:lastmodified":1492496751,
     "wof:name":"Schippers, M E P",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803373,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.494006,51.95755,4.494006,51.95755",
     "geom:latitude":51.95755,
     "geom:longitude":4.494006,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797707,
+        1108805791,
+        102191581,
+        1108805981,
         85633337,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_757pvpohhSGI1NzLjvuVHM_51.957550_4.494006@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"027cde58dde700ebfc044aecd21cd3dc",
+    "wof:geomhash":"b4159801ee467ec5232e8024f336f891",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797707,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805791,
             "region_id":85687041,
             "venue_id":286794449
         }
     ],
     "wof:id":286794449,
-    "wof:lastmodified":1473879596,
+    "wof:lastmodified":1492477996,
     "wof:name":"Domus (Binnenhuis) Bv",
-    "wof:parent_id":85797707,
+    "wof:parent_id":1108805791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.927773,52.355652,4.927773,52.355652",
     "geom:latitude":52.355652,
     "geom:longitude":4.927773,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803941,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_02syQ9P6QKaOJBkck6Hgbs_52.355652_4.927773@1306269906"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a2e3e1ae946399f9a656e324ffffa060",
+    "wof:geomhash":"c3c5c0a9243ff6e5e0d3591073b52ed6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":185656415
         }
     ],
     "wof:id":185656415,
-    "wof:lastmodified":1473878571,
+    "wof:lastmodified":1492487441,
     "wof:name":"Huma",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

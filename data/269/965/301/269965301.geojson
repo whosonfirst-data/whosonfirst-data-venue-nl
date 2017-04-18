@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.100361,52.110744,5.100361,52.110744",
     "geom:latitude":52.110744,
     "geom:longitude":5.100361,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798231,
+        1108808731,
+        102191581,
+        1108808653,
         85633337,
+        101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_0yoCuvFZWIZOdl03mF7sfF_52.110744_5.100361@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"eda9fdc98301978aa6cff1391df33184",
+    "wof:geomhash":"d89598829187f64dab90ff27b365eb01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798231,
+            "locality_id":101751827,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808731,
             "region_id":85687039,
             "venue_id":269965301
         }
     ],
     "wof:id":269965301,
-    "wof:lastmodified":1473879581,
+    "wof:lastmodified":1492496591,
     "wof:name":"De Kampagne Audiovisuele Produkties",
-    "wof:parent_id":85798231,
+    "wof:parent_id":1108808731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

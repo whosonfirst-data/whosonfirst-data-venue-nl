@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0869312286,51.5453948975,5.0869312286,51.5453948975",
     "geom:latitude":51.545395,
     "geom:longitude":5.086931,
@@ -24,13 +25,13 @@
     "sg:province":"Noord-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797591,
+        85797033,
         102191581,
         404474435,
         85633337,
         101751817,
         85687035,
-        85797033
+        85797591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,8 @@
     },
     "wof:country":"NL",
     "wof:created":1473798599,
-    "wof:geomhash":"be4e5587243144b6003f49ac279e22dc",
+    "wof:geomhash":"58d5b9df117c0f796693402b6e6f8a40",
     "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474435,
-            "locality_id":101751817,
-            "neighbourhood_id":85797591,
-            "region_id":85687035,
-            "venue_id":1075808903
-        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -57,12 +49,21 @@
             "neighbourhood_id":85797033,
             "region_id":85687035,
             "venue_id":1075808903
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474435,
+            "locality_id":101751817,
+            "neighbourhood_id":85797591,
+            "region_id":85687035,
+            "venue_id":1075808903
         }
     ],
     "wof:id":1075808903,
-    "wof:lastmodified":1473878676,
+    "wof:lastmodified":1492486023,
     "wof:name":"Fons Van Woerkom Meubelstoffeerderij",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

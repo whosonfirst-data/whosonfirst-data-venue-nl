@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.293226,52.083393,4.293226,52.083393",
     "geom:latitude":52.083393,
     "geom:longitude":4.293226,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4n0EzYwS6O2GuXYBE81Y24_52.083393_4.293226@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"268fefd8d58378c9ef3e12b571399711",
+    "wof:geomhash":"a460058bb06934d2e48a09b9b8122d1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":236257133
         }
     ],
     "wof:id":236257133,
-    "wof:lastmodified":1473879051,
+    "wof:lastmodified":1492493512,
     "wof:name":"L'Angle Giftshop",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

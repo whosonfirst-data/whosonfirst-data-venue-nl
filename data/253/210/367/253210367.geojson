@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.293935,52.073082,4.293935,52.073082",
     "geom:latitude":52.073082,
     "geom:longitude":4.293935,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798385,
+        1108808259,
+        102191581,
+        1108808035,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5iOktQ9zibL3TV1IYr9kh1_52.073082_4.293935@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7eb25c237662d9d93aaba41d8b0feb86",
+    "wof:geomhash":"c73db181322feb9c471f6c86465b1b58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798385,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808259,
             "region_id":85687041,
             "venue_id":253210367
         }
     ],
     "wof:id":253210367,
-    "wof:lastmodified":1473879197,
+    "wof:lastmodified":1492488938,
     "wof:name":"W S Baranyi",
-    "wof:parent_id":85798385,
+    "wof:parent_id":1108808259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

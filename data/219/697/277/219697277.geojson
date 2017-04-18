@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.824351,52.375053,4.824351,52.375053",
     "geom:latitude":52.375053,
     "geom:longitude":4.824351,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108804125,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_644bcpJ42eZU9GcpNgE3nP_52.375053_4.824351@1306269928"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b39ee128d90034c9fe7b19a3c2a9aa14",
+    "wof:geomhash":"f14d25d04c8400e90c5e65fb15aac1d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "macrohood_id":1108802303,
+            "microhood_id":1108804125,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":219697277
         }
     ],
     "wof:id":219697277,
-    "wof:lastmodified":1473879587,
+    "wof:lastmodified":1492503720,
     "wof:name":"Noort Gassler & Co, Van",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108804125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

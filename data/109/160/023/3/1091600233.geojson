@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2505288124,51.3711280823,5.2505288124,51.3711280823",
     "geom:latitude":51.371128,
     "geom:longitude":5.250529,
@@ -23,17 +24,32 @@
     "sg:postcode":"5527 BM",
     "sg:province":"North Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474641,
+        85633337,
+        101809711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ippXbcKWDK7A7TdFLCPUA_51.371128_5.250529@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802535,
-    "wof:geomhash":"79905195926212d801c43bd044e586cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2dcb5a1009fbb4baac4814b1df9c638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474641,
+            "locality_id":101809711,
+            "region_id":85687035,
+            "venue_id":1091600233
+        }
+    ],
     "wof:id":1091600233,
-    "wof:lastmodified":1473878482,
+    "wof:lastmodified":1492512721,
     "wof:name":"Stappaerts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

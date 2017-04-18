@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.848207,52.384048,4.848207,52.384048",
     "geom:latitude":52.384048,
     "geom:longitude":4.848207,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803867,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_67wXvs4D9GhXXD2jWnETMa_52.384048_4.848207@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5adb0b354723d46945fc8c23f61ede26",
+    "wof:geomhash":"04040867f5493918fbb1d41b48935787",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803867,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":269832877
         }
     ],
     "wof:id":269832877,
-    "wof:lastmodified":1473879508,
+    "wof:lastmodified":1492496528,
     "wof:name":"Chinees Restaurant Lei Pin",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803867,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

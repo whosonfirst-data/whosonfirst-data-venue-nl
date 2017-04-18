@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.110439,52.123188,5.110439,52.123188",
     "geom:latitude":52.123188,
     "geom:longitude":5.110439,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808927,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_4hbI7u1PIqlwXHB9UKh8Ap_52.123188_5.110439@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fe0dea2b0ef885a018fae271568704ee",
+    "wof:geomhash":"e809e6857303a658b98530437f6fd01e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808927,
             "region_id":85687039,
             "venue_id":236459543
         }
     ],
     "wof:id":236459543,
-    "wof:lastmodified":1473879332,
+    "wof:lastmodified":1492494441,
     "wof:name":"Nijldreef Huisartsenpraktijk",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808927,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

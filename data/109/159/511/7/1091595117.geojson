@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4280881882,51.8261260986,4.4280881882,51.8261260986",
     "geom:latitude":51.826126,
     "geom:longitude":4.428088,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.union-wonen.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474231,
+        85633337,
+        101754705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34w10deurmovGGVBCCZxON_51.826126_4.428088@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802236,
-    "wof:geomhash":"4a1fc69df79eb2bf71776dd7ea6fc8ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58a9e84d45c5d115769c7116200c3fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474231,
+            "locality_id":101754705,
+            "region_id":85687041,
+            "venue_id":1091595117
+        }
+    ],
     "wof:id":1091595117,
-    "wof:lastmodified":1473878758,
+    "wof:lastmodified":1492509611,
     "wof:name":"Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

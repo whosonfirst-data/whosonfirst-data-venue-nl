@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.898412,52.21912,6.898412,52.21912",
     "geom:latitude":52.21912,
     "geom:longitude":6.898412,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798259,
+        102542825,
+        85797623,
+        102191581,
+        404473837,
         85633337,
-        101751871,
+        101751869,
         85687045
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_5DnOdMrerwYGxtL9ljD2Fz_52.219120_6.898412@1306269924"
     },
     "wof:country":"NL",
-    "wof:geomhash":"308585d7ef38653765a19768bdb99026",
+    "wof:geomhash":"baa3ac5ca9a79a0d06b397a8fe35dffd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102542825,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751871,
-            "neighbourhood_id":85798259,
+            "localadmin_id":404473837,
+            "locality_id":101751869,
+            "neighbourhood_id":85797623,
             "region_id":85687045,
             "venue_id":219241291
         }
     ],
     "wof:id":219241291,
-    "wof:lastmodified":1473878687,
+    "wof:lastmodified":1492502135,
     "wof:name":"Hunkemoller",
-    "wof:parent_id":85798259,
+    "wof:parent_id":102542825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

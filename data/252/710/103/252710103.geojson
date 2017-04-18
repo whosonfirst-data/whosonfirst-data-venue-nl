@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9409,52.397316,4.9409,52.397316",
     "geom:latitude":52.397316,
     "geom:longitude":4.9409,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.vandesteege.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803947,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_79PcnopPAkVUSloX8IjLeH_52.397316_4.940900@1306269942"
     },
     "wof:country":"NL",
-    "wof:geomhash":"14eb73508a88651bb934289d1ee0f8e3",
+    "wof:geomhash":"5e182df8cdfe6267d4e4dce73e9fc1f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803947,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":252710103
         }
     ],
     "wof:id":252710103,
-    "wof:lastmodified":1473878467,
+    "wof:lastmodified":1492505664,
     "wof:name":"Steege Vof, Van De",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

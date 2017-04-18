@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.90889,52.343239,4.90889,52.343239",
     "geom:latitude":52.343239,
     "geom:longitude":4.90889,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.slob-fietsen.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803527,
+        1108802895,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2Oa3jXHnlBKTMT74rb66I3_52.343239_4.908890@1306269959"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ffc7ecdaceb46bf412e2947111288012",
+    "wof:geomhash":"dade783d04572b8d82732bb6f19ee47c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803527,
+            "neighbourhood_id":1108802895,
             "region_id":85687053,
             "venue_id":269917359
         }
     ],
     "wof:id":269917359,
-    "wof:lastmodified":1473879553,
+    "wof:lastmodified":1492495034,
     "wof:name":"Slob",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

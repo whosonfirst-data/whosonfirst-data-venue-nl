@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.460385,51.907223,4.460385,51.907223",
     "geom:latitude":51.907223,
     "geom:longitude":4.460385,
@@ -26,39 +27,33 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85797427,
+        102191581,
         85633337,
         101751843,
-        85687041,
-        85859785
+        1108805753,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dyDraXFDYpcVLQ5UOidIT_51.907223_4.460385@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"63815646c05989644d678be0a2bedcc3",
+    "wof:geomhash":"e3970ddae92f5430cfd12cf94a5a46a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805753,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
             "neighbourhood_id":85797427,
             "region_id":85687041,
             "venue_id":236405291
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751843,
-            "neighbourhood_id":85859785,
-            "region_id":85687041,
-            "venue_id":236405291
         }
     ],
     "wof:id":236405291,
-    "wof:lastmodified":1473879245,
+    "wof:lastmodified":1492491862,
     "wof:name":"Theater Maatwerk",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

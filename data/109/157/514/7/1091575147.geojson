@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3645148277,51.7101135254,5.3645148277,51.7101135254",
     "geom:latitude":51.710114,
     "geom:longitude":5.364515,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.spins.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474393,
+        85633337,
+        101754587
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JavaQ6yYE6OaTy1GyMOOl_51.710114_5.364515@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800810,
-    "wof:geomhash":"5a5a6342d22edbe9654a83371ee08ead",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c33e6309be70e7a1a7d2103a655e8aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474393,
+            "locality_id":101754587,
+            "region_id":85687035,
+            "venue_id":1091575147
+        }
+    ],
     "wof:id":1091575147,
-    "wof:lastmodified":1473878839,
+    "wof:lastmodified":1492511365,
     "wof:name":"Spins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

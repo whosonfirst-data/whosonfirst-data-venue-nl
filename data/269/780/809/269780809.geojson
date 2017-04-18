@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.493429,51.931511,4.493429,51.931511",
     "geom:latitude":51.931511,
     "geom:longitude":4.493429,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859861,
+        1108805837,
+        102191581,
+        1108805657,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_5UD4lDH1dqFsuvbdSCnwit_51.931511_4.493429@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"873bbf362b43f4c85dc0861dd21d297f",
+    "wof:geomhash":"6750bbcd3ab08b27c90409ae2b9396bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859861,
+            "macrohood_id":1108805657,
+            "neighbourhood_id":1108805837,
             "region_id":85687041,
             "venue_id":269780809
         }
     ],
     "wof:id":269780809,
-    "wof:lastmodified":1473879434,
+    "wof:lastmodified":1492495208,
     "wof:name":"Snack En Vishandel M. Verbeek-Looyen",
-    "wof:parent_id":85859861,
+    "wof:parent_id":1108805837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

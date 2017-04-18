@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.848255,52.347149,4.848255,52.347149",
     "geom:latitude":52.347149,
     "geom:longitude":4.848255,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.goudenwoonplein.nl/index.php3",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803473,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2C8stXId3WqWnG4f98gJ8T_52.347149_4.848255@1306269907"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0bb52e015af457f3901e942e7dda671d",
+    "wof:geomhash":"e596441e3fdea592398eb42c831c46c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803473,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":185794653
         }
     ],
     "wof:id":185794653,
-    "wof:lastmodified":1473878718,
+    "wof:lastmodified":1492488125,
     "wof:name":"Wezenberg, J C M",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

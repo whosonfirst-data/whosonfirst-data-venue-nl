@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876582,52.372124,4.876582,52.372124",
     "geom:latitude":52.372124,
     "geom:longitude":4.876582,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_12uRRBiUY9hZ4QGrhK0ugn_52.372124_4.876582@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4d2ea784b74957b2433ffcaf963ec4a3",
+    "wof:geomhash":"00cf94b205c7710fc5c351c2a7f8b153",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":253267653
         }
     ],
     "wof:id":253267653,
-    "wof:lastmodified":1473879300,
+    "wof:lastmodified":1492489700,
     "wof:name":"De Roos Grenen Meubelen",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

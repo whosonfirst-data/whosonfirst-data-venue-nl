@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.913429,52.408699,4.913429,52.408699",
     "geom:latitude":52.408699,
     "geom:longitude":4.913429,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803921,
+        1108802531,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1afiShh7XENKf6Hdy3kPJJ_52.408699_4.913429@1306269971"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a860705dba9447ab2701b33bb42c08ac",
+    "wof:geomhash":"abeac4ee83f4577d5d2cefee3f8efb96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803921,
+            "neighbourhood_id":1108802531,
             "region_id":85687053,
             "venue_id":286592753
         }
     ],
     "wof:id":286592753,
-    "wof:lastmodified":1473879240,
+    "wof:lastmodified":1492476871,
     "wof:name":"Kadoeler Breek",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

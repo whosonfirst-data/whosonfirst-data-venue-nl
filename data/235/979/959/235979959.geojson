@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.920469,52.354004,4.920469,52.354004",
     "geom:latitude":52.354004,
     "geom:longitude":4.920469,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803941,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_238cZcjw4cJs13bEYYK5Q8_52.354004_4.920469@1306269933"
     },
     "wof:country":"NL",
-    "wof:geomhash":"14c4d07c18540f5838d61145786910bb",
+    "wof:geomhash":"23612e9fd699c796ffb18717a739474a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":235979959
         }
     ],
     "wof:id":235979959,
-    "wof:lastmodified":1473878600,
+    "wof:lastmodified":1492514628,
     "wof:name":"Anne Wirtz",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

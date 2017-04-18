@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.902689,52.346085,4.902689,52.346085",
     "geom:latitude":52.346085,
     "geom:longitude":4.902689,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804281,
+        1108802897,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_63pOOqK6JEVaJEcscIuB6O_52.346085_4.902689@1306270007"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ddbb901e0ef79c1951a4ba048c72911c",
+    "wof:geomhash":"c1b96178d5c5c284d2bbe0daa1050e68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108804281,
+            "neighbourhood_id":1108802897,
             "region_id":85687053,
             "venue_id":336897651
         }
     ],
     "wof:id":336897651,
-    "wof:lastmodified":1473878456,
+    "wof:lastmodified":1492506366,
     "wof:name":"Derks",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

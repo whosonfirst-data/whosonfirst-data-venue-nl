@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.867753,52.365349,4.867753,52.365349",
     "geom:latitude":52.365349,
     "geom:longitude":4.867753,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803675,
+        1108802933,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3FnaJMl4x5K7FTZE36nmFV_52.365349_4.867753@1306269971"
     },
     "wof:country":"NL",
-    "wof:geomhash":"789ec1ae911da053bd7f131a6f7331f5",
+    "wof:geomhash":"a5f6161e69be6325ea54f5e31ce404b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803675,
+            "neighbourhood_id":1108802933,
             "region_id":85687053,
             "venue_id":286593319
         }
     ],
     "wof:id":286593319,
-    "wof:lastmodified":1473879227,
+    "wof:lastmodified":1492476601,
     "wof:name":"Klinker, De",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

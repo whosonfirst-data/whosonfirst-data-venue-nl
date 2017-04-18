@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.293872,52.068844,4.293872,52.068844",
     "geom:latitude":52.068844,
     "geom:longitude":4.293872,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798385,
+        1108808267,
+        102191581,
+        1108805975,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_2TuDQHIBx4RunBnzNB5lrK_52.068844_4.293872@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3edc894b731b844fb983469646b3d0f7",
+    "wof:geomhash":"857f33218ff0149c73573216bdd7df46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798385,
+            "macrohood_id":1108805975,
+            "neighbourhood_id":1108808267,
             "region_id":85687041,
             "venue_id":269773563
         }
     ],
     "wof:id":269773563,
-    "wof:lastmodified":1473879396,
+    "wof:lastmodified":1492494716,
     "wof:name":"Piet Patat",
-    "wof:parent_id":85798385,
+    "wof:parent_id":1108808267,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

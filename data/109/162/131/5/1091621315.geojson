@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.136964798,52.0794372559,5.136964798,52.0794372559",
     "geom:latitude":52.079437,
     "geom:longitude":5.136965,
@@ -24,13 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798509,
+        1108808855,
         102191581,
-        404474007,
         85633337,
         101751827,
-        85687039,
-        85859943
+        1108808669,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,28 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473803994,
-    "wof:geomhash":"3c972e4316ee19f98b1ebfd99ef7fdb0",
+    "wof:geomhash":"3fe1c0d2c7034a40b7d9ed993b78127d",
     "wof:hierarchy":[
         {
+            "borough_id":1108808669,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474007,
             "locality_id":101751827,
-            "neighbourhood_id":85798509,
-            "region_id":85687039,
-            "venue_id":1091621315
-        },
-        {
-            "country_id":85633337,
-            "neighbourhood_id":85859943,
+            "neighbourhood_id":1108808855,
             "region_id":85687039,
             "venue_id":1091621315
         }
     ],
     "wof:id":1091621315,
-    "wof:lastmodified":1473878535,
+    "wof:lastmodified":1492512189,
     "wof:name":"Cartoon Haarmode",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108808855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

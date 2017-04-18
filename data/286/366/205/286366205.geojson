@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877745,52.397522,4.877745,52.397522",
     "geom:latitude":52.397522,
     "geom:longitude":4.877745,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803287,
+        1108802955,
+        102191581,
         85633337,
         101751893,
+        1108802287,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3UtkT1l2WAqZd163nQnPkX_52.397522_4.877745@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f65d336031667c613e29e1e574eba762",
+    "wof:geomhash":"4f1cc282bb5c11c23c1979a8b476e4d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802287,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803287,
+            "neighbourhood_id":1108802955,
             "region_id":85687053,
             "venue_id":286366205
         }
     ],
     "wof:id":286366205,
-    "wof:lastmodified":1473878910,
+    "wof:lastmodified":1492476741,
     "wof:name":"Topficie",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803287,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

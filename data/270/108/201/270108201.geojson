@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.910737,52.356136,4.910737,52.356136",
     "geom:latitude":52.356136,
     "geom:longitude":4.910737,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803259,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_3Q7jfjfzJiXOZ6wGvARVWF_52.356136_4.910737@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bf8adf12ae6f735a60ba86f26699de5d",
+    "wof:geomhash":"44fe4f5c30688b9f0a0f3591cbd060f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803259,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":270108201
         }
     ],
     "wof:id":270108201,
-    "wof:lastmodified":1473878607,
+    "wof:lastmodified":1492499926,
     "wof:name":"Filmpost",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

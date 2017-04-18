@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.888235,52.408268,4.888235,52.408268",
     "geom:latitude":52.408268,
     "geom:longitude":4.888235,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803821,
+        1108802545,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_4rSVTOLnqII4pBNTAAgOVB_52.408268_4.888235@1306269914"
     },
     "wof:country":"NL",
-    "wof:geomhash":"430d1a72399b729ecf87175c62afdabd",
+    "wof:geomhash":"d2f914b774cb247079514487fdfd6975",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803821,
+            "neighbourhood_id":1108802545,
             "region_id":85687053,
             "venue_id":202378201
         }
     ],
     "wof:id":202378201,
-    "wof:lastmodified":1473878482,
+    "wof:lastmodified":1492497930,
     "wof:name":"Plug Bv",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803821,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

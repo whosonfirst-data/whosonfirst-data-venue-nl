@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.857778,52.384209,4.857778,52.384209",
     "geom:latitude":52.384209,
     "geom:longitude":4.857778,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803891,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0ayuI9moHqyM7Ou1RF5x4i_52.384209_4.857778@1306269987"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9c955ea9227171978931b4ff249669c0",
+    "wof:geomhash":"52d6e6033b990461010400a5cb7324ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803891,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":303777461
         }
     ],
     "wof:id":303777461,
-    "wof:lastmodified":1473879513,
+    "wof:lastmodified":1492472695,
     "wof:name":"Portobeo",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803891,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

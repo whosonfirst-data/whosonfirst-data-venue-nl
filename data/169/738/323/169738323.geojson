@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.990241,52.300968,4.990241,52.300968",
     "geom:latitude":52.300968,
     "geom:longitude":4.990241,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803973,
+        1108802809,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2hLPdAeOFQNjN0IlqURkrC_52.300968_4.990241@1306269905"
     },
     "wof:country":"NL",
-    "wof:geomhash":"85d861e681fd95e64fca2997758fbcfe",
+    "wof:geomhash":"2ccd97bff98206d69f06e130783244ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803973,
+            "neighbourhood_id":1108802809,
             "region_id":85687053,
             "venue_id":169738323
         }
     ],
     "wof:id":169738323,
-    "wof:lastmodified":1473878608,
+    "wof:lastmodified":1492478781,
     "wof:name":"Lunteren, Ria Van",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

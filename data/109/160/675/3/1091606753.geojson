@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"123.555870056,13.2407102585,123.555870056,13.2407102585",
     "geom:latitude":13.24071,
     "geom:longitude":123.55587,
@@ -23,17 +24,30 @@
     "sg:postcode":"4504 PH",
     "sg:province":"PH.",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        "102191569",
+        "85632509",
+        85676011,
+        1108698083
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qOznb6GWDQEnGUClmnuHT_13.240710_123.555870@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803202,
-    "wof:geomhash":"69a47a7608d0a96062f49999f6dfe404",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b7d932888c8fabed09b028f90f024c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632509",
+            "county_id":1108698083,
+            "region_id":85676011,
+            "venue_id":1091606753
+        }
+    ],
     "wof:id":1091606753,
-    "wof:lastmodified":1473878842,
+    "wof:lastmodified":1492512610,
     "wof:name":"Camping Hof Ter Willegen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

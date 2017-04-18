@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0557360649,52.0741920471,5.0557360649,52.0741920471",
     "geom:latitude":52.074192,
     "geom:longitude":5.055736,
@@ -25,8 +26,11 @@
     "sg:website":"http://www.drakadata.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808693,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808673,
         85687039
     ],
     "wof:breaches":[],
@@ -35,19 +39,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473802858,
-    "wof:geomhash":"005017ae2c86a50a5cb5663b46ae3e91",
+    "wof:geomhash":"68677ace39467c8014b8d1d623882888",
     "wof:hierarchy":[
         {
+            "borough_id":1108808673,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808693,
             "region_id":85687039,
             "venue_id":1091604471
         }
     ],
     "wof:id":1091604471,
-    "wof:lastmodified":1473878683,
+    "wof:lastmodified":1492512909,
     "wof:name":"Draka Bv",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808693,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

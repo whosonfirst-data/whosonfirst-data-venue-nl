@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.562877,51.944859,4.562877,51.944859",
     "geom:latitude":51.944859,
     "geom:longitude":4.562877,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qRkpNR4TKs29W1b6FmHiw_51.944859_4.562877@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9b256173671137f6819e3d7a880ba552",
+    "wof:geomhash":"5454aeefb152a6fc89650f24c79c5599",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":320274611
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798177,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":320274611,
-    "wof:lastmodified":1473879167,
+    "wof:lastmodified":1492481858,
     "wof:name":"Grebro",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

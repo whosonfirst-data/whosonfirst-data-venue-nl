@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.295946,52.072269,4.295946,52.072269",
     "geom:latitude":52.072269,
     "geom:longitude":4.295946,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798385,
+        1108808259,
+        102191581,
+        1108808035,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1c66yhYRbClwdeuta5GM4C_52.072269_4.295946@1306269987"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6a5d26c7b79b34f06c534436916d0f34",
+    "wof:geomhash":"fa5e57d8f8395093fd1a673de46fcf52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798385,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808259,
             "region_id":85687041,
             "venue_id":303746155
         }
     ],
     "wof:id":303746155,
-    "wof:lastmodified":1473879503,
+    "wof:lastmodified":1492471500,
     "wof:name":"Drukkerij Zandbergen",
-    "wof:parent_id":85798385,
+    "wof:parent_id":1108808259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

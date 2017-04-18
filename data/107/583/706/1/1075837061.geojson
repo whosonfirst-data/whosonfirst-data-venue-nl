@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4772310257,51.9381408691,4.4772310257,51.9381408691",
     "geom:latitude":51.938141,
     "geom:longitude":4.477231,
@@ -24,13 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859845,
+        85859823,
         102191581,
-        404474245,
         85633337,
-        101753095,
-        85687041,
-        85859819
+        101751843,
+        1108804843,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,31 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473800168,
-    "wof:geomhash":"23c528f1a9ad719f0945c6159200e21e",
+    "wof:geomhash":"6df4837a3e981a0f8ad356321fc0f78a",
     "wof:hierarchy":[
         {
+            "borough_id":1108804843,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474245,
-            "locality_id":101753095,
-            "neighbourhood_id":85859845,
-            "region_id":85687041,
-            "venue_id":1075837061
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474245,
-            "locality_id":101753095,
-            "neighbourhood_id":85859819,
+            "locality_id":101751843,
+            "neighbourhood_id":85859823,
             "region_id":85687041,
             "venue_id":1075837061
         }
     ],
     "wof:id":1075837061,
-    "wof:lastmodified":1473879500,
+    "wof:lastmodified":1492485901,
     "wof:name":"Lips Rijnmond Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

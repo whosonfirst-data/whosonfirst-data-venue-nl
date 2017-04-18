@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893115,52.380032,4.893115,52.380032",
     "geom:latitude":52.380032,
     "geom:longitude":4.893115,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803261,
+        1108802819,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_71k7eOuZyDKv5ySlb5e4jd_52.380032_4.893115@1306269998"
     },
     "wof:country":"NL",
-    "wof:geomhash":"89564b17baf4376d25f17ff0ec948c92",
+    "wof:geomhash":"447468ab75066c495a1a4308ffe580f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803261,
+            "neighbourhood_id":1108802819,
             "region_id":85687053,
             "venue_id":320460635
         }
     ],
     "wof:id":320460635,
-    "wof:lastmodified":1473879332,
+    "wof:lastmodified":1492482340,
     "wof:name":"Hans Lesger",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.476937,51.943569,4.476937,51.943569",
     "geom:latitude":51.943569,
     "geom:longitude":4.476937,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859841,
+        1108805793,
+        102191581,
+        1108805981,
         85633337,
-        101753095,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2UvMQpVN22bcaiZOFpsGO1_51.943569_4.476937@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b35f2be9cbe88bf053e97026c58b0138",
+    "wof:geomhash":"74ad342f01fa263743ca02e88a37006f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859841,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805793,
             "region_id":85687041,
             "venue_id":269676993
         }
     ],
     "wof:id":269676993,
-    "wof:lastmodified":1473879280,
+    "wof:lastmodified":1492496558,
     "wof:name":"De Baronie, Organisatie En Presentatie",
-    "wof:parent_id":85859841,
+    "wof:parent_id":1108805793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

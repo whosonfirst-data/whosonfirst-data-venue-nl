@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.789085865,53.1924171448,5.789085865,53.1924171448",
     "geom:latitude":53.192417,
     "geom:longitude":5.789086,
@@ -24,13 +25,13 @@
     "sg:province":"Friesland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633337,
+        85798141,
+        85687055,
         85797735,
         102191581,
         404473775,
-        85633337,
-        101751907,
-        85687055,
-        85798141
+        101751907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +39,14 @@
     },
     "wof:country":"NL",
     "wof:created":1473805041,
-    "wof:geomhash":"14feebf9449dfa9b2aa5def1aeb4003b",
+    "wof:geomhash":"34927186865a05eca5225cf5addbd665",
     "wof:hierarchy":[
+        {
+            "country_id":85633337,
+            "neighbourhood_id":85798141,
+            "region_id":85687055,
+            "venue_id":1091636647
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -48,18 +55,12 @@
             "neighbourhood_id":85797735,
             "region_id":85687055,
             "venue_id":1091636647
-        },
-        {
-            "country_id":85633337,
-            "neighbourhood_id":85798141,
-            "region_id":85687055,
-            "venue_id":1091636647
         }
     ],
     "wof:id":1091636647,
-    "wof:lastmodified":1473878757,
+    "wof:lastmodified":1492510318,
     "wof:name":"Kapsalon Rene Brul",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.566688,51.962975,4.566688,51.962975",
     "geom:latitude":51.962975,
     "geom:longitude":4.566688,
@@ -26,20 +27,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798779,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TYlVEpY3QDJtw1rlMuTo8_51.962975_4.566688@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f0f47e1920a930556793c500ca2c50f4",
+    "wof:geomhash":"3a3fd30e6fa2295cc9ec87f5a194a4e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798779,
+            "region_id":85687041,
+            "venue_id":202849219
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798779,
             "region_id":85687041,
@@ -47,7 +63,7 @@
         }
     ],
     "wof:id":202849219,
-    "wof:lastmodified":1473879363,
+    "wof:lastmodified":1492499055,
     "wof:name":"Stufkens, A",
     "wof:parent_id":85798779,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.944309,52.306583,4.944309,52.306583",
     "geom:latitude":52.306583,
     "geom:longitude":4.944309,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.initial-varel.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797113,
+        1108803677,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_44kWTfsU2gi1mDEH8SouUy_52.306583_4.944309@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5d78fe7cf11170c35ca24e6f80cc496d",
+    "wof:geomhash":"5cf20a360e09d933eef2cbf6193f66ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797113,
+            "locality_id":101751893,
+            "microhood_id":1108803677,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":286695663
         }
     ],
     "wof:id":286695663,
-    "wof:lastmodified":1473879442,
+    "wof:lastmodified":1492477914,
     "wof:name":"Initial Varel",
-    "wof:parent_id":85797113,
+    "wof:parent_id":1108803677,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

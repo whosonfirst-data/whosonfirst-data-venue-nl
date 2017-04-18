@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879312,52.415798,4.879312,52.415798",
     "geom:latitude":52.415798,
     "geom:longitude":4.879312,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804079,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1I5woiZUEdF1gktfySgWaw_52.415798_4.879312@1306269992"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4c28d809b476cbc59578004330bd870f",
+    "wof:geomhash":"863cc27f62ee2c3ae7c46450964da134",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108804079,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":319917013
         }
     ],
     "wof:id":319917013,
-    "wof:lastmodified":1473878855,
+    "wof:lastmodified":1492479046,
     "wof:name":"H.A. Bon Electronik",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108804079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

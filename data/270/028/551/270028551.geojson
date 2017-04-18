@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.84319,52.361698,4.84319,52.361698",
     "geom:latitude":52.361698,
     "geom:longitude":4.84319,
@@ -24,40 +25,36 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108804211,
+        85798223,
+        102191581,
         85633337,
         101751893,
-        85687053,
-        85798223
+        1108802279,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_002mGSZ6dbaIqfjWJ8MElj_52.361698_4.843190@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1c76d7ff83cb63f595d957084397845a",
+    "wof:geomhash":"ac5286d4798be662a698789ca93777e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
-            "region_id":85687053,
-            "venue_id":270028551
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751893,
+            "microhood_id":1108804211,
             "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":270028551
         }
     ],
     "wof:id":270028551,
-    "wof:lastmodified":1473878505,
+    "wof:lastmodified":1492499902,
     "wof:name":"Groensparen",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108804211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

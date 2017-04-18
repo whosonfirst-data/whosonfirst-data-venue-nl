@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.868254,52.346348,4.868254,52.346348",
     "geom:latitude":52.346348,
     "geom:longitude":4.868254,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803617,
+        1108802527,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_0E8PxTZTd6Al7eF4DHgn6W_52.346348_4.868254@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"daf77127209b3b4bbb62865fefd5a371",
+    "wof:geomhash":"cdca9a6e082bde9eb547882af430bd31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803617,
+            "neighbourhood_id":1108802527,
             "region_id":85687053,
             "venue_id":303145739
         }
     ],
     "wof:id":303145739,
-    "wof:lastmodified":1473878787,
+    "wof:lastmodified":1492474842,
     "wof:name":"Renzema",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803617,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.965454,52.394138,4.965454,52.394138",
     "geom:latitude":52.394138,
     "geom:longitude":4.965454,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108804147,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3URgwUfHdhi4X48Ugp4Yal_52.394138_4.965454@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a6e66b7a1d8de6a44c37983457d99807",
+    "wof:geomhash":"9f1bc4814797943e4019c5194e68c09e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804147,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":320806487
         }
     ],
     "wof:id":320806487,
-    "wof:lastmodified":1473879616,
+    "wof:lastmodified":1492482478,
     "wof:name":"Orient Sportclub",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108804147,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

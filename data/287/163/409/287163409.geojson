@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.855898,52.381348,4.855898,52.381348",
     "geom:latitude":52.381348,
     "geom:longitude":4.855898,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803615,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5khir7D86Db1SL33QVKkXg_52.381348_4.855898@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"93256f7686d1d91546b51513dcf371d9",
+    "wof:geomhash":"51442d886a85d7e850c1ff1b45501d5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803615,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":287163409
         }
     ],
     "wof:id":287163409,
-    "wof:lastmodified":1473878928,
+    "wof:lastmodified":1492513569,
     "wof:name":"Ridder, Frans",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

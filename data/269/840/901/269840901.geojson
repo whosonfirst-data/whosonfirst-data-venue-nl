@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885978,52.383537,4.885978,52.383537",
     "geom:latitude":52.383537,
     "geom:longitude":4.885978,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803395,
+        1108802819,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_6pV9XopC2K8u01gEDJxAJG_52.383537_4.885978@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3ba3f0e48612191b20cea304dfaaa565",
+    "wof:geomhash":"0743dbb210c4b656647bfa5c6f9a3fd6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803395,
+            "neighbourhood_id":1108802819,
             "region_id":85687053,
             "venue_id":269840901
         }
     ],
     "wof:id":269840901,
-    "wof:lastmodified":1473879540,
+    "wof:lastmodified":1492496167,
     "wof:name":"Restaurant Da Noi",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

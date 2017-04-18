@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.859705,52.382656,4.859705,52.382656",
     "geom:latitude":52.382656,
     "geom:longitude":4.859705,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803891,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5cuS10b77WTSjrNFQywRpJ_52.382656_4.859705@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7a422d8279658d543f4e5687fe9ef7d5",
+    "wof:geomhash":"b302517c0c47a518294e9c69323be178",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803891,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":320801583
         }
     ],
     "wof:id":320801583,
-    "wof:lastmodified":1473879625,
+    "wof:lastmodified":1492484048,
     "wof:name":"Staverno",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803891,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

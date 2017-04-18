@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8010101318,52.7080001831,4.8010101318,52.7080001831",
     "geom:latitude":52.708,
     "geom:longitude":4.80101,
@@ -24,17 +25,32 @@
     "sg:province":"North Holland",
     "sg:website":"http://www.jk.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474093,
+        85633337,
+        101754817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4618xHXMe2eDWZebnpD28t_52.708000_4.801010@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800695,
-    "wof:geomhash":"5963a2efe979a611dc93b1bc6380944c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69b555b1211e6880091f4a996c659082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474093,
+            "locality_id":101754817,
+            "region_id":85687053,
+            "venue_id":1091573479
+        }
+    ],
     "wof:id":1091573479,
-    "wof:lastmodified":1473878711,
+    "wof:lastmodified":1492511368,
     "wof:name":"Jk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

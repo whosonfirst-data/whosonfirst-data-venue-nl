@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.505217,51.88076,4.505217,51.88076",
     "geom:latitude":51.88076,
     "geom:longitude":4.505217,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859887,
+        1108805711,
+        85798609,
+        102191581,
         85633337,
         101751843,
+        1108805747,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_0sLhnSreQRDV6EyEkEWdol_51.880760_4.505217@1306269951"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c1fc6c2a416077bd4a00e5706f27962c",
+    "wof:geomhash":"065d9d884ba2ef48f0bd109202a0aeab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805747,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859887,
+            "microhood_id":1108805711,
+            "neighbourhood_id":85798609,
             "region_id":85687041,
             "venue_id":253570629
         }
     ],
     "wof:id":253570629,
-    "wof:lastmodified":1473879702,
+    "wof:lastmodified":1492488787,
     "wof:name":"Patijn, J",
-    "wof:parent_id":85859887,
+    "wof:parent_id":1108805711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

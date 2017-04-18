@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.856543,52.360783,4.856543,52.360783",
     "geom:latitude":52.360783,
     "geom:longitude":4.856543,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803531,
+        1108802957,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0DKFTG7sRdrr2VUoPAZCpg_52.360783_4.856543@1306269959"
     },
     "wof:country":"NL",
-    "wof:geomhash":"20fc72fbf1ee69573256a60c6e769576",
+    "wof:geomhash":"b126909d3b614de8f6134a3791b18f40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803531,
+            "neighbourhood_id":1108802957,
             "region_id":85687053,
             "venue_id":269896843
         }
     ],
     "wof:id":269896843,
-    "wof:lastmodified":1473879563,
+    "wof:lastmodified":1492495371,
     "wof:name":"Klaver, Tweewielers",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

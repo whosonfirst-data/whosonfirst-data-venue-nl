@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.93273,52.352539,4.93273,52.352539",
     "geom:latitude":52.352539,
     "geom:longitude":4.93273,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803929,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_3y2JzPxLvFSXrbD6DYQr9n_52.352539_4.932730@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"842bbf67a0b3ee44b2df007c41c05b44",
+    "wof:geomhash":"83cbd01ea6e3a24aa390f55e6a761f1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803929,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":336749917
         }
     ],
     "wof:id":336749917,
-    "wof:lastmodified":1473878429,
+    "wof:lastmodified":1492505753,
     "wof:name":"Rijnen Accountants",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

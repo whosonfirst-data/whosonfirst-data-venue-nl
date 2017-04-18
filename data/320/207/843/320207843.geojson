@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.89542,52.37524,4.89542,52.37524",
     "geom:latitude":52.37524,
     "geom:longitude":4.89542,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803257,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_6E6vU1D8CBScmrrC9cOgsU_52.375240_4.895420@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ff05ae889e5c196730a679e7161ea1a2",
+    "wof:geomhash":"979c10f2719411f3e01e97332dbd21b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803257,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":320207843
         }
     ],
     "wof:id":320207843,
-    "wof:lastmodified":1473879107,
+    "wof:lastmodified":1492484011,
     "wof:name":"Holiday Gift Shop Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.5850296021,38.350479126,-94.5850296021,38.350479126",
     "geom:latitude":38.350479,
     "geom:longitude":-94.58503,
@@ -24,17 +25,34 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.simpatico.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688661,
+        102191575,
+        404515397,
+        85633793,
+        85971891,
+        102085289
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ouIpdYHVq7zc1p9DpDAzI_38.350479_-94.585030@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802887,
-    "wof:geomhash":"72fc8b93ca27d1c5159e1c4a08743411",
-    "wof:hierarchy":[],
+    "wof:geomhash":"818e57e1e86c184c3d98a3002242a92c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085289,
+            "localadmin_id":404515397,
+            "locality_id":85971891,
+            "region_id":85688661,
+            "venue_id":1091604633
+        }
+    ],
     "wof:id":1091604633,
-    "wof:lastmodified":1473878675,
+    "wof:lastmodified":1492512818,
     "wof:name":"Simpatico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

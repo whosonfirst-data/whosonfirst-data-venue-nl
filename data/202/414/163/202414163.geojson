@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.719441,52.32375,4.719441,52.32375",
     "geom:latitude":52.32375,
     "geom:longitude":4.719441,
@@ -24,29 +25,32 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        85687053
+        102542801,
+        85687053,
+        102191581,
+        404474065,
+        85633337
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Wd4503jzFzw9Y0uYfWzNz_52.323750_4.719441@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"674682da119922eaff42ee0aede0eaac",
+    "wof:geomhash":"99e0eca1060cdfb4784bac1ae80de6f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102542801,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "localadmin_id":404474065,
             "region_id":85687053,
             "venue_id":202414163
         }
     ],
     "wof:id":202414163,
-    "wof:lastmodified":1473878603,
+    "wof:lastmodified":1492497482,
     "wof:name":"Ketel",
-    "wof:parent_id":-1,
+    "wof:parent_id":102542801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

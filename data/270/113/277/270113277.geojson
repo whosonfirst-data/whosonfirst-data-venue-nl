@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.907155,52.353336,4.907155,52.353336",
     "geom:latitude":52.353336,
     "geom:longitude":4.907155,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803241,
+        1108802865,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3gAqParo91VdaOXwpCjzTS_52.353336_4.907155@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dc7b9010ebccd2da6a3a7d9dd8c48b2e",
+    "wof:geomhash":"d5a437cb40797c3f682f34bb7dc49b5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803241,
+            "neighbourhood_id":1108802865,
             "region_id":85687053,
             "venue_id":270113277
         }
     ],
     "wof:id":270113277,
-    "wof:lastmodified":1473878616,
+    "wof:lastmodified":1492500480,
     "wof:name":"Maria Austria Inst",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

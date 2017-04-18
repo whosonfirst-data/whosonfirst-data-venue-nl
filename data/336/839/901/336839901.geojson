@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.522242,51.891933,4.522242,51.891933",
     "geom:latitude":51.891933,
     "geom:longitude":4.522242,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.guisbv.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859895,
+        1108805665,
+        1108805789,
+        102191581,
         85633337,
         101751843,
+        1108805721,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_0pApNBMvhZF5zCJ0FtO7ap_51.891933_4.522242@1306270006"
     },
     "wof:country":"NL",
-    "wof:geomhash":"857e826c0095eabba946b2b95754a0e7",
+    "wof:geomhash":"0f8c111859104c3a65a93083cebbe65b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805721,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859895,
+            "microhood_id":1108805665,
+            "neighbourhood_id":1108805789,
             "region_id":85687041,
             "venue_id":336839901
         }
     ],
     "wof:id":336839901,
-    "wof:lastmodified":1473878464,
+    "wof:lastmodified":1492506096,
     "wof:name":"Guis Bv",
-    "wof:parent_id":85859895,
+    "wof:parent_id":1108805665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

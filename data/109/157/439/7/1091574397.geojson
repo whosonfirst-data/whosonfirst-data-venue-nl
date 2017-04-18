@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8538007736,50.8863182068,5.8538007736,50.8863182068",
     "geom:latitude":50.886318,
     "geom:longitude":5.853801,
@@ -24,17 +25,32 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.paradog.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474509,
+        85633337,
+        101809549
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NhFT5rLq4HfE1Yt5g3ipp_50.886318_5.853801@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800753,
-    "wof:geomhash":"fb816cc9fa64f08ff8d3865be3a7a757",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b7855734b5529f8bbf3490f6d5f7f97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474509,
+            "locality_id":101809549,
+            "region_id":85687033,
+            "venue_id":1091574397
+        }
+    ],
     "wof:id":1091574397,
-    "wof:lastmodified":1473878772,
+    "wof:lastmodified":1492511472,
     "wof:name":"Paradog",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

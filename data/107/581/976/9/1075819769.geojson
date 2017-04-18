@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7438521385,51.4050216675,5.7438521385,51.4050216675",
     "geom:latitude":51.405022,
     "geom:longitude":5.743852,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.philipoptiek.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474347,
+        85633337,
+        101809687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yQzriw8An8PZnLC6BG9zN_51.405022_5.743852@1306270009"
     },
     "wof:country":"NL",
     "wof:created":1473799110,
-    "wof:geomhash":"a1364e2aa234d09a279ec21f0ac72481",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0791a96414a313c1bf75161f375d372a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474347,
+            "locality_id":101809687,
+            "region_id":85687035,
+            "venue_id":1075819769
+        }
+    ],
     "wof:id":1075819769,
-    "wof:lastmodified":1473879205,
+    "wof:lastmodified":1492486388,
     "wof:name":"Philip Optiek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

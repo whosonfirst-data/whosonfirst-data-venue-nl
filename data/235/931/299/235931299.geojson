@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.836653,52.355251,4.836653,52.355251",
     "geom:latitude":52.355251,
     "geom:longitude":4.836653,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803581,
+        1108802959,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3glNaTvna2QtlV3YK3306H_52.355251_4.836653@1306269933"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0b39827672c5bf3f329ed38a41f987bb",
+    "wof:geomhash":"ce5cda5cb215373a0a5be230e7b337ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803581,
+            "neighbourhood_id":1108802959,
             "region_id":85687053,
             "venue_id":235931299
         }
     ],
     "wof:id":235931299,
-    "wof:lastmodified":1473878443,
+    "wof:lastmodified":1492514500,
     "wof:name":"Vries, Hans De",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

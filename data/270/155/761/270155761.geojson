@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.925479,52.350845,4.925479,52.350845",
     "geom:latitude":52.350845,
     "geom:longitude":4.925479,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804165,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2lRmxvioB1Ewgrn5zEnzTM_52.350845_4.925479@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8b22f53ba5ea31246aed49055895b4c0",
+    "wof:geomhash":"1ecaa1bcb57823c1feb1bb0ca89a9abb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804165,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":270155761
         }
     ],
     "wof:id":270155761,
-    "wof:lastmodified":1473878670,
+    "wof:lastmodified":1492500985,
     "wof:name":"Rebel, Erique J",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

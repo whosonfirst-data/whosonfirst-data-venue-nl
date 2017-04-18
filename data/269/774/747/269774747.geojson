@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.911519,52.338242,4.911519,52.338242",
     "geom:latitude":52.338242,
     "geom:longitude":4.911519,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804067,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_7JKo0boUcKM1r6Pe39FQXr_52.338242_4.911519@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4c4b940b79aca739f520dd0a85604b94",
+    "wof:geomhash":"5e1070f38865b0b0f6cfc1589cf8dc19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804067,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":269774747
         }
     ],
     "wof:id":269774747,
-    "wof:lastmodified":1473879411,
+    "wof:lastmodified":1492496213,
     "wof:name":"R. Wals",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

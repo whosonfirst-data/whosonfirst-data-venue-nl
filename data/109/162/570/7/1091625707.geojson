@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2167692184,51.9984970093,4.2167692184,51.9984970093",
     "geom:latitude":51.998497,
     "geom:longitude":4.216769,
@@ -24,9 +25,11 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
         85633337,
-        85859575,
-        85687041
+        101837719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473804237,
-    "wof:geomhash":"a247756606091cab512d97edf90fd4d0",
+    "wof:geomhash":"61674e37f86cee9031a93aebe6c7496e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85859575,
+            "localadmin_id":404474667,
+            "locality_id":101837719,
             "region_id":85687041,
             "venue_id":1091625707
         }
     ],
     "wof:id":1091625707,
-    "wof:lastmodified":1473878865,
+    "wof:lastmodified":1492512057,
     "wof:name":"Figaro",
-    "wof:parent_id":85859575,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

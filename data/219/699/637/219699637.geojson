@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.129417,52.067299,5.129417,52.067299",
     "geom:latitude":52.067299,
     "geom:longitude":5.129417,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859943,
+        1108808795,
+        102191581,
+        1108832363,
         85633337,
+        101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_39MXvWC4xNoZkH1yiGr3ib_52.067299_5.129417@1306269928"
     },
     "wof:country":"NL",
-    "wof:geomhash":"aa27123d52104498e0408e70b2e9e4ac",
+    "wof:geomhash":"3af9985269da023583f999693188dc32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859943,
+            "locality_id":101751827,
+            "macrohood_id":1108832363,
+            "neighbourhood_id":1108808795,
             "region_id":85687039,
             "venue_id":219699637
         }
     ],
     "wof:id":219699637,
-    "wof:lastmodified":1473879598,
+    "wof:lastmodified":1492503053,
     "wof:name":"Oorschot",
-    "wof:parent_id":85859943,
+    "wof:parent_id":1108808795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

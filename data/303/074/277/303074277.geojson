@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.854951,52.350491,4.854951,52.350491",
     "geom:latitude":52.350491,
     "geom:longitude":4.854951,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803439,
+        1108802899,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7MtOF3XmgLrqzKWeBzfcZT_52.350491_4.854951@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c36c203abbc2448d2107fbcb48559025",
+    "wof:geomhash":"abcb13e01a13d481f62283d332d92be1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803439,
+            "neighbourhood_id":1108802899,
             "region_id":85687053,
             "venue_id":303074277
         }
     ],
     "wof:id":303074277,
-    "wof:lastmodified":1473878598,
+    "wof:lastmodified":1492474229,
     "wof:name":"Strega",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

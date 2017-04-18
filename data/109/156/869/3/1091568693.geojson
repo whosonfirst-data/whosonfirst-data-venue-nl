@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6188869476,52.4045982361,6.6188869476,52.4045982361",
     "geom:latitude":52.404598,
     "geom:longitude":6.618887,
@@ -24,17 +25,32 @@
     "sg:province":"NL.08",
     "sg:website":"http://www.maimtec.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474611,
+        85633337,
+        101808749
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38hirsGnknpZNtIOxYMOt1_52.404598_6.618887@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800375,
-    "wof:geomhash":"7d40e21bae7868fe98149204fca2ce1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63d629a7ee6b2f1785eb29a43747dae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474611,
+            "locality_id":101808749,
+            "region_id":85687045,
+            "venue_id":1091568693
+        }
+    ],
     "wof:id":1091568693,
-    "wof:lastmodified":1473878529,
+    "wof:lastmodified":1492510848,
     "wof:name":"Maimtec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

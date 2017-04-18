@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.498989,51.895695,4.498989,51.895695",
     "geom:latitude":51.895695,
     "geom:longitude":4.498989,
@@ -25,39 +26,33 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85797139,
+        102191581,
         85633337,
         101751843,
-        85687041,
-        85859879
+        1108805747,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53ASf5jNzhnzlpgViQVeN6_51.895695_4.498989@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"18481df06da0216dc0f375eaf3d23df2",
+    "wof:geomhash":"cf7a4bb94abce5301f166c108f9bc747",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805747,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
             "neighbourhood_id":85797139,
             "region_id":85687041,
             "venue_id":203240499
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751843,
-            "neighbourhood_id":85859879,
-            "region_id":85687041,
-            "venue_id":203240499
         }
     ],
     "wof:id":203240499,
-    "wof:lastmodified":1473879200,
+    "wof:lastmodified":1492480870,
     "wof:name":"Videoscoop",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

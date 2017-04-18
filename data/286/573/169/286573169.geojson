@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.378801,51.934124,4.378801,51.934124",
     "geom:latitude":51.934124,
     "geom:longitude":4.378801,
@@ -25,9 +26,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85797797,
+        102191581,
+        404474253,
         85633337,
         85687041,
         85859657,
+        404474273,
         101751851
     ],
     "wof:breaches":[],
@@ -35,19 +39,20 @@
         "sg:id":"SG_6Mf9Ornm58duHKeJAaRucj_51.934124_4.378801@1306269970"
     },
     "wof:country":"NL",
-    "wof:geomhash":"db6edead88a9141c415fd801b18f28f5",
+    "wof:geomhash":"b64203bc7e46fd582554ec0005103371",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "localadmin_id":404474253,
             "neighbourhood_id":85797797,
             "region_id":85687041,
             "venue_id":286573169
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474273,
             "locality_id":101751851,
             "neighbourhood_id":85859657,
             "region_id":85687041,
@@ -55,9 +60,9 @@
         }
     ],
     "wof:id":286573169,
-    "wof:lastmodified":1473879221,
+    "wof:lastmodified":1492477593,
     "wof:name":"Boelhouwers Schiedam Vof, A",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

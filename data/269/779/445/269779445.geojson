@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.29785,52.051208,4.29785,52.051208",
     "geom:latitude":52.051208,
     "geom:longitude":4.29785,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798031,
+        1108808297,
+        102191581,
+        1108833203,
         85633337,
-        101754743,
+        101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_2nxHd2hpPbvUsmPD3S9CSn_52.051208_4.297850@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"367fadb3cfd14f1790b0d73fd147889d",
+    "wof:geomhash":"bd1cdb84a98adaab5a82351e1926ecb5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798031,
+            "locality_id":101752763,
+            "macrohood_id":1108833203,
+            "neighbourhood_id":1108808297,
             "region_id":85687041,
             "venue_id":269779445
         }
     ],
     "wof:id":269779445,
-    "wof:lastmodified":1473879420,
+    "wof:lastmodified":1492496171,
     "wof:name":"Sjef'S Snackbar",
-    "wof:parent_id":85798031,
+    "wof:parent_id":1108808297,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.902789,52.355171,4.902789,52.355171",
     "geom:latitude":52.355171,
     "geom:longitude":4.902789,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803241,
+        1108802865,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1xEOth3EvGiDVBxHpzRo1A_52.355171_4.902789@1306269984"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c2ef50bdd4c723ffcb2f46c9478c4c31",
+    "wof:geomhash":"88bff0abc293264b5d18a6d82fb081a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803241,
+            "neighbourhood_id":1108802865,
             "region_id":85687053,
             "venue_id":303451347
         }
     ],
     "wof:id":303451347,
-    "wof:lastmodified":1473879159,
+    "wof:lastmodified":1492470912,
     "wof:name":"Marquerite, Schoonheidssalon",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

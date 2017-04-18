@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.823132,52.351269,4.823132,52.351269",
     "geom:latitude":52.351269,
     "geom:longitude":4.823132,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803747,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_52O9VlMNGwFDvaiZ56SUZE_52.351269_4.823132@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f62025178f472b01bbf6f994e05808a4",
+    "wof:geomhash":"871f2a90c7d6ca88940529b91ae087ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803747,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":286819093
         }
     ],
     "wof:id":286819093,
-    "wof:lastmodified":1473879636,
+    "wof:lastmodified":1492475088,
     "wof:name":"Bloedbank Noord Holland",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

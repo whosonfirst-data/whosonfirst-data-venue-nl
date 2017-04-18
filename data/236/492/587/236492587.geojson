@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.851303,52.381935,4.851303,52.381935",
     "geom:latitude":52.381935,
     "geom:longitude":4.851303,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803529,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1yFPvTLoy3vt50ZsJJdQOJ_52.381935_4.851303@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f41affd29b35d877cc5046397a944c7b",
+    "wof:geomhash":"4efff116e310e602c821a447ffc9d4f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803529,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":236492587
         }
     ],
     "wof:id":236492587,
-    "wof:lastmodified":1473879370,
+    "wof:lastmodified":1492494427,
     "wof:name":"A.M. Van Riet",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

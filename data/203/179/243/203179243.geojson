@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912629,52.34388,4.912629,52.34388",
     "geom:latitude":52.34388,
     "geom:longitude":4.912629,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803613,
+        1108802895,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5BICSPYbWn4rOE2QtPbV2R_52.343880_4.912629@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d79410aeba83ed8b974195c7a83029f0",
+    "wof:geomhash":"f891bb23dfbd91e9ee4d3d74049e1d51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803613,
+            "neighbourhood_id":1108802895,
             "region_id":85687053,
             "venue_id":203179243
         }
     ],
     "wof:id":203179243,
-    "wof:lastmodified":1473879072,
+    "wof:lastmodified":1492480820,
     "wof:name":"Royal & Sunalliance Schadeverzekering Nv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879631,52.374683,4.879631,52.374683",
     "geom:latitude":52.374683,
     "geom:longitude":4.879631,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803831,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5knphjuDzBjQTGSlNRxLio_52.374683_4.879631@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bd8af0c51fa63a97c4c99125143fc451",
+    "wof:geomhash":"beed89070275767ff4af50317ba97a99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803831,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":269636347
         }
     ],
     "wof:id":269636347,
-    "wof:lastmodified":1473879107,
+    "wof:lastmodified":1492496752,
     "wof:name":"Rutgers, Drs J B A",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.141088,51.988468,4.141088,51.988468",
     "geom:latitude":51.988468,
     "geom:longitude":4.141088,
@@ -24,7 +25,11 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85797461,
+        102191581,
         85633337,
+        101751843,
+        1108805729,
         85687041
     ],
     "wof:breaches":[],
@@ -32,21 +37,22 @@
         "sg:id":"SG_0LfuGpUtjlTVZ2dgl4LE0B_51.988468_4.141088@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d0de2a997518cee83d2d9e1790f349fd",
+    "wof:geomhash":"ba2e77234669e37d2f42191bce1f8b2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805729,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101751843,
+            "neighbourhood_id":85797461,
             "region_id":85687041,
             "venue_id":287117905
         }
     ],
     "wof:id":287117905,
-    "wof:lastmodified":1473878862,
+    "wof:lastmodified":1492513961,
     "wof:name":"Van Der Houwen",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

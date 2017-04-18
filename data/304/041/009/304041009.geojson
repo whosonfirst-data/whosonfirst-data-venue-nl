@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.891731,52.367733,4.891731,52.367733",
     "geom:latitude":52.367733,
     "geom:longitude":4.891731,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803837,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2vMLvbczB3wI5r5aUqJaNw_52.367733_4.891731@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3679d394d21ebde2843b1e54be9beaf9",
+    "wof:geomhash":"9f21fa0c00d180bf9329758b1cc6df82",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803837,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":304041009
         }
     ],
     "wof:id":304041009,
-    "wof:lastmodified":1473878695,
+    "wof:lastmodified":1492504658,
     "wof:name":"Fossil Store",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

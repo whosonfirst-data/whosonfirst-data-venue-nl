@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.387994,51.430195,5.387994,51.430195",
     "geom:latitude":51.430195,
     "geom:longitude":5.387994,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798747,
+        102542811,
+        85798003,
+        102191581,
+        404474443,
         85633337,
-        101758611,
+        101754579,
         85687035
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_3Q4lMYsQpMtRaHicpMYhU3_51.430195_5.387994@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ca0ab15330c3f4bff573053fa4ffe11f",
+    "wof:geomhash":"14fb213817dfbfe9eedf2d2e89fe6994",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102542811,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101758611,
-            "neighbourhood_id":85798747,
+            "localadmin_id":404474443,
+            "locality_id":101754579,
+            "neighbourhood_id":85798003,
             "region_id":85687035,
             "venue_id":320574065
         }
     ],
     "wof:id":320574065,
-    "wof:lastmodified":1473879427,
+    "wof:lastmodified":1492485069,
     "wof:name":"T.J. Van Tuijl",
-    "wof:parent_id":85798747,
+    "wof:parent_id":102542811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

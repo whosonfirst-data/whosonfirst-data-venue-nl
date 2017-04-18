@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.90921,52.355358,4.90921,52.355358",
     "geom:latitude":52.355358,
     "geom:longitude":4.90921,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803259,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5gmiFRcwHOhRoS9sb2rCeA_52.355358_4.909210@1306269981"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c3c30f18f8da1498e198be7c4c150faa",
+    "wof:geomhash":"e8182635a5919c557b34d658f226bb1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803259,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":303179559
         }
     ],
     "wof:id":303179559,
-    "wof:lastmodified":1473878840,
+    "wof:lastmodified":1492473987,
     "wof:name":"Gulien",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

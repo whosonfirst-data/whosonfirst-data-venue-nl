@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.074758,51.555302,5.074758,51.555302",
     "geom:latitude":51.555302,
     "geom:longitude":5.074758,
@@ -25,6 +26,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85797033,
+        102191581,
+        404474435,
         85633337,
         101751817,
         85687035,
@@ -35,19 +38,21 @@
         "sg:id":"SG_6JEsvl4LGxFuGxDNZNX0CC_51.555302_5.074758@1306269928"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5dc95c9cb9a050039c931c90702d0a20",
+    "wof:geomhash":"0823a1d6678cb6ed7cbfba98006a5879",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474435,
             "locality_id":101751817,
             "neighbourhood_id":85797033,
             "region_id":85687035,
             "venue_id":219652823
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474435,
             "locality_id":101751817,
             "neighbourhood_id":85797843,
             "region_id":85687035,
@@ -55,9 +60,9 @@
         }
     ],
     "wof:id":219652823,
-    "wof:lastmodified":1473879520,
+    "wof:lastmodified":1492502722,
     "wof:name":"Jan Hosli",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

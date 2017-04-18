@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.883879,52.414295,4.883879,52.414295",
     "geom:latitude":52.414295,
     "geom:longitude":4.883879,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803211,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_0DXvJVc6TBflqQ0tac1D0K_52.414295_4.883879@1306269906"
     },
     "wof:country":"NL",
-    "wof:geomhash":"39e28fce0534fe6a2a72ca2d1e905fc8",
+    "wof:geomhash":"59e3661aeab27cc354b9aa2aab9868b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803211,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":169804667
         }
     ],
     "wof:id":169804667,
-    "wof:lastmodified":1473878759,
+    "wof:lastmodified":1492478857,
     "wof:name":"P A De Wijs",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

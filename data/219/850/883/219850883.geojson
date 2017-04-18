@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.138966,52.116177,5.138966,52.116177",
     "geom:latitude":52.116177,
     "geom:longitude":5.138966,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808839,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1OkNbBg5EouWVuPFyEg87y_52.116177_5.138966@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"47b6f649bf7d2037c404d985def64ebf",
+    "wof:geomhash":"946511b0ccfbb433cc8d15145c0615db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808839,
             "region_id":85687039,
             "venue_id":219850883
         }
     ],
     "wof:id":219850883,
-    "wof:lastmodified":1473879734,
+    "wof:lastmodified":1492501940,
     "wof:name":"Kosten Analyse En Besparingen",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

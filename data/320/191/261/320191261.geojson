@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.89085,52.356041,4.89085,52.356041",
     "geom:latitude":52.356041,
     "geom:longitude":4.89085,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803865,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6UGG5Aacna00AGULPsFtEm_52.356041_4.890850@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"16a924da218c05d88ab9bc2e506ee587",
+    "wof:geomhash":"f5cf7fba2f57d0b4f31963c6e02bf3ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803865,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":320191261
         }
     ],
     "wof:id":320191261,
-    "wof:lastmodified":1473879071,
+    "wof:lastmodified":1492484440,
     "wof:name":"Pro Climax",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

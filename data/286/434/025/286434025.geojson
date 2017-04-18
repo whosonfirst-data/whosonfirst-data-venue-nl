@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.931073,52.355656,4.931073,52.355656",
     "geom:latitude":52.355656,
     "geom:longitude":4.931073,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803929,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6vCn2vSKkqn0mHjLqE2pmz_52.355656_4.931073@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ee7f47c7169a2a84670539756c3c09f8",
+    "wof:geomhash":"f36b6968bc5e25192f41080f83061ef0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803929,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":286434025
         }
     ],
     "wof:id":286434025,
-    "wof:lastmodified":1473878975,
+    "wof:lastmodified":1492477203,
     "wof:name":"Impuls",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

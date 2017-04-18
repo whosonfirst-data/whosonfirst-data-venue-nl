@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0510950089,52.0735015869,5.0510950089,52.0735015869",
     "geom:latitude":52.073502,
     "geom:longitude":5.051095,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808693,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808673,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473800155,
-    "wof:geomhash":"cb249b12e21b48b2c393b8499ffbb5ad",
+    "wof:geomhash":"fb6f7078f0e29003866476d4ef55aa4f",
     "wof:hierarchy":[
         {
+            "borough_id":1108808673,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808693,
             "region_id":85687039,
             "venue_id":1075836841
         }
     ],
     "wof:id":1075836841,
-    "wof:lastmodified":1473879500,
+    "wof:lastmodified":1492485697,
     "wof:name":"Hartevelt Holding Bv",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808693,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

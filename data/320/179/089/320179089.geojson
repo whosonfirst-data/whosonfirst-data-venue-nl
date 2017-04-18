@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.095526,52.09016,5.095526,52.09016",
     "geom:latitude":52.09016,
     "geom:longitude":5.095526,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808791,
+        102191581,
+        1108808651,
         85633337,
         101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0uwsPoKimdWjs56fgFr8AE_52.090160_5.095526@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c301e309fe281963b25552214036d97e",
+    "wof:geomhash":"04add306ef8932f8f6d094fbd32ee1d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808651,
+            "neighbourhood_id":1108808791,
             "region_id":85687039,
             "venue_id":320179089
         }
     ],
     "wof:id":320179089,
-    "wof:lastmodified":1473879050,
+    "wof:lastmodified":1492484736,
     "wof:name":"Bouwman & Kronenburg",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

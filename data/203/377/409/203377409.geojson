@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.721608,52.326122,4.721608,52.326122",
     "geom:latitude":52.326122,
     "geom:longitude":4.721608,
@@ -24,29 +25,32 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        85687053
+        102542801,
+        85687053,
+        102191581,
+        404474065,
+        85633337
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AjcIQqBevAMEdYUH3GoP2_52.326122_4.721608@1306269923"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bdd72b0ce14792cee9de684469f99689",
+    "wof:geomhash":"d0f0ab58936cf4e2002026634a470e44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102542801,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "localadmin_id":404474065,
             "region_id":85687053,
             "venue_id":203377409
         }
     ],
     "wof:id":203377409,
-    "wof:lastmodified":1473879310,
+    "wof:lastmodified":1492479937,
     "wof:name":"Kamper Agri Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":102542801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

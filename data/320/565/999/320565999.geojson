@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.220392,52.068493,4.220392,52.068493",
     "geom:latitude":52.068493,
     "geom:longitude":4.220392,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797143,
+        85797811,
+        102191581,
+        1108808099,
         85633337,
+        101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_3KLvTdGQWsHU0njvzMjWOf_52.068493_4.220392@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"322583553e9f84e0c442c1709bbc0ca6",
+    "wof:geomhash":"5f8847e0b5cad54012193c9a55f5a6e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797143,
+            "locality_id":101752763,
+            "macrohood_id":1108808099,
+            "neighbourhood_id":85797811,
             "region_id":85687041,
             "venue_id":320565999
         }
     ],
     "wof:id":320565999,
-    "wof:lastmodified":1473879412,
+    "wof:lastmodified":1492482801,
     "wof:name":"L.A. De Haas",
-    "wof:parent_id":85797143,
+    "wof:parent_id":85797811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

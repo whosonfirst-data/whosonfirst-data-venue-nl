@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.926286,52.356144,4.926286,52.356144",
     "geom:latitude":52.356144,
     "geom:longitude":4.926286,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803941,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2WsKvSSKRw7rRT1d3O2kAi_52.356144_4.926286@1306269930"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3ee3894ca65ae024a4b61ebed8f6930a",
+    "wof:geomhash":"72c46330601f56e2138f6a83f59df769",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":219938235
         }
     ],
     "wof:id":219938235,
-    "wof:lastmodified":1473879739,
+    "wof:lastmodified":1492501607,
     "wof:name":"Visor Interventies",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

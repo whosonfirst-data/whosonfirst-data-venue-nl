@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.323923,52.067307,4.323923,52.067307",
     "geom:latitude":52.067307,
     "geom:longitude":4.323923,
@@ -24,31 +25,49 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808305,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4s2QZXRgl1BkRnDf3dWQGL_52.067307_4.323923@1306269989"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7b8da641e4d0eaa7eaa2477cad8ab867",
+    "wof:geomhash":"6cf9308448fd6022ff2cfbd379856fdd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808305,
+            "region_id":85687041,
+            "venue_id":303958703
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808305,
             "region_id":85687041,
             "venue_id":303958703
         }
     ],
     "wof:id":303958703,
-    "wof:lastmodified":1473879676,
+    "wof:lastmodified":1492473554,
     "wof:name":"Stichting Haagse Hogeschool Onderwijs Sport En Tal",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808305,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

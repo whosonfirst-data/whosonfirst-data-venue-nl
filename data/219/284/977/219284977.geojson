@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8798,52.379093,4.8798,52.379093",
     "geom:latitude":52.379093,
     "geom:longitude":4.8798,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803815,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0UJXmDZcQZdvDPBvgv1K0l_52.379093_4.879800@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"70eedf765987b5ade37b3b48b4cbdea5",
+    "wof:geomhash":"0ca55c143d634cf3233db368362b3d4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803815,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":219284977
         }
     ],
     "wof:id":219284977,
-    "wof:lastmodified":1473878841,
+    "wof:lastmodified":1492501773,
     "wof:name":"Beeren, M R Van",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803815,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

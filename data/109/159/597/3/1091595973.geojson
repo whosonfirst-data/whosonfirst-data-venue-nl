@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6446552277,51.7928504944,5.6446552277,51.7928504944",
     "geom:latitude":51.79285,
     "geom:longitude":5.644655,
@@ -23,17 +24,32 @@
     "sg:postcode":"5371 NJ",
     "sg:province":"Noord-Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474415,
+        85633337,
+        101809661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HQKI9FGk2ldQzCsRAxFWK_51.792850_5.644655@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802287,
-    "wof:geomhash":"38b39ac65ff8c7038e171e2b08b58429",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54ad4e193565bb0a0aeefc77955a5b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474415,
+            "locality_id":101809661,
+            "region_id":85687035,
+            "venue_id":1091595973
+        }
+    ],
     "wof:id":1091595973,
-    "wof:lastmodified":1473878801,
+    "wof:lastmodified":1492509423,
     "wof:name":"St Woonmaatschappij Maasland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

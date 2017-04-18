@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6251702309,52.4122390747,6.6251702309,52.4122390747",
     "geom:latitude":52.412239,
     "geom:longitude":6.62517,
@@ -24,17 +25,32 @@
     "sg:province":"NL.08",
     "sg:website":"http://www.plegt-vos.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474611,
+        85633337,
+        101808749
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60Az5bKT5Pi08L18B4Xbzz_52.412239_6.625170@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801230,
-    "wof:geomhash":"b79dee25001d84adb33c2da375dcac20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a871f00c03b5b817934ad3f6d1a8998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474611,
+            "locality_id":101808749,
+            "region_id":85687045,
+            "venue_id":1091580735
+        }
+    ],
     "wof:id":1091580735,
-    "wof:lastmodified":1473878538,
+    "wof:lastmodified":1492511895,
     "wof:name":"Plegt-Vos Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

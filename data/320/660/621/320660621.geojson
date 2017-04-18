@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881217,52.380135,4.881217,52.380135",
     "geom:latitude":52.380135,
     "geom:longitude":4.881217,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.thalia.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804285,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_7VT1xKZTT1ynH7uFWKr2nI_52.380135_4.881217@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4cc14525ce82be06a414437bcdabcca1",
+    "wof:geomhash":"9393edbf038e9c823bf57aa186a315e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804285,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":320660621
         }
     ],
     "wof:id":320660621,
-    "wof:lastmodified":1473879482,
+    "wof:lastmodified":1492485380,
     "wof:name":"Thalia Party Home",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.806142,52.415848,4.806142,52.415848",
     "geom:latitude":52.415848,
     "geom:longitude":4.806142,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798675,
+        1108803829,
+        1108802955,
+        102191581,
         85633337,
+        101751893,
+        1108802287,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_3JpdaDwpODtEudfZvaHCFx_52.415848_4.806142@1306269988"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9bb1cd05e0b1e90b345e7fa2e7410337",
+    "wof:geomhash":"efa2507533cf32879c1255fce6033ddd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802287,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798675,
+            "locality_id":101751893,
+            "microhood_id":1108803829,
+            "neighbourhood_id":1108802955,
             "region_id":85687053,
             "venue_id":303854673
         }
     ],
     "wof:id":303854673,
-    "wof:lastmodified":1473879625,
+    "wof:lastmodified":1492473838,
     "wof:name":"Koperen Ploeg, De",
-    "wof:parent_id":85798675,
+    "wof:parent_id":1108803829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

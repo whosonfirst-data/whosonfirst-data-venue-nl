@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.555129,51.956894,4.555129,51.956894",
     "geom:latitude":51.956894,
     "geom:longitude":4.555129,
@@ -33,31 +34,46 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798177,
+        85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62f8aPgsKAuDMSiNd4chdC_51.956894_4.555129@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"51fc6e8c0bdfa82b57fb49059403a61b",
+    "wof:geomhash":"5d6b2b1458aed7075aa932a0989d9bdf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":270473143
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798177,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":270473143
         }
     ],
     "wof:id":270473143,
-    "wof:lastmodified":1473879281,
+    "wof:lastmodified":1492499837,
     "wof:name":"Basisschool De Horizon",
-    "wof:parent_id":85798177,
+    "wof:parent_id":85798149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

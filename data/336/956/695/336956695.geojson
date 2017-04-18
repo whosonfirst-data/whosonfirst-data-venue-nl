@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.013008,51.945179,4.013008,51.945179",
     "geom:latitude":51.945179,
     "geom:longitude":4.013008,
@@ -34,7 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108805817,
+        102191581,
         85633337,
+        101751843,
+        1108805737,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +47,22 @@
         "sg:id":"SG_2soYHNHmyeTZUgXPbzhfhM_51.945179_4.013008@1306270007"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e725d828b2ba89edaa621da5f2071ada",
+    "wof:geomhash":"dfab621726f5174a16c8c6a91705ab83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805737,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805817,
             "region_id":85687041,
             "venue_id":336956695
         }
     ],
     "wof:id":336956695,
-    "wof:lastmodified":1473878467,
+    "wof:lastmodified":1492506298,
     "wof:name":"Nippon Express Ned Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108805817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

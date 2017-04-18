@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.898633,52.373676,4.898633,52.373676",
     "geom:latitude":52.373676,
     "geom:longitude":4.898633,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803883,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0RV7sC10nTWFYWUaa8q2wK_52.373676_4.898633@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4a5c881e79649fd3ae87d38d339e6f88",
+    "wof:geomhash":"ef62b6fd6fb0eaa050a4464df5b54ded",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803883,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":270204133
         }
     ],
     "wof:id":270204133,
-    "wof:lastmodified":1473878848,
+    "wof:lastmodified":1492499720,
     "wof:name":"Veen Van Rijk, Marian Van De",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

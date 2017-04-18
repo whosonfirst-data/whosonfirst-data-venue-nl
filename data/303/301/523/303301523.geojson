@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.93614,52.309036,4.93614,52.309036",
     "geom:latitude":52.309036,
     "geom:longitude":4.93614,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797113,
+        1108803575,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2FEer0bZZTaXNpwVDNjqEr_52.309036_4.936140@1306269982"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b1150749c8d3fe5df58b3bf299c53c9f",
+    "wof:geomhash":"c87dd89a4d0d7cfa30dd1cacb2af308f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797113,
+            "locality_id":101751893,
+            "microhood_id":1108803575,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":303301523
         }
     ],
     "wof:id":303301523,
-    "wof:lastmodified":1473879060,
+    "wof:lastmodified":1492474653,
     "wof:name":"Wits Amsterdam Bv",
-    "wof:parent_id":85797113,
+    "wof:parent_id":1108803575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

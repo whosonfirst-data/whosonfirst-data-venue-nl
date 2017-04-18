@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881174,52.373367,4.881174,52.373367",
     "geom:latitude":52.373367,
     "geom:longitude":4.881174,
@@ -23,9 +24,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +37,23 @@
         "sg:id":"SG_248FZfiCKOJPfAFFKvvKNn_52.373367_4.881174@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4498df2d132f8cfeeeec3bd26f6b47e3",
+    "wof:geomhash":"c7356bc64ccacd8aa039de44d5c13698",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":236307189
         }
     ],
     "wof:id":236307189,
-    "wof:lastmodified":1473879093,
+    "wof:lastmodified":1492491439,
     "wof:name":"Extra Apotheek Het Witte Kruis",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

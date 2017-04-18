@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.304241,52.061981,4.304241,52.061981",
     "geom:latitude":52.061981,
     "geom:longitude":4.304241,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859615,
+        1108808259,
+        102191581,
+        1108808035,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2jWtP0LtgvsVGD6Xyg2YZa_52.061981_4.304241@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e35a444f23e54c7d01ddfe2abb6e74db",
+    "wof:geomhash":"ae79ba20de3f5a5ef5dfc156c3effc12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808259,
             "region_id":85687041,
             "venue_id":303660795
         }
     ],
     "wof:id":303660795,
-    "wof:lastmodified":1473879438,
+    "wof:lastmodified":1492474867,
     "wof:name":"Makola Import-Export",
-    "wof:parent_id":85859615,
+    "wof:parent_id":1108808259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

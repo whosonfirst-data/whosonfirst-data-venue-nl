@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.875042,52.357704,4.875042,52.357704",
     "geom:latitude":52.357704,
     "geom:longitude":4.875042,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803743,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3DpVW7Ohx1Eg81iaf9sGZf_52.357704_4.875042@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d0a58082b41c8c54186b0f558e285a13",
+    "wof:geomhash":"2f40606d9f879600ccb1871182e9c219",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803743,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":203102723
         }
     ],
     "wof:id":203102723,
-    "wof:lastmodified":1473878844,
+    "wof:lastmodified":1492480786,
     "wof:name":"Assurantiekantoor R.J.F. Balm",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

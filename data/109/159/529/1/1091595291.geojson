@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3259358406,51.4212875366,4.3259358406,51.4212875366",
     "geom:latitude":51.421288,
     "geom:longitude":4.325936,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.wswoensdrecht.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474455,
+        85633337,
+        101839369
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZuStTdKOGckWpH1jiUkn6_51.421288_4.325936@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802248,
-    "wof:geomhash":"ef72562c88a5ebc954c176c8ec9e96d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e58ada8cac3bca3350036e20a3e99eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474455,
+            "locality_id":101839369,
+            "region_id":85687035,
+            "venue_id":1091595291
+        }
+    ],
     "wof:id":1091595291,
-    "wof:lastmodified":1473878751,
+    "wof:lastmodified":1492509452,
     "wof:name":"Woensdrecht, Woningsticht",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

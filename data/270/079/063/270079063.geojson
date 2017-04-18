@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.303959,52.057747,4.303959,52.057747",
     "geom:latitude":52.057747,
     "geom:longitude":4.303959,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859615,
+        1108808303,
+        102191581,
+        1108808093,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_602sc1GRXVaxr0B0HVr8nQ_52.057747_4.303959@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"54d4c34f67f8dbcba787b0859dab2eca",
+    "wof:geomhash":"7a7a325e9feda9c4548256bbefc72f52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108808093,
+            "neighbourhood_id":1108808303,
             "region_id":85687041,
             "venue_id":270079063
         }
     ],
     "wof:id":270079063,
-    "wof:lastmodified":1473878531,
+    "wof:lastmodified":1492499600,
     "wof:name":"Viva Fit",
-    "wof:parent_id":85859615,
+    "wof:parent_id":1108808303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.30248,52.062462,4.30248,52.062462",
     "geom:latitude":52.062462,
     "geom:longitude":4.30248,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859615,
+        1108808259,
+        102191581,
+        1108808035,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_7JQdOPimNzyTX1nRZk8ooT_52.062462_4.302480@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"06bd4d663e3d924da12d4f7dc9c4957a",
+    "wof:geomhash":"98edfdea6a987823be28f10ca4942a4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808259,
             "region_id":85687041,
             "venue_id":320066769
         }
     ],
     "wof:id":320066769,
-    "wof:lastmodified":1473878662,
+    "wof:lastmodified":1492484986,
     "wof:name":"Euro",
-    "wof:parent_id":85859615,
+    "wof:parent_id":1108808259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

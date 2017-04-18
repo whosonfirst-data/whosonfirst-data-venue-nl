@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.980047,52.298271,4.980047,52.298271",
     "geom:latitude":52.298271,
     "geom:longitude":4.980047,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803199,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5trUZMfmWfTTH521bsGef7_52.298271_4.980047@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e1e01827aeb0f8b4530df95e9179a523",
+    "wof:geomhash":"4b9b0c205ea71cf845945832746ca48c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803199,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":219634111
         }
     ],
     "wof:id":219634111,
-    "wof:lastmodified":1473879497,
+    "wof:lastmodified":1492503753,
     "wof:name":"Haan, J De",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803199,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

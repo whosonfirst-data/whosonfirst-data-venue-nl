@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.889585,52.373569,4.889585,52.373569",
     "geom:latitude":52.373569,
     "geom:longitude":4.889585,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.uvavertalers.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804025,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2rYstDsrieSNF4dGL4qc58_52.373569_4.889585@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"68e61ca5ca93ac52965b3d09dd7e3fd6",
+    "wof:geomhash":"b953f09e21e965a02eb40d9135faca4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804025,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":202853661
         }
     ],
     "wof:id":202853661,
-    "wof:lastmodified":1473879363,
+    "wof:lastmodified":1492498380,
     "wof:name":"Uva Vertalers",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

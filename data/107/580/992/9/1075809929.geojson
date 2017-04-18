@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.5179648399,52.8586196899,6.5179648399,52.8586196899",
     "geom:latitude":52.85862,
     "geom:longitude":6.517965,
@@ -32,17 +33,32 @@
         "restaurant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474649,
+        85633337,
+        101807273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LeVJ7xB7xWmfsS4cNcnQT_52.858620_6.517965@1306269958"
     },
     "wof:country":"NL",
     "wof:created":1473798654,
-    "wof:geomhash":"1fae67d0e589318f23cb0dc7c43c21c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e719088323044ee7c09b32fc08c77736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474649,
+            "locality_id":101807273,
+            "region_id":85687051,
+            "venue_id":1075809929
+        }
+    ],
     "wof:id":1075809929,
-    "wof:lastmodified":1473878717,
+    "wof:lastmodified":1492486127,
     "wof:name":"Chinees Restaurant Kota Radja",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

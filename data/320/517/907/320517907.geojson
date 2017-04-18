@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881315,52.365929,4.881315,52.365929",
     "geom:latitude":52.365929,
     "geom:longitude":4.881315,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803925,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0vKgok0fvgsdfKIjrcVn1D_52.365929_4.881315@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"242a80d2d28fbd9d328414695ad90bec",
+    "wof:geomhash":"dfe00fcc65dbae78f9d6d201217f9777",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803925,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":320517907
         }
     ],
     "wof:id":320517907,
-    "wof:lastmodified":1473879370,
+    "wof:lastmodified":1492484428,
     "wof:name":"J M J Broekman",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

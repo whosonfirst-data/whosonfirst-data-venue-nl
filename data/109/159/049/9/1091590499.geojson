@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4998469353,52.4991645813,5.4998469353,52.4991645813",
     "geom:latitude":52.499165,
     "geom:longitude":5.499847,
@@ -24,17 +25,30 @@
     "sg:province":"Flevoland",
     "sg:website":"http://www.baaswerving.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474539,
+        85633337,
+        85687049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WBT16uBYUv7W6Wy2YndML_52.499165_5.499847@1306270014"
     },
     "wof:country":"NL",
     "wof:created":1473801973,
-    "wof:geomhash":"cf7db32b53d47ca6511babdd64956796",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3701f8583c05210f30c942b1802297fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474539,
+            "region_id":85687049,
+            "venue_id":1091590499
+        }
+    ],
     "wof:id":1091590499,
-    "wof:lastmodified":1473878519,
+    "wof:lastmodified":1492509639,
     "wof:name":"Baas Flevoland Vof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

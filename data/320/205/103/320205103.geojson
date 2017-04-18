@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.859396,52.369671,4.859396,52.369671",
     "geom:latitude":52.369671,
     "geom:longitude":4.859396,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803381,
+        1108802785,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1Rp7FZp0DGJfE3v0xi2qxJ_52.369671_4.859396@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e1fbca21112bc070ac3813d16d297371",
+    "wof:geomhash":"4874cbf4f8290ca1790cb472fdf933bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803381,
+            "neighbourhood_id":1108802785,
             "region_id":85687053,
             "venue_id":320205103
         }
     ],
     "wof:id":320205103,
-    "wof:lastmodified":1473879094,
+    "wof:lastmodified":1492483541,
     "wof:name":"Stoker, Sticht De",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803381,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.901393,52.345978,4.901393,52.345978",
     "geom:latitude":52.345978,
     "geom:longitude":4.901393,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804281,
+        1108802897,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2E39A7MdF1ppOZrUhSst8O_52.345978_4.901393@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"719b500b362d2a97554b638c05d87a2b",
+    "wof:geomhash":"ba4d5d31e21a137530c5e36394917b25",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108804281,
+            "neighbourhood_id":1108802897,
             "region_id":85687053,
             "venue_id":303066759
         }
     ],
     "wof:id":303066759,
-    "wof:lastmodified":1473878564,
+    "wof:lastmodified":1492474414,
     "wof:name":"R.C. Van Der Zee",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

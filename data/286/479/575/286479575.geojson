@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.825075,52.360821,4.825075,52.360821",
     "geom:latitude":52.360821,
     "geom:longitude":4.825075,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803877,
+        85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6ymH0yJB7NUXtwefE4knFD_52.360821_4.825075@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a6657d8d9c8cceeaa9f366634a15e109",
+    "wof:geomhash":"f1197540d9339ad0c97e6eb52867c52d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803877,
+            "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":286479575
         }
     ],
     "wof:id":286479575,
-    "wof:lastmodified":1473879127,
+    "wof:lastmodified":1492475303,
     "wof:name":"Hettema, A",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

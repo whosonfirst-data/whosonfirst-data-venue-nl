@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.9908940792,51.5172691345,3.9908940792,51.5172691345",
     "geom:latitude":51.517269,
     "geom:longitude":3.990894,
@@ -33,17 +34,32 @@
         "prentbriefkaarten"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474309,
+        85633337,
+        101809775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Do4YQnj6An9MuLsVw51d5_51.517269_3.990894@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801255,
-    "wof:geomhash":"5109ad6bf0519188dc007d597ce26623",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9aa1f3d3e0e22cae9be0973faf94a986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474309,
+            "locality_id":101809775,
+            "region_id":85687037,
+            "venue_id":1091581285
+        }
+    ],
     "wof:id":1091581285,
-    "wof:lastmodified":1473878566,
+    "wof:lastmodified":1492511767,
     "wof:name":"Kaart Bunschoten, De",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

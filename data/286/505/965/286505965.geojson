@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881063,52.372158,4.881063,52.372158",
     "geom:latitude":52.372158,
     "geom:longitude":4.881063,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0SCqworYMbHixF2SCLWjWc_52.372158_4.881063@1306269970"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e70b00f92715b3515911550749135d85",
+    "wof:geomhash":"bcc9c7c0003238bdb642599d159de6a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":286505965
         }
     ],
     "wof:id":286505965,
-    "wof:lastmodified":1473879159,
+    "wof:lastmodified":1492475743,
     "wof:name":"Reijer Sluis",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

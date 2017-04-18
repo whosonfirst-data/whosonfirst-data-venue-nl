@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.852353,52.353371,4.852353,52.353371",
     "geom:latitude":52.353371,
     "geom:longitude":4.852353,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803385,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6f1GXDFSe6H8XBMOJFbP5W_52.353371_4.852353@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f580f1bf7bd31ebf99ae81c66522021f",
+    "wof:geomhash":"fe426316df8084e3eaa4a5a33be37d71",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803385,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":269643953
         }
     ],
     "wof:id":269643953,
-    "wof:lastmodified":1473879142,
+    "wof:lastmodified":1492495673,
     "wof:name":"Rita Van Slooten",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

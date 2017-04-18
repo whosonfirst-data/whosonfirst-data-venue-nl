@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.285068,52.111549,4.285068,52.111549",
     "geom:latitude":52.111549,
     "geom:longitude":4.285068,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808139,
+        102191581,
+        1108808075,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:brand_id":420573831,
@@ -34,21 +39,23 @@
         "sg:id":"SG_2JtdKS64rPbhVnNCgERuus_52.111549_4.285068@1306269971"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a4c7dbe1b7dbe5e589dcba151aeced3c",
+    "wof:geomhash":"840778e310a6441f8902113e15ffc362",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108808075,
+            "neighbourhood_id":1108808139,
             "region_id":85687041,
             "venue_id":286638911
         }
     ],
     "wof:id":286638911,
-    "wof:lastmodified":1473879299,
+    "wof:lastmodified":1492476997,
     "wof:name":"Shell",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

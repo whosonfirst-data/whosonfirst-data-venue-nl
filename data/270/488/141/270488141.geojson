@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885898,52.419746,4.885898,52.419746",
     "geom:latitude":52.419746,
     "geom:longitude":4.885898,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803523,
+        1108802883,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_5rH22r8G3ztjXpl7LRkWJ9_52.419746_4.885898@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c5c98b83ea17aacbf115f8696e5c18c7",
+    "wof:geomhash":"a5af4a9cc56e71d8d8fa08b5317b7f3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803523,
+            "neighbourhood_id":1108802883,
             "region_id":85687053,
             "venue_id":270488141
         }
     ],
     "wof:id":270488141,
-    "wof:lastmodified":1473879319,
+    "wof:lastmodified":1492500559,
     "wof:name":"Chr Basisschool De Bonkelaar",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

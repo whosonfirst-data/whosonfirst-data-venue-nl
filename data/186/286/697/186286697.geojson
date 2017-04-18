@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.092894,52.514782,6.092894,52.514782",
     "geom:latitude":52.514782,
     "geom:longitude":6.092894,
@@ -24,10 +25,12 @@
     "sg:province":"Overijssel",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797067,
         85633337,
+        85797067,
         85687045,
         85798691,
+        102191581,
+        404473861,
         101751861
     ],
     "wof:breaches":[],
@@ -35,19 +38,18 @@
         "sg:id":"SG_1ZXEvK2AxnBjKtxdexKig8_52.514782_6.092894@1306269911"
     },
     "wof:country":"NL",
-    "wof:geomhash":"470da21b78b8064e7d76beec4773fcc7",
+    "wof:geomhash":"3c0915246f331405e419fc693b1b79e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85797067,
             "region_id":85687045,
             "venue_id":186286697
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473861,
             "locality_id":101751861,
             "neighbourhood_id":85798691,
             "region_id":85687045,
@@ -55,9 +57,9 @@
         }
     ],
     "wof:id":186286697,
-    "wof:lastmodified":1473879216,
+    "wof:lastmodified":1492507467,
     "wof:name":"Fakkert",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

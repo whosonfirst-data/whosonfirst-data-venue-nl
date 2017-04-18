@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.467856,51.945274,4.467856,51.945274",
     "geom:latitude":51.945274,
     "geom:longitude":4.467856,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859819,
+        1108805793,
+        102191581,
+        1108805981,
         85633337,
-        101753095,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1WOc846Hq1cP0H7TMRW0pW_51.945274_4.467856@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"32259ae0fca357d2c9645f1117ff713a",
+    "wof:geomhash":"aca86208d1efd0ac40c6b6df969486a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859819,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805793,
             "region_id":85687041,
             "venue_id":269998487
         }
     ],
     "wof:id":269998487,
-    "wof:lastmodified":1473879587,
+    "wof:lastmodified":1492496839,
     "wof:name":"Fiskas Fiscaal En Financieel Adviesburea",
-    "wof:parent_id":85859819,
+    "wof:parent_id":1108805793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.5530219078,52.6312561035,6.5530219078,52.6312561035",
     "geom:latitude":52.631256,
     "geom:longitude":6.553022,
@@ -24,17 +25,32 @@
     "sg:province":"NL.08",
     "sg:website":"http://www.cmimultimedia.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473831,
+        85633337,
+        101808767
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ha7Ode0aVjkyExRuZlfFK_52.631256_6.553022@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800605,
-    "wof:geomhash":"d5f5e96aa0846f4b2359f66207e654a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb791c0cdb8556ff55aa0d2c90578681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473831,
+            "locality_id":101808767,
+            "region_id":85687045,
+            "venue_id":1091572007
+        }
+    ],
     "wof:id":1091572007,
-    "wof:lastmodified":1473878592,
+    "wof:lastmodified":1492511090,
     "wof:name":"Cmi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.327306,52.075958,4.327306,52.075958",
     "geom:latitude":52.075958,
     "geom:longitude":4.327306,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808247,
+        102191581,
+        1108808123,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_4aDlNSSRqWcWZpOPJkohqv_52.075958_4.327306@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"71297d95760c05e3f0db3da6f805807f",
+    "wof:geomhash":"ce726601c7faa22c56b2be4fe90fd83b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808123,
+            "neighbourhood_id":1108808247,
             "region_id":85687041,
             "venue_id":269827629
         }
     ],
     "wof:id":269827629,
-    "wof:lastmodified":1473879507,
+    "wof:lastmodified":1492496712,
     "wof:name":"Kajo",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

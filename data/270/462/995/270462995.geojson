@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.100666,52.09285,5.100666,52.09285",
     "geom:latitude":52.09285,
     "geom:longitude":5.100666,
@@ -29,9 +30,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808789,
+        102191581,
+        1108808651,
         85633337,
         101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_5dHa76a3VZP5mqBrxscRt9_52.092850_5.100666@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2539b80041b433bab0c7b1c77d3b4ed8",
+    "wof:geomhash":"c224e1746c49091f89072239a0b7ce6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808651,
+            "neighbourhood_id":1108808789,
             "region_id":85687039,
             "venue_id":270462995
         }
     ],
     "wof:id":270462995,
-    "wof:lastmodified":1473879269,
+    "wof:lastmodified":1492499914,
     "wof:name":"Koffieshop Zanzi",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

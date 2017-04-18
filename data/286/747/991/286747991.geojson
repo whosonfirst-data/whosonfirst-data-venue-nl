@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.886145,52.368938,4.886145,52.368938",
     "geom:latitude":52.368938,
     "geom:longitude":4.886145,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804103,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4cz78hBuYD19dqwgekHARU_52.368938_4.886145@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"11a8d381229ca1d544688d077698f6f4",
+    "wof:geomhash":"af433459165e34ab8aa83d703bd81c16",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804103,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":286747991
         }
     ],
     "wof:id":286747991,
-    "wof:lastmodified":1473879537,
+    "wof:lastmodified":1492475520,
     "wof:name":"Beadies Amsterdam",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

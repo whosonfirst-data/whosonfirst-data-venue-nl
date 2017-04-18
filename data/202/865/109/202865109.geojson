@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.931276,52.354301,4.931276,52.354301",
     "geom:latitude":52.354301,
     "geom:longitude":4.931276,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803929,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4OuKB0bpgROSyLxhZaOeJm_52.354301_4.931276@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"83f9ebd7d5a2e2acc03f3445d06ace3a",
+    "wof:geomhash":"c029010d7b2917a6203408cb06fe06a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803929,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":202865109
         }
     ],
     "wof:id":202865109,
-    "wof:lastmodified":1473879356,
+    "wof:lastmodified":1492497937,
     "wof:name":"Dulken, C T Van",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

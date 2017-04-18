@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.891336,52.404339,4.891336,52.404339",
     "geom:latitude":52.404339,
     "geom:longitude":4.891336,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108804015,
+        1108802545,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_2QPfgUeRCt4IJ7VkqfGZoS_52.404339_4.891336@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6e1e9504eac048c9975a3e12e9380639",
+    "wof:geomhash":"685cd5a25db794793e71881133ce86a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108804015,
+            "neighbourhood_id":1108802545,
             "region_id":85687053,
             "venue_id":253286555
         }
     ],
     "wof:id":253286555,
-    "wof:lastmodified":1473879334,
+    "wof:lastmodified":1492488378,
     "wof:name":"Iris Vormgeving",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108804015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

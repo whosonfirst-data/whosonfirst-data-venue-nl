@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893971,52.369732,4.893971,52.369732",
     "geom:latitude":52.369732,
     "geom:longitude":4.893971,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804175,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_5EzYQRS3qhLSTPwSONtuLk_52.369732_4.893971@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e868469edfa5c2dcdec3075999a9bac5",
+    "wof:geomhash":"7beb687b3286bad3a88f113f226d49aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804175,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":320213761
         }
     ],
     "wof:id":320213761,
-    "wof:lastmodified":1473879095,
+    "wof:lastmodified":1492482890,
     "wof:name":"Lyppens Souvenier Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.891387,52.374249,4.891387,52.374249",
     "geom:latitude":52.374249,
     "geom:longitude":4.891387,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803257,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_3J9K1etdHnRQdgDxGabobN_52.374249_4.891387@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4ebbe809f967b59358531897ac3241a0",
+    "wof:geomhash":"34d0cb39004ba7d9cb1fe23285a65eb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803257,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":304053991
         }
     ],
     "wof:id":304053991,
-    "wof:lastmodified":1473878721,
+    "wof:lastmodified":1492504642,
     "wof:name":"Corner House",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

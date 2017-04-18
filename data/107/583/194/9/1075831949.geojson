@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2104921341,51.994304657,4.2104921341,51.994304657",
     "geom:latitude":51.994305,
     "geom:longitude":4.210492,
@@ -24,9 +25,11 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
         85633337,
-        85859575,
-        85687041
+        101837719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473799894,
-    "wof:geomhash":"c3caa5b12e889bc1a351968c2dc77ebd",
+    "wof:geomhash":"48615f419cc4969924de4deff136fe95",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85859575,
+            "localadmin_id":404474667,
+            "locality_id":101837719,
             "region_id":85687041,
             "venue_id":1075831949
         }
     ],
     "wof:id":1075831949,
-    "wof:lastmodified":1473879291,
+    "wof:lastmodified":1492485781,
     "wof:name":"Gemeente Naaldwijk",
-    "wof:parent_id":85859575,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

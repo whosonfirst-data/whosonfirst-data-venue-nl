@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881045,52.389675,4.881045,52.389675",
     "geom:latitude":52.389675,
     "geom:longitude":4.881045,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803707,
+        1108802911,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_380uLJZjDRWQvsINgWCrvy_52.389675_4.881045@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e545dde9d272eae6b1ae37a2a170f84d",
+    "wof:geomhash":"17bd31b095ad53e9909b709f01da0b44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803707,
+            "neighbourhood_id":1108802911,
             "region_id":85687053,
             "venue_id":270243195
         }
     ],
     "wof:id":270243195,
-    "wof:lastmodified":1473878922,
+    "wof:lastmodified":1492499980,
     "wof:name":"John Muller Fotostudio",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803707,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

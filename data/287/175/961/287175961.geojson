@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.324171,52.076054,4.324171,52.076054",
     "geom:latitude":52.076054,
     "geom:longitude":4.324171,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808247,
+        102191581,
+        1108808123,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_11StlcYL3hqVXkh6af5joo_52.076054_4.324171@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3d9446c4339517b0860f66a3ff38de91",
+    "wof:geomhash":"e1d6516a820efcc7b0cbb5f0a20db274",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808123,
+            "neighbourhood_id":1108808247,
             "region_id":85687041,
             "venue_id":287175961
         }
     ],
     "wof:id":287175961,
-    "wof:lastmodified":1473878951,
+    "wof:lastmodified":1492513838,
     "wof:name":"Sdu Uitgevers Bv",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

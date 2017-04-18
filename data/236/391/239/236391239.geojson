@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.79402,52.37492,4.79402,52.37492",
     "geom:latitude":52.37492,
     "geom:longitude":4.79402,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803619,
         85797579,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_53W63aJsz9PaZFJuDzjlsx_52.374920_4.794020@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"834fb32e41c9c8b2b6b3caca659060d1",
+    "wof:geomhash":"b16e8fb1dfdee7050a74cd9a37f96b39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803619,
             "neighbourhood_id":85797579,
             "region_id":85687053,
             "venue_id":236391239
         }
     ],
     "wof:id":236391239,
-    "wof:lastmodified":1473879226,
+    "wof:lastmodified":1492493767,
     "wof:name":"Wera Van Den Berg",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108803619,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

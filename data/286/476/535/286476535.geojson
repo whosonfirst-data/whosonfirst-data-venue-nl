@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882157,52.368141,4.882157,52.368141",
     "geom:latitude":52.368141,
     "geom:longitude":4.882157,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803925,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2rOt643IM21lQU6XraEH6a_52.368141_4.882157@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9908e733d6adeab490f77460cb571bda",
+    "wof:geomhash":"4a5b43cf709c2c5154d79a91f85d31b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803925,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":286476535
         }
     ],
     "wof:id":286476535,
-    "wof:lastmodified":1473879121,
+    "wof:lastmodified":1492478174,
     "wof:name":"Groeningen, C E M F Van",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

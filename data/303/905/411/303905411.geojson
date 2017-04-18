@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.307866,52.079163,4.307866,52.079163",
     "geom:latitude":52.079163,
     "geom:longitude":4.307866,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808249,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5YUaWjPVrK4E7tTo0EVJfn_52.079163_4.307866@1306269989"
     },
     "wof:country":"NL",
-    "wof:geomhash":"10dcdb37a8630eeb1e90b7859739b67e",
+    "wof:geomhash":"092230bba1cf3f53a492df983f1343f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808249,
             "region_id":85687041,
             "venue_id":303905411
         }
     ],
     "wof:id":303905411,
-    "wof:lastmodified":1473879644,
+    "wof:lastmodified":1492472548,
     "wof:name":"Bonhomme",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

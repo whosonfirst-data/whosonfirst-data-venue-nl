@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5896129608,51.9835624695,4.5896129608,51.9835624695",
     "geom:latitude":51.983562,
     "geom:longitude":4.589613,
@@ -24,9 +25,14 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108805821,
+        102191581,
         85633337,
-        85798209,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +40,32 @@
     },
     "wof:country":"NL",
     "wof:created":1473802605,
-    "wof:geomhash":"b8ebf4a6cc53fc1dd3892a35fe3b7f56",
+    "wof:geomhash":"e5af526905555384b19eff9b810380d3",
     "wof:hierarchy":[
         {
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798209,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805821,
+            "region_id":85687041,
+            "venue_id":1091601461
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805821,
             "region_id":85687041,
             "venue_id":1091601461
         }
     ],
     "wof:id":1091601461,
-    "wof:lastmodified":1473878549,
+    "wof:lastmodified":1492512486,
     "wof:name":"Laar, Van De",
-    "wof:parent_id":85798209,
+    "wof:parent_id":1108805821,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

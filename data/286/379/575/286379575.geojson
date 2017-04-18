@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.933841,52.355434,4.933841,52.355434",
     "geom:latitude":52.355434,
     "geom:longitude":4.933841,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803631,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5wOsxX4uDBQhfet3ObVOYh_52.355434_4.933841@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"917091b4598ab39d213d7a9fda830855",
+    "wof:geomhash":"ec2bccf5061250e3208a672ed48b8d1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803631,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":286379575
         }
     ],
     "wof:id":286379575,
-    "wof:lastmodified":1473878914,
+    "wof:lastmodified":1492477667,
     "wof:name":"Core Business Communications",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

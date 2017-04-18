@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.428298,51.933243,4.428298,51.933243",
     "geom:latitude":51.933243,
     "geom:longitude":4.428298,
@@ -34,41 +35,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859761,
+        1108805669,
+        1108805799,
+        102191581,
         85633337,
         101751843,
-        85687041,
-        85798219,
-        101753095
+        1108805713,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_087SYR6Qx7ShCRP9ZWGFtT_51.933243_4.428298@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c77e259a67edfd9426457917b489ad53",
+    "wof:geomhash":"01204c0a4db84a0070f71477452f43c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859761,
-            "region_id":85687041,
-            "venue_id":303132467
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85798219,
+            "microhood_id":1108805669,
+            "neighbourhood_id":1108805799,
             "region_id":85687041,
             "venue_id":303132467
         }
     ],
     "wof:id":303132467,
-    "wof:lastmodified":1473878740,
+    "wof:lastmodified":1492474491,
     "wof:name":"Breggen, Van Der",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108805669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

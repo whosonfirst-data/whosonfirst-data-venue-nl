@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.935385,52.337471,4.935385,52.337471",
     "geom:latitude":52.337471,
     "geom:longitude":4.935385,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803887,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7VlvOiBfRTJO4eHCt9r7KJ_52.337471_4.935385@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"88d3d33ef9faf3d0a517d0e77ec4dfcd",
+    "wof:geomhash":"5c0f67d04b805d8ef7e817712aad73a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803887,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":269972417
         }
     ],
     "wof:id":269972417,
-    "wof:lastmodified":1473879580,
+    "wof:lastmodified":1492495804,
     "wof:name":"Nob Amsterdam Post Production",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.937138,52.348301,4.937138,52.348301",
     "geom:latitude":52.348301,
     "geom:longitude":4.937138,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803839,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2iZLx6MHrQnITwpVYhTCuI_52.348301_4.937138@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"117fe29746092c73d2d21570da296e76",
+    "wof:geomhash":"4eb692f2ae0f3584cfd32cc52c8b47ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803839,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":286483591
         }
     ],
     "wof:id":286483591,
-    "wof:lastmodified":1473879122,
+    "wof:lastmodified":1492477692,
     "wof:name":"Jens",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

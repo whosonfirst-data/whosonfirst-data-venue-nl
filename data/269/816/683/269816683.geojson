@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.896742,52.410011,4.896742,52.410011",
     "geom:latitude":52.410011,
     "geom:longitude":4.896742,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803309,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_4DjTb5zx9P0TrEAzuwOd9y_52.410011_4.896742@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5658f87bdc87ae8d4f1a8b9cd27bf308",
+    "wof:geomhash":"551e4a755637d8bd96f1138b3a82700f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803309,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":269816683
         }
     ],
     "wof:id":269816683,
-    "wof:lastmodified":1473879497,
+    "wof:lastmodified":1492496878,
     "wof:name":"Chinees Indisch Restaurant Happy Valley",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4032459259,52.1215209961,5.4032459259,52.1215209961",
     "geom:latitude":52.121521,
     "geom:longitude":5.403246,
@@ -23,17 +24,32 @@
     "sg:postcode":"3832 CA",
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473989,
+        85633337,
+        101837661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oWZoIspdmgZkQPV7xwL2l_52.121521_5.403246@1306270019"
     },
     "wof:country":"NL",
     "wof:created":1473804230,
-    "wof:geomhash":"7b015564836771edea420d1d9b5d0538",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28ae6a0617659455f940d7ce8a48d659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473989,
+            "locality_id":101837661,
+            "region_id":85687039,
+            "venue_id":1091625649
+        }
+    ],
     "wof:id":1091625649,
-    "wof:lastmodified":1473878867,
+    "wof:lastmodified":1492512266,
     "wof:name":"Ferry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

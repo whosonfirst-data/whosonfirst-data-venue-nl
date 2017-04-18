@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5910401344,52.0970993042,4.5910401344,52.0970993042",
     "geom:latitude":52.097099,
     "geom:longitude":4.59104,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.spiralfx.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474585,
+        85633337,
+        101807035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2inbMoEsYq57xDSi0J0Kj1_52.097099_4.591040@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800810,
-    "wof:geomhash":"1c8804578aebdb7bf5b8de472392a0da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71d44b5d0ff1b8d0899b1a1dfd76fc1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474585,
+            "locality_id":101807035,
+            "region_id":85687041,
+            "venue_id":1091575149
+        }
+    ],
     "wof:id":1091575149,
-    "wof:lastmodified":1473878845,
+    "wof:lastmodified":1492511365,
     "wof:name":"Spiralfx",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

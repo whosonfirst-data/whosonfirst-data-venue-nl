@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.883622,52.381248,4.883622,52.381248",
     "geom:latitude":52.381248,
     "geom:longitude":4.883622,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804285,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1bCYoxEexISxEMXsOtpmyH_52.381248_4.883622@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"984d71d9ca0f4949abc16782a4fb09f0",
+    "wof:geomhash":"243b2a4becd5560ab42d28115736cfbc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804285,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":220063783
         }
     ],
     "wof:id":220063783,
-    "wof:lastmodified":1473878673,
+    "wof:lastmodified":1492481774,
     "wof:name":"Verberne, Michiel",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

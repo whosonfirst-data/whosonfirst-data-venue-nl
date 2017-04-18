@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.850475,52.389851,4.850475,52.389851",
     "geom:latitude":52.389851,
     "geom:longitude":4.850475,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803313,
+        1108802535,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5hytfV05R6gQPlclH9Fv65_52.389851_4.850475@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5c323e19fe21fa9b1bd3e37ea2352d8a",
+    "wof:geomhash":"b9e21286d076a428b87ff1bcb9d8f654",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803313,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":287130661
         }
     ],
     "wof:id":287130661,
-    "wof:lastmodified":1473878898,
+    "wof:lastmodified":1492513283,
     "wof:name":"Agia",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

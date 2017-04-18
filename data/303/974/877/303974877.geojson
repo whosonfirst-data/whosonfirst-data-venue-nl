@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.552312,51.954811,4.552312,51.954811",
     "geom:latitude":51.954811,
     "geom:longitude":4.552312,
@@ -24,30 +25,36 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798177,
+        85798149,
+        102191581,
         85633337,
-        101752769,
+        101751843,
+        1108805725,
         85687041,
-        85798149
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gBRWZjRDsv0E29FzxGoXl_51.954811_4.552312@1306269989"
     },
     "wof:country":"NL",
-    "wof:geomhash":"02ee20deeccd622ceb111a84824d6eda",
+    "wof:geomhash":"3c5e864e38504b682700e0758446620c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101752769,
-            "neighbourhood_id":85798177,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":303974877
         },
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798149,
             "region_id":85687041,
@@ -55,9 +62,9 @@
         }
     ],
     "wof:id":303974877,
-    "wof:lastmodified":1473879674,
+    "wof:lastmodified":1492470750,
     "wof:name":"Trotsenburg, J T",
-    "wof:parent_id":-1,
+    "wof:parent_id":85798149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

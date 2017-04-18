@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.806318,52.348045,4.806318,52.348045",
     "geom:latitude":52.348045,
     "geom:longitude":4.806318,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803315,
+        1108802901,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_0MOEbQvJBasJjBCgmFFdaS_52.348045_4.806318@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a2fef0b0f94b3343dfa3fab6f5a76234",
+    "wof:geomhash":"c14aafc1d5a16e508aa0ab4324e457f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803315,
+            "neighbourhood_id":1108802901,
             "region_id":85687053,
             "venue_id":269763899
         }
     ],
     "wof:id":269763899,
-    "wof:lastmodified":1473879397,
+    "wof:lastmodified":1492496039,
     "wof:name":"J N Bloemberg",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

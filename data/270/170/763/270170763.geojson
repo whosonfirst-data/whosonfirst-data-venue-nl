@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.430704,51.933022,4.430704,51.933022",
     "geom:latitude":51.933022,
     "geom:longitude":4.430704,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798219,
+        1108805669,
+        1108805799,
+        102191581,
         85633337,
-        101753095,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6sdJhAMfdz55fbwWS3qR97_51.933022_4.430704@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1f9c606e6fd396037472859bfc4cfc95",
+    "wof:geomhash":"8e841ec0ff55fed272b7ce680a940dd3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85798219,
+            "locality_id":101751843,
+            "microhood_id":1108805669,
+            "neighbourhood_id":1108805799,
             "region_id":85687041,
             "venue_id":270170763
         }
     ],
     "wof:id":270170763,
-    "wof:lastmodified":1473878763,
+    "wof:lastmodified":1492499557,
     "wof:name":"Haas, Jacqueline De",
-    "wof:parent_id":85798219,
+    "wof:parent_id":1108805669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

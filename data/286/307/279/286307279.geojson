@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.806252,52.37558,4.806252,52.37558",
     "geom:latitude":52.37558,
     "geom:longitude":4.806252,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803993,
         85797579,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_6OoQL9hovUlQ7rw5et4ubA_52.375580_4.806252@1306269967"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c0d38286ab611a01362489357fd33af6",
+    "wof:geomhash":"d0557852ad0ffbeeb377684a24a434e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803993,
             "neighbourhood_id":85797579,
             "region_id":85687053,
             "venue_id":286307279
         }
     ],
     "wof:id":286307279,
-    "wof:lastmodified":1473878701,
+    "wof:lastmodified":1492475149,
     "wof:name":"Pieter Jelles Troelstraschool",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108803993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

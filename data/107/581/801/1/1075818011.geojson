@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5526127815,51.9504585266,4.5526127815,51.9504585266",
     "geom:latitude":51.950459,
     "geom:longitude":4.552613,
@@ -26,10 +27,12 @@
     "wof:belongsto":[
         85798177,
         102191581,
-        404474163,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,9 +40,19 @@
     },
     "wof:country":"NL",
     "wof:created":1473799025,
-    "wof:geomhash":"ed81595d0e78932d544251d7b7c0e2ad",
+    "wof:geomhash":"2c184e9ef08d7d6f18aee12571b2d341",
     "wof:hierarchy":[
         {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":1075818011
+        },
+        {
+            "borough_id":1108805725,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474163,
@@ -50,7 +63,7 @@
         }
     ],
     "wof:id":1075818011,
-    "wof:lastmodified":1473879108,
+    "wof:lastmodified":1492486446,
     "wof:name":"Jean Swanborn Optiek Oosterhof Bv",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

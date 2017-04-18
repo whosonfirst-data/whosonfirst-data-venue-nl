@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.985677,52.308243,4.985677,52.308243",
     "geom:latitude":52.308243,
     "geom:longitude":4.985677,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108804297,
+        1108802863,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_15TxG3AFOTGuxUREKzryF4_52.308243_4.985677@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"82bb9c12ab8dfa69924323d438666d33",
+    "wof:geomhash":"5a34dec18cc1d5c852f15b9c2ff7aad9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108804297,
+            "neighbourhood_id":1108802863,
             "region_id":85687053,
             "venue_id":219584317
         }
     ],
     "wof:id":219584317,
-    "wof:lastmodified":1473879403,
+    "wof:lastmodified":1492503041,
     "wof:name":"Bohan Vof",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108804297,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

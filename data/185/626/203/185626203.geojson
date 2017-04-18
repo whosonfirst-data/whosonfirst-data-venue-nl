@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.277056,52.103176,4.277056,52.103176",
     "geom:latitude":52.103176,
     "geom:longitude":4.277056,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808159,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_7RdpeLiGpKTbPW5u0OavqF_52.103176_4.277056@1306269906"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fb93efb3321dd401cdf237276db62e40",
+    "wof:geomhash":"aa5bd0f7c624c19e4cfe4b0cb9b0308c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808159,
             "region_id":85687041,
             "venue_id":185626203
         }
     ],
     "wof:id":185626203,
-    "wof:lastmodified":1473878495,
+    "wof:lastmodified":1492488008,
     "wof:name":"Van Beek Haarmode",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

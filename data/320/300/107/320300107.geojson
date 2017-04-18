@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.09607,52.113132,5.09607,52.113132",
     "geom:latitude":52.113132,
     "geom:longitude":5.09607,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798231,
+        1108808731,
+        102191581,
+        1108808653,
         85633337,
+        101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_3MJKYa6W1mhC2xcNkSDYJJ_52.113132_5.096070@1306269997"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bbb4b6377f360391034e2a6f07816160",
+    "wof:geomhash":"bc2d3f9e3a25893963ce15ca138ed1ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798231,
+            "locality_id":101751827,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808731,
             "region_id":85687039,
             "venue_id":320300107
         }
     ],
     "wof:id":320300107,
-    "wof:lastmodified":1473879142,
+    "wof:lastmodified":1492484129,
     "wof:name":"Vries, C De",
-    "wof:parent_id":85798231,
+    "wof:parent_id":1108808731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0092158318,52.0833625793,5.0092158318,52.0833625793",
     "geom:latitude":52.083363,
     "geom:longitude":5.009216,
@@ -23,19 +24,36 @@
     "sg:postcode":"3453 PD",
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108808897,
+        102191581,
+        85633337,
+        101751827,
+        1108808673,
+        85687039
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RY0mZG2K3JFM20eZqQZOQ_52.083363_5.009216@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803544,
-    "wof:geomhash":"730e9e0ead4101328aa1bdac36fce0ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22e62ac59d1d7dffb3a24d2fb5498ff9",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108808673,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808897,
+            "region_id":85687039,
+            "venue_id":1091612481
+        }
+    ],
     "wof:id":1091612481,
-    "wof:lastmodified":1473878616,
+    "wof:lastmodified":1492510646,
     "wof:name":"Rixt",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108808897,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

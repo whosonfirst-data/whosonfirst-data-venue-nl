@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.928323,52.359955,4.928323,52.359955",
     "geom:latitude":52.359955,
     "geom:longitude":4.928323,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803667,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_60HqOkuJF8jCB5aNiullcD_52.359955_4.928323@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"259d391e1ade534f10619855f895e63e",
+    "wof:geomhash":"42ac3ff9040aa37fd3d957f3aed7e987",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803667,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":320263831
         }
     ],
     "wof:id":320263831,
-    "wof:lastmodified":1473879135,
+    "wof:lastmodified":1492483733,
     "wof:name":"Glasatelier Renee Weyand",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

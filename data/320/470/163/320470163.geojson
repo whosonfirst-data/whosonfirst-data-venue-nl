@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.09585,52.11581,5.09585,52.11581",
     "geom:latitude":52.11581,
     "geom:longitude":5.09585,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798231,
+        1108808895,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_0DBNXWjgkc4ha31K05283p_52.115810_5.095850@1306269998"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a80930f4a9a93f06f362edce22abee0c",
+    "wof:geomhash":"01334aedc86745e104a8795d776b5174",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798231,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808895,
             "region_id":85687039,
             "venue_id":320470163
         }
     ],
     "wof:id":320470163,
-    "wof:lastmodified":1473879312,
+    "wof:lastmodified":1492485153,
     "wof:name":"Beeldbuis",
-    "wof:parent_id":85798231,
+    "wof:parent_id":1108808895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

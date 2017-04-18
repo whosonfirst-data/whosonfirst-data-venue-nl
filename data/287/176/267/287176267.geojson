@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.252644,52.07291,4.252644,52.07291",
     "geom:latitude":52.07291,
     "geom:longitude":4.252644,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859589,
+        1108808183,
+        102191581,
+        1108805965,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6uJeBrVnEZNoLf0gRD8uZa_52.072910_4.252644@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2ac1676acc723b3782b6789a9629ef42",
+    "wof:geomhash":"116208bf8fe0dd14c836f91a22fea7c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859589,
+            "macrohood_id":1108805965,
+            "neighbourhood_id":1108808183,
             "region_id":85687041,
             "venue_id":287176267
         }
     ],
     "wof:id":287176267,
-    "wof:lastmodified":1473878954,
+    "wof:lastmodified":1492513217,
     "wof:name":"St Het Theosofisch Werkfonds",
-    "wof:parent_id":85859589,
+    "wof:parent_id":1108808183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1291699409,52.1081809998,5.1291699409,52.1081809998",
     "geom:latitude":52.108181,
     "geom:longitude":5.12917,
@@ -25,8 +26,11 @@
     "sg:website":"http://www.engelsmanaut.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85798515,
+        102191581,
         85633337,
-        85798227,
+        101751827,
+        1108808663,
         85687039
     ],
     "wof:breaches":[],
@@ -35,19 +39,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473800644,
-    "wof:geomhash":"3af47e81ae9bef3b505fb3322ce39bc5",
+    "wof:geomhash":"e5f389d1dfbba11db3f46fac2579672c",
     "wof:hierarchy":[
         {
+            "borough_id":1108808663,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "neighbourhood_id":85798515,
             "region_id":85687039,
             "venue_id":1091572649
         }
     ],
     "wof:id":1091572649,
-    "wof:lastmodified":1473878631,
+    "wof:lastmodified":1492511364,
     "wof:name":"Engelsman Automatisering",
-    "wof:parent_id":85798227,
+    "wof:parent_id":85798515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

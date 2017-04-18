@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0945730209,51.3110618591,6.0945730209,51.3110618591",
     "geom:latitude":51.311062,
     "geom:longitude":6.094573,
@@ -31,17 +32,30 @@
         "groenten"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474491,
+        85633337,
+        85687033
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qjtY3yOQsNjnOiEmkGMUk_51.311062_6.094573@1306269999"
     },
     "wof:country":"NL",
     "wof:created":1473798806,
-    "wof:geomhash":"909761f26ece0f5cd0ee102bce2a0704",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6bfef11cf2b9a5ad534b690ac736d8c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474491,
+            "region_id":85687033,
+            "venue_id":1075812805
+        }
+    ],
     "wof:id":1075812805,
-    "wof:lastmodified":1473878875,
+    "wof:lastmodified":1492486359,
     "wof:name":"De Groenteboerderij",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

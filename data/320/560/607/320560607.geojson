@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.304629,52.050812,4.304629,52.050812",
     "geom:latitude":52.050812,
     "geom:longitude":4.304629,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798433,
+        1108808295,
+        102191581,
+        1108833203,
         85633337,
-        101754743,
+        101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_5eplmS61Xn4DL9zQiEgyhQ_52.050812_4.304629@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"be9001901a33d910629acb0b81f97402",
+    "wof:geomhash":"9a53afb7ad796777094a50ba4b673110",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798433,
+            "locality_id":101752763,
+            "macrohood_id":1108833203,
+            "neighbourhood_id":1108808295,
             "region_id":85687041,
             "venue_id":320560607
         }
     ],
     "wof:id":320560607,
-    "wof:lastmodified":1473879412,
+    "wof:lastmodified":1492482025,
     "wof:name":"J A J Verkerk",
-    "wof:parent_id":85798433,
+    "wof:parent_id":1108808295,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

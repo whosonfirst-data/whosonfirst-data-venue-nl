@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.888009,52.420341,4.888009,52.420341",
     "geom:latitude":52.420341,
     "geom:longitude":4.888009,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803523,
+        1108802883,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1DFdhXBdfTiG78WeNpDOo1_52.420341_4.888009@1306269924"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f623a0f7ecada830771b6aa18342aac5",
+    "wof:geomhash":"eb9f49d6764be30582a5517e4b7999f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803523,
+            "neighbourhood_id":1108802883,
             "region_id":85687053,
             "venue_id":219229645
         }
     ],
     "wof:id":219229645,
-    "wof:lastmodified":1473878655,
+    "wof:lastmodified":1492502409,
     "wof:name":"Vika International",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

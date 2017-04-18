@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.5522022247,52.2000274658,6.5522022247,52.2000274658",
     "geom:latitude":52.200027,
     "geom:longitude":6.552202,
@@ -24,17 +25,32 @@
     "sg:province":"NL.08",
     "sg:website":"http://www.interio.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474653,
+        85633337,
+        101807175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ae7rcUI11AlJKoM3JNM3l_52.200027_6.552202@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802456,
-    "wof:geomhash":"8f0dee2cdf985f2a4ffb4cfe3668fc88",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be0b49eeffcf4f6aebb8f8e5f15588b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474653,
+            "locality_id":101807175,
+            "region_id":85687045,
+            "venue_id":1091598773
+        }
+    ],
     "wof:id":1091598773,
-    "wof:lastmodified":1473879000,
+    "wof:lastmodified":1492509664,
     "wof:name":"Interio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

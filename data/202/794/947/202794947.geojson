@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.300832,52.089767,4.300832,52.089767",
     "geom:latitude":52.089767,
     "geom:longitude":4.300832,
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859619,
+        102191581,
+        1108808071,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,19 +38,21 @@
         "sg:id":"SG_2NS6zOzLxHzkIeUqHI0blY_52.089767_4.300832@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4f953327206650d26f07d1962ea7f47c",
+    "wof:geomhash":"e178fa9f0a2065d60eaf8a34f45982fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808071,
             "neighbourhood_id":85859619,
             "region_id":85687041,
             "venue_id":202794947
         }
     ],
     "wof:id":202794947,
-    "wof:lastmodified":1473879211,
+    "wof:lastmodified":1492499029,
     "wof:name":"Romtext",
     "wof:parent_id":85859619,
     "wof:placetype":"venue",

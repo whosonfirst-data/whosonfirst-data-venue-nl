@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.864657,52.37072,4.864657,52.37072",
     "geom:latitude":52.37072,
     "geom:longitude":4.864657,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803907,
+        1108802785,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0oTm05pvjTVQ4jQXTrmexu_52.370720_4.864657@1306270007"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a725e683c7dc280355da06ec130fa5f0",
+    "wof:geomhash":"f068b480b54a3e38f124fc53946cd95e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803907,
+            "neighbourhood_id":1108802785,
             "region_id":85687053,
             "venue_id":336921575
         }
     ],
     "wof:id":336921575,
-    "wof:lastmodified":1473878472,
+    "wof:lastmodified":1492506796,
     "wof:name":"Heijne Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803907,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.5214920044,45.1706809998,-93.5214920044,45.1706809998",
     "geom:latitude":45.170681,
     "geom:longitude":-93.521492,
@@ -24,17 +25,34 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.specsavers.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511707,
+        85633793,
+        85968941,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5F0Ap3jGbdqBQiEpaaRDpY_45.170681_-93.521492@1306270009"
     },
     "wof:country":"NL",
     "wof:created":1473799133,
-    "wof:geomhash":"75f59d0d5d367d5368950a9e6df97f9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ecdee48c054585385bf5085fee97759d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511707,
+            "locality_id":85968941,
+            "region_id":85688727,
+            "venue_id":1075820213
+        }
+    ],
     "wof:id":1075820213,
-    "wof:lastmodified":1473879219,
+    "wof:lastmodified":1492486927,
     "wof:name":"Specsavers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

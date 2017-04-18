@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0979709625,52.0831298828,5.0979709625,52.0831298828",
     "geom:latitude":52.08313,
     "geom:longitude":5.097971,
@@ -25,8 +26,11 @@
     "sg:website":"http://www.bdw-advies.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808881,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808679,
         85687039
     ],
     "wof:breaches":[],
@@ -35,19 +39,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473798523,
-    "wof:geomhash":"072e33f05e6302ba53bb66e3ae8e8e7a",
+    "wof:geomhash":"b1c16ac701863e160a6dfb4a4425cff4",
     "wof:hierarchy":[
         {
+            "borough_id":1108808679,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808881,
             "region_id":85687039,
             "venue_id":1075807603
         }
     ],
     "wof:id":1075807603,
-    "wof:lastmodified":1473878557,
+    "wof:lastmodified":1492486007,
     "wof:name":"Bdw",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

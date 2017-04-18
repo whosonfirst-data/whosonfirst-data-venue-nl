@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.977226,52.296787,4.977226,52.296787",
     "geom:latitude":52.296787,
     "geom:longitude":4.977226,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803199,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5HXumsdpj9472d1HXatlcH_52.296787_4.977226@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ef32cc4c244884573558c6baf65a7356",
+    "wof:geomhash":"2a7a510c1bcea4ab5b8b912162cbb740",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803199,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":320678367
         }
     ],
     "wof:id":320678367,
-    "wof:lastmodified":1473879508,
+    "wof:lastmodified":1492483456,
     "wof:name":"Meren, De",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803199,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

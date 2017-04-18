@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.91068,52.362656,4.91068,52.362656",
     "geom:latitude":52.362656,
     "geom:longitude":4.91068,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803763,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_2fb3Fb86PuNbWW5h76IxFM_52.362656_4.910680@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"987b2296aff21087a979f3a2bb6cdb7c",
+    "wof:geomhash":"67180137caa8d153600a0cd3a634d6c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803763,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":236247121
         }
     ],
     "wof:id":236247121,
-    "wof:lastmodified":1473879023,
+    "wof:lastmodified":1492492649,
     "wof:name":"Laughing Buddha Artist Management",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803763,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

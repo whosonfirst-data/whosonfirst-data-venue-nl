@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.827599,52.356873,4.827599,52.356873",
     "geom:latitude":52.356873,
     "geom:longitude":4.827599,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803769,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4OjMZDMDVDIRbnKO8Wq50m_52.356873_4.827599@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"10dac157c40d95c8ef81b3bc68da334e",
+    "wof:geomhash":"5a5ea9f0f1d91a155f4f63d96eadbc8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803769,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":287159545
         }
     ],
     "wof:id":287159545,
-    "wof:lastmodified":1473878918,
+    "wof:lastmodified":1492513271,
     "wof:name":"Meck & Holt",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.911741,52.366608,4.911741,52.366608",
     "geom:latitude":52.366608,
     "geom:longitude":4.911741,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.hotelplantage.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803923,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_3UsMpdteS12X7SeywXWcgy_52.366608_4.911741@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ec7a2ce7196e2eaece48cd47266c2476",
+    "wof:geomhash":"f9117624c6ececbd27af53f18055d210",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803923,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":319817667
         }
     ],
     "wof:id":319817667,
-    "wof:lastmodified":1473878480,
+    "wof:lastmodified":1492479614,
     "wof:name":"Plantage",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

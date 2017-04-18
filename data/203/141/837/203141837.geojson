@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.502134,51.88168,4.502134,51.88168",
     "geom:latitude":51.88168,
     "geom:longitude":4.502134,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798517,
+        1108805711,
+        85798609,
+        102191581,
         85633337,
         101751843,
+        1108805747,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2oy2ecjusEwoYJdtil27Vs_51.881680_4.502134@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6cd7dc67fd73bb2d0593d1f4772df76a",
+    "wof:geomhash":"f12b1ef17b707f54e0b6e10a52efb84b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805747,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85798517,
+            "microhood_id":1108805711,
+            "neighbourhood_id":85798609,
             "region_id":85687041,
             "venue_id":203141837
         }
     ],
     "wof:id":203141837,
-    "wof:lastmodified":1473879013,
+    "wof:lastmodified":1492480694,
     "wof:name":"H.T. Wolters Verzekeringen",
-    "wof:parent_id":85798517,
+    "wof:parent_id":1108805711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

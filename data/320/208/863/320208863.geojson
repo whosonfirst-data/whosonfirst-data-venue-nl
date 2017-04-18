@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.479439,51.945396,4.479439,51.945396",
     "geom:latitude":51.945396,
     "geom:longitude":4.479439,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859841,
+        1108805793,
+        102191581,
+        1108805981,
         85633337,
-        101753095,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_3Ew4pedvWCub2xEciVMchI_51.945396_4.479439@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9c34c0964e2b57b8a283f14eeb13168c",
+    "wof:geomhash":"7e3e2161832688569800a5a1276c53e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859841,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805793,
             "region_id":85687041,
             "venue_id":320208863
         }
     ],
     "wof:id":320208863,
-    "wof:lastmodified":1473879098,
+    "wof:lastmodified":1492482776,
     "wof:name":"J.B. Verdoorn",
-    "wof:parent_id":85859841,
+    "wof:parent_id":1108805793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

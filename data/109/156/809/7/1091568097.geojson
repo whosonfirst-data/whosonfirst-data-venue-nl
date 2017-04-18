@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6482520103,52.4169197083,4.6482520103,52.4169197083",
     "geom:latitude":52.41692,
     "geom:longitude":4.648252,
@@ -24,8 +25,10 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         85859533,
+        102191581,
+        404474061,
+        85633337,
         85687053
     ],
     "wof:breaches":[],
@@ -34,17 +37,19 @@
     },
     "wof:country":"NL",
     "wof:created":1473800335,
-    "wof:geomhash":"10b368996be8b6df808c1ae8634fba93",
+    "wof:geomhash":"8cd8e52bae71cb7701512f4adb1415ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474061,
             "neighbourhood_id":85859533,
             "region_id":85687053,
             "venue_id":1091568097
         }
     ],
     "wof:id":1091568097,
-    "wof:lastmodified":1473878490,
+    "wof:lastmodified":1492510915,
     "wof:name":"Marsmanplein",
     "wof:parent_id":85859533,
     "wof:placetype":"venue",

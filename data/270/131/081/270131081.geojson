@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893986,52.357056,4.893986,52.357056",
     "geom:latitude":52.357056,
     "geom:longitude":4.893986,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803865,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0SvEMXgrW6znwtDGHGqsx3_52.357056_4.893986@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bd725cdb1bffcf5be0065dc5360cfd24",
+    "wof:geomhash":"f5add1e9a6407258b56424ad3a37cf74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803865,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":270131081
         }
     ],
     "wof:id":270131081,
-    "wof:lastmodified":1473878626,
+    "wof:lastmodified":1492500250,
     "wof:name":"Aldershoff, R",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

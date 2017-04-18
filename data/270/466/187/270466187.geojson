@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.317177,52.080029,4.317177,52.080029",
     "geom:latitude":52.080029,
     "geom:longitude":4.317177,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.elmexicano.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808251,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_2GjrerIqNy9QKtH3eh4Wze_52.080029_4.317177@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0645a5fd91f7d0f0cb280c18dc6096ee",
+    "wof:geomhash":"c458ed7fc2ad9c4678a75fcb09d829ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808251,
             "region_id":85687041,
             "venue_id":270466187
         }
     ],
     "wof:id":270466187,
-    "wof:lastmodified":1473879269,
+    "wof:lastmodified":1492500521,
     "wof:name":"El Mexicano/ El Escondite",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

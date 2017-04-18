@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6516361237,52.1191864014,4.6516361237,52.1191864014",
     "geom:latitude":52.119186,
     "geom:longitude":4.651636,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.cone.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474147,
+        85633337,
+        101751837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dumwEWaGJkD1z7JZrqUEG_52.119186_4.651636@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800608,
-    "wof:geomhash":"4578b6930a0886707d72f60535628012",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f7687a37770ef041d3bc5426733fc61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474147,
+            "locality_id":101751837,
+            "region_id":85687041,
+            "venue_id":1091572071
+        }
+    ],
     "wof:id":1091572071,
-    "wof:lastmodified":1473878594,
+    "wof:lastmodified":1492511286,
     "wof:name":"Cone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

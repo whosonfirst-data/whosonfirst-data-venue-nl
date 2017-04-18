@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.773176,51.579716,4.773176,51.579716",
     "geom:latitude":51.579716,
     "geom:longitude":4.773176,
@@ -24,40 +25,41 @@
     "sg:province":"Noord-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798731,
         85633337,
-        101751811,
+        85798373,
         85687035,
-        85798373
+        85798731,
+        102191581,
+        404474363,
+        101751811
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54HW0VevdYeINWj4TEgt6g_51.579716_4.773176@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"77c14794bb541c16940557d42605ed27",
+    "wof:geomhash":"36b16b8a6667fc54548dcb22cb356eb5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751811,
-            "neighbourhood_id":85798731,
+            "neighbourhood_id":85798373,
             "region_id":85687035,
             "venue_id":269630009
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798373,
+            "localadmin_id":404474363,
+            "locality_id":101751811,
+            "neighbourhood_id":85798731,
             "region_id":85687035,
             "venue_id":269630009
         }
     ],
     "wof:id":269630009,
-    "wof:lastmodified":1473879093,
+    "wof:lastmodified":1492496140,
     "wof:name":"Neirynck, Drs K C",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.303204,52.085899,4.303204,52.085899",
     "geom:latitude":52.085899,
     "geom:longitude":4.303204,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808223,
+        102191581,
+        1108808065,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_025eMcF6qQTa182ObKoSgW_52.085899_4.303204@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3000d1d4cb53d296aa11cc426840b508",
+    "wof:geomhash":"328da6ead15475923f0659992054803f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808065,
+            "neighbourhood_id":1108808223,
             "region_id":85687041,
             "venue_id":270026347
         }
     ],
     "wof:id":270026347,
-    "wof:lastmodified":1473878487,
+    "wof:lastmodified":1492499332,
     "wof:name":"Reintjens & Reintjens Bv",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0805301666,51.8927993774,5.0805301666,51.8927993774",
     "geom:latitude":51.892799,
     "geom:longitude":5.08053,
@@ -23,17 +24,32 @@
     "sg:postcode":"4142 BM",
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474197,
+        85633337,
+        101808521
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LgmoQhz4KUCDsvU5St3bw_51.892799_5.080530@1306270010"
     },
     "wof:country":"NL",
     "wof:created":1473799855,
-    "wof:geomhash":"f2cfc8689e78a2fece5a634965eab0d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e3b938eb39b3895eb3ecc52c8696481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474197,
+            "locality_id":101808521,
+            "region_id":85687041,
+            "venue_id":1075831149
+        }
+    ],
     "wof:id":1075831149,
-    "wof:lastmodified":1473879273,
+    "wof:lastmodified":1492485896,
     "wof:name":"West-End",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

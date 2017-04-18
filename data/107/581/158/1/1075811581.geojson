@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9089751244,52.3590927124,4.9089751244,52.3590927124",
     "geom:latitude":52.359093,
     "geom:longitude":4.908975,
@@ -25,13 +26,14 @@
     "sg:website":"http://www.athenaeum.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803889,
+        1108802953,
         102191581,
-        404474029,
+        1108802305,
         85633337,
         101751893,
-        85687053,
-        85797363
+        1108802289,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,31 +41,24 @@
     },
     "wof:country":"NL",
     "wof:created":1473798740,
-    "wof:geomhash":"9aaf0ca0b6f4a00936aaacc99133e3c9",
+    "wof:geomhash":"6794528959c7c267951ca4eb389e2907",
     "wof:hierarchy":[
         {
+            "borough_id":1108802289,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474029,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
-            "region_id":85687053,
-            "venue_id":1075811581
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474029,
-            "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803889,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":1075811581
         }
     ],
     "wof:id":1075811581,
-    "wof:lastmodified":1473878823,
+    "wof:lastmodified":1492486444,
     "wof:name":"Athenaeum",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108803889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.883511,52.383667,4.883511,52.383667",
     "geom:latitude":52.383667,
     "geom:longitude":4.883511,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.roodveldt.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803395,
+        1108802819,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3oHJU7BQZN4GgFPyR2ImkZ_52.383667_4.883511@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2267c67556836ac81fd06c57375080de",
+    "wof:geomhash":"9c373cbf20af84e9816baae02ab105bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803395,
+            "neighbourhood_id":1108802819,
             "region_id":85687053,
             "venue_id":287140079
         }
     ],
     "wof:id":287140079,
-    "wof:lastmodified":1473878918,
+    "wof:lastmodified":1492514069,
     "wof:name":"Roodveldt Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

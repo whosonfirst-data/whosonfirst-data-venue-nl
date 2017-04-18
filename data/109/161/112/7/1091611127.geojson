@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8842258453,52.2043800354,4.8842258453,52.2043800354",
     "geom:latitude":52.20438,
     "geom:longitude":4.884226,
@@ -24,17 +25,32 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.topdeq.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474341,
+        85633337,
+        101837675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mEhKwT7ir7ci6bS8Y3U8n_52.204380_4.884226@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803456,
-    "wof:geomhash":"2f9d2453ee0ca34d65b04bd2ced307e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"268bad23ee3b1fada803980cc2f4ac17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474341,
+            "locality_id":101837675,
+            "region_id":85687039,
+            "venue_id":1091611127
+        }
+    ],
     "wof:id":1091611127,
-    "wof:lastmodified":1473878555,
+    "wof:lastmodified":1492510551,
     "wof:name":"Topdeq Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

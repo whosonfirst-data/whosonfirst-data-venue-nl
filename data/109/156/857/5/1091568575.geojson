@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1435132027,51.5921630859,5.1435132027,51.5921630859",
     "geom:latitude":51.592163,
     "geom:longitude":5.143513,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.geonbv.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474435,
+        85633337,
+        101808167
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2P0SWwy6tFsZtPOefpsb83_51.592163_5.143513@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800367,
-    "wof:geomhash":"0f261043428f1c7bae72d29636f4e00f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ddeaf72aed3e155348fcb2fb80ff6558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474435,
+            "locality_id":101808167,
+            "region_id":85687035,
+            "venue_id":1091568575
+        }
+    ],
     "wof:id":1091568575,
-    "wof:lastmodified":1473878537,
+    "wof:lastmodified":1492510904,
     "wof:name":"Geon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

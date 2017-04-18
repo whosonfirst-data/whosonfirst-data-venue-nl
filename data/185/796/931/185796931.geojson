@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.114962,52.064976,5.114962,52.064976",
     "geom:latitude":52.064976,
     "geom:longitude":5.114962,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797727,
+        1108808825,
+        102191581,
+        1108808645,
         85633337,
         101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5LH426p8hlg8qxnH6B5A66_52.064976_5.114962@1306269907"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7455f001dd7ce6e0c47d2fd1867f2b65",
+    "wof:geomhash":"13cbc4898f87e33f88bd8f3149f8bb41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797727,
+            "macrohood_id":1108808645,
+            "neighbourhood_id":1108808825,
             "region_id":85687039,
             "venue_id":185796931
         }
     ],
     "wof:id":185796931,
-    "wof:lastmodified":1473878738,
+    "wof:lastmodified":1492488149,
     "wof:name":"Zuidam",
-    "wof:parent_id":85797727,
+    "wof:parent_id":1108808825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

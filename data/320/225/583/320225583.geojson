@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.290172,52.110264,4.290172,52.110264",
     "geom:latitude":52.110264,
     "geom:longitude":4.290172,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808139,
+        102191581,
+        1108808075,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:brand_id":420575957,
@@ -42,21 +47,23 @@
         "sg:id":"SG_4RW0CI3iAXf228vwk9OkU8_52.110264_4.290172@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dddfe5fd0ae07ea60c8cb00be8ec3118",
+    "wof:geomhash":"44507b0fac6edadf7b437227885f80df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108808075,
+            "neighbourhood_id":1108808139,
             "region_id":85687041,
             "venue_id":320225583
         }
     ],
     "wof:id":320225583,
-    "wof:lastmodified":1473879111,
+    "wof:lastmodified":1492481824,
     "wof:name":"Wereldwinkel",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

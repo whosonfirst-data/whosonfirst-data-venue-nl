@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.926571,52.388218,4.926571,52.388218",
     "geom:latitude":52.388218,
     "geom:longitude":4.926571,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803809,
+        1108802839,
+        102191581,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_1S9HpAQ7G1Ce5Nu7P50irp_52.388218_4.926571@1306269951"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ce6ad3458027d8216960178d54894082",
+    "wof:geomhash":"8a014deb32bf157ee4c7161e07aec60c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803809,
+            "neighbourhood_id":1108802839,
             "region_id":85687053,
             "venue_id":253592657
         }
     ],
     "wof:id":253592657,
-    "wof:lastmodified":1473879690,
+    "wof:lastmodified":1492489989,
     "wof:name":"Zon, L Van",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

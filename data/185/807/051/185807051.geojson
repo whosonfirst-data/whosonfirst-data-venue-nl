@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.073876,52.121952,5.073876,52.121952",
     "geom:latitude":52.121952,
     "geom:longitude":5.073876,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797903,
+        1108808933,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4pyWLKU2BBYFOXHH5kRixM_52.121952_5.073876@1306269907"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0d9b221badfecb69247399861feb72bc",
+    "wof:geomhash":"d2f75aac6ef267a43c88ccfcdf101368",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797903,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808933,
             "region_id":85687039,
             "venue_id":185807051
         }
     ],
     "wof:id":185807051,
-    "wof:lastmodified":1473878741,
+    "wof:lastmodified":1492487688,
     "wof:name":"Job & Jetje",
-    "wof:parent_id":85797903,
+    "wof:parent_id":1108808933,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

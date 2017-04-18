@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.360954,52.158009,5.360954,52.158009",
     "geom:latitude":52.158009,
     "geom:longitude":5.360954,
@@ -24,40 +25,41 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797097,
-        85633337,
-        85687039,
         85798419,
-        101855289
+        102191581,
+        404473971,
+        85633337,
+        101855289,
+        85687039,
+        85797097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pgzjEz2rXA8ksFY7Eo2bU_52.158009_5.360954@1306269949"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6c6fb8bbd982aff21a906d6225f8664f",
+    "wof:geomhash":"28fb12f6f57dbe4ae9d03ed53d1abdb6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797097,
+            "localadmin_id":404473971,
+            "locality_id":101855289,
+            "neighbourhood_id":85798419,
             "region_id":85687039,
             "venue_id":253368151
         },
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101855289,
-            "neighbourhood_id":85798419,
+            "neighbourhood_id":85797097,
             "region_id":85687039,
             "venue_id":253368151
         }
     ],
     "wof:id":253368151,
-    "wof:lastmodified":1473879433,
+    "wof:lastmodified":1492490200,
     "wof:name":"Tromp Styling",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

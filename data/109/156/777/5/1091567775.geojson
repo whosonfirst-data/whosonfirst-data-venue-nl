@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2374591827,52.0686683655,4.2374591827,52.0686683655",
     "geom:latitude":52.068668,
     "geom:longitude":4.237459,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         85797143,
+        102191581,
+        1108808079,
+        85633337,
+        101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -34,17 +39,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473800313,
-    "wof:geomhash":"9a50be13879c832e19508cc0781393bc",
+    "wof:geomhash":"b47eb47cb208fe61b2511b567ee7b12f",
     "wof:hierarchy":[
         {
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808079,
             "neighbourhood_id":85797143,
             "region_id":85687041,
             "venue_id":1091567775
         }
     ],
     "wof:id":1091567775,
-    "wof:lastmodified":1473878480,
+    "wof:lastmodified":1492510906,
     "wof:name":"Spotmaster Bv",
     "wof:parent_id":85797143,
     "wof:placetype":"venue",

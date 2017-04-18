@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.915579,52.352688,4.915579,52.352688",
     "geom:latitude":52.352688,
     "geom:longitude":4.915579,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803773,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0lKFLFrZCiH8IWAmpFcrX3_52.352688_4.915579@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"92b68ecae3196ab74896527d024971b7",
+    "wof:geomhash":"81325cd00bb3e453af716fb25237aeff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803773,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":186469161
         }
     ],
     "wof:id":186469161,
-    "wof:lastmodified":1473879488,
+    "wof:lastmodified":1492509372,
     "wof:name":"Opstap Projekt Oost",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

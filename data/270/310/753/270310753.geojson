@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.867091,52.366352,4.867091,52.366352",
     "geom:latitude":52.366352,
     "geom:longitude":4.867091,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.baby-boem.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803895,
+        1108802849,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_10YtWXysWs190MSGqjgBHi_52.366352_4.867091@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4da0e7131722be307d390f30afaa1677",
+    "wof:geomhash":"62b9bacd45b6202d87df4e9c17efcfec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803895,
+            "neighbourhood_id":1108802849,
             "region_id":85687053,
             "venue_id":270310753
         }
     ],
     "wof:id":270310753,
-    "wof:lastmodified":1473879091,
+    "wof:lastmodified":1492500069,
     "wof:name":"Baby Boem",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

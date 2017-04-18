@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.883201,52.370022,4.883201,52.370022",
     "geom:latitude":52.370022,
     "geom:longitude":4.883201,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.cito-repro.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804103,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_58hyvEi0qyjVx69cU7qhHg_52.370022_4.883201@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c802c2d01007cc878d2e5ed841116f8c",
+    "wof:geomhash":"692899c3b68f16fd8c006904bc77ed66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804103,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":186089021
         }
     ],
     "wof:id":186089021,
-    "wof:lastmodified":1473878881,
+    "wof:lastmodified":1492508169,
     "wof:name":"Cito Repro Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8714132309,52.3552513123,4.8714132309,52.3552513123",
     "geom:latitude":52.355251,
     "geom:longitude":4.871413,
@@ -24,13 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803475,
+        1108802861,
         102191581,
-        404474029,
         85633337,
         101751893,
-        85687053,
-        85798403
+        1108802281,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,31 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473798909,
-    "wof:geomhash":"3d53ce8fc349f18aaa99bc2551cb618a",
+    "wof:geomhash":"c805306349428c990375130bd172496c",
     "wof:hierarchy":[
         {
+            "borough_id":1108802281,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474029,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
-            "region_id":85687053,
-            "venue_id":1075815541
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474029,
-            "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803475,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":1075815541
         }
     ],
     "wof:id":1075815541,
-    "wof:lastmodified":1473879014,
+    "wof:lastmodified":1492486533,
     "wof:name":"Bril",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

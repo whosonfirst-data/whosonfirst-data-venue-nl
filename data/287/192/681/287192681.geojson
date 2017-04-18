@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.140033,52.066547,5.140033,52.066547",
     "geom:latitude":52.066547,
     "geom:longitude":5.140033,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859943,
+        1108808795,
+        102191581,
+        1108832363,
         85633337,
+        101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_60odY5UM5bnUvcqK4TieDt_52.066547_5.140033@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ee21b3e732e9664353b7833b0c3ce7f0",
+    "wof:geomhash":"82cede0cbb6ef747ae05f7adf291409c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859943,
+            "locality_id":101751827,
+            "macrohood_id":1108832363,
+            "neighbourhood_id":1108808795,
             "region_id":85687039,
             "venue_id":287192681
         }
     ],
     "wof:id":287192681,
-    "wof:lastmodified":1473878991,
+    "wof:lastmodified":1492513366,
     "wof:name":"Cartofantasy",
-    "wof:parent_id":85859943,
+    "wof:parent_id":1108808795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

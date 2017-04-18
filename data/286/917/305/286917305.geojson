@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.859796,52.375622,4.859796,52.375622",
     "geom:latitude":52.375622,
     "geom:longitude":4.859796,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803263,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4gX3N9x0PTQwujzrf2B56f_52.375622_4.859796@1306269974"
     },
     "wof:country":"NL",
-    "wof:geomhash":"053e881b59d71085be44ab7bb2f66215",
+    "wof:geomhash":"95d3e7d9f66861adcaf7925a3dab9fae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803263,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":286917305
         }
     ],
     "wof:id":286917305,
-    "wof:lastmodified":1473879700,
+    "wof:lastmodified":1492475481,
     "wof:name":"P Brandse Sr",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

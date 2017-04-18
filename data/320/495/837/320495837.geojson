@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.897806,52.371723,4.897806,52.371723",
     "geom:latitude":52.371723,
     "geom:longitude":4.897806,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.snitker.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803883,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_0aKPduvtCeNMmNRLsVf9zH_52.371723_4.897806@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"68991371857217171bc1c52b0e6a5050",
+    "wof:geomhash":"80ab199d5e1ef37ed7121d361b35f017",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803883,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":320495837
         }
     ],
     "wof:id":320495837,
-    "wof:lastmodified":1473879341,
+    "wof:lastmodified":1492483230,
     "wof:name":"Snitker Icd",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

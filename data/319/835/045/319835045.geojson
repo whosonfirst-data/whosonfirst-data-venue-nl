@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.875397,52.35836,4.875397,52.35836",
     "geom:latitude":52.35836,
     "geom:longitude":4.875397,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803743,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_0UItW4TJeafhgj2Yrwaudk_52.358360_4.875397@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8d63e63c9e1f73c507e662a7eff31834",
+    "wof:geomhash":"e8eb08aed1275b4248441366b31327d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803743,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":319835045
         }
     ],
     "wof:id":319835045,
-    "wof:lastmodified":1473878589,
+    "wof:lastmodified":1492479063,
     "wof:name":"Hotel Golden Regal",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

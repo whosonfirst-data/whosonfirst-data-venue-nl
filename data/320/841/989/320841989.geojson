@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.811766,52.348457,4.811766,52.348457",
     "geom:latitude":52.348457,
     "geom:longitude":4.811766,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803421,
+        1108802901,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_39tNoZcE50N3RXUAbXM8KF_52.348457_4.811766@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"931ec6fd7454aba853299c0b2f901d1c",
+    "wof:geomhash":"e9bbc4171fa088e25ddfc556614bf98d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803421,
+            "neighbourhood_id":1108802901,
             "region_id":85687053,
             "venue_id":320841989
         }
     ],
     "wof:id":320841989,
-    "wof:lastmodified":1473879659,
+    "wof:lastmodified":1492483564,
     "wof:name":"Wolf Advies, De",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

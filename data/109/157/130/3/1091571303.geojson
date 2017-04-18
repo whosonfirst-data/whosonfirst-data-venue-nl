@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.4658918381,52.6009178162,6.4658918381,52.6009178162",
     "geom:latitude":52.600918,
     "geom:longitude":6.465892,
@@ -24,17 +25,32 @@
     "sg:province":"NL.08",
     "sg:website":"http://www.aesgroep.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473831,
+        85633337,
+        101807167
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FySEycOJZd6L2Pf9TiVkQ_52.600918_6.465892@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800565,
-    "wof:geomhash":"72cb7bc26e07e72b073b0f6a01fcf09f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6bc266f938a3440e356450930240a807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473831,
+            "locality_id":101807167,
+            "region_id":85687045,
+            "venue_id":1091571303
+        }
+    ],
     "wof:id":1091571303,
-    "wof:lastmodified":1473878536,
+    "wof:lastmodified":1492511041,
     "wof:name":"Aes Groep",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

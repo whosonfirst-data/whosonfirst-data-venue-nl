@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893905,52.341324,4.893905,52.341324",
     "geom:latitude":52.341324,
     "geom:longitude":4.893905,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803985,
+        1108802897,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5kOutbqGKfqL0Zh8c25smQ_52.341324_4.893905@1306269930"
     },
     "wof:country":"NL",
-    "wof:geomhash":"82ec3b03de658c3f14148aefa5a12c2f",
+    "wof:geomhash":"ea52dd6b1b70264ab8dabae772f068e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108803985,
+            "neighbourhood_id":1108802897,
             "region_id":85687053,
             "venue_id":219895505
         }
     ],
     "wof:id":219895505,
-    "wof:lastmodified":1473879725,
+    "wof:lastmodified":1492501566,
     "wof:name":"Open Dialogue Bv",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803985,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

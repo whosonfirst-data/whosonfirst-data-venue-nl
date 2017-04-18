@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88605,52.353214,4.88605,52.353214",
     "geom:latitude":52.353214,
     "geom:longitude":4.88605,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803715,
+        1108802797,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_1mXN4lDWePggL90gHLnXwD_52.353214_4.886050@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b679323f273daf44bd99c4445b3c08f6",
+    "wof:geomhash":"6d2da592793795221ac90897992c675e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803715,
+            "neighbourhood_id":1108802797,
             "region_id":85687053,
             "venue_id":253672823
         }
     ],
     "wof:id":253672823,
-    "wof:lastmodified":1473879712,
+    "wof:lastmodified":1492490427,
     "wof:name":"Salvatore",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

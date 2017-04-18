@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.886386,52.363316,4.886386,52.363316",
     "geom:latitude":52.363316,
     "geom:longitude":4.886386,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803237,
+        1108802791,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2b6zRk2NEg2EjeqgLBJTBD_52.363316_4.886386@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7817d5b2cc9eba63c3834b85267fed8b",
+    "wof:geomhash":"dbdfb17f6956a18c54310b40c40cd0af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803237,
+            "neighbourhood_id":1108802791,
             "region_id":85687053,
             "venue_id":270250961
         }
     ],
     "wof:id":270250961,
-    "wof:lastmodified":1473878970,
+    "wof:lastmodified":1492500291,
     "wof:name":"P E Grootes",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

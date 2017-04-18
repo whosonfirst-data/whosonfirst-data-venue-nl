@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7567491531,52.384979248,4.7567491531,52.384979248",
     "geom:latitude":52.384979,
     "geom:longitude":4.756749,
@@ -24,9 +25,11 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687053,
+        102191581,
+        404474063,
         85633337,
-        85798675,
-        85687053
+        101754821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473800911,
-    "wof:geomhash":"4771d67282cee2f20c77f36704e203b3",
+    "wof:geomhash":"980464e673bc3e20d0d168d29eea31be",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798675,
+            "localadmin_id":404474063,
+            "locality_id":101754821,
             "region_id":85687053,
             "venue_id":1091577239
         }
     ],
     "wof:id":1091577239,
-    "wof:lastmodified":1473878972,
+    "wof:lastmodified":1492511297,
     "wof:name":"A. Hak Nederland Bv Regio West",
-    "wof:parent_id":85798675,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.84939,52.332668,4.84939,52.332668",
     "geom:latitude":52.332668,
     "geom:longitude":4.84939,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803583,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1ESm2Act20lw9frqFoi8Ez_52.332668_4.849390@1306269981"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ecd935b3cd399b97168d94f3260b1c63",
+    "wof:geomhash":"8bda73a070aa2f13b150c3ac52cd7fea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803583,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":303176195
         }
     ],
     "wof:id":303176195,
-    "wof:lastmodified":1473878828,
+    "wof:lastmodified":1492470703,
     "wof:name":"Woodcraft",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

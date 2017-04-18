@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.943098,52.3545,4.943098,52.3545",
     "geom:latitude":52.3545,
     "geom:longitude":4.943098,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804217,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0h2vckTjd44ZuTHkFfjkqB_52.354500_4.943098@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b75f567d4eb67f71e2f049adfba1a872",
+    "wof:geomhash":"f5553b7e02db3324cacb83097381c5a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804217,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":203236089
         }
     ],
     "wof:id":203236089,
-    "wof:lastmodified":1473879197,
+    "wof:lastmodified":1492480318,
     "wof:name":"Syndicate Productions Amsterdam",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.563035,51.945034,4.563035,51.945034",
     "geom:latitude":51.945034,
     "geom:longitude":4.563035,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_593BKICqss0w3rYRwDkFYq_51.945034_4.563035@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"93f994c4a5f4a6f6b5510e6708da40d4",
+    "wof:geomhash":"5958e99cfff5f533f6e6e685c223f5b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":219557689
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798177,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":219557689,
-    "wof:lastmodified":1473879396,
+    "wof:lastmodified":1492503596,
     "wof:name":"Aga",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

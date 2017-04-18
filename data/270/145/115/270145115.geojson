@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.547746,51.970566,4.547746,51.970566",
     "geom:latitude":51.970566,
     "geom:longitude":4.547746,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859913,
+        85798149,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47PII9FOVLAtw5CwmWAanH_51.970566_4.547746@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"70c56ce35dbdba2903f1584f74d52c61",
+    "wof:geomhash":"1eb533389600213443edb37c2eef977e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859913,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":270145115
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":270145115
         }
     ],
     "wof:id":270145115,
-    "wof:lastmodified":1473878652,
+    "wof:lastmodified":1492501371,
     "wof:name":"L.C. Scanning Systems Bv",
-    "wof:parent_id":85859913,
+    "wof:parent_id":85798149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.890581,52.368786,4.890581,52.368786",
     "geom:latitude":52.368786,
     "geom:longitude":4.890581,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803837,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_6zN8EJBRvS5SSEqp8vMHHR_52.368786_4.890581@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c09085fa01cb31396a95fbba358a58b9",
+    "wof:geomhash":"a6edd238003ea483097b86ce1116c46e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803837,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":303540317
         }
     ],
     "wof:id":303540317,
-    "wof:lastmodified":1473879302,
+    "wof:lastmodified":1492471380,
     "wof:name":"Lasalle",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

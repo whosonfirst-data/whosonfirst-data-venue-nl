@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.852463,52.349735,4.852463,52.349735",
     "geom:latitude":52.349735,
     "geom:longitude":4.852463,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803439,
+        1108802899,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1cG3mBRk5Wbl8tEr2iUun3_52.349735_4.852463@1306269971"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c1c39c7c181fb39a59580487e280345b",
+    "wof:geomhash":"fe83074a59a2aa561ae5d4922318731f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803439,
+            "neighbourhood_id":1108802899,
             "region_id":85687053,
             "venue_id":286602427
         }
     ],
     "wof:id":286602427,
-    "wof:lastmodified":1473879231,
+    "wof:lastmodified":1492478254,
     "wof:name":"Schinkelhaven, Zorgcentrum",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

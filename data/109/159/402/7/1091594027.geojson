@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1292471886,51.9411735535,4.1292471886,51.9411735535",
     "geom:latitude":51.941174,
     "geom:longitude":4.129247,
@@ -23,19 +24,36 @@
     "sg:postcode":"3198 LG",
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108805785,
+        102191581,
+        85633337,
+        101751843,
+        1108805737,
+        85687041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uTgrlq96ywqrGnmO1SBrC_51.941174_4.129247@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802156,
-    "wof:geomhash":"9dfb133d3b92a74379350cb443ddce15",
-    "wof:hierarchy":[],
+    "wof:geomhash":"058cb1f83ebd8f67d0104c43929c4a93",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108805737,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805785,
+            "region_id":85687041,
+            "venue_id":1091594027
+        }
+    ],
     "wof:id":1091594027,
-    "wof:lastmodified":1473878687,
+    "wof:lastmodified":1492509656,
     "wof:name":"Travelex",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108805785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

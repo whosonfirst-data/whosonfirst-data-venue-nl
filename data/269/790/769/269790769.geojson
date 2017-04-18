@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.901154,52.354679,4.901154,52.354679",
     "geom:latitude":52.354679,
     "geom:longitude":4.901154,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804139,
+        1108802865,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_75e4PkyBUbm5RvzNm9XKHr_52.354679_4.901154@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7f8720f16af372e005d203ad3e7e89ef",
+    "wof:geomhash":"566cbaf132569f56489209c46ac94a8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108804139,
+            "neighbourhood_id":1108802865,
             "region_id":85687053,
             "venue_id":269790769
         }
     ],
     "wof:id":269790769,
-    "wof:lastmodified":1473879483,
+    "wof:lastmodified":1492496898,
     "wof:name":"Snackbar-Automatiek Picknick",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

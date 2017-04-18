@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.127776,52.11562,5.127776,52.11562",
     "geom:latitude":52.11562,
     "geom:longitude":5.127776,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808925,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_4jbZqancupreUFjm7NOBJl_52.115620_5.127776@1306269959"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8c0e1249150fb2f068a42ebe8a643a23",
+    "wof:geomhash":"b87984639aa5088f82efa1b08ff37728",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808925,
             "region_id":85687039,
             "venue_id":269881175
         }
     ],
     "wof:id":269881175,
-    "wof:lastmodified":1473879532,
+    "wof:lastmodified":1492495863,
     "wof:name":"Dr Bike",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

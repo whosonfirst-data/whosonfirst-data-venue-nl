@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.87651,52.331589,4.87651,52.331589",
     "geom:latitude":52.331589,
     "geom:longitude":4.87651,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804091,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4lXiG5RxavlHYbD7xLNFOK_52.331589_4.876510@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"99d7a1633a98a4b97f583988c0123dcd",
+    "wof:geomhash":"42ffb96e37986413ae0205a5a0c86e15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804091,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":287183549
         }
     ],
     "wof:id":287183549,
-    "wof:lastmodified":1473878963,
+    "wof:lastmodified":1492514166,
     "wof:name":"Ako Timp Boekhandel",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

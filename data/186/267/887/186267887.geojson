@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.867298,52.352554,4.867298,52.352554",
     "geom:latitude":52.352554,
     "geom:longitude":4.867298,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.nvkt.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108804141,
+        1108802963,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2y5ehbTvuuAeeimr5C2kGB_52.352554_4.867298@1306269911"
     },
     "wof:country":"NL",
-    "wof:geomhash":"890c863b57af95a861c04a2b4c475b3f",
+    "wof:geomhash":"4d07b691c5aa07abc5c9cd0f7840ef88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108804141,
+            "neighbourhood_id":1108802963,
             "region_id":85687053,
             "venue_id":186267887
         }
     ],
     "wof:id":186267887,
-    "wof:lastmodified":1473879161,
+    "wof:lastmodified":1492508328,
     "wof:name":"Nvkt",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804141,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

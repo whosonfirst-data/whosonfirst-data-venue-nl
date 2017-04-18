@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879721,52.378971,4.879721,52.378971",
     "geom:latitude":52.378971,
     "geom:longitude":4.879721,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803815,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_11ylUUi7jqf3ebcPL0Wln6_52.378971_4.879721@1306270006"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f2608f41d93c8aa3cd79171ad0b22aad",
+    "wof:geomhash":"279bbe0a0951cddbeccbcc425e5ed2d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803815,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":336846383
         }
     ],
     "wof:id":336846383,
-    "wof:lastmodified":1473878443,
+    "wof:lastmodified":1492505810,
     "wof:name":"Ito",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803815,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

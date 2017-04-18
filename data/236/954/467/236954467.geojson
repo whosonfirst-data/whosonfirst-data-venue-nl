@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.483905,51.946083,4.483905,51.946083",
     "geom:latitude":51.946083,
     "geom:longitude":4.483905,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.kolpa.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859841,
+        1108805793,
+        102191581,
+        1108805981,
         85633337,
-        101753095,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_7VeLX2j4gY6x86mcyqu81F_51.946083_4.483905@1306269942"
     },
     "wof:country":"NL",
-    "wof:geomhash":"75b5c09c36eea32769a39d8ef22270d9",
+    "wof:geomhash":"dab7044349429cd45099cbfa0e6d68c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859841,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805793,
             "region_id":85687041,
             "venue_id":236954467
         }
     ],
     "wof:id":236954467,
-    "wof:lastmodified":1473879625,
+    "wof:lastmodified":1492494014,
     "wof:name":"Kolpa Bv",
-    "wof:parent_id":85859841,
+    "wof:parent_id":1108805793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

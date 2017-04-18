@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.939014,52.398933,4.939014,52.398933",
     "geom:latitude":52.398933,
     "geom:longitude":4.939014,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803947,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +49,24 @@
         "sg:id":"SG_6vTAiZDbG2VbgG3eNJscmc_52.398933_4.939014@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f3a6fdebfeb6461326e70ff9ffabf061",
+    "wof:geomhash":"62c4c94a6f697a53f7f6e48ba6fed86f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803947,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":202529639
         }
     ],
     "wof:id":202529639,
-    "wof:lastmodified":1473878860,
+    "wof:lastmodified":1492497171,
     "wof:name":"Videoland Boven 'T Ij",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

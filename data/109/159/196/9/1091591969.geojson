@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4854450226,51.5523033142,5.4854450226,51.5523033142",
     "geom:latitude":51.552303,
     "geom:longitude":5.485445,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"HTTP://www.wervers.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474423,
+        85633337,
+        101808203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2icoFeA6QLI73OXwkBrLtI_51.552303_5.485445@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802045,
-    "wof:geomhash":"bd2b1e8970d65cde6003e7be9aa9ecfe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"754547296cef124fdfcff44154578e4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474423,
+            "locality_id":101808203,
+            "region_id":85687035,
+            "venue_id":1091591969
+        }
+    ],
     "wof:id":1091591969,
-    "wof:lastmodified":1473878588,
+    "wof:lastmodified":1492509418,
     "wof:name":"Wervers, De",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

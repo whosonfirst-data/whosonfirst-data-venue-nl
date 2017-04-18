@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.8593249321,53.1051101685,6.8593249321,53.1051101685",
     "geom:latitude":53.10511,
     "geom:longitude":6.859325,
@@ -24,17 +25,32 @@
     "sg:province":"Groningen",
     "sg:website":"http://www.gs-webdesign.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473737,
+        85633337,
+        101838023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_214KKx78zEFkAfg3fiKWb8_53.105110_6.859325@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800664,
-    "wof:geomhash":"bd3e7b2ab657af77dc1dc4ac055f70fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdce09b289d258cd5d823d5b11d95715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473737,
+            "locality_id":101838023,
+            "region_id":85687059,
+            "venue_id":1091573009
+        }
+    ],
     "wof:id":1091573009,
-    "wof:lastmodified":1473878677,
+    "wof:lastmodified":1492511305,
     "wof:name":"Gs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

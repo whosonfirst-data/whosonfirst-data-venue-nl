@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.875809,52.358719,4.875809,52.358719",
     "geom:latitude":52.358719,
     "geom:longitude":4.875809,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803743,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_691Z3AqgfdQznRkvdaqcd9_52.358719_4.875809@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"523cff915a0583a4054c8f1348a5ce05",
+    "wof:geomhash":"0d77ff7baed9f324c572533b68c93156",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803743,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":186098407
         }
     ],
     "wof:id":186098407,
-    "wof:lastmodified":1473878938,
+    "wof:lastmodified":1492509135,
     "wof:name":"Ars Floreat",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

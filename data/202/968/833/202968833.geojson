@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879105,52.325817,4.879105,52.325817",
     "geom:latitude":52.325817,
     "geom:longitude":4.879105,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803497,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2HSRpuBZylBA4sGBwsdAAn_52.325817_4.879105@1306269920"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a86b27a99d0bb27ca22f6716a52ab65d",
+    "wof:geomhash":"530a6fcc949f5710a52dd839535f1474",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803497,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":202968833
         }
     ],
     "wof:id":202968833,
-    "wof:lastmodified":1473879438,
+    "wof:lastmodified":1492499186,
     "wof:name":"Kivas Bv",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

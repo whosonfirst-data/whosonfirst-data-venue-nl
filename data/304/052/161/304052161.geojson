@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.986227,52.311203,4.986227,52.311203",
     "geom:latitude":52.311203,
     "geom:longitude":4.986227,
@@ -29,9 +30,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803415,
+        1108802863,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_5pkIvIc11bp8qEOmP8BVbs_52.311203_4.986227@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8c18fdf9c441ee9328bab7bc19a6d24a",
+    "wof:geomhash":"a39e45b42b7d743ae8aaecfe92d0b3da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803415,
+            "neighbourhood_id":1108802863,
             "region_id":85687053,
             "venue_id":304052161
         }
     ],
     "wof:id":304052161,
-    "wof:lastmodified":1473878719,
+    "wof:lastmodified":1492504475,
     "wof:name":"Campanile",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.072268,52.116871,5.072268,52.116871",
     "geom:latitude":52.116871,
     "geom:longitude":5.072268,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808933,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7bY31zWJDCoceVvSreVgvY_52.116871_5.072268@1306269981"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1fe4bfdbc2a8d0039bd232961b4f6620",
+    "wof:geomhash":"b66318a11ab8831fd2b649672c7cc79c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808933,
             "region_id":85687039,
             "venue_id":303256685
         }
     ],
     "wof:id":303256685,
-    "wof:lastmodified":1473878972,
+    "wof:lastmodified":1492470889,
     "wof:name":"Utrechts Schildersbedr",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808933,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

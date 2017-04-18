@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.568819,51.959793,4.568819,51.959793",
     "geom:latitude":51.959793,
     "geom:longitude":4.568819,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798779,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AfQ7Xy22QugqqVFvMfTnU_51.959793_4.568819@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f9b7680d69c5cf1d914bbb06aad35b5b",
+    "wof:geomhash":"f26030191a8e7ac985ed86ba83a7df5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798779,
+            "region_id":85687041,
+            "venue_id":253655841
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798779,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":253655841,
-    "wof:lastmodified":1473879716,
+    "wof:lastmodified":1492491244,
     "wof:name":"Brienen, Van",
     "wof:parent_id":85798779,
     "wof:placetype":"venue",

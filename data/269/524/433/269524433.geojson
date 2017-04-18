@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.514164,51.923752,4.514164,51.923752",
     "geom:latitude":51.923752,
     "geom:longitude":4.514164,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.postkantoor.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805803,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_1KaHxYJeNYUGqhYUNmlLL0_51.923752_4.514164@1306269954"
     },
     "wof:country":"NL",
-    "wof:geomhash":"065ae78441121e80b56a5b99a041c0df",
+    "wof:geomhash":"af92c7edb3f2b65a5f3e7e02eeaf4892",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805803,
             "region_id":85687041,
             "venue_id":269524433
         }
     ],
     "wof:id":269524433,
-    "wof:lastmodified":1473878730,
+    "wof:lastmodified":1492495745,
     "wof:name":"Postkantoor",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.500609,51.888546,4.500609,51.888546",
     "geom:latitude":51.888546,
     "geom:longitude":4.500609,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798517,
+        85798609,
+        102191581,
         85633337,
         101751843,
+        1108805747,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +46,22 @@
         "sg:id":"SG_2w53Tp97pSdY5uYg6MgsTE_51.888546_4.500609@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"576cef799d343640506b57bfef921401",
+    "wof:geomhash":"fa7e44e9d8d63d57ebd9c2975859792b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805747,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85798517,
+            "neighbourhood_id":85798609,
             "region_id":85687041,
             "venue_id":270500515
         }
     ],
     "wof:id":270500515,
-    "wof:lastmodified":1473879337,
+    "wof:lastmodified":1492501000,
     "wof:name":"De Akkers Openbare Basisschool",
-    "wof:parent_id":85798517,
+    "wof:parent_id":85798609,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

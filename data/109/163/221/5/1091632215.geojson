@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"20.2172908783,60.1982498169,20.2172908783,60.1982498169",
     "geom:latitude":60.19825,
     "geom:longitude":20.217291,
@@ -23,17 +24,32 @@
     "sg:postcode":"8561 AX",
     "sg:province":"\u00c5land",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        "85632789",
+        85667867,
+        "102191581",
+        907198499,
+        "85633143"
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mAC0B4lBNw5wzO12q6lWy_60.198250_20.217291@1306270020"
     },
     "wof:country":"NL",
     "wof:created":1473804698,
-    "wof:geomhash":"9de2dac3ebbc0231e2cff9c4290d3fd8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c40bf65a5d9bbf6822564d491d4e68a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633143",
+            "dependency_id":"85632789",
+            "localadmin_id":907198499,
+            "region_id":85667867,
+            "venue_id":1091632215
+        }
+    ],
     "wof:id":1091632215,
-    "wof:lastmodified":1473878458,
+    "wof:lastmodified":1492510130,
     "wof:name":"Jeannet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

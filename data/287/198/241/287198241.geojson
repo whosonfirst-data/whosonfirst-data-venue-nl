@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.886331,52.364212,4.886331,52.364212",
     "geom:latitude":52.364212,
     "geom:longitude":4.886331,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803665,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1KeAWarTT5TnvBALIj6hUD_52.364212_4.886331@1306269978"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b90594046181656463027c41bb0a17c1",
+    "wof:geomhash":"4becfd7ef4b28a399c836747e4c84c66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803665,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":287198241
         }
     ],
     "wof:id":287198241,
-    "wof:lastmodified":1473878977,
+    "wof:lastmodified":1492514170,
     "wof:name":"Uitgeverij Boom",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.464637,51.919125,4.464637,51.919125",
     "geom:latitude":51.919125,
     "geom:longitude":4.464637,
@@ -25,8 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859807,
+        102191581,
         85633337,
         101751843,
+        1108804841,
         85687041
     ],
     "wof:breaches":[],
@@ -34,10 +37,11 @@
         "sg:id":"SG_58xvR0RzO4ltb2fWKIjOS0_51.919125_4.464637@1306269987"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b296219e3e42cae9e68beec294de6ec3",
+    "wof:geomhash":"95f5cd5bff4a516923e9ef02fcc4b568",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108804841,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
             "neighbourhood_id":85859807,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":303755905,
-    "wof:lastmodified":1473879528,
+    "wof:lastmodified":1492472643,
     "wof:name":"Repro Replica",
     "wof:parent_id":85859807,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.863738,52.354019,4.863738,52.354019",
     "geom:latitude":52.354019,
     "geom:longitude":4.863738,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.fmglobal.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803453,
+        1108802963,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_6iHbOPmMXbxfqjKzaO7X9H_52.354019_4.863738@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"014e6a9b85cfc408c3a6db61dff57f7d",
+    "wof:geomhash":"d97fc1a928c065bb0ca6d3e48fafd294",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803453,
+            "neighbourhood_id":1108802963,
             "region_id":85687053,
             "venue_id":203208173
         }
     ],
     "wof:id":203208173,
-    "wof:lastmodified":1473879131,
+    "wof:lastmodified":1492480092,
     "wof:name":"Fm Global",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

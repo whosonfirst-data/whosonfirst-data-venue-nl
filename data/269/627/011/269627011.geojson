@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.800547,52.37796,4.800547,52.37796",
     "geom:latitude":52.37796,
     "geom:longitude":4.800547,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803633,
         85797579,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1w5RqBmKeUe2YPk9T7XUIH_52.377960_4.800547@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7c5dbd20cb0d66687847692b960d6e71",
+    "wof:geomhash":"75945e418feb8aea203be19ef94d7b89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803633,
             "neighbourhood_id":85797579,
             "region_id":85687053,
             "venue_id":269627011
         }
     ],
     "wof:id":269627011,
-    "wof:lastmodified":1473879105,
+    "wof:lastmodified":1492495212,
     "wof:name":"Koene, Casper",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108803633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

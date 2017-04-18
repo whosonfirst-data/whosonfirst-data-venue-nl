@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.888032,52.382404,4.888032,52.382404",
     "geom:latitude":52.382404,
     "geom:longitude":4.888032,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803395,
+        1108802819,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_1MWVIWufpEAHZZNCRFIz5f_52.382404_4.888032@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"35703808a220b63e020cdd49586cf22b",
+    "wof:geomhash":"974771b213109c28397c12203b3ab102",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803395,
+            "neighbourhood_id":1108802819,
             "region_id":85687053,
             "venue_id":303541747
         }
     ],
     "wof:id":303541747,
-    "wof:lastmodified":1473879315,
+    "wof:lastmodified":1492474578,
     "wof:name":"Padi",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

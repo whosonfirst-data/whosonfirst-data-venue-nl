@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.518609,51.917217,4.518609,51.917217",
     "geom:latitude":51.917217,
     "geom:longitude":4.518609,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859899,
+        1108805803,
+        102191581,
+        1108805667,
         85633337,
-        101754669,
+        101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3McL7AzWYvYonCuyLExPml_51.917217_4.518609@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5d95110072925542f89ed281c2f3c522",
+    "wof:geomhash":"6d86fdd6b34153d726b63ef5125420e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754669,
-            "neighbourhood_id":85859899,
+            "locality_id":101751843,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805803,
             "region_id":85687041,
             "venue_id":186431281
         }
     ],
     "wof:id":186431281,
-    "wof:lastmodified":1473879421,
+    "wof:lastmodified":1492507937,
     "wof:name":"Kralingse Vogelver",
-    "wof:parent_id":85859899,
+    "wof:parent_id":1108805803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

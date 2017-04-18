@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.857203,52.329899,4.857203,52.329899",
     "geom:latitude":52.329899,
     "geom:longitude":4.857203,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803485,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_68lcJaBZy6ShdofklywmWk_52.329899_4.857203@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a8d585d56aa0fdae9134f78d29414be7",
+    "wof:geomhash":"1ea174810d873a551d13e5627b6e8992",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803485,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":219761557
         }
     ],
     "wof:id":219761557,
-    "wof:lastmodified":1473879718,
+    "wof:lastmodified":1492504117,
     "wof:name":"Complement",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

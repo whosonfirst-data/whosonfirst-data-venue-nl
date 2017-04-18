@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.105763,52.091099,5.105763,52.091099",
     "geom:latitude":52.091099,
     "geom:longitude":5.105763,
@@ -29,9 +30,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808789,
+        102191581,
+        1108808651,
         85633337,
         101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_7RRnqmSjYT56Z2Lx2jJcIA_52.091099_5.105763@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d187616c6ca757fd287f79cae8dca21f",
+    "wof:geomhash":"6c3345ea2391b694f859f251b11b319c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808651,
+            "neighbourhood_id":1108808789,
             "region_id":85687039,
             "venue_id":304084415
         }
     ],
     "wof:id":304084415,
-    "wof:lastmodified":1473878806,
+    "wof:lastmodified":1492504350,
     "wof:name":"Park Plaza Utrecht",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

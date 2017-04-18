@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.920901,52.350365,4.920901,52.350365",
     "geom:latitude":52.350365,
     "geom:longitude":4.920901,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803495,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0fUGfUWsQc1On3rxbpxeL1_52.350365_4.920901@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"91952361815ad16f8eb6a951ca5f18d4",
+    "wof:geomhash":"d3d96606ce3041bc1a0050f8a7e9dd48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803495,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":286380145
         }
     ],
     "wof:id":286380145,
-    "wof:lastmodified":1473878920,
+    "wof:lastmodified":1492475928,
     "wof:name":"Monza Advertising Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

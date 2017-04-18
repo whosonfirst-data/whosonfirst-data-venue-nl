@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.838085,52.363346,4.838085,52.363346",
     "geom:latitude":52.363346,
     "geom:longitude":4.838085,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803301,
         85798223,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4cKhdm9j0hQTSuamM6ED7w_52.363346_4.838085@1306269917"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fccd7ec284e93a73d6abbd100141605a",
+    "wof:geomhash":"d38e9601448d4d08b3346809eda4bcf3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803301,
             "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":202633009
         }
     ],
     "wof:id":202633009,
-    "wof:lastmodified":1473879077,
+    "wof:lastmodified":1492498009,
     "wof:name":"Pannenman Ned Ltd",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

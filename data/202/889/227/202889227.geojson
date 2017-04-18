@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.895601,52.357227,4.895601,52.357227",
     "geom:latitude":52.357227,
     "geom:longitude":4.895601,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.writtenenglish.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803865,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_5pj0333Y1ZRJFC6MaGKP7q_52.357227_4.895601@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0f96bc2400c8434a156225460c79f90a",
+    "wof:geomhash":"12e3debcd31d66a39948d41917f5dbe8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803865,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":202889227
         }
     ],
     "wof:id":202889227,
-    "wof:lastmodified":1473879390,
+    "wof:lastmodified":1492499153,
     "wof:name":"Written English",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

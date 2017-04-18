@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9357600212,51.6459541321,5.9357600212,51.6459541321",
     "geom:latitude":51.645954,
     "geom:longitude":5.93576,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.hoservice.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474359,
+        85633337,
+        101839331
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QYiBy88ClI3kliumrIfaK_51.645954_5.935760@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800370,
-    "wof:geomhash":"584f33ddecb6143e65db78715cc48f2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b39449a54f57c8159939aa48f25bc7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474359,
+            "locality_id":101839331,
+            "region_id":85687035,
+            "venue_id":1091568617
+        }
+    ],
     "wof:id":1091568617,
-    "wof:lastmodified":1473878530,
+    "wof:lastmodified":1492510914,
     "wof:name":"Hoservice.Nl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.828204,52.355904,4.828204,52.355904",
     "geom:latitude":52.355904,
     "geom:longitude":4.828204,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803769,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5uv8797xUW5pFbAadgovBD_52.355904_4.828204@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e9ff9626a92e9673eedaf5a692d3d26d",
+    "wof:geomhash":"090a6010656f3e61b2854c21936e12e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803769,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":185941939
         }
     ],
     "wof:id":185941939,
-    "wof:lastmodified":1473878954,
+    "wof:lastmodified":1492487911,
     "wof:name":"Woodstock",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

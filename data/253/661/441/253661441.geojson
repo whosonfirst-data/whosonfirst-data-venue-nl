@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.852894,52.364246,4.852894,52.364246",
     "geom:latitude":52.364246,
     "geom:longitude":4.852894,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803289,
+        1108802827,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_7fvXmQJUIgJIpgziCvd4vG_52.364246_4.852894@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dd11fbd862d3b973641cbc2966954c9c",
+    "wof:geomhash":"d2db04f8d0c73bbea7d87ac5bd4d3922",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803289,
+            "neighbourhood_id":1108802827,
             "region_id":85687053,
             "venue_id":253661441
         }
     ],
     "wof:id":253661441,
-    "wof:lastmodified":1473879712,
+    "wof:lastmodified":1492488477,
     "wof:name":"Bella Italia",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803289,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

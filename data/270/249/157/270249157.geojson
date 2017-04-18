@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.532563,51.964359,4.532563,51.964359",
     "geom:latitude":51.964359,
     "geom:longitude":4.532563,
@@ -24,31 +25,49 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859913,
+        1108807127,
+        85798149,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bDlCTszHDdDhO7Vhtiqg7_51.964359_4.532563@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"119758aec8630a53e85ee772f2208c90",
+    "wof:geomhash":"635c129aa9dc80d48c7dc81209ddc9d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859913,
+            "locality_id":101751843,
+            "microhood_id":1108807127,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":270249157
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "microhood_id":1108807127,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":270249157
         }
     ],
     "wof:id":270249157,
-    "wof:lastmodified":1473878961,
+    "wof:lastmodified":1492499264,
     "wof:name":"Melchior Verheezen Mode- & Reclamefotografie",
-    "wof:parent_id":85859913,
+    "wof:parent_id":1108807127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

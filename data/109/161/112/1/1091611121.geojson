@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4551620483,51.9831504822,4.4551620483,51.9831504822",
     "geom:latitude":51.98315,
     "geom:longitude":4.455162,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.wooning.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         102542781,
-        85798367,
+        1108805865,
+        102191581,
+        85633337,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -36,18 +40,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473803455,
-    "wof:geomhash":"cface1153529e6d988a2013c983118bd",
+    "wof:geomhash":"587d4f5f5a8413c4e979bb0bfb97f5a4",
     "wof:hierarchy":[
         {
+            "borough_id":1108805713,
             "campus_id":102542781,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798367,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805865,
             "region_id":85687041,
             "venue_id":1091611121
         }
     ],
     "wof:id":1091611121,
-    "wof:lastmodified":1473878551,
+    "wof:lastmodified":1492510551,
     "wof:name":"Ton Wooning",
     "wof:parent_id":102542781,
     "wof:placetype":"venue",

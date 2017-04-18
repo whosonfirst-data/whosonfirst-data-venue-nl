@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.846528,52.344002,4.846528,52.344002",
     "geom:latitude":52.344002,
     "geom:longitude":4.846528,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803509,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1UkWR9dDEi2kfoIasXBVYV_52.344002_4.846528@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"55e134d097aecb8e53f6b8a63317f346",
+    "wof:geomhash":"d7393463ee85d90aeacceb6bdca63feb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803509,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":252849397
         }
     ],
     "wof:id":252849397,
-    "wof:lastmodified":1473878638,
+    "wof:lastmodified":1492505678,
     "wof:name":"Euro Ear Bv",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

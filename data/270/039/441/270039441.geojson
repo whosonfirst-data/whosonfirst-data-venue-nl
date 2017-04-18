@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.269557,52.087234,4.269557,52.087234",
     "geom:latitude":52.087234,
     "geom:longitude":4.269557,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        85798595,
+        102191581,
+        1108808131,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1swprcPXsZ9m26Pqy8gnET_52.087234_4.269557@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"16b9303648971779aef1bb8af15d05af",
+    "wof:geomhash":"d4e1cfba96398c87c9b6d8072b1e7380",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
+            "macrohood_id":1108808131,
+            "neighbourhood_id":85798595,
             "region_id":85687041,
             "venue_id":270039441
         }
     ],
     "wof:id":270039441,
-    "wof:lastmodified":1473878499,
+    "wof:lastmodified":1492501412,
     "wof:name":"Caesar Sport'S Health Clubs",
-    "wof:parent_id":85859605,
+    "wof:parent_id":85798595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

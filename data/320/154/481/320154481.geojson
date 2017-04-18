@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.569389,53.217571,6.569389,53.217571",
     "geom:latitude":53.217571,
     "geom:longitude":6.569389,
@@ -24,10 +25,12 @@
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797835,
         85633337,
+        85797835,
         85687059,
         85797417,
+        102191581,
+        404473713,
         101751909
     ],
     "wof:breaches":[],
@@ -35,19 +38,18 @@
         "sg:id":"SG_0Tf50jFeM2sWT4aMZMqaG2_53.217571_6.569389@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ed2f601e0e5f7d0ff1071e2932ec6d54",
+    "wof:geomhash":"0ca2832d5deb791a39cc33650d6291d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85797835,
             "region_id":85687059,
             "venue_id":320154481
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473713,
             "locality_id":101751909,
             "neighbourhood_id":85797417,
             "region_id":85687059,
@@ -55,9 +57,9 @@
         }
     ],
     "wof:id":320154481,
-    "wof:lastmodified":1473879006,
+    "wof:lastmodified":1492482949,
     "wof:name":"Kostuumverhuur Groningen, St",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

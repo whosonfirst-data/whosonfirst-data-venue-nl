@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5586872101,51.9512214661,4.5586872101,51.9512214661",
     "geom:latitude":51.951221,
     "geom:longitude":4.558687,
@@ -26,10 +27,12 @@
     "wof:belongsto":[
         85798177,
         102191581,
-        404474163,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,9 +40,19 @@
     },
     "wof:country":"NL",
     "wof:created":1473798603,
-    "wof:geomhash":"154fede21b896e371c91839da669616c",
+    "wof:geomhash":"7b284f09228c2bb4255985f830d87f02",
     "wof:hierarchy":[
         {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":1075808973
+        },
+        {
+            "borough_id":1108805725,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474163,
@@ -50,7 +63,7 @@
         }
     ],
     "wof:id":1075808973,
-    "wof:lastmodified":1473878679,
+    "wof:lastmodified":1492486019,
     "wof:name":"Domino Design Bv",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.570826,51.964363,4.570826,51.964363",
     "geom:latitude":51.964363,
     "geom:longitude":4.570826,
@@ -34,20 +35,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798779,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IpBSd3w9p70p22ZZTg9Ky_51.964363_4.570826@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"04d809f21ecff94e68c41c7bf86ea165",
+    "wof:geomhash":"54108d0ba2166eb02f4993b908dd1c58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798779,
+            "region_id":85687041,
+            "venue_id":269793431
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798779,
             "region_id":85687041,
@@ -55,7 +71,7 @@
         }
     ],
     "wof:id":269793431,
-    "wof:lastmodified":1473879478,
+    "wof:lastmodified":1492495875,
     "wof:name":"Star Food",
     "wof:parent_id":85798779,
     "wof:placetype":"venue",

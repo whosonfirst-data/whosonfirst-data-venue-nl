@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.273133,52.056713,4.273133,52.056713",
     "geom:latitude":52.056713,
     "geom:longitude":4.273133,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798043,
+        85859591,
+        102191581,
+        1108808107,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2bQNO9y46mR6R2HBUyXzD5_52.056713_4.273133@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5b6b1440d9b269c26b1e2bcccbbb361f",
+    "wof:geomhash":"d11bf1cf3f7c3eb799ff043367a51657",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798043,
+            "macrohood_id":1108808107,
+            "neighbourhood_id":85859591,
             "region_id":85687041,
             "venue_id":219347807
         }
     ],
     "wof:id":219347807,
-    "wof:lastmodified":1473879022,
+    "wof:lastmodified":1492503651,
     "wof:name":"Th.W. De Groot",
-    "wof:parent_id":85798043,
+    "wof:parent_id":85859591,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

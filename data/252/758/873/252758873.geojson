@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.806176,52.373138,4.806176,52.373138",
     "geom:latitude":52.373138,
     "geom:longitude":4.806176,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803993,
         85797579,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_6Nku4A30laQoAYE0eCJGaD_52.373138_4.806176@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5bff7fa1debf0bf587815facf84ab6b0",
+    "wof:geomhash":"bc8fa0b999fd22aa9b68dc12adc5fb90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803993,
             "neighbourhood_id":85797579,
             "region_id":85687053,
             "venue_id":252758873
         }
     ],
     "wof:id":252758873,
-    "wof:lastmodified":1473878487,
+    "wof:lastmodified":1492505576,
     "wof:name":"Geuzeneiland",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108803993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

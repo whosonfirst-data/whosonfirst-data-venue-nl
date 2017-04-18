@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881867,52.359589,4.881867,52.359589",
     "geom:latitude":52.359589,
     "geom:longitude":4.881867,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803565,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1e24NrEqr93BwaEj9HJKva_52.359589_4.881867@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e83b7f9610d753fe9f457b51df82d002",
+    "wof:geomhash":"a684c06f676431e177d04edacf8d9bdc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803565,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":303684961
         }
     ],
     "wof:id":303684961,
-    "wof:lastmodified":1473879474,
+    "wof:lastmodified":1492472329,
     "wof:name":"D Van Dalen Grafische Vormgeving",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

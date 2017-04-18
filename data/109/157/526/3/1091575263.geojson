@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8065538406,52.7105026245,4.8065538406,52.7105026245",
     "geom:latitude":52.710503,
     "geom:longitude":4.806554,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.surfcom.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474093,
+        85633337,
+        101754817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HLiShDIwtpEUiQhQBZP1d_52.710503_4.806554@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800815,
-    "wof:geomhash":"de29e3e7e74cf06fa3601d4b79b53bd5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a82b1cda3f416ba3efd60e84a831c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474093,
+            "locality_id":101754817,
+            "region_id":85687053,
+            "venue_id":1091575263
+        }
+    ],
     "wof:id":1091575263,
-    "wof:lastmodified":1473878857,
+    "wof:lastmodified":1492511377,
     "wof:name":"Surfcom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

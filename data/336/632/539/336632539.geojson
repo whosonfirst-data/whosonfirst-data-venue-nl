@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878265,52.359455,4.878265,52.359455",
     "geom:latitude":52.359455,
     "geom:longitude":4.878265,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803565,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_55m3TQtW7GU1JxRtGnJNTw_52.359455_4.878265@1306270004"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7c5f74d0e753960f48ba3184a64ab132",
+    "wof:geomhash":"ac85e72165d556d36450140c4c6cc7ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803565,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":336632539
         }
     ],
     "wof:id":336632539,
-    "wof:lastmodified":1473878449,
+    "wof:lastmodified":1492506702,
     "wof:name":"Schaap + Citroen Juweliers",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

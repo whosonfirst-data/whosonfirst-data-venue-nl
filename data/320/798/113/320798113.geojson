@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.923826,52.372326,4.923826,52.372326",
     "geom:latitude":52.372326,
     "geom:longitude":4.923826,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803881,
+        1108802879,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6llImosnc0JDWu5DsYhKpa_52.372326_4.923826@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"da5bb05f65c52b0e9393fff7293abd0c",
+    "wof:geomhash":"ac9b24c9a1ea270530f02f77ac73607b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803881,
+            "neighbourhood_id":1108802879,
             "region_id":85687053,
             "venue_id":320798113
         }
     ],
     "wof:id":320798113,
-    "wof:lastmodified":1473879612,
+    "wof:lastmodified":1492482609,
     "wof:name":"Oostvaarders",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

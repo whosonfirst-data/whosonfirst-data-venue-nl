@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.93204,52.352772,4.93204,52.352772",
     "geom:latitude":52.352772,
     "geom:longitude":4.93204,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803225,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_0nqdEwkar8zRQW6KRoHITU_52.352772_4.932040@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7f28790e6b57f7f7a681e07b76ce2b5a",
+    "wof:geomhash":"4e6dba5a3bb7163af3c01e1da5d5ec0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803225,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":336743815
         }
     ],
     "wof:id":336743815,
-    "wof:lastmodified":1473878434,
+    "wof:lastmodified":1492506352,
     "wof:name":"Accountantskantoor Van Schaik En Partners Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803225,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

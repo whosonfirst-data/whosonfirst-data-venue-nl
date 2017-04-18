@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8327860832,51.9140625,5.8327860832,51.9140625",
     "geom:latitude":51.914062,
     "geom:longitude":5.832786,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.kersten-markeer.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474651,
+        85633337,
+        101808683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GUJXb0lizXtdMMoO8xT4R_51.914062_5.832786@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801245,
-    "wof:geomhash":"f0ac40d771d4dcf08bd35adc285d355b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89a52a6306aa67fe4411b6300016e13d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474651,
+            "locality_id":101808683,
+            "region_id":85687043,
+            "venue_id":1091581071
+        }
+    ],
     "wof:id":1091581071,
-    "wof:lastmodified":1473878564,
+    "wof:lastmodified":1492511682,
     "wof:name":"Kersten Markeer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

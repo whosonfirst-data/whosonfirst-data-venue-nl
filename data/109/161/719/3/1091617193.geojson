@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1955242157,52.7135848999,6.1955242157,52.7135848999",
     "geom:latitude":52.713585,
     "geom:longitude":6.195524,
@@ -24,17 +25,32 @@
     "sg:province":"Provincie Drenthe",
     "sg:website":"http://www.papierklem.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473813,
+        85633337,
+        101807279
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3w0xuCC2JaOm2g0BvgK0Gn_52.713585_6.195524@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803771,
-    "wof:geomhash":"86c539e8d24652e8bdec5e641a8b8756",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59567374620dbe6a1e0563fd5ecf8234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473813,
+            "locality_id":101807279,
+            "region_id":85687051,
+            "venue_id":1091617193
+        }
+    ],
     "wof:id":1091617193,
-    "wof:lastmodified":1473878915,
+    "wof:lastmodified":1492510756,
     "wof:name":"Papierklem Bv, De",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

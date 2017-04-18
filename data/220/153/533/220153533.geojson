@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.56602,53.217728,6.56602,53.217728",
     "geom:latitude":53.217728,
     "geom:longitude":6.56602,
@@ -24,40 +25,41 @@
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797835,
-        85633337,
-        85687059,
         85797417,
-        101751909
+        102191581,
+        404473713,
+        85633337,
+        101751909,
+        85687059,
+        85797835
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QRPUp2APmNs4J6Ci60ZdW_53.217728_6.566020@1306269932"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9905fbe672afbe7b3ba06de1a1e6be2e",
+    "wof:geomhash":"783c802837bf54da88d5a356f4289f5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797835,
+            "localadmin_id":404473713,
+            "locality_id":101751909,
+            "neighbourhood_id":85797417,
             "region_id":85687059,
             "venue_id":220153533
         },
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751909,
-            "neighbourhood_id":85797417,
+            "neighbourhood_id":85797835,
             "region_id":85687059,
             "venue_id":220153533
         }
     ],
     "wof:id":220153533,
-    "wof:lastmodified":1473878988,
+    "wof:lastmodified":1492481179,
     "wof:name":"Advocatenkantoor De Roos",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

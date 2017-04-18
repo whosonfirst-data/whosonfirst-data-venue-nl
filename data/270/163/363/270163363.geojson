@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.955053,52.393311,4.955053,52.393311",
     "geom:latitude":52.393311,
     "geom:longitude":4.955053,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108803543,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2vD7cX8LsTRAdhHj5eTpkL_52.393311_4.955053@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0921c16ecd3a4a4af4a81c9e2746fef0",
+    "wof:geomhash":"c1fb51d29b9964ad63711d2bf8219d49",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803543,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":270163363
         }
     ],
     "wof:id":270163363,
-    "wof:lastmodified":1473878710,
+    "wof:lastmodified":1492500027,
     "wof:name":"Lcs Fotolab",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803543,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.303056,52.069057,4.303056,52.069057",
     "geom:latitude":52.069057,
     "geom:longitude":4.303056,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798385,
+        1108808261,
+        102191581,
+        1108808035,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_2UsFK1NiLcUuw6PlGW0Wng_52.069057_4.303056@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"657c06f726776aaf36f948b9ae2bed1e",
+    "wof:geomhash":"ec1cadefb6126905e685e6996d7830f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798385,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808261,
             "region_id":85687041,
             "venue_id":202515425
         }
     ],
     "wof:id":202515425,
-    "wof:lastmodified":1473878824,
+    "wof:lastmodified":1492498230,
     "wof:name":"Ahmed Videocentre",
-    "wof:parent_id":85798385,
+    "wof:parent_id":1108808261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

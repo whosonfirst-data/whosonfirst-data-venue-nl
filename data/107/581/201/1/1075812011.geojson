@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0876398087,52.1612243652,5.0876398087,52.1612243652",
     "geom:latitude":52.161224,
     "geom:longitude":5.08764,
@@ -24,9 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687039,
+        102191581,
+        404473997,
         85633337,
-        85798231,
-        85687039
+        101855283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473798760,
-    "wof:geomhash":"97b9aac7c6b2528f5821adc1c1a6d6a1",
+    "wof:geomhash":"dba1262a50c990b84f4627a08feb520c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798231,
+            "localadmin_id":404473997,
+            "locality_id":101855283,
             "region_id":85687039,
             "venue_id":1075812011
         }
     ],
     "wof:id":1075812011,
-    "wof:lastmodified":1473878844,
+    "wof:lastmodified":1492486452,
     "wof:name":"Isabelle",
-    "wof:parent_id":85798231,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

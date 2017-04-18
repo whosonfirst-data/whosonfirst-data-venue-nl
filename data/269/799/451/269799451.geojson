@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893284,52.355312,4.893284,52.355312",
     "geom:latitude":52.355312,
     "geom:longitude":4.893284,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803931,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_395bDW98pxJk25vsUx4DtJ_52.355312_4.893284@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fa5648757fe903741aef4b94bbbad2d7",
+    "wof:geomhash":"e4cb58a0500a6aa89db0ebafb1f663e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803931,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":269799451
         }
     ],
     "wof:id":269799451,
-    "wof:lastmodified":1473879503,
+    "wof:lastmodified":1492494944,
     "wof:name":"Vlaamse Frites 43",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

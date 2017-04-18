@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5474309921,52.323677063,5.5474309921,52.323677063",
     "geom:latitude":52.323677,
     "geom:longitude":5.547431,
@@ -24,17 +25,32 @@
     "sg:province":"Flevoland",
     "sg:website":"http://www.primato.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473741,
+        85633337,
+        101808771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Lrtko3YcN1nHTVzvXGqPD_52.323677_5.547431@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800762,
-    "wof:geomhash":"b6c55c58a8b23c0ff97e1fe69c5bcc86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7014eac4cba17595a817b6eff9c70744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473741,
+            "locality_id":101808771,
+            "region_id":85687049,
+            "venue_id":1091574537
+        }
+    ],
     "wof:id":1091574537,
-    "wof:lastmodified":1473878788,
+    "wof:lastmodified":1492511015,
     "wof:name":"Primato",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

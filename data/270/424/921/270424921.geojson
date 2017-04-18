@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.850271,52.378887,4.850271,52.378887",
     "geom:latitude":52.378887,
     "geom:longitude":4.850271,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803529,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5OFHH2lEQb9ZcsvbGEteAG_52.378887_4.850271@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"761abe2a0b3dca606b8a33933d9d0f75",
+    "wof:geomhash":"563c3512d66e40434882da4ab27fc9ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803529,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":270424921
         }
     ],
     "wof:id":270424921,
-    "wof:lastmodified":1473879255,
+    "wof:lastmodified":1492499808,
     "wof:name":"Fortis",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.821155,52.379234,4.821155,52.379234",
     "geom:latitude":52.379234,
     "geom:longitude":4.821155,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108804125,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7bXAsC42kpTTxCSuzR6FWV_52.379234_4.821155@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"65ed17cbced054ff272ffc74f79d06cb",
+    "wof:geomhash":"778eb8e5a7fc64fcb5dad64b855a6ba1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108804125,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":320199029
         }
     ],
     "wof:id":320199029,
-    "wof:lastmodified":1473879098,
+    "wof:lastmodified":1492485332,
     "wof:name":"Stadsdeel Geuzenveld-Slotermeer",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108804125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881777,52.370674,4.881777,52.370674",
     "geom:latitude":52.370674,
     "geom:longitude":4.881777,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4QzUOSdJL8zfg4yagHNFtB_52.370674_4.881777@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1257cce7455fcb398de8dd1829943c88",
+    "wof:geomhash":"8c028d1b85e394529fad10251c009f64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":202802713
         }
     ],
     "wof:id":202802713,
-    "wof:lastmodified":1473879264,
+    "wof:lastmodified":1492498913,
     "wof:name":"V J Joseph",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

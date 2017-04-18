@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.906361,52.400185,4.906361,52.400185",
     "geom:latitude":52.400185,
     "geom:longitude":4.906361,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803335,
+        1108802545,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_14EBmREu4Cmxs63rqKQR4m_52.400185_4.906361@1306269978"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1fc832eff4bcf0826b0741a04540bf25",
+    "wof:geomhash":"cae23d74ee1c95ce51fa305abbfba45e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803335,
+            "neighbourhood_id":1108802545,
             "region_id":85687053,
             "venue_id":287197973
         }
     ],
     "wof:id":287197973,
-    "wof:lastmodified":1473878987,
+    "wof:lastmodified":1492513574,
     "wof:name":"Firma Wekon",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

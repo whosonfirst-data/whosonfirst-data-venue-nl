@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4630770683,51.9068031311,4.4630770683,51.9068031311",
     "geom:latitude":51.906803,
     "geom:longitude":4.463077,
@@ -26,11 +27,10 @@
     "wof:belongsto":[
         85797427,
         102191581,
-        404474245,
         85633337,
         101751843,
-        85687041,
-        85859785
+        1108805753,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,31 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473801967,
-    "wof:geomhash":"44c6bca5189b2a0443a3d54af796c07a",
+    "wof:geomhash":"437858aeff9833597ece8a83b1dc07ce",
     "wof:hierarchy":[
         {
+            "borough_id":1108805753,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474245,
             "locality_id":101751843,
             "neighbourhood_id":85797427,
-            "region_id":85687041,
-            "venue_id":1091590383
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474245,
-            "locality_id":101751843,
-            "neighbourhood_id":85859785,
             "region_id":85687041,
             "venue_id":1091590383
         }
     ],
     "wof:id":1091590383,
-    "wof:lastmodified":1473878495,
+    "wof:lastmodified":1492509836,
     "wof:name":"Ahead",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

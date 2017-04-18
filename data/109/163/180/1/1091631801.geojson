@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2183918953,51.9977607727,4.2183918953,51.9977607727",
     "geom:latitude":51.997761,
     "geom:longitude":4.218392,
@@ -24,9 +25,11 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
         85633337,
-        85859575,
-        85687041
+        101837705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473804664,
-    "wof:geomhash":"9ee7dbac2a9986533df52018db9c1609",
+    "wof:geomhash":"48c974d4d04cf5b32507c3b675aeb637",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85859575,
+            "localadmin_id":404474667,
+            "locality_id":101837705,
             "region_id":85687041,
             "venue_id":1091631801
         }
     ],
     "wof:id":1091631801,
-    "wof:lastmodified":1473878476,
+    "wof:lastmodified":1492509934,
     "wof:name":"J.W. Bouhuizen",
-    "wof:parent_id":85859575,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

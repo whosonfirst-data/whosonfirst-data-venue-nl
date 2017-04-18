@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8830471039,52.3831825256,4.8830471039,52.3831825256",
     "geom:latitude":52.383183,
     "geom:longitude":4.883047,
@@ -24,13 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804285,
+        85797363,
         102191581,
-        404474029,
         85633337,
         101751893,
-        85687053,
-        85797363
+        1108802283,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,31 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473799411,
-    "wof:geomhash":"e86554378291e5e841875e6ebf5fb8bf",
+    "wof:geomhash":"4f715cc916aeda2d757e284d1b512ff8",
     "wof:hierarchy":[
         {
+            "borough_id":1108802283,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474029,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
-            "region_id":85687053,
-            "venue_id":1075823603
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474029,
-            "locality_id":101751893,
+            "microhood_id":1108804285,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":1075823603
         }
     ],
     "wof:id":1075823603,
-    "wof:lastmodified":1473879338,
+    "wof:lastmodified":1492486829,
     "wof:name":"Verbugt",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108804285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

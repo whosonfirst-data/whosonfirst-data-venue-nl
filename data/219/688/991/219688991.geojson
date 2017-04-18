@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.555592,51.959553,4.555592,51.959553",
     "geom:latitude":51.959553,
     "geom:longitude":4.555592,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65pSp6gc7wTVit3wAgSsXe_51.959553_4.555592@1306269928"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e80bd24652312d156cf50608f4076b68",
+    "wof:geomhash":"5b55a5e366871d1ab0a17a86fa0d2c57",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":219688991
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798149,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":219688991,
-    "wof:lastmodified":1473879570,
+    "wof:lastmodified":1492503909,
     "wof:name":"Mesteda",
     "wof:parent_id":85798149,
     "wof:placetype":"venue",

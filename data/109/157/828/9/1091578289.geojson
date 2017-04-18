@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8726401329,52.4348373413,4.8726401329,52.4348373413",
     "geom:latitude":52.434837,
     "geom:longitude":4.87264,
@@ -24,9 +25,11 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687053,
+        102191581,
+        404474105,
         85633337,
-        85798523,
-        85687053
+        101754851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473801090,
-    "wof:geomhash":"da9e0e0b878274fcfb027be68c9614ce",
+    "wof:geomhash":"94cff720d44216169681ae4a0988d89b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798523,
+            "localadmin_id":404474105,
+            "locality_id":101754851,
             "region_id":85687053,
             "venue_id":1091578289
         }
     ],
     "wof:id":1091578289,
-    "wof:lastmodified":1473879026,
+    "wof:lastmodified":1492511111,
     "wof:name":"G.L. Horn",
-    "wof:parent_id":85798523,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.853238,52.365879,4.853238,52.365879",
     "geom:latitude":52.365879,
     "geom:longitude":4.853238,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803461,
+        1108802827,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3OHk5O0htaUx1Lp9KnteGj_52.365879_4.853238@1306269932"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5e17ff9cc76e369df461e4f8aded7a58",
+    "wof:geomhash":"5f77a1942021514d40a1a360be1a09be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803461,
+            "neighbourhood_id":1108802827,
             "region_id":85687053,
             "venue_id":220153051
         }
     ],
     "wof:id":220153051,
-    "wof:lastmodified":1473878982,
+    "wof:lastmodified":1492481180,
     "wof:name":"Advocatenkantoor De Baarsjes",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

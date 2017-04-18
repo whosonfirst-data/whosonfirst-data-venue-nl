@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.836959,52.38126,4.836959,52.38126",
     "geom:latitude":52.38126,
     "geom:longitude":4.836959,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.boer-bos.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108804011,
+        1108802905,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_7OvJdvgQCVGafLZIFoMxzu_52.381260_4.836959@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"695c9aa3568984cb6bce33b2b6d63f80",
+    "wof:geomhash":"bade68da41f2f954f31e2ce17c1b2e2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108804011,
+            "neighbourhood_id":1108802905,
             "region_id":85687053,
             "venue_id":202912595
         }
     ],
     "wof:id":202912595,
-    "wof:lastmodified":1473879397,
+    "wof:lastmodified":1492497132,
     "wof:name":"Boer- Bos Bv, De",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108804011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

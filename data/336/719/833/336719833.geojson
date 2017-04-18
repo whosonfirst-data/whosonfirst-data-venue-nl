@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.844241,52.364532,4.844241,52.364532",
     "geom:latitude":52.364532,
     "geom:longitude":4.844241,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803545,
         85798223,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_53YSkoxRse9QPx9Nd1nGS5_52.364532_4.844241@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"30354399a6ed50e5b5c62d9d8dd6a35c",
+    "wof:geomhash":"f949345416343d64350d2b34dffb9509",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803545,
             "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":336719833
         }
     ],
     "wof:id":336719833,
-    "wof:lastmodified":1473878414,
+    "wof:lastmodified":1492507103,
     "wof:name":"Kraaier Accountancy",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

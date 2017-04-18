@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.87992,52.375904,4.87992,52.375904",
     "geom:latitude":52.375904,
     "geom:longitude":4.87992,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804119,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_56rKQ6p0QnUAFfXq5VRmjX_52.375904_4.879920@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4e59304b13eb269cf7a54ce250bbc0f1",
+    "wof:geomhash":"f5ae72276e99db7688acd8a2814d65ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804119,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":202886427
         }
     ],
     "wof:id":202886427,
-    "wof:lastmodified":1473879376,
+    "wof:lastmodified":1492498825,
     "wof:name":"Vaughan, J E",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

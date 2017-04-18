@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5444188118,51.6163063049,5.5444188118,51.6163063049",
     "geom:latitude":51.616306,
     "geom:longitude":5.544419,
@@ -23,17 +24,32 @@
     "sg:postcode":"5461 JE",
     "sg:province":"North Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474441,
+        85633337,
+        101808329
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LUcyyxawh4orhwrJ6M12y_51.616306_5.544419@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801376,
-    "wof:geomhash":"a3d6ca8be28ce76d1e394a8bc4e59e50",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7beec580d48136edbe05439838de6705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474441,
+            "locality_id":101808329,
+            "region_id":85687035,
+            "venue_id":1091583805
+        }
+    ],
     "wof:id":1091583805,
-    "wof:lastmodified":1473878674,
+    "wof:lastmodified":1492511633,
     "wof:name":"Dactylo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

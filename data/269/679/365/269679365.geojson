@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.302644,52.093147,4.302644,52.093147",
     "geom:latitude":52.093147,
     "geom:longitude":4.302644,
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859619,
+        102191581,
+        1108808071,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,19 +38,21 @@
         "sg:id":"SG_3QRylzEWUHLyFHDMAFes0M_52.093147_4.302644@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"575263106fe2ea07bdf0dca4ddddb0b6",
+    "wof:geomhash":"a9a2a501a8dafa31600a621ba5b4b972",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808071,
             "neighbourhood_id":85859619,
             "region_id":85687041,
             "venue_id":269679365
         }
     ],
     "wof:id":269679365,
-    "wof:lastmodified":1473879273,
+    "wof:lastmodified":1492495428,
     "wof:name":"Forman & Partners",
     "wof:parent_id":85859619,
     "wof:placetype":"venue",

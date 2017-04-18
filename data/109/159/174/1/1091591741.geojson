@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8927469254,52.194694519,4.8927469254,52.194694519",
     "geom:latitude":52.194695,
     "geom:longitude":4.892747,
@@ -24,17 +25,32 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.stafftrack.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474341,
+        85633337,
+        101837677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eTSL1jBGmrdKFhJxAvt2L_52.194695_4.892747@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802033,
-    "wof:geomhash":"9a3902c5555061d25acecad90f647bcf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0139733d2a22ee00e6b6015204abd721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474341,
+            "locality_id":101837677,
+            "region_id":85687039,
+            "venue_id":1091591741
+        }
+    ],
     "wof:id":1091591741,
-    "wof:lastmodified":1473878566,
+    "wof:lastmodified":1492509873,
     "wof:name":"Stafftrack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

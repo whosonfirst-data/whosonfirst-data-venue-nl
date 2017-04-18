@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7063331604,51.9531097412,5.7063331604,51.9531097412",
     "geom:latitude":51.95311,
     "geom:longitude":5.706333,
@@ -32,17 +33,32 @@
         "bewaring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474651,
+        85633337,
+        101809873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4T1zO7zYo8zTx3xP39DNPY_51.953110_5.706333@1306270008"
     },
     "wof:country":"NL",
     "wof:created":1473798870,
-    "wof:geomhash":"13b03a25f15df81d30d7f092a4b1bfbd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"002b8c1c57d51263642e7f06a99e12b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474651,
+            "locality_id":101809873,
+            "region_id":85687043,
+            "venue_id":1075814419
+        }
+    ],
     "wof:id":1075814419,
-    "wof:lastmodified":1473878953,
+    "wof:lastmodified":1492486637,
     "wof:name":"Standoff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

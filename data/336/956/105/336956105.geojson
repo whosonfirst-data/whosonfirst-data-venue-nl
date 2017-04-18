@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.862825,52.40284,4.862825,52.40284",
     "geom:latitude":52.40284,
     "geom:longitude":4.862825,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803287,
+        1108802955,
+        102191581,
         85633337,
         101751893,
+        1108802287,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_5s7Uq31tVotNh8plQ7bZzu_52.402840_4.862825@1306270007"
     },
     "wof:country":"NL",
-    "wof:geomhash":"07dacd53edb020fa253b990053658736",
+    "wof:geomhash":"46215c46a14e642761be6fa971109169",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802287,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803287,
+            "neighbourhood_id":1108802955,
             "region_id":85687053,
             "venue_id":336956105
         }
     ],
     "wof:id":336956105,
-    "wof:lastmodified":1473878453,
+    "wof:lastmodified":1492506294,
     "wof:name":"Nedveem Bv",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803287,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

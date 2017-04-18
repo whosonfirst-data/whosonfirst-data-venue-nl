@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880415,52.374088,4.880415,52.374088",
     "geom:latitude":52.374088,
     "geom:longitude":4.880415,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803831,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5hqltcsf1YddQCH03ZgyCU_52.374088_4.880415@1306269917"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ac0830949522b4ca8c282b49e844208f",
+    "wof:geomhash":"3cb768b8398df0e34c883d0cceb1077a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803831,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":202673613
         }
     ],
     "wof:id":202673613,
-    "wof:lastmodified":1473879126,
+    "wof:lastmodified":1492498100,
     "wof:name":"Vanderhee",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

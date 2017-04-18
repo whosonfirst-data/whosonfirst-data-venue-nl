@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.826285,52.356594,4.826285,52.356594",
     "geom:latitude":52.356594,
     "geom:longitude":4.826285,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803265,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4stggcXzoBtaxLE629Vlp2_52.356594_4.826285@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4983c708143cec3ef289481e1c720e41",
+    "wof:geomhash":"03cf67ef8d9111447503bb82c3174241",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803265,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":202588015
         }
     ],
     "wof:id":202588015,
-    "wof:lastmodified":1473879005,
+    "wof:lastmodified":1492498830,
     "wof:name":"Alberico",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

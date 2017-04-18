@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.81285,52.377243,4.81285,52.377243",
     "geom:latitude":52.377243,
     "geom:longitude":4.81285,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108804213,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1VwHF7U51IPr2MEKBRFZnQ_52.377243_4.812850@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e12e6f7b389a4e97b4a54e9913e2d30a",
+    "wof:geomhash":"6424a940d013c37d2b43f3af95d9e1bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108804213,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":203104099
         }
     ],
     "wof:id":203104099,
-    "wof:lastmodified":1473878846,
+    "wof:lastmodified":1492479886,
     "wof:name":"Assurantiekantoor Spierenburg",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108804213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

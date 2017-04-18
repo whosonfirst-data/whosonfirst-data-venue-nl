@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.899557,52.372578,4.899557,52.372578",
     "geom:latitude":52.372578,
     "geom:longitude":4.899557,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803883,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_69awNHPvb6h5ptEBxRq845_52.372578_4.899557@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"62e7dd2965f57763db9442e75b0c5660",
+    "wof:geomhash":"796568040e8532e08cf660f8549c8ac4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803883,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":269774087
         }
     ],
     "wof:id":269774087,
-    "wof:lastmodified":1473879411,
+    "wof:lastmodified":1492496213,
     "wof:name":"Plein 26",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

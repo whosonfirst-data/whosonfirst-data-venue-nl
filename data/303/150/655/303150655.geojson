@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.368324,51.850574,4.368324,51.850574",
     "geom:latitude":51.850574,
     "geom:longitude":4.368324,
@@ -35,8 +36,12 @@
     "sg:website":"http://www.bakkerij-van-der-waal.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798725,
+        1108833297,
+        1108805797,
+        102191581,
         85633337,
+        101751843,
+        1108805727,
         85687041
     ],
     "wof:breaches":[],
@@ -44,21 +49,23 @@
         "sg:id":"SG_4wYMrScAjOPqxG5OgrOCwX_51.850574_4.368324@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f5384b571e3d40ff1e8b430679f00a3b",
+    "wof:geomhash":"68d4ca0a49dd99bebfe53577348087b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805727,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798725,
+            "locality_id":101751843,
+            "microhood_id":1108833297,
+            "neighbourhood_id":1108805797,
             "region_id":85687041,
             "venue_id":303150655
         }
     ],
     "wof:id":303150655,
-    "wof:lastmodified":1473878796,
+    "wof:lastmodified":1492473827,
     "wof:name":"Waal Bakkerij, Van Der",
-    "wof:parent_id":85798725,
+    "wof:parent_id":1108833297,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

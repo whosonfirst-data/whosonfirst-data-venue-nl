@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.311804,52.091187,4.311804,52.091187",
     "geom:latitude":52.091187,
     "geom:longitude":4.311804,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.hivos.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808153,
+        102191581,
+        1108805961,
         85633337,
         101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_7FjxyHxG2AqhkL4niByzFB_52.091187_4.311804@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d39789330456fc43fae6ffeb1352cc6b",
+    "wof:geomhash":"4eb82692549557046caee244bafaf970",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108805961,
+            "neighbourhood_id":1108808153,
             "region_id":85687041,
             "venue_id":186403939
         }
     ],
     "wof:id":186403939,
-    "wof:lastmodified":1473879394,
+    "wof:lastmodified":1492508137,
     "wof:name":"Hivos, Stichting",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.891753,52.410851,4.891753,52.410851",
     "geom:latitude":52.410851,
     "geom:longitude":4.891753,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803211,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_28t6IaBlShztlX91bIq1Vm_52.410851_4.891753@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a9dd46eaae8f6c884fd701eff71878f4",
+    "wof:geomhash":"b3188edcd6b450b7bcfd973ff22ceb3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803211,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":236069093
         }
     ],
     "wof:id":236069093,
-    "wof:lastmodified":1473878672,
+    "wof:lastmodified":1492493004,
     "wof:name":"J.B. Stellingwerf",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

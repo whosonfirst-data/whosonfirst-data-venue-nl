@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882544,52.384651,4.882544,52.384651",
     "geom:latitude":52.384651,
     "geom:longitude":4.882544,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.monsee.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803701,
+        1108802819,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_0vQEjLxgNcIlOT7i0XSdOf_52.384651_4.882544@1306269920"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ce4262c9d2e2897094bdf88892f1036d",
+    "wof:geomhash":"0f47ca8461a4596a6ddd2207cd5f48dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803701,
+            "neighbourhood_id":1108802819,
             "region_id":85687053,
             "venue_id":202989279
         }
     ],
     "wof:id":202989279,
-    "wof:lastmodified":1473879450,
+    "wof:lastmodified":1492497251,
     "wof:name":"Monsee Financieel Adviesbureau",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

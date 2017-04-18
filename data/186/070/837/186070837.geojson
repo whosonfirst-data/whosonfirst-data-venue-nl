@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882595,52.374218,4.882595,52.374218",
     "geom:latitude":52.374218,
     "geom:longitude":4.882595,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.simonlevelt.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803831,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3kXix7kIPS2kh7lAPK2I0B_52.374218_4.882595@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e7573d9e5ae05efdf0b1141ea04dfa11",
+    "wof:geomhash":"779dfa6835cd1ebfe89415bc857d536a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803831,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":186070837
         }
     ],
     "wof:id":186070837,
-    "wof:lastmodified":1473878802,
+    "wof:lastmodified":1492509108,
     "wof:name":"Simon Levelt",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

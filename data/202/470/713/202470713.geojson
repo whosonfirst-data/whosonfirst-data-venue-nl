@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.304717,52.079647,4.304717,52.079647",
     "geom:latitude":52.079647,
     "geom:longitude":4.304717,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797685,
+        1108808249,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7St9bl0cVO5KkYjduthVaO_52.079647_4.304717@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2669342ddf9fa5736559d3d2e29124ea",
+    "wof:geomhash":"992e328e666df2bf9fb7875c2c69b86a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797685,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808249,
             "region_id":85687041,
             "venue_id":202470713
         }
     ],
     "wof:id":202470713,
-    "wof:lastmodified":1473878749,
+    "wof:lastmodified":1492499037,
     "wof:name":"En Garde",
-    "wof:parent_id":85797685,
+    "wof:parent_id":1108808249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

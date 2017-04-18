@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7934541702,52.4295578003,4.7934541702,52.4295578003",
     "geom:latitude":52.429558,
     "geom:longitude":4.793454,
@@ -25,9 +26,11 @@
     "sg:website":"http://www.servicedienstmeijer.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687053,
+        102191581,
+        404474143,
         85633337,
-        85798675,
-        85687053
+        101754839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,19 +38,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473800060,
-    "wof:geomhash":"73d88a2190039bcbc5f24deaf51d6a5d",
+    "wof:geomhash":"89b03e6be437b47dbee9ff6eab1825d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798675,
+            "localadmin_id":404474143,
+            "locality_id":101754839,
             "region_id":85687053,
             "venue_id":1075835059
         }
     ],
     "wof:id":1075835059,
-    "wof:lastmodified":1473879430,
+    "wof:lastmodified":1492485603,
     "wof:name":"Service Dienst Meijer",
-    "wof:parent_id":85798675,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

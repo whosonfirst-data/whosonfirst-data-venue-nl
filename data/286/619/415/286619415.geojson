@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.098289,51.994759,5.098289,51.994759",
     "geom:latitude":51.994759,
     "geom:longitude":5.098289,
@@ -25,39 +26,45 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85797281,
+        102191581,
+        404474271,
         85633337,
         101754607,
         85687039,
-        85798063
+        85798063,
+        404474021,
+        101751825
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20cir4CMOVthWHjxZvZHKP_51.994759_5.098289@1306269971"
     },
     "wof:country":"NL",
-    "wof:geomhash":"32aaaf1c979d6576636da82a79fd0a40",
+    "wof:geomhash":"f7bcd009cf9734c061021dede12efd03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474271,
             "locality_id":101754607,
             "neighbourhood_id":85797281,
             "region_id":85687039,
             "venue_id":286619415
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "localadmin_id":404474021,
+            "locality_id":101751825,
             "neighbourhood_id":85798063,
             "region_id":85687039,
             "venue_id":286619415
         }
     ],
     "wof:id":286619415,
-    "wof:lastmodified":1473879268,
+    "wof:lastmodified":1492475682,
     "wof:name":"Verzorgingscentrum Batenstein",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

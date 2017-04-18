@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.85369,52.349503,4.85369,52.349503",
     "geom:latitude":52.349503,
     "geom:longitude":4.85369,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803439,
+        1108802899,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0YBHeo9Gi3HdPv71qOFOdp_52.349503_4.853690@1306269984"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d66bac06a3f8032852139ba7cb24a4aa",
+    "wof:geomhash":"3d198ad03209f61506101f48637bb2d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803439,
+            "neighbourhood_id":1108802899,
             "region_id":85687053,
             "venue_id":303526775
         }
     ],
     "wof:id":303526775,
-    "wof:lastmodified":1473879276,
+    "wof:lastmodified":1492473870,
     "wof:name":"Focke",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

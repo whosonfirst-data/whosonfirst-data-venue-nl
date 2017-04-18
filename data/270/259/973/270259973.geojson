@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.955031,52.393341,4.955031,52.393341",
     "geom:latitude":52.393341,
     "geom:longitude":4.955031,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108803543,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2bWGleJjUt1UQSGr5LFNqI_52.393341_4.955031@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e9ffb3d11ae18cf12955890e25f42574",
+    "wof:geomhash":"605ef2d2828b4f3389c27707f7b96540",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803543,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":270259973
         }
     ],
     "wof:id":270259973,
-    "wof:lastmodified":1473878977,
+    "wof:lastmodified":1492499842,
     "wof:name":"Waleson Photography",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803543,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.859153,52.370979,4.859153,52.370979",
     "geom:latitude":52.370979,
     "geom:longitude":4.859153,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.hoofdzaakhoeden.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803381,
+        1108802785,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_4oscnY469pD9Xgk21ewb2e_52.370979_4.859153@1306269989"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c58bc22f112faecab40bb6fc9039c884",
+    "wof:geomhash":"064181f7171846914de80ff0182a3f5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803381,
+            "neighbourhood_id":1108802785,
             "region_id":85687053,
             "venue_id":303925711
         }
     ],
     "wof:id":303925711,
-    "wof:lastmodified":1473879642,
+    "wof:lastmodified":1492474378,
     "wof:name":"Hoofdzaak Hoeden",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803381,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

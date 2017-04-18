@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.812364,52.372799,4.812364,52.372799",
     "geom:latitude":52.372799,
     "geom:longitude":4.812364,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803595,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_2FgakF14Z3dnRdSrwQRhxN_52.372799_4.812364@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3a8372e9778eb7859f46d705b423596a",
+    "wof:geomhash":"ef81bf3b5374c6984802ebd7519db53e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "macrohood_id":1108802303,
+            "microhood_id":1108803595,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":270484307
         }
     ],
     "wof:id":270484307,
-    "wof:lastmodified":1473879320,
+    "wof:lastmodified":1492499941,
     "wof:name":"Basisschool Voor Speciaal Onderwijs De Kade",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

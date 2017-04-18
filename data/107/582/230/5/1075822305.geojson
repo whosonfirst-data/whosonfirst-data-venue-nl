@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9137401581,52.4299736023,4.9137401581,52.4299736023",
     "geom:latitude":52.429974,
     "geom:longitude":4.91374,
@@ -25,9 +26,11 @@
     "sg:website":"http://www.hpr.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687053,
+        102191581,
+        404474091,
         85633337,
-        85798523,
-        85687053
+        101754829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,19 +38,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473799327,
-    "wof:geomhash":"8535812e43371ec449f5b3b6c1d1d665",
+    "wof:geomhash":"935d8744e35b42640e2420b112b9ddf1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798523,
+            "localadmin_id":404474091,
+            "locality_id":101754829,
             "region_id":85687053,
             "venue_id":1075822305
         }
     ],
     "wof:id":1075822305,
-    "wof:lastmodified":1473879261,
+    "wof:lastmodified":1492486827,
     "wof:name":"Hpr Organisatie Bv",
-    "wof:parent_id":85798523,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

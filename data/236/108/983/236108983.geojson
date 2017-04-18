@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.304481,52.057339,4.304481,52.057339",
     "geom:latitude":52.057339,
     "geom:longitude":4.304481,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798433,
+        1108808303,
+        102191581,
+        1108808093,
         85633337,
-        101754743,
+        101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3rsb8ECCFrQ99rDPvJEbkU_52.057339_4.304481@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8de695b17c56942f87164b2cf5213850",
+    "wof:geomhash":"28d9b057f96c6b36e806f67d914428fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798433,
+            "locality_id":101752763,
+            "macrohood_id":1108808093,
+            "neighbourhood_id":1108808303,
             "region_id":85687041,
             "venue_id":236108983
         }
     ],
     "wof:id":236108983,
-    "wof:lastmodified":1473878771,
+    "wof:lastmodified":1492492350,
     "wof:name":"Van Den Berg Transporttechniek",
-    "wof:parent_id":85798433,
+    "wof:parent_id":1108808303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

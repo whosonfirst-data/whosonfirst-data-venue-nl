@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.895237,52.346542,4.895237,52.346542",
     "geom:latitude":52.346542,
     "geom:longitude":4.895237,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803935,
+        1108802897,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_7ed4PI0SZw0iRvig1LqfqE_52.346542_4.895237@1306269924"
     },
     "wof:country":"NL",
-    "wof:geomhash":"41303155753e36e2e6cbd6516c8f9fee",
+    "wof:geomhash":"cc6f554cbee1a657fa68fc02436c198a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108803935,
+            "neighbourhood_id":1108802897,
             "region_id":85687053,
             "venue_id":219255815
         }
     ],
     "wof:id":219255815,
-    "wof:lastmodified":1473878748,
+    "wof:lastmodified":1492504304,
     "wof:name":"Nooy",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3230419159,52.0673484802,4.3230419159,52.0673484802",
     "geom:latitude":52.067348,
     "geom:longitude":4.323042,
@@ -24,12 +25,15 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808305,
         102191581,
-        404474251,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,22 +41,34 @@
     },
     "wof:country":"NL",
     "wof:created":1473801953,
-    "wof:geomhash":"855910e0de62fda61708943978ec40ee",
+    "wof:geomhash":"71c637069aca65938331abae9b6db4f4",
     "wof:hierarchy":[
         {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808305,
+            "region_id":85687041,
+            "venue_id":1091590067
+        },
+        {
+            "borough_id":1108808049,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808305,
             "region_id":85687041,
             "venue_id":1091590067
         }
     ],
     "wof:id":1091590067,
-    "wof:lastmodified":1473878443,
+    "wof:lastmodified":1492509564,
     "wof:name":"Uno Werving & Selectie",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808305,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

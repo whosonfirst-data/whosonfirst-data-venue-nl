@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.872668,52.349323,4.872668,52.349323",
     "geom:latitude":52.349323,
     "geom:longitude":4.872668,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803227,
+        1108802527,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6DMl6HvPy1R6e09iAYqMtB_52.349323_4.872668@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bcbb619c93e9e77fdb710a579ca28cda",
+    "wof:geomhash":"8bf67a114b42a3d73a0369860e3d7790",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803227,
+            "neighbourhood_id":1108802527,
             "region_id":85687053,
             "venue_id":219520507
         }
     ],
     "wof:id":219520507,
-    "wof:lastmodified":1473879297,
+    "wof:lastmodified":1492504199,
     "wof:name":"Gulf Air",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

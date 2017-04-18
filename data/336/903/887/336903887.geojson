@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.082255,52.130844,5.082255,52.130844",
     "geom:latitude":52.130844,
     "geom:longitude":5.082255,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808701,
+        102191581,
+        1108832365,
         85633337,
         101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_37aAWl3XDO5B4GZXxEYFxk_52.130844_5.082255@1306270007"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fc991c513d903a3a7131ceab005a0926",
+    "wof:geomhash":"d63ead0d605878995780b4113402f26d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808701,
             "region_id":85687039,
             "venue_id":336903887
         }
     ],
     "wof:id":336903887,
-    "wof:lastmodified":1473878466,
+    "wof:lastmodified":1492506815,
     "wof:name":"Bpi Controle & Adviesbureau",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

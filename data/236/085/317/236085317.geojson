@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885116,52.362144,4.885116,52.362144",
     "geom:latitude":52.362144,
     "geom:longitude":4.885116,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803599,
+        1108802791,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3PyWBDSiqgDgukmL4euSyu_52.362144_4.885116@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ebf9af6df2a85c77c345f75f252f3cec",
+    "wof:geomhash":"76f1d5b306d4dda0ec2bcc467e0ce32d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803599,
+            "neighbourhood_id":1108802791,
             "region_id":85687053,
             "venue_id":236085317
         }
     ],
     "wof:id":236085317,
-    "wof:lastmodified":1473878720,
+    "wof:lastmodified":1492491859,
     "wof:name":"M.C.G. V.D. Aa",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

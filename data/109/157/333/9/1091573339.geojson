@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3024249077,52.406791687,5.3024249077,52.406791687",
     "geom:latitude":52.406792,
     "geom:longitude":5.302425,
@@ -24,17 +25,32 @@
     "sg:province":"Flevoland",
     "sg:website":"http://www.internetdirect.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101751875
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GUXZJUZVt9RjhfXxJ4DhH_52.406792_5.302425@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800688,
-    "wof:geomhash":"cf690bbe3879c1f84f474ecf1edf9b4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdc57546720fd23c046f4e89864e82a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101751875,
+            "region_id":85687049,
+            "venue_id":1091573339
+        }
+    ],
     "wof:id":1091573339,
-    "wof:lastmodified":1473878691,
+    "wof:lastmodified":1492511330,
     "wof:name":"Internet Direct",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88554,52.365448,4.88554,52.365448",
     "geom:latitude":52.365448,
     "geom:longitude":4.88554,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.bodyshop.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803665,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_48eJx8X1RnKqxrZC6uHC4e_52.365448_4.885540@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"06866a5029b7152c6c1601ab8cf36912",
+    "wof:geomhash":"7de465465e28be6eabd954fc5eb68dc1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803665,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":253498571
         }
     ],
     "wof:id":253498571,
-    "wof:lastmodified":1473879670,
+    "wof:lastmodified":1492489289,
     "wof:name":"Body Shop, The",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

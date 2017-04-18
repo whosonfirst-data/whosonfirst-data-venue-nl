@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9002,52.352486,4.9002,52.352486",
     "geom:latitude":52.352486,
     "geom:longitude":4.9002,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804139,
+        1108802865,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7CkZDzpuUzn1BOWbqCTHHE_52.352486_4.900200@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7d1fec1fbd57a0c8bc8842f3ed0d576a",
+    "wof:geomhash":"865eae96e150236c668f6661627813ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108804139,
+            "neighbourhood_id":1108802865,
             "region_id":85687053,
             "venue_id":320834163
         }
     ],
     "wof:id":320834163,
-    "wof:lastmodified":1473879638,
+    "wof:lastmodified":1492484073,
     "wof:name":"Kenenco",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

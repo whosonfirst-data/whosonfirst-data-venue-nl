@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.98496,52.300571,4.98496,52.300571",
     "geom:latitude":52.300571,
     "geom:longitude":4.98496,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803463,
+        1108802809,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_2NOHUCl7wfKTM9qkKDcb0g_52.300571_4.984960@1306269951"
     },
     "wof:country":"NL",
-    "wof:geomhash":"992eac11fe379e8b0ab6623e10cd95cd",
+    "wof:geomhash":"78a2a1a9a87511a6923c8f9d97d66acb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803463,
+            "neighbourhood_id":1108802809,
             "region_id":85687053,
             "venue_id":253584955
         }
     ],
     "wof:id":253584955,
-    "wof:lastmodified":1473879693,
+    "wof:lastmodified":1492489884,
     "wof:name":"Voetgoed",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

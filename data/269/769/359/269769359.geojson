@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.867006,52.365997,4.867006,52.365997",
     "geom:latitude":52.365997,
     "geom:longitude":4.867006,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803895,
+        1108802849,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_0KInQaFQqnEbH2uvgIvqAT_52.365997_4.867006@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5e2a083b129421b663a1df7235880765",
+    "wof:geomhash":"1751c7f6ad1b5ad1dd31767839a9b9bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803895,
+            "neighbourhood_id":1108802849,
             "region_id":85687053,
             "venue_id":269769359
         }
     ],
     "wof:id":269769359,
-    "wof:lastmodified":1473879411,
+    "wof:lastmodified":1492495221,
     "wof:name":"Mcdonald'S Restaurant",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7267231941,52.5086708069,5.7267231941,52.5086708069",
     "geom:latitude":52.508671,
     "geom:longitude":5.726723,
@@ -23,17 +24,32 @@
     "sg:postcode":"8252 CJ",
     "sg:province":"Flevoland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473965,
+        85633337,
+        101803709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03mSwVRtzC6ehZpcJwOYFp_52.508671_5.726723@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802909,
-    "wof:geomhash":"1cd3760c0f9f9e559851ff832248864f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70671ccd4e48e537c35819d1e41f297c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473965,
+            "locality_id":101803709,
+            "region_id":85687049,
+            "venue_id":1091604731
+        }
+    ],
     "wof:id":1091604731,
-    "wof:lastmodified":1473878672,
+    "wof:lastmodified":1492512639,
     "wof:name":"Natatoma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

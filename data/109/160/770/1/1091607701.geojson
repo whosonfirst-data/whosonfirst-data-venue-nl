@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7951660156,52.0062561035,5.7951660156,52.0062561035",
     "geom:latitude":52.006256,
     "geom:longitude":5.795166,
@@ -23,17 +24,32 @@
     "sg:postcode":"6874 CB",
     "sg:province":"Gelderland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473931,
+        85633337,
+        101809857
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hUMaPgtJWYrIOCNFRcPeb_52.006256_5.795166@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803270,
-    "wof:geomhash":"ad76dd21d320392ea538853a6cd72a8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11e1fb17e867fd37b400ca731cf695c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473931,
+            "locality_id":101809857,
+            "region_id":85687043,
+            "venue_id":1091607701
+        }
+    ],
     "wof:id":1091607701,
-    "wof:lastmodified":1473878888,
+    "wof:lastmodified":1492512601,
     "wof:name":"Jan Aalderink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

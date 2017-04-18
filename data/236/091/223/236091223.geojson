@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.825481,52.378418,4.825481,52.378418",
     "geom:latitude":52.378418,
     "geom:longitude":4.825481,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108804051,
+        1108802905,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2AC6UixqV5c2Yxhl0Ex7XD_52.378418_4.825481@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ae1010b888e4abc8e71629a391b03faf",
+    "wof:geomhash":"1d7b666995d5622b6a65b467b0e03ede",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108804051,
+            "neighbourhood_id":1108802905,
             "region_id":85687053,
             "venue_id":236091223
         }
     ],
     "wof:id":236091223,
-    "wof:lastmodified":1473878740,
+    "wof:lastmodified":1492491378,
     "wof:name":"Multi Electric'S",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108804051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

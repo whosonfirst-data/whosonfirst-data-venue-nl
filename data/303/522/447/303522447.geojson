@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.901944,52.40715,4.901944,52.40715",
     "geom:latitude":52.40715,
     "geom:longitude":4.901944,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804179,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_70YqqihIrGEIVdyqRNNlcY_52.407150_4.901944@1306269984"
     },
     "wof:country":"NL",
-    "wof:geomhash":"062f5d6346032db78e62ddb2e140c523",
+    "wof:geomhash":"efe822b77c705428f1338e7333c874fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108804179,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":303522447
         }
     ],
     "wof:id":303522447,
-    "wof:lastmodified":1473879283,
+    "wof:lastmodified":1492472792,
     "wof:name":"Mac 80",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108804179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

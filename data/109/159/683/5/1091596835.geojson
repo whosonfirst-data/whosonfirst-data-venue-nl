@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7000288963,51.5151672363,4.7000288963,51.5151672363",
     "geom:latitude":51.515167,
     "geom:longitude":4.700029,
@@ -23,17 +24,32 @@
     "sg:postcode":"4891 CJ",
     "sg:province":"North Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474459,
+        85633337,
+        101809671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0h5pUvUWnGycJtfpDYtPiU_51.515167_4.700029@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802340,
-    "wof:geomhash":"6aa087158a28ffcb9f1545cfa72f65d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37d1e77d1b3d520b493cf12533508f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474459,
+            "locality_id":101809671,
+            "region_id":85687035,
+            "venue_id":1091596835
+        }
+    ],
     "wof:id":1091596835,
-    "wof:lastmodified":1473878851,
+    "wof:lastmodified":1492509455,
     "wof:name":"Woonservice Woningstichting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

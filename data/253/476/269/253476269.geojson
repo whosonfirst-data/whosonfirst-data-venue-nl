@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.285184,52.080971,4.285184,52.080971",
     "geom:latitude":52.080971,
     "geom:longitude":4.285184,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        1108808219,
+        102191581,
+        1108808117,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2i3zJbhGd7RPn80DECVpXD_52.080971_4.285184@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2b2851b1981d4cad15e5329e0cfabfa9",
+    "wof:geomhash":"9c4a43590e05ca025c003172db339cdc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
+            "macrohood_id":1108808117,
+            "neighbourhood_id":1108808219,
             "region_id":85687041,
             "venue_id":253476269
         }
     ],
     "wof:id":253476269,
-    "wof:lastmodified":1473879618,
+    "wof:lastmodified":1492491101,
     "wof:name":"Ned Bur Bevordering Thuiszorg +",
-    "wof:parent_id":85859605,
+    "wof:parent_id":1108808219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

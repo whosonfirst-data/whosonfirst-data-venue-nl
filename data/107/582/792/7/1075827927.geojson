@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3111028671,52.0512886047,4.3111028671,52.0512886047",
     "geom:latitude":52.051289,
     "geom:longitude":4.311103,
@@ -26,10 +27,13 @@
     "wof:belongsto":[
         85798433,
         102191581,
-        404474251,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,20 +41,32 @@
     },
     "wof:country":"NL",
     "wof:created":1473799667,
-    "wof:geomhash":"cb8c13753d5939b741c1dbcfdbfad672",
+    "wof:geomhash":"9ab4d96c0e58c17b95330f3ad8b871fd",
     "wof:hierarchy":[
         {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":85798433,
+            "region_id":85687041,
+            "venue_id":1075827927
+        },
+        {
+            "borough_id":1108808049,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474251,
             "locality_id":101754743,
+            "macrohood_id":1108808103,
             "neighbourhood_id":85798433,
             "region_id":85687041,
             "venue_id":1075827927
         }
     ],
     "wof:id":1075827927,
-    "wof:lastmodified":1473879506,
+    "wof:lastmodified":1492486838,
     "wof:name":"De Fram Buurtcentrum",
     "wof:parent_id":85798433,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.938835,52.351555,4.938835,52.351555",
     "geom:latitude":52.351555,
     "geom:longitude":4.938835,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804217,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0bqS6x5ZDfrnxqrw7VFGYw_52.351555_4.938835@1306269997"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c79c0586142837c149d941734dbf2f98",
+    "wof:geomhash":"4994843cd2a849fa8d537717934617fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804217,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":320289557
         }
     ],
     "wof:id":320289557,
-    "wof:lastmodified":1473879156,
+    "wof:lastmodified":1492485477,
     "wof:name":"Hoog, J De",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

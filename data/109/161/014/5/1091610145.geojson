@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0491170883,51.6928634644,5.0491170883,51.6928634644",
     "geom:latitude":51.692863,
     "geom:longitude":5.049117,
@@ -23,17 +24,32 @@
     "sg:postcode":"5145 NL",
     "sg:province":"Noord-Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474451,
+        85633337,
+        101839421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MM7vHvKvBweacVTczS2Ll_51.692863_5.049117@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803387,
-    "wof:geomhash":"4e8b370da3031d860703b4b0accab858",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6555d83dde212f876ff3e2129532983b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474451,
+            "locality_id":101839421,
+            "region_id":85687035,
+            "venue_id":1091610145
+        }
+    ],
     "wof:id":1091610145,
-    "wof:lastmodified":1473878470,
+    "wof:lastmodified":1492510444,
     "wof:name":"Packimpro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

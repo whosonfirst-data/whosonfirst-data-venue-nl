@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.895241,52.382038,4.895241,52.382038",
     "geom:latitude":52.382038,
     "geom:longitude":4.895241,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803255,
+        1108802819,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0MWsRRzDossGU0lRb0ZtIB_52.382038_4.895241@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"21872736ae5266494776cd2bcd3de9f5",
+    "wof:geomhash":"c3f4fb82431f1032134579b17e86d1d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803255,
+            "neighbourhood_id":1108802819,
             "region_id":85687053,
             "venue_id":203144273
         }
     ],
     "wof:id":203144273,
-    "wof:lastmodified":1473878998,
+    "wof:lastmodified":1492480872,
     "wof:name":"Hooge Huys Verzekeringen",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.209236145,52.0046691895,4.209236145,52.0046691895",
     "geom:latitude":52.004669,
     "geom:longitude":4.209236,
@@ -25,9 +26,11 @@
     "sg:website":"http://www.roobol.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
         85633337,
-        85859575,
-        85687041
+        101837719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,19 +38,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473802521,
-    "wof:geomhash":"c64207b6b13c0c6dd3ace8acbcde012b",
+    "wof:geomhash":"2463e0b5b427ddccb4103c9183d027e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85859575,
+            "localadmin_id":404474667,
+            "locality_id":101837719,
             "region_id":85687041,
             "venue_id":1091599953
         }
     ],
     "wof:id":1091599953,
-    "wof:lastmodified":1473879047,
+    "wof:lastmodified":1492509446,
     "wof:name":"Roobol",
-    "wof:parent_id":85859575,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

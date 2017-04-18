@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881493,52.364285,4.881493,52.364285",
     "geom:latitude":52.364285,
     "geom:longitude":4.881493,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804255,
+        1108802791,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_3277WcSeP8hg6B0yhixWcu_52.364285_4.881493@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5ad666b174b8a32153b0195dac125642",
+    "wof:geomhash":"4f5a7a928f325c9a51e7d7b12dd968de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804255,
+            "neighbourhood_id":1108802791,
             "region_id":85687053,
             "venue_id":269838579
         }
     ],
     "wof:id":269838579,
-    "wof:lastmodified":1473879522,
+    "wof:lastmodified":1492496453,
     "wof:name":"Pizzeria Fantasia",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.930111,52.358032,4.930111,52.358032",
     "geom:latitude":52.358032,
     "geom:longitude":4.930111,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803427,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3i7tal50nrmvxrErY6vjoG_52.358032_4.930111@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ef05f9f8a2c592464414140304264a4e",
+    "wof:geomhash":"951f6b9de19e36d2c446676beb0de57e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803427,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":303441915
         }
     ],
     "wof:id":303441915,
-    "wof:lastmodified":1473879174,
+    "wof:lastmodified":1492474986,
     "wof:name":"Montessori Coll Oost",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

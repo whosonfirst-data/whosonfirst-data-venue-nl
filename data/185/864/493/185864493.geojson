@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.891101,52.354996,4.891101,52.354996",
     "geom:latitude":52.354996,
     "geom:longitude":4.891101,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803931,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6ioEDKs31njfJuHv6hIXKU_52.354996_4.891101@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"32bf59ffdad31070eff460313ded9c37",
+    "wof:geomhash":"e93f933e5838b496e232e402d3da4e34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803931,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":185864493
         }
     ],
     "wof:id":185864493,
-    "wof:lastmodified":1473878797,
+    "wof:lastmodified":1492488039,
     "wof:name":"Spetters",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

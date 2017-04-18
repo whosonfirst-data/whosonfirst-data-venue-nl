@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6047329903,51.8879127502,5.6047329903,51.8879127502",
     "geom:latitude":51.887913,
     "geom:longitude":5.604733,
@@ -23,17 +24,32 @@
     "sg:postcode":"6651 DE",
     "sg:province":"Gelderland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473889,
+        85633337,
+        101837761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wewdTbziMjxAafLFaEgJ2_51.887913_5.604733@1306270008"
     },
     "wof:country":"NL",
     "wof:created":1473798982,
-    "wof:geomhash":"d831ae777d064733ca6ba55930c381d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6b01ffa01cd73dc5f347f6636ebdc5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473889,
+            "locality_id":101837761,
+            "region_id":85687043,
+            "venue_id":1075817209
+        }
+    ],
     "wof:id":1075817209,
-    "wof:lastmodified":1473879081,
+    "wof:lastmodified":1492486392,
     "wof:name":"Hans Anders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

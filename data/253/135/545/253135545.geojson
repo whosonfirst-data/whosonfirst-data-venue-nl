@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.096226,52.074669,5.096226,52.074669",
     "geom:latitude":52.074669,
     "geom:longitude":5.096226,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.leolux.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797771,
+        1108808761,
+        102191581,
+        1108808647,
         85633337,
         101751827,
+        1108808679,
         85687039
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_7D9PB0tye6MJlYR5aTZuup_52.074669_5.096226@1306269946"
     },
     "wof:country":"NL",
-    "wof:geomhash":"15eabec00085ec4c2208341224cd6597",
+    "wof:geomhash":"d1f3167a3968a89c3c44ff2a0198d881",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808679,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797771,
+            "macrohood_id":1108808647,
+            "neighbourhood_id":1108808761,
             "region_id":85687039,
             "venue_id":253135545
         }
     ],
     "wof:id":253135545,
-    "wof:lastmodified":1473878951,
+    "wof:lastmodified":1492489036,
     "wof:name":"Leolux Bv",
-    "wof:parent_id":85797771,
+    "wof:parent_id":1108808761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0399222374,52.080329895,5.0399222374,52.080329895",
     "geom:latitude":52.08033,
     "geom:longitude":5.039922,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808715,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808673,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473802415,
-    "wof:geomhash":"cbd2c70eef564daa701d63f84c57432c",
+    "wof:geomhash":"9a15a532eb189082f0eaab1bbc21ba6f",
     "wof:hierarchy":[
         {
+            "borough_id":1108808673,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808715,
             "region_id":85687039,
             "venue_id":1091598155
         }
     ],
     "wof:id":1091598155,
-    "wof:lastmodified":1473878969,
+    "wof:lastmodified":1492509662,
     "wof:name":"Es, Fa Van",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

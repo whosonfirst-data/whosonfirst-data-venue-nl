@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7170782089,51.2502250671,5.7170782089,51.2502250671",
     "geom:latitude":51.250225,
     "geom:longitude":5.717078,
@@ -24,17 +25,32 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.kijkshop.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474531,
+        85633337,
+        101839297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gbq22DY1i5xnc3ElvmWcF_51.250225_5.717078@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473799987,
-    "wof:geomhash":"53efb4902076159ad4be0e44eeb0b110",
-    "wof:hierarchy":[],
+    "wof:geomhash":"902755fa7184db4ceb61e39f39aa9328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474531,
+            "locality_id":101839297,
+            "region_id":85687033,
+            "venue_id":1075833615
+        }
+    ],
     "wof:id":1075833615,
-    "wof:lastmodified":1473879356,
+    "wof:lastmodified":1492485772,
     "wof:name":"Kijkshop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.074678,52.120495,5.074678,52.120495",
     "geom:latitude":52.120495,
     "geom:longitude":5.074678,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797903,
+        1108808933,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5eLeNBLTSwa6GXrwHFNRqy_52.120495_5.074678@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"75ab9adb2674b86e5bbfc72c8a32dcb9",
+    "wof:geomhash":"b717865be4fcd7b69a9ab801aaebe69b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797903,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808933,
             "region_id":85687039,
             "venue_id":287298937
         }
     ],
     "wof:id":287298937,
-    "wof:lastmodified":1473879239,
+    "wof:lastmodified":1492514295,
     "wof:name":"Cobi Financial",
-    "wof:parent_id":85797903,
+    "wof:parent_id":1108808933,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

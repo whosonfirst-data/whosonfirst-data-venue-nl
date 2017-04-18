@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.864067,52.327469,4.864067,52.327469",
     "geom:latitude":52.327469,
     "geom:longitude":4.864067,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803485,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_03GDBTCsPAtwZIPHC6EMQc_52.327469_4.864067@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c17f07c96defa25d8811e7fc9aefae9f",
+    "wof:geomhash":"898ab7603e8875eb269b8e5234fbade2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803485,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":236523743
         }
     ],
     "wof:id":236523743,
-    "wof:lastmodified":1473879384,
+    "wof:lastmodified":1492493740,
     "wof:name":"J.A.M. Smits",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

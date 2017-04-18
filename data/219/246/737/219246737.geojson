@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.284147,52.114307,4.284147,52.114307",
     "geom:latitude":52.114307,
     "geom:longitude":4.284147,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808139,
+        102191581,
+        1108808075,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_5PuXg0OmyUYkGpzroaK9Ks_52.114307_4.284147@1306269924"
     },
     "wof:country":"NL",
-    "wof:geomhash":"96ae78e73bd9367311b95a7999465875",
+    "wof:geomhash":"6e658aa192db6ace1a26d28820fdeedc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108808075,
+            "neighbourhood_id":1108808139,
             "region_id":85687041,
             "venue_id":219246737
         }
     ],
     "wof:id":219246737,
-    "wof:lastmodified":1473878717,
+    "wof:lastmodified":1492502618,
     "wof:name":"Meurcy Lingerie",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

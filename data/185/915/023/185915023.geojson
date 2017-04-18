@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.863005,52.368591,4.863005,52.368591",
     "geom:latitude":52.368591,
     "geom:longitude":4.863005,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803381,
+        1108802785,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2bQu9p6ZF7KFn1PRZY9MIz_52.368591_4.863005@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e9f5151bf5efaabd9ccd3de880d7b859",
+    "wof:geomhash":"20c864d4f8ba914573633540cb301aa9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803381,
+            "neighbourhood_id":1108802785,
             "region_id":85687053,
             "venue_id":185915023
         }
     ],
     "wof:id":185915023,
-    "wof:lastmodified":1473878887,
+    "wof:lastmodified":1492488003,
     "wof:name":"Kinderdagverblijf Tuimelaar",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803381,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

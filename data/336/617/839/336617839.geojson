@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.865909,52.365726,4.865909,52.365726",
     "geom:latitude":52.365726,
     "geom:longitude":4.865909,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803895,
+        1108802849,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4n6IvXBiKgdK40wALWzHFy_52.365726_4.865909@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"648c17291c3b7c19d69c7943e2a2d714",
+    "wof:geomhash":"daf1e8901785f03c68047772934b802a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803895,
+            "neighbourhood_id":1108802849,
             "region_id":85687053,
             "venue_id":336617839
         }
     ],
     "wof:id":336617839,
-    "wof:lastmodified":1473878437,
+    "wof:lastmodified":1492506682,
     "wof:name":"Juwelier Patrick",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

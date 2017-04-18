@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6107487679,51.557434082,4.6107487679,51.557434082",
     "geom:latitude":51.557434,
     "geom:longitude":4.610749,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.roantex.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474417,
+        85633337,
+        101839417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0L55xqjMBwV0E9s3XzpHGe_51.557434_4.610749@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803452,
-    "wof:geomhash":"ed509c164d4c938abef319b63455e0ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34874e189a75cfd1d1c0154d9fd495e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474417,
+            "locality_id":101839417,
+            "region_id":85687035,
+            "venue_id":1091611031
+        }
+    ],
     "wof:id":1091611031,
-    "wof:lastmodified":1473878531,
+    "wof:lastmodified":1492510600,
     "wof:name":"Roantex Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

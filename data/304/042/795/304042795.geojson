@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.897509,52.35371,4.897509,52.35371",
     "geom:latitude":52.35371,
     "geom:longitude":4.897509,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804139,
+        1108802865,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_7cHfjSazWfbeCrvV4LmjN6_52.353710_4.897509@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5afd954e65adf8688a4e035dba0214bd",
+    "wof:geomhash":"a3734f5a5a44bdc967fe533419860ac3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804139,
+            "neighbourhood_id":1108802865,
             "region_id":85687053,
             "venue_id":304042795
         }
     ],
     "wof:id":304042795,
-    "wof:lastmodified":1473878701,
+    "wof:lastmodified":1492504387,
     "wof:name":"Aalborg",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

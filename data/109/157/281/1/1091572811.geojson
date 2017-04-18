@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4024319649,53.0561981201,5.4024319649,53.0561981201",
     "geom:latitude":53.056198,
     "geom:longitude":5.402432,
@@ -24,17 +25,32 @@
     "sg:province":"Friesland",
     "sg:website":"http://www.flight23.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687055,
+        102191581,
+        404474327,
+        85633337,
+        101806127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rTUV9xbXMCiZkscw6NsSH_53.056198_5.402432@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800653,
-    "wof:geomhash":"2f420c1348e936c5cca5c5c2bdda38a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4443f84c3b96eda017670c6aa1ba841c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474327,
+            "locality_id":101806127,
+            "region_id":85687055,
+            "venue_id":1091572811
+        }
+    ],
     "wof:id":1091572811,
-    "wof:lastmodified":1473878656,
+    "wof:lastmodified":1492511279,
     "wof:name":"Flight 23",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

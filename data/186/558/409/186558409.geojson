@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.14645,51.97044,4.14645,51.97044",
     "geom:latitude":51.97044,
     "geom:longitude":4.14645,
@@ -24,7 +25,11 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85797461,
+        102191581,
         85633337,
+        101751843,
+        1108805729,
         85687041
     ],
     "wof:breaches":[],
@@ -32,21 +37,22 @@
         "sg:id":"SG_7QtEjVdrjgSOgCj94X4HAG_51.970440_4.146450@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9592089157bd9948df5a602ea68233be",
+    "wof:geomhash":"4ea08659e2f3bff29479764c0d5e2d72",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805729,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101751843,
+            "neighbourhood_id":85797461,
             "region_id":85687041,
             "venue_id":186558409
         }
     ],
     "wof:id":186558409,
-    "wof:lastmodified":1473879603,
+    "wof:lastmodified":1492507654,
     "wof:name":"Zwaluw Postduivenver",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.819347,52.347004,4.819347,52.347004",
     "geom:latitude":52.347004,
     "geom:longitude":4.819347,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803421,
+        1108802901,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4FQbHrPJWXGyXbSdB194Vi_52.347004_4.819347@1306269982"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9534a5cfcb0d23fa91f153bb387b1651",
+    "wof:geomhash":"8bc971ae84c70422f749af76557b9ece",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803421,
+            "neighbourhood_id":1108802901,
             "region_id":85687053,
             "venue_id":303297677
         }
     ],
     "wof:id":303297677,
-    "wof:lastmodified":1473879072,
+    "wof:lastmodified":1492474556,
     "wof:name":"Van Waard",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

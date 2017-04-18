@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1006622314,52.5942955017,6.1006622314,52.5942955017",
     "geom:latitude":52.594296,
     "geom:longitude":6.100662,
@@ -24,17 +25,32 @@
     "sg:province":"NL.08",
     "sg:website":"http://www.topserver.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474683,
+        85633337,
+        101807183
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ArvlK4aSwpX0wTcnOatJp_52.594296_6.100662@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800824,
-    "wof:geomhash":"d383e15f02b632f09f06ab3307461f5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d2557e153582392aaba23d51c7d5e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474683,
+            "locality_id":101807183,
+            "region_id":85687045,
+            "venue_id":1091575443
+        }
+    ],
     "wof:id":1091575443,
-    "wof:lastmodified":1473878880,
+    "wof:lastmodified":1492511204,
     "wof:name":"Topserver",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

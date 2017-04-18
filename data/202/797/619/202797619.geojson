@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.969117,52.303719,4.969117,52.303719",
     "geom:latitude":52.303719,
     "geom:longitude":4.969117,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108804143,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_54cQOkBPPr9zqTzSyngNHL_52.303719_4.969117@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1f78c4216e75bd1f7565f2d3eb6ba794",
+    "wof:geomhash":"0d0a820e13af3b9bd81d0ac21c73ca37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108804143,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":202797619
         }
     ],
     "wof:id":202797619,
-    "wof:lastmodified":1473879227,
+    "wof:lastmodified":1492498213,
     "wof:name":"T Barwari",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108804143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

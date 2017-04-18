@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.90974,52.354412,4.90974,52.354412",
     "geom:latitude":52.354412,
     "geom:longitude":4.90974,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803259,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1atNRHxdPMUNt0IbRlkgtr_52.354412_4.909740@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d481edaf1c26b0d63b2764cc168f572e",
+    "wof:geomhash":"2316839e8582268d00670224e79fed36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803259,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":303705361
         }
     ],
     "wof:id":303705361,
-    "wof:lastmodified":1473879460,
+    "wof:lastmodified":1492470634,
     "wof:name":"R.M.F. Hofmans",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

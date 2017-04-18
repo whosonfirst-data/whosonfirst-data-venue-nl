@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.887066,52.380371,4.887066,52.380371",
     "geom:latitude":52.380371,
     "geom:longitude":4.887066,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803955,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_3SpCPdvpGJYqN58YctAOWN_52.380371_4.887066@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"03ac297e07c589f6a5c0a8b927133499",
+    "wof:geomhash":"8bad5f9f667ceebead108607d91d7cc6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803955,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":269809007
         }
     ],
     "wof:id":269809007,
-    "wof:lastmodified":1473879503,
+    "wof:lastmodified":1492495993,
     "wof:name":"Ristorante Il Fiore",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

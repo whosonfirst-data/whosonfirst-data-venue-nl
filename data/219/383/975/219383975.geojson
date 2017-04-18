@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.489049,51.965195,4.489049,51.965195",
     "geom:latitude":51.965195,
     "geom:longitude":4.489049,
@@ -24,8 +25,13 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797723,
+        1108833221,
+        1108805791,
+        102191581,
+        1108805981,
         85633337,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +39,24 @@
         "sg:id":"SG_6vuV8ScZ0WTJu92uH4SeH0_51.965195_4.489049@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"273b4a6b7b2fd6031711a3030379b886",
+    "wof:geomhash":"bf661e0ede6ee34f87bbf94118b589be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797723,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "microhood_id":1108833221,
+            "neighbourhood_id":1108805791,
             "region_id":85687041,
             "venue_id":219383975
         }
     ],
     "wof:id":219383975,
-    "wof:lastmodified":1473879071,
+    "wof:lastmodified":1492502780,
     "wof:name":"B Van Der Weide",
-    "wof:parent_id":85797723,
+    "wof:parent_id":1108833221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.834028,52.374203,4.834028,52.374203",
     "geom:latitude":52.374203,
     "geom:longitude":4.834028,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108804125,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_40fYBxVui6B3yMwQHHLLTL_52.374203_4.834028@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a6b6dcdea42a1024cab1cc3431b7dfdd",
+    "wof:geomhash":"314a82296ebc82d38df201c9a1b27941",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "macrohood_id":1108802303,
+            "microhood_id":1108804125,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":236070473
         }
     ],
     "wof:id":236070473,
-    "wof:lastmodified":1473878669,
+    "wof:lastmodified":1492494265,
     "wof:name":"J.H. Gillet",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108804125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

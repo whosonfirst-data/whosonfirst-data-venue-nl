@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2470641136,52.3601493835,5.2470641136,52.3601493835",
     "geom:latitude":52.360149,
     "geom:longitude":5.247064,
@@ -24,17 +25,32 @@
     "sg:province":"NL.",
     "sg:website":"http://www.everythingelse.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101751877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zZJRr5IMRxFBrDYrDB5Va_52.360149_5.247064@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803498,
-    "wof:geomhash":"66a17bda0c507c2e446466a05e8dc7f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84c8e163d28f091a15d95ffc830187e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101751877,
+            "region_id":85687049,
+            "venue_id":1091611789
+        }
+    ],
     "wof:id":1091611789,
-    "wof:lastmodified":1473878573,
+    "wof:lastmodified":1492510458,
     "wof:name":"Everything Else",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

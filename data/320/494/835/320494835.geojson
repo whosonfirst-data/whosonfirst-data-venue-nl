@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.438433,51.914864,4.438433,51.914864",
     "geom:latitude":51.914864,
     "geom:longitude":4.438433,
@@ -24,29 +25,23 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859765,
+        85798427,
+        102191581,
         85633337,
         101751843,
-        85687041,
-        85798427
+        1108805753,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zzkqhVu6I7EpsiIPFPB4f_51.914864_4.438433@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"583655c3b46fdabd67d34fec13f5d9e7",
+    "wof:geomhash":"8f36ad780bdd085bd9f799778129b32c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751843,
-            "neighbourhood_id":85859765,
-            "region_id":85687041,
-            "venue_id":320494835
-        },
-        {
-            "continent_id":-1,
+            "borough_id":1108805753,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
             "neighbourhood_id":85798427,
@@ -55,9 +50,9 @@
         }
     ],
     "wof:id":320494835,
-    "wof:lastmodified":1473879341,
+    "wof:lastmodified":1492483020,
     "wof:name":"Serious Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":85798427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

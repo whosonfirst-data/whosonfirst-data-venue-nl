@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7462601662,51.4054756165,5.7462601662,51.4054756165",
     "geom:latitude":51.405476,
     "geom:longitude":5.74626,
@@ -32,17 +33,32 @@
         "restaurant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474347,
+        85633337,
+        101809687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RXWHMNLkCavwMPRoRsnqM_51.405476_5.746260@1306269957"
     },
     "wof:country":"NL",
     "wof:created":1473798650,
-    "wof:geomhash":"9449d04510c200fa3bebe8e8a90bc9fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec90ad11ae6640cf6494326d6c67d3ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474347,
+            "locality_id":101809687,
+            "region_id":85687035,
+            "venue_id":1075809849
+        }
+    ],
     "wof:id":1075809849,
-    "wof:lastmodified":1473878717,
+    "wof:lastmodified":1492485984,
     "wof:name":"Grillroom Pyramide",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

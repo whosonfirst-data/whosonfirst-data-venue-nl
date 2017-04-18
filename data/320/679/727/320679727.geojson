@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.868161,52.360764,4.868161,52.360764",
     "geom:latitude":52.360764,
     "geom:longitude":4.868161,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803959,
+        1108802937,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6DqP4YX7qE09cMOC9iit9W_52.360764_4.868161@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6d9b875fcfb4b2c980bc1be53d08a5fa",
+    "wof:geomhash":"f7985ccb3ce0bce7fb2d2d9295b88d8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803959,
+            "neighbourhood_id":1108802937,
             "region_id":85687053,
             "venue_id":320679727
         }
     ],
     "wof:id":320679727,
-    "wof:lastmodified":1473879527,
+    "wof:lastmodified":1492482997,
     "wof:name":"Revalidatiecentr Amsterdam",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

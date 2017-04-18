@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.830465,52.366425,4.830465,52.366425",
     "geom:latitude":52.366425,
     "geom:longitude":4.830465,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803489,
+        85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1QLCHdUx1lpLkffA7XW8ln_52.366425_4.830465@1306269940"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3b73fd3f37fe33bc212355833eb37ffc",
+    "wof:geomhash":"2472be375f74bbd3c1f77afaa109fb9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803489,
+            "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":236746549
         }
     ],
     "wof:id":236746549,
-    "wof:lastmodified":1473879525,
+    "wof:lastmodified":1492492249,
     "wof:name":"Apart",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

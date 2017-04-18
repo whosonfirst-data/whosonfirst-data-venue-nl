@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.49343,51.957176,4.49343,51.957176",
     "geom:latitude":51.957176,
     "geom:longitude":4.49343,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797707,
+        1108805791,
+        102191581,
+        1108805981,
         85633337,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_4Y8xCd3Nt98NgaThG54alE_51.957176_4.493430@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bf4de77afb55579c2a19719cb5179b79",
+    "wof:geomhash":"fffbc23e6be3dbcab992ba8986464185",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797707,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805791,
             "region_id":85687041,
             "venue_id":303560957
         }
     ],
     "wof:id":303560957,
-    "wof:lastmodified":1473879305,
+    "wof:lastmodified":1492470566,
     "wof:name":"Boutique Celine",
-    "wof:parent_id":85797707,
+    "wof:parent_id":1108805791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

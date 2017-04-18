@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.329062,52.064724,4.329062,52.064724",
     "geom:latitude":52.064724,
     "geom:longitude":4.329062,
@@ -33,31 +34,49 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808315,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xFQw7sKWJiUtwExRdjoL7_52.064724_4.329062@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6c8231c21978ed6db491a520094d416b",
+    "wof:geomhash":"0382ce3949a8a420ee85a391cde84662",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808315,
+            "region_id":85687041,
+            "venue_id":269814967
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808315,
             "region_id":85687041,
             "venue_id":269814967
         }
     ],
     "wof:id":269814967,
-    "wof:lastmodified":1473879513,
+    "wof:lastmodified":1492496708,
     "wof:name":"Chinees Indisch Afhaalcentrum Man Li",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

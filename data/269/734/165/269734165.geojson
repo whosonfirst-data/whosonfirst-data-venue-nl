@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.313354,52.078297,4.313354,52.078297",
     "geom:latitude":52.078297,
     "geom:longitude":4.313354,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808251,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_36iUbbuswSWiR7IstTcxWZ_52.078297_4.313354@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d183c7737fbdd3faad670f801092271a",
+    "wof:geomhash":"836afb7908c1eaba660299d867395e4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808251,
             "region_id":85687041,
             "venue_id":269734165
         }
     ],
     "wof:id":269734165,
-    "wof:lastmodified":1473879357,
+    "wof:lastmodified":1492496352,
     "wof:name":"Bram Ladage Verse Patat",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

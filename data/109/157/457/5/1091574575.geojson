@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7781858444,52.3818817139,5.7781858444,52.3818817139",
     "geom:latitude":52.381882,
     "geom:longitude":5.778186,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.proximare.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473963,
+        85633337,
+        101807123
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JaxdS4Bf5EFmldw4vNaLD_52.381882_5.778186@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800764,
-    "wof:geomhash":"1dc69c5af00f5620e5bc62a5e7803f1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e6df3b15d553fb333854ae1a7cc95e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473963,
+            "locality_id":101807123,
+            "region_id":85687043,
+            "venue_id":1091574575
+        }
+    ],
     "wof:id":1091574575,
-    "wof:lastmodified":1473878792,
+    "wof:lastmodified":1492511078,
     "wof:name":"Proximare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

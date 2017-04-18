@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8769311905,52.4376525879,4.8769311905,52.4376525879",
     "geom:latitude":52.437653,
     "geom:longitude":4.876931,
@@ -24,9 +25,11 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687053,
+        102191581,
+        404474105,
         85633337,
-        85798523,
-        85687053
+        101754851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473798821,
-    "wof:geomhash":"0b621b0b6fb8c54d062f4387cf935113",
+    "wof:geomhash":"ec376476df39ea328b5eb872598fb98a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798523,
+            "localadmin_id":404474105,
+            "locality_id":101754851,
             "region_id":85687053,
             "venue_id":1075813189
         }
     ],
     "wof:id":1075813189,
-    "wof:lastmodified":1473878925,
+    "wof:lastmodified":1492486570,
     "wof:name":"Oostzaan Radio 9, Sticht",
-    "wof:parent_id":85798523,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

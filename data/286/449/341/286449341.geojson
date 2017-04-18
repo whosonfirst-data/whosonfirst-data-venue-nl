@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.910353,52.342159,4.910353,52.342159",
     "geom:latitude":52.342159,
     "geom:longitude":4.910353,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803527,
+        1108802895,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5L8ZlRdyfcfov4HuJqtxsX_52.342159_4.910353@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5087d8f97d19de5683d91c573637f9ef",
+    "wof:geomhash":"a8b36d05bcd65ab0d5b43a5631fec303",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803527,
+            "neighbourhood_id":1108802895,
             "region_id":85687053,
             "venue_id":286449341
         }
     ],
     "wof:id":286449341,
-    "wof:lastmodified":1473879032,
+    "wof:lastmodified":1492477869,
     "wof:name":"Rol & Co",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

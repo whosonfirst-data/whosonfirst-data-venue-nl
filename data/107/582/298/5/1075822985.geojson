@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1308069229,51.9789466858,4.1308069229,51.9789466858",
     "geom:latitude":51.978947,
     "geom:longitude":4.130807,
@@ -23,19 +24,36 @@
     "sg:postcode":"3151 GJ",
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85797461,
+        102191581,
+        85633337,
+        101751843,
+        1108805729,
+        85687041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uAMqf4SStOpjtt9Dn9UOq_51.978947_4.130807@1306270009"
     },
     "wof:country":"NL",
     "wof:created":1473799371,
-    "wof:geomhash":"321d75c1cfe9b87c309121d7c2554cb7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21ead52de477f9847a042050e38c6f20",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108805729,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797461,
+            "region_id":85687041,
+            "venue_id":1075822985
+        }
+    ],
     "wof:id":1075822985,
-    "wof:lastmodified":1473879304,
+    "wof:lastmodified":1492487091,
     "wof:name":"Paassen, C H M Van",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

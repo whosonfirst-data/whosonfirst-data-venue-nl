@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.7415552139,52.6596260071,6.7415552139,52.6596260071",
     "geom:latitude":52.659626,
     "geom:longitude":6.741555,
@@ -23,17 +24,32 @@
     "sg:postcode":"7741 JJ",
     "sg:province":"Drenthe",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473807,
+        85633337,
+        101807741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZUInAMS4EZaqOeeoH9ng9_52.659626_6.741555@1306270019"
     },
     "wof:country":"NL",
     "wof:created":1473804225,
-    "wof:geomhash":"4e6fa01c68284e2bd077ed17474a53a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"154ff78014b5349dec5e3f6eb1e58655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473807,
+            "locality_id":101807741,
+            "region_id":85687051,
+            "venue_id":1091625505
+        }
+    ],
     "wof:id":1091625505,
-    "wof:lastmodified":1473878845,
+    "wof:lastmodified":1492512172,
     "wof:name":"Faas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

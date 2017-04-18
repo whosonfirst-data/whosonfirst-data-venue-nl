@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.836053,52.347691,4.836053,52.347691",
     "geom:latitude":52.347691,
     "geom:longitude":4.836053,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.sigra.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108804277,
+        1108802959,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_5jlf1X4ISCe5XdBAoSnCNH_52.347691_4.836053@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3faea7f19f9712d8be794e51cf65cd0e",
+    "wof:geomhash":"42f4e4fa7545d825fd9144c87bb982dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108804277,
+            "neighbourhood_id":1108802959,
             "region_id":85687053,
             "venue_id":186503111
         }
     ],
     "wof:id":186503111,
-    "wof:lastmodified":1473879528,
+    "wof:lastmodified":1492507819,
     "wof:name":"Sigra",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

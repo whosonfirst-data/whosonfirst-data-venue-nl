@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.135395,52.06535,5.135395,52.06535",
     "geom:latitude":52.06535,
     "geom:longitude":5.135395,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859943,
+        1108808795,
+        102191581,
+        1108832363,
         85633337,
+        101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_40EMoS70W1ebAKzJ1clBPW_52.065350_5.135395@1306269981"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f449f561a1e3af53add465d66e973f41",
+    "wof:geomhash":"4aba2137d622285f6a38d12b6dc9cc2f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859943,
+            "locality_id":101751827,
+            "macrohood_id":1108832363,
+            "neighbourhood_id":1108808795,
             "region_id":85687039,
             "venue_id":303191693
         }
     ],
     "wof:id":303191693,
-    "wof:lastmodified":1473878871,
+    "wof:lastmodified":1492473645,
     "wof:name":"Pro-Sport",
-    "wof:parent_id":85859943,
+    "wof:parent_id":1108808795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3450489044,51.9268302917,6.3450489044,51.9268302917",
     "geom:latitude":51.92683,
     "geom:longitude":6.345049,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.rogo.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473885,
+        85633337,
+        101837791
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oYlZWv59pwIFiOoENZnme_51.926830_6.345049@1306270009"
     },
     "wof:country":"NL",
     "wof:created":1473799391,
-    "wof:geomhash":"9430171aa23b542762da75ba1a97c284",
-    "wof:hierarchy":[],
+    "wof:geomhash":"724b8ff28614800ea2e0d779ddf56bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473885,
+            "locality_id":101837791,
+            "region_id":85687043,
+            "venue_id":1075823265
+        }
+    ],
     "wof:id":1075823265,
-    "wof:lastmodified":1473879337,
+    "wof:lastmodified":1492487131,
     "wof:name":"Rogo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

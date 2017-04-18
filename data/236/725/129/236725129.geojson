@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.911522,52.357037,4.911522,52.357037",
     "geom:latitude":52.357037,
     "geom:longitude":4.911522,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803279,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5MR2Q4W4lCvuPG2aIMPhYY_52.357037_4.911522@1306269940"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3080c59021c212dbf797101502107c25",
+    "wof:geomhash":"48c17b46accb107330a3c27c74af834a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803279,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":236725129
         }
     ],
     "wof:id":236725129,
-    "wof:lastmodified":1473879518,
+    "wof:lastmodified":1492492955,
     "wof:name":"Professional Car Care",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

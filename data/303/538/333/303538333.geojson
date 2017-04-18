@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.85332,52.38158,4.85332,52.38158",
     "geom:latitude":52.38158,
     "geom:longitude":4.85332,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803867,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_11QoevR85hVgmnPNBb8RPm_52.381580_4.853320@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c0a3447a76a13deca73ddc479aba5b91",
+    "wof:geomhash":"382da929132c622fb26cb31accfeb01e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803867,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":303538333
         }
     ],
     "wof:id":303538333,
-    "wof:lastmodified":1473879294,
+    "wof:lastmodified":1492470474,
     "wof:name":"Btr Service",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803867,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

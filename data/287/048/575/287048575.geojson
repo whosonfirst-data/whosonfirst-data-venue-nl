@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.513388,51.925362,4.513388,51.925362",
     "geom:latitude":51.925362,
     "geom:longitude":4.513388,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805803,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6jTz2cqE2qIbbB1z5aIyWR_51.925362_4.513388@1306269976"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dcd30cbc5c2762a6436904ed2212bb74",
+    "wof:geomhash":"1a3d4e236d964780614687ec464150df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805803,
             "region_id":85687041,
             "venue_id":287048575
         }
     ],
     "wof:id":287048575,
-    "wof:lastmodified":1473878657,
+    "wof:lastmodified":1492514152,
     "wof:name":"Euroflower",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

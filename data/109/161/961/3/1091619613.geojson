@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9182829857,52.4308166504,4.9182829857,52.4308166504",
     "geom:latitude":52.430817,
     "geom:longitude":4.918283,
@@ -24,9 +25,11 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687053,
+        102191581,
+        404474091,
         85633337,
-        85798523,
-        85687053
+        101754829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473803895,
-    "wof:geomhash":"ecb008efc6e22c5c976b0f615d3142dc",
+    "wof:geomhash":"8eef58c21deb78a94c55d22fd860f808",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798523,
+            "localadmin_id":404474091,
+            "locality_id":101754829,
             "region_id":85687053,
             "venue_id":1091619613
         }
     ],
     "wof:id":1091619613,
-    "wof:lastmodified":1473879059,
+    "wof:lastmodified":1492510483,
     "wof:name":"Barbershop Ronald",
-    "wof:parent_id":85798523,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

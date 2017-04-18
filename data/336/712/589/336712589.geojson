@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.285568,52.105473,4.285568,52.105473",
     "geom:latitude":52.105473,
     "geom:longitude":4.285568,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808169,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_2P9LDY6J84YH6OAqqzF80j_52.105473_4.285568@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"870f7de074422bc3b57e02780b7eb50d",
+    "wof:geomhash":"6045ee53d51d04cc489594d1b9f13f05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808169,
             "region_id":85687041,
             "venue_id":336712589
         }
     ],
     "wof:id":336712589,
-    "wof:lastmodified":1473878418,
+    "wof:lastmodified":1492506523,
     "wof:name":"Accountantskantoor Drs. P.Chr. Letzer",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.87084,52.355495,4.87084,52.355495",
     "geom:latitude":52.355495,
     "geom:longitude":4.87084,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.nieuwpoort.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803475,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_1gI7Jdblh3NEF1zNpWCPaH_52.355495_4.870840@1306270007"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a36ec668daf06b8913a41072205e7fe0",
+    "wof:geomhash":"5c82ce559396f6ec9dddef3fa635099b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803475,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":336930853
         }
     ],
     "wof:id":336930853,
-    "wof:lastmodified":1473878469,
+    "wof:lastmodified":1492506421,
     "wof:name":"Nieuwpoort Van Hees, Van",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9954781532,53.3315696716,5.9954781532,53.3315696716",
     "geom:latitude":53.33157,
     "geom:longitude":5.995478,
@@ -24,17 +25,32 @@
     "sg:province":"Provincie Friesland",
     "sg:website":"http://www.tocs.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687055,
+        102191581,
+        404473755,
+        85633337,
+        101806131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4I3IMHTip5l1UpNwkI6VrU_53.331570_5.995478@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800823,
-    "wof:geomhash":"8a8a7be1fbfecf70b6685f4d8596f063",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc80039d00ad95867cfc5b210716b680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473755,
+            "locality_id":101806131,
+            "region_id":85687055,
+            "venue_id":1091575427
+        }
+    ],
     "wof:id":1091575427,
-    "wof:lastmodified":1473878884,
+    "wof:lastmodified":1492511348,
     "wof:name":"Tocs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

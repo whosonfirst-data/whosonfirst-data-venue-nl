@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.897666,52.371769,4.897666,52.371769",
     "geom:latitude":52.371769,
     "geom:longitude":4.897666,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803883,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_71x8f8N8Iveq5gB0mIbfU8_52.371769_4.897666@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0d1584b336c51f13394b75bf3066ef40",
+    "wof:geomhash":"eaced4158589f1082c011ba180012a4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803883,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":236354941
         }
     ],
     "wof:id":236354941,
-    "wof:lastmodified":1473879208,
+    "wof:lastmodified":1492494334,
     "wof:name":"Architectenburo Beckeringh Van Loenen En Roth",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

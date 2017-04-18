@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.797053,52.374439,4.797053,52.374439",
     "geom:latitude":52.374439,
     "geom:longitude":4.797053,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803619,
         85797579,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_45Dfi75VofOca2qP1XHORH_52.374439_4.797053@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9bd57103665e38ebe7d42b6ba9eedcd3",
+    "wof:geomhash":"b7da338ef9ece2f7b715523e2b1166b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803619,
             "neighbourhood_id":85797579,
             "region_id":85687053,
             "venue_id":286491369
         }
     ],
     "wof:id":286491369,
-    "wof:lastmodified":1473879124,
+    "wof:lastmodified":1492478100,
     "wof:name":"Lange, H H De",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108803619,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.849643,52.35017,4.849643,52.35017",
     "geom:latitude":52.35017,
     "geom:longitude":4.849643,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803473,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1ksLeBCJ1r62TashMFkFRA_52.350170_4.849643@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"59c2590d0b1a350214ba6cebb68ab7f2",
+    "wof:geomhash":"27b933fff2e72e0fa4d300d227d9ed5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803473,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":252821847
         }
     ],
     "wof:id":252821847,
-    "wof:lastmodified":1473878570,
+    "wof:lastmodified":1492505466,
     "wof:name":"Rvr Amsterdam",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

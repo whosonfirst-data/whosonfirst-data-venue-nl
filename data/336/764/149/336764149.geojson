@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.892975,52.411407,4.892975,52.411407",
     "geom:latitude":52.411407,
     "geom:longitude":4.892975,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803211,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6PvP1IfoNaDW0euaBomdwD_52.411407_4.892975@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8b670b12957daeb7a4a8f7254a50bd56",
+    "wof:geomhash":"ee7a19c5ac38faf2052abf747e4a9222",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803211,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":336764149
         }
     ],
     "wof:id":336764149,
-    "wof:lastmodified":1473878420,
+    "wof:lastmodified":1492505864,
     "wof:name":"Ligthart, N",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

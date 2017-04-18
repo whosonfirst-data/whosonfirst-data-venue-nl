@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.857471,52.350315,4.857471,52.350315",
     "geom:latitude":52.350315,
     "geom:longitude":4.857471,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803373,
+        1108802963,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6p9QIpY7587yaQswkwOI3c_52.350315_4.857471@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"40881955a70056858ab0784bf017262e",
+    "wof:geomhash":"65d6f6c1f1ed138ca7d88548b396b22b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803373,
+            "neighbourhood_id":1108802963,
             "region_id":85687053,
             "venue_id":236038223
         }
     ],
     "wof:id":236038223,
-    "wof:lastmodified":1473878595,
+    "wof:lastmodified":1492494388,
     "wof:name":"Cafe De Blauwe Reiger",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803373,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

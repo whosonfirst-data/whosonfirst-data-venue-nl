@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884802,52.422115,4.884802,52.422115",
     "geom:latitude":52.422115,
     "geom:longitude":4.884802,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803845,
+        1108802883,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_65aC1U4XIYF1ItjbbUvHfC_52.422115_4.884802@1306269920"
     },
     "wof:country":"NL",
-    "wof:geomhash":"50eb3b05efa2d53a565ff7100877da16",
+    "wof:geomhash":"936cc71d161baca37ee8106e09d03315",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803845,
+            "neighbourhood_id":1108802883,
             "region_id":85687053,
             "venue_id":203051593
         }
     ],
     "wof:id":203051593,
-    "wof:lastmodified":1473878670,
+    "wof:lastmodified":1492481029,
     "wof:name":"Wijnsma",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

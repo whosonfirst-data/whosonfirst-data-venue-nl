@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.479753,51.930458,4.479753,51.930458",
     "geom:latitude":51.930458,
     "geom:longitude":4.479753,
@@ -29,9 +30,11 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859837,
+        85859845,
+        102191581,
         85633337,
         101751843,
+        1108804843,
         85687041
     ],
     "wof:breaches":[],
@@ -39,21 +42,22 @@
         "sg:id":"SG_0bdfHk63zbuowAtbLOscbn_51.930458_4.479753@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"46189b227b3155422833324f9c635fc5",
+    "wof:geomhash":"e7cacfc8179138ffdaabaabda4a50c02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108804843,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859837,
+            "neighbourhood_id":85859845,
             "region_id":85687041,
             "venue_id":270464723
         }
     ],
     "wof:id":270464723,
-    "wof:lastmodified":1473879263,
+    "wof:lastmodified":1492500836,
     "wof:name":"?T Kabinet",
-    "wof:parent_id":85859837,
+    "wof:parent_id":85859845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

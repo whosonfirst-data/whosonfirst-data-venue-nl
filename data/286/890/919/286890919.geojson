@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.888143,52.363525,4.888143,52.363525",
     "geom:latitude":52.363525,
     "geom:longitude":4.888143,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803665,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_55T86lz6DokUqvCUEHGnQG_52.363525_4.888143@1306269974"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4618f427b2bc8a1b182108286ae7858c",
+    "wof:geomhash":"902f56d2644f52306cfb9c4e82b517ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803665,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":286890919
         }
     ],
     "wof:id":286890919,
-    "wof:lastmodified":1473879677,
+    "wof:lastmodified":1492476302,
     "wof:name":"De Kelk",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

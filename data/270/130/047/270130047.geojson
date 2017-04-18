@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.894483,52.363873,4.894483,52.363873",
     "geom:latitude":52.363873,
     "geom:longitude":4.894483,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803687,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_41XIkJDvGPCKJbKcPTNr5m_52.363873_4.894483@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7ee57126688588ea10643a1f5a04fb36",
+    "wof:geomhash":"b6f8486976871fa70d650dcd0526f820",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803687,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":270130047
         }
     ],
     "wof:id":270130047,
-    "wof:lastmodified":1473878629,
+    "wof:lastmodified":1492499523,
     "wof:name":"Wolf Prod",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

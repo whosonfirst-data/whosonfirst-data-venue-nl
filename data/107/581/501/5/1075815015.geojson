@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8416647911,52.4288825989,4.8416647911,52.4288825989",
     "geom:latitude":52.428883,
     "geom:longitude":4.841665,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.shurgard.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474143,
+        85633337,
+        101751901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uvtrwVCAMruxvcfUwcenI_52.428883_4.841665@1306270008"
     },
     "wof:country":"NL",
     "wof:created":1473798890,
-    "wof:geomhash":"52f2aeab049c40b3e90e741991e32bf5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dab22e7787717dac67a046e8d4d092f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474143,
+            "locality_id":101751901,
+            "region_id":85687053,
+            "venue_id":1075815015
+        }
+    ],
     "wof:id":1075815015,
-    "wof:lastmodified":1473878989,
+    "wof:lastmodified":1492486543,
     "wof:name":"Shurgard Zaandam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

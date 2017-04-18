@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.332963,52.069675,4.332963,52.069675",
     "geom:latitude":52.069675,
     "geom:longitude":4.332963,
@@ -25,10 +26,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859633,
+        102191581,
+        1108808077,
         85633337,
         101752763,
+        1108808049,
         85687041,
-        85859623,
+        404474251,
         101754743
     ],
     "wof:breaches":[],
@@ -36,29 +40,34 @@
         "sg:id":"SG_3gGDsVgHmFPvuodYyW0xmH_52.069675_4.332963@1306269940"
     },
     "wof:country":"NL",
-    "wof:geomhash":"403cd1712a46814c0ff361b885deac1b",
+    "wof:geomhash":"1db11da626c7d9fd31cbaed5568c3a74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808077,
             "neighbourhood_id":85859633,
             "region_id":85687041,
             "venue_id":236687569
         },
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808077,
+            "neighbourhood_id":85859633,
             "region_id":85687041,
             "venue_id":236687569
         }
     ],
     "wof:id":236687569,
-    "wof:lastmodified":1473879478,
+    "wof:lastmodified":1492492850,
     "wof:name":"Vof Smit Demontagebedrijf",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

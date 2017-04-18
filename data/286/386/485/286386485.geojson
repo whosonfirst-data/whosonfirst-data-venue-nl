@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.942821,52.310081,4.942821,52.310081",
     "geom:latitude":52.310081,
     "geom:longitude":4.942821,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.dpmgroup.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797113,
+        1108803677,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_4Y6kvHyC6ARKY1yDVBB7Pz_52.310081_4.942821@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6b8cfe74aa3224749ae6accca43f439d",
+    "wof:geomhash":"22ceac133f2197a53716b51e8e65271c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797113,
+            "locality_id":101751893,
+            "microhood_id":1108803677,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":286386485
         }
     ],
     "wof:id":286386485,
-    "wof:lastmodified":1473878920,
+    "wof:lastmodified":1492478137,
     "wof:name":"Dpm",
-    "wof:parent_id":85797113,
+    "wof:parent_id":1108803677,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

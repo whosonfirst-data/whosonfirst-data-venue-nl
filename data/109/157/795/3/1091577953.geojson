@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0362868309,52.0769805908,5.0362868309,52.0769805908",
     "geom:latitude":52.076981,
     "geom:longitude":5.036287,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808715,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808673,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473801053,
-    "wof:geomhash":"5a95352ead89fd5f904128bd4fb84af3",
+    "wof:geomhash":"eea082e1b37238b817bdeec55b02cd92",
     "wof:hierarchy":[
         {
+            "borough_id":1108808673,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808715,
             "region_id":85687039,
             "venue_id":1091577953
         }
     ],
     "wof:id":1091577953,
-    "wof:lastmodified":1473879014,
+    "wof:lastmodified":1492511164,
     "wof:name":"Casco Tuin",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

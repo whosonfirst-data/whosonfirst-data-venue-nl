@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.894523,52.376625,4.894523,52.376625",
     "geom:latitude":52.376625,
     "geom:longitude":4.894523,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.embhotels.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803337,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_5J66BKiGytm0nfEqd6AOM9_52.376625_4.894523@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"190ebee69a13a5a8f9050d5afb468404",
+    "wof:geomhash":"0accc44d2ed76908150442c1e4f1baf0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803337,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":304046011
         }
     ],
     "wof:id":304046011,
-    "wof:lastmodified":1473878716,
+    "wof:lastmodified":1492504360,
     "wof:name":"Avenue Hotel",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803337,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

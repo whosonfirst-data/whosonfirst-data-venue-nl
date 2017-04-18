@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.907377,52.34396,4.907377,52.34396",
     "geom:latitude":52.34396,
     "geom:longitude":4.907377,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803613,
+        1108802895,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4hnhnZBLB8P4xp8murVKQi_52.343960_4.907377@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e1ebd7a77e1e8bc7f0df26372f43430e",
+    "wof:geomhash":"ac1b62bb930857f69f40f534c2859a32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803613,
+            "neighbourhood_id":1108802895,
             "region_id":85687053,
             "venue_id":220004313
         }
     ],
     "wof:id":220004313,
-    "wof:lastmodified":1473878487,
+    "wof:lastmodified":1492481673,
     "wof:name":"Monumenten Begeleiding A'Dam",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

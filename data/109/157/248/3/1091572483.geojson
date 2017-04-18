@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5300998688,52.3760032654,4.5300998688,52.3760032654",
     "geom:latitude":52.376003,
     "geom:longitude":4.5301,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.dwebs.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474135,
+        85633337,
+        101808813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JpdsnIgQBEUJ983iJ0QnV_52.376003_4.530100@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800633,
-    "wof:geomhash":"309b7ab27739b64a5596b41a987ddbb6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e616fcf4ddf8b17aefdb59d88cffe9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474135,
+            "locality_id":101808813,
+            "region_id":85687053,
+            "venue_id":1091572483
+        }
+    ],
     "wof:id":1091572483,
-    "wof:lastmodified":1473878609,
+    "wof:lastmodified":1492511295,
     "wof:name":"Dwebs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

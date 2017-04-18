@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.237003,52.046631,4.237003,52.046631",
     "geom:latitude":52.046631,
     "geom:longitude":4.237003,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859581,
+        85797849,
+        102191581,
+        1108808101,
         85633337,
         101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2w1VlAE3wTIz56BxwV72qb_52.046631_4.237003@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5d8f7b23df62f54b19104b21ded9bd5d",
+    "wof:geomhash":"a7ffba15325c45cf059e1f9d5f4f4eb3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859581,
+            "macrohood_id":1108808101,
+            "neighbourhood_id":85797849,
             "region_id":85687041,
             "venue_id":287170547
         }
     ],
     "wof:id":287170547,
-    "wof:lastmodified":1473878924,
+    "wof:lastmodified":1492513304,
     "wof:name":"Exportmedia",
-    "wof:parent_id":85859581,
+    "wof:parent_id":85797849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

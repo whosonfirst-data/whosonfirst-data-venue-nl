@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6917529106,52.3035888672,4.6917529106,52.3035888672",
     "geom:latitude":52.303589,
     "geom:longitude":4.691753,
@@ -23,17 +24,32 @@
     "sg:postcode":"2132 DP",
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474065,
+        85633337,
+        101751899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63oSbTNyArs6QEewxLbpYx_52.303589_4.691753@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803884,
-    "wof:geomhash":"f2e8e4d0547a5373c36cbad9edd66672",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03245c85c2b8fdd00001ae15616fbfd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474065,
+            "locality_id":101751899,
+            "region_id":85687053,
+            "venue_id":1091619409
+        }
+    ],
     "wof:id":1091619409,
-    "wof:lastmodified":1473879051,
+    "wof:lastmodified":1492510761,
     "wof:name":"Avenue Kappers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9131,52.356205,4.9131,52.356205",
     "geom:latitude":52.356205,
     "geom:longitude":4.9131,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803403,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_4RFxg7RRkEtX7jQHjH7boh_52.356205_4.913100@1306269967"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ab9f00ff92cc60fbb13cb6f5197cba03",
+    "wof:geomhash":"93ccb0bac18b3b60bf630d2c3b13b15f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803403,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":286264903
         }
     ],
     "wof:id":286264903,
-    "wof:lastmodified":1473878495,
+    "wof:lastmodified":1492477488,
     "wof:name":"Louise De Colignyschool",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803403,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

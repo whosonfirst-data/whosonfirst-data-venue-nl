@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.538584,51.953407,4.538584,51.953407",
     "geom:latitude":51.953407,
     "geom:longitude":4.538584,
@@ -24,31 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Yh2BStt31oGjuaiYSDHpH_51.953407_4.538584@1306269984"
     },
     "wof:country":"NL",
-    "wof:geomhash":"45a1c23bba02cc8e2f2eb53590960923",
+    "wof:geomhash":"eda4ca82856aba37b78f81a834be167f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":303496669
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":303496669
         }
     ],
     "wof:id":303496669,
-    "wof:lastmodified":1473879189,
+    "wof:lastmodified":1492471491,
     "wof:name":"Alexanderstad, Tennis Ver",
-    "wof:parent_id":85798329,
+    "wof:parent_id":85798149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

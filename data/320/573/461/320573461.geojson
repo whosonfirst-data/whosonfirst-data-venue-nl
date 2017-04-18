@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.427948,51.931248,4.427948,51.931248",
     "geom:latitude":51.931248,
     "geom:longitude":4.427948,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798219,
+        1108805669,
+        1108805799,
+        102191581,
         85633337,
-        101753095,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_4LXC3NthmSx5WSHkdUiPKl_51.931248_4.427948@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3064e5c16b74172b3ca2f8d33ea274dc",
+    "wof:geomhash":"3c88a71b659b336c74073917bd2d06ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85798219,
+            "locality_id":101751843,
+            "microhood_id":1108805669,
+            "neighbourhood_id":1108805799,
             "region_id":85687041,
             "venue_id":320573461
         }
     ],
     "wof:id":320573461,
-    "wof:lastmodified":1473879424,
+    "wof:lastmodified":1492484690,
     "wof:name":"Sun Emer",
-    "wof:parent_id":85798219,
+    "wof:parent_id":1108805669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

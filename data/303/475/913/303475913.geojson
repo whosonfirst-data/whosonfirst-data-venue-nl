@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.807686,52.348602,4.807686,52.348602",
     "geom:latitude":52.348602,
     "geom:longitude":4.807686,
@@ -34,9 +35,12 @@
     "sg:website":"http://www.pacificdiving.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803315,
+        1108802901,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_3BpQMEbyzdeLk80cW9f4lT_52.348602_4.807686@1306269984"
     },
     "wof:country":"NL",
-    "wof:geomhash":"352ea0abd9e8d1658b8d4f3aea999fd3",
+    "wof:geomhash":"c2a53adb19f5486890bd8ee175ac9ff4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803315,
+            "neighbourhood_id":1108802901,
             "region_id":85687053,
             "venue_id":303475913
         }
     ],
     "wof:id":303475913,
-    "wof:lastmodified":1473879204,
+    "wof:lastmodified":1492472938,
     "wof:name":"Pacific Diving",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

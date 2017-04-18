@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.281399,52.111763,4.281399,52.111763",
     "geom:latitude":52.111763,
     "geom:longitude":4.281399,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808165,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_4VFrkQCRHlSQbRLrO0jAg3_52.111763_4.281399@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2d42e9de8625e9a871ba1035538d3719",
+    "wof:geomhash":"e3385badb6c0023029fe4b83b0cb6e5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808165,
             "region_id":85687041,
             "venue_id":336723071
         }
     ],
     "wof:id":336723071,
-    "wof:lastmodified":1473878411,
+    "wof:lastmodified":1492506752,
     "wof:name":"Bdo Campsobers",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

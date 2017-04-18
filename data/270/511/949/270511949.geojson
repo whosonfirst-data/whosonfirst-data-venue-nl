@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876201,52.343098,4.876201,52.343098",
     "geom:latitude":52.343098,
     "geom:longitude":4.876201,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803943,
+        1108802919,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_5ZHc1VSRfbFA2ptpsIGhuN_52.343098_4.876201@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d170d417bf52b2445963351760a62dc0",
+    "wof:geomhash":"ed83c26fbe47de13c2929a8d4fd0cc8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108803943,
+            "neighbourhood_id":1108802919,
             "region_id":85687053,
             "venue_id":270511949
         }
     ],
     "wof:id":270511949,
-    "wof:lastmodified":1473879369,
+    "wof:lastmodified":1492500207,
     "wof:name":"De Voorvogels",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

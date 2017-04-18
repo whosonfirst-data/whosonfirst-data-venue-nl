@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.16877985,52.0366172791,5.16877985,52.0366172791",
     "geom:latitude":52.036617,
     "geom:longitude":5.16878,
@@ -24,9 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687039,
+        102191581,
+        404473987,
         85633337,
-        85859943,
-        85687039
+        101807003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473799063,
-    "wof:geomhash":"3bf3d19f78887f4621f431c9cbc086ca",
+    "wof:geomhash":"891946ef0c9ada390074eaae745db5a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85859943,
+            "localadmin_id":404473987,
+            "locality_id":101807003,
             "region_id":85687039,
             "venue_id":1075818749
         }
     ],
     "wof:id":1075818749,
-    "wof:lastmodified":1473879093,
+    "wof:lastmodified":1492486436,
     "wof:name":"Oogcentrum Houten",
-    "wof:parent_id":85859943,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

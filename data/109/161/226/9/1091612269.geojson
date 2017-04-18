@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7915248871,52.541885376,4.7915248871,52.541885376",
     "geom:latitude":52.541885,
     "geom:longitude":4.791525,
@@ -24,17 +25,30 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.o-triple-s.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474035,
+        85633337,
+        85687053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_442KAYqlpdFRmZNXeOn5kE_52.541885_4.791525@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803536,
-    "wof:geomhash":"9ba9ede0fd6f7d99472a6c46165392ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd5df30300d3065bdc0da479f9906453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474035,
+            "region_id":85687053,
+            "venue_id":1091612269
+        }
+    ],
     "wof:id":1091612269,
-    "wof:lastmodified":1473878590,
+    "wof:lastmodified":1492510772,
     "wof:name":"O-Triple-S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.919006,52.357201,4.919006,52.357201",
     "geom:latitude":52.357201,
     "geom:longitude":4.919006,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803833,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6jRPX24ey5QpKKLIQPnme5_52.357201_4.919006@1306269939"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6d53bd943a44df061e6c9551423c6159",
+    "wof:geomhash":"e0f2e6e3ea93b9b1e997aafb9aa1c32a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803833,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":236571827
         }
     ],
     "wof:id":236571827,
-    "wof:lastmodified":1473879440,
+    "wof:lastmodified":1492493965,
     "wof:name":"Garage J. Fock",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.300093,52.081322,4.300093,52.081322",
     "geom:latitude":52.081322,
     "geom:longitude":4.300093,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6CxeYgISx3T5dHJzFc9qna_52.081322_4.300093@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a54ad8cb33e3b68d08bdc8de792e7a54",
+    "wof:geomhash":"4637bab51f1fbb7900057d1f19056a53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":185941151
         }
     ],
     "wof:id":185941151,
-    "wof:lastmodified":1473878945,
+    "wof:lastmodified":1492487912,
     "wof:name":"Tollenshof",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4304709435,51.8513412476,5.4304709435,51.8513412476",
     "geom:latitude":51.851341,
     "geom:longitude":5.430471,
@@ -33,17 +34,32 @@
         "week-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474305,
+        85633337,
+        101808669
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GEU4jhBvzDILTW4bPJ3qg_51.851341_5.430471@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800871,
-    "wof:geomhash":"f4b51f38ef86b2239089af33d91c8c7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d14274f1f860c959f03fe228595e6bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474305,
+            "locality_id":101808669,
+            "region_id":85687043,
+            "venue_id":1091576501
+        }
+    ],
     "wof:id":1091576501,
-    "wof:lastmodified":1473878922,
+    "wof:lastmodified":1492511427,
     "wof:name":"Dreumel Weekblad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

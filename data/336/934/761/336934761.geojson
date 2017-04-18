@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.548712,51.939156,4.548712,51.939156",
     "geom:latitude":51.939156,
     "geom:longitude":4.548712,
@@ -24,41 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        1108805851,
+        102191581,
         85633337,
-        101752769,
+        101751843,
+        1108805725,
         85687041,
-        85797899,
-        101753095
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63amubuysqWAvImywc0pny_51.939156_4.548712@1306270007"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dac72b5ac60f83fbf6f2d46bd540c773",
+    "wof:geomhash":"d2ad2ec8e219d59155f8662c9b7f22b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805851,
             "region_id":85687041,
             "venue_id":336934761
         },
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85797899,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805851,
             "region_id":85687041,
             "venue_id":336934761
         }
     ],
     "wof:id":336934761,
-    "wof:lastmodified":1473878480,
+    "wof:lastmodified":1492506581,
     "wof:name":"Resto Mickeys",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108805851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

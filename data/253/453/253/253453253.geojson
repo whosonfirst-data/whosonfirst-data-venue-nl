@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.263339,52.084957,4.263339,52.084957",
     "geom:latitude":52.084957,
     "geom:longitude":4.263339,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797483,
+        85798595,
+        102191581,
+        1108808131,
         85633337,
+        101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_3aN7FBTYclGlPw2ZFW0QRG_52.084957_4.263339@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"05b97bdce579c2a59df3aa41ac668006",
+    "wof:geomhash":"d4c3c6d07f5b8b95a57bfaf7a5302e53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797483,
+            "locality_id":101752763,
+            "macrohood_id":1108808131,
+            "neighbourhood_id":85798595,
             "region_id":85687041,
             "venue_id":253453253
         }
     ],
     "wof:id":253453253,
-    "wof:lastmodified":1473879621,
+    "wof:lastmodified":1492488458,
     "wof:name":"A.E. Schorsij",
-    "wof:parent_id":85797483,
+    "wof:parent_id":85798595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

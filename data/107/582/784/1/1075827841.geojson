@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6908450127,51.4749107361,5.6908450127,51.4749107361",
     "geom:latitude":51.474911,
     "geom:longitude":5.690845,
@@ -23,17 +24,32 @@
     "sg:postcode":"5709 BT",
     "sg:province":"North Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474389,
+        85633337,
+        101808259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49G5IhM1qG6Y0LOKxClCMH_51.474911_5.690845@1306270010"
     },
     "wof:country":"NL",
     "wof:created":1473799662,
-    "wof:geomhash":"31a3dbc0b9a54af3153749efc5bed9ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af4585428640b6a89257e0ac17864629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474389,
+            "locality_id":101808259,
+            "region_id":85687035,
+            "venue_id":1075827841
+        }
+    ],
     "wof:id":1075827841,
-    "wof:lastmodified":1473879507,
+    "wof:lastmodified":1492487004,
     "wof:name":"De Brem",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

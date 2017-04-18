@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0849471092,52.0840492249,5.0849471092,52.0840492249",
     "geom:latitude":52.084049,
     "geom:longitude":5.084947,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         85798153,
+        102191581,
+        85633337,
+        101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -34,17 +38,20 @@
     },
     "wof:country":"NL",
     "wof:created":1473800580,
-    "wof:geomhash":"47491e6ae9b2f36165eb5daee78d632a",
+    "wof:geomhash":"cdba05732b84a565b1913d389b649a99",
     "wof:hierarchy":[
         {
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751827,
             "neighbourhood_id":85798153,
             "region_id":85687039,
             "venue_id":1091571571
         }
     ],
     "wof:id":1091571571,
-    "wof:lastmodified":1473878550,
+    "wof:lastmodified":1492511269,
     "wof:name":"B-Dazzl",
     "wof:parent_id":85798153,
     "wof:placetype":"venue",

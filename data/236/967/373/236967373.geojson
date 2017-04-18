@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.513944,51.925285,4.513944,51.925285",
     "geom:latitude":51.925285,
     "geom:longitude":4.513944,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805803,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6baDatSzBNsp4rXv0T54f5_51.925285_4.513944@1306269942"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b60fabc34f8a568c0a435880dcec22bd",
+    "wof:geomhash":"613e93c055751398f3d07557490a958c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805803,
             "region_id":85687041,
             "venue_id":236967373
         }
     ],
     "wof:id":236967373,
-    "wof:lastmodified":1473879633,
+    "wof:lastmodified":1492492834,
     "wof:name":"Ruseler",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

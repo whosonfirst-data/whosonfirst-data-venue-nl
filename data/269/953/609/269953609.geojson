@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893508,52.379803,4.893508,52.379803",
     "geom:latitude":52.379803,
     "geom:longitude":4.893508,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803261,
+        1108802819,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4JQajNXlUk6IknIvrVebzp_52.379803_4.893508@1306269959"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bf3bd7673c2df36c1f2d0e2cfffa22a7",
+    "wof:geomhash":"ac26b2d1ad4d1460fc88707eb8ff1844",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803261,
+            "neighbourhood_id":1108802819,
             "region_id":85687053,
             "venue_id":269953609
         }
     ],
     "wof:id":269953609,
-    "wof:lastmodified":1473879584,
+    "wof:lastmodified":1492495368,
     "wof:name":"Shop 30",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

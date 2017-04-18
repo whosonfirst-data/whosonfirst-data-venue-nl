@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.494487,51.958607,4.494487,51.958607",
     "geom:latitude":51.958607,
     "geom:longitude":4.494487,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797723,
+        1108805791,
+        102191581,
+        1108805981,
         85633337,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6mBVUe5JzO9nb59c9CrcEb_51.958607_4.494487@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a6133e5880f576f61553304f37cda6ac",
+    "wof:geomhash":"3cf964d332edb99b844daecebd03dbf5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797723,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805791,
             "region_id":85687041,
             "venue_id":286752061
         }
     ],
     "wof:id":286752061,
-    "wof:lastmodified":1473879537,
+    "wof:lastmodified":1492477578,
     "wof:name":"Van Eijk",
-    "wof:parent_id":85797723,
+    "wof:parent_id":1108805791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

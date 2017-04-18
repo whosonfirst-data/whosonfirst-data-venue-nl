@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.575341,51.94165,4.575341,51.94165",
     "geom:latitude":51.94165,
     "geom:longitude":4.575341,
@@ -25,8 +26,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798375,
+        102191581,
+        404474163,
         85633337,
-        101753095,
         85687041,
         85797247,
         101754669
@@ -36,19 +38,20 @@
         "sg:id":"SG_31VY7xHwnyJX3xdbzVMhjd_51.941650_4.575341@1306269953"
     },
     "wof:country":"NL",
-    "wof:geomhash":"be35f72964dff450756642197b8f4baf",
+    "wof:geomhash":"89160075115257913681d7ca5806e45b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
+            "localadmin_id":404474163,
             "neighbourhood_id":85798375,
             "region_id":85687041,
             "venue_id":269491577
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101754669,
             "neighbourhood_id":85797247,
             "region_id":85687041,
@@ -56,9 +59,9 @@
         }
     ],
     "wof:id":269491577,
-    "wof:lastmodified":1473878533,
+    "wof:lastmodified":1492496808,
     "wof:name":"Dijkshoorn, R",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

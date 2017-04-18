@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3150749207,52.0535469055,4.3150749207,52.0535469055",
     "geom:latitude":52.053547,
     "geom:longitude":4.315075,
@@ -26,10 +27,13 @@
     "wof:belongsto":[
         85798433,
         102191581,
-        404474251,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,20 +41,32 @@
     },
     "wof:country":"NL",
     "wof:created":1473804634,
-    "wof:geomhash":"8ff9685f23794d13b4b56ed29c4cfede",
+    "wof:geomhash":"aaf8483674fd3b66ed96b1da31c3eba3",
     "wof:hierarchy":[
         {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":85798433,
+            "region_id":85687041,
+            "venue_id":1091631317
+        },
+        {
+            "borough_id":1108808049,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474251,
             "locality_id":101754743,
+            "macrohood_id":1108808103,
             "neighbourhood_id":85798433,
             "region_id":85687041,
             "venue_id":1091631317
         }
     ],
     "wof:id":1091631317,
-    "wof:lastmodified":1473878445,
+    "wof:lastmodified":1492510088,
     "wof:name":"Intercoiffeur Giuseppe",
     "wof:parent_id":85798433,
     "wof:placetype":"venue",

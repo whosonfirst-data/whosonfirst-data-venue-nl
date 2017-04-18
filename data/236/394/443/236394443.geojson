@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881963,52.363914,4.881963,52.363914",
     "geom:latitude":52.363914,
     "geom:longitude":4.881963,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804255,
+        1108802791,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1z1jLdGPXcOJawej9c00gu_52.363914_4.881963@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ec2ba1ab288dcbace799c5972831abba",
+    "wof:geomhash":"5ba543786e4b5b3e14a2546385029a0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804255,
+            "neighbourhood_id":1108802791,
             "region_id":85687053,
             "venue_id":236394443
         }
     ],
     "wof:id":236394443,
-    "wof:lastmodified":1473879251,
+    "wof:lastmodified":1492492233,
     "wof:name":"Het Toneel Speelt",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

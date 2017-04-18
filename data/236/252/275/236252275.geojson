@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878295,52.372688,4.878295,52.372688",
     "geom:latitude":52.372688,
     "geom:longitude":4.878295,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4G7Mm8uhiKDoR4K9Af09VE_52.372688_4.878295@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cc2ed24f821bf67ec52c36b24dbdbbf6",
+    "wof:geomhash":"f3b020f5db5bb1f8b101fc8eba9740e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":236252275
         }
     ],
     "wof:id":236252275,
-    "wof:lastmodified":1473879032,
+    "wof:lastmodified":1492493572,
     "wof:name":"Creme De La Creme Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

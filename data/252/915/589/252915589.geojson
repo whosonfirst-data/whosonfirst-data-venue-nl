@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.328275,52.07135,4.328275,52.07135",
     "geom:latitude":52.07135,
     "geom:longitude":4.328275,
@@ -24,31 +25,49 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        85859633,
+        102191581,
+        1108808077,
         85633337,
         101752763,
-        85687041
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19z5kNXvoKIyVDC7UHjvk6_52.071350_4.328275@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f281af2e37678b74acafc53535696347",
+    "wof:geomhash":"6e2aad181a6d499215d92d3839ff1385",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808077,
+            "neighbourhood_id":85859633,
+            "region_id":85687041,
+            "venue_id":252915589
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
+            "locality_id":101754743,
+            "macrohood_id":1108808077,
+            "neighbourhood_id":85859633,
             "region_id":85687041,
             "venue_id":252915589
         }
     ],
     "wof:id":252915589,
-    "wof:lastmodified":1473878865,
+    "wof:lastmodified":1492505555,
     "wof:name":"J. De Kok",
-    "wof:parent_id":85798437,
+    "wof:parent_id":85859633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

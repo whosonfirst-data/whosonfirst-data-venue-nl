@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.876776,52.229164,6.876776,52.229164",
     "geom:latitude":52.229164,
     "geom:longitude":6.876776,
@@ -24,40 +25,41 @@
     "sg:province":"Overijssel",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798019,
         85633337,
-        101754773,
+        85798535,
         85687045,
-        85798535
+        85798019,
+        102191581,
+        404473827,
+        101754773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EDTa0OeC3f5plxFBqAEdD_52.229164_6.876776@1306269945"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bc4279e92b4fad97dcfe2898f993537d",
+    "wof:geomhash":"85fd6a87ebe834ff814dcee410b880ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101754773,
-            "neighbourhood_id":85798019,
+            "neighbourhood_id":85798535,
             "region_id":85687045,
             "venue_id":253023017
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798535,
+            "localadmin_id":404473827,
+            "locality_id":101754773,
+            "neighbourhood_id":85798019,
             "region_id":85687045,
             "venue_id":253023017
         }
     ],
     "wof:id":253023017,
-    "wof:lastmodified":1473878574,
+    "wof:lastmodified":1492489482,
     "wof:name":"Decokay",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

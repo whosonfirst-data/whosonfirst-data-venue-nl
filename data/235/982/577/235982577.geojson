@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.886743,52.390327,4.886743,52.390327",
     "geom:latitude":52.390327,
     "geom:longitude":4.886743,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803869,
+        1108802911,
+        102191581,
         85633337,
+        101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6TEXXa3HJuFSIUUy0SHVWw_52.390327_4.886743@1306269933"
     },
     "wof:country":"NL",
-    "wof:geomhash":"52bebdf56a204291be63f51d4406f77a",
+    "wof:geomhash":"1aa77b358765a463221803409d77a910",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803869,
+            "neighbourhood_id":1108802911,
             "region_id":85687053,
             "venue_id":235982577
         }
     ],
     "wof:id":235982577,
-    "wof:lastmodified":1473878611,
+    "wof:lastmodified":1492514666,
     "wof:name":"Fysiotherapiepraktijk Bogt",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803869,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

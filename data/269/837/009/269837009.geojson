@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.930217,52.361042,4.930217,52.361042",
     "geom:latitude":52.361042,
     "geom:longitude":4.930217,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803667,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_52cvFY03ZWMxXBZQo4hn7O_52.361042_4.930217@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b0a6263299cc0576dc573b7b2e38255a",
+    "wof:geomhash":"3ee9c47a1b3020680719fb12c0ce0d68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803667,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":269837009
         }
     ],
     "wof:id":269837009,
-    "wof:lastmodified":1473879498,
+    "wof:lastmodified":1492495710,
     "wof:name":"Mi-Gudu Eethuis En Afhaalcentrum",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

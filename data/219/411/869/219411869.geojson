@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.857751,52.350578,4.857751,52.350578",
     "geom:latitude":52.350578,
     "geom:longitude":4.857751,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803373,
+        1108802963,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1LB4vAIMKmoYbFcCaEzFdG_52.350578_4.857751@1306269926"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ffd674ea0dbd058267b03c1900414d64",
+    "wof:geomhash":"2b60d850da9ea824f0bbb43ff3fa2ac1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803373,
+            "neighbourhood_id":1108802963,
             "region_id":85687053,
             "venue_id":219411869
         }
     ],
     "wof:id":219411869,
-    "wof:lastmodified":1473879130,
+    "wof:lastmodified":1492503818,
     "wof:name":"Jacob Van Der Velde",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803373,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

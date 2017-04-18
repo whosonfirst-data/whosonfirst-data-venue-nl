@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.534796,51.924694,4.534796,51.924694",
     "geom:latitude":51.924694,
     "geom:longitude":4.534796,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859923,
+        1108805803,
+        102191581,
+        1108805667,
         85633337,
-        101754669,
+        101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7HFmzUbmGiKgGDVcaQWg06_51.924694_4.534796@1306269920"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b223e20c68e511b2120608a4fb6fc21a",
+    "wof:geomhash":"e3392383bce57cbccac1bcbffbccd3c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754669,
-            "neighbourhood_id":85859923,
+            "locality_id":101751843,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805803,
             "region_id":85687041,
             "venue_id":203000293
         }
     ],
     "wof:id":203000293,
-    "wof:lastmodified":1473878422,
+    "wof:lastmodified":1492480622,
     "wof:name":"P&S",
-    "wof:parent_id":85859923,
+    "wof:parent_id":1108805803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

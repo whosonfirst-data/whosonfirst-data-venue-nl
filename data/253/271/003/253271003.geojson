@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.377116,52.160213,5.377116,52.160213",
     "geom:latitude":52.160213,
     "geom:longitude":5.377116,
@@ -24,41 +25,45 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797913,
-        85633337,
-        101751821,
-        85687039,
         85798419,
-        101855289
+        102191581,
+        404473971,
+        85633337,
+        101855289,
+        85687039,
+        85797913,
+        101751821
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nCRK4RDFAN0asyIbtUdFw_52.160213_5.377116@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"006ffc52fa5439fdfff413d4389b8a0b",
+    "wof:geomhash":"d38b49713138a377601dda32d4f5fcfa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751821,
-            "neighbourhood_id":85797913,
+            "localadmin_id":404473971,
+            "locality_id":101855289,
+            "neighbourhood_id":85798419,
             "region_id":85687039,
             "venue_id":253271003
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101855289,
-            "neighbourhood_id":85798419,
+            "localadmin_id":404473971,
+            "locality_id":101751821,
+            "neighbourhood_id":85797913,
             "region_id":85687039,
             "venue_id":253271003
         }
     ],
     "wof:id":253271003,
-    "wof:lastmodified":1473879302,
+    "wof:lastmodified":1492489532,
     "wof:name":"Dormael Slaapkamers",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

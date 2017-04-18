@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.889501,52.412991,4.889501,52.412991",
     "geom:latitude":52.412991,
     "geom:longitude":4.889501,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803211,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_2zO3Et6ygUGA420oKFCH27_52.412991_4.889501@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3050178f104fdfd5a2c8e3396556e300",
+    "wof:geomhash":"43a306de8d11afaf401d3581aa5e31a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803211,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":202444897
         }
     ],
     "wof:id":202444897,
-    "wof:lastmodified":1473878698,
+    "wof:lastmodified":1492497426,
     "wof:name":"G. Allon",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884069,52.376286,4.884069,52.376286",
     "geom:latitude":52.376286,
     "geom:longitude":4.884069,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803831,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3528ajSAWjGkgYmQlmOT9S_52.376286_4.884069@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"924882b6334687d1d9b3a2d614cdf9e0",
+    "wof:geomhash":"53b6b46ab07e5258180083237e6d9268",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803831,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":186463403
         }
     ],
     "wof:id":186463403,
-    "wof:lastmodified":1473879485,
+    "wof:lastmodified":1492508550,
     "wof:name":"Nvsh",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

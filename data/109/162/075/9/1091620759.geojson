@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1409378052,52.0816650391,5.1409378052,52.0816650391",
     "geom:latitude":52.081665,
     "geom:longitude":5.140938,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808855,
+        102191581,
         85633337,
-        85859943,
+        101751827,
+        1108808669,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473803962,
-    "wof:geomhash":"3ed8b8f342ce00628dc930e19c1cf090",
+    "wof:geomhash":"49652b9525b7286da423f69396f22f01",
     "wof:hierarchy":[
         {
+            "borough_id":1108808669,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85859943,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808855,
             "region_id":85687039,
             "venue_id":1091620759
         }
     ],
     "wof:id":1091620759,
-    "wof:lastmodified":1473878524,
+    "wof:lastmodified":1492512247,
     "wof:name":"Brothers Hairfashion",
-    "wof:parent_id":85859943,
+    "wof:parent_id":1108808855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

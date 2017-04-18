@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.073001,52.122467,5.073001,52.122467",
     "geom:latitude":52.122467,
     "geom:longitude":5.073001,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797903,
+        1108808933,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_55WtQLKlk0VtrcByWlF0nq_52.122467_5.073001@1306269981"
     },
     "wof:country":"NL",
-    "wof:geomhash":"67a1948c898ab0ae1b5aef17c9a11cd7",
+    "wof:geomhash":"7b8bb20fb537a65d3e41df29c1454f1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797903,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808933,
             "region_id":85687039,
             "venue_id":303245257
         }
     ],
     "wof:id":303245257,
-    "wof:lastmodified":1473878959,
+    "wof:lastmodified":1492471915,
     "wof:name":"Lancee Schildersbedrijf Bv",
-    "wof:parent_id":85797903,
+    "wof:parent_id":1108808933,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

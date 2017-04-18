@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.899006,52.371727,4.899006,52.371727",
     "geom:latitude":52.371727,
     "geom:longitude":4.899006,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.zosa-online.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803883,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_25wR8PSaenUPt95icqipad_52.371727_4.899006@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"598c0bfbe58a7c424d562e7f7b6a12fc",
+    "wof:geomhash":"a5541dd8b19bdd34698a2942eb5b371c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803883,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":319829951
         }
     ],
     "wof:id":319829951,
-    "wof:lastmodified":1473878552,
+    "wof:lastmodified":1492479190,
     "wof:name":"Zosa",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

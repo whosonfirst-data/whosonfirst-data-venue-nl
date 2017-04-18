@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4427962303,51.7222747803,5.4427962303,51.7222747803",
     "geom:latitude":51.722275,
     "geom:longitude":5.442796,
@@ -23,17 +24,32 @@
     "sg:postcode":"5391 BS",
     "sg:province":"North Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474583,
+        85633337,
+        101808301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wPQSfooHsi7HONCRtxZ6J_51.722275_5.442796@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802483,
-    "wof:geomhash":"598c2117d5cf501990a4c3bb5372ba6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"231edd15597962583746464d97ac4e7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474583,
+            "locality_id":101808301,
+            "region_id":85687035,
+            "venue_id":1091599267
+        }
+    ],
     "wof:id":1091599267,
-    "wof:lastmodified":1473879042,
+    "wof:lastmodified":1492509765,
     "wof:name":"Langens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

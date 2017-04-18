@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.127668,52.115551,5.127668,52.115551",
     "geom:latitude":52.115551,
     "geom:longitude":5.127668,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808925,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6YrhBHptkAptxibLrblHgz_52.115551_5.127668@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"820623537855fa8169e71395a1bb1bfc",
+    "wof:geomhash":"cf27aedeac23eafa477c0e9d825ce0ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808925,
             "region_id":85687039,
             "venue_id":202753613
         }
     ],
     "wof:id":202753613,
-    "wof:lastmodified":1473879183,
+    "wof:lastmodified":1492497749,
     "wof:name":"Fijnbakkerij Bouman",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

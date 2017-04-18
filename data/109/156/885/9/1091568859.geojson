@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.4886789322,52.6051940918,6.4886789322,52.6051940918",
     "geom:latitude":52.605194,
     "geom:longitude":6.488679,
@@ -24,17 +25,32 @@
     "sg:province":"NL.08",
     "sg:website":"http://www.ssearch.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473831,
+        85633337,
+        101807167
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16qC6z0VL7sEo4xoakvFmz_52.605194_6.488679@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800390,
-    "wof:geomhash":"61243d68ec92b457e2d8bb53d254f0f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e20664fe2020fb9be1d26aa03c0859d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473831,
+            "locality_id":101807167,
+            "region_id":85687045,
+            "venue_id":1091568859
+        }
+    ],
     "wof:id":1091568859,
-    "wof:lastmodified":1473878539,
+    "wof:lastmodified":1492510875,
     "wof:name":"S-Search Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

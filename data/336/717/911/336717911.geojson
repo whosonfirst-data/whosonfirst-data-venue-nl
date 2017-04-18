@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.959893,52.389801,4.959893,52.389801",
     "geom:latitude":52.389801,
     "geom:longitude":4.959893,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108804083,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_6kWarBKVishE1tu4q6yQAV_52.389801_4.959893@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1ebe72e946eab9cc888f585ec6344a95",
+    "wof:geomhash":"82ae477c8a84d59ee8d291256a62b29c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804083,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":336717911
         }
     ],
     "wof:id":336717911,
-    "wof:lastmodified":1473878419,
+    "wof:lastmodified":1492506006,
     "wof:name":"F.W. Brok",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108804083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

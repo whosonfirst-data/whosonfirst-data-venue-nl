@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.552875,51.915516,4.552875,51.915516",
     "geom:latitude":51.915516,
     "geom:longitude":4.552875,
@@ -25,28 +26,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85797865,
+        102191581,
         85633337,
-        101754669,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YF7GAm09Ie3ErUfjBLv6e_51.915516_4.552875@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c9ac4ae1b5f04771fe8836062395d3e0",
+    "wof:geomhash":"864e283548fa4c1d6e991ca5361288a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754669,
+            "locality_id":101751843,
+            "neighbourhood_id":85797865,
+            "region_id":85687041,
+            "venue_id":253261387
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
             "neighbourhood_id":85797865,
             "region_id":85687041,
             "venue_id":253261387
         }
     ],
     "wof:id":253261387,
-    "wof:lastmodified":1473879310,
+    "wof:lastmodified":1492489744,
     "wof:name":"Bouman En Baalbergen Meubelen Bv",
     "wof:parent_id":85797865,
     "wof:placetype":"venue",

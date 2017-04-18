@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1171798706,52.1040306091,5.1171798706,52.1040306091",
     "geom:latitude":52.104031,
     "geom:longitude":5.11718,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808869,
+        102191581,
         85633337,
-        85798227,
+        101751827,
+        1108808663,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473804616,
-    "wof:geomhash":"b9b28af4ae3c425bf03779cfdecf8187",
+    "wof:geomhash":"f75e7721e1b5dc51bc2dfccb46d0fa28",
     "wof:hierarchy":[
         {
+            "borough_id":1108808663,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808869,
             "region_id":85687039,
             "venue_id":1091630941
         }
     ],
     "wof:id":1091630941,
-    "wof:lastmodified":1473878473,
+    "wof:lastmodified":1492509925,
     "wof:name":"Idee Haar Mode",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808869,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

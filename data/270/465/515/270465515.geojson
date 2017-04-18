@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.898486,52.366707,4.898486,52.366707",
     "geom:latitude":52.366707,
     "geom:longitude":4.898486,
@@ -29,9 +30,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803223,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_46WY4ZpdZ84ocYebqmjK8n_52.366707_4.898486@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"df1e15ed5df52df5a52493ef0c57ffc8",
+    "wof:geomhash":"ec723ac72c3177fce4cf4707356d7479",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803223,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":270465515
         }
     ],
     "wof:id":270465515,
-    "wof:lastmodified":1473879266,
+    "wof:lastmodified":1492499676,
     "wof:name":"The Music Box",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

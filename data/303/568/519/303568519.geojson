@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.895404,52.784283,6.895404,52.784283",
     "geom:latitude":52.784283,
     "geom:longitude":6.895404,
@@ -24,41 +25,45 @@
     "sg:province":"Drenthe",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798097,
-        85633337,
-        101751881,
-        85687051,
         85797507,
-        101837865
+        102191581,
+        404473809,
+        85633337,
+        101837865,
+        85687051,
+        85798097,
+        101751881
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IJ58ct4nwPGxnHvobsh01_52.784283_6.895404@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c4c61c9715b2674115915515878f608f",
+    "wof:geomhash":"f78b26fda763bbd5113f0056b32026fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751881,
-            "neighbourhood_id":85798097,
+            "localadmin_id":404473809,
+            "locality_id":101837865,
+            "neighbourhood_id":85797507,
             "region_id":85687051,
             "venue_id":303568519
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101837865,
-            "neighbourhood_id":85797507,
+            "localadmin_id":404473809,
+            "locality_id":101751881,
+            "neighbourhood_id":85798097,
             "region_id":85687051,
             "venue_id":303568519
         }
     ],
     "wof:id":303568519,
-    "wof:lastmodified":1473879307,
+    "wof:lastmodified":1492473809,
     "wof:name":"Mulder Mode Emmen Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

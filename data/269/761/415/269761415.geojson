@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.276905,52.108437,4.276905,52.108437",
     "geom:latitude":52.108437,
     "geom:longitude":4.276905,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808165,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_1ufGRmc6Uh400SHcxABdMV_52.108437_4.276905@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"716d973c8cfd3d4aaad3426b129cb254",
+    "wof:geomhash":"c9cf0508677f888b2f25750e551ea09a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808165,
             "region_id":85687041,
             "venue_id":269761415
         }
     ],
     "wof:id":269761415,
-    "wof:lastmodified":1473879379,
+    "wof:lastmodified":1492496793,
     "wof:name":"Hap Snap (H. Bonte)",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

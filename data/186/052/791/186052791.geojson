@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.263528,52.091969,4.263528,52.091969",
     "geom:latitude":52.091969,
     "geom:longitude":4.263528,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798455,
+        85797483,
+        102191581,
+        1108808083,
         85633337,
         101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0MUh5G2eDEFgkf06BW9f1W_52.091969_4.263528@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"eeb04a2a5685fd29d89c894ddfe373c0",
+    "wof:geomhash":"3f5af1069eb8b7f0cb67015c63928e72",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798455,
+            "macrohood_id":1108808083,
+            "neighbourhood_id":85797483,
             "region_id":85687041,
             "venue_id":186052791
         }
     ],
     "wof:id":186052791,
-    "wof:lastmodified":1473878739,
+    "wof:lastmodified":1492508267,
     "wof:name":"M Harteveld",
-    "wof:parent_id":85798455,
+    "wof:parent_id":85797483,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

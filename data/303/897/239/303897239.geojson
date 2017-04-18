@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.853196,52.370762,4.853196,52.370762",
     "geom:latitude":52.370762,
     "geom:longitude":4.853196,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.salesfashion.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803503,
+        1108802931,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2fGzOnziHa5Z6IUP1SDJaF_52.370762_4.853196@1306269989"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d0c40bc592237e619bf93dd0eda4fece",
+    "wof:geomhash":"8053a1b6e20fb37c3e44765a0bb68bf4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803503,
+            "neighbourhood_id":1108802931,
             "region_id":85687053,
             "venue_id":303897239
         }
     ],
     "wof:id":303897239,
-    "wof:lastmodified":1473879646,
+    "wof:lastmodified":1492471969,
     "wof:name":"Sales Fashion",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

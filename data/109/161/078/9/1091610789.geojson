@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8814368248,50.9258918762,5.8814368248,50.9258918762",
     "geom:latitude":50.925892,
     "geom:longitude":5.881437,
@@ -24,17 +25,30 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.kuhl.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474509,
+        85633337,
+        85687033
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1V4nkHOIQJwJHIDQGOcnf0_50.925892_5.881437@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803433,
-    "wof:geomhash":"479d7045a7c3e5cb03a556e9ad6ea567",
-    "wof:hierarchy":[],
+    "wof:geomhash":"998e23cea8200393f287c543c486e0ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474509,
+            "region_id":85687033,
+            "venue_id":1091610789
+        }
+    ],
     "wof:id":1091610789,
-    "wof:lastmodified":1473878521,
+    "wof:lastmodified":1492510662,
     "wof:name":"Kuhl Ergonomie Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

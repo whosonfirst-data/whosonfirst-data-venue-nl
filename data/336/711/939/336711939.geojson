@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.943615,52.340515,4.943615,52.340515",
     "geom:latitude":52.340515,
     "geom:longitude":4.943615,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803871,
+        1108802539,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_6V9ZOX5JHdC5NZ6rscOeiD_52.340515_4.943615@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cd355a903a459623e161aab51dc1e342",
+    "wof:geomhash":"de413328086b41038fce8cbfed8f5a11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803871,
+            "neighbourhood_id":1108802539,
             "region_id":85687053,
             "venue_id":336711939
         }
     ],
     "wof:id":336711939,
-    "wof:lastmodified":1473878418,
+    "wof:lastmodified":1492507143,
     "wof:name":"Accountantskantoor De Maniegroep",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882431,52.370392,4.882431,52.370392",
     "geom:latitude":52.370392,
     "geom:longitude":4.882431,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5eVBCpLSyEDGOkJH5cGiFQ_52.370392_4.882431@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6f7eaeaf66b3ed2b9108987e04408915",
+    "wof:geomhash":"a0db3a046ba57e8769a09dd526b0b435",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":286391813
         }
     ],
     "wof:id":286391813,
-    "wof:lastmodified":1473878936,
+    "wof:lastmodified":1492477390,
     "wof:name":"Norman Automatics",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

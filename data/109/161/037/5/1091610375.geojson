@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2693462372,52.388168335,5.2693462372,52.388168335",
     "geom:latitude":52.388168,
     "geom:longitude":5.269346,
@@ -24,17 +25,32 @@
     "sg:province":"NL.",
     "sg:website":"http://www.averbo.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101751875
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3s0tv7axATPERIgMh48aZ7_52.388168_5.269346@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803395,
-    "wof:geomhash":"edfd9352ef28a775316f4c753452fcb4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39c8f69c28da30187da73da2cfaf4dff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101751875,
+            "region_id":85687049,
+            "venue_id":1091610375
+        }
+    ],
     "wof:id":1091610375,
-    "wof:lastmodified":1473878483,
+    "wof:lastmodified":1492510799,
     "wof:name":"Averbo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

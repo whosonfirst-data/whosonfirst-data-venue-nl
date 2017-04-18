@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.977566,52.291626,4.977566,52.291626",
     "geom:latitude":52.291626,
     "geom:longitude":4.977566,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803803,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2qcKu5MFsoXK7E5CYKoJ12_52.291626_4.977566@1306270006"
     },
     "wof:country":"NL",
-    "wof:geomhash":"791bce48c35ba6088c924b43dd2c5be2",
+    "wof:geomhash":"3e73c17fe1497fa0061b55c8ee58cabf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803803,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":336854177
         }
     ],
     "wof:id":336854177,
-    "wof:lastmodified":1473878437,
+    "wof:lastmodified":1492506973,
     "wof:name":"Kroezen",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.890245,52.355473,4.890245,52.355473",
     "geom:latitude":52.355473,
     "geom:longitude":4.890245,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803911,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_3QOGgDWzIZF7FeJECHyLBY_52.355473_4.890245@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"17203f50dc1d3da9ae7ab8533873b3be",
+    "wof:geomhash":"49316027ab0968035e00b3e1c47fc74c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803911,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":269760189
         }
     ],
     "wof:id":269760189,
-    "wof:lastmodified":1473879375,
+    "wof:lastmodified":1492495416,
     "wof:name":"Grillroom Shalom Vof",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803911,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

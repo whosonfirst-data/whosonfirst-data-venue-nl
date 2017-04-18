@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.253951,52.068829,4.253951,52.068829",
     "geom:latitude":52.068829,
     "geom:longitude":4.253951,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797811,
+        85859585,
+        102191581,
+        1108808133,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5XovFWDAleiIhQjzXYPNpk_52.068829_4.253951@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"af03fbcb90c1d06a6ee40ff6be2f8053",
+    "wof:geomhash":"0e2f901cd43b4d5de0120b62b4413cb5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797811,
+            "macrohood_id":1108808133,
+            "neighbourhood_id":85859585,
             "region_id":85687041,
             "venue_id":202805673
         }
     ],
     "wof:id":202805673,
-    "wof:lastmodified":1473879259,
+    "wof:lastmodified":1492497434,
     "wof:name":"Vertaalbureau J M Spee",
-    "wof:parent_id":85797811,
+    "wof:parent_id":85859585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

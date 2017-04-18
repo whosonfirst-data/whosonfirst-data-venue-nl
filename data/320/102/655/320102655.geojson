@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.828475,52.359043,4.828475,52.359043",
     "geom:latitude":52.359043,
     "geom:longitude":4.828475,
@@ -32,40 +33,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804121,
         85798403,
+        102191581,
         85633337,
         101751893,
-        85687053,
-        85798223
+        1108802279,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BSTlX5tGZnxC8crpaKPdi_52.359043_4.828475@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"55ff42e3d07f3e8f194091c9316f0bf8",
+    "wof:geomhash":"55b6fe658bf8c0467b492702b510eb74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804121,
             "neighbourhood_id":85798403,
-            "region_id":85687053,
-            "venue_id":320102655
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751893,
-            "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":320102655
         }
     ],
     "wof:id":320102655,
-    "wof:lastmodified":1473878826,
+    "wof:lastmodified":1492484593,
     "wof:name":"Robe",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108804121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

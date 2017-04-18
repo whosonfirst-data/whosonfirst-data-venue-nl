@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.283494,52.107277,4.283494,52.107277",
     "geom:latitude":52.107277,
     "geom:longitude":4.283494,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808169,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_2eYpqL3RXOZ678ubT9tCKj_52.107277_4.283494@1306269997"
     },
     "wof:country":"NL",
-    "wof:geomhash":"87dc2d381a23b73b03463e341bb7361d",
+    "wof:geomhash":"e727e26c6558cc790c3f1e65afcf7f36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808169,
             "region_id":85687041,
             "venue_id":320276245
         }
     ],
     "wof:id":320276245,
-    "wof:lastmodified":1473879139,
+    "wof:lastmodified":1492483586,
     "wof:name":"Sanders Glashandel",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

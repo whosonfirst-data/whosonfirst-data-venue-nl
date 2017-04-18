@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0054650307,52.0867996216,5.0054650307,52.0867996216",
     "geom:latitude":52.0868,
     "geom:longitude":5.005465,
@@ -24,19 +25,36 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.saeijs-newmedia.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108808897,
+        102191581,
+        85633337,
+        101751827,
+        1108808673,
+        85687039
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LgK1wuOuAQBmpydMPgQ9h_52.086800_5.005465@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800781,
-    "wof:geomhash":"ab86403b24e6dfb73c2fa068b2c138c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"112a4d26392d69fea2ab7217a8933a9e",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108808673,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808897,
+            "region_id":85687039,
+            "venue_id":1091574843
+        }
+    ],
     "wof:id":1091574843,
-    "wof:lastmodified":1473878818,
+    "wof:lastmodified":1492511144,
     "wof:name":"Saeijs",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108808897,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

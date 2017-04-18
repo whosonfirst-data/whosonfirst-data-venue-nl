@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.886716,52.363098,4.886716,52.363098",
     "geom:latitude":52.363098,
     "geom:longitude":4.886716,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803237,
+        1108802791,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6EcYv6EfsX7FeF6azQItVw_52.363098_4.886716@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0c830cc6e1407e58f114a9db6803e464",
+    "wof:geomhash":"bdd7bc1d0a98032c3e2d3d4d21e96c1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803237,
+            "neighbourhood_id":1108802791,
             "region_id":85687053,
             "venue_id":253503973
         }
     ],
     "wof:id":253503973,
-    "wof:lastmodified":1473879682,
+    "wof:lastmodified":1492488934,
     "wof:name":"Hoofdstad, De",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.896718,52.370163,4.896718,52.370163",
     "geom:latitude":52.370163,
     "geom:longitude":4.896718,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.lookandbook.com/amsterdam/radisson_sas.htm",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804133,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_2hZSoMKhKStyrYScMNCbZ7_52.370163_4.896718@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ade1e8f2728747c6d2955672a86a8333",
+    "wof:geomhash":"ae5c7ec76153d4253715fd59cf725c72",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804133,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":319818981
         }
     ],
     "wof:id":319818981,
-    "wof:lastmodified":1473878493,
+    "wof:lastmodified":1492479721,
     "wof:name":"Radisson Sas",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

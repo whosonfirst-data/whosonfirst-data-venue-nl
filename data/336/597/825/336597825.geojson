@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882548,52.360867,4.882548,52.360867",
     "geom:latitude":52.360867,
     "geom:longitude":4.882548,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803565,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5nvgm64z5WekYB7bFpBrNG_52.360867_4.882548@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d5fa39405e8bfa339be05266af9f314b",
+    "wof:geomhash":"f141755f19ae435c5cc30072f0a4ae73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803565,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":336597825
         }
     ],
     "wof:id":336597825,
-    "wof:lastmodified":1473878434,
+    "wof:lastmodified":1492505828,
     "wof:name":"Cartier Joailliers",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

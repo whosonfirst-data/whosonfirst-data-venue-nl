@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.858267,52.373253,4.858267,52.373253",
     "geom:latitude":52.373253,
     "geom:longitude":4.858267,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803525,
+        1108802785,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2X4DJId5NnoVcSDb03c6TM_52.373253_4.858267@1306269933"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5cbc79ac8f2aa5a896aefd8db7e109b1",
+    "wof:geomhash":"d7f2e2ac1b8f5abb48c075b94e791a5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803525,
+            "neighbourhood_id":1108802785,
             "region_id":85687053,
             "venue_id":235972617
         }
     ],
     "wof:id":235972617,
-    "wof:lastmodified":1473878566,
+    "wof:lastmodified":1492514566,
     "wof:name":"Rietkamp",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

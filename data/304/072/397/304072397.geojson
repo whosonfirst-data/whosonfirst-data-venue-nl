@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.883552,52.354939,4.883552,52.354939",
     "geom:latitude":52.354939,
     "geom:longitude":4.883552,
@@ -29,9 +30,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804003,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_3ApD1TWqxSELbsn30b8kv0_52.354939_4.883552@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"25b90102c8a7aa49fc1b464afa598d9d",
+    "wof:geomhash":"4c4108216f8d7592cf1116091208d400",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804003,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":304072397
         }
     ],
     "wof:id":304072397,
-    "wof:lastmodified":1473878793,
+    "wof:lastmodified":1492504446,
     "wof:name":"Hotel Washington",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804003,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

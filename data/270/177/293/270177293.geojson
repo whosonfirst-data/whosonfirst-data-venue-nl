@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.925591,52.364635,4.925591,52.364635",
     "geom:latitude":52.364635,
     "geom:longitude":4.925591,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.bestshot.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803579,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_3D0uQJGzArX5JGB4zbVsPs_52.364635_4.925591@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7f899652a18cd35f4883076c801dfb0a",
+    "wof:geomhash":"912b073cc95188cd333d3d000d0c625c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803579,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":270177293
         }
     ],
     "wof:id":270177293,
-    "wof:lastmodified":1473878769,
+    "wof:lastmodified":1492500109,
     "wof:name":"Best Shot",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

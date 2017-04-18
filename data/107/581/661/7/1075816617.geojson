@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5539059639,51.9499397278,4.5539059639,51.9499397278",
     "geom:latitude":51.94994,
     "geom:longitude":4.553906,
@@ -27,10 +28,12 @@
     "wof:belongsto":[
         85798177,
         102191581,
-        404474163,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,19 @@
     },
     "wof:country":"NL",
     "wof:created":1473798961,
-    "wof:geomhash":"1f4c8ad0c8595cd865c51d5f7c9ffaa7",
+    "wof:geomhash":"4a19a9517e804e078c5c153001d7cc4c",
     "wof:hierarchy":[
         {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":1075816617
+        },
+        {
+            "borough_id":1108805725,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474163,
@@ -51,7 +64,7 @@
         }
     ],
     "wof:id":1075816617,
-    "wof:lastmodified":1473879059,
+    "wof:lastmodified":1492486183,
     "wof:name":"Graaf, Theo De",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

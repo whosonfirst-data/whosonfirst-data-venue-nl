@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7956171036,52.653175354,4.7956171036,52.653175354",
     "geom:latitude":52.653175,
     "geom:longitude":4.795617,
@@ -24,17 +25,32 @@
     "sg:province":"North Holland",
     "sg:website":"http://www.aqa.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474093,
+        85633337,
+        101754879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1D14yViXEyUY04b0WiVyde_52.653175_4.795617@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800354,
-    "wof:geomhash":"49b1cfed717e880a886031cf1c6e4600",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e0319c8e8416a721d9e6bcfdeb17886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474093,
+            "locality_id":101754879,
+            "region_id":85687053,
+            "venue_id":1091568383
+        }
+    ],
     "wof:id":1091568383,
-    "wof:lastmodified":1473878519,
+    "wof:lastmodified":1492510942,
     "wof:name":"Aqa Hydrasep Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

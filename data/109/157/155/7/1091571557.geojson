@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8047862053,52.9778862,5.8047862053,52.9778862",
     "geom:latitude":52.977886,
     "geom:longitude":5.804786,
@@ -24,17 +25,32 @@
     "sg:province":"Friesland",
     "sg:website":"http://www.bnddigital.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687055,
+        102191581,
+        404473745,
+        85633337,
+        101806179
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LSSl7wrQ2Ocg0ma2Mdv5x_52.977886_5.804786@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800579,
-    "wof:geomhash":"40e6810590df8db4bc12f1665ba8fdea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c24af475fc7815af7287f60d1823740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473745,
+            "locality_id":101806179,
+            "region_id":85687055,
+            "venue_id":1091571557
+        }
+    ],
     "wof:id":1091571557,
-    "wof:lastmodified":1473878551,
+    "wof:lastmodified":1492511378,
     "wof:name":"B & D Digital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

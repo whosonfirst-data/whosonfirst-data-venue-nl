@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.278403,52.076588,4.278403,52.076588",
     "geom:latitude":52.076588,
     "geom:longitude":4.278403,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        1108808213,
+        102191581,
+        1108808125,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_7FEJ2CPqBNAPuupYdddES7_52.076588_4.278403@1306269967"
     },
     "wof:country":"NL",
-    "wof:geomhash":"af6f94438ce9451553454e6aa08109ad",
+    "wof:geomhash":"7e7e01396613cd5f8765177e6146bddd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
+            "macrohood_id":1108808125,
+            "neighbourhood_id":1108808213,
             "region_id":85687041,
             "venue_id":286309513
         }
     ],
     "wof:id":286309513,
-    "wof:lastmodified":1473878706,
+    "wof:lastmodified":1492476243,
     "wof:name":"Prot Chr Peuterspeelzalen Sticht",
-    "wof:parent_id":85859605,
+    "wof:parent_id":1108808213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

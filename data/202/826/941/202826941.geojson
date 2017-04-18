@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.549155,51.967632,4.549155,51.967632",
     "geom:latitude":51.967632,
     "geom:longitude":4.549155,
@@ -26,20 +27,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VxFHx76ap0ax7bIBdF95I_51.967632_4.549155@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a8235fb8184a6f70b0fb354b6e6ce477",
+    "wof:geomhash":"d9a648b130c628e69aff9ebc683f845b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":202826941
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798149,
             "region_id":85687041,
@@ -47,7 +63,7 @@
         }
     ],
     "wof:id":202826941,
-    "wof:lastmodified":1473879334,
+    "wof:lastmodified":1492498583,
     "wof:name":"Elbers Vertalingen",
     "wof:parent_id":85798149,
     "wof:placetype":"venue",

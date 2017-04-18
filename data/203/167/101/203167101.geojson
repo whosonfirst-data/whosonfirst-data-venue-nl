@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.552152,51.952381,4.552152,51.952381",
     "geom:latitude":51.952381,
     "geom:longitude":4.552152,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uGet1cSHLRyri5QXfawD2_51.952381_4.552152@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1f18f95dedf82c5c1dddd113cc9dee00",
+    "wof:geomhash":"72920a0dbd27504de543b845f8fea0ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":203167101
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798177,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":203167101,
-    "wof:lastmodified":1473879041,
+    "wof:lastmodified":1492479824,
     "wof:name":"Nationale Nederlanden Nv Regiokantoor Rijnmond",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

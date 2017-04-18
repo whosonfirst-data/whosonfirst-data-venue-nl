@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.916473,52.406479,4.916473,52.406479",
     "geom:latitude":52.406479,
     "geom:longitude":4.916473,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803203,
+        1108802531,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6YKlcejNKXmVaDhfWDQ73i_52.406479_4.916473@1306269992"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6c293490ee61c6013dd9c024cd3e4f14",
+    "wof:geomhash":"a0a50a8df921fc5e6e72992c4a216f25",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803203,
+            "neighbourhood_id":1108802531,
             "region_id":85687053,
             "venue_id":319896161
         }
     ],
     "wof:id":319896161,
-    "wof:lastmodified":1473878773,
+    "wof:lastmodified":1492479150,
     "wof:name":"Tropico Anker",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

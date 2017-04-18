@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.10236,51.553127,5.10236,51.553127",
     "geom:latitude":51.553127,
     "geom:longitude":5.10236,
@@ -25,40 +26,41 @@
     "sg:website":"http://www.tsm-benelux.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797591,
         85633337,
-        101751817,
+        85798343,
         85687035,
-        85798343
+        85797591,
+        102191581,
+        404474435,
+        101751817
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06MZ8ZN8D31fVZm0apyhvH_51.553127_5.102360@1306269917"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f4d0a6ddca54ce2711239d17154ad502",
+    "wof:geomhash":"becae51a482b38acea63ccf367796875",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751817,
-            "neighbourhood_id":85797591,
+            "neighbourhood_id":85798343,
             "region_id":85687035,
             "venue_id":202743597
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798343,
+            "localadmin_id":404474435,
+            "locality_id":101751817,
+            "neighbourhood_id":85797591,
             "region_id":85687035,
             "venue_id":202743597
         }
     ],
     "wof:id":202743597,
-    "wof:lastmodified":1473879146,
+    "wof:lastmodified":1492497776,
     "wof:name":"Tsm Ind Bv Benelux",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

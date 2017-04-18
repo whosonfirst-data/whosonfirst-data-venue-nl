@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.920929,52.35685,4.920929,52.35685",
     "geom:latitude":52.35685,
     "geom:longitude":4.920929,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803833,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6f33em0Cu0ROkDXovrVYcI_52.356850_4.920929@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"daecf2fe6857c6afe21ec012ac26a03b",
+    "wof:geomhash":"0e8d49ef7e07d7f48cd831ca002abe2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803833,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":269853649
         }
     ],
     "wof:id":269853649,
-    "wof:lastmodified":1473879540,
+    "wof:lastmodified":1492496093,
     "wof:name":"Ach Ik Lach Serenades",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

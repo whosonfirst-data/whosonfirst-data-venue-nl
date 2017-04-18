@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.466308594,31.1937236786,-101.466308594,31.1937236786",
     "geom:latitude":31.193724,
     "geom:longitude":-101.466309,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.bestpoint.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688753,
+        102191575,
+        85633793,
+        101723789,
+        102081067
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SYkkzlSzvs9oNzlIvuco0_31.193724_-101.466309@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800587,
-    "wof:geomhash":"28830fc880587cd28f6a9531eef57a9c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c3539da6fbcae81e995390ebba192c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081067,
+            "locality_id":101723789,
+            "region_id":85688753,
+            "venue_id":1091571691
+        }
+    ],
     "wof:id":1091571691,
-    "wof:lastmodified":1473878561,
+    "wof:lastmodified":1492511040,
     "wof:name":"Bestpoint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.133545,52.057281,5.133545,52.057281",
     "geom:latitude":52.057281,
     "geom:longitude":5.133545,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859943,
+        1108808797,
+        102191581,
+        1108832363,
         85633337,
+        101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_10XCZ7jLAkjQkhxXBVnx7U_52.057281_5.133545@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"09e4d735b6f41122a79b445e408ff283",
+    "wof:geomhash":"b8f168a5bd468ddf8f95309cbbd29958",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859943,
+            "locality_id":101751827,
+            "macrohood_id":1108832363,
+            "neighbourhood_id":1108808797,
             "region_id":85687039,
             "venue_id":303601529
         }
     ],
     "wof:id":303601529,
-    "wof:lastmodified":1473879328,
+    "wof:lastmodified":1492474573,
     "wof:name":"Van Den Brink Handelsonderneming",
-    "wof:parent_id":85859943,
+    "wof:parent_id":1108808797,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

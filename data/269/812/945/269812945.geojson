@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.976186,52.295063,4.976186,52.295063",
     "geom:latitude":52.295063,
     "geom:longitude":4.976186,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803939,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_4Hf1tiMiiJbA8sSYyeb3KD_52.295063_4.976186@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6770b223b59e9a33fdc125a9a8cdb1e8",
+    "wof:geomhash":"ef122df20a216e7b634b36f656098d02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803939,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":269812945
         }
     ],
     "wof:id":269812945,
-    "wof:lastmodified":1473879513,
+    "wof:lastmodified":1492495274,
     "wof:name":"Chen'S Corner",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

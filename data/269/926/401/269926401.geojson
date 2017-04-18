@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.872082,52.366913,4.872082,52.366913",
     "geom:latitude":52.366913,
     "geom:longitude":4.872082,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803379,
+        1108802933,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6Y0Qy9t9QFCWFShg0RZsPh_52.366913_4.872082@1306269959"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4e05be44a00189c4a0a53f64871845f1",
+    "wof:geomhash":"84a184be89d447d0301a8cfe0b6dc7db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803379,
+            "neighbourhood_id":1108802933,
             "region_id":85687053,
             "venue_id":269926401
         }
     ],
     "wof:id":269926401,
-    "wof:lastmodified":1473879562,
+    "wof:lastmodified":1492496375,
     "wof:name":"Wido",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

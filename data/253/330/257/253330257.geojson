@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.560108,51.95145,4.560108,51.95145",
     "geom:latitude":51.95145,
     "geom:longitude":4.560108,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bAi2JeqzyRtW9dYJ8nmLa_51.951450_4.560108@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c8b1eda95c245ecd0cda42970b8d58e3",
+    "wof:geomhash":"9d07e83890d00809067d37c3e4deb5e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":253330257
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798177,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":253330257,
-    "wof:lastmodified":1473879403,
+    "wof:lastmodified":1492490823,
     "wof:name":"Van De Heuvel Verlichting Kleinmeubel Bv",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

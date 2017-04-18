@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.869545,52.370571,4.869545,52.370571",
     "geom:latitude":52.370571,
     "geom:longitude":4.869545,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803451,
+        1108802777,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_0N3fab52u9BY8Bsaiv7crb_52.370571_4.869545@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d18e93d0562461a1f951af2cf6816889",
+    "wof:geomhash":"1db03db76673d21d1d1cd4d7ea9ee28f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803451,
+            "neighbourhood_id":1108802777,
             "region_id":85687053,
             "venue_id":303542477
         }
     ],
     "wof:id":303542477,
-    "wof:lastmodified":1473879301,
+    "wof:lastmodified":1492473660,
     "wof:name":"Palace Of India",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

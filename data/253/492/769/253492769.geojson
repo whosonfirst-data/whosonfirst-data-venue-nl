@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.31455,52.083122,4.31455,52.083122",
     "geom:latitude":52.083122,
     "geom:longitude":4.31455,
@@ -24,40 +25,36 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808251,
+        102191581,
+        1108808081,
         85633337,
         101752763,
-        85687041,
-        85797685
+        1108808053,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26kmDwoOrqSSlb8fvRG6id_52.083122_4.314550@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3feb428d6adf79673bdb81ceb20a074a",
+    "wof:geomhash":"fc605e6f13d4679bda1aaca717ab8eff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
-            "region_id":85687041,
-            "venue_id":253492769
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101752763,
-            "neighbourhood_id":85797685,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808251,
             "region_id":85687041,
             "venue_id":253492769
         }
     ],
     "wof:id":253492769,
-    "wof:lastmodified":1473879662,
+    "wof:lastmodified":1492490992,
     "wof:name":"Guerlain Benelux Sa",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108808251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

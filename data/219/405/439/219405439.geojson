@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.821953,53.18969,5.821953,53.18969",
     "geom:latitude":53.18969,
     "geom:longitude":5.821953,
@@ -24,10 +25,12 @@
     "sg:province":"Friesland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797051,
         85633337,
+        85797051,
         85687055,
         85797739,
+        102191581,
+        404473775,
         101751907
     ],
     "wof:breaches":[],
@@ -35,19 +38,18 @@
         "sg:id":"SG_64exC3sOimvFm8NTaxhnbE_53.189690_5.821953@1306269926"
     },
     "wof:country":"NL",
-    "wof:geomhash":"26efbc8b4a8b8a83d865462a14cdc717",
+    "wof:geomhash":"99f9ee5573b6fdc7b3a821ff22df31de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85797051,
             "region_id":85687055,
             "venue_id":219405439
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473775,
             "locality_id":101751907,
             "neighbourhood_id":85797739,
             "region_id":85687055,
@@ -55,9 +57,9 @@
         }
     ],
     "wof:id":219405439,
-    "wof:lastmodified":1473879113,
+    "wof:lastmodified":1492502001,
     "wof:name":"J. Den Edel",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

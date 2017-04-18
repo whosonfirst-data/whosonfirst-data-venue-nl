@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.854624,52.383316,4.854624,52.383316",
     "geom:latitude":52.383316,
     "geom:longitude":4.854624,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803867,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0B4bZJmnc8QqLQsEtdeNRQ_52.383316_4.854624@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2f1790f0f90160f9447707e7cdbe3012",
+    "wof:geomhash":"1c72646f25dd0d524c1cef2a23753f41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803867,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":287177053
         }
     ],
     "wof:id":287177053,
-    "wof:lastmodified":1473878957,
+    "wof:lastmodified":1492513609,
     "wof:name":"Tactus Music",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803867,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

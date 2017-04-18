@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.929158,52.353844,4.929158,52.353844",
     "geom:latitude":52.353844,
     "geom:longitude":4.929158,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804165,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_14HvZfUDCu3KncCJVhcKU9_52.353844_4.929158@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a73cb9a15db4393f570e2f8720ed7834",
+    "wof:geomhash":"625c8a47a24a6e8f35692bef620d85bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804165,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":202856947
         }
     ],
     "wof:id":202856947,
-    "wof:lastmodified":1473879371,
+    "wof:lastmodified":1492498520,
     "wof:name":"Zachary Tobin",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

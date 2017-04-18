@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.871432,52.378193,4.871432,52.378193",
     "geom:latitude":52.378193,
     "geom:longitude":4.871432,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803751,
+        1108802915,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4Gzge0ZL42ZeNs5nIz41wI_52.378193_4.871432@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"207de50fc5eb875ef518f08b16f00c7c",
+    "wof:geomhash":"bb73c0ff82da46d25ef784f355b9b363",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803751,
+            "neighbourhood_id":1108802915,
             "region_id":85687053,
             "venue_id":303681839
         }
     ],
     "wof:id":303681839,
-    "wof:lastmodified":1473879461,
+    "wof:lastmodified":1492474200,
     "wof:name":"Botee Bv",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

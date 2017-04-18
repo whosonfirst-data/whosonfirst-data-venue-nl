@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.255476,52.067509,4.255476,52.067509",
     "geom:latitude":52.067509,
     "geom:longitude":4.255476,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797811,
+        85859585,
+        102191581,
+        1108808133,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3ziOhI2AD4Z7FoeZZqM7CU_52.067509_4.255476@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ae15981c8ccf0cc8737204708af84483",
+    "wof:geomhash":"1fa03427cbda80fd6d617df9096d2d86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797811,
+            "macrohood_id":1108808133,
+            "neighbourhood_id":85859585,
             "region_id":85687041,
             "venue_id":270303775
         }
     ],
     "wof:id":270303775,
-    "wof:lastmodified":1473879068,
+    "wof:lastmodified":1492499276,
     "wof:name":"I.H. Plug",
-    "wof:parent_id":85797811,
+    "wof:parent_id":85859585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

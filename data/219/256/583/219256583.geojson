@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882141,52.37656,4.882141,52.37656",
     "geom:latitude":52.37656,
     "geom:longitude":4.882141,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804119,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_4lDB3xZtAs0eSgEVP41xTb_52.376560_4.882141@1306269924"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d22b79f823d21ab7411dbac4dce5eaed",
+    "wof:geomhash":"02c8c8a519b5e3bb32ee0658c3022dfd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804119,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":219256583
         }
     ],
     "wof:id":219256583,
-    "wof:lastmodified":1473878736,
+    "wof:lastmodified":1492501881,
     "wof:name":"Payne, Peggy",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

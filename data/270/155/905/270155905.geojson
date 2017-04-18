@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.94086,52.391827,4.94086,52.391827",
     "geom:latitude":52.391827,
     "geom:longitude":4.94086,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803437,
+        1108802927,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7gyQd7czlPrtjdNTxFVAlZ_52.391827_4.940860@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e4ce9882bfbff4c56885202eab9a8af2",
+    "wof:geomhash":"0725e9f50acf031f2ef6c55051b5549b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803437,
+            "neighbourhood_id":1108802927,
             "region_id":85687053,
             "venue_id":270155905
         }
     ],
     "wof:id":270155905,
-    "wof:lastmodified":1473878671,
+    "wof:lastmodified":1492500983,
     "wof:name":"Rob Becker",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

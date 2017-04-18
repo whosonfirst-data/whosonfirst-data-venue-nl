@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.865631,52.385151,4.865631,52.385151",
     "geom:latitude":52.385151,
     "geom:longitude":4.865631,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803851,
+        1108802557,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4eG1cPLDZhwxzYRsz5gcaW_52.385151_4.865631@1306269946"
     },
     "wof:country":"NL",
-    "wof:geomhash":"79d89b3d70d2db5f828709f60a031381",
+    "wof:geomhash":"e9decdf8798d9ae4847dc098d887a4f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803851,
+            "neighbourhood_id":1108802557,
             "region_id":85687053,
             "venue_id":253152397
         }
     ],
     "wof:id":253152397,
-    "wof:lastmodified":1473878987,
+    "wof:lastmodified":1492491091,
     "wof:name":"Stox",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

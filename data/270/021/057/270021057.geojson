@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885445,52.416466,4.885445,52.416466",
     "geom:latitude":52.416466,
     "geom:longitude":4.885445,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803913,
+        1108802883,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_4mLU9DjR6XpDNobio1C3pm_52.416466_4.885445@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"302d07b44dd9825a3dc722c56e2f6707",
+    "wof:geomhash":"bf6f7d59436ff790d834ee853813e738",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803913,
+            "neighbourhood_id":1108802883,
             "region_id":85687053,
             "venue_id":270021057
         }
     ],
     "wof:id":270021057,
-    "wof:lastmodified":1473878484,
+    "wof:lastmodified":1492500565,
     "wof:name":"Adviesburo Derksen",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

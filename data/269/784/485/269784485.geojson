@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.278034,52.078789,4.278034,52.078789",
     "geom:latitude":52.078789,
     "geom:longitude":4.278034,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        1108808219,
+        102191581,
+        1108808117,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_4BduFYY5KpoOJZe1mv5qPv_52.078789_4.278034@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1bdcda135e8ac4fa6d7f4d6c82a40854",
+    "wof:geomhash":"93989421412023c1ca0bef3a6fd9065c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
+            "macrohood_id":1108808117,
+            "neighbourhood_id":1108808219,
             "region_id":85687041,
             "venue_id":269784485
         }
     ],
     "wof:id":269784485,
-    "wof:lastmodified":1473879446,
+    "wof:lastmodified":1492496319,
     "wof:name":"Snackbar De Ising",
-    "wof:parent_id":85859605,
+    "wof:parent_id":1108808219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

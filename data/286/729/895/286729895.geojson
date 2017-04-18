@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881276,52.359093,4.881276,52.359093",
     "geom:latitude":52.359093,
     "geom:longitude":4.881276,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803565,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1F1XSRymlePcXq07Fb5uOQ_52.359093_4.881276@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2fdff252a9f48863af87aa53354022a8",
+    "wof:geomhash":"004217062752d6e72a30193db60900c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803565,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":286729895
         }
     ],
     "wof:id":286729895,
-    "wof:lastmodified":1473879476,
+    "wof:lastmodified":1492475596,
     "wof:name":"Muziekgroep Nederland",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

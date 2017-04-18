@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8649520874,51.5039253235,4.8649520874,51.5039253235",
     "geom:latitude":51.503925,
     "geom:longitude":4.864952,
@@ -32,17 +33,32 @@
         "restaurant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474637,
+        85633337,
+        101808175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0E41XVCENfU24yPFSJyLkC_51.503925_4.864952@1306269957"
     },
     "wof:country":"NL",
     "wof:created":1473798650,
-    "wof:geomhash":"1b224f34a9058bd632495e6697a44ee3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99c37c648e905f3d8b2c3f04a4acf3c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474637,
+            "locality_id":101808175,
+            "region_id":85687035,
+            "venue_id":1075809833
+        }
+    ],
     "wof:id":1075809833,
-    "wof:lastmodified":1473878725,
+    "wof:lastmodified":1492485960,
     "wof:name":"Gouden De Leeuw Vof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.859002,52.364613,4.859002,52.364613",
     "geom:latitude":52.364613,
     "geom:longitude":4.859002,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803601,
+        1108802785,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_27KIsAAXDmxgq1i8mjQVfq_52.364613_4.859002@1306269976"
     },
     "wof:country":"NL",
-    "wof:geomhash":"90d971f57b34d4d48b50cde383001292",
+    "wof:geomhash":"11ba5666559b4010474c9df5c2140aea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803601,
+            "neighbourhood_id":1108802785,
             "region_id":85687053,
             "venue_id":287069501
         }
     ],
     "wof:id":287069501,
-    "wof:lastmodified":1473878725,
+    "wof:lastmodified":1492513813,
     "wof:name":"Keyzer, De",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

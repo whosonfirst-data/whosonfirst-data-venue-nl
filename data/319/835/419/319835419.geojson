@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893616,52.360928,4.893616,52.360928",
     "geom:latitude":52.360928,
     "geom:longitude":4.893616,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803539,
+        1108802791,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_4x3R4rpEcAGAkszaUtPHKQ_52.360928_4.893616@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c154f88ed2b6f8e1a4b4af7da2f7952c",
+    "wof:geomhash":"8dd8f0f7b76a9b8aaee1574330fe61ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803539,
+            "neighbourhood_id":1108802791,
             "region_id":85687053,
             "venue_id":319835419
         }
     ],
     "wof:id":319835419,
-    "wof:lastmodified":1473878600,
+    "wof:lastmodified":1492479063,
     "wof:name":"Hotel Mercure Arthur Frommer",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803539,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

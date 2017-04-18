@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.866902,52.370918,4.866902,52.370918",
     "geom:latitude":52.370918,
     "geom:longitude":4.866902,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.boontje.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803197,
+        1108802849,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2WHbpV292QBtSoKSsZVdjJ_52.370918_4.866902@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"897292068e8aedd1ab95b79a9f3b1961",
+    "wof:geomhash":"9751bd973168bc7e0026b260a2745baf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803197,
+            "neighbourhood_id":1108802849,
             "region_id":85687053,
             "venue_id":270320393
         }
     ],
     "wof:id":270320393,
-    "wof:lastmodified":1473879109,
+    "wof:lastmodified":1492500062,
     "wof:name":"Boon & Co",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

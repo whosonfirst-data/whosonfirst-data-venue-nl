@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.5596518517,53.2319984436,6.5596518517,53.2319984436",
     "geom:latitude":53.231998,
     "geom:longitude":6.559652,
@@ -24,13 +25,13 @@
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        85797835,
-        85687059,
         85798391,
         102191581,
         404473713,
-        101751909
+        85633337,
+        101751909,
+        85687059,
+        85797835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,8 @@
     },
     "wof:country":"NL",
     "wof:created":1473801995,
-    "wof:geomhash":"796d46ba2815a77a36c7833a7a1b438d",
+    "wof:geomhash":"c2082e4f2601bfd7ca860cd715025600",
     "wof:hierarchy":[
-        {
-            "country_id":85633337,
-            "neighbourhood_id":85797835,
-            "region_id":85687059,
-            "venue_id":1091590967
-        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -54,12 +49,18 @@
             "neighbourhood_id":85798391,
             "region_id":85687059,
             "venue_id":1091590967
+        },
+        {
+            "country_id":85633337,
+            "neighbourhood_id":85797835,
+            "region_id":85687059,
+            "venue_id":1091590967
         }
     ],
     "wof:id":1091590967,
-    "wof:lastmodified":1473878525,
+    "wof:lastmodified":1492509837,
     "wof:name":"Fiducie",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

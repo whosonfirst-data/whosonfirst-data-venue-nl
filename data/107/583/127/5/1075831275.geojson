@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0785779953,51.8783493042,5.0785779953,51.8783493042",
     "geom:latitude":51.878349,
     "geom:longitude":5.078578,
@@ -23,17 +24,30 @@
     "sg:postcode":"4163 LH",
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474197,
+        85633337,
+        85687041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58Jjk7ob528vSHwO3iinba_51.878349_5.078578@1306270010"
     },
     "wof:country":"NL",
     "wof:created":1473799862,
-    "wof:geomhash":"fd003825851b2d4c425ad72208f4d40e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1154b1fc833ee481cf51d5932c0526ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474197,
+            "region_id":85687041,
+            "venue_id":1075831275
+        }
+    ],
     "wof:id":1075831275,
-    "wof:lastmodified":1473879274,
+    "wof:lastmodified":1492485833,
     "wof:name":"Zangershof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

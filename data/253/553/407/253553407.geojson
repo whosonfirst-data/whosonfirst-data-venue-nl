@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.85364,52.367519,4.85364,52.367519",
     "geom:latitude":52.367519,
     "geom:longitude":4.85364,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803461,
+        1108802827,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_4elYfusWfcYYlItiDw0phl_52.367519_4.853640@1306269951"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b2a444001319aba60333c2ced7dbad8d",
+    "wof:geomhash":"6e79c4b290f43c7bb0f9fd3f154db726",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803461,
+            "neighbourhood_id":1108802827,
             "region_id":85687053,
             "venue_id":253553407
         }
     ],
     "wof:id":253553407,
-    "wof:lastmodified":1473879683,
+    "wof:lastmodified":1492490898,
     "wof:name":"Janssen-Heijdelberger, L",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

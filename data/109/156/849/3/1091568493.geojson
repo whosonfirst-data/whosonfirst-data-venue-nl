@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5246682167,52.1407279968,4.5246682167,52.1407279968",
     "geom:latitude":52.140728,
     "geom:longitude":4.524668,
@@ -24,17 +25,32 @@
     "sg:province":"Zuid-Holland",
     "sg:website":"http://www.christ.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474289,
+        85633337,
+        101754697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Wu8mGta29CbLKYtx0AD5d_52.140728_4.524668@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800361,
-    "wof:geomhash":"1495257846726d5497cfaeb376aac801",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66d0d8a624845e87ec50bea2c6857291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474289,
+            "locality_id":101754697,
+            "region_id":85687041,
+            "venue_id":1091568493
+        }
+    ],
     "wof:id":1091568493,
-    "wof:lastmodified":1473878526,
+    "wof:lastmodified":1492510961,
     "wof:name":"Christ Holland Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

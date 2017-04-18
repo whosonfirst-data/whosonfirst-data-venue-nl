@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.311639,52.067337,4.311639,52.067337",
     "geom:latitude":52.067337,
     "geom:longitude":4.311639,
@@ -24,41 +25,36 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798385,
+        1108808263,
+        102191581,
+        1108808035,
         85633337,
         101752763,
-        85687041,
-        85859623,
-        101754743
+        1108808053,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5alga6QiDxeyVpCZoghCW3_52.067337_4.311639@1306269978"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d3e7b498d2e0a5bad1acaec686db6256",
+    "wof:geomhash":"d83b125c49404f8f2f255d829b4d9843",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798385,
-            "region_id":85687041,
-            "venue_id":287211201
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808263,
             "region_id":85687041,
             "venue_id":287211201
         }
     ],
     "wof:id":287211201,
-    "wof:lastmodified":1473879010,
+    "wof:lastmodified":1492513129,
     "wof:name":"Sila Boekhandel",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108808263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

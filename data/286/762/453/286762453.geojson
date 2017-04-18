@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.57101,53.217632,6.57101,53.217632",
     "geom:latitude":53.217632,
     "geom:longitude":6.57101,
@@ -24,10 +25,12 @@
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797835,
         85633337,
+        85797835,
         85687059,
         85797417,
+        102191581,
+        404473713,
         101751909
     ],
     "wof:breaches":[],
@@ -35,19 +38,18 @@
         "sg:id":"SG_4REtJUoWgxwn96JksGy22g_53.217632_6.571010@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"95f90ca16d3c203c396787d52738c334",
+    "wof:geomhash":"0a9f241c2fff58b1a920239dfbc4e8ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85797835,
             "region_id":85687059,
             "venue_id":286762453
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473713,
             "locality_id":101751909,
             "neighbourhood_id":85797417,
             "region_id":85687059,
@@ -55,9 +57,9 @@
         }
     ],
     "wof:id":286762453,
-    "wof:lastmodified":1473879559,
+    "wof:lastmodified":1492475647,
     "wof:name":"Streetlife",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

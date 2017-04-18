@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885523,52.387421,4.885523,52.387421",
     "geom:latitude":52.387421,
     "geom:longitude":4.885523,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.lostart.nl/bifrons",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804019,
+        1108802819,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_7KpNeJwp71mjZzfGMuxYXT_52.387421_4.885523@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"694490bdb5aa762c62e70a488a89c1b8",
+    "wof:geomhash":"e8f4bb4fe27a22b4b63689b004d9cdfa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108804019,
+            "neighbourhood_id":1108802819,
             "region_id":85687053,
             "venue_id":186344319
         }
     ],
     "wof:id":186344319,
-    "wof:lastmodified":1473879295,
+    "wof:lastmodified":1492508816,
     "wof:name":"Bifrons",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

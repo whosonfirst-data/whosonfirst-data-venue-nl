@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.947313,52.34428,4.947313,52.34428",
     "geom:latitude":52.34428,
     "geom:longitude":4.947313,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803505,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6LD4chDZ7ruQNjx2DdhVn2_52.344280_4.947313@1306269928"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cc28afb6229500509fd09d101330d1d8",
+    "wof:geomhash":"2912f80d7fea0b2bb0c77646e4380c4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803505,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":219746623
         }
     ],
     "wof:id":219746623,
-    "wof:lastmodified":1473879707,
+    "wof:lastmodified":1492502316,
     "wof:name":"Bron Van Oostvoorn, De",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

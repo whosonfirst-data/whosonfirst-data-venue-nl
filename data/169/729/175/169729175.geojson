@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.929373,52.354298,4.929373,52.354298",
     "geom:latitude":52.354298,
     "geom:longitude":4.929373,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804165,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6dUBvGZoHKpu7neUQUgzVk_52.354298_4.929373@1306269905"
     },
     "wof:country":"NL",
-    "wof:geomhash":"69c6e847312151349ec1e20330021393",
+    "wof:geomhash":"038167b86fc46d67a57ee5b7f6928e15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804165,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":169729175
         }
     ],
     "wof:id":169729175,
-    "wof:lastmodified":1473878567,
+    "wof:lastmodified":1492478438,
     "wof:name":"Les Jumeaux Hairstyling",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

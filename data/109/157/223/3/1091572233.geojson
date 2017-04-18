@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6943688393,51.8397674561,4.6943688393,51.8397674561",
     "geom:latitude":51.839767,
     "geom:longitude":4.694369,
@@ -24,17 +25,32 @@
     "sg:province":"Zuid-Holland",
     "sg:website":"http://www.dbwebdesign.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474239,
+        85633337,
+        101754725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03JkAJFIp4pSFvzi6jgGAw_51.839767_4.694369@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800618,
-    "wof:geomhash":"9483a6809a3e808694bdf19c54f42adf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cfdb086433c8d2b2ab09347a7d864c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474239,
+            "locality_id":101754725,
+            "region_id":85687041,
+            "venue_id":1091572233
+        }
+    ],
     "wof:id":1091572233,
-    "wof:lastmodified":1473878599,
+    "wof:lastmodified":1492511431,
     "wof:name":"Db Vof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879172,52.359695,4.879172,52.359695",
     "geom:latitude":52.359695,
     "geom:longitude":4.879172,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803565,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4ZVVZxqwaef7shdjXfW1d4_52.359695_4.879172@1306269924"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8d6f853eabc91b482ca5845183c607e7",
+    "wof:geomhash":"d7bf302eef709b7ece5e9c2e9438f357",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803565,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":219181019
         }
     ],
     "wof:id":219181019,
-    "wof:lastmodified":1473878594,
+    "wof:lastmodified":1492503453,
     "wof:name":"Zumpolle",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

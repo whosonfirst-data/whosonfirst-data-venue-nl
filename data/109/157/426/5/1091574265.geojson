@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6535010338,51.9644203186,5.6535010338,51.9644203186",
     "geom:latitude":51.96442,
     "geom:longitude":5.653501,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"HTTP://www.nymphaea.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473947,
+        85633337,
+        101837813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0U2tzHl9JDU4e5mk8VHt1S_51.964420_5.653501@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800745,
-    "wof:geomhash":"b51756006680eed5e1229daa2c414d5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dce75daa5d5dc77d7cb27c59c8773d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473947,
+            "locality_id":101837813,
+            "region_id":85687043,
+            "venue_id":1091574265
+        }
+    ],
     "wof:id":1091574265,
-    "wof:lastmodified":1473878773,
+    "wof:lastmodified":1492511476,
     "wof:name":"Nymphaea Support",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

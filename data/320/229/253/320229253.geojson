@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.870573,52.370159,4.870573,52.370159",
     "geom:latitude":52.370159,
     "geom:longitude":4.870573,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803451,
+        1108802777,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_2iUKSX2oLxqQzlRMZdPEmj_52.370159_4.870573@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9368d9d0b87515f3c0ebe905a3645e11",
+    "wof:geomhash":"c1098ae83297439b672fb9083f8569a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803451,
+            "neighbourhood_id":1108802777,
             "region_id":85687053,
             "venue_id":320229253
         }
     ],
     "wof:id":320229253,
-    "wof:lastmodified":1473879097,
+    "wof:lastmodified":1492482991,
     "wof:name":"Candela",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

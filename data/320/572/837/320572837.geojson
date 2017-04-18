@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.292311,52.06826,4.292311,52.06826",
     "geom:latitude":52.06826,
     "geom:longitude":4.292311,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798385,
+        1108808267,
+        102191581,
+        1108805975,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_2ijluzzAO9GEMKBQEgyoRV_52.068260_4.292311@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"81710f269733fc2229fd5036319b13d6",
+    "wof:geomhash":"e881f2997901fd6bf9b979df6f359cb6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798385,
+            "macrohood_id":1108805975,
+            "neighbourhood_id":1108808267,
             "region_id":85687041,
             "venue_id":320572837
         }
     ],
     "wof:id":320572837,
-    "wof:lastmodified":1473879422,
+    "wof:lastmodified":1492483675,
     "wof:name":"Serkan Market",
-    "wof:parent_id":85798385,
+    "wof:parent_id":1108808267,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.486062,51.915401,4.486062,51.915401",
     "geom:latitude":51.915401,
     "geom:longitude":4.486062,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.doefacility.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859853,
+        1108805663,
+        1108805867,
+        102191581,
         85633337,
         101751843,
+        1108804841,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3Q16E8rkqe8LEnVQswYn2q_51.915401_4.486062@1306269935"
     },
     "wof:country":"NL",
-    "wof:geomhash":"90b675921bc7abe24893d4ec273976c0",
+    "wof:geomhash":"f9bd93c0c2f4c3c2342a51da8d484fde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108804841,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859853,
+            "microhood_id":1108805663,
+            "neighbourhood_id":1108805867,
             "region_id":85687041,
             "venue_id":236235985
         }
     ],
     "wof:id":236235985,
-    "wof:lastmodified":1473878995,
+    "wof:lastmodified":1492494521,
     "wof:name":"Doe Facility",
-    "wof:parent_id":85859853,
+    "wof:parent_id":1108805663,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

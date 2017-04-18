@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.905202,52.373222,4.905202,52.373222",
     "geom:latitude":52.373222,
     "geom:longitude":4.905202,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803471,
+        1108802875,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_73Dh7kgOVIgFmbfJlom6YO_52.373222_4.905202@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ddddf5253c9daa9536a97533545f7969",
+    "wof:geomhash":"04b435bb7c46b6dd9d8b7469c3972e00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803471,
+            "neighbourhood_id":1108802875,
             "region_id":85687053,
             "venue_id":286355307
         }
     ],
     "wof:id":286355307,
-    "wof:lastmodified":1473878896,
+    "wof:lastmodified":1492475761,
     "wof:name":"Pellemans & Conaghan Trainingen",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803471,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

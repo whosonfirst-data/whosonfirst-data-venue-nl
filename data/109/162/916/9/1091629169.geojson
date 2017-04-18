@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9741249084,52.2702064514,4.9741249084,52.2702064514",
     "geom:latitude":52.270206,
     "geom:longitude":4.974125,
@@ -23,17 +24,32 @@
     "sg:postcode":"1391 BR",
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473969,
+        85633337,
+        101754595
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uToESp5xG0HNLpQMIuKSO_52.270206_4.974125@1306270020"
     },
     "wof:country":"NL",
     "wof:created":1473804501,
-    "wof:geomhash":"03bd16a20be963ac3129efbb884b3cb0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eca993885be74b15acb270ecab5a6e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473969,
+            "locality_id":101754595,
+            "region_id":85687039,
+            "venue_id":1091629169
+        }
+    ],
     "wof:id":1091629169,
-    "wof:lastmodified":1473879089,
+    "wof:lastmodified":1492512166,
     "wof:name":"Hairpoint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

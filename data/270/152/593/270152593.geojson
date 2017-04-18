@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880838,52.377708,4.880838,52.377708",
     "geom:latitude":52.377708,
     "geom:longitude":4.880838,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804119,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_57sycQNhST4mf1yZoq65jM_52.377708_4.880838@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1ab5d19723cfc8c3f34eb67eb3cd5fe0",
+    "wof:geomhash":"38bf86b8da68daaaef27a425a8681bcd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804119,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":270152593
         }
     ],
     "wof:id":270152593,
-    "wof:lastmodified":1473878664,
+    "wof:lastmodified":1492501337,
     "wof:name":"Koelen, J H",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

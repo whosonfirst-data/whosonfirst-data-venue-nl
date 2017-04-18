@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.891494,52.351334,4.891494,52.351334",
     "geom:latitude":52.351334,
     "geom:longitude":4.891494,
@@ -29,31 +30,47 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803817,
+        1108802865,
+        102191581,
         85633337,
         101751893,
-        85687053
+        1108802281,
+        85687053,
+        1108804099
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BSyE71OYIz5XNQoap9dNd_52.351334_4.891494@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e3612ebca0b5af1d119c09c2864aaebb",
+    "wof:geomhash":"64cd4e97b5907683673d1199404ea1aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803817,
+            "neighbourhood_id":1108802865,
+            "region_id":85687053,
+            "venue_id":270464891
+        },
+        {
+            "borough_id":1108802281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1108804099,
+            "neighbourhood_id":1108802865,
             "region_id":85687053,
             "venue_id":270464891
         }
     ],
     "wof:id":270464891,
-    "wof:lastmodified":1473879265,
+    "wof:lastmodified":1492500834,
     "wof:name":"Boek 'N Serve",
-    "wof:parent_id":85797363,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

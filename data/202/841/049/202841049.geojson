@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.836695,52.361855,4.836695,52.361855",
     "geom:latitude":52.361855,
     "geom:longitude":4.836695,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803301,
+        85798223,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2DNtgFvx14JlqeUDGBtFbG_52.361855_4.836695@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b36614636d553c8c458ebf55be23b9c4",
+    "wof:geomhash":"4f14a2678af98374c4b0568ae5deabb6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803301,
+            "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":202841049
         }
     ],
     "wof:id":202841049,
-    "wof:lastmodified":1473879348,
+    "wof:lastmodified":1492498030,
     "wof:name":"Nikolovski Tolk-Vertaler, K",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

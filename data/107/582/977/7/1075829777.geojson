@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1474490166,52.0784416199,5.1474490166,52.0784416199",
     "geom:latitude":52.078442,
     "geom:longitude":5.147449,
@@ -24,10 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808729,
+        102191581,
         85633337,
-        85797403,
-        85687039,
-        85859943
+        101751827,
+        1108808669,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,25 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473799778,
-    "wof:geomhash":"0d2905c049f85ff87166cdc30b879dbf",
+    "wof:geomhash":"678b8bdf9dc9a2d8bfda3a4256e884d3",
     "wof:hierarchy":[
         {
+            "borough_id":1108808669,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797403,
-            "region_id":85687039,
-            "venue_id":1075829777
-        },
-        {
-            "country_id":85633337,
-            "neighbourhood_id":85859943,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808729,
             "region_id":85687039,
             "venue_id":1075829777
         }
     ],
     "wof:id":1075829777,
-    "wof:lastmodified":1473879574,
+    "wof:lastmodified":1492487031,
     "wof:name":"Kadaster Utrecht",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108808729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.336349,52.082291,4.336349,52.082291",
     "geom:latitude":52.082291,
     "geom:longitude":4.336349,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797093,
+        1108808239,
+        102191581,
+        1108805963,
         85633337,
         101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_6xlQPjAq8T89HSL0tIGXe1_52.082291_4.336349@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2a6f5f8786705dd03b3cfb45fa065280",
+    "wof:geomhash":"1cea7e57014416d30ad53b1e6870f1fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797093,
+            "macrohood_id":1108805963,
+            "neighbourhood_id":1108808239,
             "region_id":85687041,
             "venue_id":270516787
         }
     ],
     "wof:id":270516787,
-    "wof:lastmodified":1473879391,
+    "wof:lastmodified":1492500725,
     "wof:name":"Dr. M.M. Den Hertogschool",
-    "wof:parent_id":85797093,
+    "wof:parent_id":1108808239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

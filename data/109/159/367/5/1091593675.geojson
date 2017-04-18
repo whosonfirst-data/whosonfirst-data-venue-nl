@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0059309006,52.1854400635,5.0059309006,52.1854400635",
     "geom:latitude":52.18544,
     "geom:longitude":5.005931,
@@ -23,17 +24,32 @@
     "sg:postcode":"3621 BZ",
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473979,
+        85633337,
+        101806981
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KZ2VGpAxIRBzxPU9Tu32n_52.185440_5.005931@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802137,
-    "wof:geomhash":"529041547e1fd7b51e2fc74bd6897e87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1dab47f903e2306616f477f00f3f218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473979,
+            "locality_id":101806981,
+            "region_id":85687039,
+            "venue_id":1091593675
+        }
+    ],
     "wof:id":1091593675,
-    "wof:lastmodified":1473878675,
+    "wof:lastmodified":1492509684,
     "wof:name":"Groko",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

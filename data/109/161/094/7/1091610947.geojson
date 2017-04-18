@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8007712364,52.6761894226,4.8007712364,52.6761894226",
     "geom:latitude":52.676189,
     "geom:longitude":4.800771,
@@ -24,17 +25,32 @@
     "sg:province":"North Holland",
     "sg:website":"http://www.ottoskantoorcentrum.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474093,
+        85633337,
+        101754799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Vsie4zwgKdUtbgKmJOTXC_52.676189_4.800771@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803444,
-    "wof:geomhash":"561ba7d558d16e5ff9fc9be75106b231",
-    "wof:hierarchy":[],
+    "wof:geomhash":"feeae97c141872c715ae1c87db03e797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474093,
+            "locality_id":101754799,
+            "region_id":85687053,
+            "venue_id":1091610947
+        }
+    ],
     "wof:id":1091610947,
-    "wof:lastmodified":1473878531,
+    "wof:lastmodified":1492510381,
     "wof:name":"Otto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

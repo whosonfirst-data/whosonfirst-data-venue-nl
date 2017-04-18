@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.826875,52.358482,4.826875,52.358482",
     "geom:latitude":52.358482,
     "geom:longitude":4.826875,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803877,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7jZDozAi20Y4DeIwjCgOBP_52.358482_4.826875@1306269974"
     },
     "wof:country":"NL",
-    "wof:geomhash":"98b40744299ec503c4361ec56695088b",
+    "wof:geomhash":"190a594082905cb2f32e3d46d8e6701b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803877,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":286871563
         }
     ],
     "wof:id":286871563,
-    "wof:lastmodified":1473879672,
+    "wof:lastmodified":1492476247,
     "wof:name":"Bloemenmagazijn Floriade",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

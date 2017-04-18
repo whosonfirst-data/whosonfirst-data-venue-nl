@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.093603,52.106728,5.093603,52.106728",
     "geom:latitude":52.106728,
     "geom:longitude":5.093603,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808759,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3C0aV5BI2mMgM5QRz4ZiSS_52.106728_5.093603@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"65a5ff0be989d74a356ba20976c3503d",
+    "wof:geomhash":"9bc3b8855dc7123bfa250c100cb3bee6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808759,
             "region_id":85687039,
             "venue_id":253321037
         }
     ],
     "wof:id":253321037,
-    "wof:lastmodified":1473879395,
+    "wof:lastmodified":1492488528,
     "wof:name":"Vof Kaptijn En Zn",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

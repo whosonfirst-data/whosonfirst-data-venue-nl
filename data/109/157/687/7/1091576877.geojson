@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9521770477,52.6259040833,4.9521770477,52.6259040833",
     "geom:latitude":52.625904,
     "geom:longitude":4.952177,
@@ -33,17 +34,32 @@
         "week-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474551,
+        85633337,
+        101837905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oIPEybEFWf2l4fwPfpN16_52.625904_4.952177@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473800888,
-    "wof:geomhash":"87ab1b5678ed7c0a440f6d8dca7c35bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c4c58d835e9af93ed8bf1728046124b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474551,
+            "locality_id":101837905,
+            "region_id":85687053,
+            "venue_id":1091576877
+        }
+    ],
     "wof:id":1091576877,
-    "wof:lastmodified":1473878935,
+    "wof:lastmodified":1492511213,
     "wof:name":"Romedia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6816749573,51.5561256409,5.6816749573,51.5561256409",
     "geom:latitude":51.556126,
     "geom:longitude":5.681675,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.gossip-kappers.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474563,
+        85633337,
+        101808241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ahVCPTosbf1escfhznKdO_51.556126_5.681675@1306270019"
     },
     "wof:country":"NL",
     "wof:created":1473804304,
-    "wof:geomhash":"0e2b17a233caf6071f94fe43c64f6b0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e168722d393976e529514c73a07744a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474563,
+            "locality_id":101808241,
+            "region_id":85687035,
+            "venue_id":1091626861
+        }
+    ],
     "wof:id":1091626861,
-    "wof:lastmodified":1473878957,
+    "wof:lastmodified":1492511988,
     "wof:name":"Gossip Kappers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

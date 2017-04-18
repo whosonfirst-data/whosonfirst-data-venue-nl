@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912712,52.353722,4.912712,52.353722",
     "geom:latitude":52.353722,
     "geom:longitude":4.912712,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803779,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0gECZP97e4EhzchTUZFoI2_52.353722_4.912712@1306269917"
     },
     "wof:country":"NL",
-    "wof:geomhash":"65d56b97a768d04622351c7cea593e5a",
+    "wof:geomhash":"f153a3c362376dcf2bd7812aa063f2b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803779,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":202677319
         }
     ],
     "wof:id":202677319,
-    "wof:lastmodified":1473879121,
+    "wof:lastmodified":1492498965,
     "wof:name":"Project Licht Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

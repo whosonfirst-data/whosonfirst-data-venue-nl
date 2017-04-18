@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.837242,52.382767,4.837242,52.382767",
     "geom:latitude":52.382767,
     "geom:longitude":4.837242,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108804011,
+        1108802905,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_42Mdmzw7CIZanc8NpAD7D7_52.382767_4.837242@1306269981"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1823db5469229a766873fd1f3b19dc0e",
+    "wof:geomhash":"775d55edc66e070f8f38fb0630dcac24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108804011,
+            "neighbourhood_id":1108802905,
             "region_id":85687053,
             "venue_id":303242615
         }
     ],
     "wof:id":303242615,
-    "wof:lastmodified":1473878954,
+    "wof:lastmodified":1492470800,
     "wof:name":"Krijger, E",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108804011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

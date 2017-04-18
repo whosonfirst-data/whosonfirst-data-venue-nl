@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.942481,52.361206,4.942481,52.361206",
     "geom:latitude":52.361206,
     "geom:longitude":4.942481,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803801,
+        1108802843,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2UNRnSH4ScYlk3UIcuVT6O_52.361206_4.942481@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9716f75dc5ea361fb1f5ba20fde7e51b",
+    "wof:geomhash":"2ef5fad8c9d22336e344715d56276323",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803801,
+            "neighbourhood_id":1108802843,
             "region_id":85687053,
             "venue_id":186545699
         }
     ],
     "wof:id":186545699,
-    "wof:lastmodified":1473879605,
+    "wof:lastmodified":1492508573,
     "wof:name":"Welzijn Zeeburg, Sticht",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

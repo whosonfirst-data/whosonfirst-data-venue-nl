@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.090996,52.124138,5.090996,52.124138",
     "geom:latitude":52.124138,
     "geom:longitude":5.090996,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808701,
+        102191581,
+        1108832365,
         85633337,
         101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4PQyqphI6JVR0LaopopBmg_52.124138_5.090996@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"59ffa7e4d9eb04b784b510e9ef998b9a",
+    "wof:geomhash":"ce59539aff14f7a08878d31ed9569ec2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808701,
             "region_id":85687039,
             "venue_id":336752285
         }
     ],
     "wof:id":336752285,
-    "wof:lastmodified":1473878422,
+    "wof:lastmodified":1492507006,
     "wof:name":"Rentpower Bv",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

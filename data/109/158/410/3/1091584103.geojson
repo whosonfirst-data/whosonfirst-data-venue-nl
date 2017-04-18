@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3117651939,52.0610198975,4.3117651939,52.0610198975",
     "geom:latitude":52.06102,
     "geom:longitude":4.311765,
@@ -24,12 +25,15 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859615,
+        1108808309,
         102191581,
-        404474179,
+        1108808103,
         85633337,
         101752763,
-        85687041
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,22 +41,34 @@
     },
     "wof:country":"NL",
     "wof:created":1473801395,
-    "wof:geomhash":"5d9d7028e8e3ca8b542b84aad63abe7d",
+    "wof:geomhash":"17875fc3ee8b9e4d6c9799ba1ff7db0c",
     "wof:hierarchy":[
         {
+            "borough_id":1108808049,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474179,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808309,
+            "region_id":85687041,
+            "venue_id":1091584103
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
+            "locality_id":101754743,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808309,
             "region_id":85687041,
             "venue_id":1091584103
         }
     ],
     "wof:id":1091584103,
-    "wof:lastmodified":1473878695,
+    "wof:lastmodified":1492511609,
     "wof:name":"Dolfijn",
-    "wof:parent_id":85859615,
+    "wof:parent_id":1108808309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

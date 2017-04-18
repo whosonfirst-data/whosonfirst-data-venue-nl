@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.846355,52.383648,4.846355,52.383648",
     "geom:latitude":52.383648,
     "geom:longitude":4.846355,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803529,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_17dcANd2B9LJrrDN1QZdRb_52.383648_4.846355@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d8201c1d48fc0d13b912fbfdd6fe567b",
+    "wof:geomhash":"0b60c9ef49c72514b153ba0c7652aa57",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803529,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":286761739
         }
     ],
     "wof:id":286761739,
-    "wof:lastmodified":1473879556,
+    "wof:lastmodified":1492478077,
     "wof:name":"Sloterdijk",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

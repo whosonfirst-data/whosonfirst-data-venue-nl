@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.475839,51.944992,4.475839,51.944992",
     "geom:latitude":51.944992,
     "geom:longitude":4.475839,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859841,
+        1108805793,
+        102191581,
+        1108805981,
         85633337,
-        101753095,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_2On2F8aSk6ELj4ECZPJrb7_51.944992_4.475839@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6589f469c9904f95a7d868e36ca81b8a",
+    "wof:geomhash":"ca64aae2b670f88160562ec6e9d7be5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859841,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805793,
             "region_id":85687041,
             "venue_id":269824945
         }
     ],
     "wof:id":269824945,
-    "wof:lastmodified":1473879513,
+    "wof:lastmodified":1492496013,
     "wof:name":"Pizzeria San Marco",
-    "wof:parent_id":85859841,
+    "wof:parent_id":1108805793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

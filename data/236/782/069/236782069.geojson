@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.097578,52.066132,5.097578,52.066132",
     "geom:latitude":52.066132,
     "geom:longitude":5.097578,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797771,
+        1108808767,
+        102191581,
+        1108808647,
         85633337,
         101751827,
+        1108808679,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3fF07iR5KXX3QJirdbkj1g_52.066132_5.097578@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6d4af2f8cef954cbe140c450e57282be",
+    "wof:geomhash":"6e1e6a210b64e4bb3e4a11d8ad64c572",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808679,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797771,
+            "macrohood_id":1108808647,
+            "neighbourhood_id":1108808767,
             "region_id":85687039,
             "venue_id":236782069
         }
     ],
     "wof:id":236782069,
-    "wof:lastmodified":1473879521,
+    "wof:lastmodified":1492492444,
     "wof:name":"Inter",
-    "wof:parent_id":85797771,
+    "wof:parent_id":1108808767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

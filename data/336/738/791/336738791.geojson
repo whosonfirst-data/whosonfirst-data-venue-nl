@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.40456,51.940929,4.40456,51.940929",
     "geom:latitude":51.940929,
     "geom:longitude":4.40456,
@@ -32,31 +33,46 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859705,
+        1108805757,
+        102191581,
         85633337,
-        101751845,
-        85687041
+        101751843,
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3G1JzvHldg8ecL4IopAMgR_51.940929_4.404560@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"76cfebc22ed9804e11efc01ceea19983",
+    "wof:geomhash":"a3d1e1b1411f10b53e67e32d5b010b20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805739,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":336738791
+        },
+        {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474253,
             "locality_id":101751845,
-            "neighbourhood_id":85859705,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":336738791
         }
     ],
     "wof:id":336738791,
-    "wof:lastmodified":1473878422,
+    "wof:lastmodified":1492506970,
     "wof:name":"Liekens & Co Accountants & Bel.Adviseurs",
-    "wof:parent_id":85859705,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2190289497,52.0252532959,4.2190289497,52.0252532959",
     "geom:latitude":52.025253,
     "geom:longitude":4.219029,
@@ -24,9 +25,11 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
         85633337,
-        85859557,
-        85687041
+        101808471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,16 +40,18 @@
     "wof:geomhash":"3d891ae2f124c4236e67db43e9c8d8a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85859557,
+            "localadmin_id":404474667,
+            "locality_id":101808471,
             "region_id":85687041,
             "venue_id":1075830747
         }
     ],
     "wof:id":1075830747,
-    "wof:lastmodified":1473879252,
+    "wof:lastmodified":1491931083,
     "wof:name":"Stichting Soc Cultureel Centrum",
-    "wof:parent_id":85859557,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

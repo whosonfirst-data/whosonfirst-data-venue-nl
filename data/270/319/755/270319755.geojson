@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.926463,52.351868,4.926463,52.351868",
     "geom:latitude":52.351868,
     "geom:longitude":4.926463,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804165,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2kDBczo4ftFH12RCT7lXq2_52.351868_4.926463@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a44eb1f3ec32b2ccd5d8c1e082f61ff6",
+    "wof:geomhash":"af9ae87447ae8658b12d843635bc7183",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804165,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":270319755
         }
     ],
     "wof:id":270319755,
-    "wof:lastmodified":1473879113,
+    "wof:lastmodified":1492499574,
     "wof:name":"Ty Huynh, Van",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

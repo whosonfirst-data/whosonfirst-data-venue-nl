@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876391,52.3498,4.876391,52.3498",
     "geom:latitude":52.3498,
     "geom:longitude":4.876391,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803227,
+        1108802527,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_0yV3gOnQoU8H2h2AvZDJ4x_52.349800_4.876391@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"98aba7167b42cb1c98873bb1fe563673",
+    "wof:geomhash":"2a7939dc4e435e89381e5c0d309f5d7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803227,
+            "neighbourhood_id":1108802527,
             "region_id":85687053,
             "venue_id":270486491
         }
     ],
     "wof:id":270486491,
-    "wof:lastmodified":1473879317,
+    "wof:lastmodified":1492500067,
     "wof:name":"British School Of Amsterdam",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

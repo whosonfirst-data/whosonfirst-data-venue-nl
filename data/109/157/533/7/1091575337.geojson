@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7582268715,52.6729049683,4.7582268715,52.6729049683",
     "geom:latitude":52.672905,
     "geom:longitude":4.758227,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.teit.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474025,
+        85633337,
+        101751887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6w2EX4Ofcmlh5jQ0JeywtU_52.672905_4.758227@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800819,
-    "wof:geomhash":"ca4956f70508de632432bbf44ea7927e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48ca711aa0c8ceb7f3fa93decbcfa2a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474025,
+            "locality_id":101751887,
+            "region_id":85687053,
+            "venue_id":1091575337
+        }
+    ],
     "wof:id":1091575337,
-    "wof:lastmodified":1473878865,
+    "wof:lastmodified":1492511187,
     "wof:name":"Teit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

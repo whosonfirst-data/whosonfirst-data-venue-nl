@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.086965,52.124805,5.086965,52.124805",
     "geom:latitude":52.124805,
     "geom:longitude":5.086965,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808701,
+        102191581,
+        1108832365,
         85633337,
         101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0S3RIfFZGxCEz7AiwbOpyq_52.124805_5.086965@1306269942"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8b51f6e8cdaf82e6d07ede850d844bfa",
+    "wof:geomhash":"18b9630b4d22419c58afbd809dbcaac6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808701,
             "region_id":85687039,
             "venue_id":236915751
         }
     ],
     "wof:id":236915751,
-    "wof:lastmodified":1473879611,
+    "wof:lastmodified":1492494010,
     "wof:name":"Power",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

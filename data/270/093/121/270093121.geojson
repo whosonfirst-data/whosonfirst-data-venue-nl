@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.27679,52.064758,4.27679,52.064758",
     "geom:latitude":52.064758,
     "geom:longitude":4.27679,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797151,
+        1108808273,
+        102191581,
+        1108808119,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_227cNv5A7nr1MbLpveNKBS_52.064758_4.276790@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5545b8f768df8aa1f5e5b1e792791350",
+    "wof:geomhash":"55c8699cab52adc75c7bb034686b881e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797151,
+            "macrohood_id":1108808119,
+            "neighbourhood_id":1108808273,
             "region_id":85687041,
             "venue_id":270093121
         }
     ],
     "wof:id":270093121,
-    "wof:lastmodified":1473878565,
+    "wof:lastmodified":1492501177,
     "wof:name":"Foto Huurman",
-    "wof:parent_id":85797151,
+    "wof:parent_id":1108808273,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

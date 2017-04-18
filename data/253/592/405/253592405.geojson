@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.095899,52.089977,5.095899,52.089977",
     "geom:latitude":52.089977,
     "geom:longitude":5.095899,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808791,
+        102191581,
+        1108808651,
         85633337,
         101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_7OT85cIJy4s8ZAdbDDiC0b_52.089977_5.095899@1306269951"
     },
     "wof:country":"NL",
-    "wof:geomhash":"08eb53ae1aca0bae46999aff201b5d00",
+    "wof:geomhash":"b50c09222fe87a428e0bcad85817d88f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808651,
+            "neighbourhood_id":1108808791,
             "region_id":85687039,
             "venue_id":253592405
         }
     ],
     "wof:id":253592405,
-    "wof:lastmodified":1473879687,
+    "wof:lastmodified":1492489988,
     "wof:name":"Zijl-Van Miltenburg, J H I Van",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

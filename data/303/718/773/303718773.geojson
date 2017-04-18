@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.97663,52.295086,4.97663,52.295086",
     "geom:latitude":52.295086,
     "geom:longitude":4.97663,
@@ -23,9 +24,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803939,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +37,23 @@
         "sg:id":"SG_66eJCdQYPtBdoFOL0JTJa4_52.295086_4.976630@1306269987"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1203dcd7e30bd864e998a5179c28d6af",
+    "wof:geomhash":"dac396c13513cb575950668af61f8203",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803939,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":303718773
         }
     ],
     "wof:id":303718773,
-    "wof:lastmodified":1473879480,
+    "wof:lastmodified":1492474495,
     "wof:name":"Rabobank Geldautomaat",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

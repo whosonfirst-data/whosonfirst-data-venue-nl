@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.261745,52.07856,4.261745,52.07856",
     "geom:latitude":52.07856,
     "geom:longitude":4.261745,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859589,
+        1108808185,
+        102191581,
+        1108805965,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6JF9M0c8UXTJbuO4OqNPUg_52.078560_4.261745@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5626dcc2db84b68572de70114c6869fe",
+    "wof:geomhash":"c8b8bc51fac4016a6084d51bcbb89f4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859589,
+            "macrohood_id":1108805965,
+            "neighbourhood_id":1108808185,
             "region_id":85687041,
             "venue_id":236023769
         }
     ],
     "wof:id":236023769,
-    "wof:lastmodified":1473878571,
+    "wof:lastmodified":1492492713,
     "wof:name":"Bar Bodega De Gouden Klep",
-    "wof:parent_id":85859589,
+    "wof:parent_id":1108808185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

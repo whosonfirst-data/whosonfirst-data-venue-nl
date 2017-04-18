@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.901832,52.357639,4.901832,52.357639",
     "geom:latitude":52.357639,
     "geom:longitude":4.901832,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803835,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0qAREHskUknc9VhG07A8xe_52.357639_4.901832@1306269932"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d91a294ba5e906470797c76d06ff0d6f",
+    "wof:geomhash":"36ed4cf8171cba4c46b041ca87d02257",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803835,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":220155527
         }
     ],
     "wof:id":220155527,
-    "wof:lastmodified":1473878988,
+    "wof:lastmodified":1492481633,
     "wof:name":"Advocatenkantoor Hemonijlaan",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

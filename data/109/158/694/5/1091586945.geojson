@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.5177969933,52.8585243225,6.5177969933,52.8585243225",
     "geom:latitude":52.858524,
     "geom:longitude":6.517797,
@@ -23,17 +24,32 @@
     "sg:postcode":"9411 PG",
     "sg:province":"Drenthe",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474649,
+        85633337,
+        101807273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GXvTU8i0qAcbKebopjxxT_52.858524_6.517797@1306270014"
     },
     "wof:country":"NL",
     "wof:created":1473801750,
-    "wof:geomhash":"4e8e7281343c6a5020539ceb40f53c08",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b42a99619b07bee3b7a82d2229a9816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474649,
+            "locality_id":101807273,
+            "region_id":85687051,
+            "venue_id":1091586945
+        }
+    ],
     "wof:id":1091586945,
-    "wof:lastmodified":1473878906,
+    "wof:lastmodified":1492511530,
     "wof:name":"Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

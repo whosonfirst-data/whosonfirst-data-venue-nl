@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8694558144,52.7080383301,5.8694558144,52.7080383301",
     "geom:latitude":52.708038,
     "geom:longitude":5.869456,
@@ -24,17 +25,32 @@
     "sg:province":"Flevoland",
     "sg:website":"http://www.abc.arkenbouw.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473843,
+        85633337,
+        101807241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61YTy96vsQmlKq4IYxn0t8_52.708038_5.869456@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802652,
-    "wof:geomhash":"28e4df78c4aa62967a16e41827d46b99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2679dfd785a1a90842175a23eab7fb62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473843,
+            "locality_id":101807241,
+            "region_id":85687049,
+            "venue_id":1091602127
+        }
+    ],
     "wof:id":1091602127,
-    "wof:lastmodified":1473878579,
+    "wof:lastmodified":1492512763,
     "wof:name":"Abc Arkenbouw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.905923,52.408154,4.905923,52.408154",
     "geom:latitude":52.408154,
     "geom:longitude":4.905923,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804179,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_7Ah3lNIXTlx0DpYKZnxo3C_52.408154_4.905923@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0bb45d62d1b5ea291997a82d7ba965db",
+    "wof:geomhash":"0a78dd513de2a51207dd8ddf60190908",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108804179,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":320716555
         }
     ],
     "wof:id":320716555,
-    "wof:lastmodified":1473879560,
+    "wof:lastmodified":1492483061,
     "wof:name":"Eye Catchers",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108804179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

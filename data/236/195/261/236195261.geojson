@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.089114,52.124458,5.089114,52.124458",
     "geom:latitude":52.124458,
     "geom:longitude":5.089114,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.teleson.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808701,
+        102191581,
+        1108832365,
         85633337,
         101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3wqN9OcrknFJtiCCVYr3ga_52.124458_5.089114@1306269935"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a8b1d0065907d412d3c025879bb966be",
+    "wof:geomhash":"c04adf228cdebfc0b90e668af3d57307",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808701,
             "region_id":85687039,
             "venue_id":236195261
         }
     ],
     "wof:id":236195261,
-    "wof:lastmodified":1473878895,
+    "wof:lastmodified":1492493836,
     "wof:name":"Teleson Bv",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

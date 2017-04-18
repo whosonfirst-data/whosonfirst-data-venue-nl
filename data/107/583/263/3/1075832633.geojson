@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3936319351,53.1629943848,6.3936319351,53.1629943848",
     "geom:latitude":53.162994,
     "geom:longitude":6.393632,
@@ -24,17 +25,32 @@
     "sg:province":"Groningen",
     "sg:website":"http://www.action-shop.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473721,
+        85633337,
+        101837999
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64NbOnJCxcCoWJHlnryJWu_53.162994_6.393632@1306270010"
     },
     "wof:country":"NL",
     "wof:created":1473799940,
-    "wof:geomhash":"c77306db120011f6de66fba0793dd127",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d875bf1e72445b1a86a909acd73beec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473721,
+            "locality_id":101837999,
+            "region_id":85687059,
+            "venue_id":1075832633
+        }
+    ],
     "wof:id":1075832633,
-    "wof:lastmodified":1473879329,
+    "wof:lastmodified":1492485733,
     "wof:name":"Action",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

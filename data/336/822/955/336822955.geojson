@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.854239,52.384304,4.854239,52.384304",
     "geom:latitude":52.384304,
     "geom:longitude":4.854239,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803867,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4vjrjAxNx9deHfKtB4qxz9_52.384304_4.854239@1306270006"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0c93a6bb8b2cb4a1b980f76aae29d614",
+    "wof:geomhash":"f7aff954e6654ad67b0adedbed0f5510",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803867,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":336822955
         }
     ],
     "wof:id":336822955,
-    "wof:lastmodified":1473878478,
+    "wof:lastmodified":1492505803,
     "wof:name":"Bijanic, P",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803867,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.098626,52.066669,5.098626,52.066669",
     "geom:latitude":52.066669,
     "geom:longitude":5.098626,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797771,
+        1108808767,
+        102191581,
+        1108808647,
         85633337,
         101751827,
+        1108808679,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6e2YmYAQj2ORkB24cDBm5H_52.066669_5.098626@1306269982"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cf9106028a10214a2a6d59b4e0f8b5ec",
+    "wof:geomhash":"32351b6a70a958b71422584ec55c4a34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808679,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797771,
+            "macrohood_id":1108808647,
+            "neighbourhood_id":1108808767,
             "region_id":85687039,
             "venue_id":303325661
         }
     ],
     "wof:id":303325661,
-    "wof:lastmodified":1473879126,
+    "wof:lastmodified":1492472478,
     "wof:name":"De Brabander",
-    "wof:parent_id":85797771,
+    "wof:parent_id":1108808767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

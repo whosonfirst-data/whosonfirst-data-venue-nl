@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.921475,52.358902,4.921475,52.358902",
     "geom:latitude":52.358902,
     "geom:longitude":4.921475,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803833,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6EI1DNm2WFD2JbefA3hmRh_52.358902_4.921475@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a262f71f995ea65c7d1b3547b1af211e",
+    "wof:geomhash":"446fdbb29dc01abe579e55a3c72c044d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803833,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":203231633
         }
     ],
     "wof:id":203231633,
-    "wof:lastmodified":1473879174,
+    "wof:lastmodified":1492480865,
     "wof:name":"Nieuw Huis",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

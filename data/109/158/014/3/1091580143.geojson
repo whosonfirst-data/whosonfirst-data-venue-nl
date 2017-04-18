@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3780031204,53.1747093201,6.3780031204,53.1747093201",
     "geom:latitude":53.174709,
     "geom:longitude":6.378003,
@@ -23,17 +24,32 @@
     "sg:postcode":"9351 PP",
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473721,
+        85633337,
+        101837989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ViOSMUAomqG5zq0gmqgdF_53.174709_6.378003@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801205,
-    "wof:geomhash":"d3121056a9f96456de18c41b11abc75a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5dfba98aa2e30011b10ff71fb26bb464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473721,
+            "locality_id":101837989,
+            "region_id":85687059,
+            "venue_id":1091580143
+        }
+    ],
     "wof:id":1091580143,
-    "wof:lastmodified":1473878453,
+    "wof:lastmodified":1492511601,
     "wof:name":"Bakker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

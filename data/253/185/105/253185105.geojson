@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.883475,52.382622,4.883475,52.382622",
     "geom:latitude":52.382622,
     "geom:longitude":4.883475,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804285,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3NSQzMLIjZtfFElsIGXCOp_52.382622_4.883475@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"21dfa0c5d0f29fb50092323b04d6b3d0",
+    "wof:geomhash":"353a81c6be753befe553da422b32bf4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804285,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":253185105
         }
     ],
     "wof:id":253185105,
-    "wof:lastmodified":1473879071,
+    "wof:lastmodified":1492489433,
     "wof:name":"Zwaan",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

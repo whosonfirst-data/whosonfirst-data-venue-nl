@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3179001808,52.0882034302,4.3179001808,52.0882034302",
     "geom:latitude":52.088203,
     "geom:longitude":4.3179,
@@ -24,13 +25,13 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797091,
+        1108808143,
         102191581,
-        404474179,
+        1108805961,
         85633337,
         101752763,
-        85687041,
-        85798437
+        1108808045,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,31 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473799754,
-    "wof:geomhash":"35c69b4f6c0e9828e4f29ef2664b8060",
+    "wof:geomhash":"c8105a8c956507ebfdd0ae0dce7b3cc7",
     "wof:hierarchy":[
         {
+            "borough_id":1108808045,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474179,
             "locality_id":101752763,
-            "neighbourhood_id":85797091,
-            "region_id":85687041,
-            "venue_id":1075829381
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474179,
-            "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108805961,
+            "neighbourhood_id":1108808143,
             "region_id":85687041,
             "venue_id":1075829381
         }
     ],
     "wof:id":1075829381,
-    "wof:lastmodified":1473879577,
+    "wof:lastmodified":1492486660,
     "wof:name":"Haagse Vereniging Van 1854 Tot Verbetering Van Won",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108808143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

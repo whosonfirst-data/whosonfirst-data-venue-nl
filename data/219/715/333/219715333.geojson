@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.89197,52.35656,4.89197,52.35656",
     "geom:latitude":52.35656,
     "geom:longitude":4.89197,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.corpus.nl/irs/compinfo.htm",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803865,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_0slHnY2jxXuUVMQmvUwbpg_52.356560_4.891970@1306269928"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3688a403d494679650a71893b02b1e52",
+    "wof:geomhash":"fc499f597bcacb58c15d3aaf5e4e81c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803865,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":219715333
         }
     ],
     "wof:id":219715333,
-    "wof:lastmodified":1473879660,
+    "wof:lastmodified":1492501959,
     "wof:name":"Inspektor Research Syst Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

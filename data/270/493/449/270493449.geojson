@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.330225,52.057915,4.330225,52.057915",
     "geom:latitude":52.057915,
     "geom:longitude":4.330225,
@@ -33,31 +34,49 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798353,
+        1108808315,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6d4HY0kQALMYGf6x4i2r2N_52.057915_4.330225@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"96aede9ac06a210b96bcf910d495fa61",
+    "wof:geomhash":"8fbab63dff71e0468f4e403098249d7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808315,
+            "region_id":85687041,
+            "venue_id":270493449
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85798353,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808315,
             "region_id":85687041,
             "venue_id":270493449
         }
     ],
     "wof:id":270493449,
-    "wof:lastmodified":1473879334,
+    "wof:lastmodified":1492499336,
     "wof:name":"Christelijke Basisschool De Horizon",
-    "wof:parent_id":85798353,
+    "wof:parent_id":1108808315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

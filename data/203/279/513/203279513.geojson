@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.898928,52.371708,4.898928,52.371708",
     "geom:latitude":52.371708,
     "geom:longitude":4.898928,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803883,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1utybWFlCbMpbuzy3Z798l_52.371708_4.898928@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"72c7464c1bc32cb47b62e98b3c89409f",
+    "wof:geomhash":"d4e2969d617c11d226ef8f895e00c2d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803883,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":203279513
         }
     ],
     "wof:id":203279513,
-    "wof:lastmodified":1473879224,
+    "wof:lastmodified":1492480539,
     "wof:name":"Euraco Enterprise Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

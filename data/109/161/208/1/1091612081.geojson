@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6368618011,52.0737075806,4.6368618011,52.0737075806",
     "geom:latitude":52.073708,
     "geom:longitude":4.636862,
@@ -23,17 +24,32 @@
     "sg:postcode":"2771 WP",
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474279,
+        85633337,
+        101754715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ub7Jl1kPeIXs88MYvtyqu_52.073708_4.636862@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803525,
-    "wof:geomhash":"6d21af08b8ed09c173cc4dfb9ff07ce1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e733313225bd6c715cdae758c169c187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474279,
+            "locality_id":101754715,
+            "region_id":85687041,
+            "venue_id":1091612081
+        }
+    ],
     "wof:id":1091612081,
-    "wof:lastmodified":1473878567,
+    "wof:lastmodified":1492510468,
     "wof:name":"Ls Support",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

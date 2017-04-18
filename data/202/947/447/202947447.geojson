@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.939939,52.359077,4.939939,52.359077",
     "geom:latitude":52.359077,
     "geom:longitude":4.939939,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.grv.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803597,
+        1108802845,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2GSKElVklWUjh9a1zZggkv_52.359077_4.939939@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d3147ef8a0dccd01f4f3eb2bafcaf65d",
+    "wof:geomhash":"8d4de4f05764c1249e83d356e5f5fbbf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803597,
+            "neighbourhood_id":1108802845,
             "region_id":85687053,
             "venue_id":202947447
         }
     ],
     "wof:id":202947447,
-    "wof:lastmodified":1473879423,
+    "wof:lastmodified":1492498441,
     "wof:name":"Grv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803597,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

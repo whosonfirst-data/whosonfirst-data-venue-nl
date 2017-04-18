@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.856691,52.357887,4.856691,52.357887",
     "geom:latitude":52.357887,
     "geom:longitude":4.856691,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803957,
+        1108802893,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_7UUgJVphX0ZPLdb184xQwq_52.357887_4.856691@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"71be34af41ae8bf54e8c9d0f1a3194ea",
+    "wof:geomhash":"e22c92d736a29985713a37d6d2a428ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803957,
+            "neighbourhood_id":1108802893,
             "region_id":85687053,
             "venue_id":269785603
         }
     ],
     "wof:id":269785603,
-    "wof:lastmodified":1473879449,
+    "wof:lastmodified":1492496432,
     "wof:name":"Snackbar Fame",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

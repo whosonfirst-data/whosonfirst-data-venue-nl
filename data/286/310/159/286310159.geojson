@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.803514,52.379173,4.803514,52.379173",
     "geom:latitude":52.379173,
     "geom:longitude":4.803514,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803633,
         85797579,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_0DhYKj1HfRyFCKFoSCAYKs_52.379173_4.803514@1306269967"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d022d0d48d45509bc3cc661950d23877",
+    "wof:geomhash":"15dbf5aa58d957f0e8a00cc37077c075",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803633,
             "neighbourhood_id":85797579,
             "region_id":85687053,
             "venue_id":286310159
         }
     ],
     "wof:id":286310159,
-    "wof:lastmodified":1473878699,
+    "wof:lastmodified":1492476208,
     "wof:name":"Swwt Psz De Tuinkabouter",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108803633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

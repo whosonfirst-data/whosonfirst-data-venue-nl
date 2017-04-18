@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7550649643,52.1276168823,5.7550649643,52.1276168823",
     "geom:latitude":52.127617,
     "geom:longitude":5.755065,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.cc-harskamp.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473893,
+        85633337,
+        101807095
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kH1UhfP6o9wwyOOQOM8s6_52.127617_5.755065@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473803032,
-    "wof:geomhash":"3dfb0e00572ae5f9bd38c3b31741264e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13072cdf679b8823fe0af6475ee9adb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473893,
+            "locality_id":101807095,
+            "region_id":85687043,
+            "venue_id":1091605587
+        }
+    ],
     "wof:id":1091605587,
-    "wof:lastmodified":1473878751,
+    "wof:lastmodified":1492512560,
     "wof:name":"Camper Centrum Harskamp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

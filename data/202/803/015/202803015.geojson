@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.356041,51.990925,4.356041,51.990925",
     "geom:latitude":51.990925,
     "geom:longitude":4.356041,
@@ -25,29 +26,33 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85797219,
+        102191581,
+        404474669,
         85633337,
-        101752765,
         85687041,
-        85798599
+        85798599,
+        404474165,
+        101752765
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_112Vy9SrU6Y2e1ZMkpPd4K_51.990925_4.356041@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8d0c52127099e00f02df6dfe98c89dbc",
+    "wof:geomhash":"ed9165653d223627464019c76f02bd4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101752765,
+            "localadmin_id":404474669,
             "neighbourhood_id":85797219,
             "region_id":85687041,
             "venue_id":202803015
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474165,
             "locality_id":101752765,
             "neighbourhood_id":85798599,
             "region_id":85687041,
@@ -55,9 +60,9 @@
         }
     ],
     "wof:id":202803015,
-    "wof:lastmodified":1473879259,
+    "wof:lastmodified":1492499056,
     "wof:name":"Van Brandwijk Vertalers",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

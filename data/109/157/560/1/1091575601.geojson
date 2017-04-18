@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6990637779,51.4622116089,5.6990637779,51.4622116089",
     "geom:latitude":51.462212,
     "geom:longitude":5.699064,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.vd-design.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474389,
+        85633337,
+        101751805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Dd6S8cdPVl03YK3KIpmGI_51.462212_5.699064@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800831,
-    "wof:geomhash":"c694f5511ce6e068c8250e8f9d4ba69e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1531baba1b394f78fe16d285dd133d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474389,
+            "locality_id":101751805,
+            "region_id":85687035,
+            "venue_id":1091575601
+        }
+    ],
     "wof:id":1091575601,
-    "wof:lastmodified":1473878897,
+    "wof:lastmodified":1492511003,
     "wof:name":"Vd-Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

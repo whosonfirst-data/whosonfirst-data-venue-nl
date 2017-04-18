@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1326670647,51.9855995178,4.1326670647,51.9855995178",
     "geom:latitude":51.9856,
     "geom:longitude":4.132667,
@@ -23,19 +24,36 @@
     "sg:postcode":"3151 EG",
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85797461,
+        102191581,
+        85633337,
+        101751843,
+        1108805729,
+        85687041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1acFBm4xVcd76iRg5lWRff_51.985600_4.132667@1306270014"
     },
     "wof:country":"NL",
     "wof:created":1473801956,
-    "wof:geomhash":"d555148399527f25ae7f7aff5a077c20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9cd1d5c5abad91c86b72490526af07ba",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108805729,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797461,
+            "region_id":85687041,
+            "venue_id":1091590133
+        }
+    ],
     "wof:id":1091590133,
-    "wof:lastmodified":1473878494,
+    "wof:lastmodified":1492509614,
     "wof:name":"Van Herp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

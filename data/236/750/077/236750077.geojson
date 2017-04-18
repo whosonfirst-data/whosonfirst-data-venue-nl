@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.551346,51.960777,4.551346,51.960777",
     "geom:latitude":51.960777,
     "geom:longitude":4.551346,
@@ -26,20 +27,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IxICs91lB1sM7g3VDBu2T_51.960777_4.551346@1306269940"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8848fb85b99752d637f32a9d7b92f9a5",
+    "wof:geomhash":"acc7efe005e3a194f93e8a565192210e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":236750077
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798149,
             "region_id":85687041,
@@ -47,7 +63,7 @@
         }
     ],
     "wof:id":236750077,
-    "wof:lastmodified":1473879516,
+    "wof:lastmodified":1492491771,
     "wof:name":"Bastiaan",
     "wof:parent_id":85798149,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.904695,52.408089,4.904695,52.408089",
     "geom:latitude":52.408089,
     "geom:longitude":4.904695,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804179,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_4P22bs7nJBJpDxr5LTOci8_52.408089_4.904695@1306269907"
     },
     "wof:country":"NL",
-    "wof:geomhash":"228899a40b91c2e1b5c3d17f3207c7d1",
+    "wof:geomhash":"38446df5338ee62ec504443d5585e0de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108804179,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":185668519
         }
     ],
     "wof:id":185668519,
-    "wof:lastmodified":1473878603,
+    "wof:lastmodified":1492487902,
     "wof:name":"Backx Bv",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108804179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

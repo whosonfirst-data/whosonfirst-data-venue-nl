@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.114249,52.115276,5.114249,52.115276",
     "geom:latitude":52.115276,
     "geom:longitude":5.114249,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808929,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6SVa3KuuFj1AxeZ4WUav9q_52.115276_5.114249@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a86b1364bc75b0dcaf6b5a4d5fd9861b",
+    "wof:geomhash":"0f1c9d454047e4a0fe62dcfc85632875",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808929,
             "region_id":85687039,
             "venue_id":270143825
         }
     ],
     "wof:id":270143825,
-    "wof:lastmodified":1473878673,
+    "wof:lastmodified":1492500309,
     "wof:name":"Zoutendijk",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

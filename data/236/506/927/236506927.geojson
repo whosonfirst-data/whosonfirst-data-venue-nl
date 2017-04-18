@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.856627,52.379356,4.856627,52.379356",
     "geom:latitude":52.379356,
     "geom:longitude":4.856627,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803615,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2Mu5NC0JGpaAqqxJgsD2xN_52.379356_4.856627@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"af1e58ead5c72218de7a3e164047fee7",
+    "wof:geomhash":"1ba959c34b1040e7e5e6b7ee697b3049",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803615,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":236506927
         }
     ],
     "wof:id":236506927,
-    "wof:lastmodified":1473879390,
+    "wof:lastmodified":1492492212,
     "wof:name":"H.J.H. Leijssen",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

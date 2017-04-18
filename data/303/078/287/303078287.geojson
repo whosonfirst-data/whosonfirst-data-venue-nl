@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.945462,52.367966,4.945462,52.367966",
     "geom:latitude":52.367966,
     "geom:longitude":4.945462,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803349,
+        1108802877,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6mOSwxIlGiPPmiyLDGEs0I_52.367966_4.945462@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4bf638c4ee64c6fee4c2d08734c41147",
+    "wof:geomhash":"8fdf8a53266d5a10a67a998d85deb30f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803349,
+            "neighbourhood_id":1108802877,
             "region_id":85687053,
             "venue_id":303078287
         }
     ],
     "wof:id":303078287,
-    "wof:lastmodified":1473878633,
+    "wof:lastmodified":1492473347,
     "wof:name":"Van Etten En Van Rooij En Partners",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803349,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

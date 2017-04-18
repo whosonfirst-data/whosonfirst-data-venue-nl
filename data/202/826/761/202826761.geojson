@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.43801,51.911968,4.43801,51.911968",
     "geom:latitude":51.911968,
     "geom:longitude":4.43801,
@@ -25,30 +26,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859765,
+        102191581,
         85633337,
         101751843,
-        85687041
+        1108805753,
+        85687041,
+        85859771
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7879MnVaeZAjaHHeSicJuU_51.911968_4.438010@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3123c31faf7baa29124b0551d21b9482",
+    "wof:geomhash":"783b4d7256bff31ed454178b86c37ef9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805753,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
             "neighbourhood_id":85859765,
             "region_id":85687041,
             "venue_id":202826761
+        },
+        {
+            "borough_id":1108805753,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85859771,
+            "region_id":85687041,
+            "venue_id":202826761
         }
     ],
     "wof:id":202826761,
-    "wof:lastmodified":1473879334,
+    "wof:lastmodified":1492498584,
     "wof:name":"Efe Terc\u00fcme",
-    "wof:parent_id":85859765,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

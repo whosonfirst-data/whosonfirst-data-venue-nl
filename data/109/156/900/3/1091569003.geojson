@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.7508392334,52.6545753479,6.7508392334,52.6545753479",
     "geom:latitude":52.654575,
     "geom:longitude":6.750839,
@@ -24,17 +25,32 @@
     "sg:province":"Drenthe",
     "sg:website":"http://www.wtwatersystems.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473807,
+        85633337,
+        101807741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EH0obH1YiGhWZN7AHUf4C_52.654575_6.750839@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800399,
-    "wof:geomhash":"3a1e47cafbb1096ddd86cba720240785",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb0aab3ee4e863bb430a7751fb79d5d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473807,
+            "locality_id":101807741,
+            "region_id":85687051,
+            "venue_id":1091569003
+        }
+    ],
     "wof:id":1091569003,
-    "wof:lastmodified":1473878555,
+    "wof:lastmodified":1492510901,
     "wof:name":"Wt-Watersystems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

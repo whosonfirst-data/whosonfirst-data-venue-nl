@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.283021,52.081688,4.283021,52.081688",
     "geom:latitude":52.081688,
     "geom:longitude":4.283021,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        1108808179,
+        102191581,
+        1108808085,
         85633337,
         101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_2GkOS17KRKAB3snUFCCoJO_52.081688_4.283021@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"203e06fbbb488d05139377d9104574ec",
+    "wof:geomhash":"6ff6e467759e1a1f1a44340511c3d509",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
+            "macrohood_id":1108808085,
+            "neighbourhood_id":1108808179,
             "region_id":85687041,
             "venue_id":269788597
         }
     ],
     "wof:id":269788597,
-    "wof:lastmodified":1473879474,
+    "wof:lastmodified":1492494999,
     "wof:name":"Snackbar Salantina",
-    "wof:parent_id":85859605,
+    "wof:parent_id":1108808179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

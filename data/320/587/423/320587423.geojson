@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.534754,51.958874,4.534754,51.958874",
     "geom:latitude":51.958874,
     "geom:longitude":4.534754,
@@ -33,31 +34,46 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859913,
+        85798149,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EiMXhM6DxYYh6uUuxYK86_51.958874_4.534754@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2f2b53701651f816256e4cf3210fcbe2",
+    "wof:geomhash":"9e9b35f1fe4a993203d1b331839bd55b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859913,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":320587423
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":320587423
         }
     ],
     "wof:id":320587423,
-    "wof:lastmodified":1473879425,
+    "wof:lastmodified":1492484914,
     "wof:name":"Dammers, W J",
-    "wof:parent_id":85859913,
+    "wof:parent_id":85798149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

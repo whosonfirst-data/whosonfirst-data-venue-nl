@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.964618,52.299965,4.964618,52.299965",
     "geom:latitude":52.299965,
     "geom:longitude":4.964618,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803365,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_0OPWd0TEks21NdYDiOwoLJ_52.299965_4.964618@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e7959353ab056dcd99f68a69a14bdc3b",
+    "wof:geomhash":"39ef4f63f0e0cc6b4e65e65ec89b383f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803365,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":269786627
         }
     ],
     "wof:id":269786627,
-    "wof:lastmodified":1473879448,
+    "wof:lastmodified":1492494995,
     "wof:name":"Snackbar Holendrechtplein",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803365,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

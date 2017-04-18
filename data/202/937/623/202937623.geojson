@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.901735,52.347183,4.901735,52.347183",
     "geom:latitude":52.347183,
     "geom:longitude":4.901735,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803569,
+        1108802841,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1k7niKT1PH49Kr3JV7dAu3_52.347183_4.901735@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b3ee2a81eede2d6fc1a361f235900728",
+    "wof:geomhash":"44aa4f51d6f64ff4c87bbd2d9b284b42",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803569,
+            "neighbourhood_id":1108802841,
             "region_id":85687053,
             "venue_id":202937623
         }
     ],
     "wof:id":202937623,
-    "wof:lastmodified":1473879428,
+    "wof:lastmodified":1492497732,
     "wof:name":"Feenstra",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

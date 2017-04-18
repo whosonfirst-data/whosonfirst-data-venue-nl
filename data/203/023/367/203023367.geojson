@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.853099,52.357033,4.853099,52.357033",
     "geom:latitude":52.357033,
     "geom:longitude":4.853099,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803655,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3iFruNqrkKIxCyWZwGKN2P_52.357033_4.853099@1306269920"
     },
     "wof:country":"NL",
-    "wof:geomhash":"832f671d66d3a4d54ab7320c96501789",
+    "wof:geomhash":"0346163a9c7e7ec1a01cae00cf31ac7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803655,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":203023367
         }
     ],
     "wof:id":203023367,
-    "wof:lastmodified":1473878551,
+    "wof:lastmodified":1492480309,
     "wof:name":"Spreitzer, M",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

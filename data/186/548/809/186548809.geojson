@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.078572,52.11018,5.078572,52.11018",
     "geom:latitude":52.11018,
     "geom:longitude":5.078572,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808841,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3XkDESdbLf4iP9AAYAKiRI_52.110180_5.078572@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"571a9af4b1b21417d19ed4ac6d8fac7c",
+    "wof:geomhash":"9ee1a3ca8e882b9a4c0520793fc0e9b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808841,
             "region_id":85687039,
             "venue_id":186548809
         }
     ],
     "wof:id":186548809,
-    "wof:lastmodified":1473879599,
+    "wof:lastmodified":1492509091,
     "wof:name":"Wijkonderhoud West, Sticht",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

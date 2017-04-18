@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1239929199,51.8316688538,4.1239929199,51.8316688538",
     "geom:latitude":51.831669,
     "geom:longitude":4.123993,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.wedd.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474183,
+        85633337,
+        101808501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65JhfbIq3MOuBgSXaf6Jzs_51.831669_4.123993@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800847,
-    "wof:geomhash":"667483311d5b7600044334e5d3120d93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22117df5d24a58f7e0d098e0a88b3fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474183,
+            "locality_id":101808501,
+            "region_id":85687041,
+            "venue_id":1091575931
+        }
+    ],
     "wof:id":1091575931,
-    "wof:lastmodified":1473878911,
+    "wof:lastmodified":1492511233,
     "wof:name":"Wedd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

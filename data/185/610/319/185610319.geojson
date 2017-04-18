@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.550853,51.940002,4.550853,51.940002",
     "geom:latitude":51.940002,
     "geom:longitude":4.550853,
@@ -24,31 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        1108805851,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QvyNu8TluJriZWEosoYhf_51.940002_4.550853@1306269906"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b9d9da0e766c92864dcb44164caffe46",
+    "wof:geomhash":"46c46e153694de379cc740eee8882db2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805851,
+            "region_id":85687041,
+            "venue_id":185610319
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "neighbourhood_id":1108805851,
             "region_id":85687041,
             "venue_id":185610319
         }
     ],
     "wof:id":185610319,
-    "wof:lastmodified":1473878491,
+    "wof:lastmodified":1492487968,
     "wof:name":"Th Van Driel",
-    "wof:parent_id":85798329,
+    "wof:parent_id":1108805851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

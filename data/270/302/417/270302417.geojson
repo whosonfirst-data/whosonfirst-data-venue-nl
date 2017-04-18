@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885314,52.37532,4.885314,52.37532",
     "geom:latitude":52.37532,
     "geom:longitude":4.885314,
@@ -34,9 +35,12 @@
     "sg:website":"www.greenpeace.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803311,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_6eff7176IevBIchj7eNdHA_52.375320_4.885314@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d5941cd4d3d26970fded08e24c97e4e6",
+    "wof:geomhash":"19f6fe6f5df559e06641c862462e1249",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803311,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":270302417
         }
     ],
     "wof:id":270302417,
-    "wof:lastmodified":1473879070,
+    "wof:lastmodified":1492501374,
     "wof:name":"Greenpeace International",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803311,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

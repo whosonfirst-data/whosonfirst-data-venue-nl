@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.866487,52.334591,4.866487,52.334591",
     "geom:latitude":52.334591,
     "geom:longitude":4.866487,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803635,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0vzaKiUsCegYqM6x5kwj4x_52.334591_4.866487@1306269989"
     },
     "wof:country":"NL",
-    "wof:geomhash":"16646d319b93843f1fbb768122ec3e49",
+    "wof:geomhash":"920b7356e02a45d03ab70ee4ed95a90d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803635,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":303959435
         }
     ],
     "wof:id":303959435,
-    "wof:lastmodified":1473879663,
+    "wof:lastmodified":1492473477,
     "wof:name":"Vrije Universiteit Amsterdam",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

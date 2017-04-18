@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.847025,52.349434,4.847025,52.349434",
     "geom:latitude":52.349434,
     "geom:longitude":4.847025,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803459,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3ohU5eEZzw9kgwJOeYgofO_52.349434_4.847025@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b37ae68116cabaca5ef4080673c73f89",
+    "wof:geomhash":"3ac26360d15b62a7d1b82e92e23c8d8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803459,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":185980123
         }
     ],
     "wof:id":185980123,
-    "wof:lastmodified":1473878991,
+    "wof:lastmodified":1492487944,
     "wof:name":"Plons",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

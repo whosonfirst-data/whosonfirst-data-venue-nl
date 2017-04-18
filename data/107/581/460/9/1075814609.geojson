@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0403981209,52.0766181946,5.0403981209,52.0766181946",
     "geom:latitude":52.076618,
     "geom:longitude":5.040398,
@@ -33,8 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808715,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808673,
         85687039
     ],
     "wof:breaches":[],
@@ -43,19 +47,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473798876,
-    "wof:geomhash":"8b44231cdd19fe280a4463790bb43586",
+    "wof:geomhash":"15ac5a9575ca6e9b7da6ab8b45eae1eb",
     "wof:hierarchy":[
         {
+            "borough_id":1108808673,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808715,
             "region_id":85687039,
             "venue_id":1075814609
         }
     ],
     "wof:id":1075814609,
-    "wof:lastmodified":1473878972,
+    "wof:lastmodified":1492486215,
     "wof:name":"Westfalia Magazijnsystemen",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

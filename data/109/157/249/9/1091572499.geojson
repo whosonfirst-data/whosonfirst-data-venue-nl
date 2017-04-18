@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5852751732,52.148235321,5.5852751732,52.148235321",
     "geom:latitude":52.148235,
     "geom:longitude":5.585275,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.dynamiq.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473873,
+        85633337,
+        101807053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ITC2fpHKTbx6s5wx4JOAt_52.148235_5.585275@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800634,
-    "wof:geomhash":"f9ed5ea954b5cbf29557081e952e3283",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23f8bbbcfa638132336177f68887845f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473873,
+            "locality_id":101807053,
+            "region_id":85687043,
+            "venue_id":1091572499
+        }
+    ],
     "wof:id":1091572499,
-    "wof:lastmodified":1473878620,
+    "wof:lastmodified":1492510982,
     "wof:name":"Dynamiq Internet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9424500465,51.7764434814,5.9424500465,51.7764434814",
     "geom:latitude":51.776443,
     "geom:longitude":5.94245,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.oosterpoortwoon.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473903,
+        85633337,
+        101808697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25eMd8UcosVL2NIi8HGXkP_51.776443_5.942450@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802211,
-    "wof:geomhash":"3c2ecf818f6a001577286db883cad2bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72914d995df0a322268e5cc2bfbd511f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473903,
+            "locality_id":101808697,
+            "region_id":85687043,
+            "venue_id":1091594845
+        }
+    ],
     "wof:id":1091594845,
-    "wof:lastmodified":1473878725,
+    "wof:lastmodified":1492509555,
     "wof:name":"Oosterpoort Wooncombinatie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

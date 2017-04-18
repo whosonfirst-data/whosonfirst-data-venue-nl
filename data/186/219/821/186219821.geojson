@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.476868,51.943752,4.476868,51.943752",
     "geom:latitude":51.943752,
     "geom:longitude":4.476868,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859841,
+        1108805793,
+        102191581,
+        1108805981,
         85633337,
-        101753095,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_30KGOrQLVikl1FQ2ZJHe5a_51.943752_4.476868@1306269911"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9c29c15880a6ab348ca0c854552dc123",
+    "wof:geomhash":"babc70a0b233a00252f25b206ff2c736",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859841,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805793,
             "region_id":85687041,
             "venue_id":186219821
         }
     ],
     "wof:id":186219821,
-    "wof:lastmodified":1473879104,
+    "wof:lastmodified":1492508380,
     "wof:name":"Globalsites",
-    "wof:parent_id":85859841,
+    "wof:parent_id":1108805793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

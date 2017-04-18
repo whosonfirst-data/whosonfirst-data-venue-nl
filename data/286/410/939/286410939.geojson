@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.864437,52.383713,4.864437,52.383713",
     "geom:latitude":52.383713,
     "geom:longitude":4.864437,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803851,
+        1108802557,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4g9xtCRbHHwUvLQbnnKRxw_52.383713_4.864437@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"285aaf3a7436e7879f3ce57430b8ab09",
+    "wof:geomhash":"22ed9a1973960a206c4b6cacbdc77cb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803851,
+            "neighbourhood_id":1108802557,
             "region_id":85687053,
             "venue_id":286410939
         }
     ],
     "wof:id":286410939,
-    "wof:lastmodified":1473878944,
+    "wof:lastmodified":1492475748,
     "wof:name":"Vaan, De",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.932079,52.354774,4.932079,52.354774",
     "geom:latitude":52.354774,
     "geom:longitude":4.932079,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803929,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7LKv46xdA0ab0DzS0NQQSl_52.354774_4.932079@1306269998"
     },
     "wof:country":"NL",
-    "wof:geomhash":"761ee199c3cdbcfce01b438517497242",
+    "wof:geomhash":"dfc2f7f31eac5fcb22b4e233ebdde8b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803929,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":320465557
         }
     ],
     "wof:id":320465557,
-    "wof:lastmodified":1473879320,
+    "wof:lastmodified":1492482562,
     "wof:name":"Sohier & Gelderman",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

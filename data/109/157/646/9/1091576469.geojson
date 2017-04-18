@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9629898071,52.9076461792,4.9629898071,52.9076461792",
     "geom:latitude":52.907646,
     "geom:longitude":4.96299,
@@ -33,17 +34,32 @@
         "week-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474131,
+        85633337,
+        101806067
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0khPDFfh2pLj466D7YaOhh_52.907646_4.962990@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800870,
-    "wof:geomhash":"0e0efa617606024e0fb6ea8d86584e6c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5eff4e1f1fc3da4e2880b1441e4c9490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474131,
+            "locality_id":101806067,
+            "region_id":85687053,
+            "venue_id":1091576469
+        }
+    ],
     "wof:id":1091576469,
-    "wof:lastmodified":1473878917,
+    "wof:lastmodified":1492511340,
     "wof:name":"Ctr/De Polderbode",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

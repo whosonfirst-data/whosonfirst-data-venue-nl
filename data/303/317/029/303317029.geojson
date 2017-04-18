@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880596,52.360374,4.880596,52.360374",
     "geom:latitude":52.360374,
     "geom:longitude":4.880596,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.berghen.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803565,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_7i2NxtdchmVNXF5uJJdCB9_52.360374_4.880596@1306269982"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8deebe6ae112f8d0b46508a9a0f72cd3",
+    "wof:geomhash":"f1f38a6504cd28cd6b83d08d4b270ced",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803565,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":303317029
         }
     ],
     "wof:id":303317029,
-    "wof:lastmodified":1473879098,
+    "wof:lastmodified":1492473564,
     "wof:name":"Berghen",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

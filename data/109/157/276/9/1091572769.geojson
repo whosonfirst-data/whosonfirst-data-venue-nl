@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9597411156,51.9515380859,4.9597411156,51.9515380859",
     "geom:latitude":51.951538,
     "geom:longitude":4.959741,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.fclwebdesign.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474325,
+        85633337,
+        101808483
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EpK626UUMopinJCYHVkjz_51.951538_4.959741@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800650,
-    "wof:geomhash":"fcd3a470764b8a75b24357a71bbb57dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e535d4ef47975c97fed5923bffc1bcc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474325,
+            "locality_id":101808483,
+            "region_id":85687041,
+            "venue_id":1091572769
+        }
+    ],
     "wof:id":1091572769,
-    "wof:lastmodified":1473878642,
+    "wof:lastmodified":1492511227,
     "wof:name":"Fcl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.94697,52.393669,4.94697,52.393669",
     "geom:latitude":52.393669,
     "geom:longitude":4.94697,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108803543,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0RNrJc8NdbPmQi0qfOVIsy_52.393669_4.946970@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9afdda1b448985c28531a4191541d79f",
+    "wof:geomhash":"981d22ee5366884d44804153e202a095",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803543,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":236815057
         }
     ],
     "wof:id":236815057,
-    "wof:lastmodified":1473879544,
+    "wof:lastmodified":1492493143,
     "wof:name":"Rto",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803543,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0298681259,52.3230247498,6.0298681259,52.3230247498",
     "geom:latitude":52.323025,
     "geom:longitude":6.029868,
@@ -24,17 +25,30 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.interimnow.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404473897,
+        85633337,
+        85687043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PRD40e56K1Bhvs7R74IL7_52.323025_6.029868@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802010,
-    "wof:geomhash":"6c786b4ed047dee92dd57025ce007030",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17f59299e62f6f765881602df9674fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473897,
+            "region_id":85687043,
+            "venue_id":1091591263
+        }
+    ],
     "wof:id":1091591263,
-    "wof:lastmodified":1473878528,
+    "wof:lastmodified":1492509744,
     "wof:name":"Interimnow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

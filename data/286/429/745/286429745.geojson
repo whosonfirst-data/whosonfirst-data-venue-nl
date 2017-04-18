@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.91588,52.408401,4.91588,52.408401",
     "geom:latitude":52.408401,
     "geom:longitude":4.91588,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803203,
+        1108802531,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_3SzbJwqCGq9Ohk9gjm7yGS_52.408401_4.915880@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"415f02db763e909c4fb35c086b4b9c64",
+    "wof:geomhash":"7b1bb5bb87ebe1485332314b307d650c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803203,
+            "neighbourhood_id":1108802531,
             "region_id":85687053,
             "venue_id":286429745
         }
     ],
     "wof:id":286429745,
-    "wof:lastmodified":1473878977,
+    "wof:lastmodified":1492477933,
     "wof:name":"Gedachtengoed",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

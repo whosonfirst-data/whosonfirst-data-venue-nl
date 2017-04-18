@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.889647,52.35994,4.889647,52.35994",
     "geom:latitude":52.35994,
     "geom:longitude":4.889647,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803515,
+        1108802791,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6benl3UO7muSPZgK6AXZEl_52.359940_4.889647@1306269997"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c118c56be2e647c0ccd650980bdc02ab",
+    "wof:geomhash":"c48ce3528a3623d44a8332d0c1c0d807",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803515,
+            "neighbourhood_id":1108802791,
             "region_id":85687053,
             "venue_id":320280657
         }
     ],
     "wof:id":320280657,
-    "wof:lastmodified":1473879149,
+    "wof:lastmodified":1492483411,
     "wof:name":"Peter Scherpenzeel Studio",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880498,52.389145,4.880498,52.389145",
     "geom:latitude":52.389145,
     "geom:longitude":4.880498,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803853,
+        1108802911,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0ila0XY9ODvpadEGO8VP3V_52.389145_4.880498@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"64b60068c33d9413ae33bff402ec6e40",
+    "wof:geomhash":"0f5c8c7fe571e70f759c8581a39f001e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803853,
+            "neighbourhood_id":1108802911,
             "region_id":85687053,
             "venue_id":236789479
         }
     ],
     "wof:id":236789479,
-    "wof:lastmodified":1473879519,
+    "wof:lastmodified":1492491853,
     "wof:name":"Kontinu",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803853,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.81586,52.38308,4.81586,52.38308",
     "geom:latitude":52.38308,
     "geom:longitude":4.81586,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108803979,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_1cDGkYeucF4BHYM5JCfFmv_52.383080_4.815860@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"45adc5c4dd7af0e494c803e7f538bab6",
+    "wof:geomhash":"414068dd957b4b751553ad5ee4ff5f19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108803979,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":269775061
         }
     ],
     "wof:id":269775061,
-    "wof:lastmodified":1473879429,
+    "wof:lastmodified":1492495479,
     "wof:name":"R.R. Hester",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108803979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.813662,52.346123,4.813662,52.346123",
     "geom:latitude":52.346123,
     "geom:longitude":4.813662,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803345,
+        1108802901,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0sS0c6EEPSY12HXzuQnqj5_52.346123_4.813662@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3cc0441b749ede9fc0fd8fbe28a6ac7e",
+    "wof:geomhash":"679b8f738130ca86b5965db080128cc5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803345,
+            "neighbourhood_id":1108802901,
             "region_id":85687053,
             "venue_id":185976697
         }
     ],
     "wof:id":185976697,
-    "wof:lastmodified":1473878991,
+    "wof:lastmodified":1492487695,
     "wof:name":"Pardoes",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

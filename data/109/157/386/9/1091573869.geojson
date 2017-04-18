@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6334328651,52.19896698,6.6334328651,52.19896698",
     "geom:latitude":52.198967,
     "geom:longitude":6.633433,
@@ -24,17 +25,30 @@
     "sg:province":"Overijssel",
     "sg:website":"http://www.tuinte.com/mtwebdesign",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474653,
+        85633337,
+        85687045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30ETLwn3hm7EZDSsu1P7yB_52.198967_6.633433@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800718,
-    "wof:geomhash":"ae00a01772a7a85c4f2198cbbd692268",
-    "wof:hierarchy":[],
+    "wof:geomhash":"beffa453eceb0e17c90a1408eef66c93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474653,
+            "region_id":85687045,
+            "venue_id":1091573869
+        }
+    ],
     "wof:id":1091573869,
-    "wof:lastmodified":1473878749,
+    "wof:lastmodified":1492511469,
     "wof:name":"Markt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

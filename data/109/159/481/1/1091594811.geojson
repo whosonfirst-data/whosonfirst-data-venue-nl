@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8952469826,52.4043884277,4.8952469826,52.4043884277",
     "geom:latitude":52.404388,
     "geom:longitude":4.895247,
@@ -25,8 +26,12 @@
     "sg:website":"http://www.olympusgroep.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
+        1108803309,
         85798523,
+        102191581,
+        85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -35,19 +40,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473802207,
-    "wof:geomhash":"904c3151e29d86da0146f6890cc2d704",
+    "wof:geomhash":"e49189c9f43fa74406baf57469154254",
     "wof:hierarchy":[
         {
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1108803309,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":1091594811
         }
     ],
     "wof:id":1091594811,
-    "wof:lastmodified":1473878723,
+    "wof:lastmodified":1492509572,
     "wof:name":"Olympus Groep",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

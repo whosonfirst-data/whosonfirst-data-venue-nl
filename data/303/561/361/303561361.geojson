@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.481606,51.944878,4.481606,51.944878",
     "geom:latitude":51.944878,
     "geom:longitude":4.481606,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859841,
+        1108805793,
+        102191581,
+        1108805981,
         85633337,
-        101753095,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5GsUMFBG8lrwB7c9fRaSLH_51.944878_4.481606@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"efd395b6a47ac0dde26253893c78f4a6",
+    "wof:geomhash":"a2927ad87fdd794fd55b84e9a67e37eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859841,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805793,
             "region_id":85687041,
             "venue_id":303561361
         }
     ],
     "wof:id":303561361,
-    "wof:lastmodified":1473879300,
+    "wof:lastmodified":1492474236,
     "wof:name":"Boutique Galaxy",
-    "wof:parent_id":85859841,
+    "wof:parent_id":1108805793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

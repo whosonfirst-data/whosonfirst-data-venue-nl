@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.343235,51.86253,4.343235,51.86253",
     "geom:latitude":51.86253,
     "geom:longitude":4.343235,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798679,
+        1108806015,
+        1108805795,
+        102191581,
         85633337,
-        101760475,
+        101751843,
+        1108805727,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_1FMkAj6VXtZ6esBgq39XLy_51.862530_4.343235@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"18b1e6263bec03105ed138dcd0f1ecf7",
+    "wof:geomhash":"71c49286dfcede3c8daa49be9b466fe0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805727,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101760475,
-            "neighbourhood_id":85798679,
+            "locality_id":101751843,
+            "microhood_id":1108806015,
+            "neighbourhood_id":1108805795,
             "region_id":85687041,
             "venue_id":252763015
         }
     ],
     "wof:id":252763015,
-    "wof:lastmodified":1473878466,
+    "wof:lastmodified":1492505341,
     "wof:name":"Hoogvliet Ruitersport",
-    "wof:parent_id":85798679,
+    "wof:parent_id":1108806015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

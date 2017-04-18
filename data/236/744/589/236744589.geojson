@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.552486,51.944431,4.552486,51.944431",
     "geom:latitude":51.944431,
     "geom:longitude":4.552486,
@@ -25,31 +26,46 @@
     "sg:website":"http://www.verkeersschoolalexander.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        85797053,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fgpdALPirGPJxHP34Y3zW_51.944431_4.552486@1306269940"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e5ed068a4fc0afcf1fed13327290154d",
+    "wof:geomhash":"52a672c483efc3c813923e9a4ff68cc7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797053,
+            "region_id":85687041,
+            "venue_id":236744589
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "neighbourhood_id":85797053,
             "region_id":85687041,
             "venue_id":236744589
         }
     ],
     "wof:id":236744589,
-    "wof:lastmodified":1473879516,
+    "wof:lastmodified":1492493099,
     "wof:name":"Alexander, Verkeersschool",
-    "wof:parent_id":85798329,
+    "wof:parent_id":85797053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

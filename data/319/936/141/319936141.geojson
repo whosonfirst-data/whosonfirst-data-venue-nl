@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.849206,52.350403,4.849206,52.350403",
     "geom:latitude":52.350403,
     "geom:longitude":4.849206,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803459,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7af7zTrFYZNf1iumsBGR06_52.350403_4.849206@1306269992"
     },
     "wof:country":"NL",
-    "wof:geomhash":"633a618d55ac757be670d4f2070bb4e8",
+    "wof:geomhash":"1b21a463f3ed2f8e3900e996de76bf77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803459,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":319936141
         }
     ],
     "wof:id":319936141,
-    "wof:lastmodified":1473878880,
+    "wof:lastmodified":1492478991,
     "wof:name":"Humtron",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

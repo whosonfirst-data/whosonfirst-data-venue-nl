@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.2634730339,52.3761672974,6.2634730339,52.3761672974",
     "geom:latitude":52.376167,
     "geom:longitude":6.263473,
@@ -24,17 +25,32 @@
     "sg:province":"Overijssel",
     "sg:website":"http://www.awepp.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404473849,
+        85633337,
+        101808759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tdbHdLlLSLonxJfQmcTgY_52.376167_6.263473@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800579,
-    "wof:geomhash":"09838b4105acd523e67d62c534d6b9f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f28d63b86e3bfb9cad46ec864ab367c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473849,
+            "locality_id":101808759,
+            "region_id":85687045,
+            "venue_id":1091571549
+        }
+    ],
     "wof:id":1091571549,
-    "wof:lastmodified":1473878550,
+    "wof:lastmodified":1492511134,
     "wof:name":"Awepp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

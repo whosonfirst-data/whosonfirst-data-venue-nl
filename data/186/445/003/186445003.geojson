@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.937835,52.403542,4.937835,52.403542",
     "geom:latitude":52.403542,
     "geom:longitude":4.937835,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804307,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4tuXYNc5clPoBcqlDoXbVB_52.403542_4.937835@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c09c0b1f692c44339256169557fe3ef9",
+    "wof:geomhash":"41b3083c59018d116e51c7245c84075d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804307,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":186445003
         }
     ],
     "wof:id":186445003,
-    "wof:lastmodified":1473879454,
+    "wof:lastmodified":1492508084,
     "wof:name":"Men'S Rights Int",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108804307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

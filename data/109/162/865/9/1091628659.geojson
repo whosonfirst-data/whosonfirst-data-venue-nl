@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6940670013,52.3037033081,4.6940670013,52.3037033081",
     "geom:latitude":52.303703,
     "geom:longitude":4.694067,
@@ -23,17 +24,32 @@
     "sg:postcode":"2132 DB",
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474065,
+        85633337,
+        101751899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wsbpyp1SXRRsuwul5zuaM_52.303703_4.694067@1306270020"
     },
     "wof:country":"NL",
     "wof:created":1473804465,
-    "wof:geomhash":"fafb48b6f192fb7660fd03fa1df6df7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d32185597898a4cb29b1deb3393631c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474065,
+            "locality_id":101751899,
+            "region_id":85687053,
+            "venue_id":1091628659
+        }
+    ],
     "wof:id":1091628659,
-    "wof:lastmodified":1473879076,
+    "wof:lastmodified":1492512180,
     "wof:name":"Hair Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

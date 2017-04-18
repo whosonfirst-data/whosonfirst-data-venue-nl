@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.675377,51.788395,4.675377,51.788395",
     "geom:latitude":51.788395,
     "geom:longitude":4.675377,
@@ -24,40 +25,41 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798785,
         85633337,
-        101751841,
+        85798469,
         85687041,
-        85798469
+        85798785,
+        102191581,
+        404474169,
+        101751841
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5q0EGjhexoNBkTNuD44dai_51.788395_4.675377@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bfa77afe90f973380b343ae2399ab72a",
+    "wof:geomhash":"18076eca45331b951d7cce8a311bceed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751841,
-            "neighbourhood_id":85798785,
+            "neighbourhood_id":85798469,
             "region_id":85687041,
             "venue_id":336756129
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798469,
+            "localadmin_id":404474169,
+            "locality_id":101751841,
+            "neighbourhood_id":85798785,
             "region_id":85687041,
             "venue_id":336756129
         }
     ],
     "wof:id":336756129,
-    "wof:lastmodified":1473878426,
+    "wof:lastmodified":1492506882,
     "wof:name":"Agni Centrum",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

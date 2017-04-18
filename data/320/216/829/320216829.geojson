@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.917319,52.357784,4.917319,52.357784",
     "geom:latitude":52.357784,
     "geom:longitude":4.917319,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803403,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_0jDmo0Qsg8TGMN3jBroN47_52.357784_4.917319@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f2309ffe10870a3bb9dd1ef4b3496376",
+    "wof:geomhash":"03894c4645dd62ea06ed634efa19f85f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803403,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":320216829
         }
     ],
     "wof:id":320216829,
-    "wof:lastmodified":1473879106,
+    "wof:lastmodified":1492482313,
     "wof:name":"Pangaea-Art",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803403,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

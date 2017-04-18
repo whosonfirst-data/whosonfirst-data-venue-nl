@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.921024,52.354675,4.921024,52.354675",
     "geom:latitude":52.354675,
     "geom:longitude":4.921024,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803941,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1qDD9LRmNUfxjcR27KgVUX_52.354675_4.921024@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"edf04c804c2dc21ed4577dd82f954359",
+    "wof:geomhash":"60574cffe3306467d363c503693ffda4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":320757353
         }
     ],
     "wof:id":320757353,
-    "wof:lastmodified":1473879604,
+    "wof:lastmodified":1492484484,
     "wof:name":"Calamares",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

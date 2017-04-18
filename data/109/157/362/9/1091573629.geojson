@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8902988434,52.2000007629,4.8902988434,52.2000007629",
     "geom:latitude":52.200001,
     "geom:longitude":4.890299,
@@ -24,17 +25,32 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.kuiter.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474341,
+        85633337,
+        101837677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75QtXrfVt889B3VQ7nO6QC_52.200001_4.890299@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800703,
-    "wof:geomhash":"f7f2ab6e756f67bd8678634de3140e8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7058da9c539723be3ef8f876adb52925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474341,
+            "locality_id":101837677,
+            "region_id":85687039,
+            "venue_id":1091573629
+        }
+    ],
     "wof:id":1091573629,
-    "wof:lastmodified":1473878738,
+    "wof:lastmodified":1492511492,
     "wof:name":"Kuiter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

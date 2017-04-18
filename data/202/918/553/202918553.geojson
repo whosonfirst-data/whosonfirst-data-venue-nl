@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.830803,52.359165,4.830803,52.359165",
     "geom:latitude":52.359165,
     "geom:longitude":4.830803,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804121,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0koLyTBHfdZj7rJxROS2hT_52.359165_4.830803@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"25f2f321349e4f6559f58f84e764c735",
+    "wof:geomhash":"ccc9834266ae247b6173efb97cf3460b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804121,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":202918553
         }
     ],
     "wof:id":202918553,
-    "wof:lastmodified":1473879405,
+    "wof:lastmodified":1492497945,
     "wof:name":"Brugts Bv, Herman",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

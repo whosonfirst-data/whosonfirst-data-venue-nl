@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912294,52.366005,4.912294,52.366005",
     "geom:latitude":52.366005,
     "geom:longitude":4.912294,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803923,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_47OCZpagqB7DjM9VC5Wpji_52.366005_4.912294@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bc354ce8413034808653b1290c640e4a",
+    "wof:geomhash":"311371efb22a90c30fd84c98fd0f871a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803923,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":269672339
         }
     ],
     "wof:id":269672339,
-    "wof:lastmodified":1473879272,
+    "wof:lastmodified":1492496330,
     "wof:name":"Wieren, Drs Y Van",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

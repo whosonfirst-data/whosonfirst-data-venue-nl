@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.917779,52.384354,4.917779,52.384354",
     "geom:latitude":52.384354,
     "geom:longitude":4.917779,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803443,
+        1108802839,
+        102191581,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_2GPazg9hTS8uGlI3aocDnj_52.384354_4.917779@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f506adc061df1e249316c6054198cf7c",
+    "wof:geomhash":"eed4b5ec3ac785202e7540dcf29e9162",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803443,
+            "neighbourhood_id":1108802839,
             "region_id":85687053,
             "venue_id":269773963
         }
     ],
     "wof:id":269773963,
-    "wof:lastmodified":1473879405,
+    "wof:lastmodified":1492494714,
     "wof:name":"Pizzeria Max",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

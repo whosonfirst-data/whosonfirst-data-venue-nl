@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.101387,52.128693,5.101387,52.128693",
     "geom:latitude":52.128693,
     "geom:longitude":5.101387,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798231,
+        1108808839,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_5BNGHzAVv5cnlWeUtHTngU_52.128693_5.101387@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"75d73ecfd3875b629968cc13386b5939",
+    "wof:geomhash":"883b5be8c34b8411d4f18faf43b73e1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798231,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808839,
             "region_id":85687039,
             "venue_id":219381133
         }
     ],
     "wof:id":219381133,
-    "wof:lastmodified":1473879058,
+    "wof:lastmodified":1492504176,
     "wof:name":"Aannemers En Onderhoudsbedrijf J.M. Boer",
-    "wof:parent_id":85798231,
+    "wof:parent_id":1108808839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

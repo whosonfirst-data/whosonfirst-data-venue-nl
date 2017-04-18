@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.471703,51.93166,4.471703,51.93166",
     "geom:latitude":51.93166,
     "geom:longitude":4.471703,
@@ -24,30 +25,23 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859803,
-        85633337,
-        101753095,
-        85687041,
         85859837,
-        101751843
+        102191581,
+        85633337,
+        101751843,
+        1108804843,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LUygo5xlxZIgelKPqgf58_51.931660_4.471703@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"074b611940883b8e9dad72307b5661a9",
+    "wof:geomhash":"08edda38cf451851a49d32590f96ea23",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859803,
-            "region_id":85687041,
-            "venue_id":320652321
-        },
-        {
-            "continent_id":-1,
+            "borough_id":1108804843,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
             "neighbourhood_id":85859837,
@@ -56,9 +50,9 @@
         }
     ],
     "wof:id":320652321,
-    "wof:lastmodified":1473879479,
+    "wof:lastmodified":1492483372,
     "wof:name":"Jansen",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

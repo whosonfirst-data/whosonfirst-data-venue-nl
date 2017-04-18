@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7550878525,52.7069549561,5.7550878525,52.7069549561",
     "geom:latitude":52.706955,
     "geom:longitude":5.755088,
@@ -23,17 +24,32 @@
     "sg:postcode":"8304 AB",
     "sg:province":"Flevoland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473843,
+        85633337,
+        101807245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PInn5tALXyELU8geKxIqv_52.706955_5.755088@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800859,
-    "wof:geomhash":"7d0ce86a1397b8006ce613dbcfd23819",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a576d6b14a7767f10767956ed32880eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473843,
+            "locality_id":101807245,
+            "region_id":85687049,
+            "venue_id":1091576215
+        }
+    ],
     "wof:id":1091576215,
-    "wof:lastmodified":1473878917,
+    "wof:lastmodified":1492511362,
     "wof:name":"Weegbrug Emmeloord",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

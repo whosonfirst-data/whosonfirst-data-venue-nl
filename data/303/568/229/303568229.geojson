@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881763,52.377506,4.881763,52.377506",
     "geom:latitude":52.377506,
     "geom:longitude":4.881763,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804119,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6RvGpmuRWky22oF4m9Ot90_52.377506_4.881763@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d4fdd27ec96e4792c5ffcee6f42f8695",
+    "wof:geomhash":"bd5b141573c4c46aacce168b7145e8ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804119,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":303568229
         }
     ],
     "wof:id":303568229,
-    "wof:lastmodified":1473879301,
+    "wof:lastmodified":1492473807,
     "wof:name":"Moriaan Design",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

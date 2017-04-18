@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.079446,52.10984,5.079446,52.10984",
     "geom:latitude":52.10984,
     "geom:longitude":5.079446,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808727,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0Wf0KvlECjfPaH5grPpKs7_52.109840_5.079446@1306270006"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3f8855d145c407822e236d020c727962",
+    "wof:geomhash":"39cff03f60a162895180de22a13bb4af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808727,
             "region_id":85687039,
             "venue_id":336860331
         }
     ],
     "wof:id":336860331,
-    "wof:lastmodified":1473878443,
+    "wof:lastmodified":1492506811,
     "wof:name":"Meulman, J",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

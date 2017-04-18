@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.251649,52.066566,4.251649,52.066566",
     "geom:latitude":52.066566,
     "geom:longitude":4.251649,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797811,
+        85859585,
+        102191581,
+        1108808133,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1NT4CLlT3iX8HGByPKZnVT_52.066566_4.251649@1306269905"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a29e245427a48edf8f1260e02c3676f0",
+    "wof:geomhash":"1fc0fb045a7e3296a5f9b9ca0ef5af0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797811,
+            "macrohood_id":1108808133,
+            "neighbourhood_id":85859585,
             "region_id":85687041,
             "venue_id":169772813
         }
     ],
     "wof:id":169772813,
-    "wof:lastmodified":1473878673,
+    "wof:lastmodified":1492478765,
     "wof:name":"Mevr J Maree-Lessing",
-    "wof:parent_id":85797811,
+    "wof:parent_id":85859585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

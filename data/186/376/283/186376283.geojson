@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.118603,52.11097,5.118603,52.11097",
     "geom:latitude":52.11097,
     "geom:longitude":5.118603,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808871,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_12vLbG9R9LrkfdndyjcYlb_52.110970_5.118603@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"88c2c7c7930a5d2872c4fa5951211797",
+    "wof:geomhash":"2aab046c77ab2505cb8d83a764187e01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808871,
             "region_id":85687039,
             "venue_id":186376283
         }
     ],
     "wof:id":186376283,
-    "wof:lastmodified":1473879359,
+    "wof:lastmodified":1492509111,
     "wof:name":"Ehbo Afdeling Utrecht",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.123631,52.111515,5.123631,52.111515",
     "geom:latitude":52.111515,
     "geom:longitude":5.123631,
@@ -34,8 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808871,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -43,21 +48,23 @@
         "sg:id":"SG_3gSvHaAsNGIUYgNTRoGbJc_52.111515_5.123631@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"786824f8598af269fba8b097f0771665",
+    "wof:geomhash":"cde3db2f187dc85623687bf35404ec83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808871,
             "region_id":85687039,
             "venue_id":303135909
         }
     ],
     "wof:id":303135909,
-    "wof:lastmodified":1473878768,
+    "wof:lastmodified":1492471430,
     "wof:name":"Canisi",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

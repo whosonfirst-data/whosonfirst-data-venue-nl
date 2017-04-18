@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.800473,52.375751,4.800473,52.375751",
     "geom:latitude":52.375751,
     "geom:longitude":4.800473,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803993,
         85797579,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_51E6fEr6G1T3BpAROuWYK2_52.375751_4.800473@1306269935"
     },
     "wof:country":"NL",
-    "wof:geomhash":"eaf4c348ac3cefd7291f576ba5c22ec2",
+    "wof:geomhash":"7e3e356ed879d488f0c46340557a6c00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803993,
             "neighbourhood_id":85797579,
             "region_id":85687053,
             "venue_id":236236963
         }
     ],
     "wof:id":236236963,
-    "wof:lastmodified":1473879007,
+    "wof:lastmodified":1492492732,
     "wof:name":"Skate Promotions Ned",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108803993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

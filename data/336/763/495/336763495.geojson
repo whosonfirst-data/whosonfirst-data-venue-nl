@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8801,52.334053,4.8801,52.334053",
     "geom:latitude":52.334053,
     "geom:longitude":4.8801,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803873,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4XpppeaPQVTlGSMPW7PiVm_52.334053_4.880100@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f335579159be54cd94b30117590b6a3c",
+    "wof:geomhash":"597735b541e8dba3a30c25d1dfe3d216",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803873,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":336763495
         }
     ],
     "wof:id":336763495,
-    "wof:lastmodified":1473878436,
+    "wof:lastmodified":1492506722,
     "wof:name":"Kwee Swan Hoo",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

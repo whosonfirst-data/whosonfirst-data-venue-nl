@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.408819,51.945229,4.408819,51.945229",
     "geom:latitude":51.945229,
     "geom:longitude":4.408819,
@@ -25,31 +26,46 @@
     "sg:website":"http://www.peitsman.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859705,
+        1108805757,
+        102191581,
         85633337,
-        101751845,
-        85687041
+        101751843,
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Cp6p8bLmllOTW6o1cd3CO_51.945229_4.408819@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"729feca670d2efc0f384bdbcdb90d84f",
+    "wof:geomhash":"6432fe9c2924dce475da1d3dbbe652b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805739,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":320170195
+        },
+        {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474253,
             "locality_id":101751845,
-            "neighbourhood_id":85859705,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":320170195
         }
     ],
     "wof:id":320170195,
-    "wof:lastmodified":1473879044,
+    "wof:lastmodified":1492482328,
     "wof:name":"Peitsman Licht En Geluid",
-    "wof:parent_id":85859705,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.309101,52.084366,4.309101,52.084366",
     "geom:latitude":52.084366,
     "geom:longitude":4.309101,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797685,
+        1108808251,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1EWTrrwZJ73s6IrPSCndLP_52.084366_4.309101@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d3abbea460997fd9d4f8ac4e62b6cda1",
+    "wof:geomhash":"802f81b9de4822779d785b7477d1e4a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797685,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808251,
             "region_id":85687041,
             "venue_id":269717629
         }
     ],
     "wof:id":269717629,
-    "wof:lastmodified":1473879301,
+    "wof:lastmodified":1492495068,
     "wof:name":"General Medical Supplies",
-    "wof:parent_id":85797685,
+    "wof:parent_id":1108808251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

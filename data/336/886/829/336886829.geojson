@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.819613,52.347008,4.819613,52.347008",
     "geom:latitude":52.347008,
     "geom:longitude":4.819613,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803421,
+        1108802901,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5z02reI3dOrWcoUGQAu27V_52.347008_4.819613@1306270007"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8b8364daf01fa9110ec2bfa51adaa799",
+    "wof:geomhash":"b862ee8aadf25223131473ce8342e7de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803421,
+            "neighbourhood_id":1108802901,
             "region_id":85687053,
             "venue_id":336886829
         }
     ],
     "wof:id":336886829,
-    "wof:lastmodified":1473878462,
+    "wof:lastmodified":1492507053,
     "wof:name":"Warger, Tom",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.792592,52.374821,4.792592,52.374821",
     "geom:latitude":52.374821,
     "geom:longitude":4.792592,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803619,
         85797579,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2NxcI1dwoYVlcTDpVudFWC_52.374821_4.792592@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1d22ecbd6aa21fb68f29143ecad62968",
+    "wof:geomhash":"fcd64cab179707c08357726bd2bd9622",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803619,
             "neighbourhood_id":85797579,
             "region_id":85687053,
             "venue_id":236350335
         }
     ],
     "wof:id":236350335,
-    "wof:lastmodified":1473879193,
+    "wof:lastmodified":1492492575,
     "wof:name":"Architectenbureau Ir. F.J.E. Dekeukeleir",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108803619,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

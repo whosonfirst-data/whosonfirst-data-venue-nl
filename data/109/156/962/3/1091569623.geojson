@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2225198746,52.7443618774,5.2225198746,52.7443618774",
     "geom:latitude":52.744362,
     "geom:longitude":5.22252,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.wrk.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474033,
+        85633337,
+        101807329
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IDoTA53zalBO0jQIUUd84_52.744362_5.222520@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800439,
-    "wof:geomhash":"351286138fbe0bd1357e6374475764c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58d08f534b326e5ff500df4566263fc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474033,
+            "locality_id":101807329,
+            "region_id":85687053,
+            "venue_id":1091569623
+        }
+    ],
     "wof:id":1091569623,
-    "wof:lastmodified":1473878613,
+    "wof:lastmodified":1492510895,
     "wof:name":"Wrk Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

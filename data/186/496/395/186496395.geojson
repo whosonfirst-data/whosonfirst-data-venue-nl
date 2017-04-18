@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.807144,53.20911,5.807144,53.20911",
     "geom:latitude":53.20911,
     "geom:longitude":5.807144,
@@ -24,40 +25,41 @@
     "sg:province":"Provincie Friesland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797115,
-        85633337,
-        85687055,
         85797627,
-        101751907
+        102191581,
+        404473775,
+        85633337,
+        101751907,
+        85687055,
+        85797115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FtOycAUzQSyEIvQxxDHRj_53.209110_5.807144@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6734b945f08d9e9968e62661b66d2641",
+    "wof:geomhash":"0d46cca227079e9894c6acf7e16903c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797115,
+            "localadmin_id":404473775,
+            "locality_id":101751907,
+            "neighbourhood_id":85797627,
             "region_id":85687055,
             "venue_id":186496395
         },
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751907,
-            "neighbourhood_id":85797627,
+            "neighbourhood_id":85797115,
             "region_id":85687055,
             "venue_id":186496395
         }
     ],
     "wof:id":186496395,
-    "wof:lastmodified":1473879529,
+    "wof:lastmodified":1492507926,
     "wof:name":"Schaakclub Philidor",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

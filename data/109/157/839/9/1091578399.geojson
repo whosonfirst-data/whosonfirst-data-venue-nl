@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2252931595,52.0267791748,4.2252931595,52.0267791748",
     "geom:latitude":52.026779,
     "geom:longitude":4.225293,
@@ -24,9 +25,11 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
         85633337,
-        85859557,
-        85687041
+        101808471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,16 +40,18 @@
     "wof:geomhash":"398c71bc5cc5e3c4f4bde20ec1a856b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85859557,
+            "localadmin_id":404474667,
+            "locality_id":101808471,
             "region_id":85687041,
             "venue_id":1091578399
         }
     ],
     "wof:id":1091578399,
-    "wof:lastmodified":1473879037,
+    "wof:lastmodified":1491931063,
     "wof:name":"Groenverzorging En Aannemingsbedrijf Verbeek",
-    "wof:parent_id":85859557,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

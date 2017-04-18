@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.760821,52.380177,4.760821,52.380177",
     "geom:latitude":52.380177,
     "geom:longitude":4.760821,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798675,
+        1108804073,
+        1108802855,
+        102191581,
         85633337,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_4uN81jqP2ioUH3kYh1T8HD_52.380177_4.760821@1306270006"
     },
     "wof:country":"NL",
-    "wof:geomhash":"aa8d186f8cdd6e0d340964ffdd29b6ee",
+    "wof:geomhash":"6d0a522e8abb1324d32a4402eeaedb83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798675,
+            "locality_id":101751893,
+            "microhood_id":1108804073,
+            "neighbourhood_id":1108802855,
             "region_id":85687053,
             "venue_id":336787247
         }
     ],
     "wof:id":336787247,
-    "wof:lastmodified":1473878428,
+    "wof:lastmodified":1492505963,
     "wof:name":"Zijlstra",
-    "wof:parent_id":85798675,
+    "wof:parent_id":1108804073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

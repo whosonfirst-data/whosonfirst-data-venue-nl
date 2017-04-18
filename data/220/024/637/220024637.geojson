@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.541005,51.962776,4.541005,51.962776",
     "geom:latitude":51.962776,
     "geom:longitude":4.541005,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859913,
+        85798149,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GGYRzQYW70brHq7s2O4z1_51.962776_4.541005@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"71e7f5d848a02eb2626368f93cb21bbf",
+    "wof:geomhash":"a6f4617d27192b347a4ca55761e818e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859913,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":220024637
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":220024637
         }
     ],
     "wof:id":220024637,
-    "wof:lastmodified":1473878550,
+    "wof:lastmodified":1492481782,
     "wof:name":"Wissen, Van",
-    "wof:parent_id":85859913,
+    "wof:parent_id":85798149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

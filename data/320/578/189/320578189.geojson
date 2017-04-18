@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.225505,52.050884,4.225505,52.050884",
     "geom:latitude":52.050884,
     "geom:longitude":4.225505,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859557,
+        1108808193,
+        102191581,
+        1108808099,
         85633337,
+        101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_7bjlQqIgeTmDWozIsrldLL_52.050884_4.225505@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a3b6bf48bf29cfc49c880807bcda7993",
+    "wof:geomhash":"b6caa1e84aa5596d6ce0c7e642142368",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859557,
+            "locality_id":101752763,
+            "macrohood_id":1108808099,
+            "neighbourhood_id":1108808193,
             "region_id":85687041,
             "venue_id":320578189
         }
     ],
     "wof:id":320578189,
-    "wof:lastmodified":1473879432,
+    "wof:lastmodified":1492483929,
     "wof:name":"Vof A Storm & Zn",
-    "wof:parent_id":85859557,
+    "wof:parent_id":1108808193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

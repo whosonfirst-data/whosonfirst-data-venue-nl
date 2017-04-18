@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.344106,52.083572,4.344106,52.083572",
     "geom:latitude":52.083572,
     "geom:longitude":4.344106,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797661,
+        1108808241,
+        102191581,
+        1108805963,
         85633337,
         101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1FV7ujn4XkfR1DxhKWdxxQ_52.083572_4.344106@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0eaa2f37ffa7180287c5c902bf7469e9",
+    "wof:geomhash":"2fadab1cf2cc7e316c1729124bd4a997",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797661,
+            "macrohood_id":1108805963,
+            "neighbourhood_id":1108808241,
             "region_id":85687041,
             "venue_id":219339833
         }
     ],
     "wof:id":219339833,
-    "wof:lastmodified":1473879022,
+    "wof:lastmodified":1492502935,
     "wof:name":"Leidschenveen Installatiebedrijf",
-    "wof:parent_id":85797661,
+    "wof:parent_id":1108808241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

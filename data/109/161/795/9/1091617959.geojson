@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5470337868,51.9282112122,4.5470337868,51.9282112122",
     "geom:latitude":51.928211,
     "geom:longitude":4.547034,
@@ -24,12 +25,14 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797899,
+        1108805861,
         102191581,
-        404474245,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,22 +40,32 @@
     },
     "wof:country":"NL",
     "wof:created":1473803800,
-    "wof:geomhash":"9408748d80109a959483751be2d26f68",
+    "wof:geomhash":"9cebfb535ac32fa6f81f667faabfa02a",
     "wof:hierarchy":[
         {
+            "borough_id":1108805725,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474245,
-            "locality_id":101753095,
-            "neighbourhood_id":85797899,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805861,
+            "region_id":85687041,
+            "venue_id":1091617959
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805861,
             "region_id":85687041,
             "venue_id":1091617959
         }
     ],
     "wof:id":1091617959,
-    "wof:lastmodified":1473878941,
+    "wof:lastmodified":1492510520,
     "wof:name":"Aarts Hairstyling Vof",
-    "wof:parent_id":85797899,
+    "wof:parent_id":1108805861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

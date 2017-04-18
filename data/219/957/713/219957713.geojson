@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.956022,52.387711,4.956022,52.387711",
     "geom:latitude":52.387711,
     "geom:longitude":4.956022,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.goingconsultancy.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108804049,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_3wE1i1qxOnRYeC41TV41z2_52.387711_4.956022@1306269930"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f5e4301dfbe0058231db9e6cd98aa391",
+    "wof:geomhash":"6eea2b31eddbf28cd3faa5e8fe79db74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804049,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":219957713
         }
     ],
     "wof:id":219957713,
-    "wof:lastmodified":1473879740,
+    "wof:lastmodified":1492502813,
     "wof:name":"Going Bv",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108804049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

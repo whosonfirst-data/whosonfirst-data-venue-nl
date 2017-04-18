@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.251244,52.06731,4.251244,52.06731",
     "geom:latitude":52.06731,
     "geom:longitude":4.251244,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.vrijehuizenmarkt.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797811,
+        85859585,
+        102191581,
+        1108808133,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_037rqAsQp9ahwYPTH52cw5_52.067310_4.251244@1306269942"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e26c74e2680b4c1951591780512ea316",
+    "wof:geomhash":"add1878a9a2b6795846491c496dd887e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797811,
+            "macrohood_id":1108808133,
+            "neighbourhood_id":85859585,
             "region_id":85687041,
             "venue_id":236974685
         }
     ],
     "wof:id":236974685,
-    "wof:lastmodified":1473879636,
+    "wof:lastmodified":1492491622,
     "wof:name":"Vrijehuizenmarkt",
-    "wof:parent_id":85797811,
+    "wof:parent_id":85859585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

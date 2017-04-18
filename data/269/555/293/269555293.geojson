@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.08264,52.114986,5.08264,52.114986",
     "geom:latitude":52.114986,
     "geom:longitude":5.08264,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808841,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3oCSPAsrfJJjqP98t6A9GR_52.114986_5.082640@1306269954"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c7d984f6416beb7d514221248bbfff45",
+    "wof:geomhash":"ab817db3019ba03fe97194f87d6bcb8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808841,
             "region_id":85687039,
             "venue_id":269555293
         }
     ],
     "wof:id":269555293,
-    "wof:lastmodified":1473878830,
+    "wof:lastmodified":1492496536,
     "wof:name":"Postkantoren Bv",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

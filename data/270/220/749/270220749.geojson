@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.299921,52.080269,4.299921,52.080269",
     "geom:latitude":52.080269,
     "geom:longitude":4.299921,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3Gy7dOeBU2GXYiE6wlMTRY_52.080269_4.299921@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6fd196485c6902d6328e2126e836c937",
+    "wof:geomhash":"ade669bba6d7da8a9066ecb0637f418e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":270220749
         }
     ],
     "wof:id":270220749,
-    "wof:lastmodified":1473878892,
+    "wof:lastmodified":1492499781,
     "wof:name":"Foto Miami",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

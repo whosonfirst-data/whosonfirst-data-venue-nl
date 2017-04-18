@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881999,52.326633,4.881999,52.326633",
     "geom:latitude":52.326633,
     "geom:longitude":4.881999,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.hermankater.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804145,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_1kQhwd58aC6aE5YGbp7aX1_52.326633_4.881999@1306269932"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a00d3797fe43459da11c5c79d65a1bc8",
+    "wof:geomhash":"3ad9e91d7d917659d285692809344895",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804145,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":220174055
         }
     ],
     "wof:id":220174055,
-    "wof:lastmodified":1473879032,
+    "wof:lastmodified":1492481785,
     "wof:name":"Kater, Mr H A",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

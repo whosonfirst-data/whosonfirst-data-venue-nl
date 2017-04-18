@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.926034,52.391586,4.926034,52.391586",
     "geom:latitude":52.391586,
     "geom:longitude":4.926034,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803783,
+        1108802923,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_1EIehoF7V83SJ6qNhDqrQc_52.391586_4.926034@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"080e3ee018e5bd2e40ae42dc69fa7533",
+    "wof:geomhash":"79d42096389c9a6b9a9a84bb5d078fb7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803783,
+            "neighbourhood_id":1108802923,
             "region_id":85687053,
             "venue_id":320588185
         }
     ],
     "wof:id":320588185,
-    "wof:lastmodified":1473879429,
+    "wof:lastmodified":1492484780,
     "wof:name":"Dere",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

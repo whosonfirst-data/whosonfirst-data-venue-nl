@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.95537,52.391888,4.95537,52.391888",
     "geom:latitude":52.391888,
     "geom:longitude":4.95537,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803543,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7Z35qAptC69M4jjotIAN97_52.391888_4.955370@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3abb57438d8e3905510579e06496ce34",
+    "wof:geomhash":"836c137f90b3022908b4ce44dc600af4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803543,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":320509137
         }
     ],
     "wof:id":320509137,
-    "wof:lastmodified":1473879354,
+    "wof:lastmodified":1492485156,
     "wof:name":"Slangen, M",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803543,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

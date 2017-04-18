@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.963978,52.299767,4.963978,52.299767",
     "geom:latitude":52.299767,
     "geom:longitude":4.963978,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803365,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_6ZePtoJWqreAgZFKvNWfMs_52.299767_4.963978@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"88794b990a27d08c92e5ea2ef1cf7fce",
+    "wof:geomhash":"a05abfe177c32274733f99b8ed2cabef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803365,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":270520589
         }
     ],
     "wof:id":270520589,
-    "wof:lastmodified":1473879395,
+    "wof:lastmodified":1492501344,
     "wof:name":"Evangelische Basisschool De Morgenster",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803365,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

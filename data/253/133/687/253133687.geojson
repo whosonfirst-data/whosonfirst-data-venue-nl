@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882408,52.373966,4.882408,52.373966",
     "geom:latitude":52.373966,
     "geom:longitude":4.882408,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803831,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3ruIBp3Rgb1w1E1lnW0sYr_52.373966_4.882408@1306269946"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6b5906fbb9103d51e0e1ece73ff28a1c",
+    "wof:geomhash":"49cc6d8b27cd46e4f68149f5fab8bdbe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803831,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":253133687
         }
     ],
     "wof:id":253133687,
-    "wof:lastmodified":1473878957,
+    "wof:lastmodified":1492488929,
     "wof:name":"Koot",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

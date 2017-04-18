@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.361663,51.870888,4.361663,51.870888",
     "geom:latitude":51.870888,
     "geom:longitude":4.361663,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798213,
+        1108806099,
+        1108805795,
+        102191581,
         85633337,
-        101754659,
+        101751843,
+        1108805727,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_32nAyyAg8oTtG6LDaxHEM7_51.870888_4.361663@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"83e261fac6c20d7b7fe1f39297585ff4",
+    "wof:geomhash":"cee19a23f37276d097eeabb82305b097",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805727,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754659,
-            "neighbourhood_id":85798213,
+            "locality_id":101751843,
+            "microhood_id":1108806099,
+            "neighbourhood_id":1108805795,
             "region_id":85687041,
             "venue_id":253346345
         }
     ],
     "wof:id":253346345,
-    "wof:lastmodified":1473879431,
+    "wof:lastmodified":1492490291,
     "wof:name":"Tele Masters",
-    "wof:parent_id":85798213,
+    "wof:parent_id":1108806099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

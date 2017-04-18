@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.883765,52.364864,4.883765,52.364864",
     "geom:latitude":52.364864,
     "geom:longitude":4.883765,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803553,
+        1108802791,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4cLAbEsomarDMn6BSzFn2V_52.364864_4.883765@1306270004"
     },
     "wof:country":"NL",
-    "wof:geomhash":"21418c727bba6780ef09b08d338aac4d",
+    "wof:geomhash":"c8e4c62201d10a2829d79b340a94deee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803553,
+            "neighbourhood_id":1108802791,
             "region_id":85687053,
             "venue_id":336637489
         }
     ],
     "wof:id":336637489,
-    "wof:lastmodified":1473878420,
+    "wof:lastmodified":1492506903,
     "wof:name":"Topwatch",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

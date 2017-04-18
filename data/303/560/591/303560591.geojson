@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.305083,52.079033,4.305083,52.079033",
     "geom:latitude":52.079033,
     "geom:longitude":4.305083,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808249,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2ECrjMWAIq65bKsauDh9U2_52.079033_4.305083@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a873eb16041bfc33866edb7c2ae6a3a0",
+    "wof:geomhash":"ecace7a50715a6ea14986bc6454b1ffa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808249,
             "region_id":85687041,
             "venue_id":303560591
         }
     ],
     "wof:id":303560591,
-    "wof:lastmodified":1473879305,
+    "wof:lastmodified":1492470568,
     "wof:name":"Boutiek Moumouche",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

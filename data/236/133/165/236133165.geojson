@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.855053,52.377964,4.855053,52.377964",
     "geom:latitude":52.377964,
     "geom:longitude":4.855053,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804157,
+        1108802803,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_659D6uJSPzgC6NwlmLd8iz_52.377964_4.855053@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cb1f5c49ae8fde79e349825c28be798a",
+    "wof:geomhash":"3012fa3403d101390142715f64afcef6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108804157,
+            "neighbourhood_id":1108802803,
             "region_id":85687053,
             "venue_id":236133165
         }
     ],
     "wof:id":236133165,
-    "wof:lastmodified":1473878809,
+    "wof:lastmodified":1492492084,
     "wof:name":"Soet, P H De",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

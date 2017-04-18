@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.798999,52.341621,4.798999,52.341621",
     "geom:latitude":52.341621,
     "geom:longitude":4.798999,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803689,
+        1108802857,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1cW7kHxfg8Rk8QPbgmafAw_52.341621_4.798999@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8ddfa05aef78df4c720b289af08289d3",
+    "wof:geomhash":"a35e713e0d125b3bd9ef76d67221d26f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803689,
+            "neighbourhood_id":1108802857,
             "region_id":85687053,
             "venue_id":269973291
         }
     ],
     "wof:id":269973291,
-    "wof:lastmodified":1473879590,
+    "wof:lastmodified":1492496036,
     "wof:name":"Pan Film Bv",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

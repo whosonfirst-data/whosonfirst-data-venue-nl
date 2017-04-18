@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.907059,52.36256,4.907059,52.36256",
     "geom:latitude":52.36256,
     "geom:longitude":4.907059,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803643,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2kjzuZBxEB5p4yHPOUDwyZ_52.362560_4.907059@1306269930"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3e0c43962f860e168767bb10f86d9140",
+    "wof:geomhash":"44b63a92560959b80f051cd9cf456b8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803643,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":219911377
         }
     ],
     "wof:id":219911377,
-    "wof:lastmodified":1473879728,
+    "wof:lastmodified":1492503400,
     "wof:name":"Project Management Bureau",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

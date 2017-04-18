@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.274153,52.105541,4.274153,52.105541",
     "geom:latitude":52.105541,
     "geom:longitude":4.274153,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808159,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_0DxHfKkFOg7x5RUhxbRDmt_52.105541_4.274153@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"642e777b3b7ec6f34b760adf6b8b74cb",
+    "wof:geomhash":"cb57b8c29ced602e23d15b8cb18e39c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808159,
             "region_id":85687041,
             "venue_id":336599189
         }
     ],
     "wof:id":336599189,
-    "wof:lastmodified":1473878412,
+    "wof:lastmodified":1492505970,
     "wof:name":"De Gouden Keizer",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

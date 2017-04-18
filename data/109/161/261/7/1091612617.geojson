@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7323498726,50.8968696594,5.7323498726,50.8968696594",
     "geom:latitude":50.89687,
     "geom:longitude":5.73235,
@@ -24,17 +25,32 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.sblimburg.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474501,
+        85633337,
+        101839211
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0N1FDWWZnAH1TyxlF9ZOIO_50.896870_5.732350@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803549,
-    "wof:geomhash":"3a9fc41c596a52f684ac3491be5f30a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb5b639729f9cb993e5bb58d0ea006d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474501,
+            "locality_id":101839211,
+            "region_id":85687033,
+            "venue_id":1091612617
+        }
+    ],
     "wof:id":1091612617,
-    "wof:lastmodified":1473878611,
+    "wof:lastmodified":1492510587,
     "wof:name":"Sekretariaatsburo Limburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

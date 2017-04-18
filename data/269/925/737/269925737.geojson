@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.489769,51.961082,4.489769,51.961082",
     "geom:latitude":51.961082,
     "geom:longitude":4.489769,
@@ -24,8 +25,13 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797723,
+        1108833221,
+        1108805791,
+        102191581,
+        1108805981,
         85633337,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +39,24 @@
         "sg:id":"SG_0ITMC6KfinzSAGLCgBrSdN_51.961082_4.489769@1306269959"
     },
     "wof:country":"NL",
-    "wof:geomhash":"85e8f796c5a4b91576a80c022a7d067e",
+    "wof:geomhash":"0cde1a73c2156975a40e97293f3747bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797723,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "microhood_id":1108833221,
+            "neighbourhood_id":1108805791,
             "region_id":85687041,
             "venue_id":269925737
         }
     ],
     "wof:id":269925737,
-    "wof:lastmodified":1473879567,
+    "wof:lastmodified":1492496645,
     "wof:name":"Welle, C Van Der",
-    "wof:parent_id":85797723,
+    "wof:parent_id":1108833221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

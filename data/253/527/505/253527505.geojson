@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.354795,51.859581,4.354795,51.859581",
     "geom:latitude":51.859581,
     "geom:longitude":4.354795,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.terzomondo.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798011,
+        1108833225,
+        1108805797,
+        102191581,
         85633337,
-        101751847,
+        101751843,
+        1108805727,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_7Yad0BZf28SgsNcUwaWLhP_51.859581_4.354795@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d78885690e556e94cfc49fb519efac5d",
+    "wof:geomhash":"294dc0f6596fbcd11ab9fc4b0a6694e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805727,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751847,
-            "neighbourhood_id":85798011,
+            "locality_id":101751843,
+            "microhood_id":1108833225,
+            "neighbourhood_id":1108805797,
             "region_id":85687041,
             "venue_id":253527505
         }
     ],
     "wof:id":253527505,
-    "wof:lastmodified":1473879665,
+    "wof:lastmodified":1492489324,
     "wof:name":"Terzo Mondo",
-    "wof:parent_id":85798011,
+    "wof:parent_id":1108833225,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

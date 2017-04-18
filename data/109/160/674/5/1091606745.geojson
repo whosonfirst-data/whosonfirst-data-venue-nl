@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1270060539,51.9906768799,4.1270060539,51.9906768799",
     "geom:latitude":51.990677,
     "geom:longitude":4.127006,
@@ -23,19 +24,36 @@
     "sg:postcode":"3151 VP",
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108805869,
+        102191581,
+        85633337,
+        101751843,
+        1108805729,
+        85687041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Kd6JbGHCZoaHbE8pkpSLB_51.990677_4.127006@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803202,
-    "wof:geomhash":"68a683159dcf702fd71135fd0518cf07",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c7fc80693a14c4efa0f5184137bfaca",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108805729,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805869,
+            "region_id":85687041,
+            "venue_id":1091606745
+        }
+    ],
     "wof:id":1091606745,
-    "wof:lastmodified":1473878836,
+    "wof:lastmodified":1492512592,
     "wof:name":"Camping Hoek Van Holland",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108805869,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

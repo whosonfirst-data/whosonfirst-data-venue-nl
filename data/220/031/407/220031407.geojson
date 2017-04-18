@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.930355,52.366173,4.930355,52.366173",
     "geom:latitude":52.366173,
     "geom:longitude":4.930355,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803579,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7XtYTuCar3Q9VYy2ZMT3T8_52.366173_4.930355@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"06ceb4f5cac45931c034cc08f6843bcc",
+    "wof:geomhash":"91c68760d88060093958f679adea80cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803579,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":220031407
         }
     ],
     "wof:id":220031407,
-    "wof:lastmodified":1473878547,
+    "wof:lastmodified":1492481484,
     "wof:name":"Deus Ex Machina Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

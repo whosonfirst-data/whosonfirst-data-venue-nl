@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1202368736,52.105255127,5.1202368736,52.105255127",
     "geom:latitude":52.105255,
     "geom:longitude":5.120237,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808891,
+        102191581,
         85633337,
-        85798227,
+        101751827,
+        1108808663,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473800189,
-    "wof:geomhash":"fdb858e399121a8ed76d14834c48d720",
+    "wof:geomhash":"e7c2eb13d0ece515eb4d6717dc4ebb7b",
     "wof:hierarchy":[
         {
+            "borough_id":1108808663,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808891,
             "region_id":85687039,
             "venue_id":1075837267
         }
     ],
     "wof:id":1075837267,
-    "wof:lastmodified":1473879494,
+    "wof:lastmodified":1492485683,
     "wof:name":"Palthe Stomerijen Bv",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808891,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

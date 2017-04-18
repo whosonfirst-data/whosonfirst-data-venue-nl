@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.924038,52.362415,4.924038,52.362415",
     "geom:latitude":52.362415,
     "geom:longitude":4.924038,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803579,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6qBncUgZUcKKpYsloXnNwE_52.362415_4.924038@1306269970"
     },
     "wof:country":"NL",
-    "wof:geomhash":"54ffeadc0e68cd2a8ebcbb0d60a27fef",
+    "wof:geomhash":"8979c251fe4ebc08be5cbd33cc910d0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803579,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":286508951
         }
     ],
     "wof:id":286508951,
-    "wof:lastmodified":1473879193,
+    "wof:lastmodified":1492476418,
     "wof:name":"Ruting, P",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

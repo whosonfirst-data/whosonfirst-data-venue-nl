@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.883937,52.367527,4.883937,52.367527",
     "geom:latitude":52.367527,
     "geom:longitude":4.883937,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803351,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5wS3MZHa4flDRKBlNEO0v3_52.367527_4.883937@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a2994e0b0df8f7939db1585b053b05e3",
+    "wof:geomhash":"4798d22f778e1d54751fb60a0c94c9fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803351,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":203229329
         }
     ],
     "wof:id":203229329,
-    "wof:lastmodified":1473879204,
+    "wof:lastmodified":1492480164,
     "wof:name":"Luik, Het",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803351,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882899,52.379585,4.882899,52.379585",
     "geom:latitude":52.379585,
     "geom:longitude":4.882899,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803955,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0Dw9wV8OEhDDUFslZav5aQ_52.379585_4.882899@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b9ac5e2d2bae068d0abd4caba99fbea9",
+    "wof:geomhash":"b514134c44aec4e2369db7d1ba780ef8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803955,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":253227023
         }
     ],
     "wof:id":253227023,
-    "wof:lastmodified":1473879240,
+    "wof:lastmodified":1492488319,
     "wof:name":"H. Ree",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

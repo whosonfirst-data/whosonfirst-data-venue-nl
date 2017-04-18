@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.886035,52.38084,4.886035,52.38084",
     "geom:latitude":52.38084,
     "geom:longitude":4.886035,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804285,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1jS1aeecHZaMMEOXT1eTdg_52.380840_4.886035@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8c0a3290e84c77f195c7343a13b0c50e",
+    "wof:geomhash":"1b3c2807136f7087e8dc283007428d88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804285,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":286372003
         }
     ],
     "wof:id":286372003,
-    "wof:lastmodified":1473878911,
+    "wof:lastmodified":1492476065,
     "wof:name":"Watkins Coaching En Training",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

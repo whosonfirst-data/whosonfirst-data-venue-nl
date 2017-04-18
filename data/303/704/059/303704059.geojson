@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.933435,52.308002,4.933435,52.308002",
     "geom:latitude":52.308002,
     "geom:longitude":4.933435,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797113,
+        1108803575,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1dZEkMmziccOKqdh58KD2F_52.308002_4.933435@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e7728ec971d4a25613c9f104b4a3be2c",
+    "wof:geomhash":"1d1ed681bb0ace5cd9e8413e59b337f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797113,
+            "locality_id":101751893,
+            "microhood_id":1108803575,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":303704059
         }
     ],
     "wof:id":303704059,
-    "wof:lastmodified":1473879451,
+    "wof:lastmodified":1492473519,
     "wof:name":"Pz Produkties",
-    "wof:parent_id":85797113,
+    "wof:parent_id":1108803575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

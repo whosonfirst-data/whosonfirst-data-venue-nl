@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.806425,52.382355,4.806425,52.382355",
     "geom:latitude":52.382355,
     "geom:longitude":4.806425,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803561,
         85797579,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5ryTI6SnGHyXBm4WCwi29I_52.382355_4.806425@1306269940"
     },
     "wof:country":"NL",
-    "wof:geomhash":"69813a59938a04f423352ee799dea9f1",
+    "wof:geomhash":"7c2ae02ad322130a8c4cf9680d26fec3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803561,
             "neighbourhood_id":85797579,
             "region_id":85687053,
             "venue_id":236760085
         }
     ],
     "wof:id":236760085,
-    "wof:lastmodified":1473879516,
+    "wof:lastmodified":1492492358,
     "wof:name":"Collewijn",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108803561,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.837082,52.383949,4.837082,52.383949",
     "geom:latitude":52.383949,
     "geom:longitude":4.837082,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.orson.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108804011,
+        1108802905,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_2Vc6egsfYBp5Q8HEmkBDIy_52.383949_4.837082@1306269930"
     },
     "wof:country":"NL",
-    "wof:geomhash":"79c7329fbbfef638759c199e4eece879",
+    "wof:geomhash":"72d5fb18660424a2eb9adea9c2ca6f7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108804011,
+            "neighbourhood_id":1108802905,
             "region_id":85687053,
             "venue_id":219897551
         }
     ],
     "wof:id":219897551,
-    "wof:lastmodified":1473879727,
+    "wof:lastmodified":1492502589,
     "wof:name":"Orson",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108804011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881446,52.373726,4.881446,52.373726",
     "geom:latitude":52.373726,
     "geom:longitude":4.881446,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803831,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1x77Btd6rXwbRcotYGbCiS_52.373726_4.881446@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c584e10382f9a14ff1c94df121216a46",
+    "wof:geomhash":"7c2c5a28744f3c5bfcaae7ea239b02e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803831,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":287157235
         }
     ],
     "wof:id":287157235,
-    "wof:lastmodified":1473878921,
+    "wof:lastmodified":1492513913,
     "wof:name":"Kinderboekwinkel, De",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

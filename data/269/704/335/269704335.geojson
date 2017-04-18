@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.833934,52.374043,4.833934,52.374043",
     "geom:latitude":52.374043,
     "geom:longitude":4.833934,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108804125,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5XteVzSTRs5JdWkMAkc0ib_52.374043_4.833934@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bef110acd01c932f2d8faf8d2221bd7d",
+    "wof:geomhash":"99e58d0c6e05f776a1712c4c354723ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "macrohood_id":1108802303,
+            "microhood_id":1108804125,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":269704335
         }
     ],
     "wof:id":269704335,
-    "wof:lastmodified":1473879293,
+    "wof:lastmodified":1492496223,
     "wof:name":"Humdinger",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108804125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

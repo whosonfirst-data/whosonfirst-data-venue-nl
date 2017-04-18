@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.918676,52.353661,4.918676,52.353661",
     "geom:latitude":52.353661,
     "geom:longitude":4.918676,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803773,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3lApoefNGBcCDiwxnmWQ92_52.353661_4.918676@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1604660f78e65b270df666970c7eb324",
+    "wof:geomhash":"b34a6e851dd1e76fe1da2442435bda99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803773,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":236372269
         }
     ],
     "wof:id":236372269,
-    "wof:lastmodified":1473879234,
+    "wof:lastmodified":1492492404,
     "wof:name":"R. Hulst",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

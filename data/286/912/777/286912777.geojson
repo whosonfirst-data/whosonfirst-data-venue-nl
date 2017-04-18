@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.092942,52.109051,5.092942,52.109051",
     "geom:latitude":52.109051,
     "geom:longitude":5.092942,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808731,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2U8j4rIdyjegBMOg2e7Rzw_52.109051_5.092942@1306269974"
     },
     "wof:country":"NL",
-    "wof:geomhash":"86cd714b6c52b345748f0e87e726fc94",
+    "wof:geomhash":"f7b2673ecf593673bab3b9929e1082e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808731,
             "region_id":85687039,
             "venue_id":286912777
         }
     ],
     "wof:id":286912777,
-    "wof:lastmodified":1473879663,
+    "wof:lastmodified":1492475300,
     "wof:name":"La Rose",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

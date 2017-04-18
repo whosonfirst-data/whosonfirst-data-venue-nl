@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.829702,52.356213,4.829702,52.356213",
     "geom:latitude":52.356213,
     "geom:longitude":4.829702,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803769,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_2BDwEeVzABOsvjNEBQA4g5_52.356213_4.829702@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4bcdfea22d643e261ad322d207af4d8d",
+    "wof:geomhash":"2962ca3aa5deb3ebc1b8c5a0dcbc3983",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803769,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":269732327
         }
     ],
     "wof:id":269732327,
-    "wof:lastmodified":1473879345,
+    "wof:lastmodified":1492496633,
     "wof:name":"Automatiek Febo",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

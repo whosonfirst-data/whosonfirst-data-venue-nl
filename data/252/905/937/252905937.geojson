@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.340307,52.070442,4.340307,52.070442",
     "geom:latitude":52.070442,
     "geom:longitude":4.340307,
@@ -25,28 +26,46 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859633,
+        102191581,
+        1108808077,
         85633337,
         101752763,
-        85687041
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UHWratG3LNImPJw7gPnTZ_52.070442_4.340307@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e1412b766f120de2ce062594e892db06",
+    "wof:geomhash":"6477871ee404f3534067d656e771a3df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808077,
+            "neighbourhood_id":85859633,
+            "region_id":85687041,
+            "venue_id":252905937
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
+            "locality_id":101754743,
+            "macrohood_id":1108808077,
             "neighbourhood_id":85859633,
             "region_id":85687041,
             "venue_id":252905937
         }
     ],
     "wof:id":252905937,
-    "wof:lastmodified":1473878841,
+    "wof:lastmodified":1492505227,
     "wof:name":"Auto Demontagebedrijf De Kneus",
     "wof:parent_id":85859633,
     "wof:placetype":"venue",

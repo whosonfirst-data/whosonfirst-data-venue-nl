@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2134847641,52.3845252991,5.2134847641,52.3845252991",
     "geom:latitude":52.384525,
     "geom:longitude":5.213485,
@@ -24,17 +25,32 @@
     "sg:province":"Flevoland",
     "sg:website":"http://www.bever.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101751877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SPHgCmSK1flvb850uUHeN_52.384525_5.213485@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802975,
-    "wof:geomhash":"9d1c1e9b8cc21955eaa9e1b7282dca7a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7235bb213c1264e6861b3f600365376f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101751877,
+            "region_id":85687049,
+            "venue_id":1091605249
+        }
+    ],
     "wof:id":1091605249,
-    "wof:lastmodified":1473878731,
+    "wof:lastmodified":1492512747,
     "wof:name":"Bever Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7556462288,52.7021942139,5.7556462288,52.7021942139",
     "geom:latitude":52.702194,
     "geom:longitude":5.755646,
@@ -23,17 +24,32 @@
     "sg:postcode":"8304 AJ",
     "sg:province":"Flevoland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473843,
+        85633337,
+        101807245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mHHYtDgufgZFNes8AFuY0_52.702194_5.755646@1306269947"
     },
     "wof:country":"NL",
     "wof:created":1473798601,
-    "wof:geomhash":"47a3232651291a01dae2169cb273ae50",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7064e4891552652f9b6712a8b75fa07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473843,
+            "locality_id":101807245,
+            "region_id":85687049,
+            "venue_id":1075808945
+        }
+    ],
     "wof:id":1075808945,
-    "wof:lastmodified":1473878679,
+    "wof:lastmodified":1492486131,
     "wof:name":"Batjes Interieur Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

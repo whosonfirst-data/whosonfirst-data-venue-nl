@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.400638,51.942627,4.400638,51.942627",
     "geom:latitude":51.942627,
     "geom:longitude":4.400638,
@@ -24,30 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797797,
+        1108805757,
+        102191581,
         85633337,
-        85687041
+        101751843,
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xXHL9mge7V2PC8hfYv8eU_51.942627_4.400638@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"24bd26bb4f8e423465efd7603c3bab58",
+    "wof:geomhash":"b7128d08e74d8d7844d2338b8f60e011",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805739,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797797,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":185869389
+        },
+        {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474253,
+            "locality_id":101751845,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":185869389
         }
     ],
     "wof:id":185869389,
-    "wof:lastmodified":1473878795,
+    "wof:lastmodified":1492487222,
     "wof:name":"Van Gisteren",
-    "wof:parent_id":85797797,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

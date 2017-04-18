@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.4098358154,52.1628723145,6.4098358154,52.1628723145",
     "geom:latitude":52.162872,
     "geom:longitude":6.409836,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.ctn.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473915,
+        85633337,
+        101807065
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22xsfuGN6dGHEXeo2L90dB_52.162872_6.409836@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801192,
-    "wof:geomhash":"00d107f23a9c051c4e6395146ef31322",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c838866713b7cbf1ebffd24dfc3e87a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473915,
+            "locality_id":101807065,
+            "region_id":85687043,
+            "venue_id":1091579857
+        }
+    ],
     "wof:id":1091579857,
-    "wof:lastmodified":1473879056,
+    "wof:lastmodified":1492511190,
     "wof:name":"Ctn Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

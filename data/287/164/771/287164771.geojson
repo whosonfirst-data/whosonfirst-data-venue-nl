@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.92968,52.363266,4.92968,52.363266",
     "geom:latitude":52.363266,
     "geom:longitude":4.92968,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.snoekstrips.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803579,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_06zG7DqxMFoYyPcwgN2Z6L_52.363266_4.929680@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"96cb739e650f591fab664105887b346d",
+    "wof:geomhash":"4422b815aecde209d5781251b76e0343",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803579,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":287164771
         }
     ],
     "wof:id":287164771,
-    "wof:lastmodified":1473878947,
+    "wof:lastmodified":1492513471,
     "wof:name":"Snoek Strips",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.537485,51.948517,4.537485,51.948517",
     "geom:latitude":51.948517,
     "geom:longitude":4.537485,
@@ -25,31 +26,46 @@
     "sg:website":"http://www.schadeherstel.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        85797053,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VCfFkkvBx5YewZff6yI0R_51.948517_4.537485@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"505d565478261451a0fbcee9bf8ad831",
+    "wof:geomhash":"dc31f97aa64744187ebe6c06825c5619",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797053,
+            "region_id":85687041,
+            "venue_id":236855719
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "neighbourhood_id":85797053,
             "region_id":85687041,
             "venue_id":236855719
         }
     ],
     "wof:id":236855719,
-    "wof:lastmodified":1473879546,
+    "wof:lastmodified":1492493330,
     "wof:name":"Boessen Schadeherstel",
-    "wof:parent_id":85798329,
+    "wof:parent_id":85797053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

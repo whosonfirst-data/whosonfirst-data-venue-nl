@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.566649,53.217644,6.566649,53.217644",
     "geom:latitude":53.217644,
     "geom:longitude":6.566649,
@@ -24,40 +25,41 @@
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797835,
-        85633337,
-        85687059,
         85797417,
-        101751909
+        102191581,
+        404473713,
+        85633337,
+        101751909,
+        85687059,
+        85797835
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59BZm3oJ69ZeGTPzzrV6kA_53.217644_6.566649@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"382644d843066fb6db234da56f680cf9",
+    "wof:geomhash":"6e0d61ca927f1625a0f4ff75e0722f72",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797835,
+            "localadmin_id":404473713,
+            "locality_id":101751909,
+            "neighbourhood_id":85797417,
             "region_id":85687059,
             "venue_id":303358369
         },
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751909,
-            "neighbourhood_id":85797417,
+            "neighbourhood_id":85797835,
             "region_id":85687059,
             "venue_id":303358369
         }
     ],
     "wof:id":303358369,
-    "wof:lastmodified":1473879144,
+    "wof:lastmodified":1492472626,
     "wof:name":"Meier",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

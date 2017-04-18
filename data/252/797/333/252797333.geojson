@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885209,52.385044,4.885209,52.385044",
     "geom:latitude":52.385044,
     "geom:longitude":4.885209,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.decc.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804019,
+        1108802819,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_6dlpsMzS7dAU8V3Kmi2PP0_52.385044_4.885209@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e6eefa86dd43b26c4fe47773fc63e74e",
+    "wof:geomhash":"5288a3cfb8cfe952a4f6828bab55389a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108804019,
+            "neighbourhood_id":1108802819,
             "region_id":85687053,
             "venue_id":252797333
         }
     ],
     "wof:id":252797333,
-    "wof:lastmodified":1473878541,
+    "wof:lastmodified":1492505306,
     "wof:name":"Decc Bv",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.831697,52.355598,4.831697,52.355598",
     "geom:latitude":52.355598,
     "geom:longitude":4.831697,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.isa-vo.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803769,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_6e7PUVwzFiCbhCoeTXEHhE_52.355598_4.831697@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fd0b407d4bc6e15c835a767e586ccb26",
+    "wof:geomhash":"f4b5dd548212b6cb2bbb05ecd51e47ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803769,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":303371201
         }
     ],
     "wof:id":303371201,
-    "wof:lastmodified":1473879143,
+    "wof:lastmodified":1492471108,
     "wof:name":"Comenius Lyceum",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

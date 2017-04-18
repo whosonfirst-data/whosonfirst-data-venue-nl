@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1737542152,52.0849914551,5.1737542152,52.0849914551",
     "geom:latitude":52.084991,
     "geom:longitude":5.173754,
@@ -34,8 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         85797403,
+        102191581,
+        85633337,
+        101751827,
+        1108808669,
         85687039
     ],
     "wof:breaches":[],
@@ -44,17 +48,20 @@
     },
     "wof:country":"NL",
     "wof:created":1473800898,
-    "wof:geomhash":"62fce5379e73869e4c9a3fc8a5b6bc20",
+    "wof:geomhash":"f006d72225a989a278420aed8efd6c22",
     "wof:hierarchy":[
         {
+            "borough_id":1108808669,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751827,
             "neighbourhood_id":85797403,
             "region_id":85687039,
             "venue_id":1091576995
         }
     ],
     "wof:id":1091576995,
-    "wof:lastmodified":1473878948,
+    "wof:lastmodified":1492511260,
     "wof:name":"Utrechts Universiteitsblad",
     "wof:parent_id":85797403,
     "wof:placetype":"venue",

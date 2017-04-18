@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.934824,52.397301,4.934824,52.397301",
     "geom:latitude":52.397301,
     "geom:longitude":4.934824,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803535,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5NEPruWOBofk4kTRquPo68_52.397301_4.934824@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7ad5e9252d28a534ce8150648792aad0",
+    "wof:geomhash":"19945fd7c433b92d2781a4157704d599",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803535,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":320630059
         }
     ],
     "wof:id":320630059,
-    "wof:lastmodified":1473879471,
+    "wof:lastmodified":1492484160,
     "wof:name":"Boven 'T Ij",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803535,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.890914,52.350712,4.890914,52.350712",
     "geom:latitude":52.350712,
     "geom:longitude":4.890914,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803817,
+        1108802865,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_4WX3k4De3jtB8BgOFZPLQS_52.350712_4.890914@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5594305b332edf152d9cc2aa15ed5857",
+    "wof:geomhash":"6d4803d2440174354f43522a30d1d312",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803817,
+            "neighbourhood_id":1108802865,
             "region_id":85687053,
             "venue_id":269844745
         }
     ],
     "wof:id":269844745,
-    "wof:lastmodified":1473879535,
+    "wof:lastmodified":1492495103,
     "wof:name":"A De Boer",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

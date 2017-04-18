@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.123417,52.070919,5.123417,52.070919",
     "geom:latitude":52.070919,
     "geom:longitude":5.123417,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797727,
+        1108808823,
+        102191581,
+        1108808645,
         85633337,
         101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1W9iQcjhoaj7UEm6vT9Bbj_52.070919_5.123417@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4419204622035c47d8e1a3ff25e28513",
+    "wof:geomhash":"8f05d3fe6495a91e3fc436b7e0a9d3da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797727,
+            "macrohood_id":1108808645,
+            "neighbourhood_id":1108808823,
             "region_id":85687039,
             "venue_id":186121749
         }
     ],
     "wof:id":186121749,
-    "wof:lastmodified":1473878998,
+    "wof:lastmodified":1492508474,
     "wof:name":"Peter Van Ginkel Kunstenaarsbenodigdhede",
-    "wof:parent_id":85797727,
+    "wof:parent_id":1108808823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

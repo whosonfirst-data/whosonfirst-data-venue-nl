@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.09147,52.105694,5.09147,52.105694",
     "geom:latitude":52.105694,
     "geom:longitude":5.09147,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808759,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4GMBcraHyFccflGyyqiKAK_52.105694_5.091470@1306269933"
     },
     "wof:country":"NL",
-    "wof:geomhash":"eae41e7606215069cc873e8d3f550511",
+    "wof:geomhash":"932d7d74b8955f0c582b82ac9222aff5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808759,
             "region_id":85687039,
             "venue_id":236007289
         }
     ],
     "wof:id":236007289,
-    "wof:lastmodified":1473878489,
+    "wof:lastmodified":1492491589,
     "wof:name":"Parkzicht",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

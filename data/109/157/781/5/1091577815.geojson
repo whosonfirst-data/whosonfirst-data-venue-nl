@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0460519791,52.1259803772,5.0460519791,52.1259803772",
     "geom:latitude":52.12598,
     "geom:longitude":5.046052,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85797903,
+        102191581,
         85633337,
-        85797965,
+        101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473801031,
-    "wof:geomhash":"ba58b9bf90fa3d480184ea3ce2e21335",
+    "wof:geomhash":"84b3bcdcf31933b81fd7fb55aa583c72",
     "wof:hierarchy":[
         {
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797965,
+            "locality_id":101751827,
+            "neighbourhood_id":85797903,
             "region_id":85687039,
             "venue_id":1091577815
         }
     ],
     "wof:id":1091577815,
-    "wof:lastmodified":1473879012,
+    "wof:lastmodified":1492511060,
     "wof:name":"Bevanos Bv",
-    "wof:parent_id":85797965,
+    "wof:parent_id":85797903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

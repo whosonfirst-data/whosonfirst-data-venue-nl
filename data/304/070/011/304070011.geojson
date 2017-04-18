@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.281676,52.10965,4.281676,52.10965",
     "geom:latitude":52.10965,
     "geom:longitude":4.281676,
@@ -29,8 +30,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808165,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -38,21 +43,23 @@
         "sg:id":"SG_0XWx5rx9lPJdKuQruLZIk6_52.109650_4.281676@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f4fbf751ae3f6b4160c218178696e8ed",
+    "wof:geomhash":"7ec82c56c24d60798edcda15f61479bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808165,
             "region_id":85687041,
             "venue_id":304070011
         }
     ],
     "wof:id":304070011,
-    "wof:lastmodified":1473878794,
+    "wof:lastmodified":1492504627,
     "wof:name":"Hotel Mimosa",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

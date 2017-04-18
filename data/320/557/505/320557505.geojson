@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.27997,52.106251,4.27997,52.106251",
     "geom:latitude":52.106251,
     "geom:longitude":4.27997,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808167,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_0Ky2km4LqGTeAjMGm3f9UM_52.106251_4.279970@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ab099aa60ae7fd9dd25c0953bbfbefd4",
+    "wof:geomhash":"c4cf0b0e4ffabf79e06cfd3225284d8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808167,
             "region_id":85687041,
             "venue_id":320557505
         }
     ],
     "wof:id":320557505,
-    "wof:lastmodified":1473879410,
+    "wof:lastmodified":1492484523,
     "wof:name":"Groentehandel Pronk",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

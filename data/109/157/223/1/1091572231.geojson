@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7814660072,52.7887001038,4.7814660072,52.7887001038",
     "geom:latitude":52.7887,
     "geom:longitude":4.781466,
@@ -24,17 +25,32 @@
     "sg:province":"North Holland",
     "sg:website":"http://www.dayna.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474113,
+        85633337,
+        101807377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17NU6TXTYHXNepVefIDUwX_52.788700_4.781466@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800618,
-    "wof:geomhash":"5fee9feb0af53ef675310103c32cd7dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1047052a6df1ae2b3d6368719af70f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474113,
+            "locality_id":101807377,
+            "region_id":85687053,
+            "venue_id":1091572231
+        }
+    ],
     "wof:id":1091572231,
-    "wof:lastmodified":1473878606,
+    "wof:lastmodified":1492511431,
     "wof:name":"Dayna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

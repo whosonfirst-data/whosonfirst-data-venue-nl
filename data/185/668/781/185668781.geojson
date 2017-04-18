@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.007133,40.714489,-74.007133,40.714489",
     "geom:latitude":40.714489,
     "geom:longitude":-74.007133,
@@ -25,12 +26,14 @@
     "sg:website":"http://www.brohl-wellpappe.de",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865713,
+        102191575,
+        907196817,
         85633793,
         85977539,
+        421205771,
         102081863,
-        85865713,
-        85867071
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,28 +43,21 @@
     "wof:geomhash":"a368761980cf61a5dfb895baf34957cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":421205771,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081863,
             "locality_id":85977539,
+            "macrohood_id":907196817,
             "neighbourhood_id":85865713,
-            "region_id":85688543,
-            "venue_id":185668781
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081863,
-            "locality_id":85977539,
-            "neighbourhood_id":85867071,
             "region_id":85688543,
             "venue_id":185668781
         }
     ],
     "wof:id":185668781,
-    "wof:lastmodified":1473878607,
+    "wof:lastmodified":1491267878,
     "wof:name":"Brohl Wellpappe Gmbh & Co Kg",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865713,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

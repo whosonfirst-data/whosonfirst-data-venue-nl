@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9852409363,52.0090866089,4.9852409363,52.0090866089",
     "geom:latitude":52.009087,
     "geom:longitude":4.985241,
@@ -24,17 +25,32 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.han-stance.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473993,
+        85633337,
+        101754597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nVVhtJsSXFqasFodRq86k_52.009087_4.985241@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802432,
-    "wof:geomhash":"00e6aecdb56f94b4a7684b8ee76e22f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d84bd9a1785e663841997fb16835c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473993,
+            "locality_id":101754597,
+            "region_id":85687039,
+            "venue_id":1091598485
+        }
+    ],
     "wof:id":1091598485,
-    "wof:lastmodified":1473878981,
+    "wof:lastmodified":1492509845,
     "wof:name":"Han & Stance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

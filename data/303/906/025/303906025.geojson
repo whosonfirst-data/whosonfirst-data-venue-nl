@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.221543,52.069286,4.221543,52.069286",
     "geom:latitude":52.069286,
     "geom:longitude":4.221543,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797143,
+        85797811,
+        102191581,
+        1108808099,
         85633337,
+        101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1TbD4E32arU8xVzpk4bmdX_52.069286_4.221543@1306269989"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8438ed9a32dda7859699f1129ecd98e7",
+    "wof:geomhash":"db32faaaeed6941732f15f2662528a28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797143,
+            "locality_id":101752763,
+            "macrohood_id":1108808099,
+            "neighbourhood_id":85797811,
             "region_id":85687041,
             "venue_id":303906025
         }
     ],
     "wof:id":303906025,
-    "wof:lastmodified":1473879647,
+    "wof:lastmodified":1492471069,
     "wof:name":"Carlo Mode",
-    "wof:parent_id":85797143,
+    "wof:parent_id":85797811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

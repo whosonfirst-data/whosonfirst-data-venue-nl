@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5161671638,51.6134529114,4.5161671638,51.6134529114",
     "geom:latitude":51.613453,
     "geom:longitude":4.516167,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.acmedia.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474623,
+        85633337,
+        101809679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hnr1wjg1bU4fJRxNoNdse_51.613453_4.516167@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800562,
-    "wof:geomhash":"14550e7f64b5e83935d78adf376b4b05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7514fceca863c241d84f4383f715092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474623,
+            "locality_id":101809679,
+            "region_id":85687035,
+            "venue_id":1091571239
+        }
+    ],
     "wof:id":1091571239,
-    "wof:lastmodified":1473878536,
+    "wof:lastmodified":1492511052,
     "wof:name":"Ac Media",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

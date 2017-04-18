@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.89885,52.376022,4.89885,52.376022",
     "geom:latitude":52.376022,
     "geom:longitude":4.89885,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804101,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_5W0kbSvWY6oRGkyE82aBly_52.376022_4.898850@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e0782fa101854e59898493e3d07a8a9d",
+    "wof:geomhash":"df8e441cd94c0eaefd90c10764753cf5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804101,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":304070181
         }
     ],
     "wof:id":304070181,
-    "wof:lastmodified":1473878793,
+    "wof:lastmodified":1492504628,
     "wof:name":"Hotel Old Quarter",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

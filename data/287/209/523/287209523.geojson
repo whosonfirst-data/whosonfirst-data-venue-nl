@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.297976,52.081745,4.297976,52.081745",
     "geom:latitude":52.081745,
     "geom:longitude":4.297976,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2pdjGemkl7s5SnXvq15kT4_52.081745_4.297976@1306269978"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7c612ebb8934cefad7663dc0bcb596b0",
+    "wof:geomhash":"fccf5131088eceec10ac83dd4396a758",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":287209523
         }
     ],
     "wof:id":287209523,
-    "wof:lastmodified":1473879001,
+    "wof:lastmodified":1492513703,
     "wof:name":"Papermill",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

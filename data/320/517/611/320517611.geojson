@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.256863,52.070679,4.256863,52.070679",
     "geom:latitude":52.070679,
     "geom:longitude":4.256863,
@@ -25,39 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859585,
+        102191581,
+        1108808133,
         85633337,
         101752763,
-        85687041,
-        85797811
+        1108808043,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EVbsntPVpimlStr8LyFEf_52.070679_4.256863@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9856aa83bf7311f0fbf27ad548279928",
+    "wof:geomhash":"94df92bc9ed8b38c22a9d044ca60fc44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808133,
             "neighbourhood_id":85859585,
-            "region_id":85687041,
-            "venue_id":320517611
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101752763,
-            "neighbourhood_id":85797811,
             "region_id":85687041,
             "venue_id":320517611
         }
     ],
     "wof:id":320517611,
-    "wof:lastmodified":1473879365,
+    "wof:lastmodified":1492484424,
     "wof:name":"F A Van De Gon Netscher",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.841793,52.387592,4.841793,52.387592",
     "geom:latitude":52.387592,
     "geom:longitude":4.841793,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803625,
+        1108802535,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3nP8KmXPwCZ9FJCyJ0P6lS_52.387592_4.841793@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"03487e1ab53021b9f27b2ccf42bd6249",
+    "wof:geomhash":"5cea6da58e64cfe5f473a2a79bb15551",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803625,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":320834203
         }
     ],
     "wof:id":320834203,
-    "wof:lastmodified":1473879639,
+    "wof:lastmodified":1492484073,
     "wof:name":"Kidde Netherlands Bv",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

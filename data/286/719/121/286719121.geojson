@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.906155,52.35268,4.906155,52.35268",
     "geom:latitude":52.35268,
     "geom:longitude":4.906155,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803479,
+        1108802793,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4IRMI9LoDhL0En3UJF9jek_52.352680_4.906155@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"45abbd4a99b5dec9c9fdcd5c4bcc7870",
+    "wof:geomhash":"9c0bf0ac9b9d24c488e6565092f4ef2d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803479,
+            "neighbourhood_id":1108802793,
             "region_id":85687053,
             "venue_id":286719121
         }
     ],
     "wof:id":286719121,
-    "wof:lastmodified":1473879433,
+    "wof:lastmodified":1492477783,
     "wof:name":"Openbare Bibliotheek En Leeszaal",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

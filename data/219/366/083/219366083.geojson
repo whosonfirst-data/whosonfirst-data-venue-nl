@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.970816,52.504784,4.970816,52.504784",
     "geom:latitude":52.504784,
     "geom:longitude":4.970816,
@@ -25,6 +26,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85797309,
+        102191581,
+        404474111,
         85633337,
         101751889,
         85687053,
@@ -35,19 +38,21 @@
         "sg:id":"SG_1svVlMxTjawPptpwqWcrWp_52.504784_4.970816@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a0032770bc890bd804cddc936dfbd4a9",
+    "wof:geomhash":"a5763d667021d1e36671164b096da0f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474111,
             "locality_id":101751889,
             "neighbourhood_id":85797309,
             "region_id":85687053,
             "venue_id":219366083
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474111,
             "locality_id":101751889,
             "neighbourhood_id":85859941,
             "region_id":85687053,
@@ -55,9 +60,9 @@
         }
     ],
     "wof:id":219366083,
-    "wof:lastmodified":1473879047,
+    "wof:lastmodified":1492503026,
     "wof:name":"J. Ter Haak",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

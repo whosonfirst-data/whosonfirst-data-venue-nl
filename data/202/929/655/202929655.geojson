@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.516881,51.927998,4.516881,51.927998",
     "geom:latitude":51.927998,
     "geom:longitude":4.516881,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805803,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0W25xJzN1ysBG3SECeD7OH_51.927998_4.516881@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"493042c367b2bec6f2a2468d8cd7a300",
+    "wof:geomhash":"8a055484195c8f4a6899a0f07a3ec704",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805803,
             "region_id":85687041,
             "venue_id":202929655
         }
     ],
     "wof:id":202929655,
-    "wof:lastmodified":1473879415,
+    "wof:lastmodified":1492498394,
     "wof:name":"Dongen, Van",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.888851,52.352612,4.888851,52.352612",
     "geom:latitude":52.352612,
     "geom:longitude":4.888851,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803775,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7A0nPjxE5F7Fba3ZvFWqD0_52.352612_4.888851@1306269992"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3e747796298526686f42211c0b6fb1f1",
+    "wof:geomhash":"1529637963f757c8757108d0ac03164c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803775,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":319910493
         }
     ],
     "wof:id":319910493,
-    "wof:lastmodified":1473878850,
+    "wof:lastmodified":1492478971,
     "wof:name":"Centraal Witgoed Amsterdam",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

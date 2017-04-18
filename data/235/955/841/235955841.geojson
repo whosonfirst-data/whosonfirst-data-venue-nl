@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882286,52.334412,4.882286,52.334412",
     "geom:latitude":52.334412,
     "geom:longitude":4.882286,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803873,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4pC6Wsszp0qNz4UnPEiiIk_52.334412_4.882286@1306269933"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ca94dfe71ff255cc9bac93dae69c7552",
+    "wof:geomhash":"e9d733fc409dabc4eb319f1167de3d29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803873,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":235955841
         }
     ],
     "wof:id":235955841,
-    "wof:lastmodified":1473878551,
+    "wof:lastmodified":1492514536,
     "wof:name":"Body In Balance",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

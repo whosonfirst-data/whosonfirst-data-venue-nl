@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3041181564,52.0784225464,4.3041181564,52.0784225464",
     "geom:latitude":52.078423,
     "geom:longitude":4.304118,
@@ -24,13 +25,13 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808249,
         102191581,
-        404474179,
+        1108808081,
         85633337,
         101752763,
-        85687041,
-        85797685
+        1108808053,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,31 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473804009,
-    "wof:geomhash":"02d47b5a1c1871c8c3060063b768dfe1",
+    "wof:geomhash":"b5f03c03d7e1bb573683356f2c4b9782",
     "wof:hierarchy":[
         {
+            "borough_id":1108808053,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474179,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
-            "region_id":85687041,
-            "venue_id":1091621629
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474179,
-            "locality_id":101752763,
-            "neighbourhood_id":85797685,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808249,
             "region_id":85687041,
             "venue_id":1091621629
         }
     ],
     "wof:id":1091621629,
-    "wof:lastmodified":1473878557,
+    "wof:lastmodified":1492512436,
     "wof:name":"Christiaan",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108808249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

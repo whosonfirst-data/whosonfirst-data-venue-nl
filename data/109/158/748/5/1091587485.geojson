@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9834699631,51.536945343,5.9834699631,51.536945343",
     "geom:latitude":51.536945,
     "geom:longitude":5.98347,
@@ -23,17 +24,32 @@
     "sg:postcode":"5804 AB",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474527,
+        85633337,
+        101839289
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rQr5wIdVedSdFt0nZC3aE_51.536945_5.983470@1306270014"
     },
     "wof:country":"NL",
     "wof:created":1473801774,
-    "wof:geomhash":"6e9aa01ce366b7b49d44f9884cfec2d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a82ceead125f529153a435999bc17322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474527,
+            "locality_id":101839289,
+            "region_id":85687033,
+            "venue_id":1091587485
+        }
+    ],
     "wof:id":1091587485,
-    "wof:lastmodified":1473878911,
+    "wof:lastmodified":1492511850,
     "wof:name":"Travel Active",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9424138069,51.6909103394,4.9424138069,51.6909103394",
     "geom:latitude":51.69091,
     "geom:longitude":4.942414,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.bluemarbles.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474451,
+        85633337,
+        101809637
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7h2qrob5JxDV4pUaMZvo8y_51.690910_4.942414@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800591,
-    "wof:geomhash":"9a733a9855da9c88c317a8aa5ce170dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6150860814e03d050d43c8c475faa16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474451,
+            "locality_id":101809637,
+            "region_id":85687035,
+            "venue_id":1091571753
+        }
+    ],
     "wof:id":1091571753,
-    "wof:lastmodified":1473878567,
+    "wof:lastmodified":1492511242,
     "wof:name":"Blue Marbles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

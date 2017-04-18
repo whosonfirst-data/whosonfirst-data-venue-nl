@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.851435,52.353725,4.851435,52.353725",
     "geom:latitude":52.353725,
     "geom:longitude":4.851435,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803385,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1but5Lzwc2W0soHtSiGRaQ_52.353725_4.851435@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"89a520d7f8171972ed9c658df7a5ec70",
+    "wof:geomhash":"354b52ac5df2eac057003808287a0306",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803385,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":202794995
         }
     ],
     "wof:id":202794995,
-    "wof:lastmodified":1473879216,
+    "wof:lastmodified":1492499028,
     "wof:name":"Ross Translations",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.87592,52.381481,4.87592,52.381481",
     "geom:latitude":52.381481,
     "geom:longitude":4.87592,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.xminy.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803201,
+        1108802915,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2VfN9opXydaIXGPZ4blDxy_52.381481_4.875920@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f34e376350aa0a8e1a5af673ce196b2e",
+    "wof:geomhash":"bddccf09ca18611fe874eaef148f6307",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803201,
+            "neighbourhood_id":1108802915,
             "region_id":85687053,
             "venue_id":186553217
         }
     ],
     "wof:id":186553217,
-    "wof:lastmodified":1473879605,
+    "wof:lastmodified":1492509146,
     "wof:name":"X Min Y",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803201,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

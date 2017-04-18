@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.895893,52.375504,4.895893,52.375504",
     "geom:latitude":52.375504,
     "geom:longitude":4.895893,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803257,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_6ze6upNv1xQkhb8zBj6kHB_52.375504_4.895893@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"34d5a36ec3cff27b362b75f6a80edb4f",
+    "wof:geomhash":"2da0e3cb039d5820182f65b11a21895e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803257,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":319835305
         }
     ],
     "wof:id":319835305,
-    "wof:lastmodified":1473878592,
+    "wof:lastmodified":1492479066,
     "wof:name":"Hotel Manofa",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

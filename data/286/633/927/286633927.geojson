@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.357638,52.034683,4.357638,52.034683",
     "geom:latitude":52.034683,
     "geom:longitude":4.357638,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798303,
+        1108808351,
+        102191581,
+        1108808063,
         85633337,
-        101754743,
+        101752763,
+        1108808047,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4ctyuDIo7X25R82qceABDo_52.034683_4.357638@1306269971"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d05ee26a25e9f193d0152e2e5ef34373",
+    "wof:geomhash":"7866608373b479167d23d9a05e179a26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808047,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798303,
+            "locality_id":101752763,
+            "macrohood_id":1108808063,
+            "neighbourhood_id":1108808351,
             "region_id":85687041,
             "venue_id":286633927
         }
     ],
     "wof:id":286633927,
-    "wof:lastmodified":1473879284,
+    "wof:lastmodified":1492476494,
     "wof:name":"Molen, Van Der",
-    "wof:parent_id":85798303,
+    "wof:parent_id":1108808351,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

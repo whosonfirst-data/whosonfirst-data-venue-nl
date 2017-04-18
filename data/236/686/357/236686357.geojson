@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.341476,52.070839,4.341476,52.070839",
     "geom:latitude":52.070839,
     "geom:longitude":4.341476,
@@ -25,28 +26,46 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859633,
+        102191581,
+        1108808077,
         85633337,
         101752763,
-        85687041
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zI3yQAVwrud9hDTxZ6kjv_52.070839_4.341476@1306269940"
     },
     "wof:country":"NL",
-    "wof:geomhash":"93562b57bb17f0c55a37def60d9aa8a6",
+    "wof:geomhash":"b1c7fd8685c0caea8b5e556732803cef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808077,
+            "neighbourhood_id":85859633,
+            "region_id":85687041,
+            "venue_id":236686357
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
+            "locality_id":101754743,
+            "macrohood_id":1108808077,
             "neighbourhood_id":85859633,
             "region_id":85687041,
             "venue_id":236686357
         }
     ],
     "wof:id":236686357,
-    "wof:lastmodified":1473879470,
+    "wof:lastmodified":1492491451,
     "wof:name":"Autobedrijf Annex Sloperij Heja Bv",
     "wof:parent_id":85859633,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.358730793,51.3225822449,5.358730793,51.3225822449",
     "geom:latitude":51.322582,
     "geom:longitude":5.358731,
@@ -23,17 +24,32 @@
     "sg:postcode":"5571 CC",
     "sg:province":"Noord-Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474639,
+        85633337,
+        101839321
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rEp5ubHX7WayWyrPE7GuQ_51.322582_5.358731@1306270019"
     },
     "wof:country":"NL",
     "wof:created":1473804063,
-    "wof:geomhash":"0a8215b547f34241d5ada075cb89268b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c283355a97835d339c284e524ae4b36d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474639,
+            "locality_id":101839321,
+            "region_id":85687035,
+            "venue_id":1091622693
+        }
+    ],
     "wof:id":1091622693,
-    "wof:lastmodified":1473878626,
+    "wof:lastmodified":1492512176,
     "wof:name":"D-Line",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

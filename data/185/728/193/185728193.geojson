@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.390477,52.070099,4.390477,52.070099",
     "geom:latitude":52.070099,
     "geom:longitude":4.390477,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.bemmel-kroon.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859675,
+        1108808359,
+        102191581,
+        1108808087,
         85633337,
-        101754709,
+        101752763,
+        1108808047,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_5tLpiQlxNZDBoAvlJ5FJph_52.070099_4.390477@1306269907"
     },
     "wof:country":"NL",
-    "wof:geomhash":"85ba65c23ff8c5065337156be254739e",
+    "wof:geomhash":"f8780d3bdf57f11d6a375911b8af33a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808047,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754709,
-            "neighbourhood_id":85859675,
+            "locality_id":101752763,
+            "macrohood_id":1108808087,
+            "neighbourhood_id":1108808359,
             "region_id":85687041,
             "venue_id":185728193
         }
     ],
     "wof:id":185728193,
-    "wof:lastmodified":1473878677,
+    "wof:lastmodified":1492487614,
     "wof:name":"Bemmel & Kroon",
-    "wof:parent_id":85859675,
+    "wof:parent_id":1108808359,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

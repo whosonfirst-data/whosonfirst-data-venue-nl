@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8850708008,52.4127464294,4.8850708008,52.4127464294",
     "geom:latitude":52.412746,
     "geom:longitude":4.885071,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
+        1108803211,
         85798523,
+        102191581,
+        85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,19 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473802619,
-    "wof:geomhash":"d33c2ddf5d5c70bba1b5309cee0777c2",
+    "wof:geomhash":"395117eb460bcb97c4be6b5846d9cb43",
     "wof:hierarchy":[
         {
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1108803211,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":1091601733
         }
     ],
     "wof:id":1091601733,
-    "wof:lastmodified":1473878554,
+    "wof:lastmodified":1492512857,
     "wof:name":"Sylco",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

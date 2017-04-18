@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.291143,52.083202,4.291143,52.083202",
     "geom:latitude":52.083202,
     "geom:longitude":4.291143,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.royaldutchlion.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_3wYlfkD9H0czsenWJqoYZa_52.083202_4.291143@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4b7533552624241dea76da33329cfde2",
+    "wof:geomhash":"8c7a9820c17be5bbc9190d9e52715aa6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":270466199
         }
     ],
     "wof:id":270466199,
-    "wof:lastmodified":1473879269,
+    "wof:lastmodified":1492500522,
     "wof:name":"Hotel Royal Dutch Lion",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

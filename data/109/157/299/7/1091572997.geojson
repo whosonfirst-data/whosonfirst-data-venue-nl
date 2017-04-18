@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1432847977,52.0852355957,5.1432847977,52.0852355957",
     "geom:latitude":52.085236,
     "geom:longitude":5.143285,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808861,
+        102191581,
         85633337,
-        85797403,
+        101751827,
+        1108808669,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473800664,
-    "wof:geomhash":"6f023706458f2104e587f024df8988f7",
+    "wof:geomhash":"729375c0fdbd89446c1b092eeac07ec7",
     "wof:hierarchy":[
         {
+            "borough_id":1108808669,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797403,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808861,
             "region_id":85687039,
             "venue_id":1091572997
         }
     ],
     "wof:id":1091572997,
-    "wof:lastmodified":1473878664,
+    "wof:lastmodified":1492511101,
     "wof:name":"Groeneveld",
-    "wof:parent_id":85797403,
+    "wof:parent_id":1108808861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

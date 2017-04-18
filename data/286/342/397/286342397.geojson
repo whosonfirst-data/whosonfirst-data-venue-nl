@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.259485,52.058907,4.259485,52.058907",
     "geom:latitude":52.058907,
     "geom:longitude":4.259485,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859591,
+        85859571,
+        102191581,
+        1108805971,
         85633337,
         101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6FqpM63jCgoAgARCuUna08_52.058907_4.259485@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e7f1ea8fb4c1025e21660ef8f6c62cd7",
+    "wof:geomhash":"f9e1e515eaa8e5a16dd08026d4ec0fb2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859591,
+            "macrohood_id":1108805971,
+            "neighbourhood_id":85859571,
             "region_id":85687041,
             "venue_id":286342397
         }
     ],
     "wof:id":286342397,
-    "wof:lastmodified":1473878847,
+    "wof:lastmodified":1492478238,
     "wof:name":"Blinc Bv",
-    "wof:parent_id":85859591,
+    "wof:parent_id":85859571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

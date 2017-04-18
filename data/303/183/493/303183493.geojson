@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.556084,51.964302,4.556084,51.964302",
     "geom:latitude":51.964302,
     "geom:longitude":4.556084,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31wJP5jsnoiL3loRcMEcBV_51.964302_4.556084@1306269981"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1fe7f27902229d34b82be62b0dc94201",
+    "wof:geomhash":"3cde5c50d72ca38e6c2fbcade02acaa0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":303183493
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798149,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":303183493,
-    "wof:lastmodified":1473878854,
+    "wof:lastmodified":1492474050,
     "wof:name":"Korean Register Of Shipping Rotterdam",
     "wof:parent_id":85798149,
     "wof:placetype":"venue",

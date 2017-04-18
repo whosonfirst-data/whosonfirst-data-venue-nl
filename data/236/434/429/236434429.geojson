@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.93606,52.3545,4.93606,52.3545",
     "geom:latitude":52.3545,
     "geom:longitude":4.93606,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803631,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3EWZbt96E5s8mBPNWeD0h7_52.354500_4.936060@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"918e7d08759bd54920aff3e27a0fc191",
+    "wof:geomhash":"14be87b8db1b9a0304d6c44da3154108",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803631,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":236434429
         }
     ],
     "wof:id":236434429,
-    "wof:lastmodified":1473879279,
+    "wof:lastmodified":1492493586,
     "wof:name":"Distelbrink, W",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.903285,52.350803,4.903285,52.350803",
     "geom:latitude":52.350803,
     "geom:longitude":4.903285,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803293,
+        1108802793,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_03OODyjRqxPIJMAoxcyyNk_52.350803_4.903285@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"eecf31589877efd9401f1b6f679f3ece",
+    "wof:geomhash":"c1196795ded71fbfd37fa072a3c1d74e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803293,
+            "neighbourhood_id":1108802793,
             "region_id":85687053,
             "venue_id":269753087
         }
     ],
     "wof:id":269753087,
-    "wof:lastmodified":1473879369,
+    "wof:lastmodified":1492495492,
     "wof:name":"De Trosanker",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

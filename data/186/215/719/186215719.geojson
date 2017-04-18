@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.917591,52.349701,4.917591,52.349701",
     "geom:latitude":52.349701,
     "geom:longitude":4.917591,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.sanbv.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803495,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_2EDaimtScT0gNYj0QN6wV3_52.349701_4.917591@1306269911"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1a751c50f870ace964f920d6da6dd082",
+    "wof:geomhash":"61e280bf5bd92c9b3809d49f75bc0f19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803495,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":186215719
         }
     ],
     "wof:id":186215719,
-    "wof:lastmodified":1473879086,
+    "wof:lastmodified":1492509002,
     "wof:name":"San Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

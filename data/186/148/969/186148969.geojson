@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.873235,52.355831,4.873235,52.355831",
     "geom:latitude":52.355831,
     "geom:longitude":4.873235,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803475,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2IcC5PLlP3xrGSBTpSHiMW_52.355831_4.873235@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"76485663653353d04be951346693ec12",
+    "wof:geomhash":"7e2e88e88441ee104825d1395d58bac1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803475,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":186148969
         }
     ],
     "wof:id":186148969,
-    "wof:lastmodified":1473879056,
+    "wof:lastmodified":1492508173,
     "wof:name":"Rueb",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

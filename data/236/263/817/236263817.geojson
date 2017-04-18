@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.889382,52.370502,4.889382,52.370502",
     "geom:latitude":52.370502,
     "geom:longitude":4.889382,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803247,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_28P5zVZxlHyFEA4OJzU2Wy_52.370502_4.889382@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5fd363542a5209bf36696ac7feb0c012",
+    "wof:geomhash":"8799c8b57c6cb0c48f7a63d86611cd9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803247,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":236263817
         }
     ],
     "wof:id":236263817,
-    "wof:lastmodified":1473879055,
+    "wof:lastmodified":1492493078,
     "wof:name":"Straat",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

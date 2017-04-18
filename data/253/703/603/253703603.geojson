@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.920527,52.364204,4.920527,52.364204",
     "geom:latitude":52.364204,
     "geom:longitude":4.920527,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803469,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_2IKI9yNrFlEBBo8z8YVYD3_52.364204_4.920527@1306269953"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4687fcb517ef4e1aff8af243874913e9",
+    "wof:geomhash":"6307484fb9414855983addd9982ae336",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803469,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":253703603
         }
     ],
     "wof:id":253703603,
-    "wof:lastmodified":1473879719,
+    "wof:lastmodified":1492489162,
     "wof:name":"Abc Plastics",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803469,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7960710526,51.9787254333,5.7960710526,51.9787254333",
     "geom:latitude":51.978725,
     "geom:longitude":5.796071,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.finstral.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473931,
+        85633337,
+        101808667
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nfHwkEmQAYvEET2YvYfWA_51.978725_5.796071@1306269968"
     },
     "wof:country":"NL",
     "wof:created":1473798705,
-    "wof:geomhash":"afac5c8e48e7d902b595558e2e761e38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d969e34368b4f052e4905ef920d0fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473931,
+            "locality_id":101808667,
+            "region_id":85687043,
+            "venue_id":1075810865
+        }
+    ],
     "wof:id":1075810865,
-    "wof:lastmodified":1473878781,
+    "wof:lastmodified":1492486468,
     "wof:name":"Finstral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

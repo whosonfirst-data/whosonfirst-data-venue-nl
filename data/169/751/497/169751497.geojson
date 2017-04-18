@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.851616,52.350876,4.851616,52.350876",
     "geom:latitude":52.350876,
     "geom:longitude":4.851616,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803473,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0pZtHvekAyTAEkqSuyLmFB_52.350876_4.851616@1306269905"
     },
     "wof:country":"NL",
-    "wof:geomhash":"045f72448b54cf051d817c94f923e831",
+    "wof:geomhash":"f0a56ae14e42d9133e7fa5c4a50defd7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803473,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":169751497
         }
     ],
     "wof:id":169751497,
-    "wof:lastmodified":1473878643,
+    "wof:lastmodified":1492478321,
     "wof:name":"Mared",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

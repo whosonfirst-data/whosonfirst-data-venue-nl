@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6946949959,52.7019844055,4.6946949959,52.7019844055",
     "geom:latitude":52.701984,
     "geom:longitude":4.694695,
@@ -24,17 +25,30 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.insightconsulting.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474041,
+        85633337,
+        85687053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27QMMmI58FZDjp4hWQhv9q_52.701984_4.694695@1306270014"
     },
     "wof:country":"NL",
     "wof:created":1473802008,
-    "wof:geomhash":"2075de71fe9e2c8cced63090a48709e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12cbca7255ee7ed95e0432d9d621fb0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474041,
+            "region_id":85687053,
+            "venue_id":1091591225
+        }
+    ],
     "wof:id":1091591225,
-    "wof:lastmodified":1473878532,
+    "wof:lastmodified":1492509646,
     "wof:name":"Insight Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

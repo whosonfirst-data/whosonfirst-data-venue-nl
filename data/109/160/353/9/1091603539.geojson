@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.0528569221,51.2799034119,4.0528569221,51.2799034119",
     "geom:latitude":51.279903,
     "geom:longitude":4.052857,
@@ -23,17 +24,32 @@
     "sg:postcode":"4561 EJ",
     "sg:province":"Zeeland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474307,
+        85633337,
+        101839431
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WJwMs98vRnAleSV7qH4rY_51.279903_4.052857@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802738,
-    "wof:geomhash":"5996c53e69adff0668825430c160d991",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd3b7d1baa35fca90544fdf747b68e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474307,
+            "locality_id":101839431,
+            "region_id":85687037,
+            "venue_id":1091603539
+        }
+    ],
     "wof:id":1091603539,
-    "wof:lastmodified":1473878620,
+    "wof:lastmodified":1492512524,
     "wof:name":"Segers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

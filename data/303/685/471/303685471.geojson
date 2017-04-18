@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.92297,52.36565,4.92297,52.36565",
     "geom:latitude":52.36565,
     "geom:longitude":4.92297,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804191,
+        1108802879,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_05WtDhm7XY2Zxwtmbq2J1Q_52.365650_4.922970@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"583f166524f56bf105b6439d31bdb9b3",
+    "wof:geomhash":"40e1ae105ba644db209c43c4cd162c5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108804191,
+            "neighbourhood_id":1108802879,
             "region_id":85687053,
             "venue_id":303685471
         }
     ],
     "wof:id":303685471,
-    "wof:lastmodified":1473879455,
+    "wof:lastmodified":1492470981,
     "wof:name":"Daniel De Heus",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804191,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

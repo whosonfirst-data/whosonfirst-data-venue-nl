@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.868055,52.342602,4.868055,52.342602",
     "geom:latitude":52.342602,
     "geom:longitude":4.868055,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803943,
+        1108802919,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_4bcj1glTKCZI1R7nUgVypG_52.342602_4.868055@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"71df0a3d4cc4917cd00215d9be5dc3ce",
+    "wof:geomhash":"dc97f8aab610a26c2b223a575188b323",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108803943,
+            "neighbourhood_id":1108802919,
             "region_id":85687053,
             "venue_id":270087415
         }
     ],
     "wof:id":270087415,
-    "wof:lastmodified":1473878555,
+    "wof:lastmodified":1492499298,
     "wof:name":"Camex",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.955494,52.393368,4.955494,52.393368",
     "geom:latitude":52.393368,
     "geom:longitude":4.955494,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108803543,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5kscDm5gaPnmJXycwZR779_52.393368_4.955494@1306269939"
     },
     "wof:country":"NL",
-    "wof:geomhash":"671eea9a96372cbe23279ffc56a6f58a",
+    "wof:geomhash":"67d71d7a546058fbbfad583288cc384d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803543,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":236547157
         }
     ],
     "wof:id":236547157,
-    "wof:lastmodified":1473879395,
+    "wof:lastmodified":1492491296,
     "wof:name":"Automobielbedrijf Gopal",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803543,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

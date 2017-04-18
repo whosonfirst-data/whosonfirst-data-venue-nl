@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.133132,51.975826,4.133132,51.975826",
     "geom:latitude":51.975826,
     "geom:longitude":4.133132,
@@ -34,8 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85797461,
+        102191581,
         85633337,
-        101808077,
+        101751843,
+        1108805729,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,22 @@
         "sg:id":"SG_2VGn9LsmQlJ2YmCF9Pv97J_51.975826_4.133132@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f3d5a73af84d33e1d78095294cece268",
+    "wof:geomhash":"563eeb4377c58e737286bb231f4f72fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805729,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101808077,
-            "neighbourhood_id":-1,
+            "locality_id":101751843,
+            "neighbourhood_id":85797461,
             "region_id":85687041,
             "venue_id":202521967
         }
     ],
     "wof:id":202521967,
-    "wof:lastmodified":1473878851,
+    "wof:lastmodified":1492497632,
     "wof:name":"Inge'S Videotheek",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

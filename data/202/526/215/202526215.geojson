@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.82832,52.359161,4.82832,52.359161",
     "geom:latitude":52.359161,
     "geom:longitude":4.82832,
@@ -34,40 +35,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804121,
         85798403,
+        102191581,
         85633337,
         101751893,
-        85687053,
-        85798223
+        1108802279,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50m0mBqHRXGk2rvIHSH4Ez_52.359161_4.828320@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a7e5ff92e6448a025ad3e975a039b85c",
+    "wof:geomhash":"cddab26bedd2c775bbb4d4e1136b7053",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804121,
             "neighbourhood_id":85798403,
-            "region_id":85687053,
-            "venue_id":202526215
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751893,
-            "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":202526215
         }
     ],
     "wof:id":202526215,
-    "wof:lastmodified":1473878871,
+    "wof:lastmodified":1492498745,
     "wof:name":"Video Take Eyeballs",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108804121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.120988,52.072781,5.120988,52.072781",
     "geom:latitude":52.072781,
     "geom:longitude":5.120988,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798509,
+        1108808823,
+        102191581,
+        1108808645,
         85633337,
         101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_28m3q0sxVoWUgh2WITtH6I_52.072781_5.120988@1306269906"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4eb3861e9733cd836bf6b69f9dc5b0f3",
+    "wof:geomhash":"bf1d2f508fa7067edf14d92e11a527b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798509,
+            "macrohood_id":1108808645,
+            "neighbourhood_id":1108808823,
             "region_id":85687039,
             "venue_id":169834291
         }
     ],
     "wof:id":169834291,
-    "wof:lastmodified":1473878815,
+    "wof:lastmodified":1492478712,
     "wof:name":"Roel Spronk",
-    "wof:parent_id":85798509,
+    "wof:parent_id":1108808823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

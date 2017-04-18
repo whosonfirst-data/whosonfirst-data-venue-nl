@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.955008,52.393372,4.955008,52.393372",
     "geom:latitude":52.393372,
     "geom:longitude":4.955008,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108803543,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_30DfifowiKw7cyW35mB0Pu_52.393372_4.955008@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6ebf0d34bbf09022d9582f190d2551db",
+    "wof:geomhash":"2e509ddab514e31f23f2fefe60f9e31f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803543,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":270120297
         }
     ],
     "wof:id":270120297,
-    "wof:lastmodified":1473878618,
+    "wof:lastmodified":1492499286,
     "wof:name":"Hijweege, Erik",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803543,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

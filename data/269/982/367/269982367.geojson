@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.973995,52.298164,4.973995,52.298164",
     "geom:latitude":52.298164,
     "geom:longitude":4.973995,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803199,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3MWmQbrFJxuRLZOBgylXIl_52.298164_4.973995@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"640615e996f0a90dbd78973a81262d12",
+    "wof:geomhash":"6a8f9cdf96caf8ec7f44a9d3a54cddaf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803199,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":269982367
         }
     ],
     "wof:id":269982367,
-    "wof:lastmodified":1473879581,
+    "wof:lastmodified":1492496747,
     "wof:name":"Phoenix Av",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803199,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

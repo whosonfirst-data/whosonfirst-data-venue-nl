@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.917374,52.357712,4.917374,52.357712",
     "geom:latitude":52.357712,
     "geom:longitude":4.917374,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803403,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_27dnjVxbuQL5VHHlUs3GQr_52.357712_4.917374@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"92d340c1b58e50f4b472e16454e26b78",
+    "wof:geomhash":"fed470af5a73d9c5aa8ec713e586ab77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803403,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":270193051
         }
     ],
     "wof:id":270193051,
-    "wof:lastmodified":1473878802,
+    "wof:lastmodified":1492499889,
     "wof:name":"Lotte Fotografie, Richard",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803403,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

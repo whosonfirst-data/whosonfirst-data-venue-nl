@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4288702011,51.9432106018,4.4288702011,51.9432106018",
     "geom:latitude":51.943211,
     "geom:longitude":4.42887,
@@ -35,8 +36,11 @@
     "sg:website":"http://www.overschiesekrant.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85798219,
+        102191581,
         85633337,
-        85798367,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -45,19 +49,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473800885,
-    "wof:geomhash":"b8f97f91bc00bf2d6434f1ff5e8c9ed0",
+    "wof:geomhash":"6a69511295552c5fa82af984f4828e81",
     "wof:hierarchy":[
         {
+            "borough_id":1108805713,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798367,
+            "locality_id":101751843,
+            "neighbourhood_id":85798219,
             "region_id":85687041,
             "venue_id":1091576823
         }
     ],
     "wof:id":1091576823,
-    "wof:lastmodified":1473878934,
+    "wof:lastmodified":1492511005,
     "wof:name":"Overschiese Krant, De",
-    "wof:parent_id":85798367,
+    "wof:parent_id":85798219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

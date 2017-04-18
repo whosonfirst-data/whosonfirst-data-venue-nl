@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.330101,52.068829,4.330101,52.068829",
     "geom:latitude":52.068829,
     "geom:longitude":4.330101,
@@ -24,31 +25,49 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859623,
+        1108808305,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HVq3WKfi70GIWZtsfjvuL_52.068829_4.330101@1306269926"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8c87d42cc1cefc1cbb9376d6e45ee749",
+    "wof:geomhash":"e71fda95ca8eece189bba9757af50cfe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808305,
+            "region_id":85687041,
+            "venue_id":219389521
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808305,
             "region_id":85687041,
             "venue_id":219389521
         }
     ],
     "wof:id":219389521,
-    "wof:lastmodified":1473879076,
+    "wof:lastmodified":1492503342,
     "wof:name":"E De Man",
-    "wof:parent_id":85859623,
+    "wof:parent_id":1108808305,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4038691521,51.9422187805,4.4038691521,51.9422187805",
     "geom:latitude":51.942219,
     "geom:longitude":4.403869,
@@ -24,12 +25,14 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859705,
+        1108805757,
         102191581,
-        404474253,
         85633337,
-        101751845,
-        85687041
+        101751843,
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,22 +40,32 @@
     },
     "wof:country":"NL",
     "wof:created":1473799622,
-    "wof:geomhash":"8f8e551ec17437e8c7501ab41ca8d1bc",
+    "wof:geomhash":"ff5484c1061f857b976d47c244a7c4a8",
     "wof:hierarchy":[
         {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":1075827291
+        },
+        {
+            "borough_id":1108805739,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474253,
             "locality_id":101751845,
-            "neighbourhood_id":85859705,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":1075827291
         }
     ],
     "wof:id":1075827291,
-    "wof:lastmodified":1473879482,
+    "wof:lastmodified":1492486732,
     "wof:name":"Berkefeld Filter Bv",
-    "wof:parent_id":85859705,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

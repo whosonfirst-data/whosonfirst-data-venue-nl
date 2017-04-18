@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.132318,51.976555,4.132318,51.976555",
     "geom:latitude":51.976555,
     "geom:longitude":4.132318,
@@ -24,8 +25,11 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85797461,
+        102191581,
         85633337,
-        101808077,
+        101751843,
+        1108805729,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +37,22 @@
         "sg:id":"SG_1pKz2cZFAx1juPwD24av44_51.976555_4.132318@1306269959"
     },
     "wof:country":"NL",
-    "wof:geomhash":"621aa4dd9ff5ae5049e94b5cdf042575",
+    "wof:geomhash":"c4b14d8fd1d54f45cb5da47e2596df27",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805729,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101808077,
-            "neighbourhood_id":-1,
+            "locality_id":101751843,
+            "neighbourhood_id":85797461,
             "region_id":85687041,
             "venue_id":269900675
         }
     ],
     "wof:id":269900675,
-    "wof:lastmodified":1473879562,
+    "wof:lastmodified":1492495778,
     "wof:name":"Leeuwen Tweewielers, Van",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.45479,51.983032,4.45479,51.983032",
     "geom:latitude":51.983032,
     "geom:longitude":4.45479,
@@ -34,7 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102542781,
+        1108805865,
+        102191581,
         85633337,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +48,23 @@
         "sg:id":"SG_1iiI7VkW3Qti96zjV2jvxP_51.983032_4.454790@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"181be66bc93612460a3170f38daf18ab",
+    "wof:geomhash":"c4f51a3f96175b9d5ffe189d731157de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "campus_id":102542781,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805865,
             "region_id":85687041,
             "venue_id":252887925
         }
     ],
     "wof:id":252887925,
-    "wof:lastmodified":1473878834,
+    "wof:lastmodified":1492505298,
     "wof:name":"Tradinco",
-    "wof:parent_id":-1,
+    "wof:parent_id":102542781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

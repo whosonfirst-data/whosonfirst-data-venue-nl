@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.861255,52.371105,4.861255,52.371105",
     "geom:latitude":52.371105,
     "geom:longitude":4.861255,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803381,
+        1108802785,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3IynndTtDHA8oIrf7wKvVJ_52.371105_4.861255@1306269906"
     },
     "wof:country":"NL",
-    "wof:geomhash":"65fb8295b4b9e5c65595e732b95022f8",
+    "wof:geomhash":"40ca7ff4e2d091272849b3a9c6ad1405",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803381,
+            "neighbourhood_id":1108802785,
             "region_id":85687053,
             "venue_id":185662905
         }
     ],
     "wof:id":185662905,
-    "wof:lastmodified":1473878592,
+    "wof:lastmodified":1492487807,
     "wof:name":"Kapsalon Carosa",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803381,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

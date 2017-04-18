@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.469898,51.941872,4.469898,51.941872",
     "geom:latitude":51.941872,
     "geom:longitude":4.469898,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859819,
+        1108805793,
+        102191581,
+        1108805981,
         85633337,
-        101753095,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3oPNCFqLh7wqXJGcADaAfJ_51.941872_4.469898@1306269951"
     },
     "wof:country":"NL",
-    "wof:geomhash":"27f6150e6d8e2c075e79a76aacf4adb8",
+    "wof:geomhash":"1070e9df7ff07dafc1a192f59afc4761",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859819,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805793,
             "region_id":85687041,
             "venue_id":253537341
         }
     ],
     "wof:id":253537341,
-    "wof:lastmodified":1473879681,
+    "wof:lastmodified":1492491037,
     "wof:name":"Republica Das Bananas",
-    "wof:parent_id":85859819,
+    "wof:parent_id":1108805793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

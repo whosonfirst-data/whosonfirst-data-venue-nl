@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880868,52.367928,4.880868,52.367928",
     "geom:latitude":52.367928,
     "geom:longitude":4.880868,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803925,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_68pOz9sRdz3G1GsIqYKrvt_52.367928_4.880868@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d603527b5ede98253ee9dd42b3223399",
+    "wof:geomhash":"84e6c9c019c17224013f86c155055b50",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803925,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":202822399
         }
     ],
     "wof:id":202822399,
-    "wof:lastmodified":1473879330,
+    "wof:lastmodified":1492496989,
     "wof:name":"Canal France",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

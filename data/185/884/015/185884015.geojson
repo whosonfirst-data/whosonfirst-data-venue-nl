@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.273419,52.105774,4.273419,52.105774",
     "geom:latitude":52.105774,
     "geom:longitude":4.273419,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808159,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_14iPcduN6q2pHGdzeWcj8f_52.105774_4.273419@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"edc4642fa2b27ca84f1e2831456bf69c",
+    "wof:geomhash":"9fe1129b92b94f96237a08e3ac7445c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808159,
             "region_id":85687041,
             "venue_id":185884015
         }
     ],
     "wof:id":185884015,
-    "wof:lastmodified":1473878811,
+    "wof:lastmodified":1492487754,
     "wof:name":"De Kleine Kapitein",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

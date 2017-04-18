@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.901471,52.369293,4.901471,52.369293",
     "geom:latitude":52.369293,
     "geom:longitude":4.901471,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803467,
+        1108802875,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_58imz2Jekqcb7XWz5XlTIw_52.369293_4.901471@1306269988"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fb18f1cd4a127393712bee29901c6192",
+    "wof:geomhash":"d1e61d83c64c730499d56953c69075d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803467,
+            "neighbourhood_id":1108802875,
             "region_id":85687053,
             "venue_id":303815775
         }
     ],
     "wof:id":303815775,
-    "wof:lastmodified":1473879593,
+    "wof:lastmodified":1492472731,
     "wof:name":"Weegschaal",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0872039795,52.0843544006,5.0872039795,52.0843544006",
     "geom:latitude":52.084354,
     "geom:longitude":5.087204,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         85798153,
+        102191581,
+        85633337,
+        101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -34,17 +38,20 @@
     },
     "wof:country":"NL",
     "wof:created":1473801814,
-    "wof:geomhash":"b590d941078ba3cc05b7ae8ed9d5ca68",
+    "wof:geomhash":"1c06957f31b055ba4bacedbb1d48e7db",
     "wof:hierarchy":[
         {
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751827,
             "neighbourhood_id":85798153,
             "region_id":85687039,
             "venue_id":1091588255
         }
     ],
     "wof:id":1091588255,
-    "wof:lastmodified":1473878956,
+    "wof:lastmodified":1492511787,
     "wof:name":"Andersom Management Europe",
     "wof:parent_id":85798153,
     "wof:placetype":"venue",

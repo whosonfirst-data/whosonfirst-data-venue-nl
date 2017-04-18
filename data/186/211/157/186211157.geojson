@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.25808,52.050137,4.25808,52.050137",
     "geom:latitude":52.050137,
     "geom:longitude":4.25808,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798043,
+        85859581,
+        102191581,
+        1108805971,
         85633337,
         101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5eMhP16Y4CTFos7B3WEGQB_52.050137_4.258080@1306269911"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d555458b0cb681cc6d29f23e379410b4",
+    "wof:geomhash":"d0f9e222bb1af2cc651b58f33b3dca6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798043,
+            "macrohood_id":1108805971,
+            "neighbourhood_id":85859581,
             "region_id":85687041,
             "venue_id":186211157
         }
     ],
     "wof:id":186211157,
-    "wof:lastmodified":1473879086,
+    "wof:lastmodified":1492507410,
     "wof:name":"B. Becker",
-    "wof:parent_id":85798043,
+    "wof:parent_id":85859581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

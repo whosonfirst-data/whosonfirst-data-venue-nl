@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.330909,51.853115,4.330909,51.853115",
     "geom:latitude":51.853115,
     "geom:longitude":4.330909,
@@ -24,10 +25,11 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798011,
+        85687041,
+        102191581,
+        404474261,
         85633337,
-        101751847,
-        85687041
+        101751847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,18 +39,18 @@
     "wof:geomhash":"35c871a00395135c9923421833fb6340",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474261,
             "locality_id":101751847,
-            "neighbourhood_id":85798011,
             "region_id":85687041,
             "venue_id":303963199
         }
     ],
     "wof:id":303963199,
-    "wof:lastmodified":1473879670,
+    "wof:lastmodified":1491930072,
     "wof:name":"Corrie Van Noort En Ronald Verhaage",
-    "wof:parent_id":85798011,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.926177,52.339146,4.926177,52.339146",
     "geom:latitude":52.339146,
     "geom:longitude":4.926177,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803887,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7ipWQrv1EwEQ1th7RVnN3q_52.339146_4.926177@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3aead7833e37f9b85721b91d4523bde6",
+    "wof:geomhash":"62549d7e751b10f4404f05e958fc4229",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803887,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":219974745
         }
     ],
     "wof:id":219974745,
-    "wof:lastmodified":1473879741,
+    "wof:lastmodified":1492501783,
     "wof:name":"Bocad Consultancy",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

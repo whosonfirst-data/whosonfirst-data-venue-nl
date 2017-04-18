@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.114538,52.115154,5.114538,52.115154",
     "geom:latitude":52.115154,
     "geom:longitude":5.114538,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808929,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_4jY01MApe2Pl9FBexOu5Yk_52.115154_5.114538@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ad9e32a3e29101143c1ac525384e1824",
+    "wof:geomhash":"c0ce8ed33621302aa33bf5b01397920c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808929,
             "region_id":85687039,
             "venue_id":186047201
         }
     ],
     "wof:id":186047201,
-    "wof:lastmodified":1473878694,
+    "wof:lastmodified":1492508285,
     "wof:name":"Jansen",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

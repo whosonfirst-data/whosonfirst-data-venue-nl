@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.846718,52.351452,4.846718,52.351452",
     "geom:latitude":52.351452,
     "geom:longitude":4.846718,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803459,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:brand_id":420575087,
@@ -35,21 +39,23 @@
         "sg:id":"SG_4gtxcvSYy09KcEVWSVNUAk_52.351452_4.846718@1306269905"
     },
     "wof:country":"NL",
-    "wof:geomhash":"019fafc4a205303050bee7fae31e7e8a",
+    "wof:geomhash":"f886d88d5933f24bc9ab0b12bcb836ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803459,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":169795123
         }
     ],
     "wof:id":169795123,
-    "wof:lastmodified":1473878728,
+    "wof:lastmodified":1492478583,
     "wof:name":"New Look",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

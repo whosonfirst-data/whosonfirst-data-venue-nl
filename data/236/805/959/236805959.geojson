@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.500669,51.934086,4.500669,51.934086",
     "geom:latitude":51.934086,
     "geom:longitude":4.500669,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859861,
+        1108805837,
+        102191581,
+        1108805657,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2oWFKUMZNO73g5EjPOAxra_51.934086_4.500669@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7ca916a5aae996febad8bdb73f126854",
+    "wof:geomhash":"f08bb7f53a6043fd3b4ee1e9ac7a2332",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859861,
+            "macrohood_id":1108805657,
+            "neighbourhood_id":1108805837,
             "region_id":85687041,
             "venue_id":236805959
         }
     ],
     "wof:id":236805959,
-    "wof:lastmodified":1473879537,
+    "wof:lastmodified":1492492017,
     "wof:name":"Ozcan",
-    "wof:parent_id":85859861,
+    "wof:parent_id":1108805837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

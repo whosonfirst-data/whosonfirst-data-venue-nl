@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0455598831,52.264541626,5.0455598831,52.264541626",
     "geom:latitude":52.264542,
     "geom:longitude":5.04556,
@@ -24,17 +25,30 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.www-nl.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474605,
+        85633337,
+        85687053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qMQxRRsx15oNp5haiSlKB_52.264542_5.045560@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802123,
-    "wof:geomhash":"7d08808bfb37c2ad203ef635cd99833f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60ee53e3b23b00e5f6d68f7e00d1aa9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474605,
+            "region_id":85687053,
+            "venue_id":1091593381
+        }
+    ],
     "wof:id":1091593381,
-    "wof:lastmodified":1473878649,
+    "wof:lastmodified":1492509555,
     "wof:name":"World Wide Wine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

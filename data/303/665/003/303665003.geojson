@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.553133,51.923382,4.553133,51.923382",
     "geom:latitude":51.923382,
     "geom:longitude":4.553133,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797253,
+        1108805861,
+        102191581,
         85633337,
-        101754669,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59ixNZgakAxbp0luqdEMp9_51.923382_4.553133@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0c6fb0a95d8c06d2579c46e7c8ba8ecb",
+    "wof:geomhash":"3dc780e537cc3bbc3606a78838d7fcc2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754669,
-            "neighbourhood_id":85797253,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805861,
+            "region_id":85687041,
+            "venue_id":303665003
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805861,
             "region_id":85687041,
             "venue_id":303665003
         }
     ],
     "wof:id":303665003,
-    "wof:lastmodified":1473879436,
+    "wof:lastmodified":1492473240,
     "wof:name":"Siriporn Bv",
-    "wof:parent_id":85797253,
+    "wof:parent_id":1108805861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

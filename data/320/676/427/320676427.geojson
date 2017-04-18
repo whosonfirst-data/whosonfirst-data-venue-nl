@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.979044,52.29567,4.979044,52.29567",
     "geom:latitude":52.29567,
     "geom:longitude":4.979044,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803939,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0CZXJG5kiKeocf0CVnnqFV_52.295670_4.979044@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ef7e481a05915575119232e9c50ae13d",
+    "wof:geomhash":"3fb79b25c8510cb1ca80dd1e194d1846",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803939,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":320676427
         }
     ],
     "wof:id":320676427,
-    "wof:lastmodified":1473879489,
+    "wof:lastmodified":1492484839,
     "wof:name":"Gaasperdam",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

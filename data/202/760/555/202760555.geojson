@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.909104,52.340881,4.909104,52.340881",
     "geom:latitude":52.340881,
     "geom:longitude":4.909104,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803527,
+        1108802895,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1HY9NKy7iobGIrEan7uOPx_52.340881_4.909104@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"03aa9ca89efb00a9a8745766091e2aba",
+    "wof:geomhash":"a087411cac1b56fa327043d81fdb48e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803527,
+            "neighbourhood_id":1108802895,
             "region_id":85687053,
             "venue_id":202760555
         }
     ],
     "wof:id":202760555,
-    "wof:lastmodified":1473879186,
+    "wof:lastmodified":1492497675,
     "wof:name":"Ales Lipovsek",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

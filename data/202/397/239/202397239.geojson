@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.317708,52.103943,4.317708,52.103943",
     "geom:latitude":52.103943,
     "geom:longitude":4.317708,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797497,
+        85797487,
+        102191581,
+        1108805961,
         85633337,
         101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3R3H0drJPFKOOcAWpy2sB1_52.103943_4.317708@1306269914"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d4d2d80c553c163566bcafe030595a95",
+    "wof:geomhash":"a85dbfc3fc5bb9c57cda48e408090e12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797497,
+            "macrohood_id":1108805961,
+            "neighbourhood_id":85797487,
             "region_id":85687041,
             "venue_id":202397239
         }
     ],
     "wof:id":202397239,
-    "wof:lastmodified":1473878544,
+    "wof:lastmodified":1492498502,
     "wof:name":"Dijksman & Van Zijp 'S-Gravenhage Bv",
-    "wof:parent_id":85797497,
+    "wof:parent_id":85797487,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

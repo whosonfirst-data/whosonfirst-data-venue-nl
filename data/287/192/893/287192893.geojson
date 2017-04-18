@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.917018,52.350803,4.917018,52.350803",
     "geom:latitude":52.350803,
     "geom:longitude":4.917018,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803773,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4Txxsbaps84ABdzUQmpgQT_52.350803_4.917018@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f2cac473928afe47aa7d76c434397ad8",
+    "wof:geomhash":"7ab689d1cae06d7cb826ed54d4faef0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803773,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":287192893
         }
     ],
     "wof:id":287192893,
-    "wof:lastmodified":1473878984,
+    "wof:lastmodified":1492513363,
     "wof:name":"De Boekenkliniek",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.895982,52.366383,4.895982,52.366383",
     "geom:latitude":52.366383,
     "geom:longitude":4.895982,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803223,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_5TSYyWGxj80cBLFAotSRBJ_52.366383_4.895982@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f6a0532d60f43a33d33f27ae95aa53ee",
+    "wof:geomhash":"d135c41c2aa3e72527f6dfdf21c314d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803223,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":269760131
         }
     ],
     "wof:id":269760131,
-    "wof:lastmodified":1473879375,
+    "wof:lastmodified":1492495415,
     "wof:name":"Grillroom Sabba",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

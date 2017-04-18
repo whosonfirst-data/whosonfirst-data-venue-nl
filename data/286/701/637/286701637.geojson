@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9524,52.298115,4.9524,52.298115",
     "geom:latitude":52.298115,
     "geom:longitude":4.9524,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.securicor.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803937,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2p1i0Nk6XDgIFN2tU2SqBC_52.298115_4.952400@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7f92a92758a4d220198ec0885260835c",
+    "wof:geomhash":"147a4c1b9d00c13465943abdad33c4d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803937,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":286701637
         }
     ],
     "wof:id":286701637,
-    "wof:lastmodified":1473879432,
+    "wof:lastmodified":1492477910,
     "wof:name":"Securicor",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.852372,52.36475,4.852372,52.36475",
     "geom:latitude":52.36475,
     "geom:longitude":4.852372,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803289,
+        1108802827,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_514LcUfOjlSK8DWxv5LuLp_52.364750_4.852372@1306269926"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dc34127a6c0a934ad6647214140f1a8a",
+    "wof:geomhash":"32db1e53b68324b291030ac4209a6f1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803289,
+            "neighbourhood_id":1108802827,
             "region_id":85687053,
             "venue_id":219425053
         }
     ],
     "wof:id":219425053,
-    "wof:lastmodified":1473879122,
+    "wof:lastmodified":1492503009,
     "wof:name":"R. Honselaar",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803289,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.5808281898,51.9295845032,6.5808281898,51.9295845032",
     "geom:latitude":51.929585,
     "geom:longitude":6.580828,
@@ -23,17 +24,32 @@
     "sg:postcode":"7121 AA",
     "sg:province":"Gelderland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473865,
+        85633337,
+        101808573
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YgaKFXsPemtRsN039O6Ey_51.929585_6.580828@1306270014"
     },
     "wof:country":"NL",
     "wof:created":1473801752,
-    "wof:geomhash":"e445e931104b1aa20a2d89433d5985b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"461a60e5657fb5ee10e778fb2075427c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473865,
+            "locality_id":101808573,
+            "region_id":85687043,
+            "venue_id":1091586975
+        }
+    ],
     "wof:id":1091586975,
-    "wof:lastmodified":1473878905,
+    "wof:lastmodified":1492511856,
     "wof:name":"Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

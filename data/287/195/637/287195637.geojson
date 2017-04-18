@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.876821,52.227722,6.876821,52.227722",
     "geom:latitude":52.227722,
     "geom:longitude":6.876821,
@@ -24,40 +25,41 @@
     "sg:province":"Overijssel",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798019,
         85633337,
-        101754773,
+        85798535,
         85687045,
-        85798535
+        85798019,
+        102191581,
+        404473827,
+        101754773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4REowKCG4PwAxxLT6UjjPO_52.227722_6.876821@1306269978"
     },
     "wof:country":"NL",
-    "wof:geomhash":"001df91defbf210190127fa3596eb7cb",
+    "wof:geomhash":"9b501f7e8e1a8a614de2c6a9b705edc4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101754773,
-            "neighbourhood_id":85798019,
+            "neighbourhood_id":85798535,
             "region_id":85687045,
             "venue_id":287195637
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798535,
+            "localadmin_id":404473827,
+            "locality_id":101754773,
+            "neighbourhood_id":85798019,
             "region_id":85687045,
             "venue_id":287195637
         }
     ],
     "wof:id":287195637,
-    "wof:lastmodified":1473878985,
+    "wof:lastmodified":1492514096,
     "wof:name":"Boeken Audio Video Nederland Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

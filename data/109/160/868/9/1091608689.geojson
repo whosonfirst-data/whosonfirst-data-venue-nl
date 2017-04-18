@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1368999481,51.9895744324,4.1368999481,51.9895744324",
     "geom:latitude":51.989574,
     "geom:longitude":4.1369,
@@ -23,19 +24,36 @@
     "sg:postcode":"3151 XM",
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85797461,
+        102191581,
+        85633337,
+        101751843,
+        1108805729,
+        85687041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DLcmKJTwcEIHWMd3QBcLC_51.989574_4.136900@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803327,
-    "wof:geomhash":"9583d69b1e9f43942f96cf6119a743f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a5155d8a2621f978a2a0e8e4d0ba716",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108805729,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797461,
+            "region_id":85687041,
+            "venue_id":1091608689
+        }
+    ],
     "wof:id":1091608689,
-    "wof:lastmodified":1473878938,
+    "wof:lastmodified":1492513032,
     "wof:name":"R Van Halem",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

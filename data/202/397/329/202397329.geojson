@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.822936,52.416149,4.822936,52.416149",
     "geom:latitude":52.416149,
     "geom:longitude":4.822936,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798675,
+        1108803963,
+        1108802955,
+        102191581,
         85633337,
+        101751893,
+        1108802287,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_3tdGauDX4VO9s05oKfYoMo_52.416149_4.822936@1306269914"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dee3fd7154f27da5757a23c2b25aafcd",
+    "wof:geomhash":"d430fab4376d97402297fda7f2d09556",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802287,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798675,
+            "locality_id":101751893,
+            "microhood_id":1108803963,
+            "neighbourhood_id":1108802955,
             "region_id":85687053,
             "venue_id":202397329
         }
     ],
     "wof:id":202397329,
-    "wof:lastmodified":1473878548,
+    "wof:lastmodified":1492498504,
     "wof:name":"Duiker Vervoer Bv",
-    "wof:parent_id":85798675,
+    "wof:parent_id":1108803963,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

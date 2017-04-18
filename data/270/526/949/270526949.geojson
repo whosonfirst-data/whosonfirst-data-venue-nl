@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.300043,52.059559,4.300043,52.059559",
     "geom:latitude":52.059559,
     "geom:longitude":4.300043,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859615,
+        1108808303,
+        102191581,
+        1108808093,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_54idYIVDHYV7tzDiPWAII4_52.059559_4.300043@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f4b1523f381b11a0fcb82f7491e0603a",
+    "wof:geomhash":"d8d73c2c9924ed475105897c6d6a1083",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108808093,
+            "neighbourhood_id":1108808303,
             "region_id":85687041,
             "venue_id":270526949
         }
     ],
     "wof:id":270526949,
-    "wof:lastmodified":1473879410,
+    "wof:lastmodified":1492500974,
     "wof:name":"Het Galjoen",
-    "wof:parent_id":85859615,
+    "wof:parent_id":1108808303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

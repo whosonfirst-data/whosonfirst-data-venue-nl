@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.851222,52.351151,4.851222,52.351151",
     "geom:latitude":52.351151,
     "geom:longitude":4.851222,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803385,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_3BQnrnI70gqsA6iy7RLI10_52.351151_4.851222@1306269924"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ce05d4ab7fad90860d05c356a9d40fd5",
+    "wof:geomhash":"93284d75f179f107241fd2eabcf9fa24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803385,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":219245269
         }
     ],
     "wof:id":219245269,
-    "wof:lastmodified":1473878711,
+    "wof:lastmodified":1492502557,
     "wof:name":"Livera",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

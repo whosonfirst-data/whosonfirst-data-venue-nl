@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.763879776,53.0058517456,6.763879776,53.0058517456",
     "geom:latitude":53.005852,
     "geom:longitude":6.76388,
@@ -24,17 +25,32 @@
     "sg:province":"Provincie Drenthe",
     "sg:website":"http://www.peppinfo.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474593,
+        85633337,
+        101806059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FF2pArSRvWXVSlFkhYmaC_53.005852_6.763880@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800756,
-    "wof:geomhash":"aed31ec1419cad3cdf7080ac1af3ca1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fe86247ba706fe246023a24a117390d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474593,
+            "locality_id":101806059,
+            "region_id":85687051,
+            "venue_id":1091574445
+        }
+    ],
     "wof:id":1091574445,
-    "wof:lastmodified":1473878785,
+    "wof:lastmodified":1492511088,
     "wof:name":"Peppinfo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

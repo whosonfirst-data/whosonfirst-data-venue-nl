@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.940236,52.300449,4.940236,52.300449",
     "geom:latitude":52.300449,
     "geom:longitude":4.940236,
@@ -35,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797113,
+        1108803575,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -45,21 +49,23 @@
         "sg:id":"SG_5ORWc8CesOyVe7avgK5joa_52.300449_4.940236@1306270004"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3d6d99619e79147f74e77b5cd9c65e18",
+    "wof:geomhash":"d76bd761a014acb32e2b993695973379",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797113,
+            "locality_id":101751893,
+            "microhood_id":1108803575,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":336698831
         }
     ],
     "wof:id":336698831,
-    "wof:lastmodified":1473878427,
+    "wof:lastmodified":1492505780,
     "wof:name":"Jonker Jo?Ll",
-    "wof:parent_id":85797113,
+    "wof:parent_id":1108803575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

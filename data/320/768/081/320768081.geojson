@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.812117,52.345566,4.812117,52.345566",
     "geom:latitude":52.345566,
     "geom:longitude":4.812117,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803345,
+        1108802901,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0eztdesiuoL8BX2wtJ1xZs_52.345566_4.812117@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"64c96cfb1fb912c229ed9b0b148fa8e3",
+    "wof:geomhash":"5c7870e1d770056b269a17265f8c9d23",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803345,
+            "neighbourhood_id":1108802901,
             "region_id":85687053,
             "venue_id":320768081
         }
     ],
     "wof:id":320768081,
-    "wof:lastmodified":1473879611,
+    "wof:lastmodified":1492484506,
     "wof:name":"Kastino Sloten",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.601556778,51.5360031128,4.601556778,51.5360031128",
     "geom:latitude":51.536003,
     "geom:longitude":4.601557,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.j2.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474417,
+        85633337,
+        101839341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WBtNxwMvwGFtwasUargvI_51.536003_4.601557@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800692,
-    "wof:geomhash":"a3f334ab563c3eadb1bfc8dc22382451",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de5ab92af2262716a5bb5328da87dfe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474417,
+            "locality_id":101839341,
+            "region_id":85687035,
+            "venue_id":1091573423
+        }
+    ],
     "wof:id":1091573423,
-    "wof:lastmodified":1473878706,
+    "wof:lastmodified":1492511486,
     "wof:name":"J2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

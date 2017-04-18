@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9754,52.296677,4.9754,52.296677",
     "geom:latitude":52.296677,
     "geom:longitude":4.9754,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803199,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_4B7jg7p7Os2JuJQ4VRRo71_52.296677_4.975400@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"79ffc6fc182014b3999e9afa2ac427e4",
+    "wof:geomhash":"11c9acf224c429da73dc3700c71260bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803199,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":202529355
         }
     ],
     "wof:id":202529355,
-    "wof:lastmodified":1473878859,
+    "wof:lastmodified":1492497168,
     "wof:name":"Videoland Amsterdam Reigersbos",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803199,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5466680527,51.5864181519,4.5466680527,51.5864181519",
     "geom:latitude":51.586418,
     "geom:longitude":4.546668,
@@ -23,17 +24,32 @@
     "sg:postcode":"4731 BA",
     "sg:province":"North Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474565,
+        85633337,
+        101808323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q4xya9RzXG1Xk559rVDIx_51.586418_4.546668@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800685,
-    "wof:geomhash":"a3540f7993bb56b237fbccdad2eb15cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a30d5d4ccf38e12df6d499975fcec7c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474565,
+            "locality_id":101808323,
+            "region_id":85687035,
+            "venue_id":1091573303
+        }
+    ],
     "wof:id":1091573303,
-    "wof:lastmodified":1473878700,
+    "wof:lastmodified":1492511425,
     "wof:name":"Inter Com 1",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

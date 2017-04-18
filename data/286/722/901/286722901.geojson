@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.836604,52.362679,4.836604,52.362679",
     "geom:latitude":52.362679,
     "geom:longitude":4.836604,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803301,
         85798223,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:brand_id":420574891,
@@ -35,21 +39,23 @@
         "sg:id":"SG_4qyt2cYAkZwZ0HZ0T0spLS_52.362679_4.836604@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"525fd8ffbb23fc92d1107bbbb9e15e9d",
+    "wof:geomhash":"a7f97e36fcc3c30d2eec2ee7e7fd749f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803301,
             "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":286722901
         }
     ],
     "wof:id":286722901,
-    "wof:lastmodified":1473879444,
+    "wof:lastmodified":1492478228,
     "wof:name":"Openbare Bibliotheek",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0387101173,52.0791549683,5.0387101173,52.0791549683",
     "geom:latitude":52.079155,
     "geom:longitude":5.03871,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808715,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808673,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473799157,
-    "wof:geomhash":"9f01a8f5ab535802eeba2c1f8083207c",
+    "wof:geomhash":"b80032b49d546af382f4570ca352c612",
     "wof:hierarchy":[
         {
+            "borough_id":1108808673,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808715,
             "region_id":85687039,
             "venue_id":1075820911
         }
     ],
     "wof:id":1075820911,
-    "wof:lastmodified":1473879226,
+    "wof:lastmodified":1492486655,
     "wof:name":"Zimmerman Optiek",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

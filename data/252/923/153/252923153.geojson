@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.927936,52.353546,4.927936,52.353546",
     "geom:latitude":52.353546,
     "geom:longitude":4.927936,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804165,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_680fKWvXUGW2PZL9kG7R10_52.353546_4.927936@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"706ec85d884ee5d26d3520f97485d012",
+    "wof:geomhash":"2826d786ed43f5a70f7f57b290c90127",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804165,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":252923153
         }
     ],
     "wof:id":252923153,
-    "wof:lastmodified":1473878860,
+    "wof:lastmodified":1492505590,
     "wof:name":"Charenco",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

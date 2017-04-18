@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.857369,52.377415,4.857369,52.377415",
     "geom:latitude":52.377415,
     "geom:longitude":4.857369,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804207,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_35nL5gVgMEyFVCAFlTgiuw_52.377415_4.857369@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d190abcdb74c6c351a2307a372d32cf9",
+    "wof:geomhash":"2ff7f1537b6757c2904a94a2b12a9ff2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108804207,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":320275129
         }
     ],
     "wof:id":320275129,
-    "wof:lastmodified":1473879142,
+    "wof:lastmodified":1492482295,
     "wof:name":"J. Raa",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804207,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7651438713,52.4923782349,4.7651438713,52.4923782349",
     "geom:latitude":52.492378,
     "geom:longitude":4.765144,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.woonmall.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474143,
+        85633337,
+        101754827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37848TmHVlhZ7g4bGvRASU_52.492378_4.765144@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802393,
-    "wof:geomhash":"7abcb48706db7546ede480f505223cdb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23e6531a47442fa72553d20aa52ffef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474143,
+            "locality_id":101754827,
+            "region_id":85687053,
+            "venue_id":1091597811
+        }
+    ],
     "wof:id":1091597811,
-    "wof:lastmodified":1473878948,
+    "wof:lastmodified":1492509479,
     "wof:name":"Country Bazar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

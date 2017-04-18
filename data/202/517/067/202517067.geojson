@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.862338,52.375103,4.862338,52.375103",
     "geom:latitude":52.375103,
     "geom:longitude":4.862338,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803849,
+        1108802785,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_7FgrpGqR7SkGh2H0GZJTZX_52.375103_4.862338@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8cb6bb92b038c39e139f3aceb1fd9fb2",
+    "wof:geomhash":"cc70019a5a02f6700cb0c1271a828ec1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803849,
+            "neighbourhood_id":1108802785,
             "region_id":85687053,
             "venue_id":202517067
         }
     ],
     "wof:id":202517067,
-    "wof:lastmodified":1473878814,
+    "wof:lastmodified":1492498606,
     "wof:name":"De Sloterplas West Movie",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

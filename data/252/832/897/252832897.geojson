@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.873607,52.391373,4.873607,52.391373",
     "geom:latitude":52.391373,
     "geom:longitude":4.873607,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804245,
+        1108802911,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_4enUKPsCeSFBapvGymPuzp_52.391373_4.873607@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"60fcf456202813b1a29d7afb00814070",
+    "wof:geomhash":"ac681547afa4c8398476234f99222d79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108804245,
+            "neighbourhood_id":1108802911,
             "region_id":85687053,
             "venue_id":252832897
         }
     ],
     "wof:id":252832897,
-    "wof:lastmodified":1473878569,
+    "wof:lastmodified":1492505564,
     "wof:name":"Niessen, Harry",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

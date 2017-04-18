@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.934166,52.308907,4.934166,52.308907",
     "geom:latitude":52.308907,
     "geom:longitude":4.934166,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.siekman.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797113,
+        1108803575,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2sAY62wHxS3R0xQ0nzaHM6_52.308907_4.934166@1306269997"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5d473c36abf47f2b3e8508fa89d7ff7b",
+    "wof:geomhash":"1d2eca269946ca4fb01b607c0260d7e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797113,
+            "locality_id":101751893,
+            "microhood_id":1108803575,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":320382971
         }
     ],
     "wof:id":320382971,
-    "wof:lastmodified":1473879247,
+    "wof:lastmodified":1492482177,
     "wof:name":"Siekman Transport",
-    "wof:parent_id":85797113,
+    "wof:parent_id":1108803575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

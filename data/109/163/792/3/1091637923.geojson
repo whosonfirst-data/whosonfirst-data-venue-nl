@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9477992058,51.0512619019,5.9477992058,51.0512619019",
     "geom:latitude":51.051262,
     "geom:longitude":5.947799,
@@ -23,17 +24,32 @@
     "sg:postcode":"6104 AS",
     "sg:province":"North Rhine-Westphalia",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474627,
+        85633337,
+        101809555
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40AqcCuPSddGceEFebdSYB_51.051262_5.947799@1306270021"
     },
     "wof:country":"NL",
     "wof:created":1473805185,
-    "wof:geomhash":"e456d831246f1dcd1e402199ee8797c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"900c5748e690dba31bafa12157d9ea6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474627,
+            "locality_id":101809555,
+            "region_id":85687033,
+            "venue_id":1091637923
+        }
+    ],
     "wof:id":1091637923,
-    "wof:lastmodified":1473878834,
+    "wof:lastmodified":1492510065,
     "wof:name":"Kingswood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

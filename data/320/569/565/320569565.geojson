@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893863,52.37925,4.893863,52.37925",
     "geom:latitude":52.37925,
     "geom:longitude":4.893863,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803261,
+        1108802819,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_6CIPr1f8vq8jTHaJnb6XOY_52.379250_4.893863@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8dc982ec53097597c3e1df810cd78786",
+    "wof:geomhash":"a83b1e0bd4f6c2fd7cb6085547401b3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803261,
+            "neighbourhood_id":1108802819,
             "region_id":85687053,
             "venue_id":320569565
         }
     ],
     "wof:id":320569565,
-    "wof:lastmodified":1473879415,
+    "wof:lastmodified":1492482230,
     "wof:name":"P. Spelde",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7015581131,51.7174682617,4.7015581131,51.7174682617",
     "geom:latitude":51.717468,
     "geom:longitude":4.701558,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.amerweb.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474631,
+        85633337,
+        101808269
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43APveh7HLgcnHDW0LcB3w_51.717468_4.701558@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800568,
-    "wof:geomhash":"c44b39fb94330a6127959bba7d3e79de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc660f3f1f87b191b8bd0f3693483ed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474631,
+            "locality_id":101808269,
+            "region_id":85687035,
+            "venue_id":1091571361
+        }
+    ],
     "wof:id":1091571361,
-    "wof:lastmodified":1473878538,
+    "wof:lastmodified":1492511196,
     "wof:name":"Amerweb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

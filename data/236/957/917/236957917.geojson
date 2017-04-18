@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884479,52.324387,4.884479,52.324387",
     "geom:latitude":52.324387,
     "geom:longitude":4.884479,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804145,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1sFDSHT8XXmy2ldXltBnt3_52.324387_4.884479@1306269942"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5a2e5cc6688a3a46c39f8c4f6ea2dba7",
+    "wof:geomhash":"de497b7a1525a43af51cff203080e028",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804145,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":236957917
         }
     ],
     "wof:id":236957917,
-    "wof:lastmodified":1473879629,
+    "wof:lastmodified":1492492853,
     "wof:name":"Loftus Bv",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

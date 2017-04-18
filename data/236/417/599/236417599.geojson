@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880314,52.380703,4.880314,52.380703",
     "geom:latitude":52.380703,
     "geom:longitude":4.880314,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803815,
+        85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1FfGdhDqrghSU6SDCyTuTW_52.380703_4.880314@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c98a1d10d93f7e7e30addad26c9ecd0a",
+    "wof:geomhash":"ddcd575a0cba7e5f58622a7f5bea643e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803815,
+            "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":236417599
         }
     ],
     "wof:id":236417599,
-    "wof:lastmodified":1473879284,
+    "wof:lastmodified":1492491812,
     "wof:name":"Music A La Carte",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803815,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

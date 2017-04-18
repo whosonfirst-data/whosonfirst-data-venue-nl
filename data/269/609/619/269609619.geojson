@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.48668,51.914246,4.48668,51.914246",
     "geom:latitude":51.914246,
     "geom:longitude":4.48668,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.sunergy.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859853,
+        1108805663,
+        1108805867,
+        102191581,
         85633337,
         101751843,
+        1108804841,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_22KkelXRlanzIfpPs6o0IS_51.914246_4.486680@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"75bca206308d77aafcac77a18214bb4c",
+    "wof:geomhash":"e9787edc4096bcddf44efea341aa2add",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108804841,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859853,
+            "microhood_id":1108805663,
+            "neighbourhood_id":1108805867,
             "region_id":85687041,
             "venue_id":269609619
         }
     ],
     "wof:id":269609619,
-    "wof:lastmodified":1473879052,
+    "wof:lastmodified":1492495296,
     "wof:name":"Sunergy",
-    "wof:parent_id":85859853,
+    "wof:parent_id":1108805663,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

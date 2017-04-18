@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.892092,52.376179,4.892092,52.376179",
     "geom:latitude":52.376179,
     "geom:longitude":4.892092,
@@ -29,9 +30,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804025,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_3lc6jGwGvyFdGbpd53nG1n_52.376179_4.892092@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"70f953a201e77b2fac449da9f926f657",
+    "wof:geomhash":"7cfb781a8f7af77684bfcd50f9a90ccd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804025,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":270466127
         }
     ],
     "wof:id":270466127,
-    "wof:lastmodified":1473879269,
+    "wof:lastmodified":1492500521,
     "wof:name":"T Hoekje",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

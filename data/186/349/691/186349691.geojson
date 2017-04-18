@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.48324,51.43708,5.48324,51.43708",
     "geom:latitude":51.43708,
     "geom:longitude":5.48324,
@@ -24,40 +25,41 @@
     "sg:province":"Noord-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797575,
         85633337,
-        101751819,
+        85798505,
         85687035,
-        85798505
+        85797575,
+        102191581,
+        404474375,
+        101751819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KH2WzYn6Q5h0ibQvU13dg_51.437080_5.483240@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5c422a0e2dba9f9ae45890769640d204",
+    "wof:geomhash":"073b496479be1bc47a648497aa20783f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751819,
-            "neighbourhood_id":85797575,
+            "neighbourhood_id":85798505,
             "region_id":85687035,
             "venue_id":186349691
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798505,
+            "localadmin_id":404474375,
+            "locality_id":101751819,
+            "neighbourhood_id":85797575,
             "region_id":85687035,
             "venue_id":186349691
         }
     ],
     "wof:id":186349691,
-    "wof:lastmodified":1473879301,
+    "wof:lastmodified":1492508790,
     "wof:name":"Bouwfonds Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

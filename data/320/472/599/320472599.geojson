@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.344409,52.088879,4.344409,52.088879",
     "geom:latitude":52.088879,
     "geom:longitude":4.344409,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797661,
+        1108808241,
+        102191581,
+        1108805963,
         85633337,
         101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5m83MuVX8vuz45D6J1TVxJ_52.088879_4.344409@1306269998"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6994271d7449023875bfab0091cdc6e3",
+    "wof:geomhash":"18cc4e6e21c3406655945b37b136337a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797661,
+            "macrohood_id":1108805963,
+            "neighbourhood_id":1108808241,
             "region_id":85687041,
             "venue_id":320472599
         }
     ],
     "wof:id":320472599,
-    "wof:lastmodified":1473879335,
+    "wof:lastmodified":1492483109,
     "wof:name":"Chudiak",
-    "wof:parent_id":85797661,
+    "wof:parent_id":1108808241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.304259,52.078369,4.304259,52.078369",
     "geom:latitude":52.078369,
     "geom:longitude":4.304259,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808249,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_7mlrckX4P9ZqiMyfnOyiYv_52.078369_4.304259@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bcbce77f7b827618529ef2478337dd31",
+    "wof:geomhash":"e371b14e10ce93c8ce70698b5b73b9dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808249,
             "region_id":85687041,
             "venue_id":202539341
         }
     ],
     "wof:id":202539341,
-    "wof:lastmodified":1473878898,
+    "wof:lastmodified":1492498362,
     "wof:name":"Videotheek Mega",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

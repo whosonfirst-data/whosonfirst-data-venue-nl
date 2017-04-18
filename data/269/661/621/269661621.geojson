@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.976315,52.289944,4.976315,52.289944",
     "geom:latitude":52.289944,
     "geom:longitude":4.976315,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803803,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2cb0gNvwehR4NYmYeUH0k9_52.289944_4.976315@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d1968637ba853ae42410084965f1df71",
+    "wof:geomhash":"8bbe2bff702eae493bd05bf82d00c36a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803803,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":269661621
         }
     ],
     "wof:id":269661621,
-    "wof:lastmodified":1473879261,
+    "wof:lastmodified":1492494910,
     "wof:name":"Odink, K",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

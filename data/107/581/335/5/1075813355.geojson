@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6792821884,53.4077949524,6.6792821884,53.4077949524",
     "geom:latitude":53.407795,
     "geom:longitude":6.679282,
@@ -24,17 +25,32 @@
     "sg:province":"Groningen",
     "sg:website":"http://www.martinivastgoed.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404474561,
+        85633337,
+        101807513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7W4rdVYyzKniy7kNN3jhqx_53.407795_6.679282@1306270007"
     },
     "wof:country":"NL",
     "wof:created":1473798827,
-    "wof:geomhash":"2ad90d417265ed3f2ae065fb635b8369",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16baae512ef913c40d324ca384841e44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474561,
+            "locality_id":101807513,
+            "region_id":85687059,
+            "venue_id":1075813355
+        }
+    ],
     "wof:id":1075813355,
-    "wof:lastmodified":1473878932,
+    "wof:lastmodified":1492486309,
     "wof:name":"Martini Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

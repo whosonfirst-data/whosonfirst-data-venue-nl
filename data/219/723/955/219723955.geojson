@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880965,52.379547,4.880965,52.379547",
     "geom:latitude":52.379547,
     "geom:longitude":4.880965,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803955,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_37890Huu7SjzUkvoFssvfy_52.379547_4.880965@1306269928"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e01ce085fa6bcbace71304dd85d466c1",
+    "wof:geomhash":"da95f098e6b41ae2a75f6dd322bdcd11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803955,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":219723955
         }
     ],
     "wof:id":219723955,
-    "wof:lastmodified":1473879666,
+    "wof:lastmodified":1492503243,
     "wof:name":"Baat, R De",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878927,52.333683,4.878927,52.333683",
     "geom:latitude":52.333683,
     "geom:longitude":4.878927,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804091,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_52EgkrgnBN2ijDotRyiStT_52.333683_4.878927@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"313ac25996264a1501269a72dc661cd3",
+    "wof:geomhash":"964e93690836ddf58c6185571f448e50",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804091,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":236450355
         }
     ],
     "wof:id":236450355,
-    "wof:lastmodified":1473879313,
+    "wof:lastmodified":1492492697,
     "wof:name":"Huijstee, G A M Van",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

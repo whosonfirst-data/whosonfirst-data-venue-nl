@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.91151,52.357979,4.91151,52.357979",
     "geom:latitude":52.357979,
     "geom:longitude":4.91151,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803279,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_41KTAs8go4h0EZ212Xa6LD_52.357979_4.911510@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7c3c3ab0a1c0c74a4642569fdd969632",
+    "wof:geomhash":"f800c04cff2da0e93b81b7560ba93c72",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803279,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":253486537
         }
     ],
     "wof:id":253486537,
-    "wof:lastmodified":1473879619,
+    "wof:lastmodified":1492489351,
     "wof:name":"Vroedvrouwen Praktijk",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

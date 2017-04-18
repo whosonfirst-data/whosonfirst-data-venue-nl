@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.254592,52.056293,4.254592,52.056293",
     "geom:latitude":52.056293,
     "geom:longitude":4.254592,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859591,
+        85859571,
+        102191581,
+        1108805971,
         85633337,
         101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5M4GqMojRP7YvEyCVwrW3Z_52.056293_4.254592@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"57d3e66bcfcf183fb0494d9f5376fc39",
+    "wof:geomhash":"ee4eb15b3fce844e91f79605f37094ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859591,
+            "macrohood_id":1108805971,
+            "neighbourhood_id":85859571,
             "region_id":85687041,
             "venue_id":236359513
         }
     ],
     "wof:id":236359513,
-    "wof:lastmodified":1473879226,
+    "wof:lastmodified":1492492420,
     "wof:name":"C.N. V.D. Heyde",
-    "wof:parent_id":85859591,
+    "wof:parent_id":85859571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

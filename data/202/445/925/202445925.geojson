@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.235607,52.045094,4.235607,52.045094",
     "geom:latitude":52.045094,
     "geom:longitude":4.235607,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859581,
+        85797849,
+        102191581,
+        1108808101,
         85633337,
         101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7ZQTtSe3gJU8HIyNdgLSY5_52.045094_4.235607@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7487c622abed50c9b322ab68d4e94533",
+    "wof:geomhash":"98085dddc889061246d1650e4d72c406",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859581,
+            "macrohood_id":1108808101,
+            "neighbourhood_id":85797849,
             "region_id":85687041,
             "venue_id":202445925
         }
     ],
     "wof:id":202445925,
-    "wof:lastmodified":1473878709,
+    "wof:lastmodified":1492497783,
     "wof:name":"K Brand",
-    "wof:parent_id":85859581,
+    "wof:parent_id":85797849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881308,52.360565,4.881308,52.360565",
     "geom:latitude":52.360565,
     "geom:longitude":4.881308,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803565,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_58BX5CcJQBSOKKGqdaSt6J_52.360565_4.881308@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e2d000f114c355b2679a8290e27cf1c9",
+    "wof:geomhash":"4d85508451bcbbe85398389a2f6297c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803565,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":320252439
         }
     ],
     "wof:id":320252439,
-    "wof:lastmodified":1473879119,
+    "wof:lastmodified":1492484248,
     "wof:name":"Focke & Meltzer",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

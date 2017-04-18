@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.898679,52.361771,4.898679,52.361771",
     "geom:latitude":52.361771,
     "geom:longitude":4.898679,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804045,
+        1108802791,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_5a7lnCYyBdIpz3hxA0ya4u_52.361771_4.898679@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"db0194a9ec7730cc539e49416fe2e0f9",
+    "wof:geomhash":"834cb74ce5d51fa5c8b85e3bee7f440c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804045,
+            "neighbourhood_id":1108802791,
             "region_id":85687053,
             "venue_id":252834113
         }
     ],
     "wof:id":252834113,
-    "wof:lastmodified":1473878590,
+    "wof:lastmodified":1492505350,
     "wof:name":"Salbar Health Concept",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

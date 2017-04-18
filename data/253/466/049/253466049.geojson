@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.274082,52.092869,4.274082,52.092869",
     "geom:latitude":52.092869,
     "geom:longitude":4.274082,
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798455,
+        102191581,
+        1108808089,
         85633337,
         101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -34,19 +38,21 @@
         "sg:id":"SG_1Kh59UXMAad6IQMKscaiEy_52.092869_4.274082@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"553eace10e564fcba7faa44b82875f78",
+    "wof:geomhash":"c70bbe66d16a3c0afd0c6e780e003da1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808089,
             "neighbourhood_id":85798455,
             "region_id":85687041,
             "venue_id":253466049
         }
     ],
     "wof:id":253466049,
-    "wof:lastmodified":1473879604,
+    "wof:lastmodified":1492489952,
     "wof:name":"La Leche League",
     "wof:parent_id":85798455,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.937173,52.398064,4.937173,52.398064",
     "geom:latitude":52.398064,
     "geom:longitude":4.937173,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803947,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0d83uyEoyQ251zpjr9wtGN_52.398064_4.937173@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bc0236e319fb38ad59077374dedc709f",
+    "wof:geomhash":"2c0fa61fe7b74f7330cfe60cbc51af08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803947,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":185836769
         }
     ],
     "wof:id":185836769,
-    "wof:lastmodified":1473878782,
+    "wof:lastmodified":1492488065,
     "wof:name":"Hilderink",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

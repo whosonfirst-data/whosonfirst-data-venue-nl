@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7039279938,50.7785072327,5.7039279938,50.7785072327",
     "geom:latitude":50.778507,
     "geom:longitude":5.703928,
@@ -23,17 +24,32 @@
     "sg:postcode":"6245 EG",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474479,
+        85633337,
+        101755865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Z5z4CyrdGkrd7sLH5wOZ3_50.778507_5.703928@1306270014"
     },
     "wof:country":"NL",
     "wof:created":1473801715,
-    "wof:geomhash":"7970e1448f3651754bbe94e56184e5ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4a483fec2a939090bd706af89b00657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474479,
+            "locality_id":101755865,
+            "region_id":85687033,
+            "venue_id":1091586233
+        }
+    ],
     "wof:id":1091586233,
-    "wof:lastmodified":1473878842,
+    "wof:lastmodified":1492511572,
     "wof:name":"Randstad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

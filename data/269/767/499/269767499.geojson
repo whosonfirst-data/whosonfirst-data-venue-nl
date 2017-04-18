@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.855789,52.379654,4.855789,52.379654",
     "geom:latitude":52.379654,
     "geom:longitude":4.855789,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804207,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_7JWw2Dho5M0sAZy7E6WsJm_52.379654_4.855789@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2c915843bebb9105c8b48662a10a6239",
+    "wof:geomhash":"95a6a87599f2f0b93f0d113be74ff54c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108804207,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":269767499
         }
     ],
     "wof:id":269767499,
-    "wof:lastmodified":1473879409,
+    "wof:lastmodified":1492495490,
     "wof:name":"M De Boer",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804207,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

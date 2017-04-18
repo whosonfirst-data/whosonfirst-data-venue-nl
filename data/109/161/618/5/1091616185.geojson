@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6931290627,51.4925956726,5.6931290627,51.4925956726",
     "geom:latitude":51.492596,
     "geom:longitude":5.693129,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.digipress.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474389,
+        85633337,
+        101751805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SHiCfqEJsnzQxGpSg3P7s_51.492596_5.693129@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803728,
-    "wof:geomhash":"7bc5e26ae3c3f0c8186c7d7f88756a07",
-    "wof:hierarchy":[],
+    "wof:geomhash":"faf9020e0e2c0b568b0c2b6485ce26b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474389,
+            "locality_id":101751805,
+            "region_id":85687035,
+            "venue_id":1091616185
+        }
+    ],
     "wof:id":1091616185,
-    "wof:lastmodified":1473878833,
+    "wof:lastmodified":1492510805,
     "wof:name":"Digipress",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.892582,52.378006,4.892582,52.378006",
     "geom:latitude":52.378006,
     "geom:longitude":4.892582,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803299,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6SYRcI1dI5rcHSvWi3s8wN_52.378006_4.892582@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"927e625a8322350e367fbc311bf6b0c7",
+    "wof:geomhash":"ff5cd8e05c69af5bb965730d9a4f937a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803299,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":320816189
         }
     ],
     "wof:id":320816189,
-    "wof:lastmodified":1473879617,
+    "wof:lastmodified":1492485395,
     "wof:name":"Jonge Sla",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

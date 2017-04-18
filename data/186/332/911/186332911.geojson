@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.55913,51.886726,4.55913,51.886726",
     "geom:latitude":51.886726,
     "geom:longitude":4.55913,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797587,
+        1108805659,
+        1108805789,
+        102191581,
         85633337,
         101751843,
+        1108805721,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0byISSlVUNUvUiW7pq0gRE_51.886726_4.559130@1306269911"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4bb6188f2ef01a2e1db73caac324cc43",
+    "wof:geomhash":"2cdf20a4d5a2e52404a9e4d8bd9ded87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805721,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797587,
+            "microhood_id":1108805659,
+            "neighbourhood_id":1108805789,
             "region_id":85687041,
             "venue_id":186332911
         }
     ],
     "wof:id":186332911,
-    "wof:lastmodified":1473879307,
+    "wof:lastmodified":1492507573,
     "wof:name":"Aqua Viva, Duikver",
-    "wof:parent_id":85797587,
+    "wof:parent_id":1108805659,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

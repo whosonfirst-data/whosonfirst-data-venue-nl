@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.314442,52.072422,4.314442,52.072422",
     "geom:latitude":52.072422,
     "geom:longitude":4.314442,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798385,
+        1108808243,
+        102191581,
+        1108808123,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_40QxIpj80wxunQzGXnbbRE_52.072422_4.314442@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"02b74d58131096dab35fa1f1c0025492",
+    "wof:geomhash":"e3462b03b18b0b2f9bcbe457857b85e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798385,
+            "macrohood_id":1108808123,
+            "neighbourhood_id":1108808243,
             "region_id":85687041,
             "venue_id":253246107
         }
     ],
     "wof:id":253246107,
-    "wof:lastmodified":1473879284,
+    "wof:lastmodified":1492489408,
     "wof:name":"Mobo",
-    "wof:parent_id":85798385,
+    "wof:parent_id":1108808243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

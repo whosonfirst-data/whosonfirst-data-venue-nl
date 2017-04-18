@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882798,52.379726,4.882798,52.379726",
     "geom:latitude":52.379726,
     "geom:longitude":4.882798,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803955,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1uhPpTwUXQJdrclciqLN74_52.379726_4.882798@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2baa45fa41a5376e45181823ab5b52a7",
+    "wof:geomhash":"5590c6011f2284fbdafc917f9b011ac2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803955,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":236459491
         }
     ],
     "wof:id":236459491,
-    "wof:lastmodified":1473879335,
+    "wof:lastmodified":1492494444,
     "wof:name":"Nijkerk En Wesseling",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

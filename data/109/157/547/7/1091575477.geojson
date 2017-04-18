@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5138130188,53.1835823059,5.5138130188,53.1835823059",
     "geom:latitude":53.183582,
     "geom:longitude":5.513813,
@@ -24,17 +25,32 @@
     "sg:province":"Friesland",
     "sg:website":"http://www.tres.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687055,
+        102191581,
+        404473767,
+        85633337,
+        101806163
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WEOgm4DvM8wfABJnYwjCl_53.183582_5.513813@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800825,
-    "wof:geomhash":"57002cb4706f3ab6b3a294b0640138a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cfea2270b26738a197301cc01db40365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473767,
+            "locality_id":101806163,
+            "region_id":85687055,
+            "venue_id":1091575477
+        }
+    ],
     "wof:id":1091575477,
-    "wof:lastmodified":1473878874,
+    "wof:lastmodified":1492510977,
     "wof:name":"Tres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

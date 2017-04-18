@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.9198670387,51.6512451172,3.9198670387,51.6512451172",
     "geom:latitude":51.651245,
     "geom:longitude":3.919867,
@@ -23,17 +24,32 @@
     "sg:postcode":"4301 HD",
     "sg:province":"Zeeland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474591,
+        85633337,
+        101808413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_378DSwuE6E1sWTg1Od3t11_51.651245_3.919867@1306270014"
     },
     "wof:country":"NL",
     "wof:created":1473801477,
-    "wof:geomhash":"0bafad918db955c6461f3746ff7c4ae5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"085e96fdd1c98764bc9db4be120956f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474591,
+            "locality_id":101808413,
+            "region_id":85687037,
+            "venue_id":1091585875
+        }
+    ],
     "wof:id":1091585875,
-    "wof:lastmodified":1473878809,
+    "wof:lastmodified":1492511884,
     "wof:name":"Randstad U",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

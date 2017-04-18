@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.870958,52.383232,4.870958,52.383232",
     "geom:latitude":52.383232,
     "geom:longitude":4.870958,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803305,
+        1108802915,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0jKDc1dq1VoRNX4kwu5Ozv_52.383232_4.870958@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f8102d8163a1f495606fc50aeae6e3cc",
+    "wof:geomhash":"a61a37cf1f5034468821a4b3dd3820ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803305,
+            "neighbourhood_id":1108802915,
             "region_id":85687053,
             "venue_id":303395377
         }
     ],
     "wof:id":303395377,
-    "wof:lastmodified":1473879152,
+    "wof:lastmodified":1492474023,
     "wof:name":"Catamaran, De",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803305,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

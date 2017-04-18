@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1244869232,52.3267745972,5.1244869232,52.3267745972",
     "geom:latitude":52.326775,
     "geom:longitude":5.124487,
@@ -23,17 +24,32 @@
     "sg:postcode":"1399 JE",
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474099,
+        85633337,
+        101807373
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33cKgWpWeFV7CvXeDYTOZu_52.326775_5.124487@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801164,
-    "wof:geomhash":"2cdf9f2349fa8ebc463a09a14440ba7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15562d2004e1b21da28357f0b094c296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474099,
+            "locality_id":101807373,
+            "region_id":85687053,
+            "venue_id":1091579345
+        }
+    ],
     "wof:id":1091579345,
-    "wof:lastmodified":1473879043,
+    "wof:lastmodified":1492511240,
     "wof:name":"S. Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

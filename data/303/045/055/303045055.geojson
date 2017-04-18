@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.262572,52.062225,4.262572,52.062225",
     "geom:latitude":52.062225,
     "geom:longitude":4.262572,
@@ -25,8 +26,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859591,
+        102191581,
+        1108808107,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,19 +38,21 @@
         "sg:id":"SG_3ZPy9FRFdB2knGEWlNYNQf_52.062225_4.262572@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"661bb7b7f5a8ed848177413c001653a7",
+    "wof:geomhash":"453ff30b8f95ff89a778ac2d699d67f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808107,
             "neighbourhood_id":85859591,
             "region_id":85687041,
             "venue_id":303045055
         }
     ],
     "wof:id":303045055,
-    "wof:lastmodified":1473878512,
+    "wof:lastmodified":1492471539,
     "wof:name":"Intermeduca",
     "wof:parent_id":85859591,
     "wof:placetype":"venue",

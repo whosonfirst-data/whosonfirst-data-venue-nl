@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884057,52.351402,4.884057,52.351402",
     "geom:latitude":52.351402,
     "geom:longitude":4.884057,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803491,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1rCsFsbRfLykyzFrLXzelC_52.351402_4.884057@1306270007"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c2264dc86e778d4d96106a5c4ebb2751",
+    "wof:geomhash":"de08ff4f58a99d869d0d06128afae6ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803491,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":336930303
         }
     ],
     "wof:id":336930303,
-    "wof:lastmodified":1473878459,
+    "wof:lastmodified":1492506419,
     "wof:name":"Multi Services",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

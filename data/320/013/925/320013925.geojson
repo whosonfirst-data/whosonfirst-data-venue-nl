@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.803486,52.346561,4.803486,52.346561",
     "geom:latitude":52.346561,
     "geom:longitude":4.803486,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803315,
+        1108802901,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5I2YCwg76wcOm1gcF0byMN_52.346561_4.803486@1306269993"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d1e3adddfb52d5122f553fbe86737be6",
+    "wof:geomhash":"884b3ff93d4393437969cb3a383b1da2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803315,
+            "neighbourhood_id":1108802901,
             "region_id":85687053,
             "venue_id":320013925
         }
     ],
     "wof:id":320013925,
-    "wof:lastmodified":1473878520,
+    "wof:lastmodified":1492483409,
     "wof:name":"Goed Idee Adviesbureau",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

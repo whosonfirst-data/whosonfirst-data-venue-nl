@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.095451,52.091393,5.095451,52.091393",
     "geom:latitude":52.091393,
     "geom:longitude":5.095451,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808791,
+        102191581,
+        1108808651,
         85633337,
         101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6xqS9Ynal8DErsoApZPYsE_52.091393_5.095451@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4ad0172cc0410573cf92798eb329f13a",
+    "wof:geomhash":"ca6dc2236f1da930a18a5f879e25da5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808651,
+            "neighbourhood_id":1108808791,
             "region_id":85687039,
             "venue_id":303418249
         }
     ],
     "wof:id":303418249,
-    "wof:lastmodified":1473879151,
+    "wof:lastmodified":1492474668,
     "wof:name":"Jan Nieuwenhuyzen Openb",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

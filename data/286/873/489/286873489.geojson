@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.852156,52.352062,4.852156,52.352062",
     "geom:latitude":52.352062,
     "geom:longitude":4.852156,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803385,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_087OSMYVz3v2Wyx58kCmpm_52.352062_4.852156@1306269974"
     },
     "wof:country":"NL",
-    "wof:geomhash":"714a6b9b6470ff097bf4e236afb1258a",
+    "wof:geomhash":"a3f3dde3b8a61735cceb9cb1b3f61867",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803385,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":286873489
         }
     ],
     "wof:id":286873489,
-    "wof:lastmodified":1473879664,
+    "wof:lastmodified":1492476188,
     "wof:name":"Bloemenshops Klaas Bouwman",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

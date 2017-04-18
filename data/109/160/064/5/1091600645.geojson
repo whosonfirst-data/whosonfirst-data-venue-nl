@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6073441505,52.6623687744,5.6073441505,52.6623687744",
     "geom:latitude":52.662369,
     "geom:longitude":5.607344,
@@ -24,17 +25,32 @@
     "sg:province":"NL.",
     "sg:website":"http://www.woninginrichtingwakker.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473857,
+        85633337,
+        101807251
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IQP6p0012muEVwfivqZCI_52.662369_5.607344@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802555,
-    "wof:geomhash":"b0e1a3781242c9086870167ff9fd0bce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7e6b4bcca1625b0c171bdf6b9a356f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473857,
+            "locality_id":101807251,
+            "region_id":85687049,
+            "venue_id":1091600645
+        }
+    ],
     "wof:id":1091600645,
-    "wof:lastmodified":1473878500,
+    "wof:lastmodified":1492512500,
     "wof:name":"Wakker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.414068,51.940975,4.414068,51.940975",
     "geom:latitude":51.940975,
     "geom:longitude":4.414068,
@@ -24,31 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859761,
+        1108805757,
+        102191581,
         85633337,
         101751843,
-        85687041
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wP1JmeNdh15WzzBk22gCy_51.940975_4.414068@1306269920"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b8bcada911eeaa4287ee9576835f4638",
+    "wof:geomhash":"fb66f799a080df0d08ffef38fdb29e47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805739,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859761,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":202974589
+        },
+        {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474253,
+            "locality_id":101751845,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":202974589
         }
     ],
     "wof:id":202974589,
-    "wof:lastmodified":1473879456,
+    "wof:lastmodified":1492497154,
     "wof:name":"Ksk Partn Bv",
-    "wof:parent_id":85859761,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

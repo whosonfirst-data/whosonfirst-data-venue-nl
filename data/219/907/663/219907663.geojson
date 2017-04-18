@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.890644,52.368729,4.890644,52.368729",
     "geom:latitude":52.368729,
     "geom:longitude":4.890644,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803837,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_72o1dBzVyrppBg5VdOCB3b_52.368729_4.890644@1306269930"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7b05255f874510821f6a092f91e607c7",
+    "wof:geomhash":"8998279748db5dd662ce4d47a04e7d46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803837,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":219907663
         }
     ],
     "wof:id":219907663,
-    "wof:lastmodified":1473879731,
+    "wof:lastmodified":1492504026,
     "wof:name":"Pol Bv, Van De",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

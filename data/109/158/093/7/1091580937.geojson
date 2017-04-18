@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3284201622,51.9067573547,4.3284201622,51.9067573547",
     "geom:latitude":51.906757,
     "geom:longitude":4.32842,
@@ -24,13 +25,13 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        85798569,
-        85687041,
         85797599,
         102191581,
-        404474245,
-        101754659
+        404474273,
+        85633337,
+        101751851,
+        85687041,
+        85798569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,28 +39,30 @@
     },
     "wof:country":"NL",
     "wof:created":1473801240,
-    "wof:geomhash":"ce2d7af242672530045debde36afad6a",
+    "wof:geomhash":"63f7cc5e909dff45b7c5bb723d537950",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798569,
+            "localadmin_id":404474273,
+            "locality_id":101751851,
+            "neighbourhood_id":85797599,
             "region_id":85687041,
             "venue_id":1091580937
         },
         {
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474245,
-            "locality_id":101754659,
-            "neighbourhood_id":85797599,
+            "localadmin_id":404474273,
+            "neighbourhood_id":85798569,
             "region_id":85687041,
             "venue_id":1091580937
         }
     ],
     "wof:id":1091580937,
-    "wof:lastmodified":1473878547,
+    "wof:lastmodified":1492511898,
     "wof:name":"Verkagrond Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

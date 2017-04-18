@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.925054,51.98135,5.925054,51.98135",
     "geom:latitude":51.98135,
     "geom:longitude":5.925054,
@@ -24,40 +25,41 @@
     "sg:province":"Gelderland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797977,
-        85633337,
-        85687043,
         85798321,
-        101751857
+        102191581,
+        404473871,
+        85633337,
+        101751857,
+        85687043,
+        85797977
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cktTdLC6gnWe2l6Dfh9SK_51.981350_5.925054@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c706c0567380ff928e4b4f770af8b31c",
+    "wof:geomhash":"be3b044605bdad131367fbfb5231f95a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797977,
+            "localadmin_id":404473871,
+            "locality_id":101751857,
+            "neighbourhood_id":85798321,
             "region_id":85687043,
             "venue_id":287179493
         },
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751857,
-            "neighbourhood_id":85798321,
+            "neighbourhood_id":85797977,
             "region_id":85687043,
             "venue_id":287179493
         }
     ],
     "wof:id":287179493,
-    "wof:lastmodified":1473878964,
+    "wof:lastmodified":1492514139,
     "wof:name":"Uitgeverij Lambo Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

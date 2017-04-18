@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.303748,52.05801,4.303748,52.05801",
     "geom:latitude":52.05801,
     "geom:longitude":4.303748,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859615,
+        1108808303,
+        102191581,
+        1108808093,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_7Dd5TQtcGeQVlK9pDwqBIM_52.058010_4.303748@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5ba86e9afbced33d1d7eb6346af1de72",
+    "wof:geomhash":"d3f5c19992f7ccced975d7b4dd6d78fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108808093,
+            "neighbourhood_id":1108808303,
             "region_id":85687041,
             "venue_id":269792087
         }
     ],
     "wof:id":269792087,
-    "wof:lastmodified":1473879462,
+    "wof:lastmodified":1492495588,
     "wof:name":"Snackkiosk Het Filiaal",
-    "wof:parent_id":85859615,
+    "wof:parent_id":1108808303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

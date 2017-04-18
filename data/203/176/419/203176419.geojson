@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.461252,51.981754,4.461252,51.981754",
     "geom:latitude":51.981754,
     "geom:longitude":4.461252,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798381,
+        102542781,
+        1108805865,
+        102191581,
         85633337,
-        101807023,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2bwE1YbbPZo8U0D64YMlOO_51.981754_4.461252@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ffea1ad7dd21d85d4a99c82567618477",
+    "wof:geomhash":"13f8256f5240276cb8f88b9813371d30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "campus_id":102542781,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101807023,
-            "neighbourhood_id":85798381,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805865,
             "region_id":85687041,
             "venue_id":203176419
         }
     ],
     "wof:id":203176419,
-    "wof:lastmodified":1473879074,
+    "wof:lastmodified":1492479855,
     "wof:name":"R.M.C. Beaufort-Ass",
-    "wof:parent_id":85798381,
+    "wof:parent_id":102542781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

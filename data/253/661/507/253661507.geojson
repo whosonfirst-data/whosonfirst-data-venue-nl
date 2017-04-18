@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.921936,52.354317,4.921936,52.354317",
     "geom:latitude":52.354317,
     "geom:longitude":4.921936,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803941,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_5c76hTPxRMCp3GYtwqG5TZ_52.354317_4.921936@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7e3147248c6833694dbd1848e9a347ad",
+    "wof:geomhash":"9ed20c7f29eab9a4c7155d9e4b794829",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":253661507
         }
     ],
     "wof:id":253661507,
-    "wof:lastmodified":1473879704,
+    "wof:lastmodified":1492488477,
     "wof:name":"Bella Mama Rosa",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

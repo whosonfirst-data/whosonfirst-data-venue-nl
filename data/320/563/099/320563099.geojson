@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.863034,52.34573,4.863034,52.34573",
     "geom:latitude":52.34573,
     "geom:longitude":4.863034,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108804129,
+        1108802917,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_4aE4Me5lhy3JJeUoDN7fYR_52.345730_4.863034@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"59536e3d0969abeceb5102e2c2639cdb",
+    "wof:geomhash":"ef16df5492763aa2082a0db92a7074ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108804129,
+            "neighbourhood_id":1108802917,
             "region_id":85687053,
             "venue_id":320563099
         }
     ],
     "wof:id":320563099,
-    "wof:lastmodified":1473879407,
+    "wof:lastmodified":1492484634,
     "wof:name":"J.P.J. Leegwater",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

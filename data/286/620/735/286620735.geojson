@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.943513,52.397541,4.943513,52.397541",
     "geom:latitude":52.397541,
     "geom:longitude":4.943513,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803947,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0QoTz8SL520S4UOFugY2Zq_52.397541_4.943513@1306269971"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8353114a47cf312f92e72cbe5f113185",
+    "wof:geomhash":"e3d806c9ac7e70ccfa8f84053575ba24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803947,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":286620735
         }
     ],
     "wof:id":286620735,
-    "wof:lastmodified":1473879264,
+    "wof:lastmodified":1492477211,
     "wof:name":"Willem Drees Stichting",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

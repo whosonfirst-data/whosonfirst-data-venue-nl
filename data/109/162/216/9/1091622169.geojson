@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3783259392,51.9363861084,4.3783259392,51.9363861084",
     "geom:latitude":51.936386,
     "geom:longitude":4.378326,
@@ -24,11 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         85797797,
+        102191581,
+        404474253,
+        85633337,
         85687041,
         85859657,
-        102191581,
         404474273,
         101751851
     ],
@@ -38,10 +40,12 @@
     },
     "wof:country":"NL",
     "wof:created":1473804041,
-    "wof:geomhash":"cdd90fbd819a92028f1d2bb99f2a4d38",
+    "wof:geomhash":"0c2c004823b23014a0504675b6f1433d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474253,
             "neighbourhood_id":85797797,
             "region_id":85687041,
             "venue_id":1091622169
@@ -57,9 +61,9 @@
         }
     ],
     "wof:id":1091622169,
-    "wof:lastmodified":1473878586,
+    "wof:lastmodified":1492512033,
     "wof:name":"Coops Kapsalon",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

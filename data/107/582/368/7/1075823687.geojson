@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6114778519,51.6435966492,4.6114778519,51.6435966492",
     "geom:latitude":51.643597,
     "geom:longitude":4.611478,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.weeka.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474623,
+        85633337,
+        101809653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JeEckXphrxvY3hM6yv1L6_51.643597_4.611478@1306270009"
     },
     "wof:country":"NL",
     "wof:created":1473799416,
-    "wof:geomhash":"cc906a08d8d070849aea6d894106783a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9993040696419803cf49f8878c37f4c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474623,
+            "locality_id":101809653,
+            "region_id":85687035,
+            "venue_id":1075823687
+        }
+    ],
     "wof:id":1075823687,
-    "wof:lastmodified":1473879338,
+    "wof:lastmodified":1492486967,
     "wof:name":"Weeka",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.016703,52.304531,5.016703,52.304531",
     "geom:latitude":52.304531,
     "geom:longitude":5.016703,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803641,
+        1108802795,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5s3GHU2QdUaythViorrj0n_52.304531_5.016703@1306269926"
     },
     "wof:country":"NL",
-    "wof:geomhash":"77fc25e48e42e39a941885fba915f216",
+    "wof:geomhash":"f33b376fbbb2b654b06b51b382ef8ca8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803641,
+            "neighbourhood_id":1108802795,
             "region_id":85687053,
             "venue_id":219435459
         }
     ],
     "wof:id":219435459,
-    "wof:lastmodified":1473879134,
+    "wof:lastmodified":1492501485,
     "wof:name":"Van De Weerd Klussenbedrijf",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

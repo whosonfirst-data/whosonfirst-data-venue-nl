@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.907136,52.415234,4.907136,52.415234",
     "geom:latitude":52.415234,
     "geom:longitude":4.907136,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803967,
+        1108802847,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_3hVp6J7kkUJh5nlat6bqdc_52.415234_4.907136@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6badb445026f61603b5c8d10f3a7ae7e",
+    "wof:geomhash":"9d18645247a50b0937da52a27cd42a82",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803967,
+            "neighbourhood_id":1108802847,
             "region_id":85687053,
             "venue_id":270052663
         }
     ],
     "wof:id":270052663,
-    "wof:lastmodified":1473878505,
+    "wof:lastmodified":1492500264,
     "wof:name":"Health Centre",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803967,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

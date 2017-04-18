@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.865854,52.323376,4.865854,52.323376",
     "geom:latitude":52.323376,
     "geom:longitude":4.865854,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803485,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -45,21 +50,24 @@
         "sg:id":"SG_1TSpVurZl0m6KFXKo7PidW_52.323376_4.865854@1306270004"
     },
     "wof:country":"NL",
-    "wof:geomhash":"17f1d76b3a3b3660a3223737f073b606",
+    "wof:geomhash":"0122924a8222264f07dbcec66f46e872",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803485,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":336703285
         }
     ],
     "wof:id":336703285,
-    "wof:lastmodified":1473878411,
+    "wof:lastmodified":1492506242,
     "wof:name":"Mulckhuyse & Partn",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

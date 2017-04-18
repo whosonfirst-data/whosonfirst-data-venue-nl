@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.267163,52.053959,4.267163,52.053959",
     "geom:latitude":52.053959,
     "geom:longitude":4.267163,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798043,
+        85859591,
+        102191581,
+        1108808107,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5wuPaApmruJyho4suRwyr2_52.053959_4.267163@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8f907233e2a9a680ca4d664ffd6da424",
+    "wof:geomhash":"672ba735cf7e7cfbc18f21f8ca15036b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798043,
+            "macrohood_id":1108808107,
+            "neighbourhood_id":85859591,
             "region_id":85687041,
             "venue_id":303075029
         }
     ],
     "wof:id":303075029,
-    "wof:lastmodified":1473878604,
+    "wof:lastmodified":1492472827,
     "wof:name":"Tac Total Administration Care",
-    "wof:parent_id":85798043,
+    "wof:parent_id":85859591,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9992198944,51.9211883545,4.9992198944,51.9211883545",
     "geom:latitude":51.921188,
     "geom:longitude":4.99922,
@@ -32,17 +33,32 @@
         "restaurant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474325,
+        85633337,
+        101808497
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DccRAdpxBS0WAbiV9BGVf_51.921188_4.999220@1306269957"
     },
     "wof:country":"NL",
     "wof:created":1473798648,
-    "wof:geomhash":"32d90d5933f6b722db2883f955f496d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09091abae734f978c42397a52f6cd601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474325,
+            "locality_id":101808497,
+            "region_id":85687041,
+            "venue_id":1075809803
+        }
+    ],
     "wof:id":1075809803,
-    "wof:lastmodified":1473878715,
+    "wof:lastmodified":1492486089,
     "wof:name":"Firma De Halte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

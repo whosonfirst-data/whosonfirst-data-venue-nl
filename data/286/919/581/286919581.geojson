@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.535279,51.954899,4.535279,51.954899",
     "geom:latitude":51.954899,
     "geom:longitude":4.535279,
@@ -24,31 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798487,
+        85798149,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xWidMM9QdHsKgbv2pNl7A_51.954899_4.535279@1306269974"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dd9ff0802de663b91f729dc2c57962aa",
+    "wof:geomhash":"4a2812ee9d1eeaa65b83f56bc2def175",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85798487,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":286919581
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":286919581
         }
     ],
     "wof:id":286919581,
-    "wof:lastmodified":1473879702,
+    "wof:lastmodified":1492475588,
     "wof:name":"R Van Galen",
-    "wof:parent_id":85798487,
+    "wof:parent_id":85798149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

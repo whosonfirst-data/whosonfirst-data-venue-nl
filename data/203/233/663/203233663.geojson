@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.499585,51.925083,4.499585,51.925083",
     "geom:latitude":51.925083,
     "geom:longitude":4.499585,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805807,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0eFhXehZOgXqwuxxoU6m4D_51.925083_4.499585@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c2df91934814be956de1fa6bee1e7a95",
+    "wof:geomhash":"7892a27498b7072bac95ec1e78566a3c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805807,
             "region_id":85687041,
             "venue_id":203233663
         }
     ],
     "wof:id":203233663,
-    "wof:lastmodified":1473879217,
+    "wof:lastmodified":1492479924,
     "wof:name":"Rentacam",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

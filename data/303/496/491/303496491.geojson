@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.94043,52.313492,4.94043,52.313492",
     "geom:latitude":52.313492,
     "geom:longitude":4.94043,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.ajax.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797113,
+        1108803417,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2fZwuU3ADKkIIV6iTRiFTi_52.313492_4.940430@1306269984"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0f2fd416c483e130a228c318a265fe95",
+    "wof:geomhash":"ef308c5168ecafaee76559d23443771a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797113,
+            "locality_id":101751893,
+            "microhood_id":1108803417,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":303496491
         }
     ],
     "wof:id":303496491,
-    "wof:lastmodified":1473879188,
+    "wof:lastmodified":1492471492,
     "wof:name":"Ajax, Afc",
-    "wof:parent_id":85797113,
+    "wof:parent_id":1108803417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

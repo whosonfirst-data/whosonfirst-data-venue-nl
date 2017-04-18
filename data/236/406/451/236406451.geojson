@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.958027,52.387947,4.958027,52.387947",
     "geom:latitude":52.387947,
     "geom:longitude":4.958027,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108804049,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2UCE29YKsVbAUj2kXGODy8_52.387947_4.958027@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f703ff57e78dfd683ae42134c1800be1",
+    "wof:geomhash":"730892c9dd9c220af7ccdb1877edad57",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804049,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":236406451
         }
     ],
     "wof:id":236406451,
-    "wof:lastmodified":1473879249,
+    "wof:lastmodified":1492492289,
     "wof:name":"Torrez, Frank",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108804049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

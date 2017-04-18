@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.901264,52.357269,4.901264,52.357269",
     "geom:latitude":52.357269,
     "geom:longitude":4.901264,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803835,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6Y91iwWvnY1cZUzYDjA6ls_52.357269_4.901264@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2d0dba4ab2fada1eb59710e1ea895a37",
+    "wof:geomhash":"f0378ce3efa99d9433f393f23e92d864",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803835,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":186073367
         }
     ],
     "wof:id":186073367,
-    "wof:lastmodified":1473878815,
+    "wof:lastmodified":1492509116,
     "wof:name":"D & L",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

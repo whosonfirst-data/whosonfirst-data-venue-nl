@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.470443,51.942196,4.470443,51.942196",
     "geom:latitude":51.942196,
     "geom:longitude":4.470443,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859819,
+        1108805793,
+        102191581,
+        1108805981,
         85633337,
-        101753095,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1246ExcyqjHuNeO5IjpGKg_51.942196_4.470443@1306269987"
     },
     "wof:country":"NL",
-    "wof:geomhash":"252b7fea91b7f4c618200205da8e2cc2",
+    "wof:geomhash":"a00c109fec0134402ad51b569e2617d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859819,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805793,
             "region_id":85687041,
             "venue_id":303716665
         }
     ],
     "wof:id":303716665,
-    "wof:lastmodified":1473879480,
+    "wof:lastmodified":1492471742,
     "wof:name":"Studio De Nes",
-    "wof:parent_id":85859819,
+    "wof:parent_id":1108805793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

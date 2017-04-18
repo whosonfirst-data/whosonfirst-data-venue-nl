@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.261939,52.072945,4.261939,52.072945",
     "geom:latitude":52.072945,
     "geom:longitude":4.261939,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859589,
+        85859585,
+        102191581,
+        1108808133,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_37KPKcv0uvC3RbXDTqTF21_52.072945_4.261939@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"04ed341dc0c4f0c7b6bcd65f288b2934",
+    "wof:geomhash":"13d94b9abe0c3f58db70013437459a4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859589,
+            "macrohood_id":1108808133,
+            "neighbourhood_id":85859585,
             "region_id":85687041,
             "venue_id":203129203
         }
     ],
     "wof:id":203129203,
-    "wof:lastmodified":1473878953,
+    "wof:lastmodified":1492480702,
     "wof:name":"Duymel Levensverz Bv",
-    "wof:parent_id":85859589,
+    "wof:parent_id":85859585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

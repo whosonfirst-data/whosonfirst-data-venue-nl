@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7360367775,51.9731025696,5.7360367775,51.9731025696",
     "geom:latitude":51.973103,
     "geom:longitude":5.736037,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.vaesweb.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473931,
+        85633337,
+        101837829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vhrl6qL9RGYQRFtnsOdOD_51.973103_5.736037@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800830,
-    "wof:geomhash":"379ebd366a903a2ea680cad8393b9edc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a777f062ae00261cdcb8c3470386624a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473931,
+            "locality_id":101837829,
+            "region_id":85687043,
+            "venue_id":1091575573
+        }
+    ],
     "wof:id":1091575573,
-    "wof:lastmodified":1473878890,
+    "wof:lastmodified":1492511357,
     "wof:name":"Vaesweb Com",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

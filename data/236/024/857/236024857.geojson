@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.291762,52.081123,4.291762,52.081123",
     "geom:latitude":52.081123,
     "geom:longitude":4.291762,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6u9IFYQBfSeATgJqxkceTV_52.081123_4.291762@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6a413dcff683c2b8ae59ad7b96da8ab8",
+    "wof:geomhash":"e2563639d25bc7d0ffb43aa3f85e5757",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":236024857
         }
     ],
     "wof:id":236024857,
-    "wof:lastmodified":1473878583,
+    "wof:lastmodified":1492494644,
     "wof:name":"Bar Greenhouse",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

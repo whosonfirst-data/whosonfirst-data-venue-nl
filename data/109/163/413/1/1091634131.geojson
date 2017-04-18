@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1314477921,51.9772186279,4.1314477921,51.9772186279",
     "geom:latitude":51.977219,
     "geom:longitude":4.131448,
@@ -23,19 +24,36 @@
     "sg:postcode":"3151 AA",
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85797461,
+        102191581,
+        85633337,
+        101751843,
+        1108805729,
+        85687041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Kdn0Lu54xvvCuyfQ5HtZJ_51.977219_4.131448@1306270020"
     },
     "wof:country":"NL",
     "wof:created":1473804814,
-    "wof:geomhash":"9d824f518548822d4901a89d50c73a5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8adfe5a526296d569cc1d1b0e24911ae",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108805729,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797461,
+            "region_id":85687041,
+            "venue_id":1091634131
+        }
+    ],
     "wof:id":1091634131,
-    "wof:lastmodified":1473878574,
+    "wof:lastmodified":1492510228,
     "wof:name":"Kapsalon Concordia",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

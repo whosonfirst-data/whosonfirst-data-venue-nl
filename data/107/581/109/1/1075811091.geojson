@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4056692123,52.1129608154,5.4056692123,52.1129608154",
     "geom:latitude":52.112961,
     "geom:longitude":5.405669,
@@ -34,17 +35,32 @@
     ],
     "sg:website":"http://www.flexibinder.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473989,
+        85633337,
+        101837661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_554Au6hQIF6pToPCSIjjcc_52.112961_5.405669@1306269973"
     },
     "wof:country":"NL",
     "wof:created":1473798714,
-    "wof:geomhash":"9a4f35406c94c0338ce46903a85131d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a48e90be7dc38a9e7e1913e6a89d04e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473989,
+            "locality_id":101837661,
+            "region_id":85687039,
+            "venue_id":1075811091
+        }
+    ],
     "wof:id":1075811091,
-    "wof:lastmodified":1473878789,
+    "wof:lastmodified":1492486536,
     "wof:name":"Flexibinder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

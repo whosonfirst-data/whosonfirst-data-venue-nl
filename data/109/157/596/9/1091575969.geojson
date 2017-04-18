@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5610671043,51.5328636169,4.5610671043,51.5328636169",
     "geom:latitude":51.532864,
     "geom:longitude":4.561067,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.wildone.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474417,
+        85633337,
+        101809675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58KZ3rWLSdr5Ekew8RRZYe_51.532864_4.561067@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800849,
-    "wof:geomhash":"c9243dc62ec3aeabf4a79dce57a7969a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88d165c044296d2d136c2b2cde532bc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474417,
+            "locality_id":101809675,
+            "region_id":85687035,
+            "venue_id":1091575969
+        }
+    ],
     "wof:id":1091575969,
-    "wof:lastmodified":1473878914,
+    "wof:lastmodified":1492511298,
     "wof:name":"Wild One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

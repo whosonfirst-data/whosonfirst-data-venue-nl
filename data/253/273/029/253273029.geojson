@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.291525,52.110832,4.291525,52.110832",
     "geom:latitude":52.110832,
     "geom:longitude":4.291525,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808139,
+        102191581,
+        1108808075,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_0NwTEEa75ndUS8IE8Ozfib_52.110832_4.291525@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1cdb4ce230dd26fce0caabb5f6291203",
+    "wof:geomhash":"d06b4a3d55cc22dc35da8fd2917d1562",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108808075,
+            "neighbourhood_id":1108808139,
             "region_id":85687041,
             "venue_id":253273029
         }
     ],
     "wof:id":253273029,
-    "wof:lastmodified":1473879307,
+    "wof:lastmodified":1492489422,
     "wof:name":"Engering Bedden",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.43154,51.970821,4.43154,51.970821",
     "geom:latitude":51.970821,
     "geom:longitude":4.43154,
@@ -34,8 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798367,
+        102542781,
+        1108805865,
+        102191581,
         85633337,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +48,23 @@
         "sg:id":"SG_5HcwUUVotbLdn9A2RXvg2e_51.970821_4.431540@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9cd6f0572e44e4c90d5aad22e22c6923",
+    "wof:geomhash":"f383a86d3614f749924c8ae0c9930892",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "campus_id":102542781,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798367,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805865,
             "region_id":85687041,
             "venue_id":236046345
         }
     ],
     "wof:id":236046345,
-    "wof:lastmodified":1473878595,
+    "wof:lastmodified":1492491819,
     "wof:name":"Schieveen",
-    "wof:parent_id":85798367,
+    "wof:parent_id":102542781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

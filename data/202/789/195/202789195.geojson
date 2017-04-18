@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.36678,52.088432,4.36678,52.088432",
     "geom:latitude":52.088432,
     "geom:longitude":4.36678,
@@ -24,31 +25,24 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797989,
-        85633337,
-        101752763,
-        85687041,
         85797515,
-        101754709
+        102191581,
+        404474685,
+        85633337,
+        101754709,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LlcqcP7FRdF2aaPXTTqkl_52.088432_4.366780@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b9a52ffd305f32fe1670d2a82aab0286",
+    "wof:geomhash":"2e5f47283797bd3dbc271fea41af6325",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101752763,
-            "neighbourhood_id":85797989,
-            "region_id":85687041,
-            "venue_id":202789195
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
+            "localadmin_id":404474685,
             "locality_id":101754709,
             "neighbourhood_id":85797515,
             "region_id":85687041,
@@ -56,9 +50,9 @@
         }
     ],
     "wof:id":202789195,
-    "wof:lastmodified":1473879200,
+    "wof:lastmodified":1492497332,
     "wof:name":"Mr M Van Der Post",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

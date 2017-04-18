@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6390028,51.6562919617,5.6390028,51.6562919617",
     "geom:latitude":51.656292,
     "geom:longitude":5.639003,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.venet.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474437,
+        85633337,
+        101839391
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45SME8KDRHNFmJbI3nXOvP_51.656292_5.639003@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800832,
-    "wof:geomhash":"f27e6a88f5fb1dc124d1ecac55437f96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09218b08c07b145fbcf63ce10dc48aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474437,
+            "locality_id":101839391,
+            "region_id":85687035,
+            "venue_id":1091575617
+        }
+    ],
     "wof:id":1091575617,
-    "wof:lastmodified":1473878896,
+    "wof:lastmodified":1492511415,
     "wof:name":"Venet Automatisering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

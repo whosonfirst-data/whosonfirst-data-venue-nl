@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5381269455,51.9220657349,4.5381269455,51.9220657349",
     "geom:latitude":51.922066,
     "geom:longitude":4.538127,
@@ -24,12 +25,14 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859923,
+        1108805861,
         102191581,
-        404474163,
         85633337,
-        101754669,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,22 +40,32 @@
     },
     "wof:country":"NL",
     "wof:created":1473799611,
-    "wof:geomhash":"807b5a4079fbd67898095b2f6a2cb1db",
+    "wof:geomhash":"72ec77a568926cd86f3ab2714e5ff027",
     "wof:hierarchy":[
         {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805861,
+            "region_id":85687041,
+            "venue_id":1075827115
+        },
+        {
+            "borough_id":1108805725,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474163,
-            "locality_id":101754669,
-            "neighbourhood_id":85859923,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805861,
             "region_id":85687041,
             "venue_id":1075827115
         }
     ],
     "wof:id":1075827115,
-    "wof:lastmodified":1473879485,
+    "wof:lastmodified":1492487067,
     "wof:name":"Arbo Groep Gak",
-    "wof:parent_id":85859923,
+    "wof:parent_id":1108805861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1608119011,53.480796814,6.1608119011,53.480796814",
     "geom:latitude":53.480797,
     "geom:longitude":6.160812,
@@ -32,17 +33,32 @@
         "restaurant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687055,
+        102191581,
+        404473789,
+        85633337,
+        101807407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aED8I2GU9DKd0lin1yvs8_53.480797_6.160812@1306269957"
     },
     "wof:country":"NL",
     "wof:created":1473798650,
-    "wof:geomhash":"af1b9fddc101a57ee07872027ddc2ba2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c828f71ef70fa21d6a5caf194b17a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473789,
+            "locality_id":101807407,
+            "region_id":85687055,
+            "venue_id":1075809835
+        }
+    ],
     "wof:id":1075809835,
-    "wof:lastmodified":1473878716,
+    "wof:lastmodified":1492485960,
     "wof:name":"Grill Room Oase",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

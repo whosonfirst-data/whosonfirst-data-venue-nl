@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.915,52.389923,4.915,52.389923",
     "geom:latitude":52.389923,
     "geom:longitude":4.915,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803703,
+        1108802935,
+        102191581,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_192paua069ZwMVIr26wTBD_52.389923_4.915000@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"49099813252c1490e561722315e91f3c",
+    "wof:geomhash":"daebf7d416675547ff5475095ea7e268",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803703,
+            "neighbourhood_id":1108802935,
             "region_id":85687053,
             "venue_id":320246177
         }
     ],
     "wof:id":320246177,
-    "wof:lastmodified":1473879114,
+    "wof:lastmodified":1492483262,
     "wof:name":"Yildiz Market",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803703,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

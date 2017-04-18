@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.932476,52.374683,4.932476,52.374683",
     "geom:latitude":52.374683,
     "geom:longitude":4.932476,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803709,
+        1108802877,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4xeJK4MmEv9CuEFDpXeaqp_52.374683_4.932476@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6568aee50534eff17e13590f781954eb",
+    "wof:geomhash":"fb9d412a2c4c1dbb69aaf4bf3166566d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803709,
+            "neighbourhood_id":1108802877,
             "region_id":85687053,
             "venue_id":253216427
         }
     ],
     "wof:id":253216427,
-    "wof:lastmodified":1473879225,
+    "wof:lastmodified":1492488631,
     "wof:name":"Pakhuis Amsterdam",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803709,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

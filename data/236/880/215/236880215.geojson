@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.550688,51.960163,4.550688,51.960163",
     "geom:latitude":51.960163,
     "geom:longitude":4.550688,
@@ -34,20 +35,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fXiVosaWO54izc3SMt3Bi_51.960163_4.550688@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dae70dc98f5b32577ee3ee66c0e90519",
+    "wof:geomhash":"82be18d3c5fab071310a4239d5a18eba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":236880215
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798149,
             "region_id":85687041,
@@ -55,7 +71,7 @@
         }
     ],
     "wof:id":236880215,
-    "wof:lastmodified":1473879580,
+    "wof:lastmodified":1492491356,
     "wof:name":"Daja Im- En Export",
     "wof:parent_id":85798149,
     "wof:placetype":"venue",

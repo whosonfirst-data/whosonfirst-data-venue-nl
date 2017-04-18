@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.91314,52.358978,4.91314,52.358978",
     "geom:latitude":52.358978,
     "geom:longitude":4.91314,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803279,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_25XFTaGNlwk9Y4rm2EuqVV_52.358978_4.913140@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b64e268e290c15067568c75413bc25fb",
+    "wof:geomhash":"21c8591ec1e8ed3616af437ab33f4aae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803279,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":286370547
         }
     ],
     "wof:id":286370547,
-    "wof:lastmodified":1473878904,
+    "wof:lastmodified":1492475398,
     "wof:name":"Van Rijkom",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

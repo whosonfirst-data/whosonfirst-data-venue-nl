@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879788,52.365608,4.879788,52.365608",
     "geom:latitude":52.365608,
     "geom:longitude":4.879788,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.hoteldeparis.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803661,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_183JalSsFm06W8N4leDabC_52.365608_4.879788@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7a69537a1b72afeec7c2bc0ecd3c7246",
+    "wof:geomhash":"87f6b7c36757b13768b551980ce01e82",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803661,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":304084357
         }
     ],
     "wof:id":304084357,
-    "wof:lastmodified":1473878804,
+    "wof:lastmodified":1492504352,
     "wof:name":"Paris, Hotel De",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803661,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

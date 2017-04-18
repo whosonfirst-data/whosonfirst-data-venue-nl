@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.883188,52.352421,4.883188,52.352421",
     "geom:latitude":52.352421,
     "geom:longitude":4.883188,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803491,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2Z124tY7xJubU9Hm00HxSk_52.352421_4.883188@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bdac918d9bc93a3b0191f1a6481834a1",
+    "wof:geomhash":"a9eb222187e64cbf5b4276a8563811bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803491,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":320759587
         }
     ],
     "wof:id":320759587,
-    "wof:lastmodified":1473879610,
+    "wof:lastmodified":1492482967,
     "wof:name":"De Kaaswaag Vof",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

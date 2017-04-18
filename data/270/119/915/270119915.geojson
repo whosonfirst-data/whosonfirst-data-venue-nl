@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.086007,52.125797,5.086007,52.125797",
     "geom:latitude":52.125797,
     "geom:longitude":5.086007,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808701,
+        102191581,
+        1108832365,
         85633337,
         101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1dOpeZXUUiuqQoB73K23ke_52.125797_5.086007@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"36f0a41396046345b4d40bf02f57f963",
+    "wof:geomhash":"e8db71df4c321ab8f1670cdd241ea641",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808701,
             "region_id":85687039,
             "venue_id":270119915
         }
     ],
     "wof:id":270119915,
-    "wof:lastmodified":1473878629,
+    "wof:lastmodified":1492500426,
     "wof:name":"Hans Schraauwers",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

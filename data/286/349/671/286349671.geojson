@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.299469,52.110821,4.299469,52.110821",
     "geom:latitude":52.110821,
     "geom:longitude":4.299469,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808139,
+        102191581,
+        1108808075,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_25AT6fuaFBlxf7arHxtAuG_52.110821_4.299469@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"21dbfdc6d97df8d2c0a83ca743dedd44",
+    "wof:geomhash":"806710eaff6fcb3ad625ba030a0b4903",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108808075,
+            "neighbourhood_id":1108808139,
             "region_id":85687041,
             "venue_id":286349671
         }
     ],
     "wof:id":286349671,
-    "wof:lastmodified":1473878871,
+    "wof:lastmodified":1492477337,
     "wof:name":"Demka Bv",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

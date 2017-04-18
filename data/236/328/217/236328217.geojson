@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.82113,52.380699,4.82113,52.380699",
     "geom:latitude":52.380699,
     "geom:longitude":4.82113,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.duintjer.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108804051,
+        1108802905,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_0bBe9Sp0SskZXNTZOmAxwE_52.380699_4.821130@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"05a609e41b9f6c9625ec349dc17d9503",
+    "wof:geomhash":"bb6aaf08ae42650767f6edc1b9fbb6db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108804051,
+            "neighbourhood_id":1108802905,
             "region_id":85687053,
             "venue_id":236328217
         }
     ],
     "wof:id":236328217,
-    "wof:lastmodified":1473879164,
+    "wof:lastmodified":1492493248,
     "wof:name":"Duintjer, Architectengroep",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108804051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

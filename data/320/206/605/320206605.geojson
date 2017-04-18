@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.365374,51.853806,4.365374,51.853806",
     "geom:latitude":51.853806,
     "geom:longitude":4.365374,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798725,
+        1108833297,
+        1108805797,
+        102191581,
         85633337,
+        101751843,
+        1108805727,
         85687041
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_3Q2Zw3gcdqlZuzTK7Y8SVs_51.853806_4.365374@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f97f0864fcb477ce03358fb98643fa09",
+    "wof:geomhash":"e819e3dd1a354127a31d5749ae520c38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805727,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798725,
+            "locality_id":101751843,
+            "microhood_id":1108833297,
+            "neighbourhood_id":1108805797,
             "region_id":85687041,
             "venue_id":320206605
         }
     ],
     "wof:id":320206605,
-    "wof:lastmodified":1473879102,
+    "wof:lastmodified":1492482765,
     "wof:name":"Handelsonderneming En Studio Kabouter",
-    "wof:parent_id":85798725,
+    "wof:parent_id":1108833297,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.859831,52.358711,4.859831,52.358711",
     "geom:latitude":52.358711,
     "geom:longitude":4.859831,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803957,
+        1108802893,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0cYXkcmqSDhYYuzdYGygIh_52.358711_4.859831@1306269935"
     },
     "wof:country":"NL",
-    "wof:geomhash":"53a1c28c85c7d527e0cc342ce7468a73",
+    "wof:geomhash":"4d7104dbf32d81cc8ae1d845c38b7285",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803957,
+            "neighbourhood_id":1108802893,
             "region_id":85687053,
             "venue_id":236216355
         }
     ],
     "wof:id":236216355,
-    "wof:lastmodified":1473878941,
+    "wof:lastmodified":1492491742,
     "wof:name":"Adam Prive",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

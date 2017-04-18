@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.87807,52.358898,4.87807,52.358898",
     "geom:latitude":52.358898,
     "geom:longitude":4.87807,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803565,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3pXMaNqUlW2JrAeA0vd7cb_52.358898_4.878070@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6164618087274cd1d168c5538e857503",
+    "wof:geomhash":"319210b7894b2a88ec20103ffb43c335",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803565,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":270155317
         }
     ],
     "wof:id":270155317,
-    "wof:lastmodified":1473878667,
+    "wof:lastmodified":1492500984,
     "wof:name":"Pimpernel",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.082165,52.519161,6.082165,52.519161",
     "geom:latitude":52.519161,
     "geom:longitude":6.082165,
@@ -24,40 +25,41 @@
     "sg:province":"Overijssel",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797067,
-        85633337,
-        85687045,
         85797715,
-        101751861
+        102191581,
+        404473861,
+        85633337,
+        101751861,
+        85687045,
+        85797067
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DS71fHeFeZ2Dann5T6koq_52.519161_6.082165@1306269945"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ba279df44aae575d2dda1a221924342c",
+    "wof:geomhash":"b90c2ede15239db27345fe849e34d242",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797067,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "neighbourhood_id":85797715,
             "region_id":85687045,
             "venue_id":252964697
         },
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751861,
-            "neighbourhood_id":85797715,
+            "neighbourhood_id":85797067,
             "region_id":85687045,
             "venue_id":252964697
         }
     ],
     "wof:id":252964697,
-    "wof:lastmodified":1473878964,
+    "wof:lastmodified":1492504929,
     "wof:name":"Scheepswerf En Machinefabriek Leenman Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

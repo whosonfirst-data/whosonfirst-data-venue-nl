@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3486671448,51.9763793945,5.3486671448,51.9763793945",
     "geom:latitude":51.976379,
     "geom:longitude":5.348667,
@@ -24,17 +25,32 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.jopportunity.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474015,
+        85633337,
+        101809833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7j32rcjbk6TGOLMZl34VYe_51.976379_5.348667@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802015,
-    "wof:geomhash":"4cff5ece97529468185de03e94052daf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5bf04b060acebaf43ccc8087cc41805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474015,
+            "locality_id":101809833,
+            "region_id":85687039,
+            "venue_id":1091591359
+        }
+    ],
     "wof:id":1091591359,
-    "wof:lastmodified":1473878547,
+    "wof:lastmodified":1492509528,
     "wof:name":"Jopportunity",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

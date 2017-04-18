@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.411395,51.942295,4.411395,51.942295",
     "geom:latitude":51.942295,
     "geom:longitude":4.411395,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859761,
+        1108805757,
+        102191581,
         85633337,
         101751843,
-        85687041
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RnUO2YsEOeYnY0NX6swa5_51.942295_4.411395@1306269945"
     },
     "wof:country":"NL",
-    "wof:geomhash":"734003a97853386b8006842388b321aa",
+    "wof:geomhash":"248209e3b0b8041d6720fdfd242df053",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805739,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859761,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":253020187
+        },
+        {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474253,
+            "locality_id":101751845,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":253020187
         }
     ],
     "wof:id":253020187,
-    "wof:lastmodified":1473878581,
+    "wof:lastmodified":1492488443,
     "wof:name":"Bovero Bv",
-    "wof:parent_id":85859761,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

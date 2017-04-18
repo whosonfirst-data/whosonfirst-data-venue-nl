@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.919197,52.369827,4.919197,52.369827",
     "geom:latitude":52.369827,
     "geom:longitude":4.919197,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803881,
+        1108802879,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_2uGQuyZwZZGDkwbLqsnETp_52.369827_4.919197@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6eaf682218ec538339b8cc50a7be422d",
+    "wof:geomhash":"0ddfff2eba8f3a990b64435d28c80b1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803881,
+            "neighbourhood_id":1108802879,
             "region_id":85687053,
             "venue_id":320571805
         }
     ],
     "wof:id":320571805,
-    "wof:lastmodified":1473879410,
+    "wof:lastmodified":1492484683,
     "wof:name":"R. Maijenburg",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

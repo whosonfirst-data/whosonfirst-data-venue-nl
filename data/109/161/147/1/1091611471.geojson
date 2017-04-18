@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6239700317,52.2062644958,4.6239700317,52.2062644958",
     "geom:latitude":52.206264,
     "geom:longitude":4.62397,
@@ -24,17 +25,32 @@
     "sg:province":"Zuid-Holland",
     "sg:website":"http://www.artifexsupport.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474677,
+        85633337,
+        101808479
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lGeWHdWg58cgBEEbE7Iwl_52.206264_4.623970@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803477,
-    "wof:geomhash":"bb51ffee73c0811857176f70f20f5ee6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71516d779e21cf6fe5db1d42f9e1ea2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474677,
+            "locality_id":101808479,
+            "region_id":85687041,
+            "venue_id":1091611471
+        }
+    ],
     "wof:id":1091611471,
-    "wof:lastmodified":1473878566,
+    "wof:lastmodified":1492510678,
     "wof:name":"Artifex Support",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881568,52.373463,4.881568,52.373463",
     "geom:latitude":52.373463,
     "geom:longitude":4.881568,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2K9SMGbWe6t8IY8Ptdd6F6_52.373463_4.881568@1306269998"
     },
     "wof:country":"NL",
-    "wof:geomhash":"40d860cffb91902f27761a69f053a565",
+    "wof:geomhash":"5bffe23714400fe5af0966ce994297dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":320461609
         }
     ],
     "wof:id":320461609,
-    "wof:lastmodified":1473879327,
+    "wof:lastmodified":1492484284,
     "wof:name":"Jocus",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.276057,52.107803,4.276057,52.107803",
     "geom:latitude":52.107803,
     "geom:longitude":4.276057,
@@ -29,8 +30,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808165,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -38,21 +43,23 @@
         "sg:id":"SG_7CoCtXB7wfWItxi4Ba6ESk_52.107803_4.276057@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6a51ca987027346a735d5a661445c6a8",
+    "wof:geomhash":"a7d9b29c26f9f06331a557b67d31493f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808165,
             "region_id":85687041,
             "venue_id":303540865
         }
     ],
     "wof:id":303540865,
-    "wof:lastmodified":1473879304,
+    "wof:lastmodified":1492471379,
     "wof:name":"Le Bon Mangeur",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

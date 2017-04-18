@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.843227,52.341141,4.843227,52.341141",
     "geom:latitude":52.341141,
     "geom:longitude":4.843227,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803509,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6nPyx6lFZ7dGLE4Aj3SKEY_52.341141_4.843227@1306269940"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f686e5d8fd5703c33d92da039fd4a30c",
+    "wof:geomhash":"815633810ae9c134f33ece580f2eb51f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803509,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":236724503
         }
     ],
     "wof:id":236724503,
-    "wof:lastmodified":1473879515,
+    "wof:lastmodified":1492491675,
     "wof:name":"Perfect",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

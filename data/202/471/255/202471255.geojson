@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.927147,52.354279,4.927147,52.354279",
     "geom:latitude":52.354279,
     "geom:longitude":4.927147,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804165,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1XypcGpwJcdbBDX1hr7pFG_52.354279_4.927147@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"55faa5c345fce724e3e5ac6823d3a1e3",
+    "wof:geomhash":"2767902e801cde3e4380d76841240999",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804165,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":202471255
         }
     ],
     "wof:id":202471255,
-    "wof:lastmodified":1473878736,
+    "wof:lastmodified":1492497237,
     "wof:name":"F.W. Van Dam",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

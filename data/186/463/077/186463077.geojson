@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912267,52.355984,4.912267,52.355984",
     "geom:latitude":52.355984,
     "geom:longitude":4.912267,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803403,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6NYmAt6gucbjYB7627QScL_52.355984_4.912267@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5a1ebef936e1e22ceae761925a850305",
+    "wof:geomhash":"76446b6c4a9000a739f55b754ed85f34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803403,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":186463077
         }
     ],
     "wof:id":186463077,
-    "wof:lastmodified":1473879485,
+    "wof:lastmodified":1492508551,
     "wof:name":"Nvl Landelijk Congres",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803403,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

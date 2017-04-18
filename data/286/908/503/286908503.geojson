@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.924659,52.355518,4.924659,52.355518",
     "geom:latitude":52.355518,
     "geom:longitude":4.924659,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803941,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_38XZbUvtWT3DRJJ21zvNrO_52.355518_4.924659@1306269974"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b5c0d09072c26c4ca293ed214f143fa5",
+    "wof:geomhash":"a37ac09b04e6f63c3f21508a1ef7f672",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":286908503
         }
     ],
     "wof:id":286908503,
-    "wof:lastmodified":1473879675,
+    "wof:lastmodified":1492475334,
     "wof:name":"Jan Van Slooten Flower Styling",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

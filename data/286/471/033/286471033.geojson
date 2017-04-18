@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.916041,52.356075,4.916041,52.356075",
     "geom:latitude":52.356075,
     "geom:longitude":4.916041,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803403,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5WRdGwCOuewZbnlLRkWwOt_52.356075_4.916041@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f8a6f6cafaf688b501ce1f6ec89f80e2",
+    "wof:geomhash":"e37b661de840ecc5164ea38d641d8d43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803403,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":286471033
         }
     ],
     "wof:id":286471033,
-    "wof:lastmodified":1473879121,
+    "wof:lastmodified":1492475436,
     "wof:name":"Diederik Van Leeuwen",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803403,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.900912,52.375492,4.900912,52.375492",
     "geom:latitude":52.375492,
     "geom:longitude":4.900912,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.casablanca-amsterdam.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804101,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_75x22NoXGyyg7igbhZIOsX_52.375492_4.900912@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d5888a4842c630bd0de3e6895ca9d093",
+    "wof:geomhash":"3ada960c80cf14e4df17941ceb898c47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804101,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":236040989
         }
     ],
     "wof:id":236040989,
-    "wof:lastmodified":1473878604,
+    "wof:lastmodified":1492491701,
     "wof:name":"Casablanca",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

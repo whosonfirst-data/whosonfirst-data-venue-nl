@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.947784,52.343666,4.947784,52.343666",
     "geom:latitude":52.343666,
     "geom:longitude":4.947784,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.amstelrade.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803505,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_1zeZItwvXI2MuevwLZityH_52.343666_4.947784@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"766c23e40292e17aeb9a4fb7118cd8f9",
+    "wof:geomhash":"ec8ccfc32b59892894510a70545932a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803505,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":320143161
         }
     ],
     "wof:id":320143161,
-    "wof:lastmodified":1473878971,
+    "wof:lastmodified":1492483553,
     "wof:name":"Amstelrade",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

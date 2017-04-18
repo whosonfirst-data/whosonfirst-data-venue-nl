@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912007,52.356796,4.912007,52.356796",
     "geom:latitude":52.356796,
     "geom:longitude":4.912007,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.rijwielbeurs.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803279,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_4ydCeWiCcHi3jeQuk9aoEL_52.356796_4.912007@1306269959"
     },
     "wof:country":"NL",
-    "wof:geomhash":"07a1b272688b7c2d2ccbb1357e623a9e",
+    "wof:geomhash":"08bc7f0f5c540cd4e50133da463fd109",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803279,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":269912921
         }
     ],
     "wof:id":269912921,
-    "wof:lastmodified":1473879569,
+    "wof:lastmodified":1492494921,
     "wof:name":"Rijwielbeurs",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.855229,52.350983,4.855229,52.350983",
     "geom:latitude":52.350983,
     "geom:longitude":4.855229,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803439,
+        1108802899,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2OeHmNsdYEkY6MffZsyOem_52.350983_4.855229@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2dbf88140fef68209cdc41c570a6c58b",
+    "wof:geomhash":"3a6ca9f1d9874107fb432304be5e3b91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803439,
+            "neighbourhood_id":1108802899,
             "region_id":85687053,
             "venue_id":287145547
         }
     ],
     "wof:id":287145547,
-    "wof:lastmodified":1473878931,
+    "wof:lastmodified":1492514365,
     "wof:name":"Boekhandel Zeilstraat",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

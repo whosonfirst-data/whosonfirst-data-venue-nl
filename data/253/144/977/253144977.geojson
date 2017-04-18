@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.853753,52.35091,4.853753,52.35091",
     "geom:latitude":52.35091,
     "geom:longitude":4.853753,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108804247,
+        1108802899,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2ag9BItehBzZiX5dzv9vey_52.350910_4.853753@1306269946"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d1d2c65c7200b8de9683c03b7db28ce1",
+    "wof:geomhash":"0bc3ca631f4200f6f6cc9501de6cb4da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108804247,
+            "neighbourhood_id":1108802899,
             "region_id":85687053,
             "venue_id":253144977
         }
     ],
     "wof:id":253144977,
-    "wof:lastmodified":1473878995,
+    "wof:lastmodified":1492490735,
     "wof:name":"Nuts",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.918984,52.356174,4.918984,52.356174",
     "geom:latitude":52.356174,
     "geom:longitude":4.918984,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803833,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_7aEKm8b14xIM6grivSHxkH_52.356174_4.918984@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fd338996a7c2079bcfab8462803bd567",
+    "wof:geomhash":"d91466922747b1342747b01b2f970d91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803833,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":270092717
         }
     ],
     "wof:id":270092717,
-    "wof:lastmodified":1473878560,
+    "wof:lastmodified":1492499628,
     "wof:name":"Foto Fransen",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

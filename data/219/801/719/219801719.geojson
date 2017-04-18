@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912477,52.352859,4.912477,52.352859",
     "geom:latitude":52.352859,
     "geom:longitude":4.912477,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803259,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6jkx3TkntBMA7QNKh4gH0n_52.352859_4.912477@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c8a92ad00ba268cc3fe7f21f45153fcf",
+    "wof:geomhash":"5fc322d479f198756814d60bb5afc1aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803259,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":219801719
         }
     ],
     "wof:id":219801719,
-    "wof:lastmodified":1473879739,
+    "wof:lastmodified":1492503218,
     "wof:name":"Go-Bye",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

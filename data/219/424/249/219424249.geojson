@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2567,52.0797,4.2567,52.0797",
     "geom:latitude":52.0797,
     "geom:longitude":4.2567,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859589,
+        85798595,
+        102191581,
+        1108808131,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1C6KkIzH84yziHGrY2SYc8_52.079700_4.256700@1306269926"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9064362ba4ed3fc23fc46344ec860a83",
+    "wof:geomhash":"e8ccbe7f4e4a527c721aef620b333408",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859589,
+            "macrohood_id":1108808131,
+            "neighbourhood_id":85798595,
             "region_id":85687041,
             "venue_id":219424249
         }
     ],
     "wof:id":219424249,
-    "wof:lastmodified":1473879127,
+    "wof:lastmodified":1492502252,
     "wof:name":"R Grooters",
-    "wof:parent_id":85859589,
+    "wof:parent_id":85798595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

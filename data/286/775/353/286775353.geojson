@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.289164,52.082558,4.289164,52.082558",
     "geom:latitude":52.082558,
     "geom:longitude":4.289164,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7K15IYOrJQlk3UfhHNOhnk_52.082558_4.289164@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"61da189935ab28bca2a49cd18b809db1",
+    "wof:geomhash":"dddb215ade193238d5990f3a7d6721be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":286775353
         }
     ],
     "wof:id":286775353,
-    "wof:lastmodified":1473879591,
+    "wof:lastmodified":1492476113,
     "wof:name":"Heinde & Van Verre",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

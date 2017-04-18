@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.85707,52.376923,4.85707,52.376923",
     "geom:latitude":52.376923,
     "geom:longitude":4.85707,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804207,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1ERazwieg3NwKBntwLEnlM_52.376923_4.857070@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"18b265a39d77926c20f185fb5e428192",
+    "wof:geomhash":"beb2a6f098b66744fa1171b6228892fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108804207,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":236790123
         }
     ],
     "wof:id":236790123,
-    "wof:lastmodified":1473879520,
+    "wof:lastmodified":1492494660,
     "wof:name":"Kouaa",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804207,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

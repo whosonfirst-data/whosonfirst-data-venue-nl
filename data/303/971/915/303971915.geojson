@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.132456,51.976734,4.132456,51.976734",
     "geom:latitude":51.976734,
     "geom:longitude":4.132456,
@@ -24,8 +25,11 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85797461,
+        102191581,
         85633337,
-        101808077,
+        101751843,
+        1108805729,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +37,22 @@
         "sg:id":"SG_43shhVmdmwH5dXGDzwXnoe_51.976734_4.132456@1306269989"
     },
     "wof:country":"NL",
-    "wof:geomhash":"42f238522b05ceaabbc13b93e493b779",
+    "wof:geomhash":"50aef32f02aafbec091d1ac7de889ed7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805729,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101808077,
-            "neighbourhood_id":-1,
+            "locality_id":101751843,
+            "neighbourhood_id":85797461,
             "region_id":85687041,
             "venue_id":303971915
         }
     ],
     "wof:id":303971915,
-    "wof:lastmodified":1473879680,
+    "wof:lastmodified":1492470408,
     "wof:name":"Opmeer Dierenarts, R J",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

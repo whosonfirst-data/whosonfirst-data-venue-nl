@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.928222,52.364666,4.928222,52.364666",
     "geom:latitude":52.364666,
     "geom:longitude":4.928222,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803579,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_335s5hpNfU5wFsa5fN7OTV_52.364666_4.928222@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"464feb31747270749e9b408d5f801760",
+    "wof:geomhash":"9fb7abd3c11d96e26860e4a9f4d09b60",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803579,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":303054715
         }
     ],
     "wof:id":303054715,
-    "wof:lastmodified":1473878519,
+    "wof:lastmodified":1492471800,
     "wof:name":"L.C. Doets H.O. Moto",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

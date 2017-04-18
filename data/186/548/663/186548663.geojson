@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.834066,50.970863,5.834066,50.970863",
     "geom:latitude":50.970863,
     "geom:longitude":5.834066,
@@ -24,10 +25,12 @@
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797273,
         85633337,
+        85797273,
         85687033,
         85797869,
+        102191581,
+        404474675,
         101839271
     ],
     "wof:breaches":[],
@@ -35,19 +38,18 @@
         "sg:id":"SG_23Bs4TzFriglHtJ3v5QNwp_50.970863_5.834066@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4f933b9a8278086cb674913372577b06",
+    "wof:geomhash":"63304cf2fea79d397449acea700d744e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85797273,
             "region_id":85687033,
             "venue_id":186548663
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474675,
             "locality_id":101839271,
             "neighbourhood_id":85797869,
             "region_id":85687033,
@@ -55,9 +57,9 @@
         }
     ],
     "wof:id":186548663,
-    "wof:lastmodified":1473879599,
+    "wof:lastmodified":1492509091,
     "wof:name":"Wijkcentrum Geleen Noord, Stichting",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

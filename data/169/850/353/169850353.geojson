@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.850766,52.353649,4.850766,52.353649",
     "geom:latitude":52.353649,
     "geom:longitude":4.850766,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803385,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4QfQYGAOusIl1csQwR8eds_52.353649_4.850766@1306269906"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7544faea6bd4ea80beb7934eddd2a334",
+    "wof:geomhash":"cdaba9378671a4f32acb1fb94c7ac8f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803385,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":169850353
         }
     ],
     "wof:id":169850353,
-    "wof:lastmodified":1473878827,
+    "wof:lastmodified":1492478390,
     "wof:name":"Sandra Van Der Valk Coiffures",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

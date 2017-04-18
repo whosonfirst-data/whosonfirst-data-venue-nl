@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.2825331688,52.6756591797,6.2825331688,52.6756591797",
     "geom:latitude":52.675659,
     "geom:longitude":6.282533,
@@ -24,17 +25,32 @@
     "sg:province":"Provincie Drenthe",
     "sg:website":"http://www.osmkantoor.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474601,
+        85633337,
+        101808785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cR3UDymZxyVyV3tT5dtQl_52.675659_6.282533@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803438,
-    "wof:geomhash":"0625c55e7d3da81defc561f83eaf5a47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8ff43beaf81b7e23edcde9ed334ab6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474601,
+            "locality_id":101808785,
+            "region_id":85687051,
+            "venue_id":1091610935
+        }
+    ],
     "wof:id":1091610935,
-    "wof:lastmodified":1473878537,
+    "wof:lastmodified":1492510773,
     "wof:name":"Office Store Market Drent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

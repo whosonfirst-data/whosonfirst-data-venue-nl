@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.928886,52.353676,4.928886,52.353676",
     "geom:latitude":52.353676,
     "geom:longitude":4.928886,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804165,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4BzPQuciNEPyiJ7vFtzCXh_52.353676_4.928886@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"03fd2c170bd13313a7d86d36f15ffde2",
+    "wof:geomhash":"0953529e87fc2a92db4c0b6626ed78f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804165,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":270114775
         }
     ],
     "wof:id":270114775,
-    "wof:lastmodified":1473878623,
+    "wof:lastmodified":1492501194,
     "wof:name":"Beer Deurvorst",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

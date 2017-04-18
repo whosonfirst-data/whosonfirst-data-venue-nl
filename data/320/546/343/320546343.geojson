@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.800798,52.377823,4.800798,52.377823",
     "geom:latitude":52.377823,
     "geom:longitude":4.800798,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803633,
         85797579,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_2n9M0VtH3aZdFMhWtVvUJi_52.377823_4.800798@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"281f460e47e1ec42257d94e4a66ae85c",
+    "wof:geomhash":"c00e5da9539e29869620285c9ba6c753",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803633,
             "neighbourhood_id":85797579,
             "region_id":85687053,
             "venue_id":320546343
         }
     ],
     "wof:id":320546343,
-    "wof:lastmodified":1473879397,
+    "wof:lastmodified":1492482452,
     "wof:name":"Beymuma Versshop",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108803633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

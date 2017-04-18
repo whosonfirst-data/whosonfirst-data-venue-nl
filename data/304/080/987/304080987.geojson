@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.891589,52.380512,4.891589,52.380512",
     "geom:latitude":52.380512,
     "geom:longitude":4.891589,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.amsterdambudgethotel.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803261,
+        1108802819,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_0QIbwjKvhAsFm3qFdFZp2X_52.380512_4.891589@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3285dd49a9848c76ff082f4991700dc4",
+    "wof:geomhash":"8be889634095dfc4177e241d7f8e2568",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803261,
+            "neighbourhood_id":1108802819,
             "region_id":85687053,
             "venue_id":304080987
         }
     ],
     "wof:id":304080987,
-    "wof:lastmodified":1473878806,
+    "wof:lastmodified":1492504511,
     "wof:name":"My Home",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

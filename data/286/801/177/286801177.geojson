@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878243,52.357914,4.878243,52.357914",
     "geom:latitude":52.357914,
     "geom:longitude":4.878243,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.edha-interieur.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803743,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_4EHFaaGTZMnwXRrJWPKbbt_52.357914_4.878243@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d84dd56142c1e2ab4010944c6761cc86",
+    "wof:geomhash":"137a1f53324ae494672686e486e14ff7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803743,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":286801177
         }
     ],
     "wof:id":286801177,
-    "wof:lastmodified":1473879610,
+    "wof:lastmodified":1492477001,
     "wof:name":"Edha Interieur",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

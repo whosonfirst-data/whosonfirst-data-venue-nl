@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.812905,52.37405,4.812905,52.37405",
     "geom:latitude":52.37405,
     "geom:longitude":4.812905,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803595,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0B0jqxez3ONxzIC0WT6Lw9_52.374050_4.812905@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ae7fea5399760c60e91be8f3207a9010",
+    "wof:geomhash":"61b3e71171fa749e9a6f5069c3e267ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "macrohood_id":1108802303,
+            "microhood_id":1108803595,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":236463347
         }
     ],
     "wof:id":236463347,
-    "wof:lastmodified":1473879339,
+    "wof:lastmodified":1492493283,
     "wof:name":"Pastoor En P Van Der Horst, E M",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

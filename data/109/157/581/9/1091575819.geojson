@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0610117912,52.7095375061,5.0610117912,52.7095375061",
     "geom:latitude":52.709538,
     "geom:longitude":5.061012,
@@ -24,17 +25,30 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.webboutique.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474097,
+        85633337,
+        85687053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78Jl8i6HLaNDtd7Vx8CfgJ_52.709538_5.061012@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800842,
-    "wof:geomhash":"13a39ec696d6ccec41847ac007f7b711",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f482ea15fea164e6891dbdf002ace1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474097,
+            "region_id":85687053,
+            "venue_id":1091575819
+        }
+    ],
     "wof:id":1091575819,
-    "wof:lastmodified":1473878897,
+    "wof:lastmodified":1492511133,
     "wof:name":"Webboutique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

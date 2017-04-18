@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0444478989,52.3059158325,5.0444478989,52.3059158325",
     "geom:latitude":52.305916,
     "geom:longitude":5.044448,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.kaapseweelde.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474125,
+        85633337,
+        101754863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LGdW8IsIZQGzJ2vfrtsER_52.305916_5.044448@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802083,
-    "wof:geomhash":"6e70c0149186b0b4fd56f3372172a15f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"553a2546857290d234f2ff8dd2589359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474125,
+            "locality_id":101754863,
+            "region_id":85687053,
+            "venue_id":1091592591
+        }
+    ],
     "wof:id":1091592591,
-    "wof:lastmodified":1473878609,
+    "wof:lastmodified":1492509532,
     "wof:name":"Kaapse Weelde",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

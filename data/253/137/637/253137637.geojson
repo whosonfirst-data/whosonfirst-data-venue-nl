@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.55883,51.951244,4.55883,51.951244",
     "geom:latitude":51.951244,
     "geom:longitude":4.55883,
@@ -26,20 +27,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69DI5ASL0HbDRqHPPnBsXf_51.951244_4.558830@1306269946"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a2dea2b7ce92af51f6ea37f910b62662",
+    "wof:geomhash":"7795659d11f264be62586ace8abf1524",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":253137637
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798177,
             "region_id":85687041,
@@ -47,7 +63,7 @@
         }
     ],
     "wof:id":253137637,
-    "wof:lastmodified":1473878970,
+    "wof:lastmodified":1492489246,
     "wof:name":"Lundia Bv",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

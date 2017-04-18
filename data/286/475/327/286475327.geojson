@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.914973,52.356453,4.914973,52.356453",
     "geom:latitude":52.356453,
     "geom:longitude":4.914973,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803403,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_65143N0mluOQ19uZEKgk3b_52.356453_4.914973@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9f0eb87bbc145c8f5bf3ba4fbfead42c",
+    "wof:geomhash":"1685f6462d38f4deba84cc4ea9b06fab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803403,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":286475327
         }
     ],
     "wof:id":286475327,
-    "wof:lastmodified":1473879119,
+    "wof:lastmodified":1492476885,
     "wof:name":"Gool, A W C M Van",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803403,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

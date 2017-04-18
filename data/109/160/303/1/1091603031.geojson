@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3189711571,51.5864448547,4.3189711571,51.5864448547",
     "geom:latitude":51.586445,
     "geom:longitude":4.318971,
@@ -23,17 +24,32 @@
     "sg:postcode":"4651 GB",
     "sg:province":"Noord-Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474431,
+        85633337,
+        101839423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5egduKe9V6m0n2SPXIaf6p_51.586445_4.318971@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802702,
-    "wof:geomhash":"98ff4cd183faeca3b5431c8bb4dfc797",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa372dff58284b82c03026187ce15b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474431,
+            "locality_id":101839423,
+            "region_id":85687035,
+            "venue_id":1091603031
+        }
+    ],
     "wof:id":1091603031,
-    "wof:lastmodified":1473878601,
+    "wof:lastmodified":1492512484,
     "wof:name":"Kaasland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

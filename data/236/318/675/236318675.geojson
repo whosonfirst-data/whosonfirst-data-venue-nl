@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8548,52.393982,4.8548,52.393982",
     "geom:latitude":52.393982,
     "geom:longitude":4.8548,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.arboduo.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803313,
+        1108802535,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_7BqV731ybQoYQFqnSSdY32_52.393982_4.854800@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fa691a9c844e340084aa2161a45aa3c5",
+    "wof:geomhash":"4fcfec93c66984969469ca3eb447e0ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803313,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":236318675
         }
     ],
     "wof:id":236318675,
-    "wof:lastmodified":1473879133,
+    "wof:lastmodified":1492494253,
     "wof:name":"Arboduo Amsterdam",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

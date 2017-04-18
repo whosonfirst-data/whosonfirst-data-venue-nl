@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.826192,52.355816,4.826192,52.355816",
     "geom:latitude":52.355816,
     "geom:longitude":4.826192,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803265,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_7gQWCMzQuOEsyqYhICtUlk_52.355816_4.826192@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fdf80053948466d4955e99b57e181852",
+    "wof:geomhash":"43f040a3b804de6023ccc05b4c333712",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803265,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":270093799
         }
     ],
     "wof:id":270093799,
-    "wof:lastmodified":1473878561,
+    "wof:lastmodified":1492501175,
     "wof:name":"Foto Oosterloo Amsterdam",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8716921806,52.3547973633,4.8716921806,52.3547973633",
     "geom:latitude":52.354797,
     "geom:longitude":4.871692,
@@ -24,13 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803475,
+        1108802861,
         102191581,
-        404474029,
         85633337,
         101751893,
-        85687053,
-        85798403
+        1108802281,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,31 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473802447,
-    "wof:geomhash":"55b1e254efb9156a9aa5746553b4f6e4",
+    "wof:geomhash":"d4339f2891cedc0fc413641310fbca1d",
     "wof:hierarchy":[
         {
+            "borough_id":1108802281,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474029,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
-            "region_id":85687053,
-            "venue_id":1091598637
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474029,
-            "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803475,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":1091598637
         }
     ],
     "wof:id":1091598637,
-    "wof:lastmodified":1473878995,
+    "wof:lastmodified":1492509747,
     "wof:name":"Homemania Benelux Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

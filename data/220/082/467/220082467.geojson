@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.081013,52.117786,5.081013,52.117786",
     "geom:latitude":52.117786,
     "geom:longitude":5.081013,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808843,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4sDFcpUHGXrFXpkSDrBosv_52.117786_5.081013@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d708dc2136ab2a07bab341f29b0fd5ee",
+    "wof:geomhash":"dc8323e80770676759fb8073f45039f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808843,
             "region_id":85687039,
             "venue_id":220082467
         }
     ],
     "wof:id":220082467,
-    "wof:lastmodified":1473878713,
+    "wof:lastmodified":1492481153,
     "wof:name":"Noco",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808843,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

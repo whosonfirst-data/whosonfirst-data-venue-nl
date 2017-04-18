@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.305617,52.046219,4.305617,52.046219",
     "geom:latitude":52.046219,
     "geom:longitude":4.305617,
@@ -24,10 +25,11 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798031,
+        85687041,
+        102191581,
+        404474251,
         85633337,
-        101754743,
-        85687041
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,18 +39,18 @@
     "wof:geomhash":"e86d242c831b9f73498a87ffced3025b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85798031,
             "region_id":85687041,
             "venue_id":185906279
         }
     ],
     "wof:id":185906279,
-    "wof:lastmodified":1473878874,
+    "wof:lastmodified":1491908002,
     "wof:name":"Kinderdagverblijf Eigenwijs",
-    "wof:parent_id":85798031,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

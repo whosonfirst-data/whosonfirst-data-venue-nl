@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.096763,52.093216,5.096763,52.093216",
     "geom:latitude":52.093216,
     "geom:longitude":5.096763,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.aldem.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808791,
+        102191581,
+        1108808651,
         85633337,
         101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2hiwDhH13MOW2fFsEoNxOh_52.093216_5.096763@1306269942"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3e47b95bf895dcadd4cdc2a334ffa301",
+    "wof:geomhash":"0ab152c3d52db3a431ccba0b73b53eb9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808651,
+            "neighbourhood_id":1108808791,
             "region_id":85687039,
             "venue_id":236936865
         }
     ],
     "wof:id":236936865,
-    "wof:lastmodified":1473879611,
+    "wof:lastmodified":1492491569,
     "wof:name":"Aldem",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.011449,52.306023,5.011449,52.306023",
     "geom:latitude":52.306023,
     "geom:longitude":5.011449,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803641,
+        1108802795,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1ifk0pJYGApkRAu0g7DReP_52.306023_5.011449@1306269953"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ddebc705228405893ffeb8be681211c0",
+    "wof:geomhash":"d585b46f4eb601b1be5259011a2dbfdb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803641,
+            "neighbourhood_id":1108802795,
             "region_id":85687053,
             "venue_id":253720721
         }
     ],
     "wof:id":253720721,
-    "wof:lastmodified":1473879713,
+    "wof:lastmodified":1492489752,
     "wof:name":"Fa. P. Wed Attema & Zn",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7784528732,52.2563514709,4.7784528732,52.2563514709",
     "geom:latitude":52.256351,
     "geom:longitude":4.778453,
@@ -24,17 +25,32 @@
     "sg:province":"North Holland",
     "sg:website":"http://www.atp.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474023,
+        85633337,
+        101754781
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mgrj2pDJRj0DAICvI7V5P_52.256351_4.778453@1306270009"
     },
     "wof:country":"NL",
     "wof:created":1473799225,
-    "wof:geomhash":"e4ae4d297945e0cda2970f54ee9962b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff794139e2a45f9972eb1b1a17a04acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474023,
+            "locality_id":101754781,
+            "region_id":85687053,
+            "venue_id":1075821523
+        }
+    ],
     "wof:id":1075821523,
-    "wof:lastmodified":1473879231,
+    "wof:lastmodified":1492487110,
     "wof:name":"Atp Destination Organisers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

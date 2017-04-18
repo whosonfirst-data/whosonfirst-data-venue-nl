@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.861933,52.333424,4.861933,52.333424",
     "geom:latitude":52.333424,
     "geom:longitude":4.861933,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803635,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5DkhrQZ9Nz1Nm6CO3FNB5X_52.333424_4.861933@1306269989"
     },
     "wof:country":"NL",
-    "wof:geomhash":"94501bd1a9ddd7892584848ca2a8c4a3",
+    "wof:geomhash":"2f508a2472d01e6e742d9321a7400eaa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803635,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":303959471
         }
     ],
     "wof:id":303959471,
-    "wof:lastmodified":1473879663,
+    "wof:lastmodified":1492473478,
     "wof:name":"Vu Amsterdam Fac Bewegingswetenschappen",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.558856,51.951248,4.558856,51.951248",
     "geom:latitude":51.951248,
     "geom:longitude":4.558856,
@@ -26,20 +27,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jHPOorEgtMHGdU5g2sSBk_51.951248_4.558856@1306269946"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bfbf8a43fb9740505a32deedfbf68687",
+    "wof:geomhash":"c2f4ff7deb26088d363256ec315c866b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":253154545
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798177,
             "region_id":85687041,
@@ -47,7 +63,7 @@
         }
     ],
     "wof:id":253154545,
-    "wof:lastmodified":1473879005,
+    "wof:lastmodified":1492489158,
     "wof:name":"Trendhopper",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

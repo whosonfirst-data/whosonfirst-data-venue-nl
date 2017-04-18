@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.560105,51.942974,4.560105,51.942974",
     "geom:latitude":51.942974,
     "geom:longitude":4.560105,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YvOxgvBEz6tBVkamdTiND_51.942974_4.560105@1306269935"
     },
     "wof:country":"NL",
-    "wof:geomhash":"961ba0ba80289d35d116e1b89a39c131",
+    "wof:geomhash":"c59a0b882cb46b68976c5bac6f3abe85",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":236176179
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "neighbourhood_id":85798177,
             "region_id":85687041,
             "venue_id":236176179
         }
     ],
     "wof:id":236176179,
-    "wof:lastmodified":1473878883,
+    "wof:lastmodified":1492491585,
     "wof:name":"Pdk Beveiligingen",
-    "wof:parent_id":85798329,
+    "wof:parent_id":85798177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

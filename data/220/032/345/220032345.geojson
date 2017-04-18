@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.557272,51.950726,4.557272,51.950726",
     "geom:latitude":51.950726,
     "geom:longitude":4.557272,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ff1HRolEYv5vdtaWqWb9U_51.950726_4.557272@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fb4344d6c32d796d00d42e971837870f",
+    "wof:geomhash":"40f58610f72c6c4d145658a7e2f92730",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":220032345
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798177,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":220032345,
-    "wof:lastmodified":1473878553,
+    "wof:lastmodified":1492481231,
     "wof:name":"Eurogate Bv",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

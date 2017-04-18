@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.843815,52.363132,4.843815,52.363132",
     "geom:latitude":52.363132,
     "geom:longitude":4.843815,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804211,
         85798223,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1wuuogOJd4EQTjor59Vgnj_52.363132_4.843815@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"79e428001fcd2685cbac71054002ce43",
+    "wof:geomhash":"835560189fdade92174c9e217250a4d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804211,
             "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":270217677
         }
     ],
     "wof:id":270217677,
-    "wof:lastmodified":1473878902,
+    "wof:lastmodified":1492500997,
     "wof:name":"Feyona Van Der Molen",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108804211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

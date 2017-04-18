@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.351198,51.857368,4.351198,51.857368",
     "geom:latitude":51.857368,
     "geom:longitude":4.351198,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798011,
+        1108833225,
+        1108805797,
+        102191581,
         85633337,
-        101751847,
+        101751843,
+        1108805727,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_7EFsfBcBu0xgDbReueH92R_51.857368_4.351198@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c620eb764742114bc4fb63968c833a12",
+    "wof:geomhash":"084029876c86651b0323eb40d6c23691",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805727,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751847,
-            "neighbourhood_id":85798011,
+            "locality_id":101751843,
+            "microhood_id":1108833225,
+            "neighbourhood_id":1108805797,
             "region_id":85687041,
             "venue_id":253674453
         }
     ],
     "wof:id":253674453,
-    "wof:lastmodified":1473879702,
+    "wof:lastmodified":1492488818,
     "wof:name":"Strada Hoogvliet, La",
-    "wof:parent_id":85798011,
+    "wof:parent_id":1108833225,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.883798,52.375938,4.883798,52.375938",
     "geom:latitude":52.375938,
     "geom:longitude":4.883798,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803831,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7HaBsC0WiolrokTJJBhMfm_52.375938_4.883798@1306269989"
     },
     "wof:country":"NL",
-    "wof:geomhash":"368df4f1cbad292f43849dd323c2ca77",
+    "wof:geomhash":"b56fa4670750d49cd1fe844bb7cc90b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803831,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":303904499
         }
     ],
     "wof:id":303904499,
-    "wof:lastmodified":1473879641,
+    "wof:lastmodified":1492470366,
     "wof:name":"Arian Menswear",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.828466,52.408604,4.828466,52.408604",
     "geom:latitude":52.408604,
     "geom:longitude":4.828466,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803963,
+        1108802955,
+        102191581,
         85633337,
         101751893,
+        1108802287,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2YCE7L0fuysKls4BhW8SGr_52.408604_4.828466@1306269933"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b5e38110b1d5f5e9820a4ef5b26565ae",
+    "wof:geomhash":"0b741a50c1a9111227416cafd40ae3bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802287,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803963,
+            "neighbourhood_id":1108802955,
             "region_id":85687053,
             "venue_id":220192467
         }
     ],
     "wof:id":220192467,
-    "wof:lastmodified":1473879050,
+    "wof:lastmodified":1492481243,
     "wof:name":"Idg-Presto",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803963,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

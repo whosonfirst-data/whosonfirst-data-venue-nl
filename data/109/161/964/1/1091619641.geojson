@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3079338074,51.360786438,5.3079338074,51.360786438",
     "geom:latitude":51.360786,
     "geom:longitude":5.307934,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.denbarbier.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474371,
+        85633337,
+        101839351
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33zNjsRObeivPij4aaLVHI_51.360786_5.307934@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803896,
-    "wof:geomhash":"9444c00edd0379a33b65ee4dd6d9c642",
-    "wof:hierarchy":[],
+    "wof:geomhash":"145dc8b6adff07c4cdfa093e912b32a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474371,
+            "locality_id":101839351,
+            "region_id":85687035,
+            "venue_id":1091619641
+        }
+    ],
     "wof:id":1091619641,
-    "wof:lastmodified":1473879046,
+    "wof:lastmodified":1492510437,
     "wof:name":"Barbier, D'N",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

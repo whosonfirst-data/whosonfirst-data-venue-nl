@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.393862,52.082531,4.393862,52.082531",
     "geom:latitude":52.082531,
     "geom:longitude":4.393862,
@@ -25,30 +26,33 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859675,
+        102191581,
+        404474685,
         85633337,
-        101754709,
+        101754679,
         85687041,
-        85859687,
-        101754679
+        85859687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0M5dM7Zw80wh7fjaRfRlG1_52.082531_4.393862@1306269981"
     },
     "wof:country":"NL",
-    "wof:geomhash":"954cd25680428026e30274046e291cdb",
+    "wof:geomhash":"3ac9e80641f45ce8c8bf0f7dd155ec9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754709,
+            "localadmin_id":404474685,
+            "locality_id":101754679,
             "neighbourhood_id":85859675,
             "region_id":85687041,
             "venue_id":303206429
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474685,
             "locality_id":101754679,
             "neighbourhood_id":85859687,
             "region_id":85687041,
@@ -56,9 +60,9 @@
         }
     ],
     "wof:id":303206429,
-    "wof:lastmodified":1473878883,
+    "wof:lastmodified":1492471385,
     "wof:name":"Bleijs",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

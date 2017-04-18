@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.79589,52.383003,4.79589,52.383003",
     "geom:latitude":52.383003,
     "geom:longitude":4.79589,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803561,
         85797579,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_38vnyX6XT1fmnUkfRmlkuo_52.383003_4.795890@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e41c5307425597c6243d822d75be8bd4",
+    "wof:geomhash":"0f6447814ae189b23e763e4093d1f2ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803561,
             "neighbourhood_id":85797579,
             "region_id":85687053,
             "venue_id":269622173
         }
     ],
     "wof:id":269622173,
-    "wof:lastmodified":1473879083,
+    "wof:lastmodified":1492495928,
     "wof:name":"Evelien Quelle, Drs",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108803561,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

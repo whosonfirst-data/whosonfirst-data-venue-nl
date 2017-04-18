@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.086348,52.123299,5.086348,52.123299",
     "geom:latitude":52.123299,
     "geom:longitude":5.086348,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.cannons.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808701,
+        102191581,
+        1108832365,
         85633337,
         101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3FbcdK89ahfj2JCQUFytBR_52.123299_5.086348@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"970a5198b522c27526509e1f2ac1a632",
+    "wof:geomhash":"c017e31f967037a1195c5e57fb2a461d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808701,
             "region_id":85687039,
             "venue_id":270039481
         }
     ],
     "wof:id":270039481,
-    "wof:lastmodified":1473878500,
+    "wof:lastmodified":1492501409,
     "wof:name":"Cannons Health Club",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

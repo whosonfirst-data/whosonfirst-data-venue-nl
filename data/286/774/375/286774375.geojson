@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.224049,52.068382,4.224049,52.068382",
     "geom:latitude":52.068382,
     "geom:longitude":4.224049,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797143,
+        85797811,
+        102191581,
+        1108808099,
         85633337,
+        101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_0qkv5qIsTiUD2hASTS8jfR_52.068382_4.224049@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c1db3cab0eb189eb6512969cbce1d3e5",
+    "wof:geomhash":"4ec3209ab9725e34c5006f1cfb32e0ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797143,
+            "locality_id":101752763,
+            "macrohood_id":1108808099,
+            "neighbourhood_id":85797811,
             "region_id":85687041,
             "venue_id":286774375
         }
     ],
     "wof:id":286774375,
-    "wof:lastmodified":1473879585,
+    "wof:lastmodified":1492477258,
     "wof:name":"H. Van Dijk",
-    "wof:parent_id":85797143,
+    "wof:parent_id":85797811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

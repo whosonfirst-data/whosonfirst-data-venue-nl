@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.284947,52.084232,4.284947,52.084232",
     "geom:latitude":52.084232,
     "geom:longitude":4.284947,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808179,
+        102191581,
+        1108808085,
         85633337,
         101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_5VEHx0N6esRebeM5JJc3vC_52.084232_4.284947@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4def91df01d6c29ee42335ccbd4c4571",
+    "wof:geomhash":"3448ad9c538637537d7407f145a6fcea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808085,
+            "neighbourhood_id":1108808179,
             "region_id":85687041,
             "venue_id":336742847
         }
     ],
     "wof:id":336742847,
-    "wof:lastmodified":1473878430,
+    "wof:lastmodified":1492506987,
     "wof:name":"Accountantskantoor Drs. G.J. Derksen Bv",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

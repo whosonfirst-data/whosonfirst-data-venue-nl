@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1440181732,52.1126937866,5.1440181732,52.1126937866",
     "geom:latitude":52.112694,
     "geom:longitude":5.144018,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808911,
+        102191581,
         85633337,
-        85798227,
+        101751827,
+        1108808663,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473805164,
-    "wof:geomhash":"b002b95486532922f20c7cbb5e22def7",
+    "wof:geomhash":"0cf7233c54de3cbc60a335cbeaab2925",
     "wof:hierarchy":[
         {
+            "borough_id":1108808663,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808911,
             "region_id":85687039,
             "venue_id":1091637689
         }
     ],
     "wof:id":1091637689,
-    "wof:lastmodified":1473878836,
+    "wof:lastmodified":1492510211,
     "wof:name":"Karin",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808911,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

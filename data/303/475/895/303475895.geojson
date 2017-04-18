@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.853652,52.340717,4.853652,52.340717",
     "geom:latitude":52.340717,
     "geom:longitude":4.853652,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803513,
+        1108802917,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_1TddfCNpj4j3D25X9THyEd_52.340717_4.853652@1306269984"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0bcb30e84f6f6c6d88410b75360e25fa",
+    "wof:geomhash":"20cfabb7e2ce6f1740a9908f419e0d29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803513,
+            "neighbourhood_id":1108802917,
             "region_id":85687053,
             "venue_id":303475895
         }
     ],
     "wof:id":303475895,
-    "wof:lastmodified":1473879212,
+    "wof:lastmodified":1492472934,
     "wof:name":"Sporthallen Zuid",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

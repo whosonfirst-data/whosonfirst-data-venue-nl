@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.89025,52.324577,4.89025,52.324577",
     "geom:latitude":52.324577,
     "geom:longitude":4.89025,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804145,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_69RS136YTBvl8tfURxoC6g_52.324577_4.890250@1306269976"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3278bf4c78770278294b8f7ff678ed80",
+    "wof:geomhash":"617dd7cf303a606f27158fbc51fbc2b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804145,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":287099863
         }
     ],
     "wof:id":287099863,
-    "wof:lastmodified":1473878796,
+    "wof:lastmodified":1492514411,
     "wof:name":"Slooten, W Van",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

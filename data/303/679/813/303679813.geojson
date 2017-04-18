@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.787855,52.39019,4.787855,52.39019",
     "geom:latitude":52.39019,
     "geom:longitude":4.787855,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797579,
+        1108804105,
+        1108802535,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4PgA4aaYsY85ZivvbGiYED_52.390190_4.787855@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"71b03e41838c0d779883c20dea5789ed",
+    "wof:geomhash":"db9bab58bdb24c592dc109f23708d2d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797579,
+            "microhood_id":1108804105,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":303679813
         }
     ],
     "wof:id":303679813,
-    "wof:lastmodified":1473879448,
+    "wof:lastmodified":1492471640,
     "wof:name":"Binderij Baltus Bv",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108804105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

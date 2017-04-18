@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.944686,52.304428,4.944686,52.304428",
     "geom:latitude":52.304428,
     "geom:longitude":4.944686,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797113,
+        1108803677,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1RGUmWMS71WUDUBVnrCgyE_52.304428_4.944686@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d3e42e0cb5835742995d16c16a6107e2",
+    "wof:geomhash":"85bd7f6a3d372fd74a3c86532d7b02d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797113,
+            "locality_id":101751893,
+            "microhood_id":1108803677,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":304019653
         }
     ],
     "wof:id":304019653,
-    "wof:lastmodified":1473878601,
+    "wof:lastmodified":1492504374,
     "wof:name":"Leonard Parker Company",
-    "wof:parent_id":85797113,
+    "wof:parent_id":1108803677,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

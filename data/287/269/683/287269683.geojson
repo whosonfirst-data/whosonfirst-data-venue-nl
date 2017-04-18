@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.482505,51.89114,4.482505,51.89114",
     "geom:latitude":51.89114,
     "geom:longitude":4.482505,
@@ -24,29 +25,23 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797257,
+        85859851,
+        102191581,
         85633337,
         101751843,
-        85687041,
-        85859851
+        1108804837,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JIfR1aaG5zRJzzoRdHomD_51.891140_4.482505@1306269978"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ea2bd5b33cb66327854b64c2bc171f44",
+    "wof:geomhash":"74b1d0e92cf919c894fabac06adca4db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751843,
-            "neighbourhood_id":85797257,
-            "region_id":85687041,
-            "venue_id":287269683
-        },
-        {
-            "continent_id":-1,
+            "borough_id":1108804837,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
             "neighbourhood_id":85859851,
@@ -55,9 +50,9 @@
         }
     ],
     "wof:id":287269683,
-    "wof:lastmodified":1473879101,
+    "wof:lastmodified":1492513682,
     "wof:name":"Administratiekantoor R.G. Smits",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

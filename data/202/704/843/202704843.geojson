@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.847282,52.347805,4.847282,52.347805",
     "geom:latitude":52.347805,
     "geom:longitude":4.847282,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.davio.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803459,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_7GZmRD45X6vG7lyP9Gs31z_52.347805_4.847282@1306269917"
     },
     "wof:country":"NL",
-    "wof:geomhash":"860b580661915e17d057a48ca770fdb9",
+    "wof:geomhash":"3caa1baca33690393e8606da25a2b8a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803459,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":202704843
         }
     ],
     "wof:id":202704843,
-    "wof:lastmodified":1473879176,
+    "wof:lastmodified":1492498529,
     "wof:name":"Davio",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

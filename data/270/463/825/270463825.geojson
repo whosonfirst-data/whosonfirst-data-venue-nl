@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.318539,52.075623,4.318539,52.075623",
     "geom:latitude":52.075623,
     "geom:longitude":4.318539,
@@ -29,9 +30,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808255,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_6aurWxMycwUOqluuOD1ILK_52.075623_4.318539@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"80c25b1b6f6beab4b5c8cd06987581a8",
+    "wof:geomhash":"7620b56cb06c18d31e2e817f155882fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808255,
             "region_id":85687041,
             "venue_id":270463825
         }
     ],
     "wof:id":270463825,
-    "wof:lastmodified":1473879265,
+    "wof:lastmodified":1492500572,
     "wof:name":"Smokey",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

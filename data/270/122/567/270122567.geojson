@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.900097,52.363018,4.900097,52.363018",
     "geom:latitude":52.363018,
     "geom:longitude":4.900097,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.lepelle.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803805,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_0zoNPbdxei5ofs1OEn1vDh_52.363018_4.900097@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d7070c9796bc5584e112440743f16edd",
+    "wof:geomhash":"9650852540cb8f18685a675089f21484",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803805,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":270122567
         }
     ],
     "wof:id":270122567,
-    "wof:lastmodified":1473878623,
+    "wof:lastmodified":1492500386,
     "wof:name":"Le Pelle",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

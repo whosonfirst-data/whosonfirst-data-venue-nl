@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.927244,52.357174,4.927244,52.357174",
     "geom:latitude":52.357174,
     "geom:longitude":4.927244,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803427,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7S287nDDX2UqPlSBq5UACO_52.357174_4.927244@1306269906"
     },
     "wof:country":"NL",
-    "wof:geomhash":"631ca80246f001affd82f0bd6a86ad11",
+    "wof:geomhash":"0f5ee9dc02b2e2d13dc4972da7a785ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803427,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":185607305
         }
     ],
     "wof:id":185607305,
-    "wof:lastmodified":1473878502,
+    "wof:lastmodified":1492488171,
     "wof:name":"Team Etos",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

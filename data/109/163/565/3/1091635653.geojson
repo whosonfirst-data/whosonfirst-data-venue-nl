@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8788051605,52.4161376953,4.8788051605,52.4161376953",
     "geom:latitude":52.416138,
     "geom:longitude":4.878805,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
+        1108804079,
         85798523,
+        102191581,
+        85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,19 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473804926,
-    "wof:geomhash":"4fde9ae7eb41e1ef0cbd27732f9f9659",
+    "wof:geomhash":"34eed4c44610f50605aecbaf440b09b6",
     "wof:hierarchy":[
         {
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1108804079,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":1091635653
         }
     ],
     "wof:id":1091635653,
-    "wof:lastmodified":1473878697,
+    "wof:lastmodified":1492510005,
     "wof:name":"Kapsalon Knip & Koffie",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108804079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

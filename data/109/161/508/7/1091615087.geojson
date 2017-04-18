@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2583518028,52.0899505615,4.2583518028,52.0899505615",
     "geom:latitude":52.089951,
     "geom:longitude":4.258352,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         85797483,
+        102191581,
+        1108808083,
+        85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -34,17 +39,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473803675,
-    "wof:geomhash":"442cb2a92b174e66882772895adb6943",
+    "wof:geomhash":"dc3d9319113430b7211b142aac97c471",
     "wof:hierarchy":[
         {
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808083,
             "neighbourhood_id":85797483,
             "region_id":85687041,
             "venue_id":1091615087
         }
     ],
     "wof:id":1091615087,
-    "wof:lastmodified":1473878759,
+    "wof:lastmodified":1492510555,
     "wof:name":"Repro-West",
     "wof:parent_id":85797483,
     "wof:placetype":"venue",

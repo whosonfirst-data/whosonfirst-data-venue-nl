@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.933191,52.355743,4.933191,52.355743",
     "geom:latitude":52.355743,
     "geom:longitude":4.933191,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803929,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3EFNUyllh9UeRNppHBfOdb_52.355743_4.933191@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f9556100b22a822b7a06735a462265cd",
+    "wof:geomhash":"b392db8854fcd770789168d2df9e575a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803929,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":236446555
         }
     ],
     "wof:id":236446555,
-    "wof:lastmodified":1473879301,
+    "wof:lastmodified":1492494124,
     "wof:name":"Helwegen, F A",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

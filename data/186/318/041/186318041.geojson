@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.09994,52.092915,5.09994,52.092915",
     "geom:latitude":52.092915,
     "geom:longitude":5.09994,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808789,
+        102191581,
+        1108808651,
         85633337,
         101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6NtdMFnHdANeAu6PY0ir6k_52.092915_5.099940@1306269911"
     },
     "wof:country":"NL",
-    "wof:geomhash":"42f56df68a930b06b270956a42bcced1",
+    "wof:geomhash":"9b08561cf062260db5794b8b41ac9c5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808651,
+            "neighbourhood_id":1108808789,
             "region_id":85687039,
             "venue_id":186318041
         }
     ],
     "wof:id":186318041,
-    "wof:lastmodified":1473879264,
+    "wof:lastmodified":1492509102,
     "wof:name":"Technische Verenfabriek Utrecht Bv",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

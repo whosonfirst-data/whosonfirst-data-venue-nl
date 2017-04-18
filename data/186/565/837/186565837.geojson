@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.107921,52.120926,5.107921,52.120926",
     "geom:latitude":52.120926,
     "geom:longitude":5.107921,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808927,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_2nYIXy8eE4vk4If0LTRo31_52.120926_5.107921@1306269914"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c1ffe854ef352878a87976c2f0515326",
+    "wof:geomhash":"bfebcea7b581215849a1ec3c2c72a465",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808927,
             "region_id":85687039,
             "venue_id":186565837
         }
     ],
     "wof:id":186565837,
-    "wof:lastmodified":1473879616,
+    "wof:lastmodified":1492507884,
     "wof:name":"Boog, De",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808927,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

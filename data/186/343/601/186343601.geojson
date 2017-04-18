@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.544517,51.96085,4.544517,51.96085",
     "geom:latitude":51.96085,
     "geom:longitude":4.544517,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Uy9k5rCanrPKqfZFandQS_51.960850_4.544517@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6fbd77dfd28f9e1a06ffdcec0b72064c",
+    "wof:geomhash":"912f7fac42f9be4defb872f3a62aaa04",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":186343601
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798149,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":186343601,
-    "wof:lastmodified":1473879308,
+    "wof:lastmodified":1492507795,
     "wof:name":"Bewonersorg Ommoord",
     "wof:parent_id":85798149,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.273004,52.076702,4.273004,52.076702",
     "geom:latitude":52.076702,
     "geom:longitude":4.273004,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        1108808213,
+        102191581,
+        1108808125,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2JggYsvRH8IuSG6BYv8ot3_52.076702_4.273004@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"832a7a4c64199aebd19177c0aa045ac9",
+    "wof:geomhash":"465cf0c181cf93ce765d07af23747efc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
+            "macrohood_id":1108808125,
+            "neighbourhood_id":1108808213,
             "region_id":85687041,
             "venue_id":253463739
         }
     ],
     "wof:id":253463739,
-    "wof:lastmodified":1473879618,
+    "wof:lastmodified":1492490013,
     "wof:name":"J.C. Veldkamp",
-    "wof:parent_id":85859605,
+    "wof:parent_id":1108808213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

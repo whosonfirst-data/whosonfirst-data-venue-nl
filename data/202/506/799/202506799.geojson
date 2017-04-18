@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.244905,52.039967,4.244905,52.039967",
     "geom:latitude":52.039967,
     "geom:longitude":4.244905,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859581,
+        85859575,
+        102191581,
+        1108808029,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2RmMfnVm5Ucrq97Vv14xeG_52.039967_4.244905@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ed4e863c11df4cdcb36526f26c2a9a46",
+    "wof:geomhash":"4543301cf52ae4522386651a11110a19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859581,
+            "macrohood_id":1108808029,
+            "neighbourhood_id":85859575,
             "region_id":85687041,
             "venue_id":202506799
         }
     ],
     "wof:id":202506799,
-    "wof:lastmodified":1473878809,
+    "wof:lastmodified":1492497555,
     "wof:name":"Le Vert",
-    "wof:parent_id":85859581,
+    "wof:parent_id":85859575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

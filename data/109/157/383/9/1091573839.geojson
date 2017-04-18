@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.541560173,52.073299408,5.541560173,52.073299408",
     "geom:latitude":52.073299,
     "geom:longitude":5.54156,
@@ -24,17 +25,32 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.makuwebdesign.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474001,
+        85633337,
+        101808439
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Zox5J8gK2OLI0PMys3Efj_52.073299_5.541560@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800715,
-    "wof:geomhash":"626f869080fa0eede2f2e981c0310178",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cef9502917e75a322bb91cf9873a3b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474001,
+            "locality_id":101808439,
+            "region_id":85687039,
+            "venue_id":1091573839
+        }
+    ],
     "wof:id":1091573839,
-    "wof:lastmodified":1473878740,
+    "wof:lastmodified":1492511208,
     "wof:name":"Maku",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

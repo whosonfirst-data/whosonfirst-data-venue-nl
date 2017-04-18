@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877485,52.348484,4.877485,52.348484",
     "geom:latitude":52.348484,
     "geom:longitude":4.877485,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.lookandbook.com/amsterdam/ams-beethoven.htm",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803589,
+        1108802527,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_4LBXY1K5gBdRqlSkwFd7l9_52.348484_4.877485@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"00860a1fbc06393b659c3dd31968d372",
+    "wof:geomhash":"9bddde790d53ee333fb2ef6613855159",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108803589,
+            "neighbourhood_id":1108802527,
             "region_id":85687053,
             "venue_id":304047625
         }
     ],
     "wof:id":304047625,
-    "wof:lastmodified":1473878718,
+    "wof:lastmodified":1492504483,
     "wof:name":"Beethoven Ams",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803589,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

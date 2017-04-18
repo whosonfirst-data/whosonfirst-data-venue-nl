@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.895395,52.379101,4.895395,52.379101",
     "geom:latitude":52.379101,
     "geom:longitude":4.895395,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804135,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3mGcZ7tZ4WtmLpRA2j12lL_52.379101_4.895395@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"96285967c85ece95ee275b5f1b4ce171",
+    "wof:geomhash":"b1573071f93a54254b9fb6f89474e616",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804135,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":319830897
         }
     ],
     "wof:id":319830897,
-    "wof:lastmodified":1473878557,
+    "wof:lastmodified":1492479593,
     "wof:name":"Hotel Booking Service",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

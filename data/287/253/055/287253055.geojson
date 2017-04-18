@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.860819,52.327488,4.860819,52.327488",
     "geom:latitude":52.327488,
     "geom:longitude":4.860819,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803485,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7I3LY2oElthiKZitZRwYnO_52.327488_4.860819@1306269978"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a770de47f2c2be0d8c2111c2396bbbf8",
+    "wof:geomhash":"b89060ed9bc9b5993faecabb198dd991",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803485,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":287253055
         }
     ],
     "wof:id":287253055,
-    "wof:lastmodified":1473879084,
+    "wof:lastmodified":1492513662,
     "wof:name":"Administratiekantoor Glas & Helder",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

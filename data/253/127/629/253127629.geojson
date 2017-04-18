@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884454,52.37928,4.884454,52.37928",
     "geom:latitude":52.37928,
     "geom:longitude":4.884454,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803955,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5FKi4RduTifY2nnWUHiDzn_52.379280_4.884454@1306269946"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6defa352f001089cf293a14dfdd3babd",
+    "wof:geomhash":"43cd087bf73a2cbda7223a58c80fb26a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803955,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":253127629
         }
     ],
     "wof:id":253127629,
-    "wof:lastmodified":1473878941,
+    "wof:lastmodified":1492490481,
     "wof:name":"Etoile Du Sud",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

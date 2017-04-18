@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879641,52.355602,4.879641,52.355602",
     "geom:latitude":52.355602,
     "geom:longitude":4.879641,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803547,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0ubwh5rpgr9tU12urwvfQv_52.355602_4.879641@1306270007"
     },
     "wof:country":"NL",
-    "wof:geomhash":"14a2534a0bd14a0b98ec5df88fa71b98",
+    "wof:geomhash":"a640475250b4eb4012062842d836da3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803547,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":336909617
         }
     ],
     "wof:id":336909617,
-    "wof:lastmodified":1473878464,
+    "wof:lastmodified":1492506706,
     "wof:name":"Altaville Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

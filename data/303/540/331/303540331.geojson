@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.900412,52.373135,4.900412,52.373135",
     "geom:latitude":52.373135,
     "geom:longitude":4.900412,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803883,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_5gMU8Z5MlkbkIfjH2iE4oe_52.373135_4.900412@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ab687021ccc2d6b5431af8a9c0c5f982",
+    "wof:geomhash":"ac768eb05cb2fa4f54f6943278592c34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803883,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":303540331
         }
     ],
     "wof:id":303540331,
-    "wof:lastmodified":1473879302,
+    "wof:lastmodified":1492471380,
     "wof:name":"Latei",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

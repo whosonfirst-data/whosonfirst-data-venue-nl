@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.7933897972,52.917755127,6.7933897972,52.917755127",
     "geom:latitude":52.917755,
     "geom:longitude":6.79339,
@@ -23,17 +24,32 @@
     "sg:postcode":"9531 BH",
     "sg:province":"Provincie Drenthe",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474595,
+        85633337,
+        101807275
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dWgTae24IilGBWxbrEvWt_52.917755_6.793390@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802627,
-    "wof:geomhash":"74df976e2252dd81df3aae65467d3a13",
-    "wof:hierarchy":[],
+    "wof:geomhash":"815af422183d96721f925952e82a08bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474595,
+            "locality_id":101807275,
+            "region_id":85687051,
+            "venue_id":1091601859
+        }
+    ],
     "wof:id":1091601859,
-    "wof:lastmodified":1473878558,
+    "wof:lastmodified":1492512712,
     "wof:name":"Convair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

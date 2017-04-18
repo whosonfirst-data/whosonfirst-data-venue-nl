@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882139,52.380489,4.882139,52.380489",
     "geom:latitude":52.380489,
     "geom:longitude":4.882139,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804285,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_2FHabmpuwnGbjobTzPrWuO_52.380489_4.882139@1306269951"
     },
     "wof:country":"NL",
-    "wof:geomhash":"baa229bc48632dbac058298fb1f5492c",
+    "wof:geomhash":"b0450504c071fd0ad942dec77f3fe0d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804285,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":253603235
         }
     ],
     "wof:id":253603235,
-    "wof:lastmodified":1473879685,
+    "wof:lastmodified":1492490754,
     "wof:name":"Calendula Goldblooms",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

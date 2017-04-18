@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.79147,52.384064,4.79147,52.384064",
     "geom:latitude":52.384064,
     "geom:longitude":4.79147,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797579,
+        1108804063,
+        1108802801,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_327ULVAmRc5Q8pKjP5DKJR_52.384064_4.791470@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f3809af98ed066e0430071899178bd9d",
+    "wof:geomhash":"551806c90dbc0925ae4f427642dcf3bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797579,
+            "microhood_id":1108804063,
+            "neighbourhood_id":1108802801,
             "region_id":85687053,
             "venue_id":320113527
         }
     ],
     "wof:id":320113527,
-    "wof:lastmodified":1473878838,
+    "wof:lastmodified":1492483846,
     "wof:name":"Traction Avant",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108804063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

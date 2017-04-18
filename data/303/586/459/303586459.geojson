@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.894316,52.372692,4.894316,52.372692",
     "geom:latitude":52.372692,
     "geom:longitude":4.894316,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803787,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6Pwn0HTKFWNAOzlXVjxRcB_52.372692_4.894316@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0c5119db990ef39c4a713f012ca700bb",
+    "wof:geomhash":"52256a27f57ec30f96a94e980c2eece6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803787,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":303586459
         }
     ],
     "wof:id":303586459,
-    "wof:lastmodified":1473879299,
+    "wof:lastmodified":1492471169,
     "wof:name":"Rbs",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

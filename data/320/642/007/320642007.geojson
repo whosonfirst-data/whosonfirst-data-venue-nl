@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.62119,52.342491,5.62119,52.342491",
     "geom:latitude":52.342491,
     "geom:longitude":5.62119,
@@ -24,41 +25,45 @@
     "sg:province":"Gelderland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798397,
-        85633337,
-        101837779,
-        85687043,
         85798451,
-        101837769
+        102191581,
+        404473907,
+        85633337,
+        101837769,
+        85687043,
+        85798397,
+        101837779
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0u4g399RZS6onSxmsV7Bvg_52.342491_5.621190@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"570d3b2be6b07823fefa836684a7ed2a",
+    "wof:geomhash":"50db263ec98dd40bdd08c1be27ac235c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101837779,
-            "neighbourhood_id":85798397,
+            "localadmin_id":404473907,
+            "locality_id":101837769,
+            "neighbourhood_id":85798451,
             "region_id":85687043,
             "venue_id":320642007
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101837769,
-            "neighbourhood_id":85798451,
+            "localadmin_id":404473907,
+            "locality_id":101837779,
+            "neighbourhood_id":85798397,
             "region_id":85687043,
             "venue_id":320642007
         }
     ],
     "wof:id":320642007,
-    "wof:lastmodified":1473879481,
+    "wof:lastmodified":1492484959,
     "wof:name":"Cultureel Centrum Harderwijk",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

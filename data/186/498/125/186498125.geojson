@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.117352,52.065109,5.117352,52.065109",
     "geom:latitude":52.065109,
     "geom:longitude":5.117352,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797727,
+        1108808825,
+        102191581,
+        1108808645,
         85633337,
         101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_067DUqOjGqR6zIqFSfchoh_52.065109_5.117352@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"65c346d7bf71cf93eed9dcbaf30cf4ca",
+    "wof:geomhash":"f79c2b8c1288e23ff92b39d418d3a4a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797727,
+            "macrohood_id":1108808645,
+            "neighbourhood_id":1108808825,
             "region_id":85687039,
             "venue_id":186498125
         }
     ],
     "wof:id":186498125,
-    "wof:lastmodified":1473879528,
+    "wof:lastmodified":1492508060,
     "wof:name":"Scout Shop",
-    "wof:parent_id":85797727,
+    "wof:parent_id":1108808825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

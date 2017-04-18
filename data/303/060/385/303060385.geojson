@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8316,52.36517,4.8316,52.36517",
     "geom:latitude":52.36517,
     "geom:longitude":4.8316,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803489,
+        85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5pSzPWmzwh4qeb4p3q8ehL_52.365170_4.831600@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"989726c8bb841bde7eaa19eef938238a",
+    "wof:geomhash":"db816bc59b0d2f06ee4d8e35a543b73c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803489,
+            "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":303060385
         }
     ],
     "wof:id":303060385,
-    "wof:lastmodified":1473878546,
+    "wof:lastmodified":1492472986,
     "wof:name":"Mulha Bv",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

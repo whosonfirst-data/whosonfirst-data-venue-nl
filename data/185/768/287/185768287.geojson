@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.950746,52.394127,4.950746,52.394127",
     "geom:latitude":52.394127,
     "geom:longitude":4.950746,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108803543,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0on0Hayh5yru6jeY6Wuycl_52.394127_4.950746@1306269907"
     },
     "wof:country":"NL",
-    "wof:geomhash":"553e9801806f5e71a9c86dfdd1e8d453",
+    "wof:geomhash":"4464a944f5daed06c8a7e6d1148eba80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803543,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":185768287
         }
     ],
     "wof:id":185768287,
-    "wof:lastmodified":1473878713,
+    "wof:lastmodified":1492487928,
     "wof:name":"Master",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803543,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

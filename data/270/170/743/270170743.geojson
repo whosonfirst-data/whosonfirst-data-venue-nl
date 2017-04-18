@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.119424,52.066948,5.119424,52.066948",
     "geom:latitude":52.066948,
     "geom:longitude":5.119424,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797727,
+        1108808823,
+        102191581,
+        1108808645,
         85633337,
         101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2hdAZ2levKkkTHHY5yp37V_52.066948_5.119424@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7ab920298a03f8e33432ef2bfcaad2d1",
+    "wof:geomhash":"160cd9d02c18f6ad9e151b1fdbf603d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797727,
+            "macrohood_id":1108808645,
+            "neighbourhood_id":1108808823,
             "region_id":85687039,
             "venue_id":270170743
         }
     ],
     "wof:id":270170743,
-    "wof:lastmodified":1473878767,
+    "wof:lastmodified":1492499555,
     "wof:name":"Hans Roggen",
-    "wof:parent_id":85797727,
+    "wof:parent_id":1108808823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

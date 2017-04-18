@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876518,52.354706,4.876518,52.354706",
     "geom:latitude":52.354706,
     "geom:longitude":4.876518,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803547,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5swaVYkO1sYSbJfP6nWBNa_52.354706_4.876518@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cd1e4b04ba2cdeab94aa8f10a72505ab",
+    "wof:geomhash":"4dc97a5750cd4e2ce8c27171f4f182f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803547,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":186537049
         }
     ],
     "wof:id":186537049,
-    "wof:lastmodified":1473879588,
+    "wof:lastmodified":1492509246,
     "wof:name":"Vrienden Concertgebouw",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

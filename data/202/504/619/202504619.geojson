@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.492823,51.935688,4.492823,51.935688",
     "geom:latitude":51.935688,
     "geom:longitude":4.492823,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859861,
+        1108805825,
+        102191581,
+        1108805657,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_63xjnAWGfe6105BeteMGxI_51.935688_4.492823@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4eff64e035a2e71e304b44a833f51fd9",
+    "wof:geomhash":"d2b1d910b62fd832882c699f47d5154a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859861,
+            "macrohood_id":1108805657,
+            "neighbourhood_id":1108805825,
             "region_id":85687041,
             "venue_id":202504619
         }
     ],
     "wof:id":202504619,
-    "wof:lastmodified":1473878812,
+    "wof:lastmodified":1492498399,
     "wof:name":"C.P. Van Beek-Schrijvers",
-    "wof:parent_id":85859861,
+    "wof:parent_id":1108805825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

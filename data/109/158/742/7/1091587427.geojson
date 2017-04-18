@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9109277725,51.9833106995,5.9109277725,51.9833106995",
     "geom:latitude":51.983311,
     "geom:longitude":5.910928,
@@ -24,13 +25,13 @@
     "sg:province":"Gelderland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        85797665,
-        85687043,
         85797057,
         102191581,
         404473871,
-        101751857
+        85633337,
+        101751857,
+        85687043,
+        85797665
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,8 @@
     },
     "wof:country":"NL",
     "wof:created":1473801772,
-    "wof:geomhash":"de51d62b50c473da25695caa17a6084d",
+    "wof:geomhash":"182ce3ec1dafebeda8b0cd14ef4b9a96",
     "wof:hierarchy":[
-        {
-            "country_id":85633337,
-            "neighbourhood_id":85797665,
-            "region_id":85687043,
-            "venue_id":1091587427
-        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -54,12 +49,18 @@
             "neighbourhood_id":85797057,
             "region_id":85687043,
             "venue_id":1091587427
+        },
+        {
+            "country_id":85633337,
+            "neighbourhood_id":85797665,
+            "region_id":85687043,
+            "venue_id":1091587427
         }
     ],
     "wof:id":1091587427,
-    "wof:lastmodified":1473878912,
+    "wof:lastmodified":1492511850,
     "wof:name":"Timing Uitzendteam Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

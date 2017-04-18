@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2436499596,51.8075942993,5.2436499596,51.8075942993",
     "geom:latitude":51.807594,
     "geom:longitude":5.24365,
@@ -32,17 +33,32 @@
         "bewaring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473955,
+        85633337,
+        101809859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BSy2TWmuU9fhOEt5thuXP_51.807594_5.243650@1306270008"
     },
     "wof:country":"NL",
     "wof:created":1473798862,
-    "wof:geomhash":"0f65294b42699036ec7083fcf57cc72c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ac95d4129cfbd7e5a122ee47d0296d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473955,
+            "locality_id":101809859,
+            "region_id":85687043,
+            "venue_id":1075814203
+        }
+    ],
     "wof:id":1075814203,
-    "wof:lastmodified":1473878952,
+    "wof:lastmodified":1492486246,
     "wof:name":"Mar Monumenten Archieven & Red",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0508527756,51.3623962402,6.0508527756,51.3623962402",
     "geom:latitude":51.362396,
     "geom:longitude":6.050853,
@@ -24,17 +25,32 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.screwtech.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474493,
+        85633337,
+        101809501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xt4DKVjCPcRzJtKxlogMF_51.362396_6.050853@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800786,
-    "wof:geomhash":"b66f3a9de74f9b34a4fa8a54f64f0901",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e94be68ee171733f1d4d5f14ff49b80c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474493,
+            "locality_id":101809501,
+            "region_id":85687033,
+            "venue_id":1091574899
+        }
+    ],
     "wof:id":1091574899,
-    "wof:lastmodified":1473878832,
+    "wof:lastmodified":1492511239,
     "wof:name":"Screwtech.Nl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

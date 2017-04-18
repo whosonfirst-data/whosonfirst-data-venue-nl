@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4135341644,51.8262634277,4.4135341644,51.8262634277",
     "geom:latitude":51.826263,
     "geom:longitude":4.413534,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474231,
         85633337,
-        85798725,
-        85687041
+        101754705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473798745,
-    "wof:geomhash":"ce26f39cbd9f35bb91e2c9f07864d801",
+    "wof:geomhash":"ee28224c7897f0a9c41645cbede5fe00",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798725,
+            "localadmin_id":404474231,
+            "locality_id":101754705,
             "region_id":85687041,
             "venue_id":1075811693
         }
     ],
     "wof:id":1075811693,
-    "wof:lastmodified":1473878822,
+    "wof:lastmodified":1492486207,
     "wof:name":"J C H Robbertsen",
-    "wof:parent_id":85798725,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

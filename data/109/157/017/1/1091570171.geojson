@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1564860344,52.0822715759,5.1564860344,52.0822715759",
     "geom:latitude":52.082272,
     "geom:longitude":5.156486,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808849,
+        102191581,
         85633337,
-        85797403,
+        101751827,
+        1108808669,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473800483,
-    "wof:geomhash":"3fe563c0f9a0199b60179f15db55101d",
+    "wof:geomhash":"3032f5a2a82eed6acde6636dfbe9926e",
     "wof:hierarchy":[
         {
+            "borough_id":1108808669,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797403,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808849,
             "region_id":85687039,
             "venue_id":1091570171
         }
     ],
     "wof:id":1091570171,
-    "wof:lastmodified":1473878487,
+    "wof:lastmodified":1492511094,
     "wof:name":"Kano- En Roeibootverhuur De Rijnstroom",
-    "wof:parent_id":85797403,
+    "wof:parent_id":1108808849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

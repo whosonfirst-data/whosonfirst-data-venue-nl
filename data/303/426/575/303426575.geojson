@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.845302,52.368816,4.845302,52.368816",
     "geom:latitude":52.368816,
     "geom:longitude":4.845302,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803545,
         85798223,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_76S2WtroqYhojVnJKneKKV_52.368816_4.845302@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4b8a9cd47b72484cd3bcbe293d04ea21",
+    "wof:geomhash":"09456564f43d6cca62c08701d8e01fd1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803545,
             "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":303426575
         }
     ],
     "wof:id":303426575,
-    "wof:lastmodified":1473879156,
+    "wof:lastmodified":1492474828,
     "wof:name":"Schooltuinen",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

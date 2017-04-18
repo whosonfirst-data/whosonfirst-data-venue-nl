@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.896263,52.364468,4.896263,52.364468",
     "geom:latitude":52.364468,
     "geom:longitude":4.896263,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803805,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_3wlZ88zbIGrVwME6IwpY0F_52.364468_4.896263@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"239edb6093f37118133c2d48f137b841",
+    "wof:geomhash":"e8b90e14bbd77cdcc39f895715a6b336",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803805,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":304068319
         }
     ],
     "wof:id":304068319,
-    "wof:lastmodified":1473878767,
+    "wof:lastmodified":1492504559,
     "wof:name":"Hotel De La Poste",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.82251,52.357929,4.82251,52.357929",
     "geom:latitude":52.357929,
     "geom:longitude":4.82251,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803877,
+        85798403,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4DPqux3gZEayMzyhvVJfLn_52.357929_4.822510@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bce5961d9395a92f80adc41ee0d5d99f",
+    "wof:geomhash":"bb4ba0596c4e6a35e32d4c5448d63d61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803877,
+            "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":185874477
         }
     ],
     "wof:id":185874477,
-    "wof:lastmodified":1473878822,
+    "wof:lastmodified":1492487777,
     "wof:name":"Mameren, Van",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

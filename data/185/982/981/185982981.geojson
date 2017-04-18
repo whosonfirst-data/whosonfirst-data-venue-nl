@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.862184,52.360878,4.862184,52.360878",
     "geom:latitude":52.360878,
     "geom:longitude":4.862184,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803855,
+        1108802893,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3AH980WEKQad2lMzUqiESu_52.360878_4.862184@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7a42b645f16ef60618d13f1fb44f80b5",
+    "wof:geomhash":"11cd0808ec224024708cf5ace963b1f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803855,
+            "neighbourhood_id":1108802893,
             "region_id":85687053,
             "venue_id":185982981
         }
     ],
     "wof:id":185982981,
-    "wof:lastmodified":1473878981,
+    "wof:lastmodified":1492488129,
     "wof:name":"Rozenbottel",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

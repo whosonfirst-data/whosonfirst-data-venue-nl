@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.273967,52.050854,4.273967,52.050854",
     "geom:latitude":52.050854,
     "geom:longitude":4.273967,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798043,
+        1108808293,
+        102191581,
+        1108805973,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7RyO1WVvqnNvZbWWh6rDdz_52.050854_4.273967@1306269992"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e13f1bf96b60a012bc5c3898d1c1fb87",
+    "wof:geomhash":"506f79b89151cc50f0782dbdd0df541a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798043,
+            "macrohood_id":1108805973,
+            "neighbourhood_id":1108808293,
             "region_id":85687041,
             "venue_id":319950977
         }
     ],
     "wof:id":319950977,
-    "wof:lastmodified":1473878954,
+    "wof:lastmodified":1492479548,
     "wof:name":"Valkenberg",
-    "wof:parent_id":85798043,
+    "wof:parent_id":1108808293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

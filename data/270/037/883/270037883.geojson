@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.850529,52.354427,4.850529,52.354427",
     "geom:latitude":52.354427,
     "geom:longitude":4.850529,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.bodyworks.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803385,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3XxNNDWWDW9GunauY6tOmL_52.354427_4.850529@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"019b522e5b61d7938ac4b50f8b62c802",
+    "wof:geomhash":"351503eb2e13c9f9a549cda1017e81a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803385,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":270037883
         }
     ],
     "wof:id":270037883,
-    "wof:lastmodified":1473878502,
+    "wof:lastmodified":1492501288,
     "wof:name":"Body Works",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

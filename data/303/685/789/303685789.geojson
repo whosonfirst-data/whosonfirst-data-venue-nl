@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885445,52.352467,4.885445,52.352467",
     "geom:latitude":52.352467,
     "geom:longitude":4.885445,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803715,
+        1108802797,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_23cobnC6Oqu7eh2Y6eTpRk_52.352467_4.885445@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bc6ac1e5e4c756255bf84c0c34fc74fb",
+    "wof:geomhash":"e45b9adc4288877daaa5f1590ac48a99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803715,
+            "neighbourhood_id":1108802797,
             "region_id":85687053,
             "venue_id":303685789
         }
     ],
     "wof:id":303685789,
-    "wof:lastmodified":1473879453,
+    "wof:lastmodified":1492470981,
     "wof:name":"De Hoogmoed",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

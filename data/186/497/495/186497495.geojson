@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884165,52.355881,4.884165,52.355881",
     "geom:latitude":52.355881,
     "geom:longitude":4.884165,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804003,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4PQCMNHMGy10APlbLyp90g_52.355881_4.884165@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f2a622de09a1597593ba463f7b2578b0",
+    "wof:geomhash":"b33ecb442522b8caf1de6c33e1f550e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804003,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":186497495
         }
     ],
     "wof:id":186497495,
-    "wof:lastmodified":1473879529,
+    "wof:lastmodified":1492507395,
     "wof:name":"Schouwburg En Concertgebouwdirecties, Ver",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804003,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

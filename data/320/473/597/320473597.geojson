@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88882,52.365025,4.88882,52.365025",
     "geom:latitude":52.365025,
     "geom:longitude":4.88882,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803665,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0Oe78zIJW6z9TgW9vXzzji_52.365025_4.888820@1306269998"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7197f90c180c5b16bb27d7ac227943fd",
+    "wof:geomhash":"823da83fa99baeeea62e0e753b08d11c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803665,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":320473597
         }
     ],
     "wof:id":320473597,
-    "wof:lastmodified":1473879329,
+    "wof:lastmodified":1492482843,
     "wof:name":"Dakota",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0098671913,52.1035346985,5.0098671913,52.1035346985",
     "geom:latitude":52.103535,
     "geom:longitude":5.009867,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808899,
+        102191581,
         85633337,
-        85797969,
+        101751827,
+        1108808673,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473799471,
-    "wof:geomhash":"872542b37f1ca78583bcc61cd7e2aa2a",
+    "wof:geomhash":"ef878743f3d5cec9bbe3619e3ed416c2",
     "wof:hierarchy":[
         {
+            "borough_id":1108808673,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797969,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808899,
             "region_id":85687039,
             "venue_id":1075824469
         }
     ],
     "wof:id":1075824469,
-    "wof:lastmodified":1473879358,
+    "wof:lastmodified":1492487051,
     "wof:name":"Raadgever, P",
-    "wof:parent_id":85797969,
+    "wof:parent_id":1108808899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

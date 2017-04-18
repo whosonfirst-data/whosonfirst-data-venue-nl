@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.840348,52.387581,4.840348,52.387581",
     "geom:latitude":52.387581,
     "geom:longitude":4.840348,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.paradisegettaways.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803625,
+        1108802535,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_53KyRG1j1U0yLn4Zkh1V21_52.387581_4.840348@1306269985"
     },
     "wof:country":"NL",
-    "wof:geomhash":"613005ad88a40ff00328e963f8900814",
+    "wof:geomhash":"0e7063649a76235e345f680587527736",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803625,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":303540063
         }
     ],
     "wof:id":303540063,
-    "wof:lastmodified":1473879288,
+    "wof:lastmodified":1492471381,
     "wof:name":"Paradise",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4031410217,51.512550354,5.4031410217,51.512550354",
     "geom:latitude":51.51255,
     "geom:longitude":5.403141,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.fusion.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474353,
+        85633337,
+        101754563
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RzXbKf1VaTaBaRtvQxrMr_51.512550_5.403141@1306270014"
     },
     "wof:country":"NL",
     "wof:created":1473801998,
-    "wof:geomhash":"413543db96fc7414c47f6c3cbf0e48c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25333c9090d50a15f64ab66427fa787c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474353,
+            "locality_id":101754563,
+            "region_id":85687035,
+            "venue_id":1091591005
+        }
+    ],
     "wof:id":1091591005,
-    "wof:lastmodified":1473878525,
+    "wof:lastmodified":1492509559,
     "wof:name":"Fusion Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

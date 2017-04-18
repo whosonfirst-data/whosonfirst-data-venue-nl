@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4460129738,52.1367988586,5.4460129738,52.1367988586",
     "geom:latitude":52.136799,
     "geom:longitude":5.446013,
@@ -32,17 +33,32 @@
         "restaurant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473989,
+        85633337,
+        101837659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7g8ZMhb4OCM3jPb3gsJk5y_52.136799_5.446013@1306269957"
     },
     "wof:country":"NL",
     "wof:created":1473798652,
-    "wof:geomhash":"781ef975735167d31345641a3d6855d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1241e2459cb4b3a59ec77700c6831296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473989,
+            "locality_id":101837659,
+            "region_id":85687039,
+            "venue_id":1075809891
+        }
+    ],
     "wof:id":1075809891,
-    "wof:lastmodified":1473878725,
+    "wof:lastmodified":1492485976,
     "wof:name":"V.N. Tran",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

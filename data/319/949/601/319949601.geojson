@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.840124,52.378273,4.840124,52.378273",
     "geom:latitude":52.378273,
     "geom:longitude":4.840124,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108804271,
+        1108802783,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_75bdgGWEQoRwGdS4OKENdO_52.378273_4.840124@1306269992"
     },
     "wof:country":"NL",
-    "wof:geomhash":"59f91c6887b7d4475ff13e35fed8cdd5",
+    "wof:geomhash":"d1417c7944e1c6f99e1a082b44ed8248",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802299,
+            "microhood_id":1108804271,
+            "neighbourhood_id":1108802783,
             "region_id":85687053,
             "venue_id":319949601
         }
     ],
     "wof:id":319949601,
-    "wof:lastmodified":1473878956,
+    "wof:lastmodified":1492479161,
     "wof:name":"Polectro Bv",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108804271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

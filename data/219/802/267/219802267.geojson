@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.129436,52.066284,5.129436,52.066284",
     "geom:latitude":52.066284,
     "geom:longitude":5.129436,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859943,
+        1108808795,
+        102191581,
+        1108832363,
         85633337,
+        101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_7BnNm8kYY6nHaLalKa13hL_52.066284_5.129436@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d4d36f3fad2916dab0c5b08e0746546a",
+    "wof:geomhash":"10a3620276fb89e831e13a2aa44d1504",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859943,
+            "locality_id":101751827,
+            "macrohood_id":1108832363,
+            "neighbourhood_id":1108808795,
             "region_id":85687039,
             "venue_id":219802267
         }
     ],
     "wof:id":219802267,
-    "wof:lastmodified":1473879724,
+    "wof:lastmodified":1492503913,
     "wof:name":"Gogh, Van",
-    "wof:parent_id":85859943,
+    "wof:parent_id":1108808795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

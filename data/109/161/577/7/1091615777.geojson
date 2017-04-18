@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3057799339,51.5038604736,5.3057799339,51.5038604736",
     "geom:latitude":51.50386,
     "geom:longitude":5.30578,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.verbeek-office.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474407,
+        85633337,
+        101809741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uT6UXtxEiASUO9P7Kalgg_51.503860_5.305780@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803712,
-    "wof:geomhash":"253dca0e49036f2bbcf2c934e66b2efe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28b7314bd0a1c691d2386798ced0de65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474407,
+            "locality_id":101809741,
+            "region_id":85687035,
+            "venue_id":1091615777
+        }
+    ],
     "wof:id":1091615777,
-    "wof:lastmodified":1473878808,
+    "wof:lastmodified":1492510487,
     "wof:name":"Verbeek Kantoorinrichtingen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

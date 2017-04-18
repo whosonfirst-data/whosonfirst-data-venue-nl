@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.989886,52.29908,4.989886,52.29908",
     "geom:latitude":52.29908,
     "geom:longitude":4.989886,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803973,
+        1108802809,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4xfs2mhh0zy8OUiBz2xxhO_52.299080_4.989886@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cffd3ba5bd7260b6ed01eb43e04ea70b",
+    "wof:geomhash":"754e33c5a5d906d72958aa32b7023ce9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803973,
+            "neighbourhood_id":1108802809,
             "region_id":85687053,
             "venue_id":286698521
         }
     ],
     "wof:id":286698521,
-    "wof:lastmodified":1473879427,
+    "wof:lastmodified":1492475046,
     "wof:name":"Praetorian",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

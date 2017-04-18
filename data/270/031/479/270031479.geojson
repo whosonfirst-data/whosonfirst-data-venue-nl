@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.072829,52.117367,5.072829,52.117367",
     "geom:latitude":52.117367,
     "geom:longitude":5.072829,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.benima.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808933,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_5DBaaiLfdf2WquN6rCSoRv_52.117367_5.072829@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"211594c786aa4b83318c99749ef46b48",
+    "wof:geomhash":"47a01de4a894f0266e9b36329b025691",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808933,
             "region_id":85687039,
             "venue_id":270031479
         }
     ],
     "wof:id":270031479,
-    "wof:lastmodified":1473878507,
+    "wof:lastmodified":1492500436,
     "wof:name":"Benima",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808933,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

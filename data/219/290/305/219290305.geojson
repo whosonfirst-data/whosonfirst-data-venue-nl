@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.468683,51.91637,4.468683,51.91637",
     "geom:latitude":51.91637,
     "geom:longitude":4.468683,
@@ -25,39 +26,33 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859807,
+        102191581,
         85633337,
         101751843,
-        85687041,
-        85859799
+        1108804841,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0koDB3BxMlG1LOok81zNMd_51.916370_4.468683@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5dff6fdd66d6955f02e8a351856206de",
+    "wof:geomhash":"0bb3cc26f4f9053450860a5d914fd71b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108804841,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
             "neighbourhood_id":85859807,
             "region_id":85687041,
             "venue_id":219290305
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751843,
-            "neighbourhood_id":85859799,
-            "region_id":85687041,
-            "venue_id":219290305
         }
     ],
     "wof:id":219290305,
-    "wof:lastmodified":1473878835,
+    "wof:lastmodified":1492502264,
     "wof:name":"Clb Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879091,52.359951,4.879091,52.359951",
     "geom:latitude":52.359951,
     "geom:longitude":4.879091,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803565,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4BbmiJR4aAtWPtLPy4f2qE_52.359951_4.879091@1306269988"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9c38e22ae61bc613dec4a98e5f8224b4",
+    "wof:geomhash":"09b4009e1f0f178a780a68833beb3f9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803565,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":303890165
         }
     ],
     "wof:id":303890165,
-    "wof:lastmodified":1473879645,
+    "wof:lastmodified":1492472117,
     "wof:name":"Hugo Boss",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

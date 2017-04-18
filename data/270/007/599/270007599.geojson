@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.858039,52.341007,4.858039,52.341007",
     "geom:latitude":52.341007,
     "geom:longitude":4.858039,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803857,
+        1108802919,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6Zp2YdN4ibqCvSLvMkRz2r_52.341007_4.858039@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"59c89eb261b458371e15f7ab49759981",
+    "wof:geomhash":"6946d38ea268edfd808d910702ca30ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803857,
+            "neighbourhood_id":1108802919,
             "region_id":85687053,
             "venue_id":270007599
         }
     ],
     "wof:id":270007599,
-    "wof:lastmodified":1473878495,
+    "wof:lastmodified":1492499424,
     "wof:name":"Marlingford Bv",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803857,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

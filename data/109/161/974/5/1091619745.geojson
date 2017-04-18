@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5663380623,51.9580612183,5.5663380623,51.9580612183",
     "geom:latitude":51.958061,
     "geom:longitude":5.566338,
@@ -24,17 +25,32 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.belucky.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474003,
+        85633337,
+        101809835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3V7w8hYzjGjLPoXMu5sBnU_51.958061_5.566338@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803900,
-    "wof:geomhash":"30c394fdd118995c993f52d360ed4e1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d97a3290fb9715ea31574f8d5563316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474003,
+            "locality_id":101809835,
+            "region_id":85687039,
+            "venue_id":1091619745
+        }
+    ],
     "wof:id":1091619745,
-    "wof:lastmodified":1473879055,
+    "wof:lastmodified":1492510385,
     "wof:name":"Be Lucky",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

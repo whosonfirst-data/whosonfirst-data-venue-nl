@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.868711,52.345043,4.868711,52.345043",
     "geom:latitude":52.345043,
     "geom:longitude":4.868711,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803617,
+        1108802527,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5yJaDtXTkrUBRF4uxAUXjK_52.345043_4.868711@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"edd08713f36076af379f16881683313d",
+    "wof:geomhash":"7fb97174c5b5b85d2dbbd3a4de4f8bb7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108803617,
+            "neighbourhood_id":1108802527,
             "region_id":85687053,
             "venue_id":303675677
         }
     ],
     "wof:id":303675677,
-    "wof:lastmodified":1473879428,
+    "wof:lastmodified":1492471259,
     "wof:name":"A.P.M.J. V.D. Ven",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803617,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

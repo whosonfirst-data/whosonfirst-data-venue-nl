@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6481280327,51.9770736694,5.6481280327,51.9770736694",
     "geom:latitude":51.977074,
     "geom:longitude":5.648128,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.weer.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473947,
+        85633337,
+        101837813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kPHP7OwNONM3gC1OgvtRt_51.977074_5.648128@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473800906,
-    "wof:geomhash":"9a993078a138f4d7e08365be676e19f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76ae3ed79d3cf5c54ffdd1379e3e5009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473947,
+            "locality_id":101837813,
+            "region_id":85687043,
+            "venue_id":1091577147
+        }
+    ],
     "wof:id":1091577147,
-    "wof:lastmodified":1473878970,
+    "wof:lastmodified":1492511422,
     "wof:name":"Meteo Consult Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

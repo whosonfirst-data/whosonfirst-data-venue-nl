@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.551886,51.962345,4.551886,51.962345",
     "geom:latitude":51.962345,
     "geom:longitude":4.551886,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dEVUoF6oCjK8BgDiD5dZC_51.962345_4.551886@1306269987"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2628147f1f8270b88cf32c4f7d3442ab",
+    "wof:geomhash":"2476ecedfccb84b763f0fe8151ac4e56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":303732827
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798149,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":303732827,
-    "wof:lastmodified":1473879487,
+    "wof:lastmodified":1492474349,
     "wof:name":"Drogisterij De Lis",
     "wof:parent_id":85798149,
     "wof:placetype":"venue",

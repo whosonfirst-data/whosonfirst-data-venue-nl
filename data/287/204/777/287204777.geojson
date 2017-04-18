@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.502127,51.927322,4.502127,51.927322",
     "geom:latitude":51.927322,
     "geom:longitude":4.502127,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805807,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_20lYb6vAMoJozV5SyautxY_51.927322_4.502127@1306269978"
     },
     "wof:country":"NL",
-    "wof:geomhash":"85406ad8f0e21f1a42305554ebe62daa",
+    "wof:geomhash":"6f9dadc075360bb2c381a446c97cf830",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805807,
             "region_id":85687041,
             "venue_id":287204777
         }
     ],
     "wof:id":287204777,
-    "wof:lastmodified":1473878989,
+    "wof:lastmodified":1492513407,
     "wof:name":"Intershop",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

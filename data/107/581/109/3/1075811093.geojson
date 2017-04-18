@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.686727047,51.4721488953,5.686727047,51.4721488953",
     "geom:latitude":51.472149,
     "geom:longitude":5.686727,
@@ -33,17 +34,32 @@
         "-machines"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474389,
+        85633337,
+        101751805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6J6VylhQq00EwQ1HIxlHWF_51.472149_5.686727@1306269973"
     },
     "wof:country":"NL",
     "wof:created":1473798715,
-    "wof:geomhash":"46902933be553925be718b80924629f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8af12fc9759934ddd612647b886cd1ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474389,
+            "locality_id":101751805,
+            "region_id":85687035,
+            "venue_id":1075811093
+        }
+    ],
     "wof:id":1075811093,
-    "wof:lastmodified":1473878783,
+    "wof:lastmodified":1492486536,
     "wof:name":"Grafische Afwerking Eindhoven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0609560013,51.6719932556,5.0609560013,51.6719932556",
     "geom:latitude":51.671993,
     "geom:longitude":5.060956,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.trennisict.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474451,
+        85633337,
+        101839421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PldaLPoeI9tplpgpxlQ8r_51.671993_5.060956@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800825,
-    "wof:geomhash":"cc0147b156a538c548765788ac7e703f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2103c6317c706726354c5d80877308e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474451,
+            "locality_id":101839421,
+            "region_id":85687035,
+            "venue_id":1091575475
+        }
+    ],
     "wof:id":1091575475,
-    "wof:lastmodified":1473878874,
+    "wof:lastmodified":1492510977,
     "wof:name":"Trennis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

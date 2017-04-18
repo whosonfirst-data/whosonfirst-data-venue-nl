@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.495805,51.94318,4.495805,51.94318",
     "geom:latitude":51.94318,
     "geom:longitude":4.495805,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859871,
+        1108805825,
+        102191581,
+        1108805657,
         85633337,
-        101753095,
+        101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2xZkjLk6uHQ0FYxZLnqToz_51.943180_4.495805@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b3dcc9d6947429c4984f626e9d1d8839",
+    "wof:geomhash":"d78373eea622c13606caa97014b6670d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859871,
+            "locality_id":101751843,
+            "macrohood_id":1108805657,
+            "neighbourhood_id":1108805825,
             "region_id":85687041,
             "venue_id":269979243
         }
     ],
     "wof:id":269979243,
-    "wof:lastmodified":1473879597,
+    "wof:lastmodified":1492496459,
     "wof:name":"Video Schaay Bv",
-    "wof:parent_id":85859871,
+    "wof:parent_id":1108805825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

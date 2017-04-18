@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.847482,52.390289,4.847482,52.390289",
     "geom:latitude":52.390289,
     "geom:longitude":4.847482,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803313,
+        1108802535,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0E7eu1YpsUOAsQKm5R2Yfk_52.390289_4.847482@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2d1190896b9fcae6e3eda913ed4b56d8",
+    "wof:geomhash":"cf5f51682aa9079058a016afdcdd4e68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803313,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":186185983
         }
     ],
     "wof:id":186185983,
-    "wof:lastmodified":1473879077,
+    "wof:lastmodified":1492508171,
     "wof:name":"Ispa",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

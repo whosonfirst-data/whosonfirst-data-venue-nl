@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.093725,52.090755,5.093725,52.090755",
     "geom:latitude":52.090755,
     "geom:longitude":5.093725,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798153,
+        1108808791,
+        102191581,
+        1108808651,
         85633337,
+        101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6EKWdIok7dLQCEcU9OxndG_52.090755_5.093725@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c17c34caf6502db4429bae9b78c70bde",
+    "wof:geomhash":"fd14aa705a7fbd6ec7b51ed7284df6bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "macrohood_id":1108808651,
+            "neighbourhood_id":1108808791,
             "region_id":85687039,
             "venue_id":202793161
         }
     ],
     "wof:id":202793161,
-    "wof:lastmodified":1473879199,
+    "wof:lastmodified":1492498149,
     "wof:name":"Portanto Nederland",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

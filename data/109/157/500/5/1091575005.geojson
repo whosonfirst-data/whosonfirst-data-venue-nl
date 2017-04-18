@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9536299706,52.621635437,4.9536299706,52.621635437",
     "geom:latitude":52.621635,
     "geom:longitude":4.95363,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.site4us.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474551,
+        85633337,
+        101837897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xhtEgFQjhXLse6QBok7pA_52.621635_4.953630@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800792,
-    "wof:geomhash":"cc6f7d89b6516241103017387dad5e60",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62cccc02041348fc9fcd89e518217818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474551,
+            "locality_id":101837897,
+            "region_id":85687053,
+            "venue_id":1091575005
+        }
+    ],
     "wof:id":1091575005,
-    "wof:lastmodified":1473878841,
+    "wof:lastmodified":1492511389,
     "wof:name":"Site4Us",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

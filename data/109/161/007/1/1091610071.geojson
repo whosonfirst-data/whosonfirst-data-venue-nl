@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.496404171,51.9753189087,4.496404171,51.9753189087",
     "geom:latitude":51.975319,
     "geom:longitude":4.496404,
@@ -24,9 +25,11 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474555,
         85633337,
-        85797723,
-        85687041
+        101754617
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473803384,
-    "wof:geomhash":"fa5756a41baf035e70896eaa901a246c",
+    "wof:geomhash":"47a298b253740a64cc7be9de5fc3f38a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797723,
+            "localadmin_id":404474555,
+            "locality_id":101754617,
             "region_id":85687041,
             "venue_id":1091610071
         }
     ],
     "wof:id":1091610071,
-    "wof:lastmodified":1473878438,
+    "wof:lastmodified":1492510380,
     "wof:name":"U. Voet Benelux Vof",
-    "wof:parent_id":85797723,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

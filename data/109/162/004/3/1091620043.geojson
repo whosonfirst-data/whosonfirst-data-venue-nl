@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.547164917,51.6157913208,5.547164917,51.6157913208",
     "geom:latitude":51.615791,
     "geom:longitude":5.547165,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.berrys-haarmode.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474441,
+        85633337,
+        101808329
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CRpnCURjCO4NstAnk3krH_51.615791_5.547165@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803911,
-    "wof:geomhash":"06bc1e7580a516fcbcf02a0a234ded63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e24b7b4c4b7e5308cbb099c27a3f67f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474441,
+            "locality_id":101808329,
+            "region_id":85687035,
+            "venue_id":1091620043
+        }
+    ],
     "wof:id":1091620043,
-    "wof:lastmodified":1473878426,
+    "wof:lastmodified":1492512389,
     "wof:name":"Berry'S Haarmode",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

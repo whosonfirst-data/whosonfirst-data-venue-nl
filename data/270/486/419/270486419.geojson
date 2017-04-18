@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.323202,52.076828,4.323202,52.076828",
     "geom:latitude":52.076828,
     "geom:longitude":4.323202,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808255,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_3kx0FWgWpDn3ondTj4gDO6_52.076828_4.323202@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"04babe3a1f73f11624d6bc6c3210650b",
+    "wof:geomhash":"9d04d20b4dcd46ae482800e298f59683",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808255,
             "region_id":85687041,
             "venue_id":270486419
         }
     ],
     "wof:id":270486419,
-    "wof:lastmodified":1473879317,
+    "wof:lastmodified":1492500064,
     "wof:name":"Boskant",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

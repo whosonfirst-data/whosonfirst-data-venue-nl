@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88342,52.378605,4.88342,52.378605",
     "geom:latitude":52.378605,
     "geom:longitude":4.88342,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803955,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3osKdWAoMJ6OQ0lnYzEGsx_52.378605_4.883420@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b6f07788dab53d4c0c8082f8f707978d",
+    "wof:geomhash":"498e3f2705cc3c7b2528e36f0f3d87c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803955,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":287166445
         }
     ],
     "wof:id":287166445,
-    "wof:lastmodified":1473878927,
+    "wof:lastmodified":1492513150,
     "wof:name":"Westertje, 'T",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.277639,52.103123,4.277639,52.103123",
     "geom:latitude":52.103123,
     "geom:longitude":4.277639,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798455,
+        1108808167,
+        102191581,
+        1108833207,
         85633337,
         101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_4UhLq2hBHphT3cexaMNMHM_52.103123_4.277639@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bc9dcd477cfdd1e5e55450e97e85af53",
+    "wof:geomhash":"361e2bdf7e297172afb5ff0158333bb2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798455,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808167,
             "region_id":85687041,
             "venue_id":270096121
         }
     ],
     "wof:id":270096121,
-    "wof:lastmodified":1473878569,
+    "wof:lastmodified":1492501238,
     "wof:name":"Fotodijk Bv",
-    "wof:parent_id":85798455,
+    "wof:parent_id":1108808167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

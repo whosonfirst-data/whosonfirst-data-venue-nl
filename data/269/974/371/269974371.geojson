@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.887922,52.388561,4.887922,52.388561",
     "geom:latitude":52.388561,
     "geom:longitude":4.887922,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803869,
+        1108802911,
+        102191581,
         85633337,
+        101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_0DbSt1QQg424DKB06oKrCG_52.388561_4.887922@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ecd63dbcacd23508d0d1b045304d98f9",
+    "wof:geomhash":"925b583e6d68f5b648e3055995c9310e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803869,
+            "neighbourhood_id":1108802911,
             "region_id":85687053,
             "venue_id":269974371
         }
     ],
     "wof:id":269974371,
-    "wof:lastmodified":1473879580,
+    "wof:lastmodified":1492494937,
     "wof:name":"Rust-Prod",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803869,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

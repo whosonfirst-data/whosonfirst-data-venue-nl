@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.832818,52.373997,4.832818,52.373997",
     "geom:latitude":52.373997,
     "geom:longitude":4.832818,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108804125,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2U9zL6ZXkqg4IQgmX2MxUi_52.373997_4.832818@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"622ebe564d436d510cfb1ff66027ddf2",
+    "wof:geomhash":"35b5df30dbef3b3712cfea6cf74c6c78",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "macrohood_id":1108802303,
+            "microhood_id":1108804125,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":236801911
         }
     ],
     "wof:id":236801911,
-    "wof:lastmodified":1473879536,
+    "wof:lastmodified":1492493372,
     "wof:name":"Nebu",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108804125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

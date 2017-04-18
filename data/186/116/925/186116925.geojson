@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912599,52.360626,4.912599,52.360626",
     "geom:latitude":52.360626,
     "geom:longitude":4.912599,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803279,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7TcgARqKyc09tBfyDGdi6W_52.360626_4.912599@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9eeea987a0809bcd87f57587b42353d6",
+    "wof:geomhash":"bd467ffe7fa3b56d14bb3c8c9709677a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803279,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":186116925
         }
     ],
     "wof:id":186116925,
-    "wof:lastmodified":1473879000,
+    "wof:lastmodified":1492508648,
     "wof:name":"Li Xiao-Feng Art",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.847495,52.351086,4.847495,52.351086",
     "geom:latitude":52.351086,
     "geom:longitude":4.847495,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803459,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_21Nn69QwDXyBdfkh2vPY6k_52.351086_4.847495@1306269951"
     },
     "wof:country":"NL",
-    "wof:geomhash":"753f844ce880d00acf8c1e522a9a386e",
+    "wof:geomhash":"e037920e87fece0ee940cb7b52d8dd4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803459,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":253549729
         }
     ],
     "wof:id":253549729,
-    "wof:lastmodified":1473879679,
+    "wof:lastmodified":1492488906,
     "wof:name":"Heusden, G M Van",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

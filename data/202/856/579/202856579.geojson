@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879931,52.372086,4.879931,52.372086",
     "geom:latitude":52.372086,
     "geom:longitude":4.879931,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6WKJux0lD1I2xHXSlQjJnE_52.372086_4.879931@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a7ea50b2243b84bde6f592e8d25da75f",
+    "wof:geomhash":"d857a6f2386fe63f8af573942c98b21e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":202856579
         }
     ],
     "wof:id":202856579,
-    "wof:lastmodified":1473879363,
+    "wof:lastmodified":1492498519,
     "wof:name":"Wright, Annie",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

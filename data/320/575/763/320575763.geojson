@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.911955,52.406113,4.911955,52.406113",
     "geom:latitude":52.406113,
     "geom:longitude":4.911955,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803921,
+        1108802531,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_49PHBUNIiPs6R743gWkrLM_52.406113_4.911955@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c7403df3fa9e57d6e9e485131c4e8e3a",
+    "wof:geomhash":"91e45880a3fcafc2987ce6b0abcfb902",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803921,
+            "neighbourhood_id":1108802531,
             "region_id":85687053,
             "venue_id":320575763
         }
     ],
     "wof:id":320575763,
-    "wof:lastmodified":1473879435,
+    "wof:lastmodified":1492481939,
     "wof:name":"Uzun Market 2",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

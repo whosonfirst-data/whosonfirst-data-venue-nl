@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.494586,51.95657,4.494586,51.95657",
     "geom:latitude":51.95657,
     "geom:longitude":4.494586,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797707,
+        1108805791,
+        102191581,
+        1108805981,
         85633337,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1405QW0etAvC0KlBv4Hqvm_51.956570_4.494586@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5ed0bf98c6ce41716c2678214c15e4df",
+    "wof:geomhash":"00505fe43e8b679e22951b0a1b3cc3cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797707,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805791,
             "region_id":85687041,
             "venue_id":269850923
         }
     ],
     "wof:id":269850923,
-    "wof:lastmodified":1473879543,
+    "wof:lastmodified":1492495041,
     "wof:name":"Carte Nouvelle",
-    "wof:parent_id":85797707,
+    "wof:parent_id":1108805791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

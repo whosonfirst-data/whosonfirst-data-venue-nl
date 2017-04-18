@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.889637,52.410587,4.889637,52.410587",
     "geom:latitude":52.410587,
     "geom:longitude":4.889637,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803211,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_2rjImWBbYrOEh6IHlH05qs_52.410587_4.889637@1306269951"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6a400136b59c1c3d72cdeb66ec48bac2",
+    "wof:geomhash":"9da319a812265849345b27bda79dd4e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803211,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":253543813
         }
     ],
     "wof:id":253543813,
-    "wof:lastmodified":1473879689,
+    "wof:lastmodified":1492488927,
     "wof:name":"Bruin-Van De Bos, L De",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

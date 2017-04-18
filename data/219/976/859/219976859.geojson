@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.09779,52.072392,5.09779,52.072392",
     "geom:latitude":52.072392,
     "geom:longitude":5.09779,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797771,
+        1108808767,
+        102191581,
+        1108808647,
         85633337,
         101751827,
+        1108808679,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7kqYQw8w1iX3e4iMX1DOlO_52.072392_5.097790@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"544750cc9d3efea67b85fb4416b84d3b",
+    "wof:geomhash":"c277c3c0cae21f58494cca3cc58b6b63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808679,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797771,
+            "macrohood_id":1108808647,
+            "neighbourhood_id":1108808767,
             "region_id":85687039,
             "venue_id":219976859
         }
     ],
     "wof:id":219976859,
-    "wof:lastmodified":1473879738,
+    "wof:lastmodified":1492502903,
     "wof:name":"Bouwkundig Bur Utrecht Bv",
-    "wof:parent_id":85797771,
+    "wof:parent_id":1108808767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

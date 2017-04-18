@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2191910744,52.0234489441,4.2191910744,52.0234489441",
     "geom:latitude":52.023449,
     "geom:longitude":4.219191,
@@ -25,9 +26,11 @@
     "sg:website":"http://www.heuchemer.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
         85633337,
-        85859557,
-        85687041
+        101808471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +41,18 @@
     "wof:geomhash":"e45c16a820f15e9a3191b7b18e1d4eae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85859557,
+            "localadmin_id":404474667,
+            "locality_id":101808471,
             "region_id":85687041,
             "venue_id":1091598581
         }
     ],
     "wof:id":1091598581,
-    "wof:lastmodified":1473879000,
+    "wof:lastmodified":1491931078,
     "wof:name":"Heuchemer Wonen Bv",
-    "wof:parent_id":85859557,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

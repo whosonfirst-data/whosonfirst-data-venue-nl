@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884375,52.361111,4.884375,52.361111",
     "geom:latitude":52.361111,
     "geom:longitude":4.884375,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.gnpplus.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803565,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_5D6L4XNIMmavX9yJyLB9Ce_52.361111_4.884375@1306269993"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8d7215e6ca2fe8ea2e1d380904b8ec40",
+    "wof:geomhash":"a0ea0c28614c387f0d2cd5c1d61979c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803565,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":319999111
         }
     ],
     "wof:id":319999111,
-    "wof:lastmodified":1473879020,
+    "wof:lastmodified":1492479383,
     "wof:name":"Gnp+",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

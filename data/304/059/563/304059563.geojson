@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.903462,52.364452,4.903462,52.364452",
     "geom:latitude":52.364452,
     "geom:longitude":4.903462,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803643,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_4R5oO6SspfsO6gWF7Y2d6f_52.364452_4.903462@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b1c53691c63476487313e563dfc54424",
+    "wof:geomhash":"0ff4968403f008a03858a4dc2fb4e30d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803643,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":304059563
         }
     ],
     "wof:id":304059563,
-    "wof:lastmodified":1473878721,
+    "wof:lastmodified":1492504334,
     "wof:name":"Fantasia",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

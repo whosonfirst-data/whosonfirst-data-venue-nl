@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.890599,52.357479,4.890599,52.357479",
     "geom:latitude":52.357479,
     "geom:longitude":4.890599,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803911,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2IugxtgQ3vX9miPp6h2ZNs_52.357479_4.890599@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2dd4e2d3b83a4f3277d331026c47b8e1",
+    "wof:geomhash":"a07fdc4b2cd7e31e3bf0f0758ef2ecef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803911,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":236038633
         }
     ],
     "wof:id":236038633,
-    "wof:lastmodified":1473878597,
+    "wof:lastmodified":1492494387,
     "wof:name":"Cafe De Bol",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803911,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

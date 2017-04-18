@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.32246,52.105675,4.32246,52.105675",
     "geom:latitude":52.105675,
     "geom:longitude":4.32246,
@@ -24,40 +25,36 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797497,
+        85797487,
+        102191581,
+        1108805961,
         85633337,
         101752763,
-        85687041,
-        85797487
+        1108808045,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qQl7KPouMYcvR8Nrc91Bs_52.105675_4.322460@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"aa3881ecb3cb8e6ef38cb2685a98b2a5",
+    "wof:geomhash":"754f6f9b8ff2dbfa20ff05014910b95d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797497,
-            "region_id":85687041,
-            "venue_id":236420933
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":-1,
+            "macrohood_id":1108805961,
             "neighbourhood_id":85797487,
             "region_id":85687041,
             "venue_id":236420933
         }
     ],
     "wof:id":236420933,
-    "wof:lastmodified":1473879287,
+    "wof:lastmodified":1492491977,
     "wof:name":"The Cecilia Int Music School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797487,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

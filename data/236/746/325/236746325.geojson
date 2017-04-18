@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.857065,52.376915,4.857065,52.376915",
     "geom:latitude":52.376915,
     "geom:longitude":4.857065,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804207,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0hGgFUARUWO6UeBELkCO3r_52.376915_4.857065@1306269940"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a354926a3aac3cc1066ffdab63424c57",
+    "wof:geomhash":"bc45f95c01ee03f10fe4a25b789297d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108804207,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":236746325
         }
     ],
     "wof:id":236746325,
-    "wof:lastmodified":1473879520,
+    "wof:lastmodified":1492492250,
     "wof:name":"Anssems",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804207,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.903396,52.368568,4.903396,52.368568",
     "geom:latitude":52.368568,
     "geom:longitude":4.903396,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803467,
+        1108802875,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4o2podSHsgwZClVUHtSeDK_52.368568_4.903396@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9f9b81fd22ec109f415fd989a51fbfc9",
+    "wof:geomhash":"6fbbde140bacb46b1a0d82eada1debd5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803467,
+            "neighbourhood_id":1108802875,
             "region_id":85687053,
             "venue_id":270051703
         }
     ],
     "wof:id":270051703,
-    "wof:lastmodified":1473878503,
+    "wof:lastmodified":1492501358,
     "wof:name":"Garden, The",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

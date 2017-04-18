@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.0773010254,52.8593978882,7.0773010254,52.8593978882",
     "geom:latitude":52.859398,
     "geom:longitude":7.077301,
@@ -23,17 +24,32 @@
     "sg:postcode":"9561 PP",
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473739,
+        85633337,
+        101838031
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Y5RDlsDBLqzTelmbKNCeu_52.859398_7.077301@1306270010"
     },
     "wof:country":"NL",
     "wof:created":1473799582,
-    "wof:geomhash":"32105257e5463a480da5f654a3b49951",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8bdee284fa6b0792a2d8df040f7389d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473739,
+            "locality_id":101838031,
+            "region_id":85687059,
+            "venue_id":1075826537
+        }
+    ],
     "wof:id":1075826537,
-    "wof:lastmodified":1473879454,
+    "wof:lastmodified":1492486907,
     "wof:name":"Wolgen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

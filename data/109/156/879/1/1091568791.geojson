@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.2659339905,53.1501579285,6.2659339905,53.1501579285",
     "geom:latitude":53.150158,
     "geom:longitude":6.265934,
@@ -24,17 +25,32 @@
     "sg:province":"Groningen",
     "sg:website":"http://www.remon.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473727,
+        85633337,
+        101806203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ggdUZttoe0Zco2gx01xgl_53.150158_6.265934@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800386,
-    "wof:geomhash":"161f05121195df9c40478d0b75ce7692",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68e9ef5ec76124b4cfc5fdfe54b3be9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473727,
+            "locality_id":101806203,
+            "region_id":85687059,
+            "venue_id":1091568791
+        }
+    ],
     "wof:id":1091568791,
-    "wof:lastmodified":1473878522,
+    "wof:lastmodified":1492510862,
     "wof:name":"Remon Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.81168,52.347137,4.81168,52.347137",
     "geom:latitude":52.347137,
     "geom:longitude":4.81168,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803421,
+        1108802901,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0JXqFUNyYV8aAW3lyf409D_52.347137_4.811680@1306269930"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ac3bd5551902f3800b647b4c68d3e8e5",
+    "wof:geomhash":"55b7c4938e1dc12bbb69255e470acd24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803421,
+            "neighbourhood_id":1108802901,
             "region_id":85687053,
             "venue_id":219905549
         }
     ],
     "wof:id":219905549,
-    "wof:lastmodified":1473879725,
+    "wof:lastmodified":1492502908,
     "wof:name":"Pitchford",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.4659180641,51.9381446838,6.4659180641,51.9381446838",
     "geom:latitude":51.938145,
     "geom:longitude":6.465918,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.decoprojekt.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474543,
+        85633337,
+        101808737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OOowyrk0O7xkCF1NCtvsh_51.938145_6.465918@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802135,
-    "wof:geomhash":"04e6a9682046983d0961fb79f993474e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d95f67cf4ab30c48dd902cc62f13d589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474543,
+            "locality_id":101808737,
+            "region_id":85687043,
+            "venue_id":1091593635
+        }
+    ],
     "wof:id":1091593635,
-    "wof:lastmodified":1473878678,
+    "wof:lastmodified":1492509560,
     "wof:name":"Decoprojekt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

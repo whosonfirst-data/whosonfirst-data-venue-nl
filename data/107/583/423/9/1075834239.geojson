@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7185649872,52.2590141296,4.7185649872,52.2590141296",
     "geom:latitude":52.259014,
     "geom:longitude":4.718565,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.afa-aalsmeer.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474065,
+        85633337,
+        101754877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cB0SEoALhblZv5baeudtj_52.259014_4.718565@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800019,
-    "wof:geomhash":"a4f174a8f407035606d442a8146fe9b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"074b4f03f4d1ebe62ee1152234d6b7e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474065,
+            "locality_id":101754877,
+            "region_id":85687053,
+            "venue_id":1075834239
+        }
+    ],
     "wof:id":1075834239,
-    "wof:lastmodified":1473879381,
+    "wof:lastmodified":1492485600,
     "wof:name":"Apparatenfabriek Aalsmeer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880249,52.353905,4.880249,52.353905",
     "geom:latitude":52.353905,
     "geom:longitude":4.880249,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803547,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5Z1cKxReG4AohL9pxahRPO_52.353905_4.880249@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"93a75a235b20d8f5a87d2b8ec38a08c5",
+    "wof:geomhash":"ce5ce8db549384ec0b51fc36f40e6578",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803547,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":253496399
         }
     ],
     "wof:id":253496399,
-    "wof:lastmodified":1473879662,
+    "wof:lastmodified":1492489082,
     "wof:name":"Van Baerle International",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

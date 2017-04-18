@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9853420258,52.0064239502,4.9853420258,52.0064239502",
     "geom:latitude":52.006424,
     "geom:longitude":4.985342,
@@ -24,17 +25,32 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.surfive.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473993,
+        85633337,
+        101754597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cQTm1Mr2XX7QQi9uI6bro_52.006424_4.985342@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800815,
-    "wof:geomhash":"e9e2bf5748beb62c6173ace425fdcf7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0398b3c9f9530b7a212e24de2793b44e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473993,
+            "locality_id":101754597,
+            "region_id":85687039,
+            "venue_id":1091575265
+        }
+    ],
     "wof:id":1091575265,
-    "wof:lastmodified":1473878857,
+    "wof:lastmodified":1492511377,
     "wof:name":"Surfive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

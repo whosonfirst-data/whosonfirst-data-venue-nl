@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.896184,52.365105,4.896184,52.365105",
     "geom:latitude":52.365105,
     "geom:longitude":4.896184,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803223,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_0vuqEOwZHrkNQJFFOm3aCT_52.365105_4.896184@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b4478617a1d818adb978185eb487ceae",
+    "wof:geomhash":"9902c1931f254834c6350a8095da7647",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803223,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":304043315
         }
     ],
     "wof:id":304043315,
-    "wof:lastmodified":1473878704,
+    "wof:lastmodified":1492504681,
     "wof:name":"Admiraal, De",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

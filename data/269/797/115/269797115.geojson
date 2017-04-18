@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.909308,52.334854,4.909308,52.334854",
     "geom:latitude":52.334854,
     "geom:longitude":4.909308,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803587,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_2xRZEWNWQnEoy0EUZ6zXIE_52.334854_4.909308@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ef56dd7ab9291398bdaa3af130003dd1",
+    "wof:geomhash":"909049f0f7f84aed24297d186471cfc9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803587,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":269797115
         }
     ],
     "wof:id":269797115,
-    "wof:lastmodified":1473879465,
+    "wof:lastmodified":1492495943,
     "wof:name":"Toko Amstelglorie",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803587,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

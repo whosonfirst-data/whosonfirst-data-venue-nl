@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.312697,52.085285,4.312697,52.085285",
     "geom:latitude":52.085285,
     "geom:longitude":4.312697,
@@ -29,9 +30,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797685,
+        1108808251,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_3pZBuRFU0A7bXDhhiBntWj_52.085285_4.312697@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d0e95af3bafeec66c5a7dc57c8ad6062",
+    "wof:geomhash":"a4317d9d7a78b705f62c359ed9eba622",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797685,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808251,
             "region_id":85687041,
             "venue_id":270462257
         }
     ],
     "wof:id":270462257,
-    "wof:lastmodified":1473879262,
+    "wof:lastmodified":1492499917,
     "wof:name":"Koffieshop Jukebox",
-    "wof:parent_id":85797685,
+    "wof:parent_id":1108808251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

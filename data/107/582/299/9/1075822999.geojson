@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.9152638912,51.6507453918,3.9152638912,51.6507453918",
     "geom:latitude":51.650745,
     "geom:longitude":3.915264,
@@ -24,17 +25,32 @@
     "sg:province":"Zeeland",
     "sg:website":"http://www.parts-unlimited.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474591,
+        85633337,
+        101808413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gClrVg6PJg8MbrvF1sm3b_51.650745_3.915264@1306270009"
     },
     "wof:country":"NL",
     "wof:created":1473799371,
-    "wof:geomhash":"1eccfc7400d2f989469583d8720e0c24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d831a4367fa5e7de5e1f16f2fb050b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474591,
+            "locality_id":101808413,
+            "region_id":85687037,
+            "venue_id":1075822999
+        }
+    ],
     "wof:id":1075822999,
-    "wof:lastmodified":1473879310,
+    "wof:lastmodified":1492486764,
     "wof:name":"Parts Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

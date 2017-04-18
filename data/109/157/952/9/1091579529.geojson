@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2170739174,52.0241546631,4.2170739174,52.0241546631",
     "geom:latitude":52.024155,
     "geom:longitude":4.217074,
@@ -24,9 +25,11 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
         85633337,
-        85859557,
-        85687041
+        101808471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,16 +40,18 @@
     "wof:geomhash":"321b45068c16227aa0239856357efa2d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85859557,
+            "localadmin_id":404474667,
+            "locality_id":101808471,
             "region_id":85687041,
             "venue_id":1091579529
         }
     ],
     "wof:id":1091579529,
-    "wof:lastmodified":1473879046,
+    "wof:lastmodified":1491931060,
     "wof:name":"Uniek Sierbestratingen",
-    "wof:parent_id":85859557,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3949861526,52.0785293579,4.3949861526,52.0785293579",
     "geom:latitude":52.078529,
     "geom:longitude":4.394986,
@@ -24,14 +25,13 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859699,
+        85859675,
         102191581,
         404474685,
         85633337,
         101754679,
         85687041,
-        85859675,
-        101754709
+        85859699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,8 +39,17 @@
     },
     "wof:country":"NL",
     "wof:created":1473803591,
-    "wof:geomhash":"d82726aac8d8f16b961ae030c0bfb877",
+    "wof:geomhash":"aa332c6675b50da968984322859473ff",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474685,
+            "locality_id":101754679,
+            "neighbourhood_id":85859675,
+            "region_id":85687041,
+            "venue_id":1091613129
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -49,21 +58,12 @@
             "neighbourhood_id":85859699,
             "region_id":85687041,
             "venue_id":1091613129
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474685,
-            "locality_id":101754709,
-            "neighbourhood_id":85859675,
-            "region_id":85687041,
-            "venue_id":1091613129
         }
     ],
     "wof:id":1091613129,
-    "wof:lastmodified":1473878636,
+    "wof:lastmodified":1492510710,
     "wof:name":"Hejaco Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

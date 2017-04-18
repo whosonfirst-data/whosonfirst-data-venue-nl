@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.494179,51.957054,4.494179,51.957054",
     "geom:latitude":51.957054,
     "geom:longitude":4.494179,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797707,
+        1108805791,
+        102191581,
+        1108805981,
         85633337,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_3c4rqkrK38k3McspOJGeF2_51.957054_4.494179@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5634781e4b2201ebaa89dbdea2ca0ef2",
+    "wof:geomhash":"14cce7c315a5b1ad74e8ff6b0ef19d82",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797707,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805791,
             "region_id":85687041,
             "venue_id":269786769
         }
     ],
     "wof:id":269786769,
-    "wof:lastmodified":1473879451,
+    "wof:lastmodified":1492494995,
     "wof:name":"Snackbar Ijspaleis",
-    "wof:parent_id":85797707,
+    "wof:parent_id":1108805791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

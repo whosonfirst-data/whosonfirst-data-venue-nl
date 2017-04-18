@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.872105,52.327496,4.872105,52.327496",
     "geom:latitude":52.327496,
     "geom:longitude":4.872105,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803497,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3ppqibM2NFknwTffVpOBpL_52.327496_4.872105@1306269920"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b53c1da2fab9fb0b5b92cd517668ed39",
+    "wof:geomhash":"1fc6a6b73bf2c30f0822df3a5bd9a19f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803497,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":202986939
         }
     ],
     "wof:id":202986939,
-    "wof:lastmodified":1473879466,
+    "wof:lastmodified":1492497485,
     "wof:name":"Meijers Bv",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

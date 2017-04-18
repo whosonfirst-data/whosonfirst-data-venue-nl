@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884383,52.326199,4.884383,52.326199",
     "geom:latitude":52.326199,
     "geom:longitude":4.884383,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804145,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4x6td5cqvlk3pgNOyNrq3H_52.326199_4.884383@1306269905"
     },
     "wof:country":"NL",
-    "wof:geomhash":"704bb0ffa5801f1ea9acd6dd50ab7dc5",
+    "wof:geomhash":"ebc8da20935f86b663bd5d72f3b4e77b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804145,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":169725695
         }
     ],
     "wof:id":169725695,
-    "wof:lastmodified":1473878554,
+    "wof:lastmodified":1492478651,
     "wof:name":"Le R\u00eave",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

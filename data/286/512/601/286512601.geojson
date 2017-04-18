@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.930519,52.365479,4.930519,52.365479",
     "geom:latitude":52.365479,
     "geom:longitude":4.930519,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803579,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_767A7HAj5bBnDl4gKmZQyp_52.365479_4.930519@1306269970"
     },
     "wof:country":"NL",
-    "wof:geomhash":"76ab6e9004a6909c5ea1fda9c4392a67",
+    "wof:geomhash":"a7a5136c834a08fbf5fc3f78a98b0f44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803579,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":286512601
         }
     ],
     "wof:id":286512601,
-    "wof:lastmodified":1473879192,
+    "wof:lastmodified":1492475491,
     "wof:name":"Smid, Geert",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

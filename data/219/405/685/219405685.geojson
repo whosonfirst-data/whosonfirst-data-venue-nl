@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.929704,52.392017,4.929704,52.392017",
     "geom:latitude":52.392017,
     "geom:longitude":4.929704,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803783,
+        1108802923,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6DPA6pY0tX4OijH1bzolHb_52.392017_4.929704@1306269926"
     },
     "wof:country":"NL",
-    "wof:geomhash":"80adac89b87d7d67a1c7cdf9e4952ddc",
+    "wof:geomhash":"e3a1c26ab65dcf63cf8682c87848814c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803783,
+            "neighbourhood_id":1108802923,
             "region_id":85687053,
             "venue_id":219405685
         }
     ],
     "wof:id":219405685,
-    "wof:lastmodified":1473879113,
+    "wof:lastmodified":1492501998,
     "wof:name":"J. Harman",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

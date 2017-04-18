@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.903557,52.363659,4.903557,52.363659",
     "geom:latitude":52.363659,
     "geom:longitude":4.903557,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.keekadvies.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803643,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_1qobYviOC34D52H3vxyTV4_52.363659_4.903557@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a5cafdb8ca05c8f7f4ccfd9b128f7c19",
+    "wof:geomhash":"195cd07600b0768d4af57ea81f52fa1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803643,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":286436775
         }
     ],
     "wof:id":286436775,
-    "wof:lastmodified":1473878993,
+    "wof:lastmodified":1492477842,
     "wof:name":"Keek",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

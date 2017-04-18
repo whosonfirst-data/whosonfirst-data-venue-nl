@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.90573,52.365215,4.90573,52.365215",
     "geom:latitude":52.365215,
     "geom:longitude":4.90573,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.onstat.amsterdam.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803643,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_5of3ipa9BiYrHtf80QULdi_52.365215_4.905730@1306270007"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c23a35b71414dbafb0bfe99c6e5dace5",
+    "wof:geomhash":"a39c956e63cb27097001d7bad5df8761",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803643,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":336900137
         }
     ],
     "wof:id":336900137,
-    "wof:lastmodified":1473878447,
+    "wof:lastmodified":1492506544,
     "wof:name":"O+S",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

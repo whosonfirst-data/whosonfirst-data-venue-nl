@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7863149643,51.8164100647,4.7863149643,51.8164100647",
     "geom:latitude":51.81641,
     "geom:longitude":4.786315,
@@ -23,17 +24,32 @@
     "sg:postcode":"3361 AZ",
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474257,
+        85633337,
+        101754745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64eULtNFzHH758Lu90KJnI_51.816410_4.786315@1306270020"
     },
     "wof:country":"NL",
     "wof:created":1473804652,
-    "wof:geomhash":"240d8e3e50a019070091d894f80131d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"469ef51c18965a7cc7197191e6e319b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474257,
+            "locality_id":101754745,
+            "region_id":85687041,
+            "venue_id":1091631567
+        }
+    ],
     "wof:id":1091631567,
-    "wof:lastmodified":1473878452,
+    "wof:lastmodified":1492510095,
     "wof:name":"J Noorland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

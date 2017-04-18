@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.913212,52.348171,4.913212,52.348171",
     "geom:latitude":52.348171,
     "geom:longitude":4.913212,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803991,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1oN70Uu99sQO9Od2HVtUlJ_52.348171_4.913212@1306269989"
     },
     "wof:country":"NL",
-    "wof:geomhash":"228d65029d88482aa5a49378759ecd9c",
+    "wof:geomhash":"67cedcd311828a2e43e2335d4d02f891",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803991,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":303955287
         }
     ],
     "wof:id":303955287,
-    "wof:lastmodified":1473879675,
+    "wof:lastmodified":1492472076,
     "wof:name":"Hogeschool Van Amsterdam",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

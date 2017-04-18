@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.850075,52.355148,4.850075,52.355148",
     "geom:latitude":52.355148,
     "geom:longitude":4.850075,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.oimundo.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803797,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_51WBHZXrVc3gbeuufmB2hq_52.355148_4.850075@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"83198474de5a3c6d59f21161b7b0f90b",
+    "wof:geomhash":"bb7c00698e0e9109f14156e3df9f6753",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803797,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":253360433
         }
     ],
     "wof:id":253360433,
-    "wof:lastmodified":1473879436,
+    "wof:lastmodified":1492489374,
     "wof:name":"Oi Mundo",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803797,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

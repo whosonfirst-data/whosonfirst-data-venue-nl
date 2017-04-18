@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880117,52.383965,4.880117,52.383965",
     "geom:latitude":52.383965,
     "geom:longitude":4.880117,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804183,
+        1108802915,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0Kn6i9ID8UJ8X2t8Zzo791_52.383965_4.880117@1306269949"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b4765f936b6d6d31b7894bc12cb21761",
+    "wof:geomhash":"3a73737c7ee60ce3861bea7aed928f34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108804183,
+            "neighbourhood_id":1108802915,
             "region_id":85687053,
             "venue_id":253437367
         }
     ],
     "wof:id":253437367,
-    "wof:lastmodified":1473879607,
+    "wof:lastmodified":1492490528,
     "wof:name":"Cantina Vocaal",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

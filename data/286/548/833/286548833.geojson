@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.531308,51.963993,4.531308,51.963993",
     "geom:latitude":51.963993,
     "geom:longitude":4.531308,
@@ -24,31 +25,49 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859913,
+        1108807127,
+        85798149,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NqetGcHgxtyIxsqCuT56J_51.963993_4.531308@1306269970"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b381f569c392df695c88a3c085c6cf8f",
+    "wof:geomhash":"d9cb94c5b012dd3fb6e2dc7bc430e4f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859913,
+            "locality_id":101751843,
+            "microhood_id":1108807127,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":286548833
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "microhood_id":1108807127,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":286548833
         }
     ],
     "wof:id":286548833,
-    "wof:lastmodified":1473879205,
+    "wof:lastmodified":1492477865,
     "wof:name":"Uitvaartverzorging Van Den Bosch Bv",
-    "wof:parent_id":85859913,
+    "wof:parent_id":1108807127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

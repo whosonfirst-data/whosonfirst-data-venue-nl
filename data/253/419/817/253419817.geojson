@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.137998,52.065907,5.137998,52.065907",
     "geom:latitude":52.065907,
     "geom:longitude":5.137998,
@@ -25,8 +26,12 @@
     "sg:website":"http://www.anton-kamp.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859943,
+        1108808795,
+        102191581,
+        1108832363,
         85633337,
+        101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +39,23 @@
         "sg:id":"SG_1y4um3WBGzDzJyfmZzG9Ut_52.065907_5.137998@1306269949"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6e1f3ed1dd868e6172683656413675e7",
+    "wof:geomhash":"556a650a5f7b324e1a41fce04dfbcdcc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859943,
+            "locality_id":101751827,
+            "macrohood_id":1108832363,
+            "neighbourhood_id":1108808795,
             "region_id":85687039,
             "venue_id":253419817
         }
     ],
     "wof:id":253419817,
-    "wof:lastmodified":1473879562,
+    "wof:lastmodified":1492488302,
     "wof:name":"Anton Kamp",
-    "wof:parent_id":85859943,
+    "wof:parent_id":1108808795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

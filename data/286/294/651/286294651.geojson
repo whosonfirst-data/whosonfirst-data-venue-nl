@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.954005,52.391445,4.954005,52.391445",
     "geom:latitude":52.391445,
     "geom:longitude":4.954005,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803543,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_2O1jRmsVLQYL8uypdYH7y1_52.391445_4.954005@1306269967"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c9b01f900884ad101a4a61fec541ae14",
+    "wof:geomhash":"0d74a13efb14d4a0e48ec536caf57828",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803543,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":286294651
         }
     ],
     "wof:id":286294651,
-    "wof:lastmodified":1473878675,
+    "wof:lastmodified":1492478154,
     "wof:name":"Openbare Basisschool Ijdoorn",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803543,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

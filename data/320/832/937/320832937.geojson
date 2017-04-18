@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.930703,52.40765,4.930703,52.40765",
     "geom:latitude":52.40765,
     "geom:longitude":4.930703,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803919,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4l4gI8sAjycC0qsLLFn0RN_52.407650_4.930703@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"759437f1e2aa2e97dae3f9c737abf2a8",
+    "wof:geomhash":"54677d49ca0b0fdee6d06d70c98e4f51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803919,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":320832937
         }
     ],
     "wof:id":320832937,
-    "wof:lastmodified":1473879637,
+    "wof:lastmodified":1492484785,
     "wof:name":"Jea",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

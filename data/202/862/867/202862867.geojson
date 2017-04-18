@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.941319,52.395908,4.941319,52.395908",
     "geom:latitude":52.395908,
     "geom:longitude":4.941319,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803535,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0KIgZ7jX1133Llg2qgl131_52.395908_4.941319@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dc412c86bb41878740ba63b43d99218f",
+    "wof:geomhash":"255c19416c57badb2a6d51667c34575f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803535,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":202862867
         }
     ],
     "wof:id":202862867,
-    "wof:lastmodified":1473879369,
+    "wof:lastmodified":1492497679,
     "wof:name":"Burghout-Spev\u00e1ckov\u00e1",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803535,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.517958,51.924156,4.517958,51.924156",
     "geom:latitude":51.924156,
     "geom:longitude":4.517958,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805803,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0eSf0yxYferTuhkztTqMN0_51.924156_4.517958@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2b13776a1760063438e1e0b66ef8ab93",
+    "wof:geomhash":"fc89ee0f647918a55dbc68f45a9f905a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805803,
             "region_id":85687041,
             "venue_id":202767827
         }
     ],
     "wof:id":202767827,
-    "wof:lastmodified":1473879198,
+    "wof:lastmodified":1492497748,
     "wof:name":"Drs A F Snoek-Peteri",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

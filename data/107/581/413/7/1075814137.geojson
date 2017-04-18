@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3308200836,51.5813941956,4.3308200836,51.5813941956",
     "geom:latitude":51.581394,
     "geom:longitude":4.33082,
@@ -32,17 +33,30 @@
         "bewaring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474431,
+        85633337,
+        85687035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WM39ygT81sqeRn4lJB90G_51.581394_4.330820@1306270008"
     },
     "wof:country":"NL",
     "wof:created":1473798860,
-    "wof:geomhash":"8790a2943977e45f39031c1bbc51ea45",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc0dc8550481257ad400bb3953c12a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474431,
+            "region_id":85687035,
+            "venue_id":1075814137
+        }
+    ],
     "wof:id":1075814137,
-    "wof:lastmodified":1473878950,
+    "wof:lastmodified":1492486525,
     "wof:name":"Kruithof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

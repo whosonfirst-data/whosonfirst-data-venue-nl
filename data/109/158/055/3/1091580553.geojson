@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1263799667,51.9405403137,4.1263799667,51.9405403137",
     "geom:latitude":51.94054,
     "geom:longitude":4.12638,
@@ -23,19 +24,36 @@
     "sg:postcode":"3198 LC",
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108805785,
+        102191581,
+        85633337,
+        101751843,
+        1108805737,
+        85687041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pKJCE5jeBQhlJ6fDq1k7X_51.940540_4.126380@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801222,
-    "wof:geomhash":"3148fd5bd7d149a420d53b376f27d4e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"794835472a83601b9d54d87e97bc9360",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108805737,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805785,
+            "region_id":85687041,
+            "venue_id":1091580553
+        }
+    ],
     "wof:id":1091580553,
-    "wof:lastmodified":1473878507,
+    "wof:lastmodified":1492511831,
     "wof:name":"Kessel Bv, Gebr Van",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108805785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.852501,52.373341,4.852501,52.373341",
     "geom:latitude":52.373341,
     "geom:longitude":4.852501,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108804001,
+        1108802931,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2OdOQdyxLCFTPJrCzwuazJ_52.373341_4.852501@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"932130a821f4845c7a219f3a78466802",
+    "wof:geomhash":"6416de0e4b280caeccd4519f9d99aee2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108804001,
+            "neighbourhood_id":1108802931,
             "region_id":85687053,
             "venue_id":252828605
         }
     ],
     "wof:id":252828605,
-    "wof:lastmodified":1473878571,
+    "wof:lastmodified":1492504994,
     "wof:name":"Kade",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108804001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

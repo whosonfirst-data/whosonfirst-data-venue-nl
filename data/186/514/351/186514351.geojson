@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.952825,52.298203,4.952825,52.298203",
     "geom:latitude":52.298203,
     "geom:longitude":4.952825,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803937,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2IaTYU5dYuio24V4Zp35FG_52.298203_4.952825@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8ea19c111450796f8005b6bcd009548a",
+    "wof:geomhash":"7835ccfa4daf8f6d1af957bde39ffc13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803937,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":186514351
         }
     ],
     "wof:id":186514351,
-    "wof:lastmodified":1473879543,
+    "wof:lastmodified":1492508884,
     "wof:name":"Stoeh",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

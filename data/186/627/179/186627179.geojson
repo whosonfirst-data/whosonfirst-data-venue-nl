@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.372531,52.158302,5.372531,52.158302",
     "geom:latitude":52.158302,
     "geom:longitude":5.372531,
@@ -24,40 +25,41 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797097,
-        85633337,
-        85687039,
         85797913,
-        101751821
+        102191581,
+        404473971,
+        85633337,
+        101751821,
+        85687039,
+        85797097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jA202M1YgLMPlKepumP5F_52.158302_5.372531@1306269914"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3f6bc92c9e2919e4a5a84167ff5ea5dd",
+    "wof:geomhash":"651cd7ffa85899021151556827edc405",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797097,
+            "localadmin_id":404473971,
+            "locality_id":101751821,
+            "neighbourhood_id":85797913,
             "region_id":85687039,
             "venue_id":186627179
         },
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751821,
-            "neighbourhood_id":85797913,
+            "neighbourhood_id":85797097,
             "region_id":85687039,
             "venue_id":186627179
         }
     ],
     "wof:id":186627179,
-    "wof:lastmodified":1473879649,
+    "wof:lastmodified":1492507786,
     "wof:name":"Tandem, De",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

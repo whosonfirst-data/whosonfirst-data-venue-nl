@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.308346,52.076225,4.308346,52.076225",
     "geom:latitude":52.076225,
     "geom:longitude":4.308346,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808249,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_3qOGHy2dTGMUqVlmNJOj4S_52.076225_4.308346@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ab74db77142400b1d97f6846a32be578",
+    "wof:geomhash":"d412096f7b534fbcba2a13f970b9380c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808249,
             "region_id":85687041,
             "venue_id":269770263
         }
     ],
     "wof:id":269770263,
-    "wof:lastmodified":1473879408,
+    "wof:lastmodified":1492495184,
     "wof:name":"Miami Fried Chicken",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

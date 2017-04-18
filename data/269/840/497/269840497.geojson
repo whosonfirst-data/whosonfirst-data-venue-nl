@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.49734,51.932262,4.49734,51.932262",
     "geom:latitude":51.932262,
     "geom:longitude":4.49734,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859861,
+        1108805837,
+        102191581,
+        1108805657,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_6D9W2oJ1YPljyZye83Er7U_51.932262_4.497340@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"85401a7fd2f5c7ab0327ecc6c95e8729",
+    "wof:geomhash":"8dff814ceaeeb12fa0b07f0d40521663",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859861,
+            "macrohood_id":1108805657,
+            "neighbourhood_id":1108805837,
             "region_id":85687041,
             "venue_id":269840497
         }
     ],
     "wof:id":269840497,
-    "wof:lastmodified":1473879533,
+    "wof:lastmodified":1492496165,
     "wof:name":"Pizzeria-Shoarma Mona Lisa",
-    "wof:parent_id":85859861,
+    "wof:parent_id":1108805837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.975902,52.295723,4.975902,52.295723",
     "geom:latitude":52.295723,
     "geom:longitude":4.975902,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803939,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_3tufHMxLQhcK4GLeF2SxEI_52.295723_4.975902@1306269924"
     },
     "wof:country":"NL",
-    "wof:geomhash":"664674aa5f528d07a0a9b3ee15d11aa0",
+    "wof:geomhash":"e31fe4f1b61000d210b4644b28cf1b73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803939,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":219256811
         }
     ],
     "wof:id":219256811,
-    "wof:lastmodified":1473878742,
+    "wof:lastmodified":1492501882,
     "wof:name":"Pitouche",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

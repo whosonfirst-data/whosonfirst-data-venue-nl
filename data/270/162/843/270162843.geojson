@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880802,52.376095,4.880802,52.376095",
     "geom:latitude":52.376095,
     "geom:longitude":4.880802,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804119,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0n2JBY3eUBtwUMeCv2879k_52.376095_4.880802@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"683620c4b8379297b0ed421bf50e355e",
+    "wof:geomhash":"04e738c25f6949440f12386156d283ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804119,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":270162843
         }
     ],
     "wof:id":270162843,
-    "wof:lastmodified":1473878702,
+    "wof:lastmodified":1492501313,
     "wof:name":"John Kingma Mpp Photographic Promotion Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

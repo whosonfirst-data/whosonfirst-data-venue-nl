@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.496711,51.936588,4.496711,51.936588",
     "geom:latitude":51.936588,
     "geom:longitude":4.496711,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859861,
+        1108805825,
+        102191581,
+        1108805657,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_1MymZ9eJJxUK7rS3bfv7xu_51.936588_4.496711@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3f748c446b5b26d0dbf29ab87569bc6a",
+    "wof:geomhash":"420b67ce46000d8f48761bfc296f9623",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859861,
+            "macrohood_id":1108805657,
+            "neighbourhood_id":1108805825,
             "region_id":85687041,
             "venue_id":269796109
         }
     ],
     "wof:id":269796109,
-    "wof:lastmodified":1473879462,
+    "wof:lastmodified":1492496797,
     "wof:name":"T. Van Wissen",
-    "wof:parent_id":85859861,
+    "wof:parent_id":1108805825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

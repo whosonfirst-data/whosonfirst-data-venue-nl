@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.869165,52.370884,4.869165,52.370884",
     "geom:latitude":52.370884,
     "geom:longitude":4.869165,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803451,
+        1108802777,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_26EguYZ8MBlsKSRwyMNqCp_52.370884_4.869165@1306269959"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2ecea3c20ccff636c3371a63d87e93dd",
+    "wof:geomhash":"7d96dd40962c1f45c8b57329296ef75a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803451,
+            "neighbourhood_id":1108802777,
             "region_id":85687053,
             "venue_id":269939797
         }
     ],
     "wof:id":269939797,
-    "wof:lastmodified":1473879557,
+    "wof:lastmodified":1492494723,
     "wof:name":"Lohman",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.887503,52.360596,4.887503,52.360596",
     "geom:latitude":52.360596,
     "geom:longitude":4.887503,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803515,
+        1108802791,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6mJB8EVg16I6kA7t2zruLI_52.360596_4.887503@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3740f8156cf5d8315e16d55518caae65",
+    "wof:geomhash":"8cb3fa83ff22023a84e0e340dce9dc36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803515,
+            "neighbourhood_id":1108802791,
             "region_id":85687053,
             "venue_id":202777895
         }
     ],
     "wof:id":202777895,
-    "wof:lastmodified":1473879216,
+    "wof:lastmodified":1492498135,
     "wof:name":"Home Abroad",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

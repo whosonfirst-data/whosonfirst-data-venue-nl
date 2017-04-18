@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.858489,52.371235,4.858489,52.371235",
     "geom:latitude":52.371235,
     "geom:longitude":4.858489,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804043,
+        1108802785,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2DqBKjJjGMBnHquSj8ue6L_52.371235_4.858489@1306269942"
     },
     "wof:country":"NL",
-    "wof:geomhash":"13a9be2df08ecf5c953dce22a18bda38",
+    "wof:geomhash":"30715f42a597b652a63837ba28c022b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108804043,
+            "neighbourhood_id":1108802785,
             "region_id":85687053,
             "venue_id":236891645
         }
     ],
     "wof:id":236891645,
-    "wof:lastmodified":1473879593,
+    "wof:lastmodified":1492491717,
     "wof:name":"Golden Pauw",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804043,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

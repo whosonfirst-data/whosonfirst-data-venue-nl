@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.801561,52.408768,4.801561,52.408768",
     "geom:latitude":52.408768,
     "geom:longitude":4.801561,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798675,
+        1108803829,
+        1108802955,
+        102191581,
         85633337,
+        101751893,
+        1108802287,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_0UZlJukhLiqKcAdykGEySX_52.408768_4.801561@1306269998"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8775b2cd5de5ebf1b322876f05a08bcc",
+    "wof:geomhash":"0783823b5b12ae1a3660163bfb5ec157",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802287,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798675,
+            "locality_id":101751893,
+            "microhood_id":1108803829,
+            "neighbourhood_id":1108802955,
             "region_id":85687053,
             "venue_id":320423635
         }
     ],
     "wof:id":320423635,
-    "wof:lastmodified":1473879306,
+    "wof:lastmodified":1492482640,
     "wof:name":"Wijnberg Transport En Terminal Services",
-    "wof:parent_id":85798675,
+    "wof:parent_id":1108803829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

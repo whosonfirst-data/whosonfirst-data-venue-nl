@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5414118767,52.3271446228,5.5414118767,52.3271446228",
     "geom:latitude":52.327145,
     "geom:longitude":5.541412,
@@ -33,17 +34,32 @@
         "week-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473741,
+        85633337,
+        101808771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6V6yD41U4s7wRPsvgGW9zi_52.327145_5.541412@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473800903,
-    "wof:geomhash":"779c1992e2948fe773f79b18b87ce8ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fedc8d342d5ab2053ffb8590921fb349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473741,
+            "locality_id":101808771,
+            "region_id":85687049,
+            "venue_id":1091577081
+        }
+    ],
     "wof:id":1091577081,
-    "wof:lastmodified":1473878951,
+    "wof:lastmodified":1492511029,
     "wof:name":"Zeewolde Aktueel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

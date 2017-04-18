@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.875952,52.365662,4.875952,52.365662",
     "geom:latitude":52.365662,
     "geom:longitude":4.875952,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803521,
+        1108802821,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0jap7F3jXTG9NrKtns78D2_52.365662_4.875952@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a3cbb446d226d44bdf35c9ccbf1d4371",
+    "wof:geomhash":"460d9b4b2c636ed355fdc555f5ac44ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803521,
+            "neighbourhood_id":1108802821,
             "region_id":85687053,
             "venue_id":253228067
         }
     ],
     "wof:id":253228067,
-    "wof:lastmodified":1473879238,
+    "wof:lastmodified":1492490403,
     "wof:name":"Annelies Jansen",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803521,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

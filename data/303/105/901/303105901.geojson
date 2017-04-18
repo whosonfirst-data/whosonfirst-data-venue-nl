@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.90869,52.355988,4.90869,52.355988",
     "geom:latitude":52.355988,
     "geom:longitude":4.90869,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803889,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3jiVk7vZyY1vIxxi3JQ4nJ_52.355988_4.908690@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"eb7b16d02cfe9298d5a15fd7e91e0b13",
+    "wof:geomhash":"87c402ed3cd0690b055252d63603280e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803889,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":303105901
         }
     ],
     "wof:id":303105901,
-    "wof:lastmodified":1473878677,
+    "wof:lastmodified":1492470380,
     "wof:name":"Bo-Rent",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

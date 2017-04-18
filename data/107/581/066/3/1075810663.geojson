@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1817188263,52.2153587341,5.1817188263,52.2153587341",
     "geom:latitude":52.215359,
     "geom:longitude":5.181719,
@@ -32,17 +33,32 @@
         "basis-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474081,
+        85633337,
+        101751905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77XoLLCciygvRuJ5QRpiMg_52.215359_5.181719@1306269967"
     },
     "wof:country":"NL",
     "wof:created":1473798697,
-    "wof:geomhash":"603cc0c8ac8a30857c330b5243209162",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27de6ccd93706ef3517d4b54417d445b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474081,
+            "locality_id":101751905,
+            "region_id":85687053,
+            "venue_id":1075810663
+        }
+    ],
     "wof:id":1075810663,
-    "wof:lastmodified":1473878763,
+    "wof:lastmodified":1492486571,
     "wof:name":"Peuterspeelzaal Wilhelmini",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

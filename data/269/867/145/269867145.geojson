@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.014584,52.30397,5.014584,52.30397",
     "geom:latitude":52.30397,
     "geom:longitude":5.014584,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803641,
+        1108802795,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4Cs1bfBrp4F1e6UysuhqvS_52.303970_5.014584@1306269959"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a58e4098a163ad09264f0397c3beb761",
+    "wof:geomhash":"0bf6f9e9a3b3d970096270f558503ece",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803641,
+            "neighbourhood_id":1108802795,
             "region_id":85687053,
             "venue_id":269867145
         }
     ],
     "wof:id":269867145,
-    "wof:lastmodified":1473879532,
+    "wof:lastmodified":1492496125,
     "wof:name":"Aanloop, De",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.939994,52.355667,4.939994,52.355667",
     "geom:latitude":52.355667,
     "geom:longitude":4.939994,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803631,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7QA0UFLxh2HwT4iAEhc4Up_52.355667_4.939994@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b5a7372e10553bd3aac7b9fbe13f79e2",
+    "wof:geomhash":"4ae354fe1901145a18b0730f9591cbf9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803631,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":252848055
         }
     ],
     "wof:id":252848055,
-    "wof:lastmodified":1473878637,
+    "wof:lastmodified":1492505685,
     "wof:name":"C. Kille",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

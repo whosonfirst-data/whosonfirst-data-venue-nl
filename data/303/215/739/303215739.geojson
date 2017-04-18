@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.088912,52.124332,5.088912,52.124332",
     "geom:latitude":52.124332,
     "geom:longitude":5.088912,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808701,
+        102191581,
+        1108832365,
         85633337,
         101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7a2oHJbgp29ssJjvquXPX1_52.124332_5.088912@1306269981"
     },
     "wof:country":"NL",
-    "wof:geomhash":"678e39e1cff8e5bf9709843beb911115",
+    "wof:geomhash":"ad4cd50e71fcada4ae117b6079966440",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808701,
             "region_id":85687039,
             "venue_id":303215739
         }
     ],
     "wof:id":303215739,
-    "wof:lastmodified":1473878884,
+    "wof:lastmodified":1492474047,
     "wof:name":"Bruin Schilders, De",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

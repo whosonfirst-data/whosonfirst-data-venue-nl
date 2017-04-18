@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.887413,52.352451,4.887413,52.352451",
     "geom:latitude":52.352451,
     "geom:longitude":4.887413,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803775,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2GielvefkrOHqlnUJj9T7T_52.352451_4.887413@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a164e1ebf2cf581c587755569e419c90",
+    "wof:geomhash":"be9b76eca303e05fc58a4a6fdeb8c826",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803775,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":269614877
         }
     ],
     "wof:id":269614877,
-    "wof:lastmodified":1473879053,
+    "wof:lastmodified":1492495081,
     "wof:name":"Maison Henri",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

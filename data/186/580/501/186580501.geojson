@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.886806,52.414429,4.886806,52.414429",
     "geom:latitude":52.414429,
     "geom:longitude":4.886806,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803211,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6jjtpA6O5gdhl1y3xUWy4X_52.414429_4.886806@1306269914"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9cc25a42ab0ea10a042977b9fbaf440e",
+    "wof:geomhash":"5f9c4a6fc2f208e4688801f36753a34b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803211,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":186580501
         }
     ],
     "wof:id":186580501,
-    "wof:lastmodified":1473879612,
+    "wof:lastmodified":1492507686,
     "wof:name":"Evenaar, De",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

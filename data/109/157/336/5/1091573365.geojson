@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2648739815,52.3901519775,5.2648739815,52.3901519775",
     "geom:latitude":52.390152,
     "geom:longitude":5.264874,
@@ -24,17 +25,32 @@
     "sg:province":"NL.",
     "sg:website":"http://www.intersel.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101751875
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uazaKU49iqIx8m0J6QDZ9_52.390152_5.264874@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800689,
-    "wof:geomhash":"161e981f285264df9226c1bdd11fd488",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5f768401e221e6d3af5953bbc3dd271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101751875,
+            "region_id":85687049,
+            "venue_id":1091573365
+        }
+    ],
     "wof:id":1091573365,
-    "wof:lastmodified":1473878694,
+    "wof:lastmodified":1492511347,
     "wof:name":"Intersel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

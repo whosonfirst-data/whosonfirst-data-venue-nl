@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6684308052,52.8116722107,6.6684308052,52.8116722107",
     "geom:latitude":52.811672,
     "geom:longitude":6.668431,
@@ -23,17 +24,30 @@
     "sg:postcode":"9439 TJ",
     "sg:province":"Drenthe",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474649,
+        85633337,
+        85687051
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PYIr4Hi97QNbYlWiqxPNa_52.811672_6.668431@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473800905,
-    "wof:geomhash":"f1b92474a1db0fe8a7b9759e83c66cb3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"042ca5670e31792f33387453420053a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474649,
+            "region_id":85687051,
+            "venue_id":1091577117
+        }
+    ],
     "wof:id":1091577117,
-    "wof:lastmodified":1473878963,
+    "wof:lastmodified":1492511421,
     "wof:name":"Aardmagnetisch Observatorium Knmi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

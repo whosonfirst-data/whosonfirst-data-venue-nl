@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.890243,52.346169,4.890243,52.346169",
     "geom:latitude":52.346169,
     "geom:longitude":4.890243,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804215,
+        1108802897,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_06usVkMEWVQq5BGvqG2doA_52.346169_4.890243@1306269923"
     },
     "wof:country":"NL",
-    "wof:geomhash":"351af3408a3a42bdf83f5678cbab639e",
+    "wof:geomhash":"07f0d20f6183508dca85b40d28480fa5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108804215,
+            "neighbourhood_id":1108802897,
             "region_id":85687053,
             "venue_id":203342475
         }
     ],
     "wof:id":203342475,
-    "wof:lastmodified":1473879273,
+    "wof:lastmodified":1492481075,
     "wof:name":"Gold Star Sna",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

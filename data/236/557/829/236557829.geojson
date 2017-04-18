@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.545786,51.954735,4.545786,51.954735",
     "geom:latitude":51.954735,
     "geom:longitude":4.545786,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MKrkUQlYCDWL17KA7unGU_51.954735_4.545786@1306269939"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2f32fb3596225d3b6eace21815e63d71",
+    "wof:geomhash":"18f5bd817ba384f57539a9ba8b9bcce0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":236557829
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798149,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":236557829,
-    "wof:lastmodified":1473879417,
+    "wof:lastmodified":1492493823,
     "wof:name":"F. Baars",
     "wof:parent_id":85798149,
     "wof:placetype":"venue",

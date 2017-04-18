@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.080136,52.111073,5.080136,52.111073",
     "geom:latitude":52.111073,
     "geom:longitude":5.080136,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808841,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2Kh5621RhdPoWu9hGH0a3g_52.111073_5.080136@1306269933"
     },
     "wof:country":"NL",
-    "wof:geomhash":"45aabfbffd470f02e3eb285df259b8f4",
+    "wof:geomhash":"32e8391802ed3f1a119aeb60cabf74d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808841,
             "region_id":85687039,
             "venue_id":235944617
         }
     ],
     "wof:id":235944617,
-    "wof:lastmodified":1473878523,
+    "wof:lastmodified":1492514647,
     "wof:name":"T & S",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.959677,52.396049,4.959677,52.396049",
     "geom:latitude":52.396049,
     "geom:longitude":4.959677,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108803297,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0CMPr64w5Ue1UTEplH7D5p_52.396049_4.959677@1306269981"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d39bbc2f86510124ab3338094d6ad3db",
+    "wof:geomhash":"83c3b3e75efc5f97bf4d6440211b0d68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803297,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":303210821
         }
     ],
     "wof:id":303210821,
-    "wof:lastmodified":1473878890,
+    "wof:lastmodified":1492471303,
     "wof:name":"Bosch, D",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803297,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

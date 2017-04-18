@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9904460907,52.3003311157,5.9904460907,52.3003311157",
     "geom:latitude":52.300331,
     "geom:longitude":5.990446,
@@ -24,17 +25,30 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.intervino.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404473897,
+        85633337,
+        85687043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wq7rJt6OAyMAVLZXpueYl_52.300331_5.990446@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802080,
-    "wof:geomhash":"9c75cedf12b920caeac76a15062010b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf1af97491db38f9ea3388e7fd021009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473897,
+            "region_id":85687043,
+            "venue_id":1091592539
+        }
+    ],
     "wof:id":1091592539,
-    "wof:lastmodified":1473878616,
+    "wof:lastmodified":1492509605,
     "wof:name":"Intervino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

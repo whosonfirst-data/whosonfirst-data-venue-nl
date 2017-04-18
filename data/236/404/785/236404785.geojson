@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893023,52.355911,4.893023,52.355911",
     "geom:latitude":52.355911,
     "geom:longitude":4.893023,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803931,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1B7lXtBLI7Gn3YG8lnHJMi_52.355911_4.893023@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"861f381caa1b4bcfc9816edfc9b2b66e",
+    "wof:geomhash":"25c65d997b6cfa9a9aef0ec9f45365fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803931,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":236404785
         }
     ],
     "wof:id":236404785,
-    "wof:lastmodified":1473879246,
+    "wof:lastmodified":1492492392,
     "wof:name":"Tap Dance",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

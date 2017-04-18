@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0920391083,52.0801620483,5.0920391083,52.0801620483",
     "geom:latitude":52.080162,
     "geom:longitude":5.092039,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808881,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808679,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473802317,
-    "wof:geomhash":"536d170c8b5cb469610f1b2e5119d621",
+    "wof:geomhash":"6c914599a6a43d2022d3525a693cee36",
     "wof:hierarchy":[
         {
+            "borough_id":1108808679,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808881,
             "region_id":85687039,
             "venue_id":1091596435
         }
     ],
     "wof:id":1091596435,
-    "wof:lastmodified":1473878835,
+    "wof:lastmodified":1492509613,
     "wof:name":"Woningnet",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

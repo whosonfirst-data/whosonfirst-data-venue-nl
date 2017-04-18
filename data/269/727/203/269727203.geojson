@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.917522,52.332462,4.917522,52.332462",
     "geom:latitude":52.332462,
     "geom:longitude":4.917522,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804033,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7EtucQTBbSaRusfZ4Bht9S_52.332462_4.917522@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4b654c27e35d577b4b45c5ec6660c608",
+    "wof:geomhash":"1ce7c304037afe4e130dfba4c82dc0bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804033,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":269727203
         }
     ],
     "wof:id":269727203,
-    "wof:lastmodified":1473879319,
+    "wof:lastmodified":1492496337,
     "wof:name":"Revalidatie Service Amsterdam Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

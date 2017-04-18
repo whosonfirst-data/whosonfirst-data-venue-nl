@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.496042,51.920986,4.496042,51.920986",
     "geom:latitude":51.920986,
     "geom:longitude":4.496042,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.willeboordse.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797527,
+        1108805663,
+        1108805867,
+        102191581,
         85633337,
         101751843,
+        1108804841,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3oCfA9ZZnBzE8YmSSRgtRU_51.920986_4.496042@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f88f06441142545a271443002666e0d0",
+    "wof:geomhash":"6786c7a1a7bb06dab381b56fd09d9b68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108804841,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797527,
+            "microhood_id":1108805663,
+            "neighbourhood_id":1108805867,
             "region_id":85687041,
             "venue_id":270206425
         }
     ],
     "wof:id":270206425,
-    "wof:lastmodified":1473878865,
+    "wof:lastmodified":1492499787,
     "wof:name":"Willeboordse",
-    "wof:parent_id":85797527,
+    "wof:parent_id":1108805663,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

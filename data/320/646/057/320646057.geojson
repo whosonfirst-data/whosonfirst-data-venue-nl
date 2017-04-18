@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.903911,52.362457,4.903911,52.362457",
     "geom:latitude":52.362457,
     "geom:longitude":4.903911,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803643,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3MePzv64KyqoZYp8kJQIBa_52.362457_4.903911@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e6baef6a0de980b2426e06cb896e38ae",
+    "wof:geomhash":"d0f1793a6a402520f69511af795a6729",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803643,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":320646057
         }
     ],
     "wof:id":320646057,
-    "wof:lastmodified":1473879468,
+    "wof:lastmodified":1492484390,
     "wof:name":"Koninklijk Theater Carre",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

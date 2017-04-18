@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3154358864,51.5884590149,5.3154358864,51.5884590149",
     "geom:latitude":51.588459,
     "geom:longitude":5.315436,
@@ -23,17 +24,32 @@
     "sg:postcode":"5281 HG",
     "sg:province":"North Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474361,
+        85633337,
+        101839333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07wpGiolaDbSgE1YXx2QkP_51.588459_5.315436@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801101,
-    "wof:geomhash":"68b45597671e264235e29bc64f2d2045",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6abad5d8b46777dceef2c857b58bcb0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474361,
+            "locality_id":101839333,
+            "region_id":85687035,
+            "venue_id":1091578387
+        }
+    ],
     "wof:id":1091578387,
-    "wof:lastmodified":1473879037,
+    "wof:lastmodified":1492511382,
     "wof:name":"Globe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

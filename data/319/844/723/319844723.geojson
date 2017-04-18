@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.82254,53.1898,5.82254,53.1898",
     "geom:latitude":53.1898,
     "geom:longitude":5.82254,
@@ -24,10 +25,12 @@
     "sg:province":"Friesland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797051,
         85633337,
+        85797051,
         85687055,
         85797739,
+        102191581,
+        404473775,
         101751907
     ],
     "wof:breaches":[],
@@ -35,19 +38,18 @@
         "sg:id":"SG_61KxgWIUzyVeKAzq6pJkj9_53.189800_5.822540@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fa63d4b8bea7a0d96f735e69826452c9",
+    "wof:geomhash":"847eacb5cb23d725e80d851e5119a6b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85797051,
             "region_id":85687055,
             "venue_id":319844723
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473775,
             "locality_id":101751907,
             "neighbourhood_id":85797739,
             "region_id":85687055,
@@ -55,9 +57,9 @@
         }
     ],
     "wof:id":319844723,
-    "wof:lastmodified":1473878646,
+    "wof:lastmodified":1492479069,
     "wof:name":"Handelsonderneming P. Dvortsin",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

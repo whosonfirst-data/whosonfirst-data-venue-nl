@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877217,52.347843,4.877217,52.347843",
     "geom:latitude":52.347843,
     "geom:longitude":4.877217,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803589,
+        1108802527,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3DcHLEFGyQjF7GcZzooRo2_52.347843_4.877217@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b598986f8d0c36dd6586485a6dd8bcf2",
+    "wof:geomhash":"5e5d9578191dbb1261b3c3e420f0ba32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108803589,
+            "neighbourhood_id":1108802527,
             "region_id":85687053,
             "venue_id":303082205
         }
     ],
     "wof:id":303082205,
-    "wof:lastmodified":1473878636,
+    "wof:lastmodified":1492470604,
     "wof:name":"Edgar Vos",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803589,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

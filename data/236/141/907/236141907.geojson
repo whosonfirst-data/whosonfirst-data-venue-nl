@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.860316,52.370201,4.860316,52.370201",
     "geom:latitude":52.370201,
     "geom:longitude":4.860316,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803381,
+        1108802785,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0F7GvZJHflIUoOPESuNUuZ_52.370201_4.860316@1306269935"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d6a7c965463d4c4dbfa86981d367f59e",
+    "wof:geomhash":"1f3eeef76e8c7183fc94f8927ab56118",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803381,
+            "neighbourhood_id":1108802785,
             "region_id":85687053,
             "venue_id":236141907
         }
     ],
     "wof:id":236141907,
-    "wof:lastmodified":1473878828,
+    "wof:lastmodified":1492493625,
     "wof:name":"Balkonsier",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803381,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

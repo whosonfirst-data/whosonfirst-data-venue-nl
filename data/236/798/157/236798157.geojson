@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.776204,52.350414,4.776204,52.350414",
     "geom:latitude":52.350414,
     "geom:longitude":4.776204,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803971,
+        1108802857,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5sVHqbmo62VKG9v5bySikc_52.350414_4.776204@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5660f85e141ff137d47f284abc2e1dfe",
+    "wof:geomhash":"53bed3019d3b3b20416151115dc3acf9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803971,
+            "neighbourhood_id":1108802857,
             "region_id":85687053,
             "venue_id":236798157
         }
     ],
     "wof:id":236798157,
-    "wof:lastmodified":1473879535,
+    "wof:lastmodified":1492492014,
     "wof:name":"Melek",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

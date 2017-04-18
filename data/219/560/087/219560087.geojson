@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.123663,52.066048,5.123663,52.066048",
     "geom:latitude":52.066048,
     "geom:longitude":5.123663,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797727,
+        1108808807,
+        102191581,
+        1108808645,
         85633337,
         101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0mHYeUVL5NalStO009YEZo_52.066048_5.123663@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f3da74633c472806b71577d139327f62",
+    "wof:geomhash":"753b0509dc5fe3826ed282e84517ef3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797727,
+            "macrohood_id":1108808645,
+            "neighbourhood_id":1108808807,
             "region_id":85687039,
             "venue_id":219560087
         }
     ],
     "wof:id":219560087,
-    "wof:lastmodified":1473879397,
+    "wof:lastmodified":1492501656,
     "wof:name":"Algebra",
-    "wof:parent_id":85797727,
+    "wof:parent_id":1108808807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

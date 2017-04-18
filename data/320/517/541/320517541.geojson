@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.864241,52.323746,4.864241,52.323746",
     "geom:latitude":52.323746,
     "geom:longitude":4.864241,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803485,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0lHDPvb2GIpKaX00evOBqD_52.323746_4.864241@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b57a324a93e28a38211de85c132bb78a",
+    "wof:geomhash":"ccb1cf1f6d5391129741e3a787648c87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803485,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":320517541
         }
     ],
     "wof:id":320517541,
-    "wof:lastmodified":1473879365,
+    "wof:lastmodified":1492484428,
     "wof:name":"C M A Wijs-Ter Linden",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

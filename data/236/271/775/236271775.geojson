@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.482867,51.945305,4.482867,51.945305",
     "geom:latitude":51.945305,
     "geom:longitude":4.482867,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859841,
+        1108805793,
+        102191581,
+        1108805981,
         85633337,
-        101753095,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0Zd1TZ4Th7wWbydVWE99WB_51.945305_4.482867@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"92b426fbf0f6c8187f57f71a01d6fd69",
+    "wof:geomhash":"550fdb914bb8a916998fc289e89c730e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859841,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805793,
             "region_id":85687041,
             "venue_id":236271775
         }
     ],
     "wof:id":236271775,
-    "wof:lastmodified":1473879076,
+    "wof:lastmodified":1492492763,
     "wof:name":"Ambiente",
-    "wof:parent_id":85859841,
+    "wof:parent_id":1108805793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

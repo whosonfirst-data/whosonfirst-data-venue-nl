@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.345753,52.078518,4.345753,52.078518",
     "geom:latitude":52.078518,
     "geom:longitude":4.345753,
@@ -24,31 +25,24 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797661,
-        85633337,
-        101752763,
-        85687041,
         85859643,
-        101754709
+        102191581,
+        404474685,
+        85633337,
+        101754709,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lGjbqCCMSSQt4xdEIAadg_52.078518_4.345753@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ac51e4b31e16a5fcd05aba83f97a28e7",
+    "wof:geomhash":"4013167fa37bce5a15cc85f5aa2e8606",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101752763,
-            "neighbourhood_id":85797661,
-            "region_id":85687041,
-            "venue_id":253681519
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
+            "localadmin_id":404474685,
             "locality_id":101754709,
             "neighbourhood_id":85859643,
             "region_id":85687041,
@@ -56,9 +50,9 @@
         }
     ],
     "wof:id":253681519,
-    "wof:lastmodified":1473879697,
+    "wof:lastmodified":1492490744,
     "wof:name":"Boera",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

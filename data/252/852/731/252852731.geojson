@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876712,52.366199,4.876712,52.366199",
     "geom:latitude":52.366199,
     "geom:longitude":4.876712,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803521,
+        1108802821,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_56B61AiXAh76Z7CsMqx3oi_52.366199_4.876712@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3868570ecb4269769dd5afb96e44101e",
+    "wof:geomhash":"2c13d3c12a0de9336ba7e22495125bf3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803521,
+            "neighbourhood_id":1108802821,
             "region_id":85687053,
             "venue_id":252852731
         }
     ],
     "wof:id":252852731,
-    "wof:lastmodified":1473878652,
+    "wof:lastmodified":1492505644,
     "wof:name":"M Matiasen",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803521,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

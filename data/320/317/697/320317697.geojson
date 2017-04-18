@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.924114,52.34066,4.924114,52.34066",
     "geom:latitude":52.34066,
     "geom:longitude":4.924114,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803887,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0en1aiKYbqT4kmCSxrylFR_52.340660_4.924114@1306269997"
     },
     "wof:country":"NL",
-    "wof:geomhash":"50d58f5f5f7e75dcf81e444a0c23e351",
+    "wof:geomhash":"d2cd0744192a892be15a42f35a93e7fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803887,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":320317697
         }
     ],
     "wof:id":320317697,
-    "wof:lastmodified":1473879234,
+    "wof:lastmodified":1492484355,
     "wof:name":"D. Suykerbuyk Transport Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

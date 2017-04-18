@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.910262,52.356365,4.910262,52.356365",
     "geom:latitude":52.356365,
     "geom:longitude":4.910262,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803889,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7QxzjOms680mF9sed9u485_52.356365_4.910262@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e6ae637c1f991614df1165ed54248acb",
+    "wof:geomhash":"c25495e3ab3031d7d4de31e5e0ef2573",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803889,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":270227057
         }
     ],
     "wof:id":270227057,
-    "wof:lastmodified":1473878899,
+    "wof:lastmodified":1492499313,
     "wof:name":"Fotografie Hannes Wallrafen",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

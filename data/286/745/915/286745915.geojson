@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.937276,52.356651,4.937276,52.356651",
     "geom:latitude":52.356651,
     "geom:longitude":4.937276,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803631,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2ZffhdNvibO8qrjVMKRDXA_52.356651_4.937276@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3adbbb0e2c13a73c80b2522ae45526f3",
+    "wof:geomhash":"01bc649eee6eec3361e090ab3ce5bcae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803631,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":286745915
         }
     ],
     "wof:id":286745915,
-    "wof:lastmodified":1473879517,
+    "wof:lastmodified":1492477627,
     "wof:name":"Cassandra",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

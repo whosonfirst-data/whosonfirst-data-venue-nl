@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1473011971,52.0911331177,5.1473011971,52.0911331177",
     "geom:latitude":52.091133,
     "geom:longitude":5.147301,
@@ -25,8 +26,11 @@
     "sg:website":"http://www.deloitte.nl/humancapitalgroup.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808849,
+        102191581,
         85633337,
-        85797403,
+        101751827,
+        1108808669,
         85687039
     ],
     "wof:breaches":[],
@@ -35,19 +39,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473802005,
-    "wof:geomhash":"0ea4b862f729b816672bc8a59b010456",
+    "wof:geomhash":"3ce66349f5311471fbb2bdd08d2bddac",
     "wof:hierarchy":[
         {
+            "borough_id":1108808669,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797403,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808849,
             "region_id":85687039,
             "venue_id":1091591165
         }
     ],
     "wof:id":1091591165,
-    "wof:lastmodified":1473878527,
+    "wof:lastmodified":1492509708,
     "wof:name":"Human Capital",
-    "wof:parent_id":85797403,
+    "wof:parent_id":1108808849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.89117,52.367908,4.89117,52.367908",
     "geom:latitude":52.367908,
     "geom:longitude":4.89117,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.aerlingus.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803837,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_7JlIbDM1gCjkrTz3NLUbjA_52.367908_4.891170@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"39237f6f4208273c266575658d7d3ac4",
+    "wof:geomhash":"5f0d8036228097f70cc0aeb8584d8691",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803837,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":219523953
         }
     ],
     "wof:id":219523953,
-    "wof:lastmodified":1473879343,
+    "wof:lastmodified":1492503518,
     "wof:name":"Aer Lingus",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

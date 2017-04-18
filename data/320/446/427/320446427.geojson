@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.792785,52.391411,4.792785,52.391411",
     "geom:latitude":52.391411,
     "geom:longitude":4.792785,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.arenawoninginterieur.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797579,
+        1108804105,
+        1108802535,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3FopvqiXTpLQTtnmg3yINv_52.391411_4.792785@1306269998"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e061db56a2e2046040aaf6c0920904ca",
+    "wof:geomhash":"fde51721ae05a7064f0082bb57fd8508",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797579,
+            "microhood_id":1108804105,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":320446427
         }
     ],
     "wof:id":320446427,
-    "wof:lastmodified":1473879331,
+    "wof:lastmodified":1492484846,
     "wof:name":"Arena",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108804105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

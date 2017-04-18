@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.344836235,51.9738006592,5.344836235,51.9738006592",
     "geom:latitude":51.973801,
     "geom:longitude":5.344836,
@@ -24,17 +25,32 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.intraserve.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474015,
+        85633337,
+        101809833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MXcSYwvsUK7pl1yv8UL2W_51.973801_5.344836@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800689,
-    "wof:geomhash":"a47d975f4922f041cebf4f5c6a4f08b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bea6c05ca9d50e86b18aaeaa6a778e5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474015,
+            "locality_id":101809833,
+            "region_id":85687039,
+            "venue_id":1091573373
+        }
+    ],
     "wof:id":1091573373,
-    "wof:lastmodified":1473878710,
+    "wof:lastmodified":1492511355,
     "wof:name":"Intraserve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

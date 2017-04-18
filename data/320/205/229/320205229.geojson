@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.890453,52.367489,4.890453,52.367489",
     "geom:latitude":52.367489,
     "geom:longitude":4.890453,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803837,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_5b3FCtDXpG6N1c2opIETos_52.367489_4.890453@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6cabb8748c53a646547daa2f735e1cd2",
+    "wof:geomhash":"372fd0b3e2ee1a7996fc72676df3740e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803837,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":320205229
         }
     ],
     "wof:id":320205229,
-    "wof:lastmodified":1473879100,
+    "wof:lastmodified":1492483540,
     "wof:name":"Fair Trade Shop",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7548151016,52.0857887268,4.7548151016,52.0857887268",
     "geom:latitude":52.085789,
     "geom:longitude":4.754815,
@@ -23,17 +24,32 @@
     "sg:postcode":"2411 TT",
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474153,
+        85633337,
+        101754619
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bUZ4cmn7uyrhqya6BZUC7_52.085789_4.754815@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803684,
-    "wof:geomhash":"abc774483baab5ea1f84731513c82641",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3e6c7d7fd1293889e774cab6104aa46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474153,
+            "locality_id":101754619,
+            "region_id":85687041,
+            "venue_id":1091615327
+        }
+    ],
     "wof:id":1091615327,
-    "wof:lastmodified":1473878788,
+    "wof:lastmodified":1492510632,
     "wof:name":"Van Aalst Rekensystemen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

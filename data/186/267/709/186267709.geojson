@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.103741,52.091946,5.103741,52.091946",
     "geom:latitude":52.091946,
     "geom:longitude":5.103741,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808789,
+        102191581,
+        1108808651,
         85633337,
         101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6HwdpSq2O1oGzYCE8vwdfr_52.091946_5.103741@1306269911"
     },
     "wof:country":"NL",
-    "wof:geomhash":"581704867c84ed9f16eede2bcf9abf51",
+    "wof:geomhash":"0dee2d3dadbb7f370d5d01c9bf909b07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808651,
+            "neighbourhood_id":1108808789,
             "region_id":85687039,
             "venue_id":186267709
         }
     ],
     "wof:id":186267709,
-    "wof:lastmodified":1473879154,
+    "wof:lastmodified":1492508329,
     "wof:name":"Nisbo",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

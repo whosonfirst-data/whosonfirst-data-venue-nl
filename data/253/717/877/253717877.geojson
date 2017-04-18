@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.960829,52.36322,4.960829,52.36322",
     "geom:latitude":52.36322,
     "geom:longitude":4.960829,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797433,
+        1108803329,
+        1108802965,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3uTnGIqnybS5IAEhFDVin6_52.363220_4.960829@1306269953"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f56b5962aa8e3558278bddfd8ab619d4",
+    "wof:geomhash":"e9c67c872b9e63595bce4a0ff88ceba1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797433,
+            "microhood_id":1108803329,
+            "neighbourhood_id":1108802965,
             "region_id":85687053,
             "venue_id":253717877
         }
     ],
     "wof:id":253717877,
-    "wof:lastmodified":1473879703,
+    "wof:lastmodified":1492488714,
     "wof:name":"H Bakker",
-    "wof:parent_id":85797433,
+    "wof:parent_id":1108803329,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.85606,52.353439,4.85606,52.353439",
     "geom:latitude":52.353439,
     "geom:longitude":4.85606,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803453,
+        1108802963,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5jxwWBIYVGP99lOOwG7oj0_52.353439_4.856060@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f87cac6e0493dc59ee869078a9003725",
+    "wof:geomhash":"6f8ca3427377a96b5b9e2af50e5d28d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803453,
+            "neighbourhood_id":1108802963,
             "region_id":85687053,
             "venue_id":320710395
         }
     ],
     "wof:id":320710395,
-    "wof:lastmodified":1473879557,
+    "wof:lastmodified":1492485113,
     "wof:name":"Sunrise",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

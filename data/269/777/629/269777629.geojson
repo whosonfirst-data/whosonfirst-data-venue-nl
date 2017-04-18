@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.28387,52.11533,4.28387,52.11533",
     "geom:latitude":52.11533,
     "geom:longitude":4.28387,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808139,
+        102191581,
+        1108808075,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_4kwiu4IsN9yb0t6fBXtjjW_52.115330_4.283870@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bec81b3cefb23c448940ea364b785a3b",
+    "wof:geomhash":"7e08cc6644461cc57f295335c429753e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108808075,
+            "neighbourhood_id":1108808139,
             "region_id":85687041,
             "venue_id":269777629
         }
     ],
     "wof:id":269777629,
-    "wof:lastmodified":1473879430,
+    "wof:lastmodified":1492495866,
     "wof:name":"Roy'S Place",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

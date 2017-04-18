@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88651,52.36879,4.88651,52.36879",
     "geom:latitude":52.36879,
     "geom:longitude":4.88651,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803351,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0bBlLqLKf4gTGBZHvQCJ0e_52.368790_4.886510@1306269932"
     },
     "wof:country":"NL",
-    "wof:geomhash":"341a23776d70c4f1a6d287395d71c20b",
+    "wof:geomhash":"c5c7a7ad070c06ea28682e3ecd3b7fba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803351,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":220150501
         }
     ],
     "wof:id":220150501,
-    "wof:lastmodified":1473878976,
+    "wof:lastmodified":1492481627,
     "wof:name":"Veenhuys Bv, J B M",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803351,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

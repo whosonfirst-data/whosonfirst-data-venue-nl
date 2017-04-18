@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.904915,52.002964,5.904915,52.002964",
     "geom:latitude":52.002964,
     "geom:longitude":5.904915,
@@ -24,40 +25,41 @@
     "sg:province":"Gelderland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797075,
-        85633337,
-        85687043,
         85797057,
-        101751857
+        102191581,
+        404473871,
+        85633337,
+        101751857,
+        85687043,
+        85797075
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cvXsfhpSL6SuDZVG1SJO2_52.002964_5.904915@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"61aca61f6d828a16486d913ea5db110e",
+    "wof:geomhash":"c42adde6a2903afa2cf2fc18cc621a20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797075,
+            "localadmin_id":404473871,
+            "locality_id":101751857,
+            "neighbourhood_id":85797057,
             "region_id":85687043,
             "venue_id":253332939
         },
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751857,
-            "neighbourhood_id":85797057,
+            "neighbourhood_id":85797075,
             "region_id":85687043,
             "venue_id":253332939
         }
     ],
     "wof:id":253332939,
-    "wof:lastmodified":1473879432,
+    "wof:lastmodified":1492488535,
     "wof:name":"Bouwkamp",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

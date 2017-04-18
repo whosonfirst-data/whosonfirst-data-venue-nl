@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1825699806,52.3571395874,5.1825699806,52.3571395874",
     "geom:latitude":52.35714,
     "geom:longitude":5.18257,
@@ -24,17 +25,32 @@
     "sg:province":"Flevoland",
     "sg:website":"http://www.studio10b.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101751877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7b2ndkVqHbhmX8BvNiqz1c_52.357140_5.182570@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802537,
-    "wof:geomhash":"2f790cfa499af81fea99a88f73dcd89d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98ae8988def4731838b0d545a62a15cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101751877,
+            "region_id":85687049,
+            "venue_id":1091600295
+        }
+    ],
     "wof:id":1091600295,
-    "wof:lastmodified":1473878494,
+    "wof:lastmodified":1492512934,
     "wof:name":"Studio 10B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

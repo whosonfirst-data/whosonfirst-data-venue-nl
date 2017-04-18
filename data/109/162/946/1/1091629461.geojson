@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8911290169,52.4129066467,4.8911290169,52.4129066467",
     "geom:latitude":52.412907,
     "geom:longitude":4.891129,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
+        1108803211,
         85798523,
+        102191581,
+        85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,19 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473804523,
-    "wof:geomhash":"e6ab4339ffcf7902fd71a512fc7010c9",
+    "wof:geomhash":"d2b15170e740f05be04c6f445db98ef8",
     "wof:hierarchy":[
         {
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1108803211,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":1091629461
         }
     ],
     "wof:id":1091629461,
-    "wof:lastmodified":1473879130,
+    "wof:lastmodified":1492512239,
     "wof:name":"Hairstyling Magnifique",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

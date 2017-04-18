@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.834911,52.383663,4.834911,52.383663",
     "geom:latitude":52.383663,
     "geom:longitude":4.834911,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108804011,
+        1108802905,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1U44TqbJeTSiuVBOts8AjX_52.383663_4.834911@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7bcce0193e99e376cec8a9014aeab7c2",
+    "wof:geomhash":"48d2cf86787b7744f83de8a1c033cb6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108804011,
+            "neighbourhood_id":1108802905,
             "region_id":85687053,
             "venue_id":286785159
         }
     ],
     "wof:id":286785159,
-    "wof:lastmodified":1473879596,
+    "wof:lastmodified":1492477570,
     "wof:name":"Ontwerpstudio D. I. T.",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108804011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

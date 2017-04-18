@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.503645,51.953884,4.503645,51.953884",
     "geom:latitude":51.953884,
     "geom:longitude":4.503645,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797707,
+        1108805791,
+        102191581,
+        1108805981,
         85633337,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_628hirVSaXG2uX88KCvfcX_51.953884_4.503645@1306269935"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0568e2b8a609825050601f85eb4ae6c5",
+    "wof:geomhash":"901242bce988480884cd2f43b366c558",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797707,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805791,
             "region_id":85687041,
             "venue_id":236223169
         }
     ],
     "wof:id":236223169,
-    "wof:lastmodified":1473878956,
+    "wof:lastmodified":1492494285,
     "wof:name":"Schuuring-Van Dijk, M",
-    "wof:parent_id":85797707,
+    "wof:parent_id":1108805791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

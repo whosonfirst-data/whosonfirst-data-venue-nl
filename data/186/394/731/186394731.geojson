@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.46573,51.410511,5.46573,51.410511",
     "geom:latitude":51.410511,
     "geom:longitude":5.46573,
@@ -24,40 +25,41 @@
     "sg:province":"Noord-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798477,
         85633337,
-        101751819,
+        85797119,
         85687035,
-        85797119
+        85798477,
+        102191581,
+        404474375,
+        101751819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69bTzeWJLmllPBYekyxM6C_51.410511_5.465730@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2dbd46c785ac4578e66fac366d4800f2",
+    "wof:geomhash":"8cfaf92634b5ac586320cdb1d3fb7ea4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751819,
-            "neighbourhood_id":85798477,
+            "neighbourhood_id":85797119,
             "region_id":85687035,
             "venue_id":186394731
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797119,
+            "localadmin_id":404474375,
+            "locality_id":101751819,
+            "neighbourhood_id":85798477,
             "region_id":85687035,
             "venue_id":186394731
         }
     ],
     "wof:id":186394731,
-    "wof:lastmodified":1473879389,
+    "wof:lastmodified":1492507918,
     "wof:name":"Groen Gennep",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.2652368546,53.2165603638,6.2652368546,53.2165603638",
     "geom:latitude":53.21656,
     "geom:longitude":6.265237,
@@ -24,17 +25,32 @@
     "sg:province":"Groningen",
     "sg:website":"http://www.jwgcampers.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473715,
+        85633337,
+        101806221
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vcIaokRXN33Hpg1DJxWsk_53.216560_6.265237@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473803037,
-    "wof:geomhash":"f8631da53a29a971c12d891603576248",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11ddc6929c6936e907ee61615d20558b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473715,
+            "locality_id":101806221,
+            "region_id":85687059,
+            "venue_id":1091605677
+        }
+    ],
     "wof:id":1091605677,
-    "wof:lastmodified":1473878762,
+    "wof:lastmodified":1492512994,
     "wof:name":"Jwg Campers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

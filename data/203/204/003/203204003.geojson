@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.915316,52.347935,4.915316,52.347935",
     "geom:latitude":52.347935,
     "geom:longitude":4.915316,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803991,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3pZZYbTqjyZ9RUhbK481wz_52.347935_4.915316@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bedde5d500eb22786731e10a01884677",
+    "wof:geomhash":"f86349876450dfe2323856b590d051ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803991,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":203204003
         }
     ],
     "wof:id":203204003,
-    "wof:lastmodified":1473879114,
+    "wof:lastmodified":1492480049,
     "wof:name":"Westland Utrecht Verzekeringen Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

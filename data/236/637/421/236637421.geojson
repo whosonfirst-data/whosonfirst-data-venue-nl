@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.291694,52.081654,4.291694,52.081654",
     "geom:latitude":52.081654,
     "geom:longitude":4.291694,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0zBz0R7KoqZfF7eYVl95AG_52.081654_4.291694@1306269939"
     },
     "wof:country":"NL",
-    "wof:geomhash":"09b80444354e336f1b731580a41e8cd1",
+    "wof:geomhash":"4d8fe8475236bf9b002fafc32dc64b23",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":236637421
         }
     ],
     "wof:id":236637421,
-    "wof:lastmodified":1473879474,
+    "wof:lastmodified":1492493727,
     "wof:name":"Sauber",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.536541,53.233955,6.536541,53.233955",
     "geom:latitude":53.233955,
     "geom:longitude":6.536541,
@@ -24,10 +25,12 @@
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798239,
         85633337,
+        85798239,
         85687059,
         85798391,
+        102191581,
+        404473713,
         101751909
     ],
     "wof:breaches":[],
@@ -35,19 +38,18 @@
         "sg:id":"SG_68waUaNLT3NLp5Vquysrdp_53.233955_6.536541@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d8872a33b201d29c5f60e5f53cd72829",
+    "wof:geomhash":"196a323ac33eb9449b13ccf20b6e2793",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85798239,
             "region_id":85687059,
             "venue_id":336766407
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473713,
             "locality_id":101751909,
             "neighbourhood_id":85798391,
             "region_id":85687059,
@@ -55,9 +57,9 @@
         }
     ],
     "wof:id":336766407,
-    "wof:lastmodified":1473878432,
+    "wof:lastmodified":1492506802,
     "wof:name":"Pistorius, B",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

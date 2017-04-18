@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884304,52.371643,4.884304,52.371643",
     "geom:latitude":52.371643,
     "geom:longitude":4.884304,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.montevideo.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804103,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_62MiqOKmIOjT7N1M40Grca_52.371643_4.884304@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a660cbb5b8f1937474f93a3b1055bfab",
+    "wof:geomhash":"00fbbfb5551a733131a93890844ce356",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804103,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":203230877
         }
     ],
     "wof:id":203230877,
-    "wof:lastmodified":1473879198,
+    "wof:lastmodified":1492480244,
     "wof:name":"Montevideo/ Tba",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

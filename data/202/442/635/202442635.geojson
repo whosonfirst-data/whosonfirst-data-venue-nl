@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.941068,52.39827,4.941068,52.39827",
     "geom:latitude":52.39827,
     "geom:longitude":4.941068,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803947,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1O9UcqzUUrtvmpk75Bqm3C_52.398270_4.941068@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"03211ff1104e7b49b5453455a552def7",
+    "wof:geomhash":"8a2e2ed7fd25b10750e76794f2e10789",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803947,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":202442635
         }
     ],
     "wof:id":202442635,
-    "wof:lastmodified":1473878704,
+    "wof:lastmodified":1492497054,
     "wof:name":"Skala Home Electronics Bv",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

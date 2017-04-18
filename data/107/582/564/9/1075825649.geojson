@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.5764350891,53.0765228271,6.5764350891,53.0765228271",
     "geom:latitude":53.076523,
     "geom:longitude":6.576435,
@@ -24,17 +25,32 @@
     "sg:province":"Provincie Drenthe",
     "sg:website":"http://www.stelorthopedie.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474647,
+        85633337,
+        101807259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53HklwKFzJw6i4YsoE2Ani_53.076523_6.576435@1306270009"
     },
     "wof:country":"NL",
     "wof:created":1473799534,
-    "wof:geomhash":"bdcd73e38d719d977cd0a1bdecc5db91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7341839c64902cf8726ec73333fd88c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474647,
+            "locality_id":101807259,
+            "region_id":85687051,
+            "venue_id":1075825649
+        }
+    ],
     "wof:id":1075825649,
-    "wof:lastmodified":1473879399,
+    "wof:lastmodified":1492486939,
     "wof:name":"Stel Orthopedie Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

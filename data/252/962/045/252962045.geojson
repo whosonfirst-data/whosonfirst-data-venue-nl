@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"20.217291,60.19825,20.217291,60.19825",
     "geom:latitude":60.19825,
     "geom:longitude":20.217291,
@@ -23,16 +24,31 @@
     "sg:postcode":"5405 AX",
     "sg:province":"\u00c5land",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        "85632789",
+        85667867,
+        "102191581",
+        907198499,
+        "85633143"
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Lt06sDgaSq6MyrhMvhNHX_60.198250_20.217291@1306269945"
     },
     "wof:country":"NL",
-    "wof:geomhash":"542bc57a1a98c7144bf8772591d5464a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5219f6fa3b8d683e7ab1a559e5a080e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633143",
+            "dependency_id":"85632789",
+            "localadmin_id":907198499,
+            "region_id":85667867,
+            "venue_id":252962045
+        }
+    ],
     "wof:id":252962045,
-    "wof:lastmodified":1473878959,
+    "wof:lastmodified":1492505148,
     "wof:name":"Vovu Metaalbewerking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

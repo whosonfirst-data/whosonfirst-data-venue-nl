@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9446949959,51.6870117188,4.9446949959,51.6870117188",
     "geom:latitude":51.687012,
     "geom:longitude":4.944695,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.destatie.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474451,
+        85633337,
+        101809637
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0i3X9NBpizrGyWWNpV6Je3_51.687012_4.944695@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802535,
-    "wof:geomhash":"adb8ce415e7fcb40cd3f50fd7fc9eeef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bba6668a0983fe7274edff56fd9dac8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474451,
+            "locality_id":101809637,
+            "region_id":85687035,
+            "venue_id":1091600237
+        }
+    ],
     "wof:id":1091600237,
-    "wof:lastmodified":1473878492,
+    "wof:lastmodified":1492512721,
     "wof:name":"Statie, De",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.961531,52.357056,4.961531,52.357056",
     "geom:latitude":52.357056,
     "geom:longitude":4.961531,
@@ -24,8 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797449,
+        1108803239,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
+        101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +39,24 @@
         "sg:id":"SG_4a5tLIPADFACbSUOSjF3Oe_52.357056_4.961531@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"45b15c969ef2004b39166dfbaafc5fcf",
+    "wof:geomhash":"261806d3c03539c320262cba0eb3546b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797449,
+            "locality_id":101751893,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803239,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":236406551
         }
     ],
     "wof:id":236406551,
-    "wof:lastmodified":1473879255,
+    "wof:lastmodified":1492492292,
     "wof:name":"Torrez, Les",
-    "wof:parent_id":85797449,
+    "wof:parent_id":1108803239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

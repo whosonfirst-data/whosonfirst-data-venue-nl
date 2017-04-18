@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6029410362,51.6380462646,4.6029410362,51.6380462646",
     "geom:latitude":51.638046,
     "geom:longitude":4.602941,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.mrnweb.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474623,
+        85633337,
+        101809653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0T8eI9oYNebM1pJ4ckgxYE_51.638046_4.602941@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800735,
-    "wof:geomhash":"88c09381477a38ba5ce3f8b78048aa59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19edd3d29f89a5e7bd29ae1eef0a2746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474623,
+            "locality_id":101809653,
+            "region_id":85687035,
+            "venue_id":1091574079
+        }
+    ],
     "wof:id":1091574079,
-    "wof:lastmodified":1473878764,
+    "wof:lastmodified":1492511236,
     "wof:name":"Mrn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

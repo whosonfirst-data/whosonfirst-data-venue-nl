@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.897422,52.371475,4.897422,52.371475",
     "geom:latitude":52.371475,
     "geom:longitude":4.897422,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803883,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5nULHLZVETqjzBnhdFm4X1_52.371475_4.897422@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"edba3e7b813dbffa1bb25adb707a56e1",
+    "wof:geomhash":"37b8673def69aec2a1803167811fb334",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803883,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":186073001
         }
     ],
     "wof:id":186073001,
-    "wof:lastmodified":1473878811,
+    "wof:lastmodified":1492509115,
     "wof:name":"Choise Exact",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

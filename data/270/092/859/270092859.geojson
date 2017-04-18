@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.290447,52.080811,4.290447,52.080811",
     "geom:latitude":52.080811,
     "geom:longitude":4.290447,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_3N6D0YOlRRkKr47xE5uqVC_52.080811_4.290447@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"effdf25b7f5b4f324b4f9ff034fd153c",
+    "wof:geomhash":"b9776d8ab4b59a5b525427ed3e5857d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":270092859
         }
     ],
     "wof:id":270092859,
-    "wof:lastmodified":1473878562,
+    "wof:lastmodified":1492499631,
     "wof:name":"Foto Hans Koet",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

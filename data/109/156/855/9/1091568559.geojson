@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.578810215,51.000831604,5.578810215,51.000831604",
     "geom:latitude":51.000832,
     "geom:longitude":5.57881,
@@ -23,17 +24,34 @@
     "sg:postcode":"8061 AS",
     "sg:province":"BE.05",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        85632997,
+        404227357,
+        101838769,
+        102049975
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hZACouNERJCO9vwJIbF90_51.000832_5.578810@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800365,
-    "wof:geomhash":"2d1339e950a8264674d522ed19220cca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b09bb6c8e4d2ad77073dec6e96b9a399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049975,
+            "locality_id":101838769,
+            "macroregion_id":404227357,
+            "region_id":85681705,
+            "venue_id":1091568559
+        }
+    ],
     "wof:id":1091568559,
-    "wof:lastmodified":1473878535,
+    "wof:lastmodified":1492510917,
     "wof:name":"Eysink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

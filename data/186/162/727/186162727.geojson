@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.909129,52.356434,4.909129,52.356434",
     "geom:latitude":52.356434,
     "geom:longitude":4.909129,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.mpompe.exto.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803889,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_6qQTfk4KzH7tp5bI9ZyR0c_52.356434_4.909129@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"208d81104dea1bbad0efa77a0ae19e33",
+    "wof:geomhash":"228fdbee4b1838bbdd17ed6c43880c68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803889,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":186162727
         }
     ],
     "wof:id":186162727,
-    "wof:lastmodified":1473879080,
+    "wof:lastmodified":1492509263,
     "wof:name":"Pi",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

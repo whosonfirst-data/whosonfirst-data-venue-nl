@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.904322,52.351929,4.904322,52.351929",
     "geom:latitude":52.351929,
     "geom:longitude":4.904322,
@@ -36,9 +37,12 @@
     "sg:website":"http://www.kahlebouwmarkt.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803479,
+        1108802793,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -46,21 +50,23 @@
         "sg:id":"SG_2p49oJH26t2ndDgE7U65Mv_52.351929_4.904322@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ce64f20aa500127de3979d177056bfec",
+    "wof:geomhash":"04ed00431b7bae9ae607feb0df7ff283",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803479,
+            "neighbourhood_id":1108802793,
             "region_id":85687053,
             "venue_id":319855915
         }
     ],
     "wof:id":319855915,
-    "wof:lastmodified":1473878735,
+    "wof:lastmodified":1492479403,
     "wof:name":"Kahl? Bouwmarkt",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

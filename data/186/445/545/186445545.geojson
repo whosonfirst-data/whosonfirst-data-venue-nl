@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.824608,52.355347,4.824608,52.355347",
     "geom:latitude":52.355347,
     "geom:longitude":4.824608,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803265,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5eK1e0fmJZDop2ZjX1ojQr_52.355347_4.824608@1306269912"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c3d336f101b1c1b6f07f725af0c80a45",
+    "wof:geomhash":"35c9d45bbe0f0f66e7f321ce5bd1be40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803265,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":186445545
         }
     ],
     "wof:id":186445545,
-    "wof:lastmodified":1473879460,
+    "wof:lastmodified":1492508083,
     "wof:name":"Merkartikel, Sticht",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

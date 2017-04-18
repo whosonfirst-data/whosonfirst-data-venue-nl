@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4053,51.938469,4.4053,51.938469",
     "geom:latitude":51.938469,
     "geom:longitude":4.4053,
@@ -25,31 +26,46 @@
     "sg:website":"http://www.cef.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859705,
+        1108805757,
+        102191581,
         85633337,
-        101751845,
-        85687041
+        101751843,
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AngKHX5WcggS9AajEKizH_51.938469_4.405300@1306269935"
     },
     "wof:country":"NL",
-    "wof:geomhash":"af7e7482b3206983884229a9fffa99d2",
+    "wof:geomhash":"ad5f68a0d3c4c0ab35e862339b5ffc99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805739,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":236188309
+        },
+        {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474253,
             "locality_id":101751845,
-            "neighbourhood_id":85859705,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":236188309
         }
     ],
     "wof:id":236188309,
-    "wof:lastmodified":1473878880,
+    "wof:lastmodified":1492491320,
     "wof:name":"City Electrical Factors Bv",
-    "wof:parent_id":85859705,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.482365,51.946514,4.482365,51.946514",
     "geom:latitude":51.946514,
     "geom:longitude":4.482365,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859841,
+        1108805793,
+        102191581,
+        1108805981,
         85633337,
-        101753095,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_1yLTcprygkcT8Ycy3kQSb2_51.946514_4.482365@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0f7e5c229160e587dac3b2c4f5bcf386",
+    "wof:geomhash":"709e5778131ef475db35a7f1492c49eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859841,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805793,
             "region_id":85687041,
             "venue_id":270484061
         }
     ],
     "wof:id":270484061,
-    "wof:lastmodified":1473879314,
+    "wof:lastmodified":1492499941,
     "wof:name":"Basisschool Tarcisius",
-    "wof:parent_id":85859841,
+    "wof:parent_id":1108805793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

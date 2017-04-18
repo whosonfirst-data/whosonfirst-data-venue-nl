@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.909981,52.395279,4.909981,52.395279",
     "geom:latitude":52.395279,
     "geom:longitude":4.909981,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803335,
+        1108802545,
+        102191581,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_65eNBoxJ2fDQG11VRrsx4e_52.395279_4.909981@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"10ee994602d8a3796c3135bb31a4ccda",
+    "wof:geomhash":"d3ddcd2e6aeb94f6baeff7f146fc0cbf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803335,
+            "neighbourhood_id":1108802545,
             "region_id":85687053,
             "venue_id":202525511
         }
     ],
     "wof:id":202525511,
-    "wof:lastmodified":1473878852,
+    "wof:lastmodified":1492497525,
     "wof:name":"Video Home Service",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

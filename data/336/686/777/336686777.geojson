@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.91921,52.353455,4.91921,52.353455",
     "geom:latitude":52.353455,
     "geom:longitude":4.91921,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803773,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2PEdDoILE0K4AG2BQd9h7V_52.353455_4.919210@1306270004"
     },
     "wof:country":"NL",
-    "wof:geomhash":"333f761798f970592d143a81a19c9d5e",
+    "wof:geomhash":"f33d8922cf65ebdd4a6c6ed8752e29dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803773,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":336686777
         }
     ],
     "wof:id":336686777,
-    "wof:lastmodified":1473878431,
+    "wof:lastmodified":1492505832,
     "wof:name":"Tieben Vof",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

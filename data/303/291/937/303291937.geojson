@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.887003,52.374317,4.887003,52.374317",
     "geom:latitude":52.374317,
     "geom:longitude":4.887003,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803311,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6yfyLpLYYrf0FcajHuGdAi_52.374317_4.887003@1306269982"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0c36da24549c9df905c7295ab989e1c7",
+    "wof:geomhash":"e9d7da70c8246ed415a3a036001dc602",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803311,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":303291937
         }
     ],
     "wof:id":303291937,
-    "wof:lastmodified":1473879071,
+    "wof:lastmodified":1492472550,
     "wof:name":"Schildersbedrijf Maarten Mater",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803311,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

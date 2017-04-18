@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3140587807,51.5103683472,5.3140587807,51.5103683472",
     "geom:latitude":51.510368,
     "geom:longitude":5.314059,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.emedia4u.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474407,
+        85633337,
+        101809741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eZeBjy4edXQjR6Pv09DDg_51.510368_5.314059@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800642,
-    "wof:geomhash":"78d8faca885b8cf3a618a3e67e2b5b49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a2b1cad4746b276a119ff6da7bb11b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474407,
+            "locality_id":101809741,
+            "region_id":85687035,
+            "venue_id":1091572629
+        }
+    ],
     "wof:id":1091572629,
-    "wof:lastmodified":1473878640,
+    "wof:lastmodified":1492511452,
     "wof:name":"Emedia4U",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

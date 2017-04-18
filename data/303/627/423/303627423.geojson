@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.555674,51.911179,4.555674,51.911179",
     "geom:latitude":51.911179,
     "geom:longitude":4.555674,
@@ -25,28 +26,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85797865,
+        102191581,
         85633337,
-        101754669,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4law8dR7TrQO555JljFiTS_51.911179_4.555674@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"39b2c087daef483f0dd4349a66bd51ce",
+    "wof:geomhash":"bd8376e473538dd44de671d7cf8ec908",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754669,
+            "locality_id":101751843,
+            "neighbourhood_id":85797865,
+            "region_id":85687041,
+            "venue_id":303627423
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
             "neighbourhood_id":85797865,
             "region_id":85687041,
             "venue_id":303627423
         }
     ],
     "wof:id":303627423,
-    "wof:lastmodified":1473879331,
+    "wof:lastmodified":1492471239,
     "wof:name":"Erlas Bv",
     "wof:parent_id":85797865,
     "wof:placetype":"venue",

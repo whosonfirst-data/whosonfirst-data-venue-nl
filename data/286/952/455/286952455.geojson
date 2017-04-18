@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.226367,52.040577,4.226367,52.040577",
     "geom:latitude":52.040577,
     "geom:longitude":4.226367,
@@ -24,8 +25,13 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859557,
+        1108833209,
+        85797849,
+        102191581,
+        1108808101,
         85633337,
+        101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +39,24 @@
         "sg:id":"SG_3GeDqIsQ1tNVBzhl1uo2NP_52.040577_4.226367@1306269975"
     },
     "wof:country":"NL",
-    "wof:geomhash":"802a7c8d4e881377bf7101dd4e212d62",
+    "wof:geomhash":"ba49b042acdc9f734fa516821c2ffbc9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859557,
+            "locality_id":101752763,
+            "macrohood_id":1108808101,
+            "microhood_id":1108833209,
+            "neighbourhood_id":85797849,
             "region_id":85687041,
             "venue_id":286952455
         }
     ],
     "wof:id":286952455,
-    "wof:lastmodified":1473879713,
+    "wof:lastmodified":1492476267,
     "wof:name":"Kwekerij Fred Van Luyk Bv",
-    "wof:parent_id":85859557,
+    "wof:parent_id":1108833209,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.084961,52.129551,5.084961,52.129551",
     "geom:latitude":52.129551,
     "geom:longitude":5.084961,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.docvision.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808701,
+        102191581,
+        1108832365,
         85633337,
         101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_7Hzc8u67I33SHfL36Y1vQL_52.129551_5.084961@1306269987"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d2b22e8b67a52ed55990a2b2bb2bc9ce",
+    "wof:geomhash":"8c6c34c9acac95354f1b43263326e2d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808701,
             "region_id":85687039,
             "venue_id":303767399
         }
     ],
     "wof:id":303767399,
-    "wof:lastmodified":1473879524,
+    "wof:lastmodified":1492471784,
     "wof:name":"Docvision Bv",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.487017,51.917892,4.487017,51.917892",
     "geom:latitude":51.917892,
     "geom:longitude":4.487017,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859853,
+        1108805663,
+        1108805867,
+        102191581,
         85633337,
         101751843,
+        1108804841,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0dgLRy4T1hfsUeFpDSHONe_51.917892_4.487017@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d94e2a658ee00d848165a2ca3332bfa1",
+    "wof:geomhash":"3d5970ab4a4fe42968ce5d950fe2826c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108804841,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859853,
+            "microhood_id":1108805663,
+            "neighbourhood_id":1108805867,
             "region_id":85687041,
             "venue_id":219862163
         }
     ],
     "wof:id":219862163,
-    "wof:lastmodified":1473879730,
+    "wof:lastmodified":1492502405,
     "wof:name":"Logica Bv",
-    "wof:parent_id":85859853,
+    "wof:parent_id":1108805663,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

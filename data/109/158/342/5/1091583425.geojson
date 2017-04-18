@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3943629265,52.0827331543,4.3943629265,52.0827331543",
     "geom:latitude":52.082733,
     "geom:longitude":4.394363,
@@ -24,14 +25,13 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859687,
+        85859675,
         102191581,
         404474685,
         85633337,
         101754679,
         85687041,
-        85859675,
-        101754709
+        85859687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,8 +39,17 @@
     },
     "wof:country":"NL",
     "wof:created":1473801358,
-    "wof:geomhash":"f3fda04c204017a4c695da8b4c37c6b9",
+    "wof:geomhash":"c7cd6cf35f1dec218e900037b5c8bbe2",
     "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474685,
+            "locality_id":101754679,
+            "neighbourhood_id":85859675,
+            "region_id":85687041,
+            "venue_id":1091583425
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -49,21 +58,12 @@
             "neighbourhood_id":85859687,
             "region_id":85687041,
             "venue_id":1091583425
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474685,
-            "locality_id":101754709,
-            "neighbourhood_id":85859675,
-            "region_id":85687041,
-            "venue_id":1091583425
         }
     ],
     "wof:id":1091583425,
-    "wof:lastmodified":1473878656,
+    "wof:lastmodified":1492511947,
     "wof:name":"Content",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

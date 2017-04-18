@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.903595,52.352135,4.903595,52.352135",
     "geom:latitude":52.352135,
     "geom:longitude":4.903595,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803479,
+        1108802793,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3UWpRLzMNvrVMaokQ1u2e8_52.352135_4.903595@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9496dd1154050f9dfae7a7cdcd91f3d6",
+    "wof:geomhash":"61c10d85e9ae9f81034a50e997fa8e72",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803479,
+            "neighbourhood_id":1108802793,
             "region_id":85687053,
             "venue_id":270251219
         }
     ],
     "wof:id":270251219,
-    "wof:lastmodified":1473878954,
+    "wof:lastmodified":1492499306,
     "wof:name":"P.A. Fleming",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

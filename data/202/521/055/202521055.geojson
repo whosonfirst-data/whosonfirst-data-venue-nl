@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.929279,52.346893,4.929279,52.346893",
     "geom:latitude":52.346893,
     "geom:longitude":4.929279,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803839,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +49,24 @@
         "sg:id":"SG_0wNTNSX6JlRmsHkbplMXvK_52.346893_4.929279@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"97f49eeb4671000ba1836658b757118b",
+    "wof:geomhash":"46fa2cc79a18a78b3d3753519dce467c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803839,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":202521055
         }
     ],
     "wof:id":202521055,
-    "wof:lastmodified":1473878845,
+    "wof:lastmodified":1492497633,
     "wof:name":"Have",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

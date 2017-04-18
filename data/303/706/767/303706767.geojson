@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.95212,52.4006,4.95212,52.4006",
     "geom:latitude":52.4006,
     "geom:longitude":4.95212,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108803639,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5XfLuD0ecUpHRgk0oT5VvH_52.400600_4.952120@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"325a35877f2bbb502ca59b3a76b93904",
+    "wof:geomhash":"72ade139e4ccd56f94de074417b69076",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803639,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":303706767
         }
     ],
     "wof:id":303706767,
-    "wof:lastmodified":1473879463,
+    "wof:lastmodified":1492474559,
     "wof:name":"T. Prins",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

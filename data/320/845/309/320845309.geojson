@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.30284,52.07935,4.30284,52.07935",
     "geom:latitude":52.07935,
     "geom:longitude":4.30284,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797685,
+        1108808249,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2X5pWr40IwUcpMmr1Qm7yP_52.079350_4.302840@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a6a016d95d2d9bcdc781270277afc912",
+    "wof:geomhash":"abc65ac17814ffa5b75bdcfa8b3016f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797685,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808249,
             "region_id":85687041,
             "venue_id":320845309
         }
     ],
     "wof:id":320845309,
-    "wof:lastmodified":1473879653,
+    "wof:lastmodified":1492481851,
     "wof:name":"Buro Voor Rechtshulp",
-    "wof:parent_id":85797685,
+    "wof:parent_id":1108808249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.856386,52.359074,4.856386,52.359074",
     "geom:latitude":52.359074,
     "geom:longitude":4.856386,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.2voices.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803855,
+        1108802893,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3eKUMSDjzoNILpFOmslmV8_52.359074_4.856386@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"db92c48e8f0d1cea73ffb671727e9f40",
+    "wof:geomhash":"6cb63fe183ff5af14fb3aa2281768a8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803855,
+            "neighbourhood_id":1108802893,
             "region_id":85687053,
             "venue_id":185944273
         }
     ],
     "wof:id":185944273,
-    "wof:lastmodified":1473878961,
+    "wof:lastmodified":1492488018,
     "wof:name":"2 Voices",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

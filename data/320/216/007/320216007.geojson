@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877169,52.347221,4.877169,52.347221",
     "geom:latitude":52.347221,
     "geom:longitude":4.877169,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803589,
+        1108802527,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_60ZP7So73dssjL9Nb7QyUK_52.347221_4.877169@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c8b6bf339fcc2a55d778d8aa23b2431c",
+    "wof:geomhash":"e69a33ca004aad522784ec027154b831",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108803589,
+            "neighbourhood_id":1108802527,
             "region_id":85687053,
             "venue_id":320216007
         }
     ],
     "wof:id":320216007,
-    "wof:lastmodified":1473879096,
+    "wof:lastmodified":1492482312,
     "wof:name":"Nijntje De Winkel Van",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803589,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

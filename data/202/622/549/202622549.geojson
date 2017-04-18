@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.276822,52.103367,4.276822,52.103367",
     "geom:latitude":52.103367,
     "geom:longitude":4.276822,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808159,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6MT74XxPoZ06iAs4E4x2e0_52.103367_4.276822@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"78c4a549e72be243e4d1e484913c40bc",
+    "wof:geomhash":"af25c2a4a3580c25c6f652209ab4df80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808159,
             "region_id":85687041,
             "venue_id":202622549
         }
     ],
     "wof:id":202622549,
-    "wof:lastmodified":1473879088,
+    "wof:lastmodified":1492498199,
     "wof:name":"Kykskoop",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.09574,52.090012,5.09574,52.090012",
     "geom:latitude":52.090012,
     "geom:longitude":5.09574,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.evp.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808791,
+        102191581,
+        1108808651,
         85633337,
         101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_6pl1twg8dktUUieeDLCxkF_52.090012_5.095740@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"86f44debb6a50f1bc57c54937c8d5d22",
+    "wof:geomhash":"401c67a10556e3454511aafb0cd4fe72",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808651,
+            "neighbourhood_id":1108808791,
             "region_id":85687039,
             "venue_id":219788443
         }
     ],
     "wof:id":219788443,
-    "wof:lastmodified":1473879707,
+    "wof:lastmodified":1492501868,
     "wof:name":"Evp Cons",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

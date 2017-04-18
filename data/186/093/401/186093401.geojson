@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.843813,52.399837,4.843813,52.399837",
     "geom:latitude":52.399837,
     "geom:longitude":4.843813,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804047,
+        1108802955,
+        102191581,
         85633337,
         101751893,
+        1108802287,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4CnwVSPDGzOwSxh5qxFVs4_52.399837_4.843813@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ba7cb38380d9d5ad346a6827898f1973",
+    "wof:geomhash":"be08d7628ed719f8d3d2ce5c3d3ebd29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802287,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108804047,
+            "neighbourhood_id":1108802955,
             "region_id":85687053,
             "venue_id":186093401
         }
     ],
     "wof:id":186093401,
-    "wof:lastmodified":1473878910,
+    "wof:lastmodified":1492509130,
     "wof:name":"Repro Sloterdijk Bv",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

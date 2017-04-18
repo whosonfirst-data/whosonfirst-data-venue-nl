@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.892226,52.366062,4.892226,52.366062",
     "geom:latitude":52.366062,
     "geom:longitude":4.892226,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.woonwerkkeuken.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803629,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_7culfWBkOpquIAoyWjtX11_52.366062_4.892226@1306269907"
     },
     "wof:country":"NL",
-    "wof:geomhash":"148d3a448c962843b075c0a66047e72c",
+    "wof:geomhash":"26df3c5bd7f738681638d4af1328efcf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803629,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":185795741
         }
     ],
     "wof:id":185795741,
-    "wof:lastmodified":1473878735,
+    "wof:lastmodified":1492487549,
     "wof:name":"Woon & Werkkeuken",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

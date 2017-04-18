@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2873120308,51.8944702148,4.2873120308,51.8944702148",
     "geom:latitude":51.89447,
     "geom:longitude":4.287312,
@@ -24,8 +25,11 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108805771,
+        102191581,
         85633337,
-        85798569,
+        101751843,
+        1108805737,
         85687041
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473798821,
-    "wof:geomhash":"82052e2d3b7f5e3ade10c7d8799f5d48",
+    "wof:geomhash":"7e243b2f010d5da69e7875502f1888df",
     "wof:hierarchy":[
         {
+            "borough_id":1108805737,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798569,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805771,
             "region_id":85687041,
             "venue_id":1075813195
         }
     ],
     "wof:id":1075813195,
-    "wof:lastmodified":1473878919,
+    "wof:lastmodified":1492486215,
     "wof:name":"Adhoc General Supplies",
-    "wof:parent_id":85798569,
+    "wof:parent_id":1108805771,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

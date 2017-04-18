@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.869381,52.324497,4.869381,52.324497",
     "geom:latitude":52.324497,
     "geom:longitude":4.869381,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803497,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_22A6ArKKMkvQndIXz05x6E_52.324497_4.869381@1306269940"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1343ae9b39740915a546263d434c7f2b",
+    "wof:geomhash":"19f473206b2a1f26dfc76f56cbe25dc2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803497,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":236663299
         }
     ],
     "wof:id":236663299,
-    "wof:lastmodified":1473879473,
+    "wof:lastmodified":1492492946,
     "wof:name":"W.W. Smit",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

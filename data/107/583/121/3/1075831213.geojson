@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1442141533,52.083694458,5.1442141533,52.083694458",
     "geom:latitude":52.083694,
     "geom:longitude":5.144214,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808861,
+        102191581,
         85633337,
-        85797403,
+        101751827,
+        1108808669,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473799858,
-    "wof:geomhash":"e30e01ec56d8d780275e9c62aefb1fbe",
+    "wof:geomhash":"d9a938df6a0b955c23f3e6584bebad38",
     "wof:hierarchy":[
         {
+            "borough_id":1108808669,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797403,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808861,
             "region_id":85687039,
             "venue_id":1075831213
         }
     ],
     "wof:id":1075831213,
-    "wof:lastmodified":1473879274,
+    "wof:lastmodified":1492485751,
     "wof:name":"Wijkcentrum Ons Huis",
-    "wof:parent_id":85797403,
+    "wof:parent_id":1108808861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

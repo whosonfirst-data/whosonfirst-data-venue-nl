@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4047732353,51.8198013306,4.4047732353,51.8198013306",
     "geom:latitude":51.819801,
     "geom:longitude":4.404773,
@@ -24,9 +25,11 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474231,
         85633337,
-        85798725,
-        85687041
+        101754705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473800235,
-    "wof:geomhash":"ce3d903c17e428f8edf5e267a51df2ed",
+    "wof:geomhash":"2820811e6f55724ba17a8572154d1020",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798725,
+            "localadmin_id":404474231,
+            "locality_id":101754705,
             "region_id":85687041,
             "venue_id":1075837963
         }
     ],
     "wof:id":1075837963,
-    "wof:lastmodified":1473879494,
+    "wof:lastmodified":1492485916,
     "wof:name":"Stomerij Van Alphen V/H Boekee",
-    "wof:parent_id":85798725,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

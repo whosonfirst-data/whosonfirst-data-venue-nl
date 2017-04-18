@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1913628578,52.353351593,5.1913628578,52.353351593",
     "geom:latitude":52.353352,
     "geom:longitude":5.191363,
@@ -24,17 +25,32 @@
     "sg:province":"Flevoland",
     "sg:website":"http://www.atrio.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101751877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4M5YVbAeCc2tPRDZKUOk8G_52.353352_5.191363@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803395,
-    "wof:geomhash":"7bb553c323c12813d51c5f826facc628",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d12e8e471d0ffbe973c0aa6d8fe44450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101751877,
+            "region_id":85687049,
+            "venue_id":1091610367
+        }
+    ],
     "wof:id":1091610367,
-    "wof:lastmodified":1473878488,
+    "wof:lastmodified":1492510760,
     "wof:name":"Atrio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.493266,51.931709,4.493266,51.931709",
     "geom:latitude":51.931709,
     "geom:longitude":4.493266,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859857,
+        1108805837,
+        102191581,
+        1108805657,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_4aimOmZ7RWxdGxZDCyQYEZ_51.931709_4.493266@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0cc82b21a4666d281dc51623ba084838",
+    "wof:geomhash":"0e364e091d8038f17577f897d620a1e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859857,
+            "macrohood_id":1108805657,
+            "neighbourhood_id":1108805837,
             "region_id":85687041,
             "venue_id":320581057
         }
     ],
     "wof:id":320581057,
-    "wof:lastmodified":1473879414,
+    "wof:lastmodified":1492482944,
     "wof:name":"De Vitaminebron",
-    "wof:parent_id":85859857,
+    "wof:parent_id":1108805837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.271659,52.105644,4.271659,52.105644",
     "geom:latitude":52.105644,
     "geom:longitude":4.271659,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808159,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_4QptJ8E3b87FTpZ4BrbGeT_52.105644_4.271659@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e78465193f0ff3f2d64b4f274d3cf3a1",
+    "wof:geomhash":"0c61ab112d85f71a48b6824b5d94327e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808159,
             "region_id":85687041,
             "venue_id":203264047
         }
     ],
     "wof:id":203264047,
-    "wof:lastmodified":1473879209,
+    "wof:lastmodified":1492480780,
     "wof:name":"Vishandel A T Dijkhuizen",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

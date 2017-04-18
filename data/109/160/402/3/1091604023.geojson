@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8333601952,52.114906311,4.8333601952,52.114906311",
     "geom:latitude":52.114906,
     "geom:longitude":4.83336,
@@ -24,17 +25,32 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.kaasintermediair.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474285,
+        85633337,
+        101846147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kCf52sn8Rb8JDdxTNmwhs_52.114906_4.833360@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802798,
-    "wof:geomhash":"d198e636f5ac7a0461c5f7e36a549109",
-    "wof:hierarchy":[],
+    "wof:geomhash":"726be9222da7f2f1d9072d9b48b57ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474285,
+            "locality_id":101846147,
+            "region_id":85687039,
+            "venue_id":1091604023
+        }
+    ],
     "wof:id":1091604023,
-    "wof:lastmodified":1473878648,
+    "wof:lastmodified":1492512786,
     "wof:name":"Kaasintermediair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

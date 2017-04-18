@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.412838,51.942612,4.412838,51.942612",
     "geom:latitude":51.942612,
     "geom:longitude":4.412838,
@@ -25,31 +26,46 @@
     "sg:website":"http://www.electrocirkel.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859761,
+        1108805757,
+        102191581,
         85633337,
         101751843,
-        85687041
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OJQdPo8svMmnrtRld9Fdn_51.942612_4.412838@1306269997"
     },
     "wof:country":"NL",
-    "wof:geomhash":"753737cefe48b92ccfba49fc5a53901b",
+    "wof:geomhash":"7c18eb998bc1f54b4f80b00aaebb95f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805739,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859761,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":320301529
+        },
+        {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474253,
+            "locality_id":101751845,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":320301529
         }
     ],
     "wof:id":320301529,
-    "wof:lastmodified":1473879140,
+    "wof:lastmodified":1492485190,
     "wof:name":"Calex Bv",
-    "wof:parent_id":85859761,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

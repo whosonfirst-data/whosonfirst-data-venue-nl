@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.101106,52.117668,5.101106,52.117668",
     "geom:latitude":52.117668,
     "geom:longitude":5.101106,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798231,
+        1108808895,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6wuug6xxdteos7tBTh5VG2_52.117668_5.101106@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"94da40fd65537030df80bce9b85cb50a",
+    "wof:geomhash":"dc58e3f0bdf6d715822de50b7706f9b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798231,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808895,
             "region_id":85687039,
             "venue_id":186052843
         }
     ],
     "wof:id":186052843,
-    "wof:lastmodified":1473878746,
+    "wof:lastmodified":1492508266,
     "wof:name":"M.E. Bakker-Keiner",
-    "wof:parent_id":85798231,
+    "wof:parent_id":1108808895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

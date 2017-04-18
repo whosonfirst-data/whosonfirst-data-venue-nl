@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.530548,51.954048,4.530548,51.954048",
     "geom:latitude":51.954048,
     "geom:longitude":4.530548,
@@ -25,31 +26,46 @@
     "sg:website":"http://www.jacdenhollander.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798487,
+        85798149,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EZzJfre7SZrFPEFyoVJMZ_51.954048_4.530548@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2430d60a6dd50abfc569248761ea0743",
+    "wof:geomhash":"5570de105f2cb559b15e89724a07b2ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85798487,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":202411813
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":202411813
         }
     ],
     "wof:id":202411813,
-    "wof:lastmodified":1473878619,
+    "wof:lastmodified":1492498843,
     "wof:name":"Hollander, Jac Den",
-    "wof:parent_id":85798487,
+    "wof:parent_id":85798149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

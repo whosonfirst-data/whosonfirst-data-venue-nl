@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.680222,51.808399,4.680222,51.808399",
     "geom:latitude":51.808399,
     "geom:longitude":4.680222,
@@ -25,6 +26,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85797875,
+        102191581,
+        404474169,
         85633337,
         101751841,
         85687041,
@@ -35,19 +38,21 @@
         "sg:id":"SG_0iC4tesYpdWLHRtbjLP46E_51.808399_4.680222@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4220ad16e49d289027c346af44d4ca73",
+    "wof:geomhash":"cdfa8c58880b430ddca30147327452ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474169,
             "locality_id":101751841,
             "neighbourhood_id":85797875,
             "region_id":85687041,
             "venue_id":320778879
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474169,
             "locality_id":101751841,
             "neighbourhood_id":85798785,
             "region_id":85687041,
@@ -55,9 +60,9 @@
         }
     ],
     "wof:id":320778879,
-    "wof:lastmodified":1473879628,
+    "wof:lastmodified":1492483780,
     "wof:name":"Kaasbest",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

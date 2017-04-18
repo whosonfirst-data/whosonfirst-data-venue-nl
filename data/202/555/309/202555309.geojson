@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.471217,51.942379,4.471217,51.942379",
     "geom:latitude":51.942379,
     "geom:longitude":4.471217,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.boboverhuur.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859819,
+        1108805793,
+        102191581,
+        1108805981,
         85633337,
-        101753095,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3HS6EaBb62RFJLtKtl7Buo_51.942379_4.471217@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"85b5a7dfd3ed09421ae91956d356fdca",
+    "wof:geomhash":"8afcf5477a1c1a36da3b51849c017905",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859819,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805793,
             "region_id":85687041,
             "venue_id":202555309
         }
     ],
     "wof:id":202555309,
-    "wof:lastmodified":1473878918,
+    "wof:lastmodified":1492498846,
     "wof:name":"Bobo Partygoederenverhuur",
-    "wof:parent_id":85859819,
+    "wof:parent_id":1108805793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

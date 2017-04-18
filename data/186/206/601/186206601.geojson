@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.356955,52.041634,4.356955,52.041634",
     "geom:latitude":52.041634,
     "geom:longitude":4.356955,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.rep-air.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798303,
+        1108808337,
+        102191581,
+        1108808097,
         85633337,
-        101754743,
+        101752763,
+        1108808047,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2JO9WOcO7edcOZpt3euNhk_52.041634_4.356955@1306269911"
     },
     "wof:country":"NL",
-    "wof:geomhash":"09fbce087aee2a7517126a057e4ffb30",
+    "wof:geomhash":"948ca1f07da223790cfda53f18fe4300",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808047,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798303,
+            "locality_id":101752763,
+            "macrohood_id":1108808097,
+            "neighbourhood_id":1108808337,
             "region_id":85687041,
             "venue_id":186206601
         }
     ],
     "wof:id":186206601,
-    "wof:lastmodified":1473879093,
+    "wof:lastmodified":1492507862,
     "wof:name":"Rep-Air",
-    "wof:parent_id":85798303,
+    "wof:parent_id":1108808337,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

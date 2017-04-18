@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.824489,52.417004,4.824489,52.417004",
     "geom:latitude":52.417004,
     "geom:longitude":4.824489,
@@ -25,8 +26,12 @@
     "sg:website":"http://www.tevema.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798675,
+        1108803963,
+        1108802955,
+        102191581,
         85633337,
+        101751893,
+        1108802287,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,23 @@
         "sg:id":"SG_5zxbdbhJ118G7QNYtlG5Er_52.417004_4.824489@1306269911"
     },
     "wof:country":"NL",
-    "wof:geomhash":"483fe047303fd0434df3616e6703537e",
+    "wof:geomhash":"5eac0f0c4d6053209b14ba57b21b3bc7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802287,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798675,
+            "locality_id":101751893,
+            "microhood_id":1108803963,
+            "neighbourhood_id":1108802955,
             "region_id":85687053,
             "venue_id":186318091
         }
     ],
     "wof:id":186318091,
-    "wof:lastmodified":1473879259,
+    "wof:lastmodified":1492509100,
     "wof:name":"Tevema Technische Verenfabriek",
-    "wof:parent_id":85798675,
+    "wof:parent_id":1108803963,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

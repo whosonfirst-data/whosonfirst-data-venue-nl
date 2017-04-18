@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.796087,52.343929,4.796087,52.343929",
     "geom:latitude":52.343929,
     "geom:longitude":4.796087,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803689,
+        1108802857,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_13ubZJ5jQN08w8cTEW1obr_52.343929_4.796087@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2329fd911547521b8fbfc24f0bf37b71",
+    "wof:geomhash":"e70038974b4b1a8c8411ba45105d1817",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803689,
+            "neighbourhood_id":1108802857,
             "region_id":85687053,
             "venue_id":287129955
         }
     ],
     "wof:id":287129955,
-    "wof:lastmodified":1473878895,
+    "wof:lastmodified":1492514054,
     "wof:name":"Kaspers Bv",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.872839,52.369598,4.872839,52.369598",
     "geom:latitude":52.369598,
     "geom:longitude":4.872839,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803451,
+        1108802777,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0aCx8GSaQjZi77VFdnLAwL_52.369598_4.872839@1306269949"
     },
     "wof:country":"NL",
-    "wof:geomhash":"081843a884df0e0643a61fc5c0fe6887",
+    "wof:geomhash":"bbee3a3b771ebe3e857e51ec9e5fbbc1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803451,
+            "neighbourhood_id":1108802777,
             "region_id":85687053,
             "venue_id":253417695
         }
     ],
     "wof:id":253417695,
-    "wof:lastmodified":1473879563,
+    "wof:lastmodified":1492488708,
     "wof:name":"Zomerproducties",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.98602,52.291813,4.98602,52.291813",
     "geom:latitude":52.291813,
     "geom:longitude":4.98602,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803981,
+        1108802809,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6OfvTFUPYHI57kBmBF5hz6_52.291813_4.986020@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bf1745cc833a8a768adfef590895d099",
+    "wof:geomhash":"0844dd3411901ced4fd3c183ad5b73c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803981,
+            "neighbourhood_id":1108802809,
             "region_id":85687053,
             "venue_id":186069973
         }
     ],
     "wof:id":186069973,
-    "wof:lastmodified":1473878790,
+    "wof:lastmodified":1492508366,
     "wof:name":"Bosio",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803981,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

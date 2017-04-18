@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.333181,52.069462,4.333181,52.069462",
     "geom:latitude":52.069462,
     "geom:longitude":4.333181,
@@ -25,10 +26,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859633,
+        102191581,
+        1108808077,
         85633337,
         101752763,
+        1108808049,
         85687041,
-        85859623,
+        404474251,
         101754743
     ],
     "wof:breaches":[],
@@ -36,29 +40,34 @@
         "sg:id":"SG_3dYnCRoomEnbk5FTXTeiYW_52.069462_4.333181@1306269953"
     },
     "wof:country":"NL",
-    "wof:geomhash":"43497e3d2bf389b752f06f8d22487f5c",
+    "wof:geomhash":"e7ff802b3719b0101708c31070a4f1b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808077,
             "neighbourhood_id":85859633,
             "region_id":85687041,
             "venue_id":253705679
         },
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808077,
+            "neighbourhood_id":85859633,
             "region_id":85687041,
             "venue_id":253705679
         }
     ],
     "wof:id":253705679,
-    "wof:lastmodified":1473879718,
+    "wof:lastmodified":1492488437,
     "wof:name":"Constructiebedrijf Boeg Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

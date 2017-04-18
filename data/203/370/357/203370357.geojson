@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.855586,52.390591,4.855586,52.390591",
     "geom:latitude":52.390591,
     "geom:longitude":4.855586,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803313,
+        1108802535,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6qt0KGjTOs5A2vrARMHSDb_52.390591_4.855586@1306269923"
     },
     "wof:country":"NL",
-    "wof:geomhash":"23bbb119f7e866f8dfffd5accc0cad72",
+    "wof:geomhash":"9a18a7f39680b1701ba20427519929a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803313,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":203370357
         }
     ],
     "wof:id":203370357,
-    "wof:lastmodified":1473879325,
+    "wof:lastmodified":1492479909,
     "wof:name":"Grafisch Lyceum Amsterdam",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

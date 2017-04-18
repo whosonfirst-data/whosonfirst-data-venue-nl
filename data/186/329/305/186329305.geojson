@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.828161,52.373779,4.828161,52.373779",
     "geom:latitude":52.373779,
     "geom:longitude":4.828161,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.vriendendiensten.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803291,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_20MUMYFm2nz0gXoiJ5uBRP_52.373779_4.828161@1306269911"
     },
     "wof:country":"NL",
-    "wof:geomhash":"25a41f9a804b27d35f0f48ced8d44d55",
+    "wof:geomhash":"4d7d4db5f2ca6c46b46e3ff503afd4b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "macrohood_id":1108802303,
+            "microhood_id":1108803291,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":186329305
         }
     ],
     "wof:id":186329305,
-    "wof:lastmodified":1473879289,
+    "wof:lastmodified":1492509022,
     "wof:name":"Amsterdamse Vriendendiensten, Sticht",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

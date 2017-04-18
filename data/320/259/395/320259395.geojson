@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881236,52.369354,4.881236,52.369354",
     "geom:latitude":52.369354,
     "geom:longitude":4.881236,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.atelier70.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_6Oc58Qalsq4OvGx0juiYR2_52.369354_4.881236@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1b0e604e7881fb06e36abb6545e9c14c",
+    "wof:geomhash":"3694782c7a4234853a7e97ac3b552f2f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":320259395
         }
     ],
     "wof:id":320259395,
-    "wof:lastmodified":1473879126,
+    "wof:lastmodified":1492482851,
     "wof:name":"Atelier 70",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

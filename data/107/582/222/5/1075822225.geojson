@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6175279617,51.3135375977,5.6175279617,51.3135375977",
     "geom:latitude":51.313538,
     "geom:longitude":5.617528,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.harlekyn.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474619,
+        85633337,
+        101809699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GAnGLKksRtBfW9krFsubf_51.313538_5.617528@1306270009"
     },
     "wof:country":"NL",
     "wof:created":1473799323,
-    "wof:geomhash":"ef0c82ad70bc64710beeb5934caad0f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84d14a1fc54381487cd4db124dcd2f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474619,
+            "locality_id":101809699,
+            "region_id":85687035,
+            "venue_id":1075822225
+        }
+    ],
     "wof:id":1075822225,
-    "wof:lastmodified":1473879270,
+    "wof:lastmodified":1492486985,
     "wof:name":"Harlekyn Festival",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

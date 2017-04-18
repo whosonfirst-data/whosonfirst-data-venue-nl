@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.331587,52.072929,4.331587,52.072929",
     "geom:latitude":52.072929,
     "geom:longitude":4.331587,
@@ -24,31 +25,49 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797093,
+        85859633,
+        102191581,
+        1108808077,
         85633337,
         101752763,
-        85687041
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lb1bQvtNna7XaPK86iY9q_52.072929_4.331587@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"37b9260cb808013965df9a1e91909c9e",
+    "wof:geomhash":"1b21b0c8571df5e23f4a63b43a63c45c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797093,
+            "macrohood_id":1108808077,
+            "neighbourhood_id":85859633,
+            "region_id":85687041,
+            "venue_id":252906635
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
+            "locality_id":101754743,
+            "macrohood_id":1108808077,
+            "neighbourhood_id":85859633,
             "region_id":85687041,
             "venue_id":252906635
         }
     ],
     "wof:id":252906635,
-    "wof:lastmodified":1473878861,
+    "wof:lastmodified":1492504908,
     "wof:name":"Autobedrijf H. Netten",
-    "wof:parent_id":85797093,
+    "wof:parent_id":85859633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

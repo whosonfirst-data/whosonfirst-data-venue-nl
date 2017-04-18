@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.263888,52.058743,4.263888,52.058743",
     "geom:latitude":52.058743,
     "geom:longitude":4.263888,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859591,
+        85859571,
+        102191581,
+        1108805971,
         85633337,
         101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2oy0o0HMMCpUy4tZ4FVlT6_52.058743_4.263888@1306269970"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1c9d2929624cfcd846b48838cb9b4c4f",
+    "wof:geomhash":"033445ae08a6709b1413049e33afedcd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859591,
+            "macrohood_id":1108805971,
+            "neighbourhood_id":85859571,
             "region_id":85687041,
             "venue_id":286549771
         }
     ],
     "wof:id":286549771,
-    "wof:lastmodified":1473879187,
+    "wof:lastmodified":1492475731,
     "wof:name":"Wijling Assurantien Vof",
-    "wof:parent_id":85859591,
+    "wof:parent_id":85859571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

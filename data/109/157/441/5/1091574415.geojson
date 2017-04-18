@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4315018654,51.7278785706,5.4315018654,51.7278785706",
     "geom:latitude":51.727879,
     "geom:longitude":5.431502,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.patula.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474583,
+        85633337,
+        101808301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ncIddbwbVKscPtgrXA96m_51.727879_5.431502@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800754,
-    "wof:geomhash":"efe109a6f6d51a0fe823829a1e20d75b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61e903f1f5909b1be59870e006a976b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474583,
+            "locality_id":101808301,
+            "region_id":85687035,
+            "venue_id":1091574415
+        }
+    ],
     "wof:id":1091574415,
-    "wof:lastmodified":1473878780,
+    "wof:lastmodified":1492511495,
     "wof:name":"Patula",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

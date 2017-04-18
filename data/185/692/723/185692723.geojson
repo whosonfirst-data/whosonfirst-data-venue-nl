@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.25179,52.069233,4.25179,52.069233",
     "geom:latitude":52.069233,
     "geom:longitude":4.25179,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797811,
+        85859585,
+        102191581,
+        1108808133,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0SVpmbiOvbBgXq0nOr4fd0_52.069233_4.251790@1306269907"
     },
     "wof:country":"NL",
-    "wof:geomhash":"25a851c2ce51bc9351dbdf07be37e44f",
+    "wof:geomhash":"30d418f951c21f99cb87f544c377f117",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797811,
+            "macrohood_id":1108808133,
+            "neighbourhood_id":85859585,
             "region_id":85687041,
             "venue_id":185692723
         }
     ],
     "wof:id":185692723,
-    "wof:lastmodified":1473878647,
+    "wof:lastmodified":1492487491,
     "wof:name":"Fa S.R. Van Bendegom",
-    "wof:parent_id":85797811,
+    "wof:parent_id":85859585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

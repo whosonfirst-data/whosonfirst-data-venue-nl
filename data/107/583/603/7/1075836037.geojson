@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4874820709,51.8905792236,4.4874820709,51.8905792236",
     "geom:latitude":51.890579,
     "geom:longitude":4.487482,
@@ -24,13 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798517,
+        85859851,
         102191581,
-        404474245,
         85633337,
         101751843,
-        85687041,
-        85859851
+        1108804837,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,21 +38,12 @@
     },
     "wof:country":"NL",
     "wof:created":1473800111,
-    "wof:geomhash":"3a829414371ec55e3e9830cc6d51725c",
+    "wof:geomhash":"796da3846eb287dbb0e68b2b230d4acc",
     "wof:hierarchy":[
         {
+            "borough_id":1108804837,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474245,
-            "locality_id":101751843,
-            "neighbourhood_id":85798517,
-            "region_id":85687041,
-            "venue_id":1075836037
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474245,
             "locality_id":101751843,
             "neighbourhood_id":85859851,
             "region_id":85687041,
@@ -60,9 +51,9 @@
         }
     ],
     "wof:id":1075836037,
-    "wof:lastmodified":1473879450,
+    "wof:lastmodified":1492485876,
     "wof:name":"Tarwewijk",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

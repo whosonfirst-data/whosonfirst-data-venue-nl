@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.089832,52.12553,5.089832,52.12553",
     "geom:latitude":52.12553,
     "geom:longitude":5.089832,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808701,
+        102191581,
+        1108832365,
         85633337,
         101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7CD12ly7O0JTdZ4lVwld9i_52.125530_5.089832@1306269982"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c7bc30084c2a3081a3d870f0a85ff119",
+    "wof:geomhash":"978185a68e67eed366247cbf1e5ae430",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808701,
             "region_id":85687039,
             "venue_id":303290471
         }
     ],
     "wof:id":303290471,
-    "wof:lastmodified":1473879072,
+    "wof:lastmodified":1492471420,
     "wof:name":"Schildersbedrijf L.H. Linssen & Zn Bv",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

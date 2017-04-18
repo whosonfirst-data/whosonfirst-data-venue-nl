@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.956653,52.387878,4.956653,52.387878",
     "geom:latitude":52.387878,
     "geom:longitude":4.956653,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.doucefrance.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108804049,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_3cYViNZB2xLVAETTPLyPFN_52.387878_4.956653@1306269911"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ca58943a244f540b488d6cdd7aa88283",
+    "wof:geomhash":"e15598813c81aebb38db4f20beb172f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804049,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":186233525
         }
     ],
     "wof:id":186233525,
-    "wof:lastmodified":1473879129,
+    "wof:lastmodified":1492507615,
     "wof:name":"Douce France",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108804049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

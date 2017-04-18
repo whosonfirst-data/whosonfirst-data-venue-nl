@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.527755,52.45726,5.527755,52.45726",
     "geom:latitude":52.45726,
     "geom:longitude":5.527755,
@@ -24,29 +25,32 @@
     "sg:province":"Flevoland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        85687049
+        102542791,
+        85687049,
+        102191581,
+        404474539,
+        85633337
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fPYullSO3jgxXJ9iy6HJm_52.457260_5.527755@1306269926"
     },
     "wof:country":"NL",
-    "wof:geomhash":"81fa1c7383e4ffb468315019af41644f",
+    "wof:geomhash":"3643417fcdf6ef7d88ef8ecef4a0da87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102542791,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "localadmin_id":404474539,
             "region_id":85687049,
             "venue_id":219519539
         }
     ],
     "wof:id":219519539,
-    "wof:lastmodified":1473879279,
+    "wof:lastmodified":1492503644,
     "wof:name":"Polder Aviation Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":102542791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

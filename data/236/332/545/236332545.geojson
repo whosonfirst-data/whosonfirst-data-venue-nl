@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.85337,52.380409,4.85337,52.380409",
     "geom:latitude":52.380409,
     "geom:longitude":4.85337,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.hh-architecten.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803529,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_1tkthA83uCHbb1oR7qnMyR_52.380409_4.853370@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4f0d99a0320f416d18dc85ba999366b5",
+    "wof:geomhash":"d96bc1a708136ffaa2011a76b068f686",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803529,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":236332545
         }
     ],
     "wof:id":236332545,
-    "wof:lastmodified":1473879165,
+    "wof:lastmodified":1492491643,
     "wof:name":"Hoogland & Heijmerink",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

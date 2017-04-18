@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.92622,52.358486,4.92622,52.358486",
     "geom:latitude":52.358486,
     "geom:longitude":4.92622,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803833,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4h2hkpgXdi0mFnT0iz2z2R_52.358486_4.926220@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3c76644092d49110df000d1473ca49d2",
+    "wof:geomhash":"0a8c0d435403c8e9c3dbc05f5be05f1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803833,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":236399541
         }
     ],
     "wof:id":236399541,
-    "wof:lastmodified":1473879251,
+    "wof:lastmodified":1492493093,
     "wof:name":"Koos Kneus",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

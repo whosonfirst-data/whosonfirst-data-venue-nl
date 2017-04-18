@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0101017952,51.5946655273,6.0101017952,51.5946655273",
     "geom:latitude":51.594666,
     "geom:longitude":6.010102,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.syntaxgroep.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474359,
+        85633337,
+        101808335
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WeFIhnFjtCdvMY0UDczcY_51.594666_6.010102@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802035,
-    "wof:geomhash":"6467475f4a235c4ae787480a0e0cda7a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1b81a1dfa682e299ecbc2e32d692a43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474359,
+            "locality_id":101808335,
+            "region_id":85687035,
+            "venue_id":1091591773
+        }
+    ],
     "wof:id":1091591773,
-    "wof:lastmodified":1473878567,
+    "wof:lastmodified":1492509588,
     "wof:name":"Syntax Logistics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4814190865,52.1561775208,4.4814190865,52.1561775208",
     "geom:latitude":52.156178,
     "geom:longitude":4.481419,
@@ -25,13 +26,13 @@
     "sg:website":"http://www.roosjenenvanderveere.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797709,
+        85798091,
         102191581,
         404474199,
         85633337,
         101751833,
         85687041,
-        85798091
+        85797709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +40,8 @@
     },
     "wof:country":"NL",
     "wof:created":1473799392,
-    "wof:geomhash":"f7426a09703d21441f4d71313f298da6",
+    "wof:geomhash":"2912dcc2ab6cd0338d7d194631ace033",
     "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474199,
-            "locality_id":101751833,
-            "neighbourhood_id":85797709,
-            "region_id":85687041,
-            "venue_id":1075823285
-        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -58,12 +50,21 @@
             "neighbourhood_id":85798091,
             "region_id":85687041,
             "venue_id":1075823285
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474199,
+            "locality_id":101751833,
+            "neighbourhood_id":85797709,
+            "region_id":85687041,
+            "venue_id":1075823285
         }
     ],
     "wof:id":1075823285,
-    "wof:lastmodified":1473879329,
+    "wof:lastmodified":1492486922,
     "wof:name":"Roosjen & Van Der Veere",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

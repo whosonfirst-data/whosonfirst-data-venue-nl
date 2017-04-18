@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.5133428574,52.8590126038,6.5133428574,52.8590126038",
     "geom:latitude":52.859013,
     "geom:longitude":6.513343,
@@ -33,17 +34,32 @@
         "week-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474649,
+        85633337,
+        101807273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jpWewLggULMaOs0uGnbNQ_52.859013_6.513343@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800867,
-    "wof:geomhash":"499b341e1f78a3ce6e772f374b4c0e82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9bf4343633287268d8f0f9f9cf343e36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474649,
+            "locality_id":101807273,
+            "region_id":85687051,
+            "venue_id":1091576397
+        }
+    ],
     "wof:id":1091576397,
-    "wof:lastmodified":1473878916,
+    "wof:lastmodified":1492511386,
     "wof:name":"Beiler Courant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

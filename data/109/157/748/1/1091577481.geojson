@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7332201004,52.4114761353,4.7332201004,52.4114761353",
     "geom:latitude":52.411476,
     "geom:longitude":4.73322,
@@ -23,19 +24,38 @@
     "sg:postcode":"1047 HE",
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108804229,
+        1108802955,
+        102191581,
+        85633337,
+        101751893,
+        1108802287,
+        85687053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QA894SQyJcG4I2RvCkmTk_52.411476_4.733220@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801016,
-    "wof:geomhash":"3eafc80f124eb1c63b2e98caf39d5248",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bed9334285defcbe5bd44bd1286585a5",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108802287,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1108804229,
+            "neighbourhood_id":1108802955,
+            "region_id":85687053,
+            "venue_id":1091577481
+        }
+    ],
     "wof:id":1091577481,
-    "wof:lastmodified":1473878994,
+    "wof:lastmodified":1492511373,
     "wof:name":"Aannemingsbedrijf D.F. Hoogvliet & Zoon",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108804229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

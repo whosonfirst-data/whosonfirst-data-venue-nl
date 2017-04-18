@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0625128746,52.6202774048,6.0625128746,52.6202774048",
     "geom:latitude":52.620277,
     "geom:longitude":6.062513,
@@ -23,17 +24,32 @@
     "sg:postcode":"8281 JJ",
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474683,
+        85633337,
+        101807193
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YVzkPrTOx34370kc867GU_52.620277_6.062513@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802382,
-    "wof:geomhash":"a127ae5ec05747b348afe1a7c9c0923e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d32871933fb4ade06aca3a40d2414e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474683,
+            "locality_id":101807193,
+            "region_id":85687045,
+            "venue_id":1091597587
+        }
+    ],
     "wof:id":1091597587,
-    "wof:lastmodified":1473878931,
+    "wof:lastmodified":1492509799,
     "wof:name":"Bos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

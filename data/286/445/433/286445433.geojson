@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.985894,52.291973,4.985894,52.291973",
     "geom:latitude":52.291973,
     "geom:longitude":4.985894,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.opencircles.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803981,
+        1108802809,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_1JshogCsWGSC7UKoB2uTBG_52.291973_4.985894@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4d843ffc7828b6a9904d2366958c17ec",
+    "wof:geomhash":"a6df04a511a7ce08700bf2b9a50dd8b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803981,
+            "neighbourhood_id":1108802809,
             "region_id":85687053,
             "venue_id":286445433
         }
     ],
     "wof:id":286445433,
-    "wof:lastmodified":1473879007,
+    "wof:lastmodified":1492476168,
     "wof:name":"Open Circles",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803981,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6498842239,51.9574394226,5.6498842239,51.9574394226",
     "geom:latitude":51.957439,
     "geom:longitude":5.649884,
@@ -32,17 +33,32 @@
         "bewaring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404473947,
+        85633337,
+        101837813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jNFkpbgF3ZcW9yiAtTvaA_51.957439_5.649884@1306270008"
     },
     "wof:country":"NL",
     "wof:created":1473798869,
-    "wof:geomhash":"83c29c516c946f001ff6d62c141c4bcc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5420431dd1bb7df7302559e13fabac86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473947,
+            "locality_id":101837813,
+            "region_id":85687043,
+            "venue_id":1075814387
+        }
+    ],
     "wof:id":1075814387,
-    "wof:lastmodified":1473878959,
+    "wof:lastmodified":1492486366,
     "wof:name":"Silo Wageningen Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

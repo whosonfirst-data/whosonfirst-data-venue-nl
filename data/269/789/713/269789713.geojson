@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878661,52.372746,4.878661,52.372746",
     "geom:latitude":52.372746,
     "geom:longitude":4.878661,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_05MBOZ0jDLCdqGQogcQo3A_52.372746_4.878661@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3b074439faffe3ddc4257530a5c7117e",
+    "wof:geomhash":"a1ee344177785dd81ea8a3576f4e7e8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":269789713
         }
     ],
     "wof:id":269789713,
-    "wof:lastmodified":1473879473,
+    "wof:lastmodified":1492495097,
     "wof:name":"Snackbar Trio",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1094331741,52.0838317871,5.1094331741,52.0838317871",
     "geom:latitude":52.083832,
     "geom:longitude":5.109433,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808719,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808679,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473804811,
-    "wof:geomhash":"1e1cb8fccce630494fa4162efaf0f759",
+    "wof:geomhash":"92b73e59a0b24fc3cca92b8dd74323c5",
     "wof:hierarchy":[
         {
+            "borough_id":1108808679,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808719,
             "region_id":85687039,
             "venue_id":1091634065
         }
     ],
     "wof:id":1091634065,
-    "wof:lastmodified":1473878560,
+    "wof:lastmodified":1492510019,
     "wof:name":"Kapsalon Chic",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808719,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.465623,51.987423,4.465623,51.987423",
     "geom:latitude":51.987423,
     "geom:longitude":4.465623,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798381,
+        102542781,
+        1108805865,
+        102191581,
         85633337,
-        101807023,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_1fWz7YbvA5IIRzFve1y18k_51.987423_4.465623@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b8d904a9589c769d37bdf2b8b5bf4fb6",
+    "wof:geomhash":"637cd126963896aa78e3cd6ada492ffc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "campus_id":102542781,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101807023,
-            "neighbourhood_id":85798381,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805865,
             "region_id":85687041,
             "venue_id":320577113
         }
     ],
     "wof:id":320577113,
-    "wof:lastmodified":1473879417,
+    "wof:lastmodified":1492482927,
     "wof:name":"Van Rutten Vof",
-    "wof:parent_id":85798381,
+    "wof:parent_id":102542781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

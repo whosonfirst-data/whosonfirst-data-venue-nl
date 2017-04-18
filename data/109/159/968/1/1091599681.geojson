@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1052498817,51.9159240723,4.1052498817,51.9159240723",
     "geom:latitude":51.915924,
     "geom:longitude":4.10525,
@@ -23,17 +24,32 @@
     "sg:postcode":"3233 AG",
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474267,
+        85633337,
+        101808543
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2a9FWlpp9qyFIB5An6lGut_51.915924_4.105250@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802502,
-    "wof:geomhash":"bc68ceb5977d5fc145ea09e077d6e6b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e3c1f66efbe681ea5d7236a934b79a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474267,
+            "locality_id":101808543,
+            "region_id":85687041,
+            "venue_id":1091599681
+        }
+    ],
     "wof:id":1091599681,
-    "wof:lastmodified":1473879049,
+    "wof:lastmodified":1492509875,
     "wof:name":"Peco Line",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

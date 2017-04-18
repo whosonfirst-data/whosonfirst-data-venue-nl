@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.941901,52.401455,4.941901,52.401455",
     "geom:latitude":52.401455,
     "geom:longitude":4.941901,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803219,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1akanby0B6T4qZmfbEB5CB_52.401455_4.941901@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"02472679830c602994072892e158354e",
+    "wof:geomhash":"8e1af4bc5d7495716589afd80f545d74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803219,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":236812497
         }
     ],
     "wof:id":236812497,
-    "wof:lastmodified":1473879537,
+    "wof:lastmodified":1492492133,
     "wof:name":"Rijkeboer",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

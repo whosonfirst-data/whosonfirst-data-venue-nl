@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.315734,52.077045,4.315734,52.077045",
     "geom:latitude":52.077045,
     "geom:longitude":4.315734,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808255,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_5ifjDgfCaAWARMuKEZwOjJ_52.077045_4.315734@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"10695d5f5b4d0c67fb6921ec47f2b771",
+    "wof:geomhash":"a54cbe72ab947e91b292ab44a6a9f285",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808255,
             "region_id":85687041,
             "venue_id":269778979
         }
     ],
     "wof:id":269778979,
-    "wof:lastmodified":1473879434,
+    "wof:lastmodified":1492495873,
     "wof:name":"Shoarma Grillroom Luxor",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

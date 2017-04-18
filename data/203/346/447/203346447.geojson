@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.951926,52.400806,4.951926,52.400806",
     "geom:latitude":52.400806,
     "geom:longitude":4.951926,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108803639,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6Th3PfuyujDxBYzFSghKMi_52.400806_4.951926@1306269923"
     },
     "wof:country":"NL",
-    "wof:geomhash":"82f2c273887d247cec21a7b8e197db66",
+    "wof:geomhash":"ce9d3171fde0f2e938c996032f3393fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803639,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":203346447
         }
     ],
     "wof:id":203346447,
-    "wof:lastmodified":1473879283,
+    "wof:lastmodified":1492480707,
     "wof:name":"Hbok",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

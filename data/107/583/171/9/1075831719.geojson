@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7395801544,52.386051178,4.7395801544,52.386051178",
     "geom:latitude":52.386051,
     "geom:longitude":4.73958,
@@ -24,9 +25,11 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687053,
+        102191581,
+        404474063,
         85633337,
-        85798675,
-        85687053
+        101754821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473799883,
-    "wof:geomhash":"8a08850ad086f90cc99193f65679c4c2",
+    "wof:geomhash":"ef78d47c455e9cf0c486cfb40becf774",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798675,
+            "localadmin_id":404474063,
+            "locality_id":101754821,
             "region_id":85687053,
             "venue_id":1075831719
         }
     ],
     "wof:id":1075831719,
-    "wof:lastmodified":1473879285,
+    "wof:lastmodified":1492485687,
     "wof:name":"Gemeente Haarlemmerliede En Spaarnwoude",
-    "wof:parent_id":85798675,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

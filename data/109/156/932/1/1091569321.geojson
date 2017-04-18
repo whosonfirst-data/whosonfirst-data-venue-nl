@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.792620182,52.9207572937,6.792620182,52.9207572937",
     "geom:latitude":52.920757,
     "geom:longitude":6.79262,
@@ -24,17 +25,32 @@
     "sg:province":"Drenthe",
     "sg:website":"http://www.krans.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404474595,
+        85633337,
+        101807275
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TFUNwW6M8wcXJLvnp1GGM_52.920757_6.792620@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800422,
-    "wof:geomhash":"b1cf0797115c4bec69fb6dd4981866c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"683d7516e212e27e08319ecaebf77e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474595,
+            "locality_id":101807275,
+            "region_id":85687051,
+            "venue_id":1091569321
+        }
+    ],
     "wof:id":1091569321,
-    "wof:lastmodified":1473878577,
+    "wof:lastmodified":1492510909,
     "wof:name":"Krans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

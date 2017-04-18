@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.8771319389,52.2275161743,6.8771319389,52.2275161743",
     "geom:latitude":52.227516,
     "geom:longitude":6.877132,
@@ -24,13 +25,13 @@
     "sg:province":"Overijssel",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633337,
+        85798535,
+        85687045,
         85798019,
         102191581,
         404473827,
-        85633337,
-        101754773,
-        85687045,
-        85798535
+        101754773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +39,14 @@
     },
     "wof:country":"NL",
     "wof:created":1473801955,
-    "wof:geomhash":"3017cf40a7767e1ed966bccce19a16a2",
+    "wof:geomhash":"a5b24b97eef74487dbd462946cb0816f",
     "wof:hierarchy":[
+        {
+            "country_id":85633337,
+            "neighbourhood_id":85798535,
+            "region_id":85687045,
+            "venue_id":1091590127
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -48,18 +55,12 @@
             "neighbourhood_id":85798019,
             "region_id":85687045,
             "venue_id":1091590127
-        },
-        {
-            "country_id":85633337,
-            "neighbourhood_id":85798535,
-            "region_id":85687045,
-            "venue_id":1091590127
         }
     ],
     "wof:id":1091590127,
-    "wof:lastmodified":1473878477,
+    "wof:lastmodified":1492509592,
     "wof:name":"Van Ede En Partners",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

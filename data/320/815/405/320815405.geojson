@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.565994,51.964897,4.565994,51.964897",
     "geom:latitude":51.964897,
     "geom:longitude":4.565994,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798779,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YyO04tvdPV8qTl1mcdFB5_51.964897_4.565994@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"70df283d35dc29c941e2d8ad67d52215",
+    "wof:geomhash":"69d1db27089f34de6591b84989c46382",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798779,
+            "region_id":85687041,
+            "venue_id":320815405
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798779,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":320815405,
-    "wof:lastmodified":1473879615,
+    "wof:lastmodified":1492483805,
     "wof:name":"Hulsman Prod Vof",
     "wof:parent_id":85798779,
     "wof:placetype":"venue",

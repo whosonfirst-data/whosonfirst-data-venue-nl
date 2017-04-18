@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.888653,52.421059,4.888653,52.421059",
     "geom:latitude":52.421059,
     "geom:longitude":4.888653,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803523,
+        1108802883,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_3f2eHmhsNG61tI2nv1vq2X_52.421059_4.888653@1306269906"
     },
     "wof:country":"NL",
-    "wof:geomhash":"71adc3c119260c450c8f6899e92b6bf1",
+    "wof:geomhash":"ff359492f591f69c004a372811b926b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803523,
+            "neighbourhood_id":1108802883,
             "region_id":85687053,
             "venue_id":169863153
         }
     ],
     "wof:id":169863153,
-    "wof:lastmodified":1473878846,
+    "wof:lastmodified":1492478758,
     "wof:name":"Sheila'S Hairfashion",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

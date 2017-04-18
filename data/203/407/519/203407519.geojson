@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.460996,51.981998,4.460996,51.981998",
     "geom:latitude":51.981998,
     "geom:longitude":4.460996,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798381,
+        102542781,
+        1108805865,
+        102191581,
         85633337,
-        101807023,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1D5k0n4EIaP0VXBrFGBqeq_51.981998_4.460996@1306269923"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4b4c745698ca0b758cea863eda2541e4",
+    "wof:geomhash":"03bae5a17cc7cd60b45bcc93c0462675",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "campus_id":102542781,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101807023,
-            "neighbourhood_id":85798381,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805865,
             "region_id":85687041,
             "venue_id":203407519
         }
     ],
     "wof:id":203407519,
-    "wof:lastmodified":1473879335,
+    "wof:lastmodified":1492480448,
     "wof:name":"Handelsonderneming J. Neeleman",
-    "wof:parent_id":85798381,
+    "wof:parent_id":102542781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

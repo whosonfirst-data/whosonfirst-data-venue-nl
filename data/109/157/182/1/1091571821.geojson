@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0442209244,52.6244888306,6.0442209244,52.6244888306",
     "geom:latitude":52.624489,
     "geom:longitude":6.044221,
@@ -24,17 +25,32 @@
     "sg:province":"Overijssel",
     "sg:website":"http://www.brentspar.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687045,
+        102191581,
+        404474683,
+        85633337,
+        101807193
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12u0IUYEkOv6ZWU7ZxtVuI_52.624489_6.044221@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800595,
-    "wof:geomhash":"8a65ce622e81c0edaab45b1cc2354109",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8973e19cbc3dc5d781235641de294906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474683,
+            "locality_id":101807193,
+            "region_id":85687045,
+            "venue_id":1091571821
+        }
+    ],
     "wof:id":1091571821,
-    "wof:lastmodified":1473878570,
+    "wof:lastmodified":1492511067,
     "wof:name":"Brentspar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

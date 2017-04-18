@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88017,52.369705,4.88017,52.369705",
     "geom:latitude":52.369705,
     "geom:longitude":4.88017,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_088ytZk8QaB7qISPO4VaGo_52.369705_4.880170@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d57806b83f5c88241bb93c542c3818bf",
+    "wof:geomhash":"07d99a47894e4edb221a3ec5b3536d22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":320850257
         }
     ],
     "wof:id":320850257,
-    "wof:lastmodified":1473879640,
+    "wof:lastmodified":1492482363,
     "wof:name":"Juridisch Adv. Bureau V. Nunen Karioe",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.91733,52.35788,4.91733,52.35788",
     "geom:latitude":52.35788,
     "geom:longitude":4.91733,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803403,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0edt30X8x0CAUMtkYggNBD_52.357880_4.917330@1306269974"
     },
     "wof:country":"NL",
-    "wof:geomhash":"01ae05b5408ca55b2289c32cf7d3caac",
+    "wof:geomhash":"44c0a97f9da43b3670f9874cfa66a517",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803403,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":286918183
         }
     ],
     "wof:id":286918183,
-    "wof:lastmodified":1473879689,
+    "wof:lastmodified":1492476405,
     "wof:name":"Patrick Bloemenboetiek Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803403,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.855457,52.362484,4.855457,52.362484",
     "geom:latitude":52.362484,
     "geom:longitude":4.855457,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803531,
+        1108802957,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1O8QUbbOrKlgIspvQN9vgP_52.362484_4.855457@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9c3ce83aeca46f53fbd17825bc7c94b2",
+    "wof:geomhash":"c2cf8d0cbec2a95cb5444729d2359c05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803531,
+            "neighbourhood_id":1108802957,
             "region_id":85687053,
             "venue_id":270248955
         }
     ],
     "wof:id":270248955,
-    "wof:lastmodified":1473878970,
+    "wof:lastmodified":1492500623,
     "wof:name":"Matthijs Van Roon",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

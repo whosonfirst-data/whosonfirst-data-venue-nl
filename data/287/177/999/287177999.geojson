@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.883271,52.356632,4.883271,52.356632",
     "geom:latitude":52.356632,
     "geom:longitude":4.883271,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804003,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6YpTY2D6fM44I3uL96Pj9W_52.356632_4.883271@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ff430f298d20cc6e6c83b0fd1ab7f38c",
+    "wof:geomhash":"a21ff4f77df473847ddec861e613de1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804003,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":287177999
         }
     ],
     "wof:id":287177999,
-    "wof:lastmodified":1473878967,
+    "wof:lastmodified":1492513608,
     "wof:name":"Uitgeverij De Bezige Bij Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804003,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

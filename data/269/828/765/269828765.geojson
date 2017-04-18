@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.913909,52.359234,4.913909,52.359234",
     "geom:latitude":52.359234,
     "geom:longitude":4.913909,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803279,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_3sLfaeFsqeklVq6VVUuPUd_52.359234_4.913909@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a1c4feaf4b722c4df0ef8472469625db",
+    "wof:geomhash":"84fc72c15a92198190b76dc924107078",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803279,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":269828765
         }
     ],
     "wof:id":269828765,
-    "wof:lastmodified":1473879511,
+    "wof:lastmodified":1492495301,
     "wof:name":"Pizzeria Rozza Rossa",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

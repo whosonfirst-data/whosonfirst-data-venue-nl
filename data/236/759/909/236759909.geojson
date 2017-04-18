@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.35166,51.857159,4.35166,51.857159",
     "geom:latitude":51.857159,
     "geom:longitude":4.35166,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.clarien.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798011,
+        1108833225,
+        1108805797,
+        102191581,
         85633337,
-        101751847,
+        101751843,
+        1108805727,
         85687041
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_4FdrBxZ15hS7GP0PAXBhWK_51.857159_4.351660@1306269940"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3d08ba355b82c25507e76fef57d8dcee",
+    "wof:geomhash":"3805e35150d847e7991b35b8f880c734",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805727,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751847,
-            "neighbourhood_id":85798011,
+            "locality_id":101751843,
+            "microhood_id":1108833225,
+            "neighbourhood_id":1108805797,
             "region_id":85687041,
             "venue_id":236759909
         }
     ],
     "wof:id":236759909,
-    "wof:lastmodified":1473879535,
+    "wof:lastmodified":1492492341,
     "wof:name":"Clarien, Verkeersschool",
-    "wof:parent_id":85798011,
+    "wof:parent_id":1108833225,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.798326,52.376228,4.798326,52.376228",
     "geom:latitude":52.376228,
     "geom:longitude":4.798326,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803993,
         85797579,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0O11y7hh3RibRKwnC56hHw_52.376228_4.798326@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6e3dd4b3a321630abd43f19fbd004f19",
+    "wof:geomhash":"dccc9c85d302002d00b747a97da7ad8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803993,
             "neighbourhood_id":85797579,
             "region_id":85687053,
             "venue_id":220070993
         }
     ],
     "wof:id":220070993,
-    "wof:lastmodified":1473878697,
+    "wof:lastmodified":1492481688,
     "wof:name":"Lwl Systems",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108803993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

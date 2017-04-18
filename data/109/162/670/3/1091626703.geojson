@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6747779846,52.1455307007,4.6747779846,52.1455307007",
     "geom:latitude":52.145531,
     "geom:longitude":4.674778,
@@ -23,17 +24,32 @@
     "sg:postcode":"2402 EN",
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474147,
+        85633337,
+        101751837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CQo2uccZ7GUSFcHC1Ot1s_52.145531_4.674778@1306270019"
     },
     "wof:country":"NL",
     "wof:created":1473804296,
-    "wof:geomhash":"a6e1af5bea26613b0b29ae26df85364f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f67f975798111961c68d019255d55bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474147,
+            "locality_id":101751837,
+            "region_id":85687041,
+            "venue_id":1091626703
+        }
+    ],
     "wof:id":1091626703,
-    "wof:lastmodified":1473878948,
+    "wof:lastmodified":1492512421,
     "wof:name":"Gilbert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

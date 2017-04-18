@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.288177,52.063381,4.288177,52.063381",
     "geom:latitude":52.063381,
     "geom:longitude":4.288177,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797151,
+        1108808277,
+        102191581,
+        1108808119,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_73wuT4FpwuWBc5iBpY3ASc_52.063381_4.288177@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7ea509dc2f052d94578a4678c4e3b9cb",
+    "wof:geomhash":"2f6fa40aa4fcf99397ea65b0909fa596",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797151,
+            "macrohood_id":1108808119,
+            "neighbourhood_id":1108808277,
             "region_id":85687041,
             "venue_id":202523403
         }
     ],
     "wof:id":202523403,
-    "wof:lastmodified":1473878867,
+    "wof:lastmodified":1492498602,
     "wof:name":"Space World",
-    "wof:parent_id":85797151,
+    "wof:parent_id":1108808277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

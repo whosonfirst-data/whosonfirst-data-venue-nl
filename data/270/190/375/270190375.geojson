@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.551546,51.958313,4.551546,51.958313",
     "geom:latitude":51.958313,
     "geom:longitude":4.551546,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27rDYM69s7kcbVPLZ8Uy3k_51.958313_4.551546@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"19ba48066f3e39caff3cb8b46b57e7f2",
+    "wof:geomhash":"c921da13f7f9069ce8c6a62dd66f6010",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":270190375
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798149,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":270190375,
-    "wof:lastmodified":1473878797,
+    "wof:lastmodified":1492500403,
     "wof:name":"Kannegieter, Foto H",
     "wof:parent_id":85798149,
     "wof:placetype":"venue",

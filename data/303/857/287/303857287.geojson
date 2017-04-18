@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.921409,52.33744,4.921409,52.33744",
     "geom:latitude":52.33744,
     "geom:longitude":4.921409,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.gevekeinterntransport.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804033,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_7EqziiWDdjqwWQSxdKJuli_52.337440_4.921409@1306269988"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fca8574b5168feb5ba3ea0c56f830c65",
+    "wof:geomhash":"b6cbccec3d7983b37de33c750fae6aa9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804033,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":303857287
         }
     ],
     "wof:id":303857287,
-    "wof:lastmodified":1473879616,
+    "wof:lastmodified":1492472609,
     "wof:name":"Geveke Intern Transport",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

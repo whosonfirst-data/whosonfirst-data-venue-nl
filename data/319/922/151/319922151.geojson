@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.945378,52.312611,4.945378,52.312611",
     "geom:latitude":52.312611,
     "geom:longitude":4.945378,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797113,
+        1108803417,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_48ZuttIfd05udRPaGfXSAm_52.312611_4.945378@1306269992"
     },
     "wof:country":"NL",
-    "wof:geomhash":"71cd4a86f7d9fcb8b9aea5ca68377b1b",
+    "wof:geomhash":"354a5bad15f111001c0aebe1436bba62",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797113,
+            "locality_id":101751893,
+            "microhood_id":1108803417,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":319922151
         }
     ],
     "wof:id":319922151,
-    "wof:lastmodified":1473878866,
+    "wof:lastmodified":1492479524,
     "wof:name":"Media Markt",
-    "wof:parent_id":85797113,
+    "wof:parent_id":1108803417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

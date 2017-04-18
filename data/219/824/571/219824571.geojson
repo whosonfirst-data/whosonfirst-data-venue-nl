@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.897471,52.366982,4.897471,52.366982",
     "geom:latitude":52.366982,
     "geom:longitude":4.897471,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.im4solutions.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803223,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_1H5YBpRSxf3ERDJlrkCuuu_52.366982_4.897471@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"50b2b6c16e934f83ed452483239e68aa",
+    "wof:geomhash":"87b19c6ef977e7d96a275fc98859b03f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803223,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":219824571
         }
     ],
     "wof:id":219824571,
-    "wof:lastmodified":1473879734,
+    "wof:lastmodified":1492503174,
     "wof:name":"Im4Solutions",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

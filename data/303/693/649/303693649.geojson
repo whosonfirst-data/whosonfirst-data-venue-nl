@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.851883,52.378262,4.851883,52.378262",
     "geom:latitude":52.378262,
     "geom:longitude":4.851883,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804157,
+        1108802803,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2m6B9o3c2yoXOE474fBEBS_52.378262_4.851883@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a47aab4ed3287216286f9df23aad3146",
+    "wof:geomhash":"0942b8e05597f4c0db403255a8f52b73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108804157,
+            "neighbourhood_id":1108802803,
             "region_id":85687053,
             "venue_id":303693649
         }
     ],
     "wof:id":303693649,
-    "wof:lastmodified":1473879447,
+    "wof:lastmodified":1492470976,
     "wof:name":"Innerworld Visuals",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0100388527,52.1046943665,5.0100388527,52.1046943665",
     "geom:latitude":52.104694,
     "geom:longitude":5.010039,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808899,
+        102191581,
         85633337,
-        85797969,
+        101751827,
+        1108808673,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473803508,
-    "wof:geomhash":"3f0b9c298ddc432e9ed1722eb4096619",
+    "wof:geomhash":"8286dcb92e2940ed640f615a55dfa175",
     "wof:hierarchy":[
         {
+            "borough_id":1108808673,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797969,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808899,
             "region_id":85687039,
             "venue_id":1091611949
         }
     ],
     "wof:id":1091611949,
-    "wof:lastmodified":1473878583,
+    "wof:lastmodified":1492510651,
     "wof:name":"Inter-Media Productions",
-    "wof:parent_id":85797969,
+    "wof:parent_id":1108808899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

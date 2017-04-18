@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8419618607,52.4240875244,4.8419618607,52.4240875244",
     "geom:latitude":52.424088,
     "geom:longitude":4.841962,
@@ -24,9 +25,11 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687053,
+        102191581,
+        404474143,
         85633337,
-        85798523,
-        85687053
+        101751901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473799583,
-    "wof:geomhash":"af7fa79e2a7630a7828e8ea35f0c41e0",
+    "wof:geomhash":"0bd6c8885362eb8da4f6fbca7a318a19",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798523,
+            "localadmin_id":404474143,
+            "locality_id":101751901,
             "region_id":85687053,
             "venue_id":1075826553
         }
     ],
     "wof:id":1075826553,
-    "wof:lastmodified":1473879451,
+    "wof:lastmodified":1492487133,
     "wof:name":"Zaanse Schroothdl Bv",
-    "wof:parent_id":85798523,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

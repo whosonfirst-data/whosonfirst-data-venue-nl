@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7647042274,52.7084693909,5.7647042274,52.7084693909",
     "geom:latitude":52.708469,
     "geom:longitude":5.764704,
@@ -24,17 +25,32 @@
     "sg:province":"NL.",
     "sg:website":"http://www.flevostyle.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473843,
+        85633337,
+        101807245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YEcYsA9her78SZsJGw3VG_52.708469_5.764704@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802418,
-    "wof:geomhash":"e29aa4e1c55c6d24ea123174491615ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03c0cc2829d98c09e9a3c0f555fc32bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473843,
+            "locality_id":101807245,
+            "region_id":85687049,
+            "venue_id":1091598233
+        }
+    ],
     "wof:id":1091598233,
-    "wof:lastmodified":1473878969,
+    "wof:lastmodified":1492509654,
     "wof:name":"Flevostyle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

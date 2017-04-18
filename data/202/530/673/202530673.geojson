@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.283571,52.066036,4.283571,52.066036",
     "geom:latitude":52.066036,
     "geom:longitude":4.283571,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797151,
+        1108808277,
+        102191581,
+        1108808119,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_5x7KESOJIgC8scmyDw3i24_52.066036_4.283571@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4d26fdcf02e0c879c8c450fd57cad354",
+    "wof:geomhash":"11700cd5df7040d77f36bb5dbaa40ab9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797151,
+            "macrohood_id":1108808119,
+            "neighbourhood_id":1108808277,
             "region_id":85687041,
             "venue_id":202530673
         }
     ],
     "wof:id":202530673,
-    "wof:lastmodified":1473878876,
+    "wof:lastmodified":1492498778,
     "wof:name":"Videoland Linton Bv",
-    "wof:parent_id":85797151,
+    "wof:parent_id":1108808277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

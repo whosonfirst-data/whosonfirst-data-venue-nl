@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.812988,52.380627,4.812988,52.380627",
     "geom:latitude":52.380627,
     "geom:longitude":4.812988,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108803979,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4ENjPwTVKXnPLoGsMUqvJC_52.380627_4.812988@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"790ee7774a15232f0a79337272e51b04",
+    "wof:geomhash":"2e680230ba9a38b3e92ca21dceb70b78",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108803979,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":185922835
         }
     ],
     "wof:id":185922835,
-    "wof:lastmodified":1473878891,
+    "wof:lastmodified":1492487932,
     "wof:name":"Mkd Amsterdam 'T Kabouterhuis Vestiging West",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108803979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

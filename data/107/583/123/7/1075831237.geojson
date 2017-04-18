@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5545301437,51.9106712341,4.5545301437,51.9106712341",
     "geom:latitude":51.910671,
     "geom:longitude":4.55453,
@@ -26,10 +27,12 @@
     "wof:belongsto":[
         85797865,
         102191581,
-        404474163,
         85633337,
-        101754669,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,20 +40,30 @@
     },
     "wof:country":"NL",
     "wof:created":1473799859,
-    "wof:geomhash":"51382d1e357572e0db103868774b16f7",
+    "wof:geomhash":"e402f5068a5cd9957edf03896efdc277",
     "wof:hierarchy":[
         {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797865,
+            "region_id":85687041,
+            "venue_id":1075831237
+        },
+        {
+            "borough_id":1108805725,
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474163,
-            "locality_id":101754669,
+            "locality_id":101752769,
             "neighbourhood_id":85797865,
             "region_id":85687041,
             "venue_id":1075831237
         }
     ],
     "wof:id":1075831237,
-    "wof:lastmodified":1473879275,
+    "wof:lastmodified":1492485569,
     "wof:name":"Wijkgebouw Rendierhof",
     "wof:parent_id":85797865,
     "wof:placetype":"venue",

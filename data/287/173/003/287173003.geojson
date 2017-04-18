@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.924882,52.359406,4.924882,52.359406",
     "geom:latitude":52.359406,
     "geom:longitude":4.924882,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803833,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1bHdw1hId3nFO5Ev3yhlxD_52.359406_4.924882@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b72d62faa633f1f0fd0e4cf41a5bdcf1",
+    "wof:geomhash":"484bb06af69f784afbaa96aa3d878cf7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803833,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":287173003
         }
     ],
     "wof:id":287173003,
-    "wof:lastmodified":1473878918,
+    "wof:lastmodified":1492514010,
     "wof:name":"Linnaeus Press",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

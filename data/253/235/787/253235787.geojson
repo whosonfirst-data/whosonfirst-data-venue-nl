@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.847052,52.347672,4.847052,52.347672",
     "geom:latitude":52.347672,
     "geom:longitude":4.847052,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803459,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1NRbe2c2MgCaPPhUGBgLcO_52.347672_4.847052@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a5bc51f975eb44a085dd9d03dd4c55a5",
+    "wof:geomhash":"d9e4a84418f6cf18e9818095f345216a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803459,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":253235787
         }
     ],
     "wof:id":253235787,
-    "wof:lastmodified":1473879246,
+    "wof:lastmodified":1492491070,
     "wof:name":"Helmers",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880653,52.354576,4.880653,52.354576",
     "geom:latitude":52.354576,
     "geom:longitude":4.880653,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803547,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2IPnrDTI63yw0BTSV1gr55_52.354576_4.880653@1306270007"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5fbdff28289726e6e0a58ce39c539ad3",
+    "wof:geomhash":"10b5d24b98fc76000193415d46c2a1b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803547,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":336941355
         }
     ],
     "wof:id":336941355,
-    "wof:lastmodified":1473878460,
+    "wof:lastmodified":1492506907,
     "wof:name":"Veenemans",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

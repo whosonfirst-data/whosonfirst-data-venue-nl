@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.435428,51.913906,4.435428,51.913906",
     "geom:latitude":51.913906,
     "geom:longitude":4.435428,
@@ -24,29 +25,23 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859765,
+        85798427,
+        102191581,
         85633337,
         101751843,
-        85687041,
-        85798427
+        1108805753,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BYRdf14jC4UGVu0IEFxXa_51.913906_4.435428@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2150ac73f28e14c312c267508436dc74",
+    "wof:geomhash":"db2167965dd1542ba973b080c1e13157",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751843,
-            "neighbourhood_id":85859765,
-            "region_id":85687041,
-            "venue_id":270015499
-        },
-        {
-            "continent_id":-1,
+            "borough_id":1108805753,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
             "neighbourhood_id":85798427,
@@ -55,9 +50,9 @@
         }
     ],
     "wof:id":270015499,
-    "wof:lastmodified":1473878493,
+    "wof:lastmodified":1492499239,
     "wof:name":"T.E. De Graaf-Oudijn",
-    "wof:parent_id":-1,
+    "wof:parent_id":85798427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

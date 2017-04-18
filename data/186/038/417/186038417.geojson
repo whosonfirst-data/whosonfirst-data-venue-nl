@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.272403,52.104416,4.272403,52.104416",
     "geom:latitude":52.104416,
     "geom:longitude":4.272403,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808159,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_4EMpZ2I9p5rooojcSwtJpF_52.104416_4.272403@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c9ae0b0c16d279627097645a86bfab40",
+    "wof:geomhash":"62ae106063a8308443d25a6936ea092e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808159,
             "region_id":85687041,
             "venue_id":186038417
         }
     ],
     "wof:id":186038417,
-    "wof:lastmodified":1473878708,
+    "wof:lastmodified":1492509184,
     "wof:name":"De Koereur",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882931,52.418095,4.882931,52.418095",
     "geom:latitude":52.418095,
     "geom:longitude":4.882931,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803913,
+        1108802883,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_16KN9qErxtQzIbGYzLm6Vf_52.418095_4.882931@1306269951"
     },
     "wof:country":"NL",
-    "wof:geomhash":"371cd4ebaf23977dbfccdc48a6885f57",
+    "wof:geomhash":"7eafa5481a5c59c853dddd24afced5df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803913,
+            "neighbourhood_id":1108802883,
             "region_id":85687053,
             "venue_id":253554225
         }
     ],
     "wof:id":253554225,
-    "wof:lastmodified":1473879683,
+    "wof:lastmodified":1492490609,
     "wof:name":"Joke Lens, Pedicure",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

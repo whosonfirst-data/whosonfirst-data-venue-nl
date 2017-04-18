@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.794573,52.34177,4.794573,52.34177",
     "geom:latitude":52.34177,
     "geom:longitude":4.794573,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803689,
+        1108802857,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_2MDbAWYn8zKhetn94VqZ8h_52.341770_4.794573@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a92d88b181e2ffb91e72f056affc476d",
+    "wof:geomhash":"7119c180ac21a9beea5d020c3d35181c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803689,
+            "neighbourhood_id":1108802857,
             "region_id":85687053,
             "venue_id":269772367
         }
     ],
     "wof:id":269772367,
-    "wof:lastmodified":1473879409,
+    "wof:lastmodified":1492496307,
     "wof:name":"P.H.J. Burger",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

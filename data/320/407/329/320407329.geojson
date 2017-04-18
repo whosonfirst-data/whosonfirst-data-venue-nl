@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.803886,52.399975,4.803886,52.399975",
     "geom:latitude":52.399975,
     "geom:longitude":4.803886,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798675,
+        1108803963,
+        1108802955,
+        102191581,
         85633337,
+        101751893,
+        1108802287,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_7HtE9jalsYWOOgckRc0Y8Z_52.399975_4.803886@1306269998"
     },
     "wof:country":"NL",
-    "wof:geomhash":"39d15b5d00cf2821eba30f351ca4c7a7",
+    "wof:geomhash":"aea42c9f833470906af9fde3e5ffbbff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802287,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798675,
+            "locality_id":101751893,
+            "microhood_id":1108803963,
+            "neighbourhood_id":1108802955,
             "region_id":85687053,
             "venue_id":320407329
         }
     ],
     "wof:id":320407329,
-    "wof:lastmodified":1473879274,
+    "wof:lastmodified":1492483656,
     "wof:name":"Van Den Bosch Transporten Amsterdam Bv",
-    "wof:parent_id":85798675,
+    "wof:parent_id":1108803963,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

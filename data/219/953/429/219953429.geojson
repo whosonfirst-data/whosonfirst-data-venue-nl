@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.385104,51.934364,4.385104,51.934364",
     "geom:latitude":51.934364,
     "geom:longitude":4.385104,
@@ -25,40 +26,44 @@
     "sg:website":"http://www.safetyequipment.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797803,
+        85797797,
+        102191581,
+        404474253,
         85633337,
-        101751851,
         85687041,
-        85797797
+        85797803,
+        404474273,
+        101751851
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WtPQRAkE4u9F6wZG1fW2M_51.934364_4.385104@1306269930"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9eadb0dee8e9b597e95c2aae40fdc50e",
+    "wof:geomhash":"09f1e33532d295c42c9997a73caa7a2d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751851,
-            "neighbourhood_id":85797803,
+            "localadmin_id":404474253,
+            "neighbourhood_id":85797797,
             "region_id":85687041,
             "venue_id":219953429
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797797,
+            "localadmin_id":404474273,
+            "locality_id":101751851,
+            "neighbourhood_id":85797803,
             "region_id":85687041,
             "venue_id":219953429
         }
     ],
     "wof:id":219953429,
-    "wof:lastmodified":1473879740,
+    "wof:lastmodified":1492502359,
     "wof:name":"Safety Equipment Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.860233,52.365551,4.860233,52.365551",
     "geom:latitude":52.365551,
     "geom:longitude":4.860233,
@@ -35,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803407,
+        1108802785,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -45,21 +49,23 @@
         "sg:id":"SG_4r5wAIMtljN7NuQjgsDGqw_52.365551_4.860233@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e1636f9942324da515d6c1084aa230cf",
+    "wof:geomhash":"b07c61d858df33a28a40c35b8c73d8fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803407,
+            "neighbourhood_id":1108802785,
             "region_id":85687053,
             "venue_id":319855965
         }
     ],
     "wof:id":319855965,
-    "wof:lastmodified":1473878732,
+    "wof:lastmodified":1492479403,
     "wof:name":"Kinkerbrug Vof, De",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

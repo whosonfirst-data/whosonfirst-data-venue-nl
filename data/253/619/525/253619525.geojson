@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.492909,52.05304,4.492909,52.05304",
     "geom:latitude":52.05304,
     "geom:longitude":4.492909,
@@ -25,6 +26,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85797233,
+        102191581,
+        404474287,
         85633337,
         101751835,
         85687041,
@@ -35,19 +38,21 @@
         "sg:id":"SG_77UrmRCgPfUnwI7Almpng4_52.053040_4.492909@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7326fbb4571267ec4d0ed646cf89b922",
+    "wof:geomhash":"662d25b5fd000a81b588a70ca20b87e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474287,
             "locality_id":101751835,
             "neighbourhood_id":85797233,
             "region_id":85687041,
             "venue_id":253619525
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474287,
             "locality_id":101751835,
             "neighbourhood_id":85797467,
             "region_id":85687041,
@@ -55,9 +60,9 @@
         }
     ],
     "wof:id":253619525,
-    "wof:lastmodified":1473879686,
+    "wof:lastmodified":1492488859,
     "wof:name":"Boskabouter, De",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

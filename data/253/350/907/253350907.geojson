@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.90814,52.355568,4.90814,52.355568",
     "geom:latitude":52.355568,
     "geom:longitude":4.90814,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.gimmigimmi.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803259,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_4AW8iwoy6VopdKKZyMGmkI_52.355568_4.908140@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7a26dd2108da9335df65c01c10ea6f59",
+    "wof:geomhash":"e952e9e487b72b104cc55e2b6e1a6589",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803259,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":253350907
         }
     ],
     "wof:id":253350907,
-    "wof:lastmodified":1473879443,
+    "wof:lastmodified":1492489374,
     "wof:name":"Gimmigimmi",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

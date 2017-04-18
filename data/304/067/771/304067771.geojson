@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.305163,52.091095,4.305163,52.091095",
     "geom:latitude":52.091095,
     "geom:longitude":4.305163,
@@ -30,8 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859619,
+        102191581,
+        1108808071,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -39,19 +43,21 @@
         "sg:id":"SG_2GqnMGjT1Imlz31NjbTAN7_52.091095_4.305163@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"015760d9e27ffae13f83c0d8cffabfc8",
+    "wof:geomhash":"329a48fc6522b8fb8ac397c6610fe9bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808071,
             "neighbourhood_id":85859619,
             "region_id":85687041,
             "venue_id":304067771
         }
     ],
     "wof:id":304067771,
-    "wof:lastmodified":1473878762,
+    "wof:lastmodified":1492504470,
     "wof:name":"Hotel Cattenburch",
     "wof:parent_id":85859619,
     "wof:placetype":"venue",

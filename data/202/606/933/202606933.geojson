@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.313496,52.0518,4.313496,52.0518",
     "geom:latitude":52.0518,
     "geom:longitude":4.313496,
@@ -25,28 +26,46 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798433,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0O8VkRmS2n7Csh3AE2pBqi_52.051800_4.313496@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"75df51c58d165f780dfb17b8735882a9",
+    "wof:geomhash":"7fb95a92938f4fe925ceb3e14ab4ba7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":85798433,
+            "region_id":85687041,
+            "venue_id":202606933
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
+            "macrohood_id":1108808103,
             "neighbourhood_id":85798433,
             "region_id":85687041,
             "venue_id":202606933
         }
     ],
     "wof:id":202606933,
-    "wof:lastmodified":1473879055,
+    "wof:lastmodified":1492497954,
     "wof:name":"Firma Talen",
     "wof:parent_id":85798433,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912165,52.350723,4.912165,52.350723",
     "geom:latitude":52.350723,
     "geom:longitude":4.912165,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803259,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7ChQxucav7GnybjBXxgH8A_52.350723_4.912165@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d82488cf8f9e820284f4d6bf47c910d7",
+    "wof:geomhash":"02ddcba01393d63bdd832680fb447cad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803259,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":270055951
         }
     ],
     "wof:id":270055951,
-    "wof:lastmodified":1473878508,
+    "wof:lastmodified":1492500874,
     "wof:name":"Kops Sportcentrum",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

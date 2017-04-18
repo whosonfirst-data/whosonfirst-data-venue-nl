@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.434219,51.947758,4.434219,51.947758",
     "geom:latitude":51.947758,
     "geom:longitude":4.434219,
@@ -24,8 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798367,
+        1108833229,
+        1108805883,
+        102191581,
         85633337,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_2dnzFotUcxPW9MWB70pwl4_51.947758_4.434219@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fe7376ef98bfea9753cc378a3976bcb9",
+    "wof:geomhash":"52ca845ef2660cca1a90b5b7c13b38d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798367,
+            "locality_id":101751843,
+            "microhood_id":1108833229,
+            "neighbourhood_id":1108805883,
             "region_id":85687041,
             "venue_id":219529747
         }
     ],
     "wof:id":219529747,
-    "wof:lastmodified":1473879351,
+    "wof:lastmodified":1492501802,
     "wof:name":"Trans Travel Airlines",
-    "wof:parent_id":85798367,
+    "wof:parent_id":1108833229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

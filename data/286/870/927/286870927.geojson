@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.926686,52.357449,4.926686,52.357449",
     "geom:latitude":52.357449,
     "geom:longitude":4.926686,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803941,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6YMhcj0dAFOzMohL1S8bFs_52.357449_4.926686@1306269974"
     },
     "wof:country":"NL",
-    "wof:geomhash":"77664e3ddefb19e88f53a58fb03b4c04",
+    "wof:geomhash":"d4d3603188706d96df8bd3f08d517a93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":286870927
         }
     ],
     "wof:id":286870927,
-    "wof:lastmodified":1473879671,
+    "wof:lastmodified":1492475138,
     "wof:name":"Bloemenkiosk N. Mulders",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

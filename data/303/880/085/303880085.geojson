@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.112316,52.113609,5.112316,52.113609",
     "geom:latitude":52.113609,
     "geom:longitude":5.112316,
@@ -25,8 +26,12 @@
     "sg:website":"http://www.adam.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808929,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +39,23 @@
         "sg:id":"SG_0sDHjtuz6TAk7aDSOqLHTJ_52.113609_5.112316@1306269988"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f69fbfa8bb94c36d643abac21278aefa",
+    "wof:geomhash":"ba6db3f54ecd70fdf36977414d2213ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808929,
             "region_id":85687039,
             "venue_id":303880085
         }
     ],
     "wof:id":303880085,
-    "wof:lastmodified":1473879637,
+    "wof:lastmodified":1492470419,
     "wof:name":"Adam",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

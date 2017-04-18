@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.930395,52.3983,4.930395,52.3983",
     "geom:latitude":52.3983,
     "geom:longitude":4.930395,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803353,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_6DBkkl3k8TetiypHI7pesZ_52.398300_4.930395@1306269951"
     },
     "wof:country":"NL",
-    "wof:geomhash":"677e26e34b847648fe1caaf290def169",
+    "wof:geomhash":"9f281bf579ca140066b1aca0f9d2c0e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803353,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":253580907
         }
     ],
     "wof:id":253580907,
-    "wof:lastmodified":1473879685,
+    "wof:lastmodified":1492488733,
     "wof:name":"Velde-Cluwen, E V/D",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803353,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.889063,52.369122,4.889063,52.369122",
     "geom:latitude":52.369122,
     "geom:longitude":4.889063,
@@ -29,9 +30,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803247,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_6FqssJPiwtBMuK0PDD3iWe_52.369122_4.889063@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3801468edd6b345f895818abbfb8df8b",
+    "wof:geomhash":"ce7120fa0f81d38e662cfed3c8269859",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803247,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":270463137
         }
     ],
     "wof:id":270463137,
-    "wof:lastmodified":1473879256,
+    "wof:lastmodified":1492500570,
     "wof:name":"Le Kiosque",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

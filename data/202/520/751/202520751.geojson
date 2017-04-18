@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.809914,52.345798,4.809914,52.345798",
     "geom:latitude":52.345798,
     "geom:longitude":4.809914,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803345,
+        1108802901,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_2m1wkkmjvkcKq0MVMDwdt4_52.345798_4.809914@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4973736e125e6b60ef8a9de6613ce1ec",
+    "wof:geomhash":"543a4ba3a75ae74cfd06235883254213",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803345,
+            "neighbourhood_id":1108802901,
             "region_id":85687053,
             "venue_id":202520751
         }
     ],
     "wof:id":202520751,
-    "wof:lastmodified":1473878839,
+    "wof:lastmodified":1492499140,
     "wof:name":"Goldmovie Bv",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

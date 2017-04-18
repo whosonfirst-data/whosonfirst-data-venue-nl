@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.858614,52.343704,4.858614,52.343704",
     "geom:latitude":52.343704,
     "geom:longitude":4.858614,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.the-act.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108804129,
+        1108802917,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_5jQEzTXqJl61S1oQ1GbPvM_52.343704_4.858614@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"23a1a0c846407ccc7304151414feddd7",
+    "wof:geomhash":"d4fa1704b5e885cdd595ab066e0f473f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108804129,
+            "neighbourhood_id":1108802917,
             "region_id":85687053,
             "venue_id":286421363
         }
     ],
     "wof:id":286421363,
-    "wof:lastmodified":1473878960,
+    "wof:lastmodified":1492477093,
     "wof:name":"Act, The",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

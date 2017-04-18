@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884286,52.334003,4.884286,52.334003",
     "geom:latitude":52.334003,
     "geom:longitude":4.884286,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803873,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_51YspYbiXnFjKpjdGwv1qX_52.334003_4.884286@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2424cf93db52573e56ee8bb6e6fd363d",
+    "wof:geomhash":"e5026a9a34cf02294257a7c2c3b78367",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803873,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":320681999
         }
     ],
     "wof:id":320681999,
-    "wof:lastmodified":1473879520,
+    "wof:lastmodified":1492484881,
     "wof:name":"Vreugdehof",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

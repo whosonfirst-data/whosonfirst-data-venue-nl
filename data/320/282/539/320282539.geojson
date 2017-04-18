@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.887981,52.355904,4.887981,52.355904",
     "geom:latitude":52.355904,
     "geom:longitude":4.887981,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803911,
+        1108802891,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5DhEkmjXK34LX9lQMmFTLs_52.355904_4.887981@1306269997"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f106b72b55e7ca51cf79ddcbcc96491c",
+    "wof:geomhash":"1119e6710174497627ba4a824c185778",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803911,
+            "neighbourhood_id":1108802891,
             "region_id":85687053,
             "venue_id":320282539
         }
     ],
     "wof:id":320282539,
-    "wof:lastmodified":1473879148,
+    "wof:lastmodified":1492482558,
     "wof:name":"Asseper",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803911,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

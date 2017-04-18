@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.822446,52.353821,4.822446,52.353821",
     "geom:latitude":52.353821,
     "geom:longitude":4.822446,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803265,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3PeupmeOq5Sg8I56bvvHbK_52.353821_4.822446@1306269920"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8386ff0e8f7ff9fbe9c16a24e319b30c",
+    "wof:geomhash":"c1eecf29078b52af6181a4094f2a6f93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803265,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":203060355
         }
     ],
     "wof:id":203060355,
-    "wof:lastmodified":1473878691,
+    "wof:lastmodified":1492480581,
     "wof:name":"A.S.A. Assurantie Shop Amsterdam",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

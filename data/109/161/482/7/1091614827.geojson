@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.061068058,52.0869178772,5.061068058,52.0869178772",
     "geom:latitude":52.086918,
     "geom:longitude":5.061068,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808779,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808661,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473803659,
-    "wof:geomhash":"bfb4aed264513d718743accf26bbdf44",
+    "wof:geomhash":"02e03e320f602ee3ab88e818bb012cb3",
     "wof:hierarchy":[
         {
+            "borough_id":1108808661,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808779,
             "region_id":85687039,
             "venue_id":1091614827
         }
     ],
     "wof:id":1091614827,
-    "wof:lastmodified":1473878758,
+    "wof:lastmodified":1492510754,
     "wof:name":"Media Expresse Vosmeer",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

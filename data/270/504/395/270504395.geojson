@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.499471,51.927094,4.499471,51.927094",
     "geom:latitude":51.927094,
     "geom:longitude":4.499471,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805807,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_7Ow4fuZHVlM1YNdS67LkX8_51.927094_4.499471@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3b6cb585da9ffe55b716b4b57aa57f34",
+    "wof:geomhash":"af9b05368e8427f86f60e5f936bada15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805807,
             "region_id":85687041,
             "venue_id":270504395
         }
     ],
     "wof:id":270504395,
-    "wof:lastmodified":1473879342,
+    "wof:lastmodified":1492500647,
     "wof:name":"De Kleine Wereld",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

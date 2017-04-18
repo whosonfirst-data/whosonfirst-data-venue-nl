@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.905531,52.373749,4.905531,52.373749",
     "geom:latitude":52.373749,
     "geom:longitude":4.905531,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.cityhotelamsterdam.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803471,
+        1108802875,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_1O4L2GB95pECtb08yRq5Yh_52.373749_4.905531@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9a961626ad9f733742670811a5a09fe2",
+    "wof:geomhash":"bb21018a7dca5bebe9541b7f9ab54029",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803471,
+            "neighbourhood_id":1108802875,
             "region_id":85687053,
             "venue_id":304053213
         }
     ],
     "wof:id":304053213,
-    "wof:lastmodified":1473878710,
+    "wof:lastmodified":1492504643,
     "wof:name":"City Hotel Amsterdam",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803471,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

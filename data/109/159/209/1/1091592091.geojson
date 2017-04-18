@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9517240524,50.8543128967,5.9517240524,50.8543128967",
     "geom:latitude":50.854313,
     "geom:longitude":5.951724,
@@ -24,17 +25,32 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.fromberg.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474529,
+        85633337,
+        101810587
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69dJDh7kikPDxJyH5taqua_50.854313_5.951724@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802051,
-    "wof:geomhash":"454f7026bc32eac466316724386fdb59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f88970ce1e554e4fbf62873219e7e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474529,
+            "locality_id":101810587,
+            "region_id":85687033,
+            "venue_id":1091592091
+        }
+    ],
     "wof:id":1091592091,
-    "wof:lastmodified":1473878590,
+    "wof:lastmodified":1492509613,
     "wof:name":"Fromberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

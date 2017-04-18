@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877796,52.370125,4.877796,52.370125",
     "geom:latitude":52.370125,
     "geom:longitude":4.877796,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7kSJ7ArOhQhWbqf0GZ04T0_52.370125_4.877796@1306269981"
     },
     "wof:country":"NL",
-    "wof:geomhash":"50317f2ae457c042090e3de4accfd2a7",
+    "wof:geomhash":"ef02e0ef240c3fba5c338c30e473485c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":303190907
         }
     ],
     "wof:id":303190907,
-    "wof:lastmodified":1473878879,
+    "wof:lastmodified":1492472617,
     "wof:name":"Superschot Vereniging",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

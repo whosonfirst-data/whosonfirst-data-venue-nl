@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.914218,52.356625,4.914218,52.356625",
     "geom:latitude":52.356625,
     "geom:longitude":4.914218,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803403,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2dyk2vxfx9xcWtFKlpL39h_52.356625_4.914218@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"628dc45c644254174c26528cd43c85dd",
+    "wof:geomhash":"885b0ddcf475d2536069187c3d9a8b45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803403,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":303058429
         }
     ],
     "wof:id":303058429,
-    "wof:lastmodified":1473878525,
+    "wof:lastmodified":1492473756,
     "wof:name":"Marans Administratie En Advies",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803403,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

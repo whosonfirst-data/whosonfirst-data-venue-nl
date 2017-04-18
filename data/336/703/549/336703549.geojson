@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.96295,52.390938,4.96295,52.390938",
     "geom:latitude":52.390938,
     "geom:longitude":4.96295,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108804083,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -45,21 +50,24 @@
         "sg:id":"SG_0TmOrcFVZcMsAw0KFqxh68_52.390938_4.962950@1306270004"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6b6c711ef330ee3c7f030084ae99b586",
+    "wof:geomhash":"d7e762fa298f1873581b8fd3f25f54fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804083,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":336703549
         }
     ],
     "wof:id":336703549,
-    "wof:lastmodified":1473878416,
+    "wof:lastmodified":1492506243,
     "wof:name":"Niehe En Lanc?e",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108804083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

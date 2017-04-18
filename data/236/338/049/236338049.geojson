@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.922416,52.346912,4.922416,52.346912",
     "geom:latitude":52.346912,
     "geom:longitude":4.922416,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803961,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1t3Y04e2knWmgAacdMOZIW_52.346912_4.922416@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ae489d2c5203f1bacbd38e6ea52c3024",
+    "wof:geomhash":"6289140fd328ee6fb90d87c8215cb7d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803961,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":236338049
         }
     ],
     "wof:id":236338049,
-    "wof:lastmodified":1473879151,
+    "wof:lastmodified":1492492385,
     "wof:name":"Muilwijk",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

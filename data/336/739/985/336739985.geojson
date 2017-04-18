@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.869371,52.340435,4.869371,52.340435",
     "geom:latitude":52.340435,
     "geom:longitude":4.869371,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803857,
+        1108802919,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_3LBb3X1TdVGAO1duwuZU7m_52.340435_4.869371@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ba7f0bd3edf42eac505962631a34ef78",
+    "wof:geomhash":"1333ee8aa28c111395daa40975a5e694",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108803857,
+            "neighbourhood_id":1108802919,
             "region_id":85687053,
             "venue_id":336739985
         }
     ],
     "wof:id":336739985,
-    "wof:lastmodified":1473878435,
+    "wof:lastmodified":1492506347,
     "wof:name":"Pricewaterhousecoopers",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803857,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

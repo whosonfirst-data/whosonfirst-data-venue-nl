@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.820897,52.38084,4.820897,52.38084",
     "geom:latitude":52.38084,
     "geom:longitude":4.820897,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108803979,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_2nPdsXt9nuAjiwRwEGwt8F_52.380840_4.820897@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5d1a0f5a433239d071509736a8cca5fd",
+    "wof:geomhash":"fe20a1e0a410f722b9917a9f8fe447cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108803979,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":270092257
         }
     ],
     "wof:id":270092257,
-    "wof:lastmodified":1473878565,
+    "wof:lastmodified":1492499630,
     "wof:name":"Foto Cinecentrum",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108803979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

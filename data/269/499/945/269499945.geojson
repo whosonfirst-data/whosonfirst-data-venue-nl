@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.104177,52.116341,5.104177,52.116341",
     "geom:latitude":52.116341,
     "geom:longitude":5.104177,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808895,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_3Mg6AZO3t7VBGpeQE35j21_52.116341_5.104177@1306269953"
     },
     "wof:country":"NL",
-    "wof:geomhash":"db2e287f96e337e4e72968ce32a011ad",
+    "wof:geomhash":"ef85997c20f8644ad93f663af170a73c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808895,
             "region_id":85687039,
             "venue_id":269499945
         }
     ],
     "wof:id":269499945,
-    "wof:lastmodified":1473878585,
+    "wof:lastmodified":1492496134,
     "wof:name":"Second Opinion Kliniek",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

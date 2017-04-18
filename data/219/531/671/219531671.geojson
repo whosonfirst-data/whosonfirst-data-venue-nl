@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.851372,52.353374,4.851372,52.353374",
     "geom:latitude":52.353374,
     "geom:longitude":4.851372,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803385,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6lyfGuCvG7t1ijkFnFl1DE_52.353374_4.851372@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c01543a27d4bd72ceb40ca75a18d7140",
+    "wof:geomhash":"b368edc8345350a54a08252bfce344b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803385,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":219531671
         }
     ],
     "wof:id":219531671,
-    "wof:lastmodified":1473879358,
+    "wof:lastmodified":1492502595,
     "wof:name":"Airswitch",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4397177696,52.1339759827,5.4397177696,52.1339759827",
     "geom:latitude":52.133976,
     "geom:longitude":5.439718,
@@ -24,17 +25,32 @@
     "sg:province":"Utrecht",
     "sg:website":"http://www.selamas.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473989,
+        85633337,
+        101837659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4g6SceYCqfZcasBg5I4eMO_52.133976_5.439718@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800788,
-    "wof:geomhash":"f7104e93c979ee4815e9ed2705bc4fae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64d49d573d95a26950e1b69dfd74f9d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473989,
+            "locality_id":101837659,
+            "region_id":85687039,
+            "venue_id":1091574917
+        }
+    ],
     "wof:id":1091574917,
-    "wof:lastmodified":1473878833,
+    "wof:lastmodified":1492511462,
     "wof:name":"Selamas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

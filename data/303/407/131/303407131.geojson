@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.937976,52.359936,4.937976,52.359936",
     "geom:latitude":52.359936,
     "geom:longitude":4.937976,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803597,
+        1108802845,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5qxrFldF535oPzbK1aOVNP_52.359936_4.937976@1306269983"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d48c26f7322774d65782e5a5f8e59208",
+    "wof:geomhash":"4be774b2161e5544875f709b21468d00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803597,
+            "neighbourhood_id":1108802845,
             "region_id":85687053,
             "venue_id":303407131
         }
     ],
     "wof:id":303407131,
-    "wof:lastmodified":1473879148,
+    "wof:lastmodified":1492472578,
     "wof:name":"Evenaar Openb, De",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803597,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

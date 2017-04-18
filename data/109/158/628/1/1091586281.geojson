@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6694140434,53.4081192017,6.6694140434,53.4081192017",
     "geom:latitude":53.408119,
     "geom:longitude":6.669414,
@@ -23,17 +24,32 @@
     "sg:postcode":"9981 AD",
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404474561,
+        85633337,
+        101807513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rehOKritrEgeomE3u43dZ_53.408119_6.669414@1306270014"
     },
     "wof:country":"NL",
     "wof:created":1473801717,
-    "wof:geomhash":"23c815abd2dee5e1941b4eb1657279cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b6551f510a4a9af4244b9333ff5f7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474561,
+            "locality_id":101807513,
+            "region_id":85687059,
+            "venue_id":1091586281
+        }
+    ],
     "wof:id":1091586281,
-    "wof:lastmodified":1473878828,
+    "wof:lastmodified":1492511538,
     "wof:name":"Randstad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

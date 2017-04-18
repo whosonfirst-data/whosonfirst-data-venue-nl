@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.945857,52.410042,4.945857,52.410042",
     "geom:latitude":52.410042,
     "geom:longitude":4.945857,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804259,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_54HlYS9MHEIds4AvCWBZrE_52.410042_4.945857@1306269992"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0eba73a11e2dc92e83e89087b39f521e",
+    "wof:geomhash":"c55eaffacc3e53ca905109a862bf5202",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804259,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":319878655
         }
     ],
     "wof:id":319878655,
-    "wof:lastmodified":1473878765,
+    "wof:lastmodified":1492479726,
     "wof:name":"Sakes, A",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108804259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.84725,52.372402,4.84725,52.372402",
     "geom:latitude":52.372402,
     "geom:longitude":4.84725,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803673,
+        1108802931,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_05y8AuIN9YNqlh2sGfqQtQ_52.372402_4.847250@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e78b5655cba9c67fd5f8c66a7fbab5d2",
+    "wof:geomhash":"186813df319991c484576727d2b42cc3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803673,
+            "neighbourhood_id":1108802931,
             "region_id":85687053,
             "venue_id":236033363
         }
     ],
     "wof:id":236033363,
-    "wof:lastmodified":1473878596,
+    "wof:lastmodified":1492494612,
     "wof:name":"Cafe Bar-Biertje",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

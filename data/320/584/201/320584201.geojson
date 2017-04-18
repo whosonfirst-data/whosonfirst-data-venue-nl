@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.922492,52.355129,4.922492,52.355129",
     "geom:latitude":52.355129,
     "geom:longitude":4.922492,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803941,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_002YFlComH2SK0KMmjZ8nl_52.355129_4.922492@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f8b292035a3eafa25f031d4c0b96c705",
+    "wof:geomhash":"4813d3272cef95d9b1e557b9fdec26bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":320584201
         }
     ],
     "wof:id":320584201,
-    "wof:lastmodified":1473879414,
+    "wof:lastmodified":1492483814,
     "wof:name":"Birlik",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

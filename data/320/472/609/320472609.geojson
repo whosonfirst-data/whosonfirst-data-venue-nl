@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.903962,52.363735,4.903962,52.363735",
     "geom:latitude":52.363735,
     "geom:longitude":4.903962,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.circussinistra.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803643,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_4ddXLphAsCwyWRg0MEePlU_52.363735_4.903962@1306269998"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f681cdd025a9d4829bfcf9862079b851",
+    "wof:geomhash":"c4d7c0032ad14ab3716d0b1d9592e13e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803643,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":320472609
         }
     ],
     "wof:id":320472609,
-    "wof:lastmodified":1473879335,
+    "wof:lastmodified":1492483109,
     "wof:name":"Circus Sinistra",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

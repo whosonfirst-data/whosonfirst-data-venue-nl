@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.266406,52.0355,4.266406,52.0355",
     "geom:latitude":52.0355,
     "geom:longitude":4.266406,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859597,
+        1108808283,
+        102191581,
+        1108808029,
         85633337,
-        101754721,
+        101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_6DwgCYJNGEcYKvzcM1coHt_52.035500_4.266406@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2ffb9723d8e7bc879179a5f7d4d8118d",
+    "wof:geomhash":"7623579ead1ed4ebf2d2d6cbc61a9b03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754721,
-            "neighbourhood_id":85859597,
+            "locality_id":101752763,
+            "macrohood_id":1108808029,
+            "neighbourhood_id":1108808283,
             "region_id":85687041,
             "venue_id":320545751
         }
     ],
     "wof:id":320545751,
-    "wof:lastmodified":1473879402,
+    "wof:lastmodified":1492483996,
     "wof:name":"B Th Borsboom",
-    "wof:parent_id":85859597,
+    "wof:parent_id":1108808283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

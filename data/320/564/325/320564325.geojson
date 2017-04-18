@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.356861,52.091488,4.356861,52.091488",
     "geom:latitude":52.091488,
     "geom:longitude":4.356861,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797989,
+        1108808233,
+        102191581,
+        1108808111,
         85633337,
         101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_1ATAXawaYPsg8lVfnG8m6c_52.091488_4.356861@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e9aae6d512fcde2385aad24e83745518",
+    "wof:geomhash":"378e460f84f2fd10a433fd41ee2e6c5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797989,
+            "macrohood_id":1108808111,
+            "neighbourhood_id":1108808233,
             "region_id":85687041,
             "venue_id":320564325
         }
     ],
     "wof:id":320564325,
-    "wof:lastmodified":1473879406,
+    "wof:lastmodified":1492484028,
     "wof:name":"John Franken Versboetiek",
-    "wof:parent_id":85797989,
+    "wof:parent_id":1108808233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

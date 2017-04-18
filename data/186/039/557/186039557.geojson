@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.782434,52.391079,4.782434,52.391079",
     "geom:latitude":52.391079,
     "geom:longitude":4.782434,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798675,
+        1108804105,
+        1108802535,
+        102191581,
         85633337,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1Mtls7f6HkvkXQSRy3n6yG_52.391079_4.782434@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"31147cf6ed3232fb65ccd7741af5bf87",
+    "wof:geomhash":"a0f5b384bc976600f7b5f5effb30a614",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798675,
+            "locality_id":101751893,
+            "microhood_id":1108804105,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":186039557
         }
     ],
     "wof:id":186039557,
-    "wof:lastmodified":1473878716,
+    "wof:lastmodified":1492509350,
     "wof:name":"Direkt",
-    "wof:parent_id":85798675,
+    "wof:parent_id":1108804105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

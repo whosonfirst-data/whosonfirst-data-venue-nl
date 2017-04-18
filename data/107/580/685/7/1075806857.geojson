@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6923499107,52.5717735291,4.6923499107,52.5717735291",
     "geom:latitude":52.571774,
     "geom:longitude":4.69235,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.budgetcare.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474053,
+        85633337,
+        101807339
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tjM4euBaCb0kOt0PBYcdY_52.571774_4.692350@1306269919"
     },
     "wof:country":"NL",
     "wof:created":1473798488,
-    "wof:geomhash":"8a9a0b61f0cb0fb9371877a5de6d3478",
-    "wof:hierarchy":[],
+    "wof:geomhash":"550110fe765b167a25d12ab49649bf9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474053,
+            "locality_id":101807339,
+            "region_id":85687053,
+            "venue_id":1075806857
+        }
+    ],
     "wof:id":1075806857,
-    "wof:lastmodified":1473878512,
+    "wof:lastmodified":1492485978,
     "wof:name":"Budget Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.0297732353,51.8055419922,4.0297732353,51.8055419922",
     "geom:latitude":51.805542,
     "geom:longitude":4.029773,
@@ -31,17 +32,32 @@
         "garage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474171,
+        85633337,
+        101809843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ziI8VzD0a2LtF04IkY7Yw_51.805542_4.029773@1306269994"
     },
     "wof:country":"NL",
     "wof:created":1473798791,
-    "wof:geomhash":"52b25480cb7fe8157c34ac7b5f8f0b17",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8aafa2f1a44942d30883f0bb7e686c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474171,
+            "locality_id":101809843,
+            "region_id":85687041,
+            "venue_id":1075812553
+        }
+    ],
     "wof:id":1075812553,
-    "wof:lastmodified":1473878875,
+    "wof:lastmodified":1492486637,
     "wof:name":"Hoeven, Van Der",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

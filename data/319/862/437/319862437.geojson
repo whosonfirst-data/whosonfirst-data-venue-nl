@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.53931,51.95668,4.53931,51.95668",
     "geom:latitude":51.95668,
     "geom:longitude":4.53931,
@@ -24,31 +25,46 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eu5HIOKsgNsDiL1roDetD_51.956680_4.539310@1306269992"
     },
     "wof:country":"NL",
-    "wof:geomhash":"310e001264c7134926b79922f9b031d9",
+    "wof:geomhash":"536c2834528afa1226e4a37366163578",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":319862437
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":319862437
         }
     ],
     "wof:id":319862437,
-    "wof:lastmodified":1473878721,
+    "wof:lastmodified":1492479164,
     "wof:name":"A3 Pallethandel",
-    "wof:parent_id":85798329,
+    "wof:parent_id":85798149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

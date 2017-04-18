@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2636737823,52.3597831726,5.2636737823,52.3597831726",
     "geom:latitude":52.359783,
     "geom:longitude":5.263674,
@@ -24,17 +25,32 @@
     "sg:province":"NL.",
     "sg:website":"http://www.officecentre.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101751877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61ittgOdXP1eOvGr6SlrKA_52.359783_5.263674@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803732,
-    "wof:geomhash":"006c9a74dac508a70da7c78b84cc9bde",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c07c8869b18267743d921cf954937fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101751877,
+            "region_id":85687049,
+            "venue_id":1091616281
+        }
+    ],
     "wof:id":1091616281,
-    "wof:lastmodified":1473878836,
+    "wof:lastmodified":1492510375,
     "wof:name":"Office Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

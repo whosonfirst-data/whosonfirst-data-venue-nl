@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.848056,52.346516,4.848056,52.346516",
     "geom:latitude":52.346516,
     "geom:longitude":4.848056,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.hondenschool-lupus.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803473,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_48P04V89mdqsOw8R1MwlIt_52.346516_4.848056@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e087291ec64c855ca72bc5f8513edad6",
+    "wof:geomhash":"48a30b17297af25e504b186e57ac4605",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803473,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":304006159
         }
     ],
     "wof:id":304006159,
-    "wof:lastmodified":1473878523,
+    "wof:lastmodified":1492504436,
     "wof:name":"Lupus, Hondenschool",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

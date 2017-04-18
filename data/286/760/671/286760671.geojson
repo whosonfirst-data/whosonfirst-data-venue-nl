@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.795161,52.342545,4.795161,52.342545",
     "geom:latitude":52.342545,
     "geom:longitude":4.795161,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803689,
+        1108802857,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_05fOmU1ywBmreMoqYyXa4J_52.342545_4.795161@1306269973"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7bab2c7b69947a4d0134aef57026c588",
+    "wof:geomhash":"50a84b99d1ba3e9ecc4157156b188100",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803689,
+            "neighbourhood_id":1108802857,
             "region_id":85687053,
             "venue_id":286760671
         }
     ],
     "wof:id":286760671,
-    "wof:lastmodified":1473879553,
+    "wof:lastmodified":1492476013,
     "wof:name":"Matchroom Sloten",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

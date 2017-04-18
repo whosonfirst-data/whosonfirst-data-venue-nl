@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.133046,51.976128,4.133046,51.976128",
     "geom:latitude":51.976128,
     "geom:longitude":4.133046,
@@ -25,8 +26,11 @@
     "sg:website":"http://www.leegstandsbeheer.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85797461,
+        102191581,
         85633337,
-        101808077,
+        101751843,
+        1108805729,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,22 @@
         "sg:id":"SG_53f9uObCOSmGxw3N2wVrEN_51.976128_4.133046@1306270007"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a79381fdc9f1fb81ace1f74a55b71f8b",
+    "wof:geomhash":"9d35727ec23e89761134b40f1dd579fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805729,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101808077,
-            "neighbourhood_id":-1,
+            "locality_id":101751843,
+            "neighbourhood_id":85797461,
             "region_id":85687041,
             "venue_id":336924159
         }
     ],
     "wof:id":336924159,
-    "wof:lastmodified":1473878452,
+    "wof:lastmodified":1492505935,
     "wof:name":"Interim Leegstandsbeheer Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

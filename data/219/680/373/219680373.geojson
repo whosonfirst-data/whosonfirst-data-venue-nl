@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.551652,51.939476,4.551652,51.939476",
     "geom:latitude":51.939476,
     "geom:longitude":4.551652,
@@ -24,31 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        1108805851,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lJMBU0r58rq9oQFOrfCaO_51.939476_4.551652@1306269928"
     },
     "wof:country":"NL",
-    "wof:geomhash":"365c74fcecbb35e1e94661a50ebd16f4",
+    "wof:geomhash":"592bf5810f6b0cb3e1e37a2845afe346",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805851,
+            "region_id":85687041,
+            "venue_id":219680373
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "neighbourhood_id":1108805851,
             "region_id":85687041,
             "venue_id":219680373
         }
     ],
     "wof:id":219680373,
-    "wof:lastmodified":1473879565,
+    "wof:lastmodified":1492503379,
     "wof:name":"Loonstaat Bv, De",
-    "wof:parent_id":85798329,
+    "wof:parent_id":1108805851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

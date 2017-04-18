@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.603302002,51.6443519592,4.603302002,51.6443519592",
     "geom:latitude":51.644352,
     "geom:longitude":4.603302,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.salon-davinci.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474623,
+        85633337,
+        101809653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TjxoNT4n8y8763RyOn2Q8_51.644352_4.603302@1306270019"
     },
     "wof:country":"NL",
     "wof:created":1473804135,
-    "wof:geomhash":"36605ce1f12b3506e5684f0c8cc60a66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96a1bfd20324811d6eda375e4189739f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474623,
+            "locality_id":101809653,
+            "region_id":85687035,
+            "venue_id":1091623659
+        }
+    ],
     "wof:id":1091623659,
-    "wof:lastmodified":1473878689,
+    "wof:lastmodified":1492512211,
     "wof:name":"Davinci, Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

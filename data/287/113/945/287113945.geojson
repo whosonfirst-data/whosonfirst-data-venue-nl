@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.228865,52.04443,4.228865,52.04443",
     "geom:latitude":52.04443,
     "geom:longitude":4.228865,
@@ -24,8 +25,13 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859557,
+        1108833209,
+        85797849,
+        102191581,
+        1108808101,
         85633337,
+        101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +39,24 @@
         "sg:id":"SG_6EQBpefRAEAbzELNVGKCV9_52.044430_4.228865@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6172ebaddc76c3dfc8d7bbdd92e02f17",
+    "wof:geomhash":"f7cee3f89a22c4530383c467487b4e1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859557,
+            "locality_id":101752763,
+            "macrohood_id":1108808101,
+            "microhood_id":1108833209,
+            "neighbourhood_id":85797849,
             "region_id":85687041,
             "venue_id":287113945
         }
     ],
     "wof:id":287113945,
-    "wof:lastmodified":1473878836,
+    "wof:lastmodified":1492513884,
     "wof:name":"Fa. Th. De Ruyt En Zn.",
-    "wof:parent_id":85859557,
+    "wof:parent_id":1108833209,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

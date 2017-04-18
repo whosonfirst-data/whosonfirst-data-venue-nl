@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7625107765,52.7113342285,5.7625107765,52.7113342285",
     "geom:latitude":52.711334,
     "geom:longitude":5.762511,
@@ -24,17 +25,32 @@
     "sg:province":"Flevoland",
     "sg:website":"http://www.kijkshop.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473843,
+        85633337,
+        101807245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DeysPEyI139HFdWTugpUx_52.711334_5.762511@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473799984,
-    "wof:geomhash":"16db5c8690d3c575081061681970807c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b87e956267197f0f9ac7a0af4e42203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473843,
+            "locality_id":101807245,
+            "region_id":85687049,
+            "venue_id":1075833551
+        }
+    ],
     "wof:id":1075833551,
-    "wof:lastmodified":1473879352,
+    "wof:lastmodified":1492485606,
     "wof:name":"Kijkshop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.406644,51.943447,4.406644,51.943447",
     "geom:latitude":51.943447,
     "geom:longitude":4.406644,
@@ -25,31 +26,46 @@
     "sg:website":"http://www.bouwinzicht.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859705,
+        1108805757,
+        102191581,
         85633337,
-        101751845,
-        85687041
+        101751843,
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PqTxcMqpA2Z39lYHz9aav_51.943447_4.406644@1306269930"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4ec284f3b67b4f862739c4fb91a2b909",
+    "wof:geomhash":"14fd46f43e081df74f0e3fc4aa9e38d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805739,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":219960277
+        },
+        {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474253,
             "locality_id":101751845,
-            "neighbourhood_id":85859705,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":219960277
         }
     ],
     "wof:id":219960277,
-    "wof:lastmodified":1473879740,
+    "wof:lastmodified":1492502381,
     "wof:name":"Bouwinzicht Bv",
-    "wof:parent_id":85859705,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

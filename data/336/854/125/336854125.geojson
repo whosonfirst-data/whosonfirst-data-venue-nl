@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.909375,52.405296,4.909375,52.405296",
     "geom:latitude":52.405296,
     "geom:longitude":4.909375,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803921,
+        1108802531,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6kmVPfpcecKND44Gchg90h_52.405296_4.909375@1306270006"
     },
     "wof:country":"NL",
-    "wof:geomhash":"86cbc715ff3ed700d43d55cc50e0bba3",
+    "wof:geomhash":"c6b78c88c0d9adefcd237ef3791096d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803921,
+            "neighbourhood_id":1108802531,
             "region_id":85687053,
             "venue_id":336854125
         }
     ],
     "wof:id":336854125,
-    "wof:lastmodified":1473878437,
+    "wof:lastmodified":1492506976,
     "wof:name":"Kroese, J J",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

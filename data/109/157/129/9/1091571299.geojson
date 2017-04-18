@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.9594750404,52.984375,6.9594750404,52.984375",
     "geom:latitude":52.984375,
     "geom:longitude":6.959475,
@@ -24,17 +25,32 @@
     "sg:province":"Groningen",
     "sg:website":"http://www.aepos.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473731,
+        85633337,
+        101837895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Des5ADg11GVft3F7HSZ7b_52.984375_6.959475@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800565,
-    "wof:geomhash":"02c77d054b8d647ed3dad0cac8ba6581",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b3281aee5ab2662217c92c252317429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473731,
+            "locality_id":101837895,
+            "region_id":85687059,
+            "venue_id":1091571299
+        }
+    ],
     "wof:id":1091571299,
-    "wof:lastmodified":1473878529,
+    "wof:lastmodified":1492511332,
     "wof:name":"Aepos Vof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

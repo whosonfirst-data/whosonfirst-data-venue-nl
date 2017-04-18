@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.190667,52.146545,6.190667,52.146545",
     "geom:latitude":52.146545,
     "geom:longitude":6.190667,
@@ -24,10 +25,12 @@
     "sg:province":"Gelderland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797361,
         85633337,
+        85797361,
         85687043,
         85798799,
+        102191581,
+        404473961,
         101837819
     ],
     "wof:breaches":[],
@@ -35,19 +38,18 @@
         "sg:id":"SG_2ntr3J3Oyw86BV3A06KETR_52.146545_6.190667@1306269946"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cd95823899d5d838b5d0a514923b8722",
+    "wof:geomhash":"ab91ecbbb983beb6ac630583381fffc0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85797361,
             "region_id":85687043,
             "venue_id":253134879
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473961,
             "locality_id":101837819,
             "neighbourhood_id":85798799,
             "region_id":85687043,
@@ -55,9 +57,9 @@
         }
     ],
     "wof:id":253134879,
-    "wof:lastmodified":1473878949,
+    "wof:lastmodified":1492488784,
     "wof:name":"Lederland Zutphen Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

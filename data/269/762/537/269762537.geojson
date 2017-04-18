@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.552758,51.951305,4.552758,51.951305",
     "geom:latitude":51.951305,
     "geom:longitude":4.552758,
@@ -34,20 +35,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wgQSS9PQgCowo9TOY9TFK_51.951305_4.552758@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fdd33d5f12b7bf5788d221e68b42d512",
+    "wof:geomhash":"337f00981663ec5d2415675a8aed44bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":269762537
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798177,
             "region_id":85687041,
@@ -55,7 +71,7 @@
         }
     ],
     "wof:id":269762537,
-    "wof:lastmodified":1473879389,
+    "wof:lastmodified":1492495170,
     "wof:name":"Het Station Kiosk",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

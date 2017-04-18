@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.269418,52.055382,4.269418,52.055382",
     "geom:latitude":52.055382,
     "geom:longitude":4.269418,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798043,
+        85859591,
+        102191581,
+        1108808107,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5MrMYliJGCxsJTxTU9KR4T_52.055382_4.269418@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e0522fa7ad4d4f2bf8a509d143a2bd58",
+    "wof:geomhash":"9774821b4d7fb6abe895af4e285524b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798043,
+            "macrohood_id":1108808107,
+            "neighbourhood_id":85859591,
             "region_id":85687041,
             "venue_id":236515271
         }
     ],
     "wof:id":236515271,
-    "wof:lastmodified":1473879383,
+    "wof:lastmodified":1492493233,
     "wof:name":"I.K.B. Van Hemert",
-    "wof:parent_id":85798043,
+    "wof:parent_id":85859591,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

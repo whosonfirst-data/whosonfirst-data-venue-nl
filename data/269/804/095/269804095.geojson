@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878119,52.368999,4.878119,52.368999",
     "geom:latitude":52.368999,
     "geom:longitude":4.878119,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803235,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_3PTIvmCklF3yLbPNthBdwE_52.368999_4.878119@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8e270efa66518f4127ea2a63db811864",
+    "wof:geomhash":"4d4dc2f6c53478af1bb50d3f19027ee0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803235,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":269804095
         }
     ],
     "wof:id":269804095,
-    "wof:lastmodified":1473879494,
+    "wof:lastmodified":1492496762,
     "wof:name":"Wickel Haringstal Yvonnne",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803235,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

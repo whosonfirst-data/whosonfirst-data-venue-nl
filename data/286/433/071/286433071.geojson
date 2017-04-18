@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.93831,52.337101,4.93831,52.337101",
     "geom:latitude":52.337101,
     "geom:longitude":4.93831,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.ibfd.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803887,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_15YRoAXTWjuVsapdEjfsGH_52.337101_4.938310@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9cf2c47579785a17aeeb2fe6e8b5535d",
+    "wof:geomhash":"5c4316b762cfb99939a4b23b640139ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803887,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":286433071
         }
     ],
     "wof:id":286433071,
-    "wof:lastmodified":1473878991,
+    "wof:lastmodified":1492475253,
     "wof:name":"Ibfd",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

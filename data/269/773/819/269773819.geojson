@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.918135,52.347408,4.918135,52.347408",
     "geom:latitude":52.347408,
     "geom:longitude":4.918135,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803961,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_4QlKC6AyxBqmVNwV3qfucc_52.347408_4.918135@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"65bee572413792df754614ffe6a08811",
+    "wof:geomhash":"602664b14eb72baf2e1d8b92828317d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803961,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":269773819
         }
     ],
     "wof:id":269773819,
-    "wof:lastmodified":1473879406,
+    "wof:lastmodified":1492494713,
     "wof:name":"Pizza Hut",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

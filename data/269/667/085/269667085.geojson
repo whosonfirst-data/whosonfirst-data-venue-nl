@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.859169,52.328171,4.859169,52.328171",
     "geom:latitude":52.328171,
     "geom:longitude":4.859169,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803485,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_20ZgaQqpsnid5Y03OnDXTM_52.328171_4.859169@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"33b4b726df2b8b420326540a9b59188f",
+    "wof:geomhash":"261069ddb2911eb3f27a5adcd434fcdf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803485,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":269667085
         }
     ],
     "wof:id":269667085,
-    "wof:lastmodified":1473879262,
+    "wof:lastmodified":1492496787,
     "wof:name":"Romein, Drs C M H",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

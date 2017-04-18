@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4013190269,51.8245048523,4.4013190269,51.8245048523",
     "geom:latitude":51.824505,
     "geom:longitude":4.401319,
@@ -25,9 +26,11 @@
     "sg:website":"http://www.web-connectivity.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474231,
         85633337,
-        85798725,
-        85687041
+        101754705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,19 +38,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473800840,
-    "wof:geomhash":"d71515b8f8d1dec0f26ed6cb26439028",
+    "wof:geomhash":"385869cdb9652ec16c8a8419f1229dca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798725,
+            "localadmin_id":404474231,
+            "locality_id":101754705,
             "region_id":85687041,
             "venue_id":1091575769
         }
     ],
     "wof:id":1091575769,
-    "wof:lastmodified":1473878895,
+    "wof:lastmodified":1492511351,
     "wof:name":"Web Connectivity",
-    "wof:parent_id":85798725,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.946738,52.39975,4.946738,52.39975",
     "geom:latitude":52.39975,
     "geom:longitude":4.946738,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804307,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_03ECFyYHI4oY2JsEs6izEL_52.399750_4.946738@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"342b2d9b39262d6923a1fc7d66eca023",
+    "wof:geomhash":"2cd1f565fde00c44ecc0d5f06b131fcc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804307,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":303694685
         }
     ],
     "wof:id":303694685,
-    "wof:lastmodified":1473879445,
+    "wof:lastmodified":1492470599,
     "wof:name":"J. Ketting",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108804307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.482806,51.945229,4.482806,51.945229",
     "geom:latitude":51.945229,
     "geom:longitude":4.482806,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859841,
+        1108805793,
+        102191581,
+        1108805981,
         85633337,
-        101753095,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7PdUkrDlQypRV1xXUokErs_51.945229_4.482806@1306269993"
     },
     "wof:country":"NL",
-    "wof:geomhash":"658cb0d5304e7815c64e3d3eef295c50",
+    "wof:geomhash":"ffb604a8a8769c88f8268c831bc15f7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859841,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805793,
             "region_id":85687041,
             "venue_id":320011501
         }
     ],
     "wof:id":320011501,
-    "wof:lastmodified":1473878512,
+    "wof:lastmodified":1492483647,
     "wof:name":"De Hypotheekshop",
-    "wof:parent_id":85859841,
+    "wof:parent_id":1108805793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

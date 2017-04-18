@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.441952,51.950489,4.441952,51.950489",
     "geom:latitude":51.950489,
     "geom:longitude":4.441952,
@@ -25,8 +26,12 @@
     "sg:website":"http://www.analise.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798367,
+        1108833229,
+        1108805883,
+        102191581,
         85633337,
+        101751843,
+        1108805713,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +39,23 @@
         "sg:id":"SG_5bMXE1e34AxvBstwrzM6vP_51.950489_4.441952@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"402e4bca2889e480631c81dff945429b",
+    "wof:geomhash":"618c209a792c337e4fe89d40abea0c46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805713,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798367,
+            "locality_id":101751843,
+            "microhood_id":1108833229,
+            "neighbourhood_id":1108805883,
             "region_id":85687041,
             "venue_id":252805567
         }
     ],
     "wof:id":252805567,
-    "wof:lastmodified":1473878547,
+    "wof:lastmodified":1492504954,
     "wof:name":"Anna Lise Svp",
-    "wof:parent_id":85798367,
+    "wof:parent_id":1108833229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

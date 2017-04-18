@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.029088974,51.4516372681,4.029088974,51.4516372681",
     "geom:latitude":51.451637,
     "geom:longitude":4.029089,
@@ -24,17 +25,32 @@
     "sg:province":"Zeeland",
     "sg:website":"http://www.herecon.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474323,
+        85633337,
+        101808383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_403JLW49IZEvcvBOJEZzlr_51.451637_4.029089@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800369,
-    "wof:geomhash":"3f235c001c7df52c2e67dcedeb3bb6f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84bca0ea67d641ab73c243a84f597eb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474323,
+            "locality_id":101808383,
+            "region_id":85687037,
+            "venue_id":1091568599
+        }
+    ],
     "wof:id":1091568599,
-    "wof:lastmodified":1473878532,
+    "wof:lastmodified":1492510965,
     "wof:name":"Herecon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

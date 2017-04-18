@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.963057,52.390484,4.963057,52.390484",
     "geom:latitude":52.390484,
     "geom:longitude":4.963057,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108804083,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4osmPaNj58S6AHo6QJX3m7_52.390484_4.963057@1306269981"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3708fe9f9b20ff7f461bc22afb5dee10",
+    "wof:geomhash":"44fee8745d36301449be358bebff7cf6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804083,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":303258769
         }
     ],
     "wof:id":303258769,
-    "wof:lastmodified":1473878990,
+    "wof:lastmodified":1492471952,
     "wof:name":"Verschoor, Ami",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108804083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

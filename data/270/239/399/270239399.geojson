@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876726,52.372486,4.876726,52.372486",
     "geom:latitude":52.372486,
     "geom:longitude":4.876726,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803831,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6swlJti8SHuj2RGIzvuwgZ_52.372486_4.876726@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"214fd599f346b68c64320c4060c6794f",
+    "wof:geomhash":"fb47473ff3700498c68e09767e075215",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803831,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":270239399
         }
     ],
     "wof:id":270239399,
-    "wof:lastmodified":1473878913,
+    "wof:lastmodified":1492499354,
     "wof:name":"Herman Ouwersloot",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

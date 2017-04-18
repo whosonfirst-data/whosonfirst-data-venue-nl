@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.898377,52.345165,4.898377,52.345165",
     "geom:latitude":52.345165,
     "geom:longitude":4.898377,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803935,
+        1108802897,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6aF8qrbGOyokfQNt06FjwF_52.345165_4.898377@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"da6c55acbe272bb5d2ece6c4802866b1",
+    "wof:geomhash":"42d66b32e0195803f28316a8e7823c65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803935,
+            "neighbourhood_id":1108802897,
             "region_id":85687053,
             "venue_id":269982831
         }
     ],
     "wof:id":269982831,
-    "wof:lastmodified":1473879594,
+    "wof:lastmodified":1492496745,
     "wof:name":"Remmelts",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

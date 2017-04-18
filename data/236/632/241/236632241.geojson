@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.399618,52.078396,4.399618,52.078396",
     "geom:latitude":52.078396,
     "geom:longitude":4.399618,
@@ -25,30 +26,33 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859675,
+        102191581,
+        404474685,
         85633337,
-        101754709,
+        101754679,
         85687041,
-        85859699,
-        101754679
+        85859699
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FjFjUCFruYuJIbBXp32rc_52.078396_4.399618@1306269939"
     },
     "wof:country":"NL",
-    "wof:geomhash":"27cd56d7c0f0cdd6fa39f8fa75fbaf85",
+    "wof:geomhash":"f13d59c6dcf3581cc54a823fa83a6efc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754709,
+            "localadmin_id":404474685,
+            "locality_id":101754679,
             "neighbourhood_id":85859675,
             "region_id":85687041,
             "venue_id":236632241
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474685,
             "locality_id":101754679,
             "neighbourhood_id":85859699,
             "region_id":85687041,
@@ -56,9 +60,9 @@
         }
     ],
     "wof:id":236632241,
-    "wof:lastmodified":1473879472,
+    "wof:lastmodified":1492493313,
     "wof:name":"Rd Autoservice",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

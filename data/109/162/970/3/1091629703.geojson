@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4111127853,51.8254432678,4.4111127853,51.8254432678",
     "geom:latitude":51.825443,
     "geom:longitude":4.411113,
@@ -24,9 +25,11 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474231,
         85633337,
-        85798725,
-        85687041
+        101754705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473804536,
-    "wof:geomhash":"e19fd7b5ff38601e5f9755f5574237fa",
+    "wof:geomhash":"c618b1dc0965466605824b0791855c01",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798725,
+            "localadmin_id":404474231,
+            "locality_id":101754705,
             "region_id":85687041,
             "venue_id":1091629703
         }
     ],
     "wof:id":1091629703,
-    "wof:lastmodified":1473879129,
+    "wof:lastmodified":1492511991,
     "wof:name":"Hans Bout & Annemieke Vat Haarmode",
-    "wof:parent_id":85798725,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

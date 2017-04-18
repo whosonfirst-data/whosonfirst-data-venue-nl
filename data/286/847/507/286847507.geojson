@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.939799,52.35104,4.939799,52.35104",
     "geom:latitude":52.35104,
     "geom:longitude":4.939799,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804217,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4Hx1LnyJYn3JvCo2wCXSWc_52.351040_4.939799@1306269974"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4234613b72a6b7f23c7edb1162246562",
+    "wof:geomhash":"e4c5e3c98f578104753e224a0ee46d0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804217,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":286847507
         }
     ],
     "wof:id":286847507,
-    "wof:lastmodified":1473879654,
+    "wof:lastmodified":1492477314,
     "wof:name":"W A Kipperman",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

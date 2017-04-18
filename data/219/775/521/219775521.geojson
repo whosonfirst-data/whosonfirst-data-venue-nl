@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.91306,52.35487,4.91306,52.35487",
     "geom:latitude":52.35487,
     "geom:longitude":4.91306,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.donnaconsultencie.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803779,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_32FxanKH1YleNMsJ6vu7rr_52.354870_4.913060@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"12178daebed8d7f28c0e16a2ec578a20",
+    "wof:geomhash":"958694d7c1c71f7eb40423bbdfeed3f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803779,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":219775521
         }
     ],
     "wof:id":219775521,
-    "wof:lastmodified":1473879715,
+    "wof:lastmodified":1492502485,
     "wof:name":"Donna",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

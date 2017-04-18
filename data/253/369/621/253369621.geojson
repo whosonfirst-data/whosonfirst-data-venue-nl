@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.946277,52.339649,4.946277,52.339649",
     "geom:latitude":52.339649,
     "geom:longitude":4.946277,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.modeschooldinykelly.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803871,
+        1108802539,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_58jhGx8sja7EbDOyE4Mijw_52.339649_4.946277@1306269949"
     },
     "wof:country":"NL",
-    "wof:geomhash":"23489cf1b7eb3d38a2ec72318dce4e60",
+    "wof:geomhash":"5792e8c04c1de0616a2971a805378cf7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803871,
+            "neighbourhood_id":1108802539,
             "region_id":85687053,
             "venue_id":253369621
         }
     ],
     "wof:id":253369621,
-    "wof:lastmodified":1473879423,
+    "wof:lastmodified":1492490942,
     "wof:name":"Diny Kelly Stichting Modeschool",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

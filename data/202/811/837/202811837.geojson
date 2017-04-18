@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9161,52.343914,4.9161,52.343914",
     "geom:latitude":52.343914,
     "geom:longitude":4.9161,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804087,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_49itWuee6evlxqHJAEoKSd_52.343914_4.916100@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"440dae38ffb6a78fa45b4af161c33090",
+    "wof:geomhash":"cf9fc65e7ddec6f4ff0bf072bbfe2f0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804087,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":202811837
         }
     ],
     "wof:id":202811837,
-    "wof:lastmodified":1473879279,
+    "wof:lastmodified":1492497895,
     "wof:name":"Wessel Proux I M T",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

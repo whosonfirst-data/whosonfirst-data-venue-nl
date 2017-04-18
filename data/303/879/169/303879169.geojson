@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.955611,52.392464,4.955611,52.392464",
     "geom:latitude":52.392464,
     "geom:longitude":4.955611,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108803543,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4lLLbqAy0TP6CaRbPdIxAr_52.392464_4.955611@1306269988"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c952ded86dc307c33c77a702803ce7a8",
+    "wof:geomhash":"154ee8b585646b34d56aa996959c749e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803543,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":303879169
         }
     ],
     "wof:id":303879169,
-    "wof:lastmodified":1473879632,
+    "wof:lastmodified":1492471001,
     "wof:name":"Gul",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803543,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

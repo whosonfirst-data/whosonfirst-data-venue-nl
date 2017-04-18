@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880532,52.371567,4.880532,52.371567",
     "geom:latitude":52.371567,
     "geom:longitude":4.880532,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4T1kzr2xfd7xM6TioPzG4C_52.371567_4.880532@1306269987"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8ae368934f33603750d2f4febe225d13",
+    "wof:geomhash":"8e33672cf5651ef527452619663801ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":303759049
         }
     ],
     "wof:id":303759049,
-    "wof:lastmodified":1473879511,
+    "wof:lastmodified":1492471600,
     "wof:name":"Steendrukkerij Amsterdam Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

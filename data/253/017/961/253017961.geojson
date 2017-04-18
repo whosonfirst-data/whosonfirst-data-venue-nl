@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.951944,52.297321,4.951944,52.297321",
     "geom:latitude":52.297321,
     "geom:longitude":4.951944,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803937,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_03olLx7pUmLL5rSX5YUd96_52.297321_4.951944@1306269945"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ef8cdcb68749895b1863e27f316869b3",
+    "wof:geomhash":"04d08754ffc8c3b44ae4d44a988086ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803937,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":253017961
         }
     ],
     "wof:id":253017961,
-    "wof:lastmodified":1473878586,
+    "wof:lastmodified":1492488903,
     "wof:name":"Astrimex Bv",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

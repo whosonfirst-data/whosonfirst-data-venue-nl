@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.717683,52.294941,4.717683,52.294941",
     "geom:latitude":52.294941,
     "geom:longitude":4.717683,
@@ -32,30 +33,32 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        101751899,
-        85687053
+        102542801,
+        85687053,
+        102191581,
+        404474065,
+        85633337
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jyzjbyGKxRfgH8ZhvQu8H_52.294941_4.717683@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a5ef11da30ebaad01fa080ce1f98f6e1",
+    "wof:geomhash":"e8ff388b30f8cffa48f980c2458d0904",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102542801,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751899,
-            "neighbourhood_id":-1,
+            "localadmin_id":404474065,
             "region_id":85687053,
             "venue_id":320059375
         }
     ],
     "wof:id":320059375,
-    "wof:lastmodified":1473878629,
+    "wof:lastmodified":1492482046,
     "wof:name":"Buchner Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":102542801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.891695,52.36562,4.891695,52.36562",
     "geom:latitude":52.36562,
     "geom:longitude":4.891695,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.eurizon.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803629,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_0s17fdnuVVaDljp3Ivcwe2_52.365620_4.891695@1306269932"
     },
     "wof:country":"NL",
-    "wof:geomhash":"da508761a179d6a393912c44e794a1dc",
+    "wof:geomhash":"631f7c6614419e9ba995e22ec9bfd036",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803629,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":220116671
         }
     ],
     "wof:id":220116671,
-    "wof:lastmodified":1473878866,
+    "wof:lastmodified":1492481549,
     "wof:name":"Eurizon Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

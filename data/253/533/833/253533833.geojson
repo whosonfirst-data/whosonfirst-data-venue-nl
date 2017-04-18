@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.349291,51.869247,4.349291,51.869247",
     "geom:latitude":51.869247,
     "geom:longitude":4.349291,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798679,
+        1108806015,
+        1108805795,
+        102191581,
         85633337,
-        101760475,
+        101751843,
+        1108805727,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_41khe8ao24ByCsnpkys4wD_51.869247_4.349291@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a9e53a8c419a63c309c3eb66fa023657",
+    "wof:geomhash":"fdb19b169b56ab6e8521c20c3289c041",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805727,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101760475,
-            "neighbourhood_id":85798679,
+            "locality_id":101751843,
+            "microhood_id":1108806015,
+            "neighbourhood_id":1108805795,
             "region_id":85687041,
             "venue_id":253533833
         }
     ],
     "wof:id":253533833,
-    "wof:lastmodified":1473879678,
+    "wof:lastmodified":1492489441,
     "wof:name":"La Grande Bouffe",
-    "wof:parent_id":85798679,
+    "wof:parent_id":1108806015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

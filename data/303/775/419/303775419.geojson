@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.864008,52.350815,4.864008,52.350815",
     "geom:latitude":52.350815,
     "geom:longitude":4.864008,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803373,
+        1108802963,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0IjfxSUBvJce02bXRsDvBZ_52.350815_4.864008@1306269987"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6f9d0e5c71883fa86784e3d3ad6189b5",
+    "wof:geomhash":"870a5c3753529b4d2d61700340b59e38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803373,
+            "neighbourhood_id":1108802963,
             "region_id":85687053,
             "venue_id":303775419
         }
     ],
     "wof:id":303775419,
-    "wof:lastmodified":1473879522,
+    "wof:lastmodified":1492471769,
     "wof:name":"Papyro",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803373,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

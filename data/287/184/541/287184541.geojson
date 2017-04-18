@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.893585,52.78447,6.893585,52.78447",
     "geom:latitude":52.78447,
     "geom:longitude":6.893585,
@@ -24,41 +25,45 @@
     "sg:province":"Provincie Drenthe",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798097,
-        85633337,
-        101751881,
-        85687051,
         85797507,
-        101837865
+        102191581,
+        404473809,
+        85633337,
+        101837865,
+        85687051,
+        85798097,
+        101751881
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hTi6KvHlLTrEhXOvKmJhi_52.784470_6.893585@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f6a267a6907ed64f4b5bc9992d1f36de",
+    "wof:geomhash":"f215bf48772da1280c70c9d001f43fd9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751881,
-            "neighbourhood_id":85798097,
+            "localadmin_id":404473809,
+            "locality_id":101837865,
+            "neighbourhood_id":85797507,
             "region_id":85687051,
             "venue_id":287184541
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101837865,
-            "neighbourhood_id":85797507,
+            "localadmin_id":404473809,
+            "locality_id":101751881,
+            "neighbourhood_id":85798097,
             "region_id":85687051,
             "venue_id":287184541
         }
     ],
     "wof:id":287184541,
-    "wof:lastmodified":1473878967,
+    "wof:lastmodified":1492513917,
     "wof:name":"Boekenvoordeel Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

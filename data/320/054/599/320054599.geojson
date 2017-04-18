@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912249,52.39407,4.912249,52.39407",
     "geom:latitude":52.39407,
     "geom:longitude":4.912249,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803335,
+        1108802545,
+        102191581,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_2apQfMeHBiq8Lw1rkpCUxK_52.394070_4.912249@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bd44a1a95606aa91d108943201a71953",
+    "wof:geomhash":"898ce09900570d98505c2e4d85fbc985",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803335,
+            "neighbourhood_id":1108802545,
             "region_id":85687053,
             "venue_id":320054599
         }
     ],
     "wof:id":320054599,
-    "wof:lastmodified":1473878624,
+    "wof:lastmodified":1492483097,
     "wof:name":"Auto Control",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

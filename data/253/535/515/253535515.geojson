@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.318773,52.075432,4.318773,52.075432",
     "geom:latitude":52.075432,
     "geom:longitude":4.318773,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808257,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0DLUPSWvpdKuO3hNs02T7U_52.075432_4.318773@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5d4bd3f2095c530f117bf65b97a1f868",
+    "wof:geomhash":"5aa2fa1ff1cb0536fc3d9b430a6567cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808257,
             "region_id":85687041,
             "venue_id":253535515
         }
     ],
     "wof:id":253535515,
-    "wof:lastmodified":1473879679,
+    "wof:lastmodified":1492491182,
     "wof:name":"Ontbijtservice Bv",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

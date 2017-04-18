@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.829020977,52.6814651489,4.829020977,52.6814651489",
     "geom:latitude":52.681465,
     "geom:longitude":4.829021,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.stamenco.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474075,
+        85633337,
+        101754815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fat6aIXikWAmKHwLepNNE_52.681465_4.829021@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802883,
-    "wof:geomhash":"3a068b93b75f31995648fd5fce938373",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db93e2df4e0196cc58cdcc0e72902d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474075,
+            "locality_id":101754815,
+            "region_id":85687053,
+            "venue_id":1091604551
+        }
+    ],
     "wof:id":1091604551,
-    "wof:lastmodified":1473878669,
+    "wof:lastmodified":1492512641,
     "wof:name":"Stam & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

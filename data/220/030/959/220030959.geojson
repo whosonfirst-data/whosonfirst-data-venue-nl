@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.935288,52.352615,4.935288,52.352615",
     "geom:latitude":52.352615,
     "geom:longitude":4.935288,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803929,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2hMMeuGLo9Pr2aYgVVUvL2_52.352615_4.935288@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a3216343f2e3f94b84b7c8841f614464",
+    "wof:geomhash":"4d7108b3ed42e87fb799ae2b357e6426",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803929,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":220030959
         }
     ],
     "wof:id":220030959,
-    "wof:lastmodified":1473878551,
+    "wof:lastmodified":1492481566,
     "wof:name":"Ceder Consult",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.740472,52.631218,4.740472,52.631218",
     "geom:latitude":52.631218,
     "geom:longitude":4.740472,
@@ -24,10 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797325,
         85633337,
+        85797325,
         85687053,
         85798217,
+        102191581,
+        404474025,
         101751887
     ],
     "wof:breaches":[],
@@ -35,19 +38,18 @@
         "sg:id":"SG_3nO25sZeRBbDs57N3y4hbg_52.631218_4.740472@1306269975"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6fef87656b146f74568d20deb4d84f67",
+    "wof:geomhash":"d747f49a734837f7f9f11dcfb292b1ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85797325,
             "region_id":85687053,
             "venue_id":286970403
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474025,
             "locality_id":101751887,
             "neighbourhood_id":85798217,
             "region_id":85687053,
@@ -55,9 +57,9 @@
         }
     ],
     "wof:id":286970403,
-    "wof:lastmodified":1473879707,
+    "wof:lastmodified":1492475180,
     "wof:name":"J.B.J. Berger",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.890815,52.378506,4.890815,52.378506",
     "geom:latitude":52.378506,
     "geom:longitude":4.890815,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803299,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_19GW19C4FU6tRwPqEwzC2I_52.378506_4.890815@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8a5e4921b4e160f0f339d4daf280a6c4",
+    "wof:geomhash":"bd4e0f1b06ec867c072094cb4934c980",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803299,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":303683377
         }
     ],
     "wof:id":303683377,
-    "wof:lastmodified":1473879454,
+    "wof:lastmodified":1492470815,
     "wof:name":"Caulfield & Tensing",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.827753,52.350636,4.827753,52.350636",
     "geom:latitude":52.350636,
     "geom:longitude":4.827753,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803813,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3MGjgU8r89gChCqzV3IFt8_52.350636_4.827753@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3898230d35ff4614e0949972f89e7933",
+    "wof:geomhash":"91e016305c86efae962f806ac5d1d5eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803813,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":219616693
         }
     ],
     "wof:id":219616693,
-    "wof:lastmodified":1473879510,
+    "wof:lastmodified":1492501531,
     "wof:name":"Eric",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

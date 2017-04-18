@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3995227814,52.1463279724,4.3995227814,52.1463279724",
     "geom:latitude":52.146328,
     "geom:longitude":4.399523,
@@ -24,13 +25,13 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633337,
+        85798163,
+        85687041,
         85859711,
         102191581,
         404474281,
-        85633337,
-        101754719,
-        85687041,
-        85798163
+        101754719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,8 +39,14 @@
     },
     "wof:country":"NL",
     "wof:created":1473799908,
-    "wof:geomhash":"3b823e4aa6f22320896cd82b3d00697c",
+    "wof:geomhash":"3860cf7907c613d1e0e57ef5d00c524c",
     "wof:hierarchy":[
+        {
+            "country_id":85633337,
+            "neighbourhood_id":85798163,
+            "region_id":85687041,
+            "venue_id":1075832267
+        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -48,18 +55,12 @@
             "neighbourhood_id":85859711,
             "region_id":85687041,
             "venue_id":1075832267
-        },
-        {
-            "country_id":85633337,
-            "neighbourhood_id":85798163,
-            "region_id":85687041,
-            "venue_id":1075832267
         }
     ],
     "wof:id":1075832267,
-    "wof:lastmodified":1473879316,
+    "wof:lastmodified":1492485890,
     "wof:name":"Gemeente Wassenaar",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

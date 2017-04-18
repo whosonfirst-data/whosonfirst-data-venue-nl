@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.78737,52.352272,4.78737,52.352272",
     "geom:latitude":52.352272,
     "geom:longitude":4.78737,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803511,
+        1108802857,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6jyNEoI9aJ2SUSukxAOPEO_52.352272_4.787370@1306269935"
     },
     "wof:country":"NL",
-    "wof:geomhash":"065a237f6b799e87189691219bc9c3a1",
+    "wof:geomhash":"c69357f5c18685799eb9d71fe535043c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803511,
+            "neighbourhood_id":1108802857,
             "region_id":85687053,
             "venue_id":236168635
         }
     ],
     "wof:id":236168635,
-    "wof:lastmodified":1473878880,
+    "wof:lastmodified":1492494108,
     "wof:name":"Bron-Lock",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

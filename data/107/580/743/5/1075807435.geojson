@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.413022995,51.9449539185,4.413022995,51.9449539185",
     "geom:latitude":51.944954,
     "geom:longitude":4.413023,
@@ -25,9 +26,14 @@
     "sg:website":"http://www.exel.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108805757,
+        102191581,
         85633337,
-        85798367,
-        85687041
+        101751843,
+        1108805739,
+        85687041,
+        404474253,
+        101751845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,19 +41,32 @@
     },
     "wof:country":"NL",
     "wof:created":1473798515,
-    "wof:geomhash":"bfc3db8b6a92ecc028b967fe7a8cb409",
+    "wof:geomhash":"e12e871fd291f12e0b47571fb98a41b3",
     "wof:hierarchy":[
         {
+            "borough_id":1108805739,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798367,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805757,
+            "region_id":85687041,
+            "venue_id":1075807435
+        },
+        {
+            "borough_id":1108805739,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474253,
+            "locality_id":101751845,
+            "neighbourhood_id":1108805757,
             "region_id":85687041,
             "venue_id":1075807435
         }
     ],
     "wof:id":1075807435,
-    "wof:lastmodified":1473878559,
+    "wof:lastmodified":1492486017,
     "wof:name":"Exel Freight Neth Bv",
-    "wof:parent_id":85798367,
+    "wof:parent_id":1108805757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

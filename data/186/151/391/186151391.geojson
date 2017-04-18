@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.883495,52.377853,4.883495,52.377853",
     "geom:latitude":52.377853,
     "geom:longitude":4.883495,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804119,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_20t5ngvigZBocFVQ1imxSu_52.377853_4.883495@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"06208c883be3af940aba597b0236ad07",
+    "wof:geomhash":"f1cee78c8c1163bd284dca75517995a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804119,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":186151391
         }
     ],
     "wof:id":186151391,
-    "wof:lastmodified":1473879064,
+    "wof:lastmodified":1492507759,
     "wof:name":"Verdonk, J",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

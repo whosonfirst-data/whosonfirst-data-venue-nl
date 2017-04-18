@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884548,52.32362,4.884548,52.32362",
     "geom:latitude":52.32362,
     "geom:longitude":4.884548,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804145,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_099xbXpySjl3F7scup4p4a_52.323620_4.884548@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"68abd69f5267a24ba6967cc7c58ac42f",
+    "wof:geomhash":"8b04953b5e4eedbf0c5f8e829ea9d762",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804145,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":202510599
         }
     ],
     "wof:id":202510599,
-    "wof:lastmodified":1473878811,
+    "wof:lastmodified":1492498677,
     "wof:name":"Computer Trading Europe Bv",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

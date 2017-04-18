@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.896716,52.378853,4.896716,52.378853",
     "geom:latitude":52.378853,
     "geom:longitude":4.896716,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.pmn.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804135,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_40GCfZDj9nQGswQR6Jlb7B_52.378853_4.896716@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e82b290ca799f6a4174c689e0c2b467a",
+    "wof:geomhash":"0a48b8cd3ed50353226d3c6c0c936f9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804135,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":253503121
         }
     ],
     "wof:id":253503121,
-    "wof:lastmodified":1473879663,
+    "wof:lastmodified":1492488934,
     "wof:name":"Anwb Parking Amsterdam Centraal",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.939108,52.398781,4.939108,52.398781",
     "geom:latitude":52.398781,
     "geom:longitude":4.939108,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803947,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3G5qPnqjrv4HzRLiLBAqde_52.398781_4.939108@1306269975"
     },
     "wof:country":"NL",
-    "wof:geomhash":"40d21c73c67a453bf715a0222213e847",
+    "wof:geomhash":"aa526f1b47651bc34356b535144b5cac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803947,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":287024435
         }
     ],
     "wof:id":287024435,
-    "wof:lastmodified":1473878593,
+    "wof:lastmodified":1492514399,
     "wof:name":"Aa, De",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.770215,52.413612,4.770215,52.413612",
     "geom:latitude":52.413612,
     "geom:longitude":4.770215,
@@ -34,8 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798675,
+        1108803829,
+        1108802955,
+        102191581,
         85633337,
+        101751893,
+        1108802287,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,23 @@
         "sg:id":"SG_3TF8ccQpSGZhfPndtmUATJ_52.413612_4.770215@1306270008"
     },
     "wof:country":"NL",
-    "wof:geomhash":"388c0e4b118b16450bb1ddeccf021eb8",
+    "wof:geomhash":"5b6ffa3101e9a0de8e65e37bb0d172da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802287,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798675,
+            "locality_id":101751893,
+            "microhood_id":1108803829,
+            "neighbourhood_id":1108802955,
             "region_id":85687053,
             "venue_id":336958783
         }
     ],
     "wof:id":336958783,
-    "wof:lastmodified":1473878464,
+    "wof:lastmodified":1492506875,
     "wof:name":"Unieveem Bv",
-    "wof:parent_id":85798675,
+    "wof:parent_id":1108803829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.080672,52.117561,5.080672,52.117561",
     "geom:latitude":52.117561,
     "geom:longitude":5.080672,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808843,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4PXNjHx94JFOstR3IzsdEv_52.117561_5.080672@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e6b24e651bb12b10b7469a671637d0f3",
+    "wof:geomhash":"3abe3d9ee09cb27e57e88e5d253c4498",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808843,
             "region_id":85687039,
             "venue_id":220062803
         }
     ],
     "wof:id":220062803,
-    "wof:lastmodified":1473878683,
+    "wof:lastmodified":1492481658,
     "wof:name":"Dolphin Int",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808843,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

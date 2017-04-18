@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.910155,52.394825,4.910155,52.394825",
     "geom:latitude":52.394825,
     "geom:longitude":4.910155,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.compark.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803335,
+        1108802545,
+        102191581,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_4Kf76VQ6HOjxc0borRSL2A_52.394825_4.910155@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6edc159d4e207e0bc294b9cf1e228d9a",
+    "wof:geomhash":"c198eefe41debf8ecd0a5083e35f1ff4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803335,
+            "neighbourhood_id":1108802545,
             "region_id":85687053,
             "venue_id":269861221
         }
     ],
     "wof:id":269861221,
-    "wof:lastmodified":1473879537,
+    "wof:lastmodified":1492495986,
     "wof:name":"Cyclepark Bv",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

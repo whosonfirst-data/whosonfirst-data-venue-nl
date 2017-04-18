@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8252282143,52.8958129883,4.8252282143,52.8958129883",
     "geom:latitude":52.895813,
     "geom:longitude":4.825228,
@@ -23,17 +24,30 @@
     "sg:postcode":"1764 NE",
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        404474037,
+        85633337,
+        85687053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4V5rFNUXRn7lBo4ZOnGuZG_52.895813_4.825228@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803483,
-    "wof:geomhash":"fb8ce30f0100237eab590019c9ea679b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f3d581b80c7ab9aee6d35d2ea7e3319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474037,
+            "region_id":85687053,
+            "venue_id":1091611573
+        }
+    ],
     "wof:id":1091611573,
-    "wof:lastmodified":1473878561,
+    "wof:lastmodified":1492510622,
     "wof:name":"Bob",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

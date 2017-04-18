@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.96239,52.371109,4.96239,52.371109",
     "geom:latitude":52.371109,
     "geom:longitude":4.96239,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797433,
+        1108803585,
+        1108802965,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_1dRcypHTwcnotEAnyk01PE_52.371109_4.962390@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d142bdf8e065493dfdd4fea0b86e53c2",
+    "wof:geomhash":"c7bad5fcc758b4c900be44efb7792dea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797433,
+            "microhood_id":1108803585,
+            "neighbourhood_id":1108802965,
             "region_id":85687053,
             "venue_id":252764243
         }
     ],
     "wof:id":252764243,
-    "wof:lastmodified":1473878467,
+    "wof:lastmodified":1492504769,
     "wof:name":"Jolly Jumper",
-    "wof:parent_id":85797433,
+    "wof:parent_id":1108803585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

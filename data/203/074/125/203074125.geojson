@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.314847,52.084545,4.314847,52.084545",
     "geom:latitude":52.084545,
     "geom:longitude":4.314847,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797685,
+        1108808251,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4XLucWD9swjdHSV8IgRxT5_52.084545_4.314847@1306269921"
     },
     "wof:country":"NL",
-    "wof:geomhash":"72416b5c118922d20e81e463df910dba",
+    "wof:geomhash":"3e919b5f082972fe9e3a569b10c771c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797685,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808251,
             "region_id":85687041,
             "venue_id":203074125
         }
     ],
     "wof:id":203074125,
-    "wof:lastmodified":1473878737,
+    "wof:lastmodified":1492480877,
     "wof:name":"Assurantie Combinatie Vijverberg Bv",
-    "wof:parent_id":85797685,
+    "wof:parent_id":1108808251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

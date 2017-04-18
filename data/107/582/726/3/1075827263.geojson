@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1138401031,52.1057395935,5.1138401031,52.1057395935",
     "geom:latitude":52.10574,
     "geom:longitude":5.11384,
@@ -24,13 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        85798227,
-        85687039,
-        85797951,
+        1108808781,
         102191581,
-        404474007,
-        101751827
+        85633337,
+        101751827,
+        1108808663,
+        85687039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,28 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473799619,
-    "wof:geomhash":"56429e4ec9b8b581d0a88943c3db1e57",
+    "wof:geomhash":"f59dab9c3e66f328e8d91f497d55a05b",
     "wof:hierarchy":[
         {
-            "country_id":85633337,
-            "neighbourhood_id":85798227,
-            "region_id":85687039,
-            "venue_id":1075827263
-        },
-        {
+            "borough_id":1108808663,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474007,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "neighbourhood_id":1108808781,
             "region_id":85687039,
             "venue_id":1075827263
         }
     ],
     "wof:id":1075827263,
-    "wof:lastmodified":1473879487,
+    "wof:lastmodified":1492486844,
     "wof:name":"Belastingdienst Particulieren Utrecht",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108808781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

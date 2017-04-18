@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8871030807,51.1432876587,5.8871030807,51.1432876587",
     "geom:latitude":51.143288,
     "geom:longitude":5.887103,
@@ -24,17 +25,32 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.roblehaen.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474559,
+        85633337,
+        101839219
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09f89JKgtswIHzrY0aJ5WS_51.143288_5.887103@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802518,
-    "wof:geomhash":"aaf95efb66c5d67ae5f8f5f2e5f19a8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6b0d9a4e453f0e6d9e5225948fe9c23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474559,
+            "locality_id":101839219,
+            "region_id":85687033,
+            "venue_id":1091599895
+        }
+    ],
     "wof:id":1091599895,
-    "wof:lastmodified":1473879050,
+    "wof:lastmodified":1492509466,
     "wof:name":"Rob Le Haen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.567003,53.217827,6.567003,53.217827",
     "geom:latitude":53.217827,
     "geom:longitude":6.567003,
@@ -24,40 +25,41 @@
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797835,
-        85633337,
-        85687059,
         85797417,
-        101751909
+        102191581,
+        404473713,
+        85633337,
+        101751909,
+        85687059,
+        85797835
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RCyRlJZbbpIr2QKZSONL8_53.217827_6.567003@1306270003"
     },
     "wof:country":"NL",
-    "wof:geomhash":"97ba2faaab5e00cfc974b87a6bce8f96",
+    "wof:geomhash":"f768de8c778da85cbe84c9c5f3823da8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797835,
+            "localadmin_id":404473713,
+            "locality_id":101751909,
+            "neighbourhood_id":85797417,
             "region_id":85687059,
             "venue_id":336618069
         },
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751909,
-            "neighbourhood_id":85797417,
+            "neighbourhood_id":85797835,
             "region_id":85687059,
             "venue_id":336618069
         }
     ],
     "wof:id":336618069,
-    "wof:lastmodified":1473878409,
+    "wof:lastmodified":1492507275,
     "wof:name":"Juwelier Repko",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

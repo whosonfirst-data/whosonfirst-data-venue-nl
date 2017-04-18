@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885711,52.380035,4.885711,52.380035",
     "geom:latitude":52.380035,
     "geom:longitude":4.885711,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803955,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2OIu1zg7CSSXNVxkTIkZPm_52.380035_4.885711@1306269942"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d8a274d796e2c41c92bac7e5b1215c7c",
+    "wof:geomhash":"c9ffc9d729c402af3d809e3409ba4a5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803955,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":236960741
         }
     ],
     "wof:id":236960741,
-    "wof:lastmodified":1473879635,
+    "wof:lastmodified":1492492332,
     "wof:name":"Nek, Van",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

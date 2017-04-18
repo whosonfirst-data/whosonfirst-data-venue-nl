@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.786748,52.349674,4.786748,52.349674",
     "geom:latitude":52.349674,
     "geom:longitude":4.786748,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108804159,
+        1108802857,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6sA9HgIJuws3JQL8xpOzjW_52.349674_4.786748@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f94b258245256eeff245229bc0bb692a",
+    "wof:geomhash":"905f0d8dcb1b1bb1055e8992cf6fb7a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108804159,
+            "neighbourhood_id":1108802857,
             "region_id":85687053,
             "venue_id":287143777
         }
     ],
     "wof:id":287143777,
-    "wof:lastmodified":1473878922,
+    "wof:lastmodified":1492513768,
     "wof:name":"Boekelier, De",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108804159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.310985,52.060413,4.310985,52.060413",
     "geom:latitude":52.060413,
     "geom:longitude":4.310985,
@@ -24,31 +25,49 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859615,
+        1108808309,
+        102191581,
+        1108808103,
         85633337,
         101752763,
-        85687041
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jy0yaVyKG7preRAE4PVMm_52.060413_4.310985@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"90911bfddc157e00c5b935e46aa40f2a",
+    "wof:geomhash":"d736ad07267535e374ec235a86453c85",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808309,
+            "region_id":85687041,
+            "venue_id":253259891
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
+            "locality_id":101754743,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808309,
             "region_id":85687041,
             "venue_id":253259891
         }
     ],
     "wof:id":253259891,
-    "wof:lastmodified":1473879307,
+    "wof:lastmodified":1492489063,
     "wof:name":"Beter Bed",
-    "wof:parent_id":85859615,
+    "wof:parent_id":1108808309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

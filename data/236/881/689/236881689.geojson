@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.088079,52.107731,5.088079,52.107731",
     "geom:latitude":52.107731,
     "geom:longitude":5.088079,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808759,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_4OESxxwBMNjlXkN3un7XHx_52.107731_5.088079@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"63a6fe46a0404d843325cf32ed8e49ec",
+    "wof:geomhash":"2113e289132fb855e99e3d766df53e73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808759,
             "region_id":85687039,
             "venue_id":236881689
         }
     ],
     "wof:id":236881689,
-    "wof:lastmodified":1473879582,
+    "wof:lastmodified":1492493105,
     "wof:name":"Royal Dutch",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

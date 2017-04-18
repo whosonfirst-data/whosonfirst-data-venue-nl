@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.924503,52.340649,4.924503,52.340649",
     "geom:latitude":52.340649,
     "geom:longitude":4.924503,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803887,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_6OcMzpXHP01573Hf0aFHi6_52.340649_4.924503@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"425d8ef24109e3740c8562d7edfd5148",
+    "wof:geomhash":"bd657e726e29811f0a952cc138f7e6ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803887,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":320066223
         }
     ],
     "wof:id":320066223,
-    "wof:lastmodified":1473878647,
+    "wof:lastmodified":1492484989,
     "wof:name":"Erdem",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.078769,52.113636,5.078769,52.113636",
     "geom:latitude":52.113636,
     "geom:longitude":5.078769,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808841,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2QdgaXO1UCxpSqeQrvwLTV_52.113636_5.078769@1306269945"
     },
     "wof:country":"NL",
-    "wof:geomhash":"324b1a4685f4606d950b798dc3a8de08",
+    "wof:geomhash":"f63b93bb030b992d4f8287d41ee01f9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808841,
             "region_id":85687039,
             "venue_id":253031073
         }
     ],
     "wof:id":253031073,
-    "wof:lastmodified":1473878616,
+    "wof:lastmodified":1492489838,
     "wof:name":"Hks Schermen",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

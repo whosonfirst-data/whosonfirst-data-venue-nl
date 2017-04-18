@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.38401,52.033211,4.38401,52.033211",
     "geom:latitude":52.033211,
     "geom:longitude":4.38401,
@@ -25,8 +26,12 @@
     "sg:website":"http://www.kruger-assurantien.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798113,
+        1108808355,
+        102191581,
+        1108808063,
         85633337,
+        101752763,
+        1108808047,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +39,23 @@
         "sg:id":"SG_4Lm0GvVmT2IEwlk2mcsD5M_52.033211_4.384010@1306269920"
     },
     "wof:country":"NL",
-    "wof:geomhash":"53d43c5694fe0f05e7d5c97d91dac0ee",
+    "wof:geomhash":"6debb933b04598c26acd509e19340fb9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808047,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798113,
+            "locality_id":101752763,
+            "macrohood_id":1108808063,
+            "neighbourhood_id":1108808355,
             "region_id":85687041,
             "venue_id":202973947
         }
     ],
     "wof:id":202973947,
-    "wof:lastmodified":1473879454,
+    "wof:lastmodified":1492498323,
     "wof:name":"Kruger",
-    "wof:parent_id":85798113,
+    "wof:parent_id":1108808355,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

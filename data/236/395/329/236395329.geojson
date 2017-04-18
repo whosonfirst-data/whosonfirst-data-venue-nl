@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880015,52.380222,4.880015,52.380222",
     "geom:latitude":52.380222,
     "geom:longitude":4.880015,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803815,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_01RVO2Qdl5vylin92Ylljq_52.380222_4.880015@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"88356abaec4088ed62f507bcd1f71e4b",
+    "wof:geomhash":"5619b651ad2521d760c84b07b974cc68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803815,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":236395329
         }
     ],
     "wof:id":236395329,
-    "wof:lastmodified":1473879264,
+    "wof:lastmodified":1492494051,
     "wof:name":"Hoorenman, Eddy",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803815,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

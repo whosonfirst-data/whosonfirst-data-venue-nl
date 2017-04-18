@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.928809,52.352753,4.928809,52.352753",
     "geom:latitude":52.352753,
     "geom:longitude":4.928809,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804165,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3G4cLnEQ7FzPL6DPMo3Q0v_52.352753_4.928809@1306269939"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d83fcba5e7163aafaeb5a9a8c90fae65",
+    "wof:geomhash":"b6f1dc20eb0548c92e07b95ee54a4e94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804165,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":236573561
         }
     ],
     "wof:id":236573561,
-    "wof:lastmodified":1473879427,
+    "wof:lastmodified":1492493969,
     "wof:name":"Garage Lux",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

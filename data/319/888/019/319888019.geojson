@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.325931,52.072567,4.325931,52.072567",
     "geom:latitude":52.072567,
     "geom:longitude":4.325931,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808245,
+        102191581,
+        1108808123,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4lS160S2jZ5m5Yx3Qn3CP3_52.072567_4.325931@1306269992"
     },
     "wof:country":"NL",
-    "wof:geomhash":"92a34c828c5767b8244d6463393dbff7",
+    "wof:geomhash":"78e87d85cfa787aa2919d61d450a449d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808123,
+            "neighbourhood_id":1108808245,
             "region_id":85687041,
             "venue_id":319888019
         }
     ],
     "wof:id":319888019,
-    "wof:lastmodified":1473878758,
+    "wof:lastmodified":1492478993,
     "wof:name":"R.G. Bostelaar",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

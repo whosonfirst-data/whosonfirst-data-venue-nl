@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893147,52.352207,4.893147,52.352207",
     "geom:latitude":52.352207,
     "geom:longitude":4.893147,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804099,
+        1108802865,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5Br0U2mTrOcz0uSVHA8vid_52.352207_4.893147@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a02823c239cc6ef55d2c645a7e7de92e",
+    "wof:geomhash":"12685defc966a4aa8fee22fc6736c6a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804099,
+            "neighbourhood_id":1108802865,
             "region_id":85687053,
             "venue_id":286680315
         }
     ],
     "wof:id":286680315,
-    "wof:lastmodified":1473879399,
+    "wof:lastmodified":1492477189,
     "wof:name":"Faro",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

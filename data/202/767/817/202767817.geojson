@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.923522,52.352348,4.923522,52.352348",
     "geom:latitude":52.352348,
     "geom:longitude":4.923522,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804165,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6b1OJqoHAiXfn2o1GrFBGB_52.352348_4.923522@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7f7bcc5a870f5f36f4d23eaf70a1df02",
+    "wof:geomhash":"f179514b173cf264f7a17b5a2d248305",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804165,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":202767817
         }
     ],
     "wof:id":202767817,
-    "wof:lastmodified":1473879198,
+    "wof:lastmodified":1492497747,
     "wof:name":"Drs A E M Van Oijen Ma",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.216545,52.044426,4.216545,52.044426",
     "geom:latitude":52.044426,
     "geom:longitude":4.216545,
@@ -24,8 +25,13 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859557,
+        1108833209,
+        85797849,
+        102191581,
+        1108808101,
         85633337,
+        101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +39,24 @@
         "sg:id":"SG_4vsIk9lYqGNxZstCnpfBV4_52.044426_4.216545@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e570514e782cf4c3f1c6b1b522c9ab6f",
+    "wof:geomhash":"d3948c3566a96d96bb917c2b66730a96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859557,
+            "locality_id":101752763,
+            "macrohood_id":1108808101,
+            "microhood_id":1108833209,
+            "neighbourhood_id":85797849,
             "region_id":85687041,
             "venue_id":220058173
         }
     ],
     "wof:id":220058173,
-    "wof:lastmodified":1473878650,
+    "wof:lastmodified":1492481613,
     "wof:name":"Bergh-Werk",
-    "wof:parent_id":85859557,
+    "wof:parent_id":1108833209,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

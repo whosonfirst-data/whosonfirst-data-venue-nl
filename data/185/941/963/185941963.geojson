@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.286119,52.074162,4.286119,52.074162",
     "geom:latitude":52.074162,
     "geom:longitude":4.286119,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797151,
+        1108808215,
+        102191581,
+        1108808117,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2wCh7MxxTmHktoNxxGaHTT_52.074162_4.286119@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f578ea59c89ff49e4eaf242855f43a56",
+    "wof:geomhash":"3d5f5d3bc8c867eeb45a1e442c847c87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797151,
+            "macrohood_id":1108808117,
+            "neighbourhood_id":1108808215,
             "region_id":85687041,
             "venue_id":185941963
         }
     ],
     "wof:id":185941963,
-    "wof:lastmodified":1473878962,
+    "wof:lastmodified":1492487912,
     "wof:name":"Zonnehof",
-    "wof:parent_id":85797151,
+    "wof:parent_id":1108808215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

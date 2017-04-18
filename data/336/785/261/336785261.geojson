@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.904731,52.342335,4.904731,52.342335",
     "geom:latitude":52.342335,
     "geom:longitude":4.904731,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803419,
+        1108802895,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4pf3KXOD9o5aLWsVBsAsiv_52.342335_4.904731@1306270006"
     },
     "wof:country":"NL",
-    "wof:geomhash":"09f3b117766d0c23ba94fb1686270454",
+    "wof:geomhash":"c172e9c08ae46af7ed3fb78a9af39e36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803419,
+            "neighbourhood_id":1108802895,
             "region_id":85687053,
             "venue_id":336785261
         }
     ],
     "wof:id":336785261,
-    "wof:lastmodified":1473878439,
+    "wof:lastmodified":1492507003,
     "wof:name":"Route Nationale 9",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803419,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881201,52.374264,4.881201,52.374264",
     "geom:latitude":52.374264,
     "geom:longitude":4.881201,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803831,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0pj0Bj2rwRy8wtC9Zvyc6U_52.374264_4.881201@1306269926"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8b00cde612dddc0ca63632f247cea608",
+    "wof:geomhash":"9ae895ed104cb36f7517604de107f0b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803831,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":219391811
         }
     ],
     "wof:id":219391811,
-    "wof:lastmodified":1473879082,
+    "wof:lastmodified":1492503543,
     "wof:name":"F.J.M. Hemelaar",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

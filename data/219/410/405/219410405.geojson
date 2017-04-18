@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.121604,52.070972,5.121604,52.070972",
     "geom:latitude":52.070972,
     "geom:longitude":5.121604,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797727,
+        1108808823,
+        102191581,
+        1108808645,
         85633337,
         101751827,
+        1108808677,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_52qH24E5hfmLrk3HJcA0W8_52.070972_5.121604@1306269926"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b1ab138b562ff96b3f7f3b7d3d6e112d",
+    "wof:geomhash":"d05a217225fb97b8ec570b553c3c6514",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808677,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797727,
+            "macrohood_id":1108808645,
+            "neighbourhood_id":1108808823,
             "region_id":85687039,
             "venue_id":219410405
         }
     ],
     "wof:id":219410405,
-    "wof:lastmodified":1473879129,
+    "wof:lastmodified":1492502166,
     "wof:name":"J.M. Kreugel",
-    "wof:parent_id":85797727,
+    "wof:parent_id":1108808823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

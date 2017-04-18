@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0970029831,52.087802887,5.0970029831,52.087802887",
     "geom:latitude":52.087803,
     "geom:longitude":5.097003,
@@ -25,8 +26,11 @@
     "sg:website":"http://www.enof.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808787,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -35,19 +39,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473800643,
-    "wof:geomhash":"ff0280862e16437e2a0d15be00268173",
+    "wof:geomhash":"9f844e1dab3175e27366cb07adcbdb03",
     "wof:hierarchy":[
         {
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808787,
             "region_id":85687039,
             "venue_id":1091572643
         }
     ],
     "wof:id":1091572643,
-    "wof:lastmodified":1473878629,
+    "wof:lastmodified":1492511364,
     "wof:name":"En/Of Ontwerp",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

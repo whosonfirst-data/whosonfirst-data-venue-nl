@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.832695,52.359127,4.832695,52.359127",
     "geom:latitude":52.359127,
     "geom:longitude":4.832695,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804121,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0w1SwzUS8mnPx3wGnhLals_52.359127_4.832695@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8eaf08a6a448e5a9432e7490dca7138b",
+    "wof:geomhash":"8818cce78726c06ffe2f37a5870390cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804121,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":202852189
         }
     ],
     "wof:id":202852189,
-    "wof:lastmodified":1473879364,
+    "wof:lastmodified":1492498999,
     "wof:name":"Transatext",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

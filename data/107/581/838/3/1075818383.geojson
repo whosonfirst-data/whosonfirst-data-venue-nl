@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0946068764,51.8910675049,5.0946068764,51.8910675049",
     "geom:latitude":51.891068,
     "geom:longitude":5.094607,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.tonlips-pticiens.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474197,
+        85633337,
+        101808521
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1G6CQS70l16SE0X4uAbYeJ_51.891068_5.094607@1306270008"
     },
     "wof:country":"NL",
     "wof:created":1473799041,
-    "wof:geomhash":"c957b2f71e7abc760bacf5d52aff2fdb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e837c951c2fa207a2633cb08c484fb71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474197,
+            "locality_id":101808521,
+            "region_id":85687041,
+            "venue_id":1075818383
+        }
+    ],
     "wof:id":1075818383,
-    "wof:lastmodified":1473879102,
+    "wof:lastmodified":1492486528,
     "wof:name":"Lips Bv, Ton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

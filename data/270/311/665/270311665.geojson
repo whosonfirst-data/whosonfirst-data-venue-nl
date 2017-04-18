@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.377623,52.160206,5.377623,52.160206",
     "geom:latitude":52.160206,
     "geom:longitude":5.377623,
@@ -25,41 +26,45 @@
     "sg:website":"http://www.beterbaby.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797913,
-        85633337,
-        101751821,
-        85687039,
         85798419,
-        101855289
+        102191581,
+        404473971,
+        85633337,
+        101855289,
+        85687039,
+        85797913,
+        101751821
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42blF4DCl44kf9xl34hZtv_52.160206_5.377623@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5235db58645087c6d58e6103de05c7fc",
+    "wof:geomhash":"7fff72bdf0c7338bf5b8042dbbeabb6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751821,
-            "neighbourhood_id":85797913,
+            "localadmin_id":404473971,
+            "locality_id":101855289,
+            "neighbourhood_id":85798419,
             "region_id":85687039,
             "venue_id":270311665
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101855289,
-            "neighbourhood_id":85798419,
+            "localadmin_id":404473971,
+            "locality_id":101751821,
+            "neighbourhood_id":85797913,
             "region_id":85687039,
             "venue_id":270311665
         }
     ],
     "wof:id":270311665,
-    "wof:lastmodified":1473879109,
+    "wof:lastmodified":1492499383,
     "wof:name":"Beter Baby",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

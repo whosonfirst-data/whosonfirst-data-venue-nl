@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.345782,51.863712,4.345782,51.863712",
     "geom:latitude":51.863712,
     "geom:longitude":4.345782,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798679,
+        1108806015,
+        1108805795,
+        102191581,
         85633337,
-        101760475,
+        101751843,
+        1108805727,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0e1aDgPy0ut6kPyKGrN0NH_51.863712_4.345782@1306269923"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2d512a57b8376f6cd5b4d46ae4bc402f",
+    "wof:geomhash":"0c028df7b37defecc555194a38c4ef1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805727,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101760475,
-            "neighbourhood_id":85798679,
+            "locality_id":101751843,
+            "microhood_id":1108806015,
+            "neighbourhood_id":1108805795,
             "region_id":85687041,
             "venue_id":219159403
         }
     ],
     "wof:id":219159403,
-    "wof:lastmodified":1473878504,
+    "wof:lastmodified":1492501851,
     "wof:name":"Groenenberg, G",
-    "wof:parent_id":85798679,
+    "wof:parent_id":1108806015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

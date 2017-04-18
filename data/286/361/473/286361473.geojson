@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.857051,52.354015,4.857051,52.354015",
     "geom:latitude":52.354015,
     "geom:longitude":4.857051,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803453,
+        1108802963,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5cvntgIE3h1mc8S736FAQa_52.354015_4.857051@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bc893e0c32d2f91057546f565496c572",
+    "wof:geomhash":"bc0fd84c41a60d79f80652b25e4bce72",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803453,
+            "neighbourhood_id":1108802963,
             "region_id":85687053,
             "venue_id":286361473
         }
     ],
     "wof:id":286361473,
-    "wof:lastmodified":1473878897,
+    "wof:lastmodified":1492476968,
     "wof:name":"Seligmann Consultancy",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

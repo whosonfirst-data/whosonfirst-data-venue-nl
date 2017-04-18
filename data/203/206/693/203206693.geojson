@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.789978,53.197575,5.789978,53.197575",
     "geom:latitude":53.197575,
     "geom:longitude":5.789978,
@@ -24,40 +25,41 @@
     "sg:province":"Friesland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797735,
         85633337,
-        101751907,
+        85798637,
         85687055,
-        85798637
+        85797735,
+        102191581,
+        404473775,
+        101751907
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rYR8qPB9HhfBiRBReIQ7H_53.197575_5.789978@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bdd04688b8de6907dfffa60588c69ebf",
+    "wof:geomhash":"ffbb92ff92cff21148bee6c500f7dfd1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751907,
-            "neighbourhood_id":85797735,
+            "neighbourhood_id":85798637,
             "region_id":85687055,
             "venue_id":203206693
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798637,
+            "localadmin_id":404473775,
+            "locality_id":101751907,
+            "neighbourhood_id":85797735,
             "region_id":85687055,
             "venue_id":203206693
         }
     ],
     "wof:id":203206693,
-    "wof:lastmodified":1473879118,
+    "wof:lastmodified":1492480087,
     "wof:name":"Aegon Nv",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

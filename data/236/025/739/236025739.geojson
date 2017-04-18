@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.312508,52.085384,4.312508,52.085384",
     "geom:latitude":52.085384,
     "geom:longitude":4.312508,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797685,
+        1108808251,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0xqxzaYX5w0vhMqzHZqy6y_52.085384_4.312508@1306269934"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2b4251bdd94767d24c742453acf93cd9",
+    "wof:geomhash":"a5b82f2908ede067ab3be514b92f00ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797685,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808251,
             "region_id":85687041,
             "venue_id":236025739
         }
     ],
     "wof:id":236025739,
-    "wof:lastmodified":1473878602,
+    "wof:lastmodified":1492493190,
     "wof:name":"Bar Pompernickel",
-    "wof:parent_id":85797685,
+    "wof:parent_id":1108808251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

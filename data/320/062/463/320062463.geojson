@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.856428,52.361534,4.856428,52.361534",
     "geom:latitude":52.361534,
     "geom:longitude":4.856428,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803531,
+        1108802957,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_6tGlKby8IeTm58z0gr8t9N_52.361534_4.856428@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"367147d600f5bddf34ad789b68c704d7",
+    "wof:geomhash":"afd94a64f15d6b989389f17ebd2dbaa5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803531,
+            "neighbourhood_id":1108802957,
             "region_id":85687053,
             "venue_id":320062463
         }
     ],
     "wof:id":320062463,
-    "wof:lastmodified":1473878642,
+    "wof:lastmodified":1492484844,
     "wof:name":"Crijnssen",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

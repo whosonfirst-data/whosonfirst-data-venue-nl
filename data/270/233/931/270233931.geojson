@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.37246,52.158138,5.37246,52.158138",
     "geom:latitude":52.158138,
     "geom:longitude":5.37246,
@@ -25,40 +26,41 @@
     "sg:website":"http://www.leeman.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797097,
-        85633337,
-        85687039,
         85797913,
-        101751821
+        102191581,
+        404473971,
+        85633337,
+        101751821,
+        85687039,
+        85797097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BHlU85fgAAss0oaXspDPA_52.158138_5.372460@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"91401e50c8be972e09ea3171cbc1cda1",
+    "wof:geomhash":"2c3df4e2f796de2fad548536fbeaf1b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797097,
+            "localadmin_id":404473971,
+            "locality_id":101751821,
+            "neighbourhood_id":85797913,
             "region_id":85687039,
             "venue_id":270233931
         },
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751821,
-            "neighbourhood_id":85797913,
+            "neighbourhood_id":85797097,
             "region_id":85687039,
             "venue_id":270233931
         }
     ],
     "wof:id":270233931,
-    "wof:lastmodified":1473878914,
+    "wof:lastmodified":1492499525,
     "wof:name":"Fotostudio Leeman",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

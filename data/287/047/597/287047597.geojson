@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.827095,52.354313,4.827095,52.354313",
     "geom:latitude":52.354313,
     "geom:longitude":4.827095,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803265,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7D73EWyqqBuQcIHMglt7A3_52.354313_4.827095@1306269976"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6f3edf2f96ac54d256a9c0d98c2d9117",
+    "wof:geomhash":"58f555d095ed225c470d24fcd38eec26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803265,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":287047597
         }
     ],
     "wof:id":287047597,
-    "wof:lastmodified":1473878678,
+    "wof:lastmodified":1492513737,
     "wof:name":"Edelweiss",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

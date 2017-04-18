@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0849480629,52.0956611633,5.0849480629,52.0956611633",
     "geom:latitude":52.095661,
     "geom:longitude":5.084948,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808805,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473804131,
-    "wof:geomhash":"458b617aba4bfcf5effa5a102246fe22",
+    "wof:geomhash":"d98873968c7ed87e2948b38cc81e3a2b",
     "wof:hierarchy":[
         {
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808805,
             "region_id":85687039,
             "venue_id":1091623573
         }
     ],
     "wof:id":1091623573,
-    "wof:lastmodified":1473878671,
+    "wof:lastmodified":1492512454,
     "wof:name":"Dameskapsalon Van Rossum",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

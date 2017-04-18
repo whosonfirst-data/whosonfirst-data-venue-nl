@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4162669182,51.8248405457,4.4162669182,51.8248405457",
     "geom:latitude":51.824841,
     "geom:longitude":4.416267,
@@ -24,9 +25,11 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474231,
         85633337,
-        85798725,
-        85687041
+        101754705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473802502,
-    "wof:geomhash":"e80ec1b61d082f7dcbee659e1b561242",
+    "wof:geomhash":"6eb9242145b5db7ca87bc183e6dd84d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798725,
+            "localadmin_id":404474231,
+            "locality_id":101754705,
             "region_id":85687041,
             "venue_id":1091599673
         }
     ],
     "wof:id":1091599673,
-    "wof:lastmodified":1473879043,
+    "wof:lastmodified":1492509621,
     "wof:name":"P & M Trend",
-    "wof:parent_id":85798725,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

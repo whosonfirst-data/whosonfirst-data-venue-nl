@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.964722,52.300453,4.964722,52.300453",
     "geom:latitude":52.300453,
     "geom:longitude":4.964722,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803365,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5Mgi6F2lWb82C1irsTMM2O_52.300453_4.964722@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"06879e4b3c3af9bb76abc7f141200b98",
+    "wof:geomhash":"f8e7da51e05fe19e1571c4482d8c7795",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803365,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":303647631
         }
     ],
     "wof:id":303647631,
-    "wof:lastmodified":1473879416,
+    "wof:lastmodified":1492472237,
     "wof:name":"A.Magnee",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803365,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

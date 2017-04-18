@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.779515,52.360348,4.779515,52.360348",
     "geom:latitude":52.360348,
     "geom:longitude":4.779515,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803901,
+        1108802855,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_7Ff7G3PAXXqyZTP4suxVuL_52.360348_4.779515@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"61adb05e39d931097662c623eb6a5678",
+    "wof:geomhash":"4e7a5ef9f62bd3143f76a89f6fb30bc6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803901,
+            "neighbourhood_id":1108802855,
             "region_id":85687053,
             "venue_id":320077555
         }
     ],
     "wof:id":320077555,
-    "wof:lastmodified":1473878748,
+    "wof:lastmodified":1492484172,
     "wof:name":"Hoogenboom Auto Quick Service",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

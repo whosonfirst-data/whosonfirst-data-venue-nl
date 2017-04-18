@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.049243927,51.944568634,4.049243927,51.944568634",
     "geom:latitude":51.944569,
     "geom:longitude":4.049244,
@@ -32,19 +33,36 @@
         "bewaring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108805817,
+        102191581,
+        85633337,
+        101751843,
+        1108805737,
+        85687041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EtABtrM1pyT8a0x6jWc2p_51.944569_4.049244@1306270008"
     },
     "wof:country":"NL",
     "wof:created":1473798850,
-    "wof:geomhash":"15cb03293303ea9016e21e7a7a8778a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7900d6a57546196f736b0a415e0757b",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108805737,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805817,
+            "region_id":85687041,
+            "venue_id":1075813895
+        }
+    ],
     "wof:id":1075813895,
-    "wof:lastmodified":1473878947,
+    "wof:lastmodified":1492486467,
     "wof:name":"Emo Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108805817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

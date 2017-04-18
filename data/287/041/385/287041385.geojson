@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881046,52.381172,4.881046,52.381172",
     "geom:latitude":52.381172,
     "geom:longitude":4.881046,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803815,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6ECxAZtoZ1Q83ApVcZs8VS_52.381172_4.881046@1306269976"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7b5fb132e452be6219f703c58528e7eb",
+    "wof:geomhash":"36b7719ce062df9f25617c1ae63d1ef4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803815,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":287041385
         }
     ],
     "wof:id":287041385,
-    "wof:lastmodified":1473878652,
+    "wof:lastmodified":1492514383,
     "wof:name":"Brandse, Piet",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803815,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

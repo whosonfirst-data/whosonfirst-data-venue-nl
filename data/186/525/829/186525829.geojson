@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.930065,52.362522,4.930065,52.362522",
     "geom:latitude":52.362522,
     "geom:longitude":4.930065,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803667,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_32zmUEweBusnIwLSvdPJH6_52.362522_4.930065@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"51ef02d0ad4d5321a6b1b50770631d7d",
+    "wof:geomhash":"836e81516cfc2f0366b780479e418922",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803667,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":186525829
         }
     ],
     "wof:id":186525829,
-    "wof:lastmodified":1473879561,
+    "wof:lastmodified":1492507864,
     "wof:name":"Ufuk, Sticht",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

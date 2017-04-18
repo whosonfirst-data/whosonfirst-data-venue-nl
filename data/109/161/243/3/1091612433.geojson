@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2358441353,52.3687744141,5.2358441353,52.3687744141",
     "geom:latitude":52.368774,
     "geom:longitude":5.235844,
@@ -23,17 +24,32 @@
     "sg:postcode":"1325 LC",
     "sg:province":"NL.",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101751877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XjBo8XJ2XR4Re1D02JtYh_52.368774_5.235844@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803542,
-    "wof:geomhash":"25ae7065006912c34d248354e6c020bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7070ab5cd31c7fd81258f7986928d382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101751877,
+            "region_id":85687049,
+            "venue_id":1091612433
+        }
+    ],
     "wof:id":1091612433,
-    "wof:lastmodified":1473878603,
+    "wof:lastmodified":1492510505,
     "wof:name":"Queries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.887384,52.363518,4.887384,52.363518",
     "geom:latitude":52.363518,
     "geom:longitude":4.887384,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803665,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2KMKgUseo2GqKgBVRnNh8m_52.363518_4.887384@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"36695a84466dc574db97855d6e1ffa05",
+    "wof:geomhash":"edbec3088702b8b12ffd52f559075853",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803665,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":303688723
         }
     ],
     "wof:id":303688723,
-    "wof:lastmodified":1473879454,
+    "wof:lastmodified":1492474243,
     "wof:name":"E. Giesberger",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

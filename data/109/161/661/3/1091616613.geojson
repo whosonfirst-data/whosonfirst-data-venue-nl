@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.3003616333,38.4864807129,-80.3003616333,38.4864807129",
     "geom:latitude":38.486481,
     "geom:longitude":-80.300362,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.hamexpapier.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731975,
+        102083387
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1u9GCnd3OGGvGqRWSAUHNC_38.486481_-80.300362@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803750,
-    "wof:geomhash":"b9c3926b1c96437e5ff5ff3341d4adfe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52a6aa2a8b64eb412963b9f30e4d7fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083387,
+            "locality_id":101731975,
+            "region_id":85688589,
+            "venue_id":1091616613
+        }
+    ],
     "wof:id":1091616613,
-    "wof:lastmodified":1473878845,
+    "wof:lastmodified":1492510376,
     "wof:name":"Hamex Papier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

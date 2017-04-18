@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.830515,52.390965,4.830515,52.390965",
     "geom:latitude":52.390965,
     "geom:longitude":4.830515,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108803607,
+        1108802535,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_659FUdTZBcIgoQ3F2bsgyi_52.390965_4.830515@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3fdefce8d8bd56ee59c673eb8fb394a8",
+    "wof:geomhash":"1efbfaae19e27c5354f300df845a622f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "microhood_id":1108803607,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":202434825
         }
     ],
     "wof:id":202434825,
-    "wof:lastmodified":1473878671,
+    "wof:lastmodified":1492498488,
     "wof:name":"Peak Audio",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108803607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

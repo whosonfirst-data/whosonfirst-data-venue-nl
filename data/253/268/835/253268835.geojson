@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876061,52.368149,4.876061,52.368149",
     "geom:latitude":52.368149,
     "geom:longitude":4.876061,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803379,
+        1108802933,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4LSQ7pMVD1fCWlV3QB41x0_52.368149_4.876061@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"709e38c998b63f1c19695f13117a5524",
+    "wof:geomhash":"3b6f50ff90ae2c94c700eea8984b2fd1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803379,
+            "neighbourhood_id":1108802933,
             "region_id":85687053,
             "venue_id":253268835
         }
     ],
     "wof:id":253268835,
-    "wof:lastmodified":1473879308,
+    "wof:lastmodified":1492489815,
     "wof:name":"De Waterbeddenconcurrent",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

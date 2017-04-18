@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.497209,51.943527,4.497209,51.943527",
     "geom:latitude":51.943527,
     "geom:longitude":4.497209,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859871,
+        1108805825,
+        102191581,
+        1108805657,
         85633337,
-        101753095,
+        101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3lJpOoB3BhtSLhKXPR1onb_51.943527_4.497209@1306269914"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5c72a395304d9091c105776b8bbc2c1f",
+    "wof:geomhash":"7975e5b960366b341cb51700a7c12baf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859871,
+            "locality_id":101751843,
+            "macrohood_id":1108805657,
+            "neighbourhood_id":1108805825,
             "region_id":85687041,
             "venue_id":202398657
         }
     ],
     "wof:id":202398657,
-    "wof:lastmodified":1473878555,
+    "wof:lastmodified":1492498669,
     "wof:name":"Henk Lubbers Verhuizingen",
-    "wof:parent_id":85859871,
+    "wof:parent_id":1108805825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

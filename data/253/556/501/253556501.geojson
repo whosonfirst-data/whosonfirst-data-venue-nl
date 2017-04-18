@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.139496,51.973305,4.139496,51.973305",
     "geom:latitude":51.973305,
     "geom:longitude":4.139496,
@@ -32,8 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85797461,
+        102191581,
         85633337,
-        101808077,
+        101751843,
+        1108805729,
         85687041
     ],
     "wof:breaches":[],
@@ -41,21 +45,22 @@
         "sg:id":"SG_7eZjfmE262MRLApzi4yPeE_51.973305_4.139496@1306269951"
     },
     "wof:country":"NL",
-    "wof:geomhash":"211dea738f05d7d88db077f3e8721346",
+    "wof:geomhash":"43be5b665a8e4fff05828c6a19c6e61f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805729,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101808077,
-            "neighbourhood_id":-1,
+            "locality_id":101751843,
+            "neighbourhood_id":85797461,
             "region_id":85687041,
             "venue_id":253556501
         }
     ],
     "wof:id":253556501,
-    "wof:lastmodified":1473879690,
+    "wof:lastmodified":1492491140,
     "wof:name":"Karsdorp, Cobie",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

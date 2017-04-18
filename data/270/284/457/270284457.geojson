@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.886187,52.327896,4.886187,52.327896",
     "geom:latitude":52.327896,
     "geom:longitude":4.886187,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804145,
+        1108802549,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3wAtHfnVL9ChIXm4pAdtmB_52.327896_4.886187@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6bbd0993494a6fa4908e2b5f9b5e3f1a",
+    "wof:geomhash":"21cd5ea5e5cb5ed36245f54c628ee31f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804145,
+            "neighbourhood_id":1108802549,
             "region_id":85687053,
             "venue_id":270284457
         }
     ],
     "wof:id":270284457,
-    "wof:lastmodified":1473879027,
+    "wof:lastmodified":1492499449,
     "wof:name":"Lador Konserven",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

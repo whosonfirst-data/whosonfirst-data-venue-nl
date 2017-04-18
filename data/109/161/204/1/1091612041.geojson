@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.458917141,52.0007362366,5.458917141,52.0007362366",
     "geom:latitude":52.000736,
     "geom:longitude":5.458917,
@@ -23,17 +24,32 @@
     "sg:postcode":"3958 CL",
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474547,
+        85633337,
+        101808445
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7G1XpGlrbyfuGb61lJMMO9_52.000736_5.458917@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803518,
-    "wof:geomhash":"69346a3d17ccd02b0284b1470777117c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80a1a57ffe25809eece730fabe589adb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474547,
+            "locality_id":101808445,
+            "region_id":85687039,
+            "venue_id":1091612041
+        }
+    ],
     "wof:id":1091612041,
-    "wof:lastmodified":1473878579,
+    "wof:lastmodified":1492510451,
     "wof:name":"Kruijt Support",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

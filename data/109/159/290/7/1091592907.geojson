@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3487129211,51.9991149902,6.3487129211,51.9991149902",
     "geom:latitude":51.999115,
     "geom:longitude":6.348713,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.polyvin.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474673,
+        85633337,
+        101809865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MIuW1BymHHZOejrjOCugM_51.999115_6.348713@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802098,
-    "wof:geomhash":"d1ac81a1e448e8664642acb35fc05be0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"157a0a987b5f774157697fc68a135542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474673,
+            "locality_id":101809865,
+            "region_id":85687043,
+            "venue_id":1091592907
+        }
+    ],
     "wof:id":1091592907,
-    "wof:lastmodified":1473878621,
+    "wof:lastmodified":1492509527,
     "wof:name":"Polyvin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2270379066,52.0630187988,4.2270379066,52.0630187988",
     "geom:latitude":52.063019,
     "geom:longitude":4.227038,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         85797143,
+        102191581,
+        1108808079,
+        85633337,
+        101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -34,17 +39,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473804914,
-    "wof:geomhash":"dbc46da2edefe8384a106f87066dee0d",
+    "wof:geomhash":"876cbd17e2041a8c51c60204ccd65b66",
     "wof:hierarchy":[
         {
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808079,
             "neighbourhood_id":85797143,
             "region_id":85687041,
             "venue_id":1091635617
         }
     ],
     "wof:id":1091635617,
-    "wof:lastmodified":1473878694,
+    "wof:lastmodified":1492510257,
     "wof:name":"Kapsalon Kijkduin",
     "wof:parent_id":85797143,
     "wof:placetype":"venue",

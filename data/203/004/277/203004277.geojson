@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.852417,52.356682,4.852417,52.356682",
     "geom:latitude":52.356682,
     "geom:longitude":4.852417,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803655,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2rtY1tzQIJpLqHEyYn1Twe_52.356682_4.852417@1306269920"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d39623cc338c402ee39b7bf65ee67fef",
+    "wof:geomhash":"8507dbea9d39c835556b75c6a86de9d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803655,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":203004277
         }
     ],
     "wof:id":203004277,
-    "wof:lastmodified":1473878500,
+    "wof:lastmodified":1492480883,
     "wof:name":"Postma, J",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

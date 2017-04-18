@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.2687568665,53.1444396973,6.2687568665,53.1444396973",
     "geom:latitude":53.14444,
     "geom:longitude":6.268757,
@@ -24,17 +25,32 @@
     "sg:province":"Groningen",
     "sg:website":"http://www.ottema.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473727,
+        85633337,
+        101806203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WCaUsBFwx5mJtWDoNnnpi_53.144440_6.268757@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802969,
-    "wof:geomhash":"dccf85b1698c74c2279816d1db1da190",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff57cd33ce461cc95f3ee1a365a8262e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473727,
+            "locality_id":101806203,
+            "region_id":85687059,
+            "venue_id":1091605097
+        }
+    ],
     "wof:id":1091605097,
-    "wof:lastmodified":1473878717,
+    "wof:lastmodified":1492513017,
     "wof:name":"Ottema Kamer & Verhuur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

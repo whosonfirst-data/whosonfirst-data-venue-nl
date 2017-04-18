@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.868718,52.32449,4.868718,52.32449",
     "geom:latitude":52.32449,
     "geom:longitude":4.868718,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803485,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2yMj0UnovVScfKtY0Fe2D8_52.324490_4.868718@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d26ffba48e9d936a991f0a0668396d89",
+    "wof:geomhash":"6da26863f9c4aae010a4f196941c9320",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803485,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":304033013
         }
     ],
     "wof:id":304033013,
-    "wof:lastmodified":1473878647,
+    "wof:lastmodified":1492504664,
     "wof:name":"Super De Boer Gebr Sitek",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

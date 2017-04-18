@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.09409,52.523006,6.09409,52.523006",
     "geom:latitude":52.523006,
     "geom:longitude":6.09409,
@@ -24,10 +25,12 @@
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797041,
         85633337,
+        85797041,
         85687045,
         85797715,
+        102191581,
+        404473861,
         101751861
     ],
     "wof:breaches":[],
@@ -35,19 +38,18 @@
         "sg:id":"SG_4SXN0OxJOXxlbN57HomWqh_52.523006_6.094090@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cba7964e5860a0bc069572f33c0ee5ee",
+    "wof:geomhash":"1f3d0a35234a52bb718c77ff69787816",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85797041,
             "region_id":85687045,
             "venue_id":185980777
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473861,
             "locality_id":101751861,
             "neighbourhood_id":85797715,
             "region_id":85687045,
@@ -55,9 +57,9 @@
         }
     ],
     "wof:id":185980777,
-    "wof:lastmodified":1473878995,
+    "wof:lastmodified":1492487946,
     "wof:name":"Poppejans Kinderdagverblijf",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

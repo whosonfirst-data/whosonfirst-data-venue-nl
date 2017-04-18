@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.492528,51.955074,4.492528,51.955074",
     "geom:latitude":51.955074,
     "geom:longitude":4.492528,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797707,
+        1108805791,
+        102191581,
+        1108805981,
         85633337,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1qmNg4MibNa9FHsbpfB64u_51.955074_4.492528@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7f92ee9e5b368b14f29f01a8e099a00b",
+    "wof:geomhash":"ab0465b807fcfc8b5b8743a56ff0f925",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797707,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805791,
             "region_id":85687041,
             "venue_id":269607495
         }
     ],
     "wof:id":269607495,
-    "wof:lastmodified":1473879037,
+    "wof:lastmodified":1492496858,
     "wof:name":"Rodanum",
-    "wof:parent_id":85797707,
+    "wof:parent_id":1108805791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.345372,52.066025,4.345372,52.066025",
     "geom:latitude":52.066025,
     "geom:longitude":4.345372,
@@ -25,28 +26,46 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859633,
+        102191581,
+        1108808077,
         85633337,
         101752763,
-        85687041
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DMrTjMD0M3TeuSBULxDEK_52.066025_4.345372@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4fc2bcb63fa89729b186009b81a5013f",
+    "wof:geomhash":"2e903302f82d4dd5d3ddc28e9aef26ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
+            "macrohood_id":1108808077,
+            "neighbourhood_id":85859633,
+            "region_id":85687041,
+            "venue_id":252850481
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
+            "locality_id":101754743,
+            "macrohood_id":1108808077,
             "neighbourhood_id":85859633,
             "region_id":85687041,
             "venue_id":252850481
         }
     ],
     "wof:id":252850481,
-    "wof:lastmodified":1473878643,
+    "wof:lastmodified":1492504866,
     "wof:name":"Harting Bank Den Haag Bv",
     "wof:parent_id":85859633,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.324986,52.092972,4.324986,52.092972",
     "geom:latitude":52.092972,
     "geom:longitude":4.324986,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797091,
+        1108808155,
+        102191581,
+        1108805961,
         85633337,
         101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_3yM9XHZUU6kexA9IrT5AWE_52.092972_4.324986@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f76fa40727b8f25bbce8c9810f165b40",
+    "wof:geomhash":"f1054d639ddcea13ce76b6180756feb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797091,
+            "macrohood_id":1108805961,
+            "neighbourhood_id":1108808155,
             "region_id":85687041,
             "venue_id":320573085
         }
     ],
     "wof:id":320573085,
-    "wof:lastmodified":1473879414,
+    "wof:lastmodified":1492484688,
     "wof:name":"Smits En Van Halm Groentenbedrijven",
-    "wof:parent_id":85797091,
+    "wof:parent_id":1108808155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

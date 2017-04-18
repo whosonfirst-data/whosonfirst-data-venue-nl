@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.869173,52.365932,4.869173,52.365932",
     "geom:latitude":52.365932,
     "geom:longitude":4.869173,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803675,
+        1108802933,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_23nmWiq00uBVRfrEc2Z8BN_52.365932_4.869173@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3689d01432f1387dcf81060c103af42f",
+    "wof:geomhash":"be8531842e4c2dfaabbeb296603c3ee4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803675,
+            "neighbourhood_id":1108802933,
             "region_id":85687053,
             "venue_id":320595353
         }
     ],
     "wof:id":320595353,
-    "wof:lastmodified":1473879431,
+    "wof:lastmodified":1492484241,
     "wof:name":"Vallentin Hoogendorp",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

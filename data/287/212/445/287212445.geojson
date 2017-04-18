@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.860079,52.334919,4.860079,52.334919",
     "geom:latitude":52.334919,
     "geom:longitude":4.860079,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803635,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4w3kd9ejnJVQfXpsp60QUV_52.334919_4.860079@1306269978"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f11ce895f9e6933ddca0d0261be2cd75",
+    "wof:geomhash":"9c0a9e11dcf6cee0f6f8324e3e1a9230",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803635,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":287212445
         }
     ],
     "wof:id":287212445,
-    "wof:lastmodified":1473879015,
+    "wof:lastmodified":1492513780,
     "wof:name":"The Read Shop",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

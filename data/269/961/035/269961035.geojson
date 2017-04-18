@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.880433,52.369091,4.880433,52.369091",
     "geom:latitude":52.369091,
     "geom:longitude":4.880433,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_09V8EsZHhdTU0K5e1QHQN0_52.369091_4.880433@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b1074b5bad7e7dabd114a0505d445e2f",
+    "wof:geomhash":"9cae978e80473d42a174b1f49f827fab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":269961035
         }
     ],
     "wof:id":269961035,
-    "wof:lastmodified":1473879573,
+    "wof:lastmodified":1492495359,
     "wof:name":"A Low Budget Studio",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.538748,51.954315,4.538748,51.954315",
     "geom:latitude":51.954315,
     "geom:longitude":4.538748,
@@ -32,31 +33,46 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ok3QldGb2HmStJE2rHxts_51.954315_4.538748@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e7a65c58f1bd948ad31fe6e6f396208d",
+    "wof:geomhash":"8c4d3b97499924d8c784e8b68d3a6ab3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":320565991
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "neighbourhood_id":85798149,
             "region_id":85687041,
             "venue_id":320565991
         }
     ],
     "wof:id":320565991,
-    "wof:lastmodified":1473879415,
+    "wof:lastmodified":1492482799,
     "wof:name":"L. Van Lis",
-    "wof:parent_id":85798329,
+    "wof:parent_id":85798149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

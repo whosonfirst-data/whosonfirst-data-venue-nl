@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.108237,52.128521,5.108237,52.128521",
     "geom:latitude":52.128521,
     "geom:longitude":5.108237,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798231,
+        1108808839,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_3Hl1fPcnoQvMXLdL2B5LS1_52.128521_5.108237@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"34ac984000d4c12f0c65b0de7fecba01",
+    "wof:geomhash":"647ed5d762c3059154ee7bb28373c170",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798231,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808839,
             "region_id":85687039,
             "venue_id":320752967
         }
     ],
     "wof:id":320752967,
-    "wof:lastmodified":1473879603,
+    "wof:lastmodified":1492484675,
     "wof:name":"Van Dommelen Kaas Utrecht Bv",
-    "wof:parent_id":85798231,
+    "wof:parent_id":1108808839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.89103,52.369762,4.89103,52.369762",
     "geom:latitude":52.369762,
     "geom:longitude":4.89103,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803399,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_0GlGISv5lKo0wwuy03xZUj_52.369762_4.891030@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5570a811a0eff16937eeeef0b624cfb5",
+    "wof:geomhash":"ff09ad3f1af85b6b1501bedc40806264",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803399,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":320228797
         }
     ],
     "wof:id":320228797,
-    "wof:lastmodified":1473879115,
+    "wof:lastmodified":1492484468,
     "wof:name":"Het Kantenhuis Bv",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803399,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

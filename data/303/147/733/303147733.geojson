@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.47505,51.934101,4.47505,51.934101",
     "geom:latitude":51.934101,
     "geom:longitude":4.47505,
@@ -34,9 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859837,
+        85859845,
+        102191581,
         85633337,
         101751843,
+        1108804843,
         85687041
     ],
     "wof:breaches":[],
@@ -44,21 +47,22 @@
         "sg:id":"SG_1bRp9MhvUBzP3C22DzDP2r_51.934101_4.475050@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"485346159f08c68e3b32c9b152307331",
+    "wof:geomhash":"3616b861287ceca98a4732d1d063d63d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108804843,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859837,
+            "neighbourhood_id":85859845,
             "region_id":85687041,
             "venue_id":303147733
         }
     ],
     "wof:id":303147733,
-    "wof:lastmodified":1473878791,
+    "wof:lastmodified":1492473484,
     "wof:name":"Sterre, Van Der",
-    "wof:parent_id":85859837,
+    "wof:parent_id":85859845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

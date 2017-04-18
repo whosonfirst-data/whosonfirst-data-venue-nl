@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.763129,52.413406,4.763129,52.413406",
     "geom:latitude":52.413406,
     "geom:longitude":4.763129,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798675,
+        1108803829,
+        1108802955,
+        102191581,
         85633337,
+        101751893,
+        1108802287,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_6N0WROufTZ8FJvAi3jHK5K_52.413406_4.763129@1306269924"
     },
     "wof:country":"NL",
-    "wof:geomhash":"153dc90e9860d3246dd164adae256739",
+    "wof:geomhash":"aa0e819f5ac98a68ca4997314140ac69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802287,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798675,
+            "locality_id":101751893,
+            "microhood_id":1108803829,
+            "neighbourhood_id":1108802955,
             "region_id":85687053,
             "venue_id":219223681
         }
     ],
     "wof:id":219223681,
-    "wof:lastmodified":1473878638,
+    "wof:lastmodified":1492503984,
     "wof:name":"Tradin Bv",
-    "wof:parent_id":85798675,
+    "wof:parent_id":1108803829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

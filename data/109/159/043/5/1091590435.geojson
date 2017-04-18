@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3578701019,51.8386688232,4.3578701019,51.8386688232",
     "geom:latitude":51.838669,
     "geom:longitude":4.35787,
@@ -25,9 +26,11 @@
     "sg:website":"http://www.aqcselect.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474261,
         85633337,
-        85798725,
-        85687041
+        101751847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,19 +38,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473801969,
-    "wof:geomhash":"e4ec89a6357aa3cf71dcb7e6f43dc8f8",
+    "wof:geomhash":"445d5aacb79cc8faced18dcb3be9882c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798725,
+            "localadmin_id":404474261,
+            "locality_id":101751847,
             "region_id":85687041,
             "venue_id":1091590435
         }
     ],
     "wof:id":1091590435,
-    "wof:lastmodified":1473878507,
+    "wof:lastmodified":1492509876,
     "wof:name":"Aqc",
-    "wof:parent_id":85798725,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

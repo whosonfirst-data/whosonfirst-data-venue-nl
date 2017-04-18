@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.559508,51.951355,4.559508,51.951355",
     "geom:latitude":51.951355,
     "geom:longitude":4.559508,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14OAmUgxCyU7MrbDoe9HVB_51.951355_4.559508@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6808a7b0818eddf498615febd06bda7f",
+    "wof:geomhash":"f08b365976bf14b4a383ae919b158bd3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":253291699
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798177,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":253291699,
-    "wof:lastmodified":1473879341,
+    "wof:lastmodified":1492489738,
     "wof:name":"Lederland Bv",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

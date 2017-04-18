@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.896106,52.376423,4.896106,52.376423",
     "geom:latitude":52.376423,
     "geom:longitude":4.896106,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.royfranklin.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803337,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_62b5TtCqBIT3tg81oauR9K_52.376423_4.896106@1306269989"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5b037bfb47ba768d99153b28da867722",
+    "wof:geomhash":"14617f4a2c9a0838ce4ec50ff59aaf7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803337,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":303897003
         }
     ],
     "wof:id":303897003,
-    "wof:lastmodified":1473879638,
+    "wof:lastmodified":1492471974,
     "wof:name":"Roy Franklin",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803337,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

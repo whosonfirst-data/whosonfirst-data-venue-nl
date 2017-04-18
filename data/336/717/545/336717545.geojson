@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.271526,52.039703,4.271526,52.039703",
     "geom:latitude":52.039703,
     "geom:longitude":4.271526,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859601,
+        1108808283,
+        102191581,
+        1108808029,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_4ZroR4W0uaBE95xb8nxfhb_52.039703_4.271526@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ced97030659d02ca7734782d3635fe8e",
+    "wof:geomhash":"2d8733072ee244760aa73ec016889fbf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859601,
+            "macrohood_id":1108808029,
+            "neighbourhood_id":1108808283,
             "region_id":85687041,
             "venue_id":336717545
         }
     ],
     "wof:id":336717545,
-    "wof:lastmodified":1473878417,
+    "wof:lastmodified":1492506005,
     "wof:name":"Dtv Group",
-    "wof:parent_id":85859601,
+    "wof:parent_id":1108808283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

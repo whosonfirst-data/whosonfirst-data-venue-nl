@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.309846,52.059032,4.309846,52.059032",
     "geom:latitude":52.059032,
     "geom:longitude":4.309846,
@@ -24,41 +25,36 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798433,
+        1108808303,
+        102191581,
+        1108808093,
         85633337,
-        101754743,
-        85687041,
-        85859615,
-        101752763
+        101752763,
+        1108808053,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JWS4tuMmFZ7WSdDfzznV2_52.059032_4.309846@1306269940"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0050fa763a62f79101de41bf2874ac77",
+    "wof:geomhash":"3112841628e8008707be5f1712ba85cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798433,
-            "region_id":85687041,
-            "venue_id":236663517
-        },
-        {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108808093,
+            "neighbourhood_id":1108808303,
             "region_id":85687041,
             "venue_id":236663517
         }
     ],
     "wof:id":236663517,
-    "wof:lastmodified":1473879481,
+    "wof:lastmodified":1492492948,
     "wof:name":"Waldorp Autowas Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108808303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

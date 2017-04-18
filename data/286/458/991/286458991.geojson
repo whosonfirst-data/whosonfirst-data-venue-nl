@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.947902,52.377514,4.947902,52.377514",
     "geom:latitude":52.377514,
     "geom:longitude":4.947902,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.wildschut.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803999,
+        1108802877,
+        102191581,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_1UuK28XBg4X1qgF8hgiwRR_52.377514_4.947902@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1aa6e3bb0200d9444bb56221553561ad",
+    "wof:geomhash":"a16d09d9e952bd16882ff4ccc3ace585",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803999,
+            "neighbourhood_id":1108802877,
             "region_id":85687053,
             "venue_id":286458991
         }
     ],
     "wof:id":286458991,
-    "wof:lastmodified":1473879094,
+    "wof:lastmodified":1492475155,
     "wof:name":"Wildschut",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

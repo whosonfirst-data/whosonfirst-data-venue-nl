@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.898323,52.375305,4.898323,52.375305",
     "geom:latitude":52.375305,
     "geom:longitude":4.898323,
@@ -29,9 +30,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804101,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_3lj2G7HQ3FaUuSBaJggbuN_52.375305_4.898323@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"42862e6856f2ac267e90913917174d58",
+    "wof:geomhash":"b70bfaec91245fe0f86a1df99937d5e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804101,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":270466963
         }
     ],
     "wof:id":270466963,
-    "wof:lastmodified":1473879287,
+    "wof:lastmodified":1492500520,
     "wof:name":"The Greenhouse Effect",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

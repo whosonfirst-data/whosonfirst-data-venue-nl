@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.35257,50.846722,4.35257,50.846722",
     "geom:latitude":50.846722,
     "geom:longitude":4.35257,
@@ -29,11 +30,13 @@
     "sg:province":"BE.",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681713,
+        85801789,
+        102191581,
         85632997,
+        404227355,
         101751573,
         102049957,
-        85801789
+        85681713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"b80d13feece05b3c7ba444a66c797c00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049957,
             "locality_id":101751573,
+            "macroregion_id":404227355,
             "neighbourhood_id":85801789,
             "region_id":85681713,
             "venue_id":270458439
         }
     ],
     "wof:id":270458439,
-    "wof:lastmodified":1473879247,
+    "wof:lastmodified":1491898282,
     "wof:name":"Bank Voor Zeeland N.V.",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.937836,52.303078,4.937836,52.303078",
     "geom:latitude":52.303078,
     "geom:longitude":4.937836,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.cfreport.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797113,
+        1108803575,
+        1108802525,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_0xudq0p6SUEoIl7Z9mgkw2_52.303078_4.937836@1306270004"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e81b26cf2799bf44889661daec95ad8c",
+    "wof:geomhash":"37e3837706fe2e01ca3ec6b0c36be986",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797113,
+            "locality_id":101751893,
+            "microhood_id":1108803575,
+            "neighbourhood_id":1108802525,
             "region_id":85687053,
             "venue_id":336652617
         }
     ],
     "wof:id":336652617,
-    "wof:lastmodified":1473878423,
+    "wof:lastmodified":1492506448,
     "wof:name":"C & F Report Amsterdam Bv",
-    "wof:parent_id":85797113,
+    "wof:parent_id":1108803575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

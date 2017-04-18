@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.900259,52.374329,4.900259,52.374329",
     "geom:latitude":52.374329,
     "geom:longitude":4.900259,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803883,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_14lURmFxLpUYSvUPk6tEIh_52.374329_4.900259@1306269987"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7dc1181b42bf888d3685c5fb55b835c0",
+    "wof:geomhash":"f81e008ae741810b249ab2c597d2a312",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803883,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":303792171
         }
     ],
     "wof:id":303792171,
-    "wof:lastmodified":1473879555,
+    "wof:lastmodified":1492472098,
     "wof:name":"Moulin Rouge",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

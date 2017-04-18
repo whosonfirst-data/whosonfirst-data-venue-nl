@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.767591,52.397133,4.767591,52.397133",
     "geom:latitude":52.397133,
     "geom:longitude":4.767591,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798675,
+        1108803557,
+        1108802535,
+        102191581,
         85633337,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_01qXYScCwJniL6mj60veiX_52.397133_4.767591@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fe64144555391fb5db4961a5e5050983",
+    "wof:geomhash":"a37a066b1f605b796748676b6e36afe6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798675,
+            "locality_id":101751893,
+            "microhood_id":1108803557,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":252913155
         }
     ],
     "wof:id":252913155,
-    "wof:lastmodified":1473878859,
+    "wof:lastmodified":1492505510,
     "wof:name":"De Sluis",
-    "wof:parent_id":85798675,
+    "wof:parent_id":1108803557,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

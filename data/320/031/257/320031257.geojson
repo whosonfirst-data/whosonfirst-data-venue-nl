@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.941806,52.347378,4.941806,52.347378",
     "geom:latitude":52.347378,
     "geom:longitude":4.941806,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804189,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1MuFuXzNbDt5niP4qvvwJn_52.347378_4.941806@1306269993"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2b284efc472023ff5af4e3c80cd76a1b",
+    "wof:geomhash":"152c1fa8f7d6222e934b8b0409f9ea2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804189,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":320031257
         }
     ],
     "wof:id":320031257,
-    "wof:lastmodified":1473878563,
+    "wof:lastmodified":1492483744,
     "wof:name":"Francissen",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

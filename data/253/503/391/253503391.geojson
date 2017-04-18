@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.509605,51.896751,4.509605,51.896751",
     "geom:latitude":51.896751,
     "geom:longitude":4.509605,
@@ -25,39 +26,33 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859891,
+        102191581,
         85633337,
         101751843,
-        85687041,
-        85859885
+        1108805747,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oEjZMgjxaJiqsGZu6jMqo_51.896751_4.509605@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2b687acb7801e53f0287ba15f6a1f224",
+    "wof:geomhash":"e36f709e5254ca5a98307823fd5aa3d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805747,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
             "neighbourhood_id":85859891,
             "region_id":85687041,
             "venue_id":253503391
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751843,
-            "neighbourhood_id":85859885,
-            "region_id":85687041,
-            "venue_id":253503391
         }
     ],
     "wof:id":253503391,
-    "wof:lastmodified":1473879679,
+    "wof:lastmodified":1492488935,
     "wof:name":"Boulevard-Zuid",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859891,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

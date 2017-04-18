@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.5909209251,53.2184524536,6.5909209251,53.2184524536",
     "geom:latitude":53.218452,
     "geom:longitude":6.590921,
@@ -24,13 +25,13 @@
     "sg:province":"Groningen",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798193,
+        85798187,
         102191581,
         404473713,
         85633337,
         101751909,
         85687059,
-        85798187
+        85798193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,8 @@
     },
     "wof:country":"NL",
     "wof:created":1473803355,
-    "wof:geomhash":"a21b430ece543a3f04442e4fb3216d91",
+    "wof:geomhash":"bc70d6b00633dd871b7dd5ddf08b87d5",
     "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404473713,
-            "locality_id":101751909,
-            "neighbourhood_id":85798193,
-            "region_id":85687059,
-            "venue_id":1091609405
-        },
         {
             "continent_id":102191581,
             "country_id":85633337,
@@ -57,12 +49,21 @@
             "neighbourhood_id":85798187,
             "region_id":85687059,
             "venue_id":1091609405
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473713,
+            "locality_id":101751909,
+            "neighbourhood_id":85798193,
+            "region_id":85687059,
+            "venue_id":1091609405
         }
     ],
     "wof:id":1091609405,
-    "wof:lastmodified":1473878958,
+    "wof:lastmodified":1492512979,
     "wof:name":"Van De Beek 'S Automatenhandel",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

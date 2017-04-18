@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.867609,52.328148,4.867609,52.328148",
     "geom:latitude":52.328148,
     "geom:longitude":4.867609,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803485,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2W7HsUmNIb1SQvhVJLK2pm_52.328148_4.867609@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ec0b07b5e4352ab079c38fbb47912928",
+    "wof:geomhash":"f75de5fd04744b89591006c7e5ce20c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803485,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":253225585
         }
     ],
     "wof:id":253225585,
-    "wof:lastmodified":1473879248,
+    "wof:lastmodified":1492488228,
     "wof:name":"Vitra Nederland Bv",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

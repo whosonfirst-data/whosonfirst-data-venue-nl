@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8675251007,51.8021011353,4.8675251007,51.8021011353",
     "geom:latitude":51.802101,
     "geom:longitude":4.867525,
@@ -23,17 +24,32 @@
     "sg:postcode":"4251 NZ",
     "sg:province":"North Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474169,
+        85633337,
+        101837689
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mdhTDPHiZsvn1l785mPu9_51.802101_4.867525@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800458,
-    "wof:geomhash":"2cfb05747ebeec65869e387b9f111a2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3fcad1ed90f931c5036f4b3b3483162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474169,
+            "locality_id":101837689,
+            "region_id":85687041,
+            "venue_id":1091569943
+        }
+    ],
     "wof:id":1091569943,
-    "wof:lastmodified":1473878635,
+    "wof:lastmodified":1492510893,
     "wof:name":"De Biesbosch Kanocentrum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

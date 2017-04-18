@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.901852,52.3722,4.901852,52.3722",
     "geom:latitude":52.3722,
     "geom:longitude":4.901852,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.metri.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804017,
+        1108802875,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_46w2EFpHvm7Zl63CBqjYst_52.372200_4.901852@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"02aedc2887e57cbf2d0f82364a44fa4d",
+    "wof:geomhash":"afbb1056f883475100354a922983f6c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804017,
+            "neighbourhood_id":1108802875,
             "region_id":85687053,
             "venue_id":253173441
         }
     ],
     "wof:id":253173441,
-    "wof:lastmodified":1473879041,
+    "wof:lastmodified":1492490175,
     "wof:name":"Metri",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

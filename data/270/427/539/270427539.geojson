@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.920838,52.348969,4.920838,52.348969",
     "geom:latitude":52.348969,
     "geom:longitude":4.920838,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.regiobank.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803495,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_1z7AxIf78QB7xLyjB4X12b_52.348969_4.920838@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d761944266c9f5328e602415912a06c8",
+    "wof:geomhash":"b87c78fb99aaee6dffc4c32850470cb9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803495,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":270427539
         }
     ],
     "wof:id":270427539,
-    "wof:lastmodified":1473879246,
+    "wof:lastmodified":1492500013,
     "wof:name":"Nationale-Nederlanden Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.076631,52.113991,5.076631,52.113991",
     "geom:latitude":52.113991,
     "geom:longitude":5.076631,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798803,
+        1108808841,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3INxhQHMBNe0jYVsj6rOsk_52.113991_5.076631@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"aa1aef73aab6df134b06a96706ff470f",
+    "wof:geomhash":"087d09201c9fa2bcc172b1798d56f7f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85798803,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808841,
             "region_id":85687039,
             "venue_id":202509257
         }
     ],
     "wof:id":202509257,
-    "wof:lastmodified":1473878802,
+    "wof:lastmodified":1492499042,
     "wof:name":"Verhuurbedrijf G. Bakker & Zonen Bv",
-    "wof:parent_id":85798803,
+    "wof:parent_id":1108808841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

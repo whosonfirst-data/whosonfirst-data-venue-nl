@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.089552,52.126995,5.089552,52.126995",
     "geom:latitude":52.126995,
     "geom:longitude":5.089552,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798231,
+        1108808701,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_26tnTkqW6mMMjME7KnbsNI_52.126995_5.089552@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ac436409fc9c2eff04179bfd06ef5831",
+    "wof:geomhash":"7926bfc75995f546c0cab57a3a501558",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798231,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808701,
             "region_id":85687039,
             "venue_id":303688319
         }
     ],
     "wof:id":303688319,
-    "wof:lastmodified":1473879445,
+    "wof:lastmodified":1492474240,
     "wof:name":"Dtp Buro Vd Wal",
-    "wof:parent_id":85798231,
+    "wof:parent_id":1108808701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

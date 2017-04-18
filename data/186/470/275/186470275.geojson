@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.836575,52.365723,4.836575,52.365723",
     "geom:latitude":52.365723,
     "geom:longitude":4.836575,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803331,
         85798223,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1sCB7IMKz5atZLn5Oz1oyh_52.365723_4.836575@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ff7b1c9914b9575e654794ed21fe7c11",
+    "wof:geomhash":"42b6bd8fb21a0cee97be7a14b2316ea1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803331,
             "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":186470275
         }
     ],
     "wof:id":186470275,
-    "wof:lastmodified":1473879488,
+    "wof:lastmodified":1492509200,
     "wof:name":"Orion 2000",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803331,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

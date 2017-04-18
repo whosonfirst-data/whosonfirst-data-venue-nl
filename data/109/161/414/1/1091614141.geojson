@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3470430374,52.0335388184,5.3470430374,52.0335388184",
     "geom:latitude":52.033539,
     "geom:longitude":5.347043,
@@ -23,17 +24,32 @@
     "sg:postcode":"3941 JL",
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404474547,
+        85633337,
+        101806997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wx6YW8paZAkLyLDhaUvFs_52.033539_5.347043@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803632,
-    "wof:geomhash":"2dbfa624105a2975e3a5f4931c0e8ddb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d56cc0dbe0a5c67fe648a002eb36170f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474547,
+            "locality_id":101806997,
+            "region_id":85687039,
+            "venue_id":1091614141
+        }
+    ],
     "wof:id":1091614141,
-    "wof:lastmodified":1473878704,
+    "wof:lastmodified":1492510458,
     "wof:name":"De Waal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

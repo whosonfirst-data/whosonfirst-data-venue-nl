@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881632,52.378746,4.881632,52.378746",
     "geom:latitude":52.378746,
     "geom:longitude":4.881632,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803955,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4cNCGHw60grMUBPrOJoR0K_52.378746_4.881632@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d6bf057723906bd2ea713d1a43ab9932",
+    "wof:geomhash":"a5fbdf440c950703ac19745e29146925",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803955,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":202799549
         }
     ],
     "wof:id":202799549,
-    "wof:lastmodified":1473879252,
+    "wof:lastmodified":1492497160,
     "wof:name":"The Loft",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

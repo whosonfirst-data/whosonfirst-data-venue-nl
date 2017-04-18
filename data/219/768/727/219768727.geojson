@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.54438,51.934074,4.54438,51.934074",
     "geom:latitude":51.934074,
     "geom:longitude":4.54438,
@@ -25,31 +26,46 @@
     "sg:website":"http://www.danielsofficesupport.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797899,
+        1108805851,
+        102191581,
         85633337,
-        101753095,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6djAy0mfx2d5RTcFOtFALi_51.934074_4.544380@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"25217412dcaedea5ac2b73acaab46936",
+    "wof:geomhash":"04003a74fd26b31e8802ee01584bf715",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85797899,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805851,
+            "region_id":85687041,
+            "venue_id":219768727
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805851,
             "region_id":85687041,
             "venue_id":219768727
         }
     ],
     "wof:id":219768727,
-    "wof:lastmodified":1473879710,
+    "wof:lastmodified":1492503580,
     "wof:name":"Daniels",
-    "wof:parent_id":85797899,
+    "wof:parent_id":1108805851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

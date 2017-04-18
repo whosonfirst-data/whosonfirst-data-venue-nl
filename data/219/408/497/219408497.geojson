@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.503867,52.173908,4.503867,52.173908",
     "geom:latitude":52.173908,
     "geom:longitude":4.503867,
@@ -24,41 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798025,
-        85633337,
-        101754717,
-        85687041,
         85798811,
-        101751833
+        102191581,
+        404474199,
+        85633337,
+        101751833,
+        85687041,
+        85798025,
+        404474545,
+        101754717
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SOTXBGQNW7LJRtPpDa8V5_52.173908_4.503867@1306269926"
     },
     "wof:country":"NL",
-    "wof:geomhash":"135f037690c66a064e94b375ab9080e5",
+    "wof:geomhash":"d2f422c5fe8b4ac6915915871aaea01b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754717,
-            "neighbourhood_id":85798025,
+            "localadmin_id":404474199,
+            "locality_id":101751833,
+            "neighbourhood_id":85798811,
             "region_id":85687041,
             "venue_id":219408497
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751833,
-            "neighbourhood_id":85798811,
+            "localadmin_id":404474545,
+            "locality_id":101754717,
+            "neighbourhood_id":85798025,
             "region_id":85687041,
             "venue_id":219408497
         }
     ],
     "wof:id":219408497,
-    "wof:lastmodified":1473879124,
+    "wof:lastmodified":1492501599,
     "wof:name":"J.H. Ruijtenbeek",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

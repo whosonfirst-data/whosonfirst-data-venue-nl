@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893481,52.358799,4.893481,52.358799",
     "geom:latitude":52.358799,
     "geom:longitude":4.893481,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803515,
+        1108802791,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0XskwTPUNyMWfN68gmOFtP_52.358799_4.893481@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"853f47b1886493b2231d49ac79834116",
+    "wof:geomhash":"4edd3a585774c52cf9ca0c0f842c2f37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803515,
+            "neighbourhood_id":1108802791,
             "region_id":85687053,
             "venue_id":202824939
         }
     ],
     "wof:id":202824939,
-    "wof:lastmodified":1473879338,
+    "wof:lastmodified":1492498294,
     "wof:name":"Den Text",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.855927,52.38171,4.855927,52.38171",
     "geom:latitude":52.38171,
     "geom:longitude":4.855927,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803615,
+        1108802851,
+        102191581,
+        1108802299,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_12WlxUWDUeR1aAKbFKdEkj_52.381710_4.855927@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4b74855ec3070afa70c632b46d276b26",
+    "wof:geomhash":"350c916d475fb18567416c61c0ab0c98",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "macrohood_id":1108802299,
+            "microhood_id":1108803615,
+            "neighbourhood_id":1108802851,
             "region_id":85687053,
             "venue_id":269828147
         }
     ],
     "wof:id":269828147,
-    "wof:lastmodified":1473879499,
+    "wof:lastmodified":1492495302,
     "wof:name":"Pacha Grill",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

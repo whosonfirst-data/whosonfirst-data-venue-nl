@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.251571,52.067001,4.251571,52.067001",
     "geom:latitude":52.067001,
     "geom:longitude":4.251571,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797811,
+        85859585,
+        102191581,
+        1108808133,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3G241G9MQSTeCjY5qwWXYx_52.067001_4.251571@1306269939"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cc7c0fcd2636995da9afb881daa11678",
+    "wof:geomhash":"33da44e03fcd42cc5c576527bd4635fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797811,
+            "macrohood_id":1108808133,
+            "neighbourhood_id":85859585,
             "region_id":85687041,
             "venue_id":236609799
         }
     ],
     "wof:id":236609799,
-    "wof:lastmodified":1473879445,
+    "wof:lastmodified":1492492165,
     "wof:name":"Kedo",
-    "wof:parent_id":85797811,
+    "wof:parent_id":85859585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

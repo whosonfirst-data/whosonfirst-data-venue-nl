@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.12395,52.11272,5.12395,52.11272",
     "geom:latitude":52.11272,
     "geom:longitude":5.12395,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808925,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_7efmjGRhqBjpjKWpQENKo3_52.112720_5.123950@1306269967"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d27c65d8f9ed747aa4f7811290ba1dac",
+    "wof:geomhash":"cc363074fa772e743e2ce97a83f22a31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808925,
             "region_id":85687039,
             "venue_id":286272219
         }
     ],
     "wof:id":286272219,
-    "wof:lastmodified":1473878593,
+    "wof:lastmodified":1492475005,
     "wof:name":"Op Dreef",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

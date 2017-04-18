@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.928938,52.355129,4.928938,52.355129",
     "geom:latitude":52.355129,
     "geom:longitude":4.928938,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803929,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0ei3UmTicq5pyPtv4BeKNN_52.355129_4.928938@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7a15f7d1efd5cd6249d8b3ab98425fc7",
+    "wof:geomhash":"4f94cf7bc28a1345227d4510951bd3e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803929,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":253330051
         }
     ],
     "wof:id":253330051,
-    "wof:lastmodified":1473879406,
+    "wof:lastmodified":1492490824,
     "wof:name":"Soluna",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

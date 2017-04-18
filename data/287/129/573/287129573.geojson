@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.915583,52.353436,4.915583,52.353436",
     "geom:latitude":52.353436,
     "geom:longitude":4.915583,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803773,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5xofgmRtYlOr1UBugdDT28_52.353436_4.915583@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"85d40668ecd640de65d2b65831e4ce1a",
+    "wof:geomhash":"ad820c597e2aadd2e4878d921840e6bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803773,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":287129573
         }
     ],
     "wof:id":287129573,
-    "wof:lastmodified":1473878887,
+    "wof:lastmodified":1492514055,
     "wof:name":"Fondo Fa",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

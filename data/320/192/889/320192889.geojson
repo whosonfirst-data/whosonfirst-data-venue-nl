@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.926411,52.338932,4.926411,52.338932",
     "geom:latitude":52.338932,
     "geom:longitude":4.926411,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803887,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_371idKYqqrb093sVtC19R4_52.338932_4.926411@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a97be9ae061a1a2a49afe2d9cdfd2c28",
+    "wof:geomhash":"205b6d24c76ffe5400845adff5935be0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803887,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":320192889
         }
     ],
     "wof:id":320192889,
-    "wof:lastmodified":1473879075,
+    "wof:lastmodified":1492482521,
     "wof:name":"Sound Wise Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

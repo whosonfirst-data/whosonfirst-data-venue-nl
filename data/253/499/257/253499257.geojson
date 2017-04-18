@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.939282,52.398464,4.939282,52.398464",
     "geom:latitude":52.398464,
     "geom:longitude":4.939282,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803947,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6u3wVb8fUK7aRjdXpbS8my_52.398464_4.939282@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6d0cff37838977d33f710dfb9ed21c32",
+    "wof:geomhash":"c2649ba175a1e531fef56d1565eb6d45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803947,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":253499257
         }
     ],
     "wof:id":253499257,
-    "wof:lastmodified":1473879658,
+    "wof:lastmodified":1492490158,
     "wof:name":"Douglas",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

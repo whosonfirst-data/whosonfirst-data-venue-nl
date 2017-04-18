@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912203,52.352501,4.912203,52.352501",
     "geom:latitude":52.352501,
     "geom:longitude":4.912203,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.avbmakelaardij.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803259,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_4gGhxvMTGp5hsQ2kQ9vvju_52.352501_4.912203@1306269942"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4902db5709d2f36428fd46a0641e8ebd",
+    "wof:geomhash":"2e6d8da4cc5643262a3c36db71a31e9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803259,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":236935495
         }
     ],
     "wof:id":236935495,
-    "wof:lastmodified":1473879603,
+    "wof:lastmodified":1492493668,
     "wof:name":"Avb",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

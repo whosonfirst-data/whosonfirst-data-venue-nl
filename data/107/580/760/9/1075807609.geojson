@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6446080208,52.0525474548,4.6446080208,52.0525474548",
     "geom:latitude":52.052547,
     "geom:longitude":4.644608,
@@ -23,17 +24,32 @@
     "sg:postcode":"2742 DZ",
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474279,
+        85633337,
+        101754715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6I7ghzJ5sJtgd2ImODlF6l_52.052547_4.644608@1306269928"
     },
     "wof:country":"NL",
     "wof:created":1473798523,
-    "wof:geomhash":"c4829236947fa63cf5cf1846540ec7a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a53eb4b9f00de41c5278b862aa992976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474279,
+            "locality_id":101754715,
+            "region_id":85687041,
+            "venue_id":1075807609
+        }
+    ],
     "wof:id":1075807609,
-    "wof:lastmodified":1473878567,
+    "wof:lastmodified":1492486007,
     "wof:name":"By",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

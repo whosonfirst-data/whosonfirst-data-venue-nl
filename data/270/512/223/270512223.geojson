@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.49714,51.935856,4.49714,51.935856",
     "geom:latitude":51.935856,
     "geom:longitude":4.49714,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859861,
+        1108805825,
+        102191581,
+        1108805657,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_5sS9EZl1708jZUN6a8Uxtn_51.935856_4.497140@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ccb21541a45dd0d2c3ded34b3ed14816",
+    "wof:geomhash":"56a31ebca87fbbdf8f6e2385fa4b1376",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85859861,
+            "macrohood_id":1108805657,
+            "neighbourhood_id":1108805825,
             "region_id":85687041,
             "venue_id":270512223
         }
     ],
     "wof:id":270512223,
-    "wof:lastmodified":1473879382,
+    "wof:lastmodified":1492499579,
     "wof:name":"De Waaier Openbaar",
-    "wof:parent_id":85859861,
+    "wof:parent_id":1108805825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

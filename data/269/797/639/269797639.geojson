@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8613,52.360622,4.8613,52.360622",
     "geom:latitude":52.360622,
     "geom:longitude":4.8613,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803855,
+        1108802893,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_3kEK2ITZb9AIGceEWGWiN7_52.360622_4.861300@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cb1645091e259a33742ae684a13b75da",
+    "wof:geomhash":"176fb5adddfaecd96b1f9b1cb385b4ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803855,
+            "neighbourhood_id":1108802893,
             "region_id":85687053,
             "venue_id":269797639
         }
     ],
     "wof:id":269797639,
-    "wof:lastmodified":1473879477,
+    "wof:lastmodified":1492495945,
     "wof:name":"Two In One",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

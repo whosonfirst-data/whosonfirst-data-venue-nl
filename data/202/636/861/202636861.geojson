@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.891222,52.351517,4.891222,52.351517",
     "geom:latitude":52.351517,
     "geom:longitude":4.891222,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803817,
+        1108802865,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6pyEkA9yGlV9ZJPzxqT47U_52.351517_4.891222@1306269917"
     },
     "wof:country":"NL",
-    "wof:geomhash":"201285a9057fdd5e9b4f73d776c4451e",
+    "wof:geomhash":"d4df62087c091df97ee1da21464a6d65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803817,
+            "neighbourhood_id":1108802865,
             "region_id":85687053,
             "venue_id":202636861
         }
     ],
     "wof:id":202636861,
-    "wof:lastmodified":1473879113,
+    "wof:lastmodified":1492499036,
     "wof:name":"Schuit Voor Verlichting",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

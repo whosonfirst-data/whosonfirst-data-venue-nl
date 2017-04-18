@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.917771,52.356853,4.917771,52.356853",
     "geom:latitude":52.356853,
     "geom:longitude":4.917771,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803403,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2cDNkKLcGtRICRlznMYkqJ_52.356853_4.917771@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c53b1e036a77bb49d9328c3ed04a410d",
+    "wof:geomhash":"20d07cf57aa13004d1b51f1072194384",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803403,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":320767833
         }
     ],
     "wof:id":320767833,
-    "wof:lastmodified":1473879643,
+    "wof:lastmodified":1492483084,
     "wof:name":"Kaaswinkel Erik Heinen",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803403,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

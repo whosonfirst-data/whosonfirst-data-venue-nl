@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.323653,52.055904,4.323653,52.055904",
     "geom:latitude":52.055904,
     "geom:longitude":4.323653,
@@ -24,40 +25,49 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798433,
+        1108808313,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
+        101752763,
+        1108808049,
         85687041,
-        85859623
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dOkwHRn2Uj1X1XNrm1gDm_52.055904_4.323653@1306269926"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6bee81b6dbc4b2b68c16e62d82def781",
+    "wof:geomhash":"159156739c77cd49d8c9f109e9f381cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798433,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808313,
             "region_id":85687041,
             "venue_id":219444469
         },
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85859623,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808313,
             "region_id":85687041,
             "venue_id":219444469
         }
     ],
     "wof:id":219444469,
-    "wof:lastmodified":1473879146,
+    "wof:lastmodified":1492502112,
     "wof:name":"W.A.C. Van Es",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108808313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

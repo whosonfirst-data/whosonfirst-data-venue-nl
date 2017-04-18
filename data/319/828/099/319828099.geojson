@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885599,52.366001,4.885599,52.366001",
     "geom:latitude":52.366001,
     "geom:longitude":4.885599,
@@ -29,9 +30,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803761,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +43,23 @@
         "sg:id":"SG_6ycrHJaGlWkjteBmwMV1ac_52.366001_4.885599@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"26b4738e73060856da1cd086edff710d",
+    "wof:geomhash":"544210db55b9d3f3bbe5f74fa1aff00c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803761,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":319828099
         }
     ],
     "wof:id":319828099,
-    "wof:lastmodified":1473878530,
+    "wof:lastmodified":1492479131,
     "wof:name":"Wildervanck",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

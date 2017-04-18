@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.963816,52.303844,4.963816,52.303844",
     "geom:latitude":52.303844,
     "geom:longitude":4.963816,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797113,
+        1108804143,
+        1108802823,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5faQiuCENg7n5ITB5qHCvl_52.303844_4.963816@1306269924"
     },
     "wof:country":"NL",
-    "wof:geomhash":"325f35e66e840e94365f1649bd236907",
+    "wof:geomhash":"16195a11ab20ed1ca717e23a8b2ecbe6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797113,
+            "locality_id":101751893,
+            "microhood_id":1108804143,
+            "neighbourhood_id":1108802823,
             "region_id":85687053,
             "venue_id":219223367
         }
     ],
     "wof:id":219223367,
-    "wof:lastmodified":1473878628,
+    "wof:lastmodified":1492503983,
     "wof:name":"Swaan, De",
-    "wof:parent_id":85797113,
+    "wof:parent_id":1108804143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

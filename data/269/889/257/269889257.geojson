@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.919027,52.356033,4.919027,52.356033",
     "geom:latitude":52.356033,
     "geom:longitude":4.919027,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803833,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_20AQiWjRIi5KpFY68Z4Qc9_52.356033_4.919027@1306269959"
     },
     "wof:country":"NL",
-    "wof:geomhash":"289cf27e440caeae3700e61e22237c71",
+    "wof:geomhash":"0cfdbe68193030a76219795e2629cbc0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803833,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":269889257
         }
     ],
     "wof:id":269889257,
-    "wof:lastmodified":1473879542,
+    "wof:lastmodified":1492496863,
     "wof:name":"Harry",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

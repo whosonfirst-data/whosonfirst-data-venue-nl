@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.292456,52.08757,4.292456,52.08757",
     "geom:latitude":52.08757,
     "geom:longitude":4.292456,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808175,
+        102191581,
+        1108808059,
         85633337,
         101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7gmH7bvFWc49qOM1Tyt7C2_52.087570_4.292456@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"25dc3c1b75073234576481f09128d72e",
+    "wof:geomhash":"1f4ed60e054a89544fcc075c537a15fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808059,
+            "neighbourhood_id":1108808175,
             "region_id":85687041,
             "venue_id":270356205
         }
     ],
     "wof:id":270356205,
-    "wof:lastmodified":1473879145,
+    "wof:lastmodified":1492499409,
     "wof:name":"Banque Paribas Nederland Nv",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.81727,52.34742,4.81727,52.34742",
     "geom:latitude":52.34742,
     "geom:longitude":4.81727,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803421,
+        1108802901,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_7mRlooBTXAFTltPPK3Tbjs_52.347420_4.817270@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e88df9466ad4384d1499dcfc3ce83600",
+    "wof:geomhash":"007c6d3502bc4c08f2b9add21dc94d07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803421,
+            "neighbourhood_id":1108802901,
             "region_id":85687053,
             "venue_id":270525251
         }
     ],
     "wof:id":270525251,
-    "wof:lastmodified":1473879404,
+    "wof:lastmodified":1492499789,
     "wof:name":"Haasje Over",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

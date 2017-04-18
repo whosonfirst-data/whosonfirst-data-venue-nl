@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.740141,51.570229,4.740141,51.570229",
     "geom:latitude":51.570229,
     "geom:longitude":4.740141,
@@ -24,40 +25,41 @@
     "sg:province":"Noord-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798327,
         85633337,
-        101754573,
+        85798363,
         85687035,
-        85798363
+        85798327,
+        102191581,
+        404474363,
+        101754573
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iaBDupEWStLmhI5HO836X_51.570229_4.740141@1306269930"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2b4160b6187d3a91449d4a2a0c46c637",
+    "wof:geomhash":"fc361b96a75d8c182470168bb51814eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101754573,
-            "neighbourhood_id":85798327,
+            "neighbourhood_id":85798363,
             "region_id":85687035,
             "venue_id":219925201
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798363,
+            "localadmin_id":404474363,
+            "locality_id":101754573,
+            "neighbourhood_id":85798327,
             "region_id":85687035,
             "venue_id":219925201
         }
     ],
     "wof:id":219925201,
-    "wof:lastmodified":1473879730,
+    "wof:lastmodified":1492503943,
     "wof:name":"Shikeda",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

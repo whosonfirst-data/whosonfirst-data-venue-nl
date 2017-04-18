@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.858034,52.350941,4.858034,52.350941",
     "geom:latitude":52.350941,
     "geom:longitude":4.858034,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803373,
+        1108802963,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6zVeeJTEaXKuwOYbk34i1f_52.350941_4.858034@1306269930"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8de2f2ffbe9c4f67632e09d262a97d8d",
+    "wof:geomhash":"a5ba12b5725f6862caa90b3d57ef323d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803373,
+            "neighbourhood_id":1108802963,
             "region_id":85687053,
             "venue_id":219910575
         }
     ],
     "wof:id":219910575,
-    "wof:lastmodified":1473879728,
+    "wof:lastmodified":1492501675,
     "wof:name":"Procipio",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803373,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

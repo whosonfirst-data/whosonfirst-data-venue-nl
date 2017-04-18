@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.939665,52.348179,4.939665,52.348179",
     "geom:latitude":52.348179,
     "geom:longitude":4.939665,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804217,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_6ZRDRgCmiv0YrLyliwxlbP_52.348179_4.939665@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"aae74adb10d96571fe6b44da22a59d7f",
+    "wof:geomhash":"8c969df2084aa81fd82389af4483a0a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804217,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":270200019
         }
     ],
     "wof:id":270200019,
-    "wof:lastmodified":1473878842,
+    "wof:lastmodified":1492499703,
     "wof:name":"R\u00f6ckener",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

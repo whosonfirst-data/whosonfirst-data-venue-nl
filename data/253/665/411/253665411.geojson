@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.867029,52.367008,4.867029,52.367008",
     "geom:latitude":52.367008,
     "geom:longitude":4.867029,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803895,
+        1108802849,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_5erPPmlul1XVnePmf4wBCO_52.367008_4.867029@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"173cec87a9de45504c9d14a69dc14d0e",
+    "wof:geomhash":"19c2a581b50f138f35ebd12c25bdc0d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803895,
+            "neighbourhood_id":1108802849,
             "region_id":85687053,
             "venue_id":253665411
         }
     ],
     "wof:id":253665411,
-    "wof:lastmodified":1473879711,
+    "wof:lastmodified":1492490131,
     "wof:name":"Happie Happie",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

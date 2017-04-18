@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.768167,52.360245,4.768167,52.360245",
     "geom:latitude":52.360245,
     "geom:longitude":4.768167,
@@ -35,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803901,
+        1108802855,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -45,21 +49,23 @@
         "sg:id":"SG_1M547nVyoGqj5ovLfxLhRf_52.360245_4.768167@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"257f63e3aead58cd04f56be0e7bbb3ef",
+    "wof:geomhash":"953960ddc3f6de2e5e3d5ba65aa60188",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803901,
+            "neighbourhood_id":1108802855,
             "region_id":85687053,
             "venue_id":319855711
         }
     ],
     "wof:id":319855711,
-    "wof:lastmodified":1473878722,
+    "wof:lastmodified":1492479404,
     "wof:name":"Hoogendam",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

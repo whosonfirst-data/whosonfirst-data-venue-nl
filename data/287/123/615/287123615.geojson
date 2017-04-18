@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.488836,51.965981,4.488836,51.965981",
     "geom:latitude":51.965981,
     "geom:longitude":4.488836,
@@ -24,8 +25,13 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797723,
+        1108833221,
+        1108805791,
+        102191581,
+        1108805981,
         85633337,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +39,24 @@
         "sg:id":"SG_1o8s6pqnG1U6Z6Lu02kqnZ_51.965981_4.488836@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0652b632b71b55e7d78e771334241a59",
+    "wof:geomhash":"a5ca69a6e25861b171a829d171610829",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797723,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "microhood_id":1108833221,
+            "neighbourhood_id":1108805791,
             "region_id":85687041,
             "venue_id":287123615
         }
     ],
     "wof:id":287123615,
-    "wof:lastmodified":1473878890,
+    "wof:lastmodified":1492513316,
     "wof:name":"A1 Consult Bv",
-    "wof:parent_id":85797723,
+    "wof:parent_id":1108833221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

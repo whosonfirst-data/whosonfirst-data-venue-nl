@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.262171,52.082706,4.262171,52.082706",
     "geom:latitude":52.082706,
     "geom:longitude":4.262171,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        85798595,
+        102191581,
+        1108808131,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_46v4GlGCgD0lgozaydiD7i_52.082706_4.262171@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"509ed195d938b8033f5344973675b60d",
+    "wof:geomhash":"10e81b6cab91963c87226a9b5479ea88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
+            "macrohood_id":1108808131,
+            "neighbourhood_id":85798595,
             "region_id":85687041,
             "venue_id":303128715
         }
     ],
     "wof:id":303128715,
-    "wof:lastmodified":1473878738,
+    "wof:lastmodified":1492472915,
     "wof:name":"Bakkerij Driessen Vof",
-    "wof:parent_id":85859605,
+    "wof:parent_id":85798595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

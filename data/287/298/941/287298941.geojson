@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8431,52.36536,4.8431,52.36536",
     "geom:latitude":52.36536,
     "geom:longitude":4.8431,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803545,
         85798223,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4765T6Zxab3MedOAJppoQh_52.365360_4.843100@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e44e0b998629912cc15b9bc51796e371",
+    "wof:geomhash":"27963e3bda87af02e2bfde4c5c3e7158",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803545,
             "neighbourhood_id":85798223,
             "region_id":85687053,
             "venue_id":287298941
         }
     ],
     "wof:id":287298941,
-    "wof:lastmodified":1473879241,
+    "wof:lastmodified":1492514297,
     "wof:name":"Coadmi Services",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

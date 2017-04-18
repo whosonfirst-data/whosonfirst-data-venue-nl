@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.870706,52.355568,4.870706,52.355568",
     "geom:latitude":52.355568,
     "geom:longitude":4.870706,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803475,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_13dxGE5bmeOWcfhr92tGGQ_52.355568_4.870706@1306269977"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d821914f1cb3bf0ed2dca1a1df508f7b",
+    "wof:geomhash":"78827c19ea8a28217c4a433ed1a9841c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803475,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":287160221
         }
     ],
     "wof:id":287160221,
-    "wof:lastmodified":1473878927,
+    "wof:lastmodified":1492514379,
     "wof:name":"Mulder Boekhandel",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

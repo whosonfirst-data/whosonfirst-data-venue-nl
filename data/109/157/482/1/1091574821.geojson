@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1538209915,51.8255615234,4.1538209915,51.8255615234",
     "geom:latitude":51.825562,
     "geom:longitude":4.153821,
@@ -24,17 +25,32 @@
     "sg:province":"South Holland",
     "sg:website":"http://www.rvrit.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474183,
+        85633337,
+        101808501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Go89pM2LO5eHonl3pdpcY_51.825562_4.153821@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800780,
-    "wof:geomhash":"e4d48d6181a3baa4913f2820cb5d31af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7503dd9f2e3f5e52bb1ce1fae4e8a477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474183,
+            "locality_id":101808501,
+            "region_id":85687041,
+            "venue_id":1091574821
+        }
+    ],
     "wof:id":1091574821,
-    "wof:lastmodified":1473878832,
+    "wof:lastmodified":1492511409,
     "wof:name":"Rvrit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

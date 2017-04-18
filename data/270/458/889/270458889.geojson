@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912855,52.337048,4.912855,52.337048",
     "geom:latitude":52.337048,
     "geom:longitude":4.912855,
@@ -29,9 +30,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804067,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -39,21 +44,24 @@
         "sg:id":"SG_6ypSEpAYhATo7WOu0KccLN_52.337048_4.912855@1306269965"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9a885b9765859ae3c5ec15e37abbedf9",
+    "wof:geomhash":"3804be735d70137a66ca5c9695b092e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804067,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":270458889
         }
     ],
     "wof:id":270458889,
-    "wof:lastmodified":1473879247,
+    "wof:lastmodified":1492499348,
     "wof:name":"Delta Lloyd Bank Nv",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

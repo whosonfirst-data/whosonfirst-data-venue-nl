@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.356111,51.990204,4.356111,51.990204",
     "geom:latitude":51.990204,
     "geom:longitude":4.356111,
@@ -26,29 +27,33 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85797219,
+        102191581,
+        404474669,
         85633337,
-        101752765,
         85687041,
-        85798599
+        85798599,
+        404474165,
+        101752765
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DK23xKMm7PCUE1DWQfMrg_51.990204_4.356111@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"44d7bf731ab32e17b11d96459c8b2929",
+    "wof:geomhash":"8357cf447ac60c08eb08f005b7e7ee93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101752765,
+            "localadmin_id":404474669,
             "neighbourhood_id":85797219,
             "region_id":85687041,
             "venue_id":236320567
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474165,
             "locality_id":101752765,
             "neighbourhood_id":85798599,
             "region_id":85687041,
@@ -56,9 +61,9 @@
         }
     ],
     "wof:id":236320567,
-    "wof:lastmodified":1473879139,
+    "wof:lastmodified":1492492552,
     "wof:name":"Jellema, Bureau",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.901623,52.343849,4.901623,52.343849",
     "geom:latitude":52.343849,
     "geom:longitude":4.901623,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.denhengstbeheer.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804281,
+        1108802897,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_62tT9pooyJWBLvTsJerJpv_52.343849_4.901623@1306269927"
     },
     "wof:country":"NL",
-    "wof:geomhash":"922b272e9dc8a3d0478c3e454bded469",
+    "wof:geomhash":"ce759babc395a0cd05ca2bcb892a9ea4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108804281,
+            "neighbourhood_id":1108802897,
             "region_id":85687053,
             "venue_id":219640393
         }
     ],
     "wof:id":219640393,
-    "wof:lastmodified":1473879501,
+    "wof:lastmodified":1492502305,
     "wof:name":"Hengst Beheer, Den",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.315355,52.07457,4.315355,52.07457",
     "geom:latitude":52.07457,
     "geom:longitude":4.315355,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798437,
+        1108808257,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6giN436qBuKzf5vzLwDPXz_52.074570_4.315355@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1bdad7b1c5c3eab88dfdc2bfc8a9eba4",
+    "wof:geomhash":"603b47797dc452b763f469d1cf519911",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798437,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808257,
             "region_id":85687041,
             "venue_id":202602075
         }
     ],
     "wof:id":202602075,
-    "wof:lastmodified":1473879033,
+    "wof:lastmodified":1492499191,
     "wof:name":"Edison Verlichting",
-    "wof:parent_id":85798437,
+    "wof:parent_id":1108808257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

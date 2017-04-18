@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.925138,52.359665,4.925138,52.359665",
     "geom:latitude":52.359665,
     "geom:longitude":4.925138,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803833,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0KspRuZ7X67W2HfvT69aNy_52.359665_4.925138@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7841756a69f06418e3cf42d221e55706",
+    "wof:geomhash":"f3672911145624fcbf0d4537fda1a4be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803833,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":202593767
         }
     ],
     "wof:id":202593767,
-    "wof:lastmodified":1473879014,
+    "wof:lastmodified":1492498071,
     "wof:name":"Bonaparte Luxe Artikelen En Verlichting",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

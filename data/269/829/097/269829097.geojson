@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.361694,51.870899,4.361694,51.870899",
     "geom:latitude":51.870899,
     "geom:longitude":4.361694,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798213,
+        1108806099,
+        1108805795,
+        102191581,
         85633337,
-        101754659,
+        101751843,
+        1108805727,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_15xiJHINRTCCFExJHREwMu_51.870899_4.361694@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"06189b5cbec6b14077363a17bd6154af",
+    "wof:geomhash":"13029c872d620856be6b90f31c2bfd07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805727,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754659,
-            "neighbourhood_id":85798213,
+            "locality_id":101751843,
+            "microhood_id":1108806099,
+            "neighbourhood_id":1108805795,
             "region_id":85687041,
             "venue_id":269829097
         }
     ],
     "wof:id":269829097,
-    "wof:lastmodified":1473879499,
+    "wof:lastmodified":1492495469,
     "wof:name":"Shalom Grillroom",
-    "wof:parent_id":85798213,
+    "wof:parent_id":1108806099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

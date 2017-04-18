@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.890142,52.37138,4.890142,52.37138",
     "geom:latitude":52.37138,
     "geom:longitude":4.890142,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.galeriepetit.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803247,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3m5DxFIfsKgBsM1cHRqZEJ_52.371380_4.890142@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f79ebfed91943f89214d3d6b389c71e5",
+    "wof:geomhash":"30500dcb54bd966f6d3c15e79053c68c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803247,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":320052153
         }
     ],
     "wof:id":320052153,
-    "wof:lastmodified":1473878590,
+    "wof:lastmodified":1492483470,
     "wof:name":"Petit Galerie",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.361934,52.036598,4.361934,52.036598",
     "geom:latitude":52.036598,
     "geom:longitude":4.361934,
@@ -25,8 +26,12 @@
     "sg:website":"http://www.stramaco.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798113,
+        1108808351,
+        102191581,
+        1108808063,
         85633337,
+        101752763,
+        1108808047,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +39,23 @@
         "sg:id":"SG_2CBiKiLS3jeVM1GuQcp1pO_52.036598_4.361934@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e1e0e8df1036ac03f9c2ddd2df0f6235",
+    "wof:geomhash":"83a98c05e907f3152f6bf387124d323f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808047,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798113,
+            "locality_id":101752763,
+            "macrohood_id":1108808063,
+            "neighbourhood_id":1108808351,
             "region_id":85687041,
             "venue_id":252801291
         }
     ],
     "wof:id":252801291,
-    "wof:lastmodified":1473878548,
+    "wof:lastmodified":1492505346,
     "wof:name":"Stramaco Bv",
-    "wof:parent_id":85798113,
+    "wof:parent_id":1108808351,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

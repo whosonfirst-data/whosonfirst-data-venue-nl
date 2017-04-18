@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.854158,52.36758,4.854158,52.36758",
     "geom:latitude":52.36758,
     "geom:longitude":4.854158,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803461,
+        1108802827,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7bsWpJ7aBPmoElslUUZuHm_52.367580_4.854158@1306269914"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7e1b1e23b8d6a80b7dda7471525ca3c0",
+    "wof:geomhash":"642ed62be162d6b67551230d0d052998",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803461,
+            "neighbourhood_id":1108802827,
             "region_id":85687053,
             "venue_id":186604381
         }
     ],
     "wof:id":186604381,
-    "wof:lastmodified":1473879627,
+    "wof:lastmodified":1492507847,
     "wof:name":"Mozaik",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

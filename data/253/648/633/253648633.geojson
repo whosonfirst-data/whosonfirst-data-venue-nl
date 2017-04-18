@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.889614,52.368992,4.889614,52.368992",
     "geom:latitude":52.368992,
     "geom:longitude":4.889614,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.steinway.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803399,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2ByfY71Jge62Y65FrqDz23_52.368992_4.889614@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"44624db45684f9e3294c9c30bae8476e",
+    "wof:geomhash":"9bfcc71d1cb53c86bdc68d8502f47bcb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803399,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":253648633
         }
     ],
     "wof:id":253648633,
-    "wof:lastmodified":1473879717,
+    "wof:lastmodified":1492489174,
     "wof:name":"Steinway Center Nederland",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803399,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

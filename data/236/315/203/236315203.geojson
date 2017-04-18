@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.920783,52.338875,4.920783,52.338875",
     "geom:latitude":52.338875,
     "geom:longitude":4.920783,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804177,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0xiqWLCGcCqzZ2gPnLlY3J_52.338875_4.920783@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fe40b3918f2781260f75c7708d49dd65",
+    "wof:geomhash":"7d3b522ed1161838c8e8a7ca538bf676",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804177,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":236315203
         }
     ],
     "wof:id":236315203,
-    "wof:lastmodified":1473879123,
+    "wof:lastmodified":1492492498,
     "wof:name":"Achmea Arbo",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

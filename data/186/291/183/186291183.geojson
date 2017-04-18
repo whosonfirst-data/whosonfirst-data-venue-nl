@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876416,52.39473,4.876416,52.39473",
     "geom:latitude":52.39473,
     "geom:longitude":4.876416,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803287,
+        1108802955,
+        102191581,
         85633337,
         101751893,
+        1108802287,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_15q7Atd20SwAnTnGPaxhbf_52.394730_4.876416@1306269911"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cad71cd55bcdd3e65d2d94b3fb53ab9e",
+    "wof:geomhash":"479bdc7b5218d220b7dbf55db99e7dbd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802287,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803287,
+            "neighbourhood_id":1108802955,
             "region_id":85687053,
             "venue_id":186291183
         }
     ],
     "wof:id":186291183,
-    "wof:lastmodified":1473879193,
+    "wof:lastmodified":1492508350,
     "wof:name":"Bergschenhoek Bv",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803287,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

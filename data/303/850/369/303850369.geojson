@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.559978,51.951427,4.559978,51.951427",
     "geom:latitude":51.951427,
     "geom:longitude":4.559978,
@@ -36,20 +37,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KTJ6tCogruOeLpcm8kozm_51.951427_4.559978@1306269988"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8bc41dc78fc389ddbc498b6c79d341d4",
+    "wof:geomhash":"298f4f01307337e5b34feda09767e388",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":303850369
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798177,
             "region_id":85687041,
@@ -57,7 +73,7 @@
         }
     ],
     "wof:id":303850369,
-    "wof:lastmodified":1473879602,
+    "wof:lastmodified":1492470962,
     "wof:name":"Deurkruk, De",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

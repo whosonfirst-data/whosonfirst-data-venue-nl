@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.921512,52.337318,4.921512,52.337318",
     "geom:latitude":52.337318,
     "geom:longitude":4.921512,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.boels.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804033,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_41JdnC9V7t756iTG6ECn53_52.337318_4.921512@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e50f56c28e7d6c879d40836dde317ab1",
+    "wof:geomhash":"70046332fb58ba8d1bdee5c3420a159b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804033,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":202555425
         }
     ],
     "wof:id":202555425,
-    "wof:lastmodified":1473878918,
+    "wof:lastmodified":1492498846,
     "wof:name":"Boels Amsterdam-Zuidoost",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

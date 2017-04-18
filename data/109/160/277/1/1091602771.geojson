@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7427420616,52.9230766296,5.7427420616,52.9230766296",
     "geom:latitude":52.923077,
     "geom:longitude":5.742742,
@@ -24,17 +25,32 @@
     "sg:province":"Provincie Friesland",
     "sg:website":"http://www.kaasboer-siebren.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687055,
+        102191581,
+        404473745,
+        85633337,
+        101807417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nkkIYisAmSl0Od9P9VFK7_52.923077_5.742742@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802683,
-    "wof:geomhash":"071581342c93e787cdde54a2af4a3739",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6ec35eb637c6e9af7c4b38502ce152b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473745,
+            "locality_id":101807417,
+            "region_id":85687055,
+            "venue_id":1091602771
+        }
+    ],
     "wof:id":1091602771,
-    "wof:lastmodified":1473878591,
+    "wof:lastmodified":1492512752,
     "wof:name":"Hoekstra Vof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.508447,52.173283,4.508447,52.173283",
     "geom:latitude":52.173283,
     "geom:longitude":4.508447,
@@ -24,41 +25,46 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798025,
-        85633337,
-        101754717,
-        85687041,
         85798811,
-        101751833
+        102191581,
+        404474199,
+        85633337,
+        101751833,
+        85687041,
+        85798025,
+        404474545,
+        101754717
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Rr9f0UtVnWpyMck8dIX0n_52.173283_4.508447@1306269908"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d8b44902dbe56569bac56d54a3230572",
+    "wof:geomhash":"f06abee771dbec76d1705180907ace1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754717,
-            "neighbourhood_id":85798025,
+            "localadmin_id":404474199,
+            "locality_id":101751833,
+            "neighbourhood_id":85798811,
             "region_id":85687041,
             "venue_id":185923673
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751833,
-            "neighbourhood_id":85798811,
+            "localadmin_id":404474545,
+            "locality_id":101754717,
+            "neighbourhood_id":85798025,
             "region_id":85687041,
             "venue_id":185923673
         }
     ],
     "wof:id":185923673,
-    "wof:lastmodified":1473878905,
+    "wof:lastmodified":1492488036,
     "wof:name":"Naschoolse Opvang Draaimolen",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

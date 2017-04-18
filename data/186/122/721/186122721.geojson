@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.313843,52.08432,4.313843,52.08432",
     "geom:latitude":52.08432,
     "geom:longitude":4.313843,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797685,
+        1108808251,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7SCbEYWM2aVAwuDxLJXK8v_52.084320_4.313843@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"327f902f598b37eea79dcfc7f4d78bd8",
+    "wof:geomhash":"6c490b592ba1f5af9028fa1c75c072f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797685,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808251,
             "region_id":85687041,
             "venue_id":186122721
         }
     ],
     "wof:id":186122721,
-    "wof:lastmodified":1473878998,
+    "wof:lastmodified":1492508375,
     "wof:name":"R.M. Schippers Lijsten",
-    "wof:parent_id":85797685,
+    "wof:parent_id":1108808251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.943745,52.390743,4.943745,52.390743",
     "geom:latitude":52.390743,
     "geom:longitude":4.943745,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108804127,
+        1108802927,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_68rfJ1OX1Nkob6tIXPCdOt_52.390743_4.943745@1306269959"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2ad9319c6f45997eda9fd954a94503d6",
+    "wof:geomhash":"433d97b3ee8b62dfef72efd45c0a141f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804127,
+            "neighbourhood_id":1108802927,
             "region_id":85687053,
             "venue_id":269867999
         }
     ],
     "wof:id":269867999,
-    "wof:lastmodified":1473879541,
+    "wof:lastmodified":1492496124,
     "wof:name":"Allrounder, De",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108804127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

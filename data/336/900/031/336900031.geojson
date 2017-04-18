@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882605,52.382603,4.882605,52.382603",
     "geom:latitude":52.382603,
     "geom:longitude":4.882605,
@@ -25,40 +26,36 @@
     "sg:website":"http://www.noordam-devries.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804285,
         85797363,
+        102191581,
         85633337,
         101751893,
-        85687053,
-        85797161
+        1108802283,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ABxMaAMBDmnt8dHIghKfi_52.382603_4.882605@1306270007"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d75410199263bbbea59202f2c0096129",
+    "wof:geomhash":"7916512ebcb7ac47097b267ca8e1c44f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804285,
             "neighbourhood_id":85797363,
-            "region_id":85687053,
-            "venue_id":336900031
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751893,
-            "neighbourhood_id":85797161,
             "region_id":85687053,
             "venue_id":336900031
         }
     ],
     "wof:id":336900031,
-    "wof:lastmodified":1473878443,
+    "wof:lastmodified":1492506545,
     "wof:name":"Noordam & De Vries Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108804285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

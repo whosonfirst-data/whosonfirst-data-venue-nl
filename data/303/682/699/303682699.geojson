@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.275651,52.106297,4.275651,52.106297",
     "geom:latitude":52.106297,
     "geom:longitude":4.275651,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808165,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_35omBEy8W80UEqtfdP8caB_52.106297_4.275651@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2cded2b2e6c508d8721023dd3284766d",
+    "wof:geomhash":"d0bdb47e882b9b996fdecc3e20de2e62",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808165,
             "region_id":85687041,
             "venue_id":303682699
         }
     ],
     "wof:id":303682699,
-    "wof:lastmodified":1473879459,
+    "wof:lastmodified":1492470583,
     "wof:name":"C J Keuls",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

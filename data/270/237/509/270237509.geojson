@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.854226,52.366875,4.854226,52.366875",
     "geom:latitude":52.366875,
     "geom:longitude":4.854226,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803461,
+        1108802827,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1eNoLR1dJT6KbP8eZvujv0_52.366875_4.854226@1306269963"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3867672862e7c561a0dc10d20b2cf4be",
+    "wof:geomhash":"e5a7c18521e605d273132d92f256a076",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803461,
+            "neighbourhood_id":1108802827,
             "region_id":85687053,
             "venue_id":270237509
         }
     ],
     "wof:id":270237509,
-    "wof:lastmodified":1473878912,
+    "wof:lastmodified":1492501369,
     "wof:name":"H.B. Hogen-Esch",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

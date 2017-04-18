@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.887542,52.370068,4.887542,52.370068",
     "geom:latitude":52.370068,
     "geom:longitude":4.887542,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804103,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2CeckXmHZNZGz27oJV2Nq1_52.370068_4.887542@1306269989"
     },
     "wof:country":"NL",
-    "wof:geomhash":"de4e47793cb6ed90b22553210eb8979a",
+    "wof:geomhash":"99cd340137ebd975e6f07f2ae6ac9b04",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804103,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":303905515
         }
     ],
     "wof:id":303905515,
-    "wof:lastmodified":1473879644,
+    "wof:lastmodified":1492472547,
     "wof:name":"Bretagne",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

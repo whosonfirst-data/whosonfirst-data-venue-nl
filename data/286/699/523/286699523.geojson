@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.852912,52.3573,4.852912,52.3573",
     "geom:latitude":52.3573,
     "geom:longitude":4.852912,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803655,
+        1108802825,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4F5YlLMLq79mEL72Df73Wc_52.357300_4.852912@1306269972"
     },
     "wof:country":"NL",
-    "wof:geomhash":"884dfa53bd9e48fa5f4c759a580016ec",
+    "wof:geomhash":"e62007d8317c9e98eb27f2c59fc67bf2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803655,
+            "neighbourhood_id":1108802825,
             "region_id":85687053,
             "venue_id":286699523
         }
     ],
     "wof:id":286699523,
-    "wof:lastmodified":1473879438,
+    "wof:lastmodified":1492476776,
     "wof:name":"Randstad Bewaking Bv",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

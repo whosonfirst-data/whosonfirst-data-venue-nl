@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.962509,52.392357,4.962509,52.392357",
     "geom:latitude":52.392357,
     "geom:longitude":4.962509,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108804083,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5V4q1YWS12KDdKwBHeiUG4_52.392357_4.962509@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"780430b7c228631423ed66556f46d24c",
+    "wof:geomhash":"c654e697a405eb5cd3f49a353f8a3ea7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108804083,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":320166433
         }
     ],
     "wof:id":320166433,
-    "wof:lastmodified":1473879022,
+    "wof:lastmodified":1492481964,
     "wof:name":"Keverkamp",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108804083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

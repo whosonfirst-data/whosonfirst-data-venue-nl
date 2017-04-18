@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.372602,52.158463,5.372602,52.158463",
     "geom:latitude":52.158463,
     "geom:longitude":5.372602,
@@ -25,40 +26,41 @@
     "sg:website":"http://www.spel.to",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797097,
-        85633337,
-        85687039,
         85797913,
-        101751821
+        102191581,
+        404473971,
+        85633337,
+        101751821,
+        85687039,
+        85797097
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CLXTr51p5ri1BPsfPow0L_52.158463_5.372602@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6ee27596257be3f351e8a9574927b374",
+    "wof:geomhash":"00be2011c8735b5b0d97949ef8d01a13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797097,
+            "localadmin_id":404473971,
+            "locality_id":101751821,
+            "neighbourhood_id":85797913,
             "region_id":85687039,
             "venue_id":286452255
         },
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751821,
-            "neighbourhood_id":85797913,
+            "neighbourhood_id":85797097,
             "region_id":85687039,
             "venue_id":286452255
         }
     ],
     "wof:id":286452255,
-    "wof:lastmodified":1473879044,
+    "wof:lastmodified":1492476057,
     "wof:name":"Spel",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

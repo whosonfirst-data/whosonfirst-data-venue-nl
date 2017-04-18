@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876981,52.37307,4.876981,52.37307",
     "geom:latitude":52.37307,
     "geom:longitude":4.876981,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803831,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_01HFgj0Iw0Gyxq5LS7103e_52.373070_4.876981@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ec284d6f5ee35a292337ff9534471504",
+    "wof:geomhash":"b8ac181b976cddbfc4e6f6f32fb685c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803831,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":253530779
         }
     ],
     "wof:id":253530779,
-    "wof:lastmodified":1473879677,
+    "wof:lastmodified":1492490595,
     "wof:name":"Fluks Catering Beenham",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

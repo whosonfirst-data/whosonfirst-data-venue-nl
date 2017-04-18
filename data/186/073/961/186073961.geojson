@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.899085,52.374992,4.899085,52.374992",
     "geom:latitude":52.374992,
     "geom:longitude":4.899085,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804101,
+        1108802555,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5gcYjcjp43luFTVVJOQKN8_52.374992_4.899085@1306269909"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dec5f8f2336ecc87338c989343d68642",
+    "wof:geomhash":"56f7966e45d9b4e300dfc176c9423817",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804101,
+            "neighbourhood_id":1108802555,
             "region_id":85687053,
             "venue_id":186073961
         }
     ],
     "wof:id":186073961,
-    "wof:lastmodified":1473878821,
+    "wof:lastmodified":1492509114,
     "wof:name":"Freeland Coffeeshop",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

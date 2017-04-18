@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.212310791,52.3447151184,5.212310791,52.3447151184",
     "geom:latitude":52.344715,
     "geom:longitude":5.212311,
@@ -32,17 +33,32 @@
         "basis-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473729,
+        85633337,
+        101807237
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zPuILVn8meDiyLpvTvuUu_52.344715_5.212311@1306269966"
     },
     "wof:country":"NL",
     "wof:created":1473798687,
-    "wof:geomhash":"79a3ba4176db62a4ff569375e6c90ef6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6152b67933e2f094963a8355bf8c6b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473729,
+            "locality_id":101807237,
+            "region_id":85687049,
+            "venue_id":1075810539
+        }
+    ],
     "wof:id":1075810539,
-    "wof:lastmodified":1473878752,
+    "wof:lastmodified":1492486602,
     "wof:name":"De Flierefluiter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

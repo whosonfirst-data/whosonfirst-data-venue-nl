@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.868705,52.341843,4.868705,52.341843",
     "geom:latitude":52.341843,
     "geom:longitude":4.868705,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803943,
+        1108802919,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4Tc6XXeJwrDm9RdReVDfa2_52.341843_4.868705@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fff551ac7c4498bcc4bbff43b929851f",
+    "wof:geomhash":"289afabc8964a39d321a07ec706f9002",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108803943,
+            "neighbourhood_id":1108802919,
             "region_id":85687053,
             "venue_id":202812375
         }
     ],
     "wof:id":202812375,
-    "wof:lastmodified":1473879283,
+    "wof:lastmodified":1492497504,
     "wof:name":"Writewell",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

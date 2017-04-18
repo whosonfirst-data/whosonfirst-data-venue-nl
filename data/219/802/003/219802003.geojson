@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.824879,52.344597,4.824879,52.344597",
     "geom:latitude":52.344597,
     "geom:longitude":4.824879,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108804031,
+        1108802901,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4zr5vflrpYcmnE67giEHbN_52.344597_4.824879@1306269929"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3cee8a1723aacd58ee9b239aa7202bf2",
+    "wof:geomhash":"53f01576c6df3d598feb709e7cfaadbf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108804031,
+            "neighbourhood_id":1108802901,
             "region_id":85687053,
             "venue_id":219802003
         }
     ],
     "wof:id":219802003,
-    "wof:lastmodified":1473879725,
+    "wof:lastmodified":1492503915,
     "wof:name":"Goedhard Bv",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108804031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

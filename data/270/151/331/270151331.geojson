@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.890543,52.348572,4.890543,52.348572",
     "geom:latitude":52.348572,
     "geom:longitude":4.890543,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803817,
+        1108802865,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_24BeMlB5vYERgU8Gn4zZjt_52.348572_4.890543@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"24391e6033901cf1e8e7899f3898bdbb",
+    "wof:geomhash":"595f68aa42a5aac29e86a026d38a8c62",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108803817,
+            "neighbourhood_id":1108802865,
             "region_id":85687053,
             "venue_id":270151331
         }
     ],
     "wof:id":270151331,
-    "wof:lastmodified":1473878661,
+    "wof:lastmodified":1492499681,
     "wof:name":"Hoeven, Van Der",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876458,52.390442,4.876458,52.390442",
     "geom:latitude":52.390442,
     "geom:longitude":4.876458,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108804035,
+        1108802911,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2D6ngLDDi2scqcWrPTnF3V_52.390442_4.876458@1306269914"
     },
     "wof:country":"NL",
-    "wof:geomhash":"601f6fc234649ba912ff0a2cdd1eb08e",
+    "wof:geomhash":"92d65ec5ec2abbc7ff92f0335057d36c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108804035,
+            "neighbourhood_id":1108802911,
             "region_id":85687053,
             "venue_id":186587155
         }
     ],
     "wof:id":186587155,
-    "wof:lastmodified":1473879604,
+    "wof:lastmodified":1492509066,
     "wof:name":"Hebron",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108804035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

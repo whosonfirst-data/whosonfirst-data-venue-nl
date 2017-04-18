@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.07005,52.118488,5.07005,52.118488",
     "geom:latitude":52.118488,
     "geom:longitude":5.07005,
@@ -24,9 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797903,
+        1108808933,
+        102191581,
+        1108808653,
         85633337,
         101751827,
+        1108808665,
         85687039
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_64ldRfrvVAIP64gxWyAaYi_52.118488_5.070050@1306269990"
     },
     "wof:country":"NL",
-    "wof:geomhash":"9ceaa8376487368de7f5df2d7e2d8525",
+    "wof:geomhash":"d1dcb01a71f4c80d58c7116fe2679eb7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808665,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797903,
+            "macrohood_id":1108808653,
+            "neighbourhood_id":1108808933,
             "region_id":85687039,
             "venue_id":304022897
         }
     ],
     "wof:id":304022897,
-    "wof:lastmodified":1473878642,
+    "wof:lastmodified":1492504572,
     "wof:name":"Bakker",
-    "wof:parent_id":85797903,
+    "wof:parent_id":1108808933,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

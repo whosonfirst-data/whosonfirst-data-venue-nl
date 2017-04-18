@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877212,52.359474,4.877212,52.359474",
     "geom:latitude":52.359474,
     "geom:longitude":4.877212,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.jacquesdariege.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803743,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_7gTDSstb5SHcD42NJr6ZDC_52.359474_4.877212@1306269989"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ca43a4b996cc0e5c7baf77aa78f0ee36",
+    "wof:geomhash":"384a9a4844c0a6f75aced32cdfb6b8f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803743,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":303890711
         }
     ],
     "wof:id":303890711,
-    "wof:lastmodified":1473879654,
+    "wof:lastmodified":1492472120,
     "wof:name":"Jacques D'Ari?ge",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

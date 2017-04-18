@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.30588,52.084087,4.30588,52.084087",
     "geom:latitude":52.084087,
     "geom:longitude":4.30588,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808251,
+        102191581,
+        1108808081,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6vBiFKqOvT27ah2zY7sHxS_52.084087_4.305880@1306269986"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c8e954f388dd036230318e9c1cd2bcb1",
+    "wof:geomhash":"6e0979af8f7be01f5da8e0a3a6497000",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808081,
+            "neighbourhood_id":1108808251,
             "region_id":85687041,
             "venue_id":303682421
         }
     ],
     "wof:id":303682421,
-    "wof:lastmodified":1473879457,
+    "wof:lastmodified":1492470584,
     "wof:name":"Buro Van Bergenhenegouwen",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

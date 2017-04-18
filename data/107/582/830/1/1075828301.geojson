@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.9122440815,51.3132591248,3.9122440815,51.3132591248",
     "geom:latitude":51.313259,
     "geom:longitude":3.912244,
@@ -23,17 +24,32 @@
     "sg:postcode":"4543 BL",
     "sg:province":"Zeeland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474329,
+        85633337,
+        101809819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21vduXuIzG6vpEUP5GwFHK_51.313259_3.912244@1306270010"
     },
     "wof:country":"NL",
     "wof:created":1473799691,
-    "wof:geomhash":"871edad2c552b88bb1452d4ef8d4dcb1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35a3a0520ba516f99887511c855e5622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474329,
+            "locality_id":101809819,
+            "region_id":85687037,
+            "venue_id":1075828301
+        }
+    ],
     "wof:id":1075828301,
-    "wof:lastmodified":1473879513,
+    "wof:lastmodified":1492487047,
     "wof:name":"De Rank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

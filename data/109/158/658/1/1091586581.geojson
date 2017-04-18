@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1440057755,52.0864715576,5.1440057755,52.0864715576",
     "geom:latitude":52.086472,
     "geom:longitude":5.144006,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808861,
+        102191581,
         85633337,
-        85797403,
+        101751827,
+        1108808669,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473801733,
-    "wof:geomhash":"2f675e7deb74c592f152b9ae3b811acc",
+    "wof:geomhash":"2fe593297fce0b627f48a8d825bab9a3",
     "wof:hierarchy":[
         {
+            "borough_id":1108808669,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797403,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808861,
             "region_id":85687039,
             "venue_id":1091586581
         }
     ],
     "wof:id":1091586581,
-    "wof:lastmodified":1473878867,
+    "wof:lastmodified":1492511664,
     "wof:name":"Sedes",
-    "wof:parent_id":85797403,
+    "wof:parent_id":1108808861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

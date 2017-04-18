@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.911831,52.359653,4.911831,52.359653",
     "geom:latitude":52.359653,
     "geom:longitude":4.911831,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803279,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2f3BFllFIwk0P7N1OXMTBE_52.359653_4.911831@1306269949"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2a3e304aa623bc8f92cdb14f661b788a",
+    "wof:geomhash":"5fd44f41b9aef733b4669b1a83d00fc9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803279,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":253419151
         }
     ],
     "wof:id":253419151,
-    "wof:lastmodified":1473879561,
+    "wof:lastmodified":1492488299,
     "wof:name":"Saxlab",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.938441,52.402691,4.938441,52.402691",
     "geom:latitude":52.402691,
     "geom:longitude":4.938441,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803219,
         85797215,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1OLWviS2R9TApEGzfeBXjx_52.402691_4.938441@1306269970"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1d6a5207e215543b8cb21a04ecce75b5",
+    "wof:geomhash":"e58a0fca76777fc748fddc48df4c0a67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803219,
             "neighbourhood_id":85797215,
             "region_id":85687053,
             "venue_id":286515741
         }
     ],
     "wof:id":286515741,
-    "wof:lastmodified":1473879199,
+    "wof:lastmodified":1492476845,
     "wof:name":"Swildens, George",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

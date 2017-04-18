@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.853236,52.396412,4.853236,52.396412",
     "geom:latitude":52.396412,
     "geom:longitude":4.853236,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.mywaymodels.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797161,
+        1108803945,
+        1108802955,
+        102191581,
         85633337,
         101751893,
+        1108802287,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_10HtsikeKjbOq7Kmk4RD5B_52.396412_4.853236@1306269948"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5cf2271967cfbf1f91d2c510bd7b793e",
+    "wof:geomhash":"f37a1fc64d9e67791be47bf34dde4c7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802287,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797161,
+            "microhood_id":1108803945,
+            "neighbourhood_id":1108802955,
             "region_id":85687053,
             "venue_id":253360279
         }
     ],
     "wof:id":253360279,
-    "wof:lastmodified":1473879425,
+    "wof:lastmodified":1492489376,
     "wof:name":"My Way",
-    "wof:parent_id":85797161,
+    "wof:parent_id":1108803945,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

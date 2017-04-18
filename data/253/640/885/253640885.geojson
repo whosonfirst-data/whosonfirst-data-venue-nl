@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.844165,52.349598,4.844165,52.349598",
     "geom:latitude":52.349598,
     "geom:longitude":4.844165,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803799,
+        1108802959,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3ZdBKUhd8XQi4vAXJj6y0p_52.349598_4.844165@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"42507b08aee0345d763ce15fb45391fc",
+    "wof:geomhash":"c91a227f86c0c1ac477d7e637aebc254",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803799,
+            "neighbourhood_id":1108802959,
             "region_id":85687053,
             "venue_id":253640885
         }
     ],
     "wof:id":253640885,
-    "wof:lastmodified":1473879715,
+    "wof:lastmodified":1492489075,
     "wof:name":"Speelhoek, De",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803799,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

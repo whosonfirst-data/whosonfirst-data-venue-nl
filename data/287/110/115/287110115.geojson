@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.111791,52.113434,5.111791,52.113434",
     "geom:latitude":52.113434,
     "geom:longitude":5.111791,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808929,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_4xnUg3CHOES0MXvWUsivXJ_52.113434_5.111791@1306269976"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1b7859cd64b4869e911a466cd198dae7",
+    "wof:geomhash":"6cbe3a9b36e08a912a52f24ac144a3c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808929,
             "region_id":85687039,
             "venue_id":287110115
         }
     ],
     "wof:id":287110115,
-    "wof:lastmodified":1473878836,
+    "wof:lastmodified":1492513895,
     "wof:name":"Wero",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

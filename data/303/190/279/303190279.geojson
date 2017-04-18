@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912327,52.369987,4.912327,52.369987",
     "geom:latitude":52.369987,
     "geom:longitude":4.912327,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804161,
+        1108802879,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_11DFXifXizEc5bG5gIYDtP_52.369987_4.912327@1306269981"
     },
     "wof:country":"NL",
-    "wof:geomhash":"46d08c89361b411b9e1f3cd486eabc97",
+    "wof:geomhash":"66fcde185f0c4cc0fca9a1523c8a3cc2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804161,
+            "neighbourhood_id":1108802879,
             "region_id":85687053,
             "venue_id":303190279
         }
     ],
     "wof:id":303190279,
-    "wof:lastmodified":1473878860,
+    "wof:lastmodified":1492472616,
     "wof:name":"Living On Water",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

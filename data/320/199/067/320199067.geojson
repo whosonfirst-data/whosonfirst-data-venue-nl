@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.939492,52.349873,4.939492,52.349873",
     "geom:latitude":52.349873,
     "geom:longitude":4.939492,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.oost-watergraafsmeer.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804217,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_58pKSzlXJTyLt9D8LccIMS_52.349873_4.939492@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d95431bd444a47abbe14974a00b017f4",
+    "wof:geomhash":"006176fd1d99f350351ad3e4542d9067",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804217,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":320199067
         }
     ],
     "wof:id":320199067,
-    "wof:lastmodified":1473879098,
+    "wof:lastmodified":1492485331,
     "wof:name":"Stadsdeel Oost-Watergraafsmeer",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

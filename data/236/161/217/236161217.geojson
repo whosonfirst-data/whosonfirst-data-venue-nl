@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.883709,52.38121,4.883709,52.38121",
     "geom:latitude":52.38121,
     "geom:longitude":4.883709,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108804285,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3qRPvppN0XHX9GFSbIpkn6_52.381210_4.883709@1306269935"
     },
     "wof:country":"NL",
-    "wof:geomhash":"af48bde35290cfe9cbdab41798bdc993",
+    "wof:geomhash":"469c502f852820b4fbc4c6bdcb4ee276",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108804285,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":236161217
         }
     ],
     "wof:id":236161217,
-    "wof:lastmodified":1473878876,
+    "wof:lastmodified":1492492826,
     "wof:name":"Microstorm",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

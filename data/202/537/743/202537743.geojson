@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.875803,52.330822,4.875803,52.330822",
     "geom:latitude":52.330822,
     "geom:longitude":4.875803,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804091,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +49,24 @@
         "sg:id":"SG_08LUanwT9Jw2EZb6BJuJKL_52.330822_4.875803@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e5dc8f1f093655bce18dec649ba1d0dd",
+    "wof:geomhash":"d89d3dbc07307a32f5f9a32710aaa3f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804091,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":202537743
         }
     ],
     "wof:id":202537743,
-    "wof:lastmodified":1473878894,
+    "wof:lastmodified":1492499086,
     "wof:name":"Videotheek Gelderlandplein",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

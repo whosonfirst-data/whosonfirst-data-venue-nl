@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.835387,52.383785,4.835387,52.383785",
     "geom:latitude":52.383785,
     "geom:longitude":4.835387,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108804011,
+        1108802905,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2OJzu5a0istQrQU326WOcj_52.383785_4.835387@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5cf8869823864ead6098ff2cffde5471",
+    "wof:geomhash":"e52cec422c7ee5160734d9d2486b021e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108804011,
+            "neighbourhood_id":1108802905,
             "region_id":85687053,
             "venue_id":219303703
         }
     ],
     "wof:id":219303703,
-    "wof:lastmodified":1473878915,
+    "wof:lastmodified":1492501542,
     "wof:name":"La Fleur Bv",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108804011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

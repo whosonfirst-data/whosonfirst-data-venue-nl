@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.284335,52.066689,4.284335,52.066689",
     "geom:latitude":52.066689,
     "geom:longitude":4.284335,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797151,
+        1108808275,
+        102191581,
+        1108808119,
         85633337,
         101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_4MCmXe0wNy22AvWbZsa6ZI_52.066689_4.284335@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"34d810ee00a13a33dc5afd3b839cf905",
+    "wof:geomhash":"f4f8b8693fb9050c58954bae02e4f141",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797151,
+            "macrohood_id":1108808119,
+            "neighbourhood_id":1108808275,
             "region_id":85687041,
             "venue_id":303123293
         }
     ],
     "wof:id":303123293,
-    "wof:lastmodified":1473878692,
+    "wof:lastmodified":1492470974,
     "wof:name":"Van Der Mark",
-    "wof:parent_id":85797151,
+    "wof:parent_id":1108808275,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

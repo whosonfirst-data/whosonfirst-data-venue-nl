@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.112648,52.11536,5.112648,52.11536",
     "geom:latitude":52.11536,
     "geom:longitude":5.112648,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808929,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_7Kij8f6ncsEvvnxm9ATT4M_52.115360_5.112648@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"59d4cab831011475463a13a0344b66f3",
+    "wof:geomhash":"7dfbf3efc0df5f57941d87ece48bfa5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808929,
             "region_id":85687039,
             "venue_id":220009255
         }
     ],
     "wof:id":220009255,
-    "wof:lastmodified":1473878494,
+    "wof:lastmodified":1492481323,
     "wof:name":"Rbu",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

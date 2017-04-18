@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.910018,52.36599,4.910018,52.36599",
     "geom:latitude":52.36599,
     "geom:longitude":4.910018,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803923,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3r8pPkBoWgFkztUhy2MRyS_52.365990_4.910018@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b259e011425f3d7a1c5788920fe74342",
+    "wof:geomhash":"6a5a9978743d94a065a1ca1ac0268053",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803923,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":219379213
         }
     ],
     "wof:id":219379213,
-    "wof:lastmodified":1473879056,
+    "wof:lastmodified":1492503781,
     "wof:name":"A.H.M. Rijntjes",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

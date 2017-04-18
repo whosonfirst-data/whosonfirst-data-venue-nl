@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.994989,52.299835,4.994989,52.299835",
     "geom:latitude":52.299835,
     "geom:longitude":4.994989,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803973,
+        1108802809,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6LLqIRPpXR7AQLVCaYxvXa_52.299835_4.994989@1306270006"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d5966a6325347eca48e272211d8d792e",
+    "wof:geomhash":"94d0c4606318867f6fd344568da46ad7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803973,
+            "neighbourhood_id":1108802809,
             "region_id":85687053,
             "venue_id":336815259
         }
     ],
     "wof:id":336815259,
-    "wof:lastmodified":1473878433,
+    "wof:lastmodified":1492506639,
     "wof:name":"Symbio",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

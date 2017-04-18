@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.906909,52.399986,4.906909,52.399986",
     "geom:latitude":52.399986,
     "geom:longitude":4.906909,
@@ -24,8 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803335,
+        1108802545,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_4wEjSxspflCcc04HGwyi1d_52.399986_4.906909@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8443a60e50dde290497beb7e75b138fc",
+    "wof:geomhash":"9a171c2effa0945e8dfacf8422fdf51c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803335,
+            "neighbourhood_id":1108802545,
             "region_id":85687053,
             "venue_id":320264867
         }
     ],
     "wof:id":320264867,
-    "wof:lastmodified":1473879137,
+    "wof:lastmodified":1492484575,
     "wof:name":"Glashandel Noord",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

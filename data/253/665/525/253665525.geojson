@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.475673,51.94495,4.475673,51.94495",
     "geom:latitude":51.94495,
     "geom:longitude":4.475673,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859841,
+        1108805793,
+        102191581,
+        1108805981,
         85633337,
-        101753095,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_449JAU8FkTd5VEBO8VgmPx_51.944950_4.475673@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6bcc457a9ab70d2f977e2d7131711f4f",
+    "wof:geomhash":"320a7ca498af157dfb8a8fcc76e58033",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859841,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805793,
             "region_id":85687041,
             "venue_id":253665525
         }
     ],
     "wof:id":253665525,
-    "wof:lastmodified":1473879711,
+    "wof:lastmodified":1492490129,
     "wof:name":"Hillegersberg",
-    "wof:parent_id":85859841,
+    "wof:parent_id":1108805793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876864,52.374828,4.876864,52.374828",
     "geom:latitude":52.374828,
     "geom:longitude":4.876864,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.agentkan.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803863,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_3N1NbK5vvlfEvMo9CGsA4E_52.374828_4.876864@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"12d649f684fe4b3cff1b6c9829e6fb55",
+    "wof:geomhash":"4f0c5bc54c84b5f28921d036fe85ae3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803863,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":270174013
         }
     ],
     "wof:id":270174013,
-    "wof:lastmodified":1473878747,
+    "wof:lastmodified":1492501423,
     "wof:name":"Agent Kan",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803863,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

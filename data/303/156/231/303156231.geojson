@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.856169,52.353054,4.856169,52.353054",
     "geom:latitude":52.353054,
     "geom:longitude":4.856169,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803453,
+        1108802963,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1IePdliCK0ei0OYdwoLOj4_52.353054_4.856169@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"82cc57aa83f80c987e5ffca795340403",
+    "wof:geomhash":"b65263db68d7af4b81585509636fecd5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803453,
+            "neighbourhood_id":1108802963,
             "region_id":85687053,
             "venue_id":303156231
         }
     ],
     "wof:id":303156231,
-    "wof:lastmodified":1473878785,
+    "wof:lastmodified":1492472428,
     "wof:name":"Panineria",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

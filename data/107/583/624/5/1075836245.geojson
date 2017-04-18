@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5433068275,51.8979644775,4.5433068275,51.8979644775",
     "geom:latitude":51.897964,
     "geom:longitude":4.543307,
@@ -24,14 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797185,
+        85859927,
         102191581,
-        404474245,
         85633337,
-        101760473,
-        85687041,
-        85859917,
-        101751843
+        101751843,
+        1108805721,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,31 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473800128,
-    "wof:geomhash":"89dbaeba059f4208feed0c574751ddff",
+    "wof:geomhash":"05f4eed24fe685d3ee786dab090194c9",
     "wof:hierarchy":[
         {
+            "borough_id":1108805721,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474245,
-            "locality_id":101760473,
-            "neighbourhood_id":85797185,
-            "region_id":85687041,
-            "venue_id":1075836245
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474245,
             "locality_id":101751843,
-            "neighbourhood_id":85859917,
+            "neighbourhood_id":85859927,
             "region_id":85687041,
             "venue_id":1075836245
         }
     ],
     "wof:id":1075836245,
-    "wof:lastmodified":1473879454,
+    "wof:lastmodified":1492485620,
     "wof:name":"Bedrijfskledingservice Hovo De Maas Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859927,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

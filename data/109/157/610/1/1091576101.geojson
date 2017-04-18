@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.625690937,51.7019004822,4.625690937,51.7019004822",
     "geom:latitude":51.7019,
     "geom:longitude":4.625691,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.yarr.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474623,
+        85633337,
+        101808277
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WfQnSvaGGTM2s9je1a7HI_51.701900_4.625691@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800855,
-    "wof:geomhash":"b7ae153b89af681156fbfe636268dfb2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0575f3f6d94cc1f623de9c513ccf6855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474623,
+            "locality_id":101808277,
+            "region_id":85687035,
+            "venue_id":1091576101
+        }
+    ],
     "wof:id":1091576101,
-    "wof:lastmodified":1473878920,
+    "wof:lastmodified":1492511375,
     "wof:name":"Yarr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

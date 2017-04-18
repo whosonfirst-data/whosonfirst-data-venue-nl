@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.874961853,52.4410743713,4.874961853,52.4410743713",
     "geom:latitude":52.441074,
     "geom:longitude":4.874962,
@@ -24,9 +25,11 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687053,
+        102191581,
+        404474105,
         85633337,
-        85798523,
-        85687053
+        101754851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473802767,
-    "wof:geomhash":"55a633982b6f9d4a2680e19f399032d7",
+    "wof:geomhash":"9e61dc725d2628fc19921f09d18f84a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798523,
+            "localadmin_id":404474105,
+            "locality_id":101754851,
             "region_id":85687053,
             "venue_id":1091603751
         }
     ],
     "wof:id":1091603751,
-    "wof:lastmodified":1473878624,
+    "wof:lastmodified":1492512536,
     "wof:name":"Waayer",
-    "wof:parent_id":85798523,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

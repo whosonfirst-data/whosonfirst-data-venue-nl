@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5229549408,52.1400642395,4.5229549408,52.1400642395",
     "geom:latitude":52.140064,
     "geom:longitude":4.522955,
@@ -32,17 +33,32 @@
         "bewaring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687041,
+        102191581,
+        404474289,
+        85633337,
+        101754697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5X0TE6Oo1V8OgeDEqAKZtW_52.140064_4.522955@1306270008"
     },
     "wof:country":"NL",
     "wof:created":1473798879,
-    "wof:geomhash":"f996b1409ceb814428919418dfe62392",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96f92d24022cc743003835734e6d3449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474289,
+            "locality_id":101754697,
+            "region_id":85687041,
+            "venue_id":1075814673
+        }
+    ],
     "wof:id":1075814673,
-    "wof:lastmodified":1473878989,
+    "wof:lastmodified":1492486182,
     "wof:name":"De Gruijter & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

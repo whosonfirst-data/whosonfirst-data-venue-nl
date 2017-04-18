@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.300675,52.060577,4.300675,52.060577",
     "geom:latitude":52.060577,
     "geom:longitude":4.300675,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859615,
+        1108808303,
+        102191581,
+        1108808093,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0NsSayyA9F3e4rCp9oLHSP_52.060577_4.300675@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"93acb6c6509bf6bb9e921115cb4ffedc",
+    "wof:geomhash":"ace6dc89925311bede3d3ed370743782",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108808093,
+            "neighbourhood_id":1108808303,
             "region_id":85687041,
             "venue_id":236499079
         }
     ],
     "wof:id":236499079,
-    "wof:lastmodified":1473879368,
+    "wof:lastmodified":1492493482,
     "wof:name":"Drs. G. De Jong",
-    "wof:parent_id":85859615,
+    "wof:parent_id":1108808303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

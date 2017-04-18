@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.907372,52.358051,4.907372,52.358051",
     "geom:latitude":52.358051,
     "geom:longitude":4.907372,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.maslow.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803889,
+        1108802953,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_6MaRMiYK5spLvnQFullHlM_52.358051_4.907372@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6ff3cbe62b0d0e651766fdb461810c14",
+    "wof:geomhash":"ae36369a08fed14ec1080e74bff5fe8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803889,
+            "neighbourhood_id":1108802953,
             "region_id":85687053,
             "venue_id":320488851
         }
     ],
     "wof:id":320488851,
-    "wof:lastmodified":1473879345,
+    "wof:lastmodified":1492483950,
     "wof:name":"Maslow",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.540263176,53.1878471375,5.540263176,53.1878471375",
     "geom:latitude":53.187847,
     "geom:longitude":5.540263,
@@ -24,17 +25,32 @@
     "sg:province":"Provincie Friesland",
     "sg:website":"http://www.secretariaatelzinga.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687055,
+        102191581,
+        404473767,
+        85633337,
+        101806163
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nJxLjkjz1zQJRE3XhnRmQ_53.187847_5.540263@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803491,
-    "wof:geomhash":"25ae2f102ef481f9b1f49dd07dcb5678",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b129a796eabbbed83969ac53cf18b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473767,
+            "locality_id":101806163,
+            "region_id":85687055,
+            "venue_id":1091611753
+        }
+    ],
     "wof:id":1091611753,
-    "wof:lastmodified":1473878572,
+    "wof:lastmodified":1492510594,
     "wof:name":"Elzinga",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

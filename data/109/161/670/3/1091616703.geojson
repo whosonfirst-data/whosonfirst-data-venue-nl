@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.8571438789,53.3212280273,6.8571438789,53.3212280273",
     "geom:latitude":53.321228,
     "geom:longitude":6.857144,
@@ -24,17 +25,32 @@
     "sg:province":"Groningen",
     "sg:website":"http://www.kantor.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473701,
+        85633337,
+        101837975
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fQluJijpvc3GBjoSrfGFd_53.321228_6.857144@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803754,
-    "wof:geomhash":"776894f832e89ee2a8ce8f136ad7b0fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c6993142063f2814971c10734ad97bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473701,
+            "locality_id":101837975,
+            "region_id":85687059,
+            "venue_id":1091616703
+        }
+    ],
     "wof:id":1091616703,
-    "wof:lastmodified":1473878848,
+    "wof:lastmodified":1492510791,
     "wof:name":"Kantor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

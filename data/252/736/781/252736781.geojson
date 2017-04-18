@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.336849,52.088741,4.336849,52.088741",
     "geom:latitude":52.088741,
     "geom:longitude":4.336849,
@@ -24,8 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859627,
+        1108808241,
+        102191581,
+        1108805963,
         85633337,
+        101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_2awOc0PDLJA05eaCFgfWjh_52.088741_4.336849@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bcd78847557bab4170c590beec6c142c",
+    "wof:geomhash":"49d4d35442963f35ae9864cc40344c13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859627,
+            "locality_id":101752763,
+            "macrohood_id":1108805963,
+            "neighbourhood_id":1108808241,
             "region_id":85687041,
             "venue_id":252736781
         }
     ],
     "wof:id":252736781,
-    "wof:lastmodified":1473878480,
+    "wof:lastmodified":1492504970,
     "wof:name":"Marsh Verzekeringsmakelaars Bv",
-    "wof:parent_id":85859627,
+    "wof:parent_id":1108808241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

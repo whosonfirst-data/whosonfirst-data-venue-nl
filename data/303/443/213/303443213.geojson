@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.874976,52.355083,4.874976,52.355083",
     "geom:latitude":52.355083,
     "geom:longitude":4.874976,
@@ -35,9 +36,12 @@
     "sg:website":"http://www.instituutdeleeuw.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803475,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -45,21 +49,23 @@
         "sg:id":"SG_5xw7B3hUhRlx3rPWYb42gU_52.355083_4.874976@1306269984"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0c63b144535e5d5ad5db093509cf169c",
+    "wof:geomhash":"070b9e3f11c867996911163d7da4b21d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803475,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":303443213
         }
     ],
     "wof:id":303443213,
-    "wof:lastmodified":1473879161,
+    "wof:lastmodified":1492472198,
     "wof:name":"Leeuw, Instituut De",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

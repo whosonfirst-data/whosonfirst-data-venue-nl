@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.153214,52.274525,6.153214,52.274525",
     "geom:latitude":52.274525,
     "geom:longitude":6.153214,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798309,
         85633337,
+        85798309,
         85687045,
         85797157,
+        102191581,
+        404473825,
         101754775
     ],
     "wof:breaches":[],
@@ -44,19 +47,18 @@
         "sg:id":"SG_0CinRVmGILJGosQrh9EB0L_52.274525_6.153214@1306269966"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b83af87117fcc7fd1c2e1dc2dacd67b8",
+    "wof:geomhash":"9afec974a9fff9c960887a33eb9b9064",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85798309,
             "region_id":85687045,
             "venue_id":270503497
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473825,
             "locality_id":101754775,
             "neighbourhood_id":85797157,
             "region_id":85687045,
@@ -64,9 +66,9 @@
         }
     ],
     "wof:id":270503497,
-    "wof:lastmodified":1473879338,
+    "wof:lastmodified":1492499740,
     "wof:name":"De Horizon Interconfess Daltonsch",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

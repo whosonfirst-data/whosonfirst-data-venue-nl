@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.896169,52.365383,4.896169,52.365383",
     "geom:latitude":52.365383,
     "geom:longitude":4.896169,
@@ -30,9 +31,12 @@
     "sg:website":"http://www.hotelimperialnl.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803223,
+        1108802815,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -40,21 +44,23 @@
         "sg:id":"SG_1Q2GaWdnBCnEn70FLe3cdl_52.365383_4.896169@1306269991"
     },
     "wof:country":"NL",
-    "wof:geomhash":"adb8bcb13831a5a38ae8116c048e8966",
+    "wof:geomhash":"2b9d7b6e9f6e8e31f78ab9cc2a80777b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803223,
+            "neighbourhood_id":1108802815,
             "region_id":85687053,
             "venue_id":304073465
         }
     ],
     "wof:id":304073465,
-    "wof:lastmodified":1473878798,
+    "wof:lastmodified":1492504630,
     "wof:name":"Imperial",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

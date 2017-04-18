@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.917595,52.351551,4.917595,52.351551",
     "geom:latitude":52.351551,
     "geom:longitude":4.917595,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.marijkedegruyter.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803773,
+        1108802921,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_02LZlVHNWttNSE6wKmTMih_52.351551_4.917595@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cdbd06184489884289bc4b87ead4eea8",
+    "wof:geomhash":"a142b09c2dfe4ad4dcb039cad8f706fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803773,
+            "neighbourhood_id":1108802921,
             "region_id":85687053,
             "venue_id":270119381
         }
     ],
     "wof:id":270119381,
-    "wof:lastmodified":1473878615,
+    "wof:lastmodified":1492500426,
     "wof:name":"Gruyter, Marijke De",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

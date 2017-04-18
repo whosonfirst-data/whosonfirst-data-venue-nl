@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.864149,52.360199,4.864149,52.360199",
     "geom:latitude":52.360199,
     "geom:longitude":4.864149,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798403,
+        1108803855,
+        1108802893,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5WgnJQBsbUMySLl7R4N4AC_52.360199_4.864149@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ad0c5a982a5179996a01acb5ea192603",
+    "wof:geomhash":"6d8fd5199f4e9d6b5586c442c10a351c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798403,
+            "microhood_id":1108803855,
+            "neighbourhood_id":1108802893,
             "region_id":85687053,
             "venue_id":186077315
         }
     ],
     "wof:id":186077315,
-    "wof:lastmodified":1473878841,
+    "wof:lastmodified":1492508656,
     "wof:name":"Perspectief",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

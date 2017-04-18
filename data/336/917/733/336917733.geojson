@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.877055,52.373604,4.877055,52.373604",
     "geom:latitude":52.373604,
     "geom:longitude":4.877055,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803831,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2lBE1l1cdHacl0dYyrUXPV_52.373604_4.877055@1306270007"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cc018a689483267422a8cb8613e97528",
+    "wof:geomhash":"a6c2ed1e5f9f4a44054221ce29280585",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803831,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":336917733
         }
     ],
     "wof:id":336917733,
-    "wof:lastmodified":1473878465,
+    "wof:lastmodified":1492505975,
     "wof:name":"Eurocross",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

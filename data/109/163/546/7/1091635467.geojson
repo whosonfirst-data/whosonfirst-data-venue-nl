@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4283518791,51.9332885742,4.4283518791,51.9332885742",
     "geom:latitude":51.933289,
     "geom:longitude":4.428352,
@@ -24,14 +25,13 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798219,
+        1108805669,
+        1108805799,
         102191581,
-        404474245,
         85633337,
-        101753095,
-        85687041,
-        85859761,
-        101751843
+        101751843,
+        1108805713,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,31 +39,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473804905,
-    "wof:geomhash":"a8080fe5a0dbd80b8e68cb0c5855dad8",
+    "wof:geomhash":"57665fc3866fcd7c9b8df4b46449a5c8",
     "wof:hierarchy":[
         {
+            "borough_id":1108805713,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474245,
-            "locality_id":101753095,
-            "neighbourhood_id":85798219,
-            "region_id":85687041,
-            "venue_id":1091635467
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474245,
             "locality_id":101751843,
-            "neighbourhood_id":85859761,
+            "microhood_id":1108805669,
+            "neighbourhood_id":1108805799,
             "region_id":85687041,
             "venue_id":1091635467
         }
     ],
     "wof:id":1091635467,
-    "wof:lastmodified":1473878702,
+    "wof:lastmodified":1492509960,
     "wof:name":"Kapsalon John Van Vliet Vof",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108805669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

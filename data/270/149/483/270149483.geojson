@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.923129,52.358727,4.923129,52.358727",
     "geom:latitude":52.358727,
     "geom:longitude":4.923129,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803833,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1Fv3tvsWke9V7l21xPiK7e_52.358727_4.923129@1306269962"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f7a973187b96264a27d3800a8713f12a",
+    "wof:geomhash":"754d881cc2882afbde7f3e0ee713eb80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803833,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":270149483
         }
     ],
     "wof:id":270149483,
-    "wof:lastmodified":1473878670,
+    "wof:lastmodified":1492501260,
     "wof:name":"Drift, Caecilia Van Der",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

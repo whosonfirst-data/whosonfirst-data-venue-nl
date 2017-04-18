@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.899472,52.219376,6.899472,52.219376",
     "geom:latitude":52.219376,
     "geom:longitude":6.899472,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797713,
+        102542825,
+        85797623,
+        102191581,
+        404473837,
         85633337,
+        101751869,
         85687045
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_1Lr7YR2MXHn6doKx5BCQlB_52.219376_6.899472@1306269999"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d445f6d35b1592e27f25716e439e19ca",
+    "wof:geomhash":"c1e9c6204fd93d31ead3278af1938005",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102542825,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797713,
+            "localadmin_id":404473837,
+            "locality_id":101751869,
+            "neighbourhood_id":85797623,
             "region_id":85687045,
             "venue_id":320555569
         }
     ],
     "wof:id":320555569,
-    "wof:lastmodified":1473879413,
+    "wof:lastmodified":1492484807,
     "wof:name":"Groente- En Fruithal Piet Nijboer",
-    "wof:parent_id":85797713,
+    "wof:parent_id":102542825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

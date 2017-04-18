@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.992106,52.292423,4.992106,52.292423",
     "geom:latitude":52.292423,
     "geom:longitude":4.992106,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803981,
+        1108802809,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_3OQaFK17HJeITmpCXK75JL_52.292423_4.992106@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b53422d886f6cc51f79e809699ddc0cf",
+    "wof:geomhash":"75c670f8249d2717ddddabe8e345f32b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803981,
+            "neighbourhood_id":1108802809,
             "region_id":85687053,
             "venue_id":336731755
         }
     ],
     "wof:id":336731755,
-    "wof:lastmodified":1473878421,
+    "wof:lastmodified":1492505940,
     "wof:name":"Dacos",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803981,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

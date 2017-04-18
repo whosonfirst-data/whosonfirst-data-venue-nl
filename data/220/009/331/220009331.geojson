@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.925548,52.39183,4.925548,52.39183",
     "geom:latitude":52.39183,
     "geom:longitude":4.925548,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803783,
+        1108802923,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1GtbCgG0xMyrZ57nB2r9Go_52.391830_4.925548@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"81a5121635a996860afcc35fc52ba5a1",
+    "wof:geomhash":"6b5f32344f7cacf424a9acd5c392f670",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803783,
+            "neighbourhood_id":1108802923,
             "region_id":85687053,
             "venue_id":220009331
         }
     ],
     "wof:id":220009331,
-    "wof:lastmodified":1473878499,
+    "wof:lastmodified":1492481322,
     "wof:name":"Re-Design",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

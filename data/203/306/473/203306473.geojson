@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.674466,50.846218,5.674466,50.846218",
     "geom:latitude":50.846218,
     "geom:longitude":5.674466,
@@ -24,10 +25,12 @@
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797109,
         85633337,
+        85797109,
         85687033,
         85798317,
+        102191581,
+        404474495,
         101751803
     ],
     "wof:breaches":[],
@@ -35,19 +38,18 @@
         "sg:id":"SG_4vtSbvTlIdqrVKk1e590Ub_50.846218_5.674466@1306269923"
     },
     "wof:country":"NL",
-    "wof:geomhash":"90c0e894a89e9795a40a22e7b35c2e8e",
+    "wof:geomhash":"27cdc9146fe1ac8f617b692c5a9f9a94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":-1,
             "neighbourhood_id":85797109,
             "region_id":85687033,
             "venue_id":203306473
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474495,
             "locality_id":101751803,
             "neighbourhood_id":85798317,
             "region_id":85687033,
@@ -55,9 +57,9 @@
         }
     ],
     "wof:id":203306473,
-    "wof:lastmodified":1473879216,
+    "wof:lastmodified":1492479840,
     "wof:name":"Voorwalt, F G C B",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

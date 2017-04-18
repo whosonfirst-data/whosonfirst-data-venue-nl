@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.936534,52.353653,4.936534,52.353653",
     "geom:latitude":52.353653,
     "geom:longitude":4.936534,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803631,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_13xZ9ja4i7BTP4aCeMDGh1_52.353653_4.936534@1306269995"
     },
     "wof:country":"NL",
-    "wof:geomhash":"336bc0baedd381a2d581abce0a32934f",
+    "wof:geomhash":"43f9629c18f6892e91ad9b3b59fdb377",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803631,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":320190929
         }
     ],
     "wof:id":320190929,
-    "wof:lastmodified":1473879073,
+    "wof:lastmodified":1492483693,
     "wof:name":"P.P.M. Veld",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

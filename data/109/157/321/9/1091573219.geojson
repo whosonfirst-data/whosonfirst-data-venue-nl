@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.8552880287,53.0670280457,6.8552880287,53.0670280457",
     "geom:latitude":53.067028,
     "geom:longitude":6.855288,
@@ -24,17 +25,32 @@
     "sg:province":"Groningen",
     "sg:website":"http://www.studio-imagic.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687059,
+        102191581,
+        404473737,
+        85633337,
+        101838025
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZbjMM4erF2q9TKfRNWpkW_53.067028_6.855288@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800676,
-    "wof:geomhash":"7308159d2998fb4c33d41d1c02040c25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29bf15b7766c4acf26a2e6ee22c4fd87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473737,
+            "locality_id":101838025,
+            "region_id":85687059,
+            "venue_id":1091573219
+        }
+    ],
     "wof:id":1091573219,
-    "wof:lastmodified":1473878687,
+    "wof:lastmodified":1492511027,
     "wof:name":"Imagic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

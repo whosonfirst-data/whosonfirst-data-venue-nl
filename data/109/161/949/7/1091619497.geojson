@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1325078011,51.9761276245,4.1325078011,51.9761276245",
     "geom:latitude":51.976128,
     "geom:longitude":4.132508,
@@ -23,19 +24,36 @@
     "sg:postcode":"3151 AT",
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85797461,
+        102191581,
+        85633337,
+        101751843,
+        1108805729,
+        85687041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aXtjrValUgejVHIiYA3Fi_51.976128_4.132508@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803891,
-    "wof:geomhash":"f7e50475b15dec3a9a7f2a7cfc7af527",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c89f07b52f940428bd2b2b83a33bed2",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108805729,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797461,
+            "region_id":85687041,
+            "venue_id":1091619497
+        }
+    ],
     "wof:id":1091619497,
-    "wof:lastmodified":1473879058,
+    "wof:lastmodified":1492510493,
     "wof:name":"Baalen, Van",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

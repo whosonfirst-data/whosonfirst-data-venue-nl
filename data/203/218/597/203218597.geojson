@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.798842,52.376316,4.798842,52.376316",
     "geom:latitude":52.376316,
     "geom:longitude":4.798842,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.artisan.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803993,
         85797579,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_2MZQYvxWadnBamEuIWIQMR_52.376316_4.798842@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8171c295939c0c9680c1506a6d6893de",
+    "wof:geomhash":"7f03e365573b95393000bec02577cc43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803993,
             "neighbourhood_id":85797579,
             "region_id":85687053,
             "venue_id":203218597
         }
     ],
     "wof:id":203218597,
-    "wof:lastmodified":1473879116,
+    "wof:lastmodified":1492479945,
     "wof:name":"Artisan",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108803993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

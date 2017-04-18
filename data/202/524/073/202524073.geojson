@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893536,52.37587,4.893536,52.37587",
     "geom:latitude":52.37587,
     "geom:longitude":4.893536,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803257,
+        1108802553,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_5l0XIX8oOnppV8nZQaXip2_52.375870_4.893536@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0aeb58359c95f576579579d57e57eb37",
+    "wof:geomhash":"a939cb51d129eb08a40b54f072311fc4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803257,
+            "neighbourhood_id":1108802553,
             "region_id":85687053,
             "venue_id":202524073
         }
     ],
     "wof:id":202524073,
-    "wof:lastmodified":1473878863,
+    "wof:lastmodified":1492498008,
     "wof:name":"Ster Videotheek",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

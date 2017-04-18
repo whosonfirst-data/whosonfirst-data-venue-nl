@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.850523,52.366798,4.850523,52.366798",
     "geom:latitude":52.366798,
     "geom:longitude":4.850523,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803289,
+        1108802827,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_5FBemaCQVp5QQyhCU2G6o7_52.366798_4.850523@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8c72cfa6ee1af3fc2f8c5ce816e0b762",
+    "wof:geomhash":"c48757fcaf9e0410616180e033ceb9b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803289,
+            "neighbourhood_id":1108802827,
             "region_id":85687053,
             "venue_id":303116483
         }
     ],
     "wof:id":303116483,
-    "wof:lastmodified":1473878699,
+    "wof:lastmodified":1492473294,
     "wof:name":"J. Waal",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803289,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893849,52.420101,4.893849,52.420101",
     "geom:latitude":52.420101,
     "geom:longitude":4.893849,
@@ -34,8 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108804251,
+        1108802883,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,23 @@
         "sg:id":"SG_6jc3CMF8cZbX4jwmS8F6QC_52.420101_4.893849@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a760f3bef71ec850b15d679633877dc0",
+    "wof:geomhash":"0fc84fb4abe8166895951e52bbc6d938",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108804251,
+            "neighbourhood_id":1108802883,
             "region_id":85687053,
             "venue_id":252881373
         }
     ],
     "wof:id":252881373,
-    "wof:lastmodified":1473878794,
+    "wof:lastmodified":1492505258,
     "wof:name":"Leuvenberg, Test Techniek",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108804251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

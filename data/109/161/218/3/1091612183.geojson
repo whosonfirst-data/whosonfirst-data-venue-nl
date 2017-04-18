@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8840351105,51.9889755249,4.8840351105,51.9889755249",
     "geom:latitude":51.988976,
     "geom:longitude":4.884035,
@@ -23,17 +24,32 @@
     "sg:postcode":"3415 RC",
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473993,
+        85633337,
+        101754609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XppAl7nKxj6jXlqsPZyC9_51.988976_4.884035@1306270017"
     },
     "wof:country":"NL",
     "wof:created":1473803533,
-    "wof:geomhash":"319ee7febff3b6dac1c5d407ebdc787d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f6357430bdabb05035e614e7e806184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473993,
+            "locality_id":101754609,
+            "region_id":85687039,
+            "venue_id":1091612183
+        }
+    ],
     "wof:id":1091612183,
-    "wof:lastmodified":1473878583,
+    "wof:lastmodified":1492510408,
     "wof:name":"Minute Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.941665,52.352394,4.941665,52.352394",
     "geom:latitude":52.352394,
     "geom:longitude":4.941665,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804217,
+        1108802859,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_0StXt9c8H3d7p1MTBOH01F_52.352394_4.941665@1306269930"
     },
     "wof:country":"NL",
-    "wof:geomhash":"278df000f23adf8ded1437a86976a429",
+    "wof:geomhash":"f59dbfed19d56f1476f5ae0ae580bec4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804217,
+            "neighbourhood_id":1108802859,
             "region_id":85687053,
             "venue_id":219943943
         }
     ],
     "wof:id":219943943,
-    "wof:lastmodified":1473879739,
+    "wof:lastmodified":1492503198,
     "wof:name":"Westerdok",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

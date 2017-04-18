@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912388,52.393909,4.912388,52.393909",
     "geom:latitude":52.393909,
     "geom:longitude":4.912388,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798067,
+        1108803335,
+        1108802545,
+        102191581,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_0AAil25spB1eZfGQyRT2X2_52.393909_4.912388@1306269952"
     },
     "wof:country":"NL",
-    "wof:geomhash":"de3b32c723ee6d658b4312befaa9867a",
+    "wof:geomhash":"a0ce84c38f372df87ff3ead21f829f75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "microhood_id":1108803335,
+            "neighbourhood_id":1108802545,
             "region_id":85687053,
             "venue_id":253669461
         }
     ],
     "wof:id":253669461,
-    "wof:lastmodified":1473879699,
+    "wof:lastmodified":1492489693,
     "wof:name":"Noord",
-    "wof:parent_id":85798067,
+    "wof:parent_id":1108803335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

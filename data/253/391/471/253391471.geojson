@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.926195,52.364464,4.926195,52.364464",
     "geom:latitude":52.364464,
     "geom:longitude":4.926195,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803579,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_2PCBgFljyqNtFO2WVMc0jk_52.364464_4.926195@1306269949"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6f9c7e000cc06e7aca8dc9d159f8ac61",
+    "wof:geomhash":"f8a74ee6ee3bb3a45912732ad0de9341",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803579,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":253391471
         }
     ],
     "wof:id":253391471,
-    "wof:lastmodified":1473879517,
+    "wof:lastmodified":1492490393,
     "wof:name":"Wezup, H Van",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

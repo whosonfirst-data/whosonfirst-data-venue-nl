@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.554092,51.949848,4.554092,51.949848",
     "geom:latitude":51.949848,
     "geom:longitude":4.554092,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dP8qRr3xLi3KowHe5fEwf_51.949848_4.554092@1306269924"
     },
     "wof:country":"NL",
-    "wof:geomhash":"30538126706f48966971d968838ee5b8",
+    "wof:geomhash":"953b0076810603ceedb4008cf34c6a51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":219262357
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798177,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":219262357,
-    "wof:lastmodified":1473878763,
+    "wof:lastmodified":1492504079,
     "wof:name":"Driel, Van",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

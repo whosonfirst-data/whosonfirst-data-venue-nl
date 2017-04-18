@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885706,52.376961,4.885706,52.376961",
     "geom:latitude":52.376961,
     "geom:longitude":4.885706,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803311,
+        1108802813,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_4Er0CjOQTjieTmH2J09yMB_52.376961_4.885706@1306269930"
     },
     "wof:country":"NL",
-    "wof:geomhash":"873d97165af58d8940e47502054d398d",
+    "wof:geomhash":"0ba8c4cdfb045f6f792383dff709523d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803311,
+            "neighbourhood_id":1108802813,
             "region_id":85687053,
             "venue_id":219891403
         }
     ],
     "wof:id":219891403,
-    "wof:lastmodified":1473879727,
+    "wof:lastmodified":1492501871,
     "wof:name":"O-Plan Vof",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803311,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

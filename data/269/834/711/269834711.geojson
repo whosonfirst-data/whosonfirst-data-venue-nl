@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.264363,52.073895,4.264363,52.073895",
     "geom:latitude":52.073895,
     "geom:longitude":4.264363,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859605,
+        1108808211,
+        102191581,
+        1108808125,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_0IA1iDK09Fk55Qr52CGYMF_52.073895_4.264363@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8feea6fcdf4b5b1159d5d613851bb1c1",
+    "wof:geomhash":"1b7f59a7f4ae7b54fdf8a7cbb8fb1165",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859605,
+            "macrohood_id":1108808125,
+            "neighbourhood_id":1108808211,
             "region_id":85687041,
             "venue_id":269834711
         }
     ],
     "wof:id":269834711,
-    "wof:lastmodified":1473879507,
+    "wof:lastmodified":1492496069,
     "wof:name":"Grillroom Egyptisch Restaurant Sakkara",
-    "wof:parent_id":85859605,
+    "wof:parent_id":1108808211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

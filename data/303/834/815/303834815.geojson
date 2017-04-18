@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.927891,52.362877,4.927891,52.362877",
     "geom:latitude":52.362877,
     "geom:longitude":4.927891,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803579,
+        1108802779,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_7NnknfJcxSZMWQZoEe0t2g_52.362877_4.927891@1306269988"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c337128988a58a23f04ce6fd3a39575d",
+    "wof:geomhash":"48c75d056fed320f038b989e40065244",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803579,
+            "neighbourhood_id":1108802779,
             "region_id":85687053,
             "venue_id":303834815
         }
     ],
     "wof:id":303834815,
-    "wof:lastmodified":1473879603,
+    "wof:lastmodified":1492473157,
     "wof:name":"Combe Afro",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

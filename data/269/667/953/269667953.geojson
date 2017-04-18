@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.550211,51.941715,4.550211,51.941715",
     "geom:latitude":51.941715,
     "geom:longitude":4.550211,
@@ -25,31 +26,46 @@
     "sg:website":"http://www.speyer-therapie.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798329,
+        85797053,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wcRDURU88DRTtyoODobQw_51.941715_4.550211@1306269955"
     },
     "wof:country":"NL",
-    "wof:geomhash":"91318b6bde664c8301246cd429437d0b",
+    "wof:geomhash":"18480778f1cdd9dc64e771892a551b76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797053,
+            "region_id":85687041,
+            "venue_id":269667953
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
-            "neighbourhood_id":85798329,
+            "neighbourhood_id":85797053,
             "region_id":85687041,
             "venue_id":269667953
         }
     ],
     "wof:id":269667953,
-    "wof:lastmodified":1473879262,
+    "wof:lastmodified":1492496787,
     "wof:name":"Slogteren, O G Van",
-    "wof:parent_id":85798329,
+    "wof:parent_id":85797053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

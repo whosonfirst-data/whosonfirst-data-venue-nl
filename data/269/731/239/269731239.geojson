@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.298021,52.067101,4.298021,52.067101",
     "geom:latitude":52.067101,
     "geom:longitude":4.298021,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859615,
+        1108808259,
+        102191581,
+        1108808035,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_1dcx2W7LPuDtbN5YbDGcZu_52.067101_4.298021@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ee521f5bff9dd12767745da50cc1b161",
+    "wof:geomhash":"a557c5c334770ec62f1f3cc27cfeada0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108808035,
+            "neighbourhood_id":1108808259,
             "region_id":85687041,
             "venue_id":269731239
         }
     ],
     "wof:id":269731239,
-    "wof:lastmodified":1473879345,
+    "wof:lastmodified":1492494991,
     "wof:name":"American Fried Chicken",
-    "wof:parent_id":85859615,
+    "wof:parent_id":1108808259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

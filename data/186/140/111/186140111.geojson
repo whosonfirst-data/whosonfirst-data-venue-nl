@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5599,51.951416,4.5599,51.951416",
     "geom:latitude":51.951416,
     "geom:longitude":4.5599,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798177,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LJwgfI2E33TgQ1ZtKTlUy_51.951416_4.559900@1306269910"
     },
     "wof:country":"NL",
-    "wof:geomhash":"47d7f9a10a22cf5950dd7dbb58c8fe55",
+    "wof:geomhash":"8f39d26aa7a6d91a4c8031222ee79c06",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798177,
+            "region_id":85687041,
+            "venue_id":186140111
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798177,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":186140111,
-    "wof:lastmodified":1473879016,
+    "wof:lastmodified":1492508787,
     "wof:name":"Bakker Kunst & Lijsten, Wim",
     "wof:parent_id":85798177,
     "wof:placetype":"venue",

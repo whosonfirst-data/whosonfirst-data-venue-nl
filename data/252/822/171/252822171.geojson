@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.881298,52.353493,4.881298,52.353493",
     "geom:latitude":52.353493,
     "geom:longitude":4.881298,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803547,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1BdZhp9ZeV3FP8FxdZuc6J_52.353493_4.881298@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0a705960dfe3e7fbfe56322761fbdd15",
+    "wof:geomhash":"abd76aaaf81cbf892979448fd3e6824b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803547,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":252822171
         }
     ],
     "wof:id":252822171,
-    "wof:lastmodified":1473878559,
+    "wof:lastmodified":1492504726,
     "wof:name":"Schiele Import",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

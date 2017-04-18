@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.036921978,52.0823097229,5.036921978,52.0823097229",
     "geom:latitude":52.08231,
     "geom:longitude":5.036922,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108808715,
+        102191581,
         85633337,
-        85798153,
+        101751827,
+        1108808673,
         85687039
     ],
     "wof:breaches":[],
@@ -34,19 +38,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473804387,
-    "wof:geomhash":"5b9c5e1489981bc1adc8c68186533c22",
+    "wof:geomhash":"fdba364f5dfefb58387a813d0d74d4e1",
     "wof:hierarchy":[
         {
+            "borough_id":1108808673,
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798153,
+            "locality_id":101751827,
+            "neighbourhood_id":1108808715,
             "region_id":85687039,
             "venue_id":1091627661
         }
     ],
     "wof:id":1091627661,
-    "wof:lastmodified":1473879012,
+    "wof:lastmodified":1492512285,
     "wof:name":"Haarmode Estanelle Cv",
-    "wof:parent_id":85798153,
+    "wof:parent_id":1108808715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

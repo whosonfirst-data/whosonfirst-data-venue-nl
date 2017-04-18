@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.915156,52.360527,4.915156,52.360527",
     "geom:latitude":52.360527,
     "geom:longitude":4.915156,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803279,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_3FCpL3bFGPoHS87eJF6uJW_52.360527_4.915156@1306269923"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7c4721d92a0e5eb2858bf93c6bffb617",
+    "wof:geomhash":"b5f70140e24118f60c3b322e96ff9129",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803279,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":203323339
         }
     ],
     "wof:id":203323339,
-    "wof:lastmodified":1473879271,
+    "wof:lastmodified":1492480852,
     "wof:name":"Buitenveldert",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

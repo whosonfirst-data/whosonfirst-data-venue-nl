@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912451,52.356911,4.912451,52.356911",
     "geom:latitude":52.356911,
     "geom:longitude":4.912451,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803279,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1AfkrHkzMvu0cgQOF1Huxr_52.356911_4.912451@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c4b46c3d31df97c8ef56fe502a56f959",
+    "wof:geomhash":"834834e092ac4e8f806cce7e31b1b220",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803279,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":269714445
         }
     ],
     "wof:id":269714445,
-    "wof:lastmodified":1473879309,
+    "wof:lastmodified":1492496639,
     "wof:name":"Apotheek Service Punt Olvg",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

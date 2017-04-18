@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.306548,52.03484,4.306548,52.03484",
     "geom:latitude":52.03484,
     "geom:longitude":4.306548,
@@ -24,10 +25,11 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798031,
+        85687041,
+        102191581,
+        404474251,
         85633337,
-        101754743,
-        85687041
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,18 +39,18 @@
     "wof:geomhash":"4cf648ee3abe7bd6fc44c9f6f8a238b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
-            "neighbourhood_id":85798031,
             "region_id":85687041,
             "venue_id":270006069
         }
     ],
     "wof:id":270006069,
-    "wof:lastmodified":1473878502,
+    "wof:lastmodified":1491907984,
     "wof:name":"L.W.M. De Groot",
-    "wof:parent_id":85798031,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

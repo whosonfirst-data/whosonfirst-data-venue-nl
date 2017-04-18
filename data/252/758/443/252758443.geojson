@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912687,52.411572,4.912687,52.411572",
     "geom:latitude":52.411572,
     "geom:longitude":4.912687,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108803967,
+        1108802847,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_6sF76mIUbt1rrp4YmwSZj6_52.411572_4.912687@1306269943"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e858efac5f4da1a794f1c9098ea79c40",
+    "wof:geomhash":"2a8ba7fcb4def9b7e345e051097b2f45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108803967,
+            "neighbourhood_id":1108802847,
             "region_id":85687053,
             "venue_id":252758443
         }
     ],
     "wof:id":252758443,
-    "wof:lastmodified":1473878486,
+    "wof:lastmodified":1492505576,
     "wof:name":"Floradorp, Sticht",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803967,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

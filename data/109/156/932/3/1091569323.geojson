@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7066149712,52.4591712952,5.7066149712,52.4591712952",
     "geom:latitude":52.459171,
     "geom:longitude":5.706615,
@@ -24,17 +25,32 @@
     "sg:province":"Flevoland",
     "sg:website":"HTTP://www.kwtgroup.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687049,
+        102191581,
+        404473965,
+        85633337,
+        101807239
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0m3eVb8LPYvSbIWjAAHoE1_52.459171_5.706615@1306270011"
     },
     "wof:country":"NL",
     "wof:created":1473800422,
-    "wof:geomhash":"6e2e5057bf6255d4f5fe7f0e724fcfbc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6b044de27240f1f3ce4b0271b445ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473965,
+            "locality_id":101807239,
+            "region_id":85687049,
+            "venue_id":1091569323
+        }
+    ],
     "wof:id":1091569323,
-    "wof:lastmodified":1473878571,
+    "wof:lastmodified":1492510909,
     "wof:name":"Kwt Group Bv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

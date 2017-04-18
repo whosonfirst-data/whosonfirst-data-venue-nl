@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.81477,52.381989,4.81477,52.381989",
     "geom:latitude":52.381989,
     "geom:longitude":4.81477,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108803979,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_3tgQCHqm4OCCvMbB7fKuHV_52.381989_4.814770@1306269957"
     },
     "wof:country":"NL",
-    "wof:geomhash":"90c374471987bb4ead162bb9c4f58455",
+    "wof:geomhash":"1f90fb7bf28967a8b9f5ff8c667493fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108803979,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":269780745
         }
     ],
     "wof:id":269780745,
-    "wof:lastmodified":1473879434,
+    "wof:lastmodified":1492495209,
     "wof:name":"Snack En Eetsalon Nani",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108803979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

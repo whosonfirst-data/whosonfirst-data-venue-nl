@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879222,52.368958,4.879222,52.368958",
     "geom:latitude":52.368958,
     "geom:longitude":4.879222,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803605,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_3Ft7iKFsYQvYu8F7O7T9YQ_52.368958_4.879222@1306270005"
     },
     "wof:country":"NL",
-    "wof:geomhash":"197aa74993b5e90a125037768b48300d",
+    "wof:geomhash":"1787a745c20befea7afa557cebcc871d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803605,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":336710427
         }
     ],
     "wof:id":336710427,
-    "wof:lastmodified":1473878415,
+    "wof:lastmodified":1492507211,
     "wof:name":"Accountantskantoor B.J. Thomas",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

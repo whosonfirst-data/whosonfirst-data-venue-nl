@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.287551,52.081444,4.287551,52.081444",
     "geom:latitude":52.081444,
     "geom:longitude":4.287551,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808219,
+        102191581,
+        1108808117,
         85633337,
         101752763,
+        1108808043,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5eCHEM6kPFk4lPWnyDAroQ_52.081444_4.287551@1306269942"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6dd99adc690159ee142cd80b75d82586",
+    "wof:geomhash":"04bb6ce7e1d5c9e1b845a4169a0cdd96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808043,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808117,
+            "neighbourhood_id":1108808219,
             "region_id":85687041,
             "venue_id":252723481
         }
     ],
     "wof:id":252723481,
-    "wof:lastmodified":1473878477,
+    "wof:lastmodified":1492505352,
     "wof:name":"Direkt Wonen Zuid",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

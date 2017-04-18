@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884883,52.353382,4.884883,52.353382",
     "geom:latitude":52.353382,
     "geom:longitude":4.884883,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803715,
+        1108802797,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6koAHJhBzyZhekusLgmvWo_52.353382_4.884883@1306269931"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ea9eeb834f04422b9a85606699da23bd",
+    "wof:geomhash":"b861637cf0969d3b2a194ec28a166e00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803715,
+            "neighbourhood_id":1108802797,
             "region_id":85687053,
             "venue_id":220020079
         }
     ],
     "wof:id":220020079,
-    "wof:lastmodified":1473878532,
+    "wof:lastmodified":1492481157,
     "wof:name":"Vermeer Alphaplan Vof",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

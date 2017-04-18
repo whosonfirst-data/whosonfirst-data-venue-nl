@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.313431,52.050602,4.313431,52.050602",
     "geom:latitude":52.050602,
     "geom:longitude":4.313431,
@@ -25,28 +26,46 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798433,
+        102191581,
+        1108808103,
         85633337,
-        101754743,
-        85687041
+        101752763,
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78YhWXoCvgkg8683aRe8wo_52.050602_4.313431@1306269907"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1e6cadf2eeadaefe4734f262dca0ef1b",
+    "wof:geomhash":"10c4780f7081d584fcf487cc3af9b226",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808049,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101752763,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":85798433,
+            "region_id":85687041,
+            "venue_id":185697795
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
             "locality_id":101754743,
+            "macrohood_id":1108808103,
             "neighbourhood_id":85798433,
             "region_id":85687041,
             "venue_id":185697795
         }
     ],
     "wof:id":185697795,
-    "wof:lastmodified":1473878658,
+    "wof:lastmodified":1492487978,
     "wof:name":"Potterie Frouwkje Heering",
     "wof:parent_id":85798433,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9704108238,51.9859924316,4.9704108238,51.9859924316",
     "geom:latitude":51.985992,
     "geom:longitude":4.970411,
@@ -23,17 +24,32 @@
     "sg:postcode":"3411 MD",
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687039,
+        102191581,
+        404473993,
+        85633337,
+        101808449
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0u8tDftyckcJlU4lLqWSnk_51.985992_4.970411@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802799,
-    "wof:geomhash":"a04a4450c417c2daf724b2415768d99b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e13295dd6b621e7c7f570b34a9abd9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473993,
+            "locality_id":101808449,
+            "region_id":85687039,
+            "venue_id":1091604055
+        }
+    ],
     "wof:id":1091604055,
-    "wof:lastmodified":1473878648,
+    "wof:lastmodified":1492512576,
     "wof:name":"Kvl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

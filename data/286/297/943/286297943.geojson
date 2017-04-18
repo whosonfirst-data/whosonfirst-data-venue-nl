@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.114973,52.120159,5.114973,52.120159",
     "geom:latitude":52.120159,
     "geom:longitude":5.114973,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808803,
+        102191581,
+        1108832367,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -42,21 +47,23 @@
         "sg:id":"SG_1Mk57ZdEWiUxtF6piSnPSm_52.120159_5.114973@1306269967"
     },
     "wof:country":"NL",
-    "wof:geomhash":"efad0fdbce5bd795ae023bfe4d1f17eb",
+    "wof:geomhash":"937c79cae8eb9ca7811b99612abcf40e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832367,
+            "neighbourhood_id":1108808803,
             "region_id":85687039,
             "venue_id":286297943
         }
     ],
     "wof:id":286297943,
-    "wof:lastmodified":1473878689,
+    "wof:lastmodified":1492477965,
     "wof:name":"Openbare Basisschool Overvecht Montessorilokatie S",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.505463,51.929752,4.505463,51.929752",
     "geom:latitude":51.929752,
     "geom:longitude":4.505463,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805807,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_5rp0lfFYfsEfSverid3gr1_51.929752_4.505463@1306269947"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6cf7fbf9b7875248e1d2b95953ba54c0",
+    "wof:geomhash":"84ff7eebe5abc9b4bf0211452d71c576",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805807,
             "region_id":85687041,
             "venue_id":253209831
         }
     ],
     "wof:id":253209831,
-    "wof:lastmodified":1473879218,
+    "wof:lastmodified":1492489533,
     "wof:name":"Vof G.W. Schouten",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

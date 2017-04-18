@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.817601,52.374062,4.817601,52.374062",
     "geom:latitude":52.374062,
     "geom:longitude":4.817601,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108803595,
+        1108802909,
+        102191581,
+        1108802303,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_4GJNXLZw0D5gB9YJu2nS3A_52.374062_4.817601@1306269993"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4acd2441b70a5f9c8cf42b4787108f9f",
+    "wof:geomhash":"ea9a82ec598723590d8409af7a9be0b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "macrohood_id":1108802303,
+            "microhood_id":1108803595,
+            "neighbourhood_id":1108802909,
             "region_id":85687053,
             "venue_id":320010379
         }
     ],
     "wof:id":320010379,
-    "wof:lastmodified":1473878514,
+    "wof:lastmodified":1492482513,
     "wof:name":"Werkhoven, Jeanette",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108803595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

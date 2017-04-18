@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7281160355,52.5560188293,4.7281160355,52.5560188293",
     "geom:latitude":52.556019,
     "geom:longitude":4.728116,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Holland",
     "sg:website":"http://www.incentsation.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474053,
+        85633337,
+        101807327
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JJWNuAZPXZ61zWADH0eSb_52.556019_4.728116@1306270009"
     },
     "wof:country":"NL",
     "wof:created":1473799328,
-    "wof:geomhash":"a30697b6b2d57da32ba0808fd961412d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"865d5bebd63f3075a705400d6ea8b521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474053,
+            "locality_id":101807327,
+            "region_id":85687053,
+            "venue_id":1075822337
+        }
+    ],
     "wof:id":1075822337,
-    "wof:lastmodified":1473879261,
+    "wof:lastmodified":1492486704,
     "wof:name":"Incentsation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

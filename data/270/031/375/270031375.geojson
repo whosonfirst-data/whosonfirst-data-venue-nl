@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.865334,52.36039,4.865334,52.36039",
     "geom:latitude":52.36039,
     "geom:longitude":4.865334,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.asahi.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803855,
+        1108802893,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_7CzSlMEXSxg8QICR0uKrmi_52.360390_4.865334@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e3f2da7501d6b1b6c055a22979d39e7e",
+    "wof:geomhash":"a94d8b9126a1ab96f82e92218210747c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803855,
+            "neighbourhood_id":1108802893,
             "region_id":85687053,
             "venue_id":270031375
         }
     ],
     "wof:id":270031375,
-    "wof:lastmodified":1473878506,
+    "wof:lastmodified":1492500436,
     "wof:name":"Asahi Sports",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

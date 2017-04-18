@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.322004,52.10553,4.322004,52.10553",
     "geom:latitude":52.10553,
     "geom:longitude":4.322004,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797497,
+        85797487,
+        102191581,
+        1108805961,
         85633337,
         101752763,
+        1108808045,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1ul3MW6FFV6H2QSJsAjBwR_52.105530_4.322004@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"f42873f7dfd2c31f780775c37b408adb",
+    "wof:geomhash":"b45a0660ea02976663df65574c038fae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808045,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85797497,
+            "macrohood_id":1108805961,
+            "neighbourhood_id":85797487,
             "region_id":85687041,
             "venue_id":269992703
         }
     ],
     "wof:id":269992703,
-    "wof:lastmodified":1473879590,
+    "wof:lastmodified":1492496803,
     "wof:name":"Belastingadviseur D. Wareman",
-    "wof:parent_id":85797497,
+    "wof:parent_id":85797487,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

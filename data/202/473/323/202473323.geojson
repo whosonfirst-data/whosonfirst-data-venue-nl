@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.507644,51.92968,4.507644,51.92968",
     "geom:latitude":51.92968,
     "geom:longitude":4.507644,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797861,
+        1108805807,
+        102191581,
+        1108805667,
         85633337,
         101751843,
+        1108805719,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3bZ89Z3lJnmvqnDKUYx1WR_51.929680_4.507644@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2a205e0fa6cb73a6059dcd8c2fb0878d",
+    "wof:geomhash":"bdfe843a686b5dc3e3be4c61d0e4285f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805719,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
-            "neighbourhood_id":85797861,
+            "macrohood_id":1108805667,
+            "neighbourhood_id":1108805807,
             "region_id":85687041,
             "venue_id":202473323
         }
     ],
     "wof:id":202473323,
-    "wof:lastmodified":1473878738,
+    "wof:lastmodified":1492497565,
     "wof:name":"H.E. Slagter",
-    "wof:parent_id":85797861,
+    "wof:parent_id":1108805807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

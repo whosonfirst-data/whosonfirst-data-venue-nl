@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1653690338,51.6145935059,4.1653690338,51.6145935059",
     "geom:latitude":51.614594,
     "geom:longitude":4.165369,
@@ -31,17 +32,32 @@
         "garage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687037,
+        102191581,
+        404474331,
+        85633337,
+        101808407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0o0vyPADddTXxJZ2JQlhHV_51.614594_4.165369@1306269994"
     },
     "wof:country":"NL",
     "wof:created":1473798791,
-    "wof:geomhash":"3bf510d3409b1a061b73c84553f58627",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d4ee8ffeae26b72b929a931f88c4d02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474331,
+            "locality_id":101808407,
+            "region_id":85687037,
+            "venue_id":1075812573
+        }
+    ],
     "wof:id":1075812573,
-    "wof:lastmodified":1473878875,
+    "wof:lastmodified":1492486466,
     "wof:name":"Perfect Gear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

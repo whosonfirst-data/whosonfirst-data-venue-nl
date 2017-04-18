@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.82572,52.352715,4.82572,52.352715",
     "geom:latitude":52.352715,
     "geom:longitude":4.82572,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803265,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0iUvDhm2GWweCaGCo47ntE_52.352715_4.825720@1306269938"
     },
     "wof:country":"NL",
-    "wof:geomhash":"263cc0f8303d4b2f0a3b1f7c8481c094",
+    "wof:geomhash":"f3977d66515ce7f7cd481a7f5b4eaaac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803265,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":236519057
         }
     ],
     "wof:id":236519057,
-    "wof:lastmodified":1473879380,
+    "wof:lastmodified":1492493878,
     "wof:name":"J. De Goede",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

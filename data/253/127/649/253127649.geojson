@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.481542,51.940559,4.481542,51.940559",
     "geom:latitude":51.940559,
     "geom:longitude":4.481542,
@@ -25,39 +26,33 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859845,
+        102191581,
         85633337,
-        101753095,
-        85687041,
-        85859841
+        101751843,
+        1108804843,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pYL689bhUymfPlOlyy64r_51.940559_4.481542@1306269946"
     },
     "wof:country":"NL",
-    "wof:geomhash":"07ee6e498d4d1df32ed2019c8095d37b",
+    "wof:geomhash":"1023c7debe5b18a046d59a21e4e061ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108804843,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101753095,
+            "locality_id":101751843,
             "neighbourhood_id":85859845,
-            "region_id":85687041,
-            "venue_id":253127649
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101753095,
-            "neighbourhood_id":85859841,
             "region_id":85687041,
             "venue_id":253127649
         }
     ],
     "wof:id":253127649,
-    "wof:lastmodified":1473878940,
+    "wof:lastmodified":1492490480,
     "wof:name":"Euroskay",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9215,52.337334,4.9215,52.337334",
     "geom:latitude":52.337334,
     "geom:longitude":4.9215,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804033,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_54pLnCV6mZueTEFQhzUpzS_52.337334_4.921500@1306269914"
     },
     "wof:country":"NL",
-    "wof:geomhash":"caa4ded3d7c6a60651ccbac8479462ee",
+    "wof:geomhash":"338fd88c8a34e9a5cf3dd4abe772eba7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804033,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":202395873
         }
     ],
     "wof:id":202395873,
-    "wof:lastmodified":1473878551,
+    "wof:lastmodified":1492498821,
     "wof:name":"At. Verhuizers",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.457793,51.920033,4.457793,51.920033",
     "geom:latitude":51.920033,
     "geom:longitude":4.457793,
@@ -24,29 +25,23 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859777,
+        85859785,
+        102191581,
         85633337,
         101751843,
-        85687041,
-        85859785
+        1108805753,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PhAXPLY23SxyFJtwnk1cq_51.920033_4.457793@1306269968"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4d5ee7c51e8109d1cd92c790c460ee29",
+    "wof:geomhash":"46ca769e8d7fcf4e9be304f0baa75cda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751843,
-            "neighbourhood_id":85859777,
-            "region_id":85687041,
-            "venue_id":286346589
-        },
-        {
-            "continent_id":-1,
+            "borough_id":1108805753,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
             "neighbourhood_id":85859785,
@@ -55,9 +50,9 @@
         }
     ],
     "wof:id":286346589,
-    "wof:lastmodified":1473878851,
+    "wof:lastmodified":1492477274,
     "wof:name":"Business & Logistics International",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

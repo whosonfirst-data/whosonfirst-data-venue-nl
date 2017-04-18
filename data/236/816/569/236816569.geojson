@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.77858,52.35117,4.77858,52.35117",
     "geom:latitude":52.35117,
     "geom:longitude":4.77858,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803971,
+        1108802857,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1DQCMV4dDPrZ2zaDQQlD8N_52.351170_4.778580@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"036cf78eb66040ec2dc1317369563d4c",
+    "wof:geomhash":"08a641af1e4c4e93dcc16f08c37b5dc1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803971,
+            "neighbourhood_id":1108802857,
             "region_id":85687053,
             "venue_id":236816569
         }
     ],
     "wof:id":236816569,
-    "wof:lastmodified":1473879549,
+    "wof:lastmodified":1492494615,
     "wof:name":"Schakel, De",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

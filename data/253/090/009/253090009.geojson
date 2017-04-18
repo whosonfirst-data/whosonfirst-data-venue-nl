@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.907518,52.347233,4.907518,52.347233",
     "geom:latitude":52.347233,
     "geom:longitude":4.907518,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803739,
+        1108802841,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3Ko9gCKC8EoHmCDGYnrVsB_52.347233_4.907518@1306269946"
     },
     "wof:country":"NL",
-    "wof:geomhash":"cc4751cc6f82a0a3a560820c7f8efb06",
+    "wof:geomhash":"9d7de9771917b0cc1b83346dca93ff85",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803739,
+            "neighbourhood_id":1108802841,
             "region_id":85687053,
             "venue_id":253090009
         }
     ],
     "wof:id":253090009,
-    "wof:lastmodified":1473878809,
+    "wof:lastmodified":1492489451,
     "wof:name":"Fleming, R A",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803739,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

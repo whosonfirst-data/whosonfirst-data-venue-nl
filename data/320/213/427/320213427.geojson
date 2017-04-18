@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.837195,52.389336,4.837195,52.389336",
     "geom:latitude":52.389336,
     "geom:longitude":4.837195,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798399,
+        1108803625,
+        1108802535,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_6jI7whVnd69rK8hlcZcoCq_52.389336_4.837195@1306269996"
     },
     "wof:country":"NL",
-    "wof:geomhash":"6f59a98471ccc5a023c8655260028bfa",
+    "wof:geomhash":"70b2e2877828b85b18b7352ed0978442",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798399,
+            "microhood_id":1108803625,
+            "neighbourhood_id":1108802535,
             "region_id":85687053,
             "venue_id":320213427
         }
     ],
     "wof:id":320213427,
-    "wof:lastmodified":1473879096,
+    "wof:lastmodified":1492482887,
     "wof:name":"London Gifts",
-    "wof:parent_id":85798399,
+    "wof:parent_id":1108803625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

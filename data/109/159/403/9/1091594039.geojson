@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1384949684,51.4892234802,5.1384949684,51.4892234802",
     "geom:latitude":51.489223,
     "geom:longitude":5.138495,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.phildar.fr",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474397,
+        85633337,
+        101809705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QX0woltlukP1VADIhpbia_51.489223_5.138495@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802157,
-    "wof:geomhash":"89123bdd4b510870c8259f52fcdf9283",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d67f07d5e42ac9e0aaea168e8f54e623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474397,
+            "locality_id":101809705,
+            "region_id":85687035,
+            "venue_id":1091594039
+        }
+    ],
     "wof:id":1091594039,
-    "wof:lastmodified":1473878689,
+    "wof:lastmodified":1492509589,
     "wof:name":"Phildar Nederland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

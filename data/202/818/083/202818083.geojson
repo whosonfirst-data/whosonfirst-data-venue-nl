@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.945316,52.340942,4.945316,52.340942",
     "geom:latitude":52.340942,
     "geom:longitude":4.945316,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803871,
+        1108802539,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5GZWE0D0uwHr2uuSXiLTrE_52.340942_4.945316@1306269918"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4cab349b7efd3855224d39a19d5b015a",
+    "wof:geomhash":"2998b1e3789d3a2fae9f931e31e7ea60",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803871,
+            "neighbourhood_id":1108802539,
             "region_id":85687053,
             "venue_id":202818083
         }
     ],
     "wof:id":202818083,
-    "wof:lastmodified":1473879326,
+    "wof:lastmodified":1492499201,
     "wof:name":"Avanti",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

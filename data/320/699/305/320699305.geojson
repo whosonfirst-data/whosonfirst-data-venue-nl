@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.927773,52.336861,4.927773,52.336861",
     "geom:latitude":52.336861,
     "geom:longitude":4.927773,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.solarned.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803887,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_6CtJKePwT3SrMty1wRvmlk_52.336861_4.927773@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"61a8dbfb3ca1b65285162d301f2eab3b",
+    "wof:geomhash":"1f44bc8c1fc7bcbb7185180fd0fb4e6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803887,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":320699305
         }
     ],
     "wof:id":320699305,
-    "wof:lastmodified":1473879559,
+    "wof:lastmodified":1492483823,
     "wof:name":"Bp Solar/Solarned",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

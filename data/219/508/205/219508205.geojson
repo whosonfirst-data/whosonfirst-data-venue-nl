@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.897587,52.414787,4.897587,52.414787",
     "geom:latitude":52.414787,
     "geom:longitude":4.897587,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803309,
         85798523,
+        102191581,
         85633337,
+        101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_7ewmptGRZeOQDA3haiGLOf_52.414787_4.897587@1306269926"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5c4fac00220239ba92772da79711debb",
+    "wof:geomhash":"3542d017a2e875e80707c339687816fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
+            "locality_id":101751893,
+            "microhood_id":1108803309,
             "neighbourhood_id":85798523,
             "region_id":85687053,
             "venue_id":219508205
         }
     ],
     "wof:id":219508205,
-    "wof:lastmodified":1473879244,
+    "wof:lastmodified":1492502761,
     "wof:name":"Bodo",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108803309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

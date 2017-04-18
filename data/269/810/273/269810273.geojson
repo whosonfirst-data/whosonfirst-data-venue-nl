@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.827096,52.354206,4.827096,52.354206",
     "geom:latitude":52.354206,
     "geom:longitude":4.827096,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803265,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_7TFfP8rarbFTRAroMjOg1U_52.354206_4.827096@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"62f692046be4a5220e691e7c4d2add98",
+    "wof:geomhash":"705357e486d180373bc9713124037baa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803265,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":269810273
         }
     ],
     "wof:id":269810273,
-    "wof:lastmodified":1473879505,
+    "wof:lastmodified":1492496843,
     "wof:name":"Afhaalcentrum Waroeng Adji",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

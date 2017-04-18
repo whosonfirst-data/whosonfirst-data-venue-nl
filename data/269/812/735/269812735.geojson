@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.882835,52.360493,4.882835,52.360493",
     "geom:latitude":52.360493,
     "geom:longitude":4.882835,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803565,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_6C5Tyw3KszOL1to2R1vVy7_52.360493_4.882835@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"84ee49d0f3cc7c882b3e30c57459218b",
+    "wof:geomhash":"8b9e045d0595af97c8820b1413c7c899",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803565,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":269812735
         }
     ],
     "wof:id":269812735,
-    "wof:lastmodified":1473879505,
+    "wof:lastmodified":1492495271,
     "wof:name":"Canaletto",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

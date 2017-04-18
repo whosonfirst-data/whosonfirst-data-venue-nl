@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.824185,52.353329,4.824185,52.353329",
     "geom:latitude":52.353329,
     "geom:longitude":4.824185,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803265,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2I6qnjppIXMbrSQate6Ikr_52.353329_4.824185@1306269944"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a3b58a97b30faedda695d187cb70152a",
+    "wof:geomhash":"d3b18f14ba50c11ade76185ab96516a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803265,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":252846427
         }
     ],
     "wof:id":252846427,
-    "wof:lastmodified":1473878634,
+    "wof:lastmodified":1492504734,
     "wof:name":"Ariadent Slotervaart",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

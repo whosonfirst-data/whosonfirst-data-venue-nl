@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88968,52.387844,4.88968,52.387844",
     "geom:latitude":52.387844,
     "geom:longitude":4.88968,
@@ -24,8 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798523,
+        1108804019,
+        1108802819,
+        102191581,
         85633337,
+        101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_465zTlzzYii99wSa59XE1R_52.387844_4.889680@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"8c219abaad14d39cf53d1de1cbb2de52",
+    "wof:geomhash":"d290dad2a699fbca5572246a3b0da290",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798523,
+            "locality_id":101751893,
+            "microhood_id":1108804019,
+            "neighbourhood_id":1108802819,
             "region_id":85687053,
             "venue_id":202918517
         }
     ],
     "wof:id":202918517,
-    "wof:lastmodified":1473879399,
+    "wof:lastmodified":1492497944,
     "wof:name":"Brouwershaven, Van",
-    "wof:parent_id":85798523,
+    "wof:parent_id":1108804019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

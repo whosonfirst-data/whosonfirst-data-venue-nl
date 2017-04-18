@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.097815,52.124073,5.097815,52.124073",
     "geom:latitude":52.124073,
     "geom:longitude":5.097815,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798231,
+        1108808877,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_1xLvp76kyOdYZ1gcBVlUou_52.124073_5.097815@1306269937"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bbebcb7390272765199b15ab03c5cb88",
+    "wof:geomhash":"d71d09ae0ea821c70c37b8df9781b365",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798231,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808877,
             "region_id":85687039,
             "venue_id":236416829
         }
     ],
     "wof:id":236416829,
-    "wof:lastmodified":1473879289,
+    "wof:lastmodified":1492493204,
     "wof:name":"Martino",
-    "wof:parent_id":85798231,
+    "wof:parent_id":1108808877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

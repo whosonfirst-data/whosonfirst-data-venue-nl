@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.872372,52.330624,4.872372,52.330624",
     "geom:latitude":52.330624,
     "geom:longitude":4.872372,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.joostvansanten.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108804091,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_6sr3O7iT7AcWBRJP4pwQ9e_52.330624_4.872372@1306269969"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2a4b78815850047d0d05af6e03c77af0",
+    "wof:geomhash":"fc61d3987e9bd90b5e477efa2cfe79c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108804091,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":286484845
         }
     ],
     "wof:id":286484845,
-    "wof:lastmodified":1473879135,
+    "wof:lastmodified":1492476041,
     "wof:name":"Joost Van Santen",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108804091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

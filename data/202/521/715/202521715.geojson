@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.299094,52.085632,4.299094,52.085632",
     "geom:latitude":52.085632,
     "geom:longitude":4.299094,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859619,
+        1108808221,
+        102191581,
+        1108808061,
         85633337,
         101752763,
+        1108808053,
         85687041
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_3T9MX7Ba9APydZkNK0A1n5_52.085632_4.299094@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"edc29cbe15e741035db532b677d65a7a",
+    "wof:geomhash":"1105d6d9d857ec61ff604dacd70f008b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808053,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859619,
+            "macrohood_id":1108808061,
+            "neighbourhood_id":1108808221,
             "region_id":85687041,
             "venue_id":202521715
         }
     ],
     "wof:id":202521715,
-    "wof:lastmodified":1473878850,
+    "wof:lastmodified":1492497631,
     "wof:name":"Leo",
-    "wof:parent_id":85859619,
+    "wof:parent_id":1108808221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

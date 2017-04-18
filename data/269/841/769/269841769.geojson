@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.891066,52.345074,4.891066,52.345074",
     "geom:latitude":52.345074,
     "geom:longitude":4.891066,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803985,
+        1108802897,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_4OXNnqb8pQZ2CiwJx9BTIH_52.345074_4.891066@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3cef399a7165723683b185fb0318363f",
+    "wof:geomhash":"6f7ec0cd43372d66c285236c111b4202",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "microhood_id":1108803985,
+            "neighbourhood_id":1108802897,
             "region_id":85687053,
             "venue_id":269841769
         }
     ],
     "wof:id":269841769,
-    "wof:lastmodified":1473879534,
+    "wof:lastmodified":1492495770,
     "wof:name":"Restaurant Sin Ta Wah",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803985,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

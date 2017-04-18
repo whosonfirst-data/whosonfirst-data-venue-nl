@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.795082,52.343418,4.795082,52.343418",
     "geom:latitude":52.343418,
     "geom:longitude":4.795082,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798207,
+        1108803689,
+        1108802857,
+        102191581,
         85633337,
-        101754789,
+        101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_1rttn5NGxNaSvRuFNmPOox_52.343418_4.795082@1306269987"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3fcf5f0913d6189d84fce4e9ecb56102",
+    "wof:geomhash":"2c57c395a3280b546cf87c32629d9c2f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754789,
-            "neighbourhood_id":85798207,
+            "locality_id":101751893,
+            "microhood_id":1108803689,
+            "neighbourhood_id":1108802857,
             "region_id":85687053,
             "venue_id":303763567
         }
     ],
     "wof:id":303763567,
-    "wof:lastmodified":1473879519,
+    "wof:lastmodified":1492473106,
     "wof:name":"The Association Drukwerkbemiddelaars",
-    "wof:parent_id":85798207,
+    "wof:parent_id":1108803689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

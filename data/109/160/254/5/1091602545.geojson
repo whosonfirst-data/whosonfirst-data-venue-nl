@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1297569275,51.9773864746,4.1297569275,51.9773864746",
     "geom:latitude":51.977386,
     "geom:longitude":4.129757,
@@ -23,19 +24,36 @@
     "sg:postcode":"3151 AW",
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85797461,
+        102191581,
+        85633337,
+        101751843,
+        1108805729,
+        85687041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08QP0vAqCeOERt4bvcAArI_51.977386_4.129757@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802672,
-    "wof:geomhash":"166aa2d8f1b368ba4de8d529d88fe381",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2fac8bd32f62876828c932711680083",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108805729,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797461,
+            "region_id":85687041,
+            "venue_id":1091602545
+        }
+    ],
     "wof:id":1091602545,
-    "wof:lastmodified":1473878581,
+    "wof:lastmodified":1492513005,
     "wof:name":"Cheeze Connection",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

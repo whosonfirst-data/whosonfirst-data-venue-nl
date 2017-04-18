@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.293336,52.022556,4.293336,52.022556",
     "geom:latitude":52.022556,
     "geom:longitude":4.293336,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859597,
+        1108808329,
+        102191581,
+        1108808069,
         85633337,
-        101754721,
+        101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0HZrkUOWw2bDiqN6UpUFOT_52.022556_4.293336@1306269925"
     },
     "wof:country":"NL",
-    "wof:geomhash":"53986cf8ffe8579695efc3e0581a4ab4",
+    "wof:geomhash":"bef60ddd396d0bd9d56437909c46f844",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754721,
-            "neighbourhood_id":85859597,
+            "locality_id":101752763,
+            "macrohood_id":1108808069,
+            "neighbourhood_id":1108808329,
             "region_id":85687041,
             "venue_id":219387677
         }
     ],
     "wof:id":219387677,
-    "wof:lastmodified":1473879077,
+    "wof:lastmodified":1492502336,
     "wof:name":"De Vroome Onderhoudsbedrijf",
-    "wof:parent_id":85859597,
+    "wof:parent_id":1108808329,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

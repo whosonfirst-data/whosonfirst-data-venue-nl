@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.921583,52.33712,4.921583,52.33712",
     "geom:latitude":52.33712,
     "geom:longitude":4.921583,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804033,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -45,21 +50,24 @@
         "sg:id":"SG_1GiUSZPGhwBrm1mSeHm1av_52.337120_4.921583@1306269949"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e094e2371013e632be041fead445892d",
+    "wof:geomhash":"56948b4684e69eea67ee3b48285e02e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804033,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":253397783
         }
     ],
     "wof:id":253397783,
-    "wof:lastmodified":1473879531,
+    "wof:lastmodified":1492490246,
     "wof:name":"Selling",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

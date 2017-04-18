@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.923565,52.342312,4.923565,52.342312",
     "geom:latitude":52.342312,
     "geom:longitude":4.923565,
@@ -25,9 +26,13 @@
     "sg:website":"http://www.idea-architecten.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803657,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +40,24 @@
         "sg:id":"SG_1qaJU1iRHljDLSxATEDICT_52.342312_4.923565@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"871ba1ad90da2912c96d1b1e00b41dad",
+    "wof:geomhash":"cda757ba4990b0f2d3d4a4bb82df3b6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803657,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":236333827
         }
     ],
     "wof:id":236333827,
-    "wof:lastmodified":1473879172,
+    "wof:lastmodified":1492493633,
     "wof:name":"Id\u00faa Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

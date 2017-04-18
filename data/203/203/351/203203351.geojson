@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.950268,52.398445,4.950268,52.398445",
     "geom:latitude":52.398445,
     "geom:longitude":4.950268,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108803639,
+        1108802873,
+        102191581,
+        1108802307,
         85633337,
         101751893,
+        1108802291,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1PhMYeegFV7Di2HGyVejI6_52.398445_4.950268@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"4db486522c11994a0563aeaf5abc13a1",
+    "wof:geomhash":"6da6e8ca92f1bcbbc632c9efc3acc4a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803639,
+            "neighbourhood_id":1108802873,
             "region_id":85687053,
             "venue_id":203203351
         }
     ],
     "wof:id":203203351,
-    "wof:lastmodified":1473879115,
+    "wof:lastmodified":1492480073,
     "wof:name":"W.J.A. Jacobs Stamrecht Bv",
-    "wof:parent_id":85797215,
+    "wof:parent_id":1108803639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

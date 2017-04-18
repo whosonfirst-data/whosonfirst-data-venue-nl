@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.553816,51.962952,4.553816,51.962952",
     "geom:latitude":51.962952,
     "geom:longitude":4.553816,
@@ -25,20 +26,35 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85798149,
+        102191581,
         85633337,
-        101752769,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73VZAc7dkPOnsAZWg9R9ZV_51.962952_4.553816@1306270001"
     },
     "wof:country":"NL",
-    "wof:geomhash":"a8d0c4cb87b3870e27e7ec8049a5b5c8",
+    "wof:geomhash":"b8f3ce3c8eea792349529951eee7c627",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85798149,
+            "region_id":85687041,
+            "venue_id":320720547
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101752769,
             "neighbourhood_id":85798149,
             "region_id":85687041,
@@ -46,7 +62,7 @@
         }
     ],
     "wof:id":320720547,
-    "wof:lastmodified":1473879574,
+    "wof:lastmodified":1492483639,
     "wof:name":"Hubo",
     "wof:parent_id":85798149,
     "wof:placetype":"venue",

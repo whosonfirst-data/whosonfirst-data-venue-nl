@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.982765,52.299953,4.982765,52.299953",
     "geom:latitude":52.299953,
     "geom:longitude":4.982765,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797111,
+        1108803463,
+        1108802809,
+        102191581,
         85633337,
-        101751895,
+        101751893,
+        1108802293,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_27x9hqFYfRLINdMIuN6g3Q_52.299953_4.982765@1306269913"
     },
     "wof:country":"NL",
-    "wof:geomhash":"92e1df77659e126182501d6bb46052ce",
+    "wof:geomhash":"8a08bdcebbd4e53c8a5c2e0896494629",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802293,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101751895,
-            "neighbourhood_id":85797111,
+            "locality_id":101751893,
+            "microhood_id":1108803463,
+            "neighbourhood_id":1108802809,
             "region_id":85687053,
             "venue_id":186492641
         }
     ],
     "wof:id":186492641,
-    "wof:lastmodified":1473879514,
+    "wof:lastmodified":1492509212,
     "wof:name":"Rover Reizigersver",
-    "wof:parent_id":85797111,
+    "wof:parent_id":1108803463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

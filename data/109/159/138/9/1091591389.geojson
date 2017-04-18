@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3145551682,51.5855941772,4.3145551682,51.5855941772",
     "geom:latitude":51.585594,
     "geom:longitude":4.314555,
@@ -24,17 +25,32 @@
     "sg:province":"Noord-Brabant",
     "sg:website":"http://www.maxxaqu.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474431,
+        85633337,
+        101839423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RianzFnudukMVHALhwjOW_51.585594_4.314555@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802016,
-    "wof:geomhash":"6438ec1e6abc50ef73e55f0db9609826",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5cb045db193d86fea85b4fa794d5a22a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474431,
+            "locality_id":101839423,
+            "region_id":85687035,
+            "venue_id":1091591389
+        }
+    ],
     "wof:id":1091591389,
-    "wof:lastmodified":1473878547,
+    "wof:lastmodified":1492509540,
     "wof:name":"Maxxaqu Services Vof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

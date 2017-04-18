@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.540076,51.921604,4.540076,51.921604",
     "geom:latitude":51.921604,
     "geom:longitude":4.540076,
@@ -25,31 +26,46 @@
     "sg:website":"http://www.borrie.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859923,
+        1108805861,
+        102191581,
         85633337,
-        101754669,
-        85687041
+        101751843,
+        1108805725,
+        85687041,
+        404474163,
+        101752769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iJgIBwMOeqkafk9h3JBO0_51.921604_4.540076@1306269971"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5747bcdacf58499477971b71848f74df",
+    "wof:geomhash":"b47c619aad0494b5bb91fd2f5aa663ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805725,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754669,
-            "neighbourhood_id":85859923,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805861,
+            "region_id":85687041,
+            "venue_id":286622869
+        },
+        {
+            "borough_id":1108805725,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474163,
+            "locality_id":101752769,
+            "neighbourhood_id":1108805861,
             "region_id":85687041,
             "venue_id":286622869
         }
     ],
     "wof:id":286622869,
-    "wof:lastmodified":1473879274,
+    "wof:lastmodified":1492476793,
     "wof:name":"Borrie & Co",
-    "wof:parent_id":85859923,
+    "wof:parent_id":1108805861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

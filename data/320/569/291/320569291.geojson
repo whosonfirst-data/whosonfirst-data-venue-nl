@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.296546,52.051933,4.296546,52.051933",
     "geom:latitude":52.051933,
     "geom:longitude":4.296546,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798031,
+        1108808297,
+        102191581,
+        1108833203,
         85633337,
-        101754743,
+        101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_7cXVszppLeOsiAu8Pk6SJ1_52.051933_4.296546@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"b283784ffd273be606c6b66616c554ec",
+    "wof:geomhash":"0e3e478feec617fe575c39e4f8b39bf3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798031,
+            "locality_id":101752763,
+            "macrohood_id":1108833203,
+            "neighbourhood_id":1108808297,
             "region_id":85687041,
             "venue_id":320569291
         }
     ],
     "wof:id":320569291,
-    "wof:lastmodified":1473879423,
+    "wof:lastmodified":1492482231,
     "wof:name":"P Vd Schraaf",
-    "wof:parent_id":85798031,
+    "wof:parent_id":1108808297,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

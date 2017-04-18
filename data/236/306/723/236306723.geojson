@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.943436,52.340652,4.943436,52.340652",
     "geom:latitude":52.340652,
     "geom:longitude":4.943436,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803871,
+        1108802539,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1OKsh68V6BglcpW9x4tiwV_52.340652_4.943436@1306269936"
     },
     "wof:country":"NL",
-    "wof:geomhash":"1b550394a519e6a275745d0be9118b7f",
+    "wof:geomhash":"f0a530d39526d8ec925fe3a06f9646e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803871,
+            "neighbourhood_id":1108802539,
             "region_id":85687053,
             "venue_id":236306723
         }
     ],
     "wof:id":236306723,
-    "wof:lastmodified":1473879085,
+    "wof:lastmodified":1492491527,
     "wof:name":"Diemer Apotheek Bv",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

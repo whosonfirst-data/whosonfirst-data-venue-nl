@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.857223,52.322861,4.857223,52.322861",
     "geom:latitude":52.322861,
     "geom:longitude":4.857223,
@@ -24,9 +25,13 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803485,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_5l46POhNYRFRKKpEKL8Udb_52.322861_4.857223@1306269998"
     },
     "wof:country":"NL",
-    "wof:geomhash":"ad636fd912be195551a90b9a29459e41",
+    "wof:geomhash":"672c3413c79bac7e6437b0dd12e4510a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803485,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":320457841
         }
     ],
     "wof:id":320457841,
-    "wof:lastmodified":1473879334,
+    "wof:lastmodified":1492482543,
     "wof:name":"Beek, Sieraadontwerper N C J Van",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

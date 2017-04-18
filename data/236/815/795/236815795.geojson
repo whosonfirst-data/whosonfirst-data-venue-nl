@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.29807,52.048569,4.29807,52.048569",
     "geom:latitude":52.048569,
     "geom:longitude":4.29807,
@@ -24,9 +25,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798031,
+        1108808301,
+        102191581,
+        1108833203,
         85633337,
-        101754743,
+        101752763,
+        1108808051,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0hlICsU37DJqvQUlavcO7F_52.048569_4.298070@1306269941"
     },
     "wof:country":"NL",
-    "wof:geomhash":"54638f93b84e75d0ee125ced1598c7b8",
+    "wof:geomhash":"fd208557f0297899a5aec118bd9b6570",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808051,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":101754743,
-            "neighbourhood_id":85798031,
+            "locality_id":101752763,
+            "macrohood_id":1108833203,
+            "neighbourhood_id":1108808301,
             "region_id":85687041,
             "venue_id":236815795
         }
     ],
     "wof:id":236815795,
-    "wof:lastmodified":1473879552,
+    "wof:lastmodified":1492493141,
     "wof:name":"Safety Drivers",
-    "wof:parent_id":85798031,
+    "wof:parent_id":1108808301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

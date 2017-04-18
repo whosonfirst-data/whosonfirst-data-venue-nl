@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.098756,52.091209,5.098756,52.091209",
     "geom:latitude":52.091209,
     "geom:longitude":5.098756,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797951,
+        1108808791,
+        102191581,
+        1108808651,
         85633337,
         101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_2jxoAWnoAjLUTDy0U8vDYT_52.091209_5.098756@1306269958"
     },
     "wof:country":"NL",
-    "wof:geomhash":"3e54482f71c4266899a9b235a314d945",
+    "wof:geomhash":"908e47209d1bebe38d6544f26188c233",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751827,
-            "neighbourhood_id":85797951,
+            "macrohood_id":1108808651,
+            "neighbourhood_id":1108808791,
             "region_id":85687039,
             "venue_id":269812063
         }
     ],
     "wof:id":269812063,
-    "wof:lastmodified":1473879497,
+    "wof:lastmodified":1492495275,
     "wof:name":"Cafetaria De Driehoek",
-    "wof:parent_id":85797951,
+    "wof:parent_id":1108808791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.917618,52.344284,4.917618,52.344284",
     "geom:latitude":52.344284,
     "geom:longitude":4.917618,
@@ -34,9 +35,13 @@
     "sg:website":"www.guccigroup.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804087,
+        1108802787,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +49,24 @@
         "sg:id":"SG_4MTJVvSnx9zVZrNTPWrLee_52.344284_4.917618@1306269964"
     },
     "wof:country":"NL",
-    "wof:geomhash":"76f5502b57b76ee483cc4214c14c9880",
+    "wof:geomhash":"fd4220ae1d06ab60580e64a81f592b3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804087,
+            "neighbourhood_id":1108802787,
             "region_id":85687053,
             "venue_id":270302521
         }
     ],
     "wof:id":270302521,
-    "wof:lastmodified":1473879064,
+    "wof:lastmodified":1492501375,
     "wof:name":"Gucci Group N.V.",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

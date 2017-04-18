@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.905218,52.345718,4.905218,52.345718",
     "geom:latitude":52.345718,
     "geom:longitude":4.905218,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804281,
+        1108802897,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_2lkbbaPP7s7EJr6Zxh1mSo_52.345718_4.905218@1306270002"
     },
     "wof:country":"NL",
-    "wof:geomhash":"d1c22a5c80151eb1649359c6d8c9c169",
+    "wof:geomhash":"31e6416d233e992eaebdc820ad51e5c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108804281,
+            "neighbourhood_id":1108802897,
             "region_id":85687053,
             "venue_id":320762121
         }
     ],
     "wof:id":320762121,
-    "wof:lastmodified":1473879625,
+    "wof:lastmodified":1492482549,
     "wof:name":"Fromagerie Maas-Kaas",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

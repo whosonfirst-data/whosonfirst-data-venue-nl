@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.85108,52.370281,4.85108,52.370281",
     "geom:latitude":52.370281,
     "geom:longitude":4.85108,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798223,
+        1108803503,
+        1108802931,
+        102191581,
         85633337,
         101751893,
+        1108802285,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_65nNc4mVuAxKsNRuqYBHQw_52.370281_4.851080@1306269915"
     },
     "wof:country":"NL",
-    "wof:geomhash":"68385ea3f613040f51955bdf37c2e0ab",
+    "wof:geomhash":"ca4876317a8a9bf844fd85506b4b78ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802285,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798223,
+            "microhood_id":1108803503,
+            "neighbourhood_id":1108802931,
             "region_id":85687053,
             "venue_id":202522801
         }
     ],
     "wof:id":202522801,
-    "wof:lastmodified":1473878874,
+    "wof:lastmodified":1492498211,
     "wof:name":"Panorama",
-    "wof:parent_id":85798223,
+    "wof:parent_id":1108803503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.929677,52.354141,4.929677,52.354141",
     "geom:latitude":52.354141,
     "geom:longitude":4.929677,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804165,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +48,24 @@
         "sg:id":"SG_2TIgBTrb3zSPfyINO3l9uV_52.354141_4.929677@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"2d50cef9b80a2aa87c98b299870434cd",
+    "wof:geomhash":"ec67295737e62c9bce9ab7c546e1a7c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804165,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":270109151
         }
     ],
     "wof:id":270109151,
-    "wof:lastmodified":1473878598,
+    "wof:lastmodified":1492501008,
     "wof:name":"Kral Super Photo Video Store",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

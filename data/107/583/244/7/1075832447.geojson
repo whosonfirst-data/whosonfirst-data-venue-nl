@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3109850883,52.0604133606,4.3109850883,52.0604133606",
     "geom:latitude":52.060413,
     "geom:longitude":4.310985,
@@ -24,12 +25,15 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859615,
+        1108808309,
         102191581,
-        404474179,
+        1108808103,
         85633337,
         101752763,
-        85687041
+        1108808049,
+        85687041,
+        404474251,
+        101754743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,22 +41,34 @@
     },
     "wof:country":"NL",
     "wof:created":1473799925,
-    "wof:geomhash":"6069c75ede70afe8cbdd9df56fb8e270",
+    "wof:geomhash":"adc93a878a5679244401979ce10fb5a0",
     "wof:hierarchy":[
         {
+            "borough_id":1108808049,
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474179,
             "locality_id":101752763,
-            "neighbourhood_id":85859615,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808309,
+            "region_id":85687041,
+            "venue_id":1075832447
+        },
+        {
+            "borough_id":1108808049,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474251,
+            "locality_id":101754743,
+            "macrohood_id":1108808103,
+            "neighbourhood_id":1108808309,
             "region_id":85687041,
             "venue_id":1075832447
         }
     ],
     "wof:id":1075832447,
-    "wof:lastmodified":1473879312,
+    "wof:lastmodified":1492485916,
     "wof:name":"Indoor Shooting Noordhaghe",
-    "wof:parent_id":85859615,
+    "wof:parent_id":1108808309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

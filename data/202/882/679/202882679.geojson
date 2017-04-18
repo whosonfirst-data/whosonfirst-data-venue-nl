@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.104482,52.124741,5.104482,52.124741",
     "geom:latitude":52.124741,
     "geom:longitude":5.104482,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798231,
+        1108808877,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_09lOrWnX2DN0gQW8x8jgxq_52.124741_5.104482@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"80ba9cc62af02f00fa8df91fc232e19e",
+    "wof:geomhash":"c4a9c6d5b939ed572dfd62da37a0b392",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798231,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808877,
             "region_id":85687039,
             "venue_id":202882679
         }
     ],
     "wof:id":202882679,
-    "wof:lastmodified":1473879363,
+    "wof:lastmodified":1492497823,
     "wof:name":"Siu",
-    "wof:parent_id":85798231,
+    "wof:parent_id":1108808877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

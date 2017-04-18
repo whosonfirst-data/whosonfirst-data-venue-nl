@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.832004,52.350571,4.832004,52.350571",
     "geom:latitude":52.350571,
     "geom:longitude":4.832004,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803813,
         85798403,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_3Zj2MbJurBPlsjB7GKfnJU_52.350571_4.832004@1306269960"
     },
     "wof:country":"NL",
-    "wof:geomhash":"074884d1b4707a46fe1864b43cb6beb6",
+    "wof:geomhash":"ff9322a0b80dd655aac209b8138e6363",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803813,
             "neighbourhood_id":85798403,
             "region_id":85687053,
             "venue_id":270004951
         }
     ],
     "wof:id":270004951,
-    "wof:lastmodified":1473878508,
+    "wof:lastmodified":1492501114,
     "wof:name":"Kda",
-    "wof:parent_id":85798403,
+    "wof:parent_id":1108803813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

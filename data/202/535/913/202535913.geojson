@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.914313,52.369545,4.914313,52.369545",
     "geom:latitude":52.369545,
     "geom:longitude":4.914313,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108804161,
+        1108802879,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +48,23 @@
         "sg:id":"SG_1fnjBC0XpAtaYi7a5B3HzG_52.369545_4.914313@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"813f7fb9c33592f33b043da81ec30185",
+    "wof:geomhash":"97759c07fa0d047015a19435e43b0b95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108804161,
+            "neighbourhood_id":1108802879,
             "region_id":85687053,
             "venue_id":202535913
         }
     ],
     "wof:id":202535913,
-    "wof:lastmodified":1473878905,
+    "wof:lastmodified":1492499178,
     "wof:name":"Videotheek De Hoogte",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108804161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

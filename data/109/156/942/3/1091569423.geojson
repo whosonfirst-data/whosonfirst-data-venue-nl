@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8793478012,51.8056335449,4.8793478012,51.8056335449",
     "geom:latitude":51.805634,
     "geom:longitude":4.879348,
@@ -24,17 +25,32 @@
     "sg:province":"North Brabant",
     "sg:website":"http://www.vrieswerkendam.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474453,
+        85633337,
+        101837641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UqXKH9KZYHthMIca2mXMP_51.805634_4.879348@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800427,
-    "wof:geomhash":"c189fd9188e303c4e257557ca676dbba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6576fec2d9f29e3fd657f8127c921d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474453,
+            "locality_id":101837641,
+            "region_id":85687035,
+            "venue_id":1091569423
+        }
+    ],
     "wof:id":1091569423,
-    "wof:lastmodified":1473878581,
+    "wof:lastmodified":1492510844,
     "wof:name":"Vries Werkendam Bv, De",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

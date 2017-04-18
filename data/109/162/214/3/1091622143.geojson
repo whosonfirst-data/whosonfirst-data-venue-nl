@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1317811012,51.9767990112,4.1317811012,51.9767990112",
     "geom:latitude":51.976799,
     "geom:longitude":4.131781,
@@ -23,19 +24,36 @@
     "sg:postcode":"3151 AH",
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85797461,
+        102191581,
+        85633337,
+        101751843,
+        1108805729,
+        85687041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Fy050zmGzHL3lPtoTOMKY_51.976799_4.131781@1306270019"
     },
     "wof:country":"NL",
     "wof:created":1473804040,
-    "wof:geomhash":"07ebbb01edb0e9d6ee68e3d86bc5df2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"696245427ba60b2ab67916ec996b6f0f",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108805729,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":85797461,
+            "region_id":85687041,
+            "venue_id":1091622143
+        }
+    ],
     "wof:id":1091622143,
-    "wof:lastmodified":1473878578,
+    "wof:lastmodified":1492512012,
     "wof:name":"Concordia",
-    "wof:parent_id":-1,
+    "wof:parent_id":85797461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

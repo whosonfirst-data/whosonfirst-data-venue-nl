@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.2236175537,44.5808181763,-91.2236175537,44.5808181763",
     "geom:latitude":44.580818,
     "geom:longitude":-91.223618,
@@ -23,17 +24,34 @@
     "sg:postcode":"5341 EH",
     "sg:province":"Noord-Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688517,
+        102191575,
+        404493979,
+        85633793,
+        101733225,
+        102081731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70QO0e1lSSGEzKRUwkOcNM_44.580818_-91.223618@1306270013"
     },
     "wof:country":"NL",
     "wof:created":1473801359,
-    "wof:geomhash":"3cb746c2b235a5399f00dba35aacb872",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de12dd6ecee69ec17675e38bc499c95a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081731,
+            "localadmin_id":404493979,
+            "locality_id":101733225,
+            "region_id":85688517,
+            "venue_id":1091583429
+        }
+    ],
     "wof:id":1091583429,
-    "wof:lastmodified":1473878665,
+    "wof:lastmodified":1492511947,
     "wof:name":"Content",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.235594,52.046078,4.235594,52.046078",
     "geom:latitude":52.046078,
     "geom:longitude":4.235594,
@@ -24,9 +25,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859581,
+        85797849,
+        102191581,
+        1108808101,
         85633337,
         101752763,
+        1108808039,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_6QVBuO5BFm8p9aZyzi96H7_52.046078_4.235594@1306269979"
     },
     "wof:country":"NL",
-    "wof:geomhash":"c923a3db567007f24c7ee996ab6f1825",
+    "wof:geomhash":"c06c5c6a5f91b552aba85d7c9477ee4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808039,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85859581,
+            "macrohood_id":1108808101,
+            "neighbourhood_id":85797849,
             "region_id":85687041,
             "venue_id":287305261
         }
     ],
     "wof:id":287305261,
-    "wof:lastmodified":1473879200,
+    "wof:lastmodified":1492514158,
     "wof:name":"Eumar Administraties",
-    "wof:parent_id":85859581,
+    "wof:parent_id":85797849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

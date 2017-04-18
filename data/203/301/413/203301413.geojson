@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.938315,52.393509,4.938315,52.393509",
     "geom:latitude":52.393509,
     "geom:longitude":4.938315,
@@ -24,40 +25,38 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797215,
+        1108803437,
+        1108802927,
+        102191581,
+        1108802307,
         85633337,
         101751893,
-        85687053,
-        85798067
+        1108802291,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LsPCPkeyjipuOIUVDPboP_52.393509_4.938315@1306269923"
     },
     "wof:country":"NL",
-    "wof:geomhash":"0565464196e965b4ac73c363f478832d",
+    "wof:geomhash":"a7fce3175d5e4ae27f87e6baf8363175",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802291,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797215,
-            "region_id":85687053,
-            "venue_id":203301413
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633337,
-            "locality_id":101751893,
-            "neighbourhood_id":85798067,
+            "macrohood_id":1108802307,
+            "microhood_id":1108803437,
+            "neighbourhood_id":1108802927,
             "region_id":85687053,
             "venue_id":203301413
         }
     ],
     "wof:id":203301413,
-    "wof:lastmodified":1473879219,
+    "wof:lastmodified":1492480984,
     "wof:name":"Roap",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108803437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

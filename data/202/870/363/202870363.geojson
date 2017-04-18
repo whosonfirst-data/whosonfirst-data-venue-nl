@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.491374,51.43639,5.491374,51.43639",
     "geom:latitude":51.43639,
     "geom:longitude":5.491374,
@@ -24,40 +25,41 @@
     "sg:province":"Noord-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797291,
         85633337,
-        101751819,
+        85798505,
         85687035,
-        85798505
+        85797291,
+        102191581,
+        404474375,
+        101751819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06Oqo7V7L2SuNrc7hwL1Fm_51.436390_5.491374@1306269919"
     },
     "wof:country":"NL",
-    "wof:geomhash":"878d3e6eb07c959a6a2e23f2713367f6",
+    "wof:geomhash":"c7aec0be34b32b78bd94bac26c3a8365",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633337,
-            "locality_id":101751819,
-            "neighbourhood_id":85797291,
+            "neighbourhood_id":85798505,
             "region_id":85687035,
             "venue_id":202870363
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798505,
+            "localadmin_id":404474375,
+            "locality_id":101751819,
+            "neighbourhood_id":85797291,
             "region_id":85687035,
             "venue_id":202870363
         }
     ],
     "wof:id":202870363,
-    "wof:lastmodified":1473879366,
+    "wof:lastmodified":1492497020,
     "wof:name":"I+Punt",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

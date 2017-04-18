@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.882349968,51.2292556763,5.882349968,51.2292556763",
     "geom:latitude":51.229256,
     "geom:longitude":5.88235,
@@ -24,17 +25,32 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.mexxan.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474557,
+        85633337,
+        101809487
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BzGGOMnT9aSIAkEDixPiS_51.229256_5.882350@1306270018"
     },
     "wof:country":"NL",
     "wof:created":1473803780,
-    "wof:geomhash":"39ecdb69291301bfce9f11e0adf11d4c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"210872da2ab2828759bb254cd4609703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474557,
+            "locality_id":101809487,
+            "region_id":85687033,
+            "venue_id":1091617427
+        }
+    ],
     "wof:id":1091617427,
-    "wof:lastmodified":1473878917,
+    "wof:lastmodified":1492510724,
     "wof:name":"Mexxan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

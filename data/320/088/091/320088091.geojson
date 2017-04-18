@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885932,52.378986,4.885932,52.378986",
     "geom:latitude":52.378986,
     "geom:longitude":4.885932,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803955,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +46,23 @@
         "sg:id":"SG_0fX1mvqnrZEIJ3YxeEv1Z1_52.378986_4.885932@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"e072fefaad4112ed5d64b1ed07f37f44",
+    "wof:geomhash":"9f070a07657daaae9358be330f96ad3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803955,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":320088091
         }
     ],
     "wof:id":320088091,
-    "wof:lastmodified":1473878782,
+    "wof:lastmodified":1492483529,
     "wof:name":"Liet, I Van Der",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

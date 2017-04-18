@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.279294,52.103611,4.279294,52.103611",
     "geom:latitude":52.103611,
     "geom:longitude":4.279294,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798379,
+        1108808167,
+        102191581,
+        1108833207,
         85633337,
+        101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -41,21 +46,23 @@
         "sg:id":"SG_0ZnyP6xRZ1e6EOK7KwxahM_52.103611_4.279294@1306270000"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5fb8efca16d41433fd1bd21f16a910ab",
+    "wof:geomhash":"9fba12e0a944ed759ec226e1923c2fea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798379,
+            "locality_id":101752763,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808167,
             "region_id":85687041,
             "venue_id":320576023
         }
     ],
     "wof:id":320576023,
-    "wof:lastmodified":1473879416,
+    "wof:lastmodified":1492484480,
     "wof:name":"Van Binsbergen Groente- En Fruitspeciali",
-    "wof:parent_id":85798379,
+    "wof:parent_id":1108808167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.918362,52.357357,4.918362,52.357357",
     "geom:latitude":52.357357,
     "geom:longitude":4.918362,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803833,
+        1108802881,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -44,21 +49,24 @@
         "sg:id":"SG_0u8l9EIxkj6czvYflj5rwM_52.357357_4.918362@1306269916"
     },
     "wof:country":"NL",
-    "wof:geomhash":"74bf2a83673a81ba2f6cf964bd498637",
+    "wof:geomhash":"57c29c255b3b63b714770cdec95508ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108803833,
+            "neighbourhood_id":1108802881,
             "region_id":85687053,
             "venue_id":202542891
         }
     ],
     "wof:id":202542891,
-    "wof:lastmodified":1473878895,
+    "wof:lastmodified":1492498616,
     "wof:name":"Videotheek/Filmverhuur De Beuk",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

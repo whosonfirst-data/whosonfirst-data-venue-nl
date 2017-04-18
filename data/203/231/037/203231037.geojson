@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.914033,52.362633,4.914033,52.362633",
     "geom:latitude":52.362633,
     "geom:longitude":4.914033,
@@ -24,9 +25,12 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108803763,
+        1108802949,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_0l3QZYZgaWRCRgfMYS3TPR_52.362633_4.914033@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"bae44d3e5edcf795e42fd28062a9618a",
+    "wof:geomhash":"cfb130fd14854fd4faf51b21bcf2b84c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "microhood_id":1108803763,
+            "neighbourhood_id":1108802949,
             "region_id":85687053,
             "venue_id":203231037
         }
     ],
     "wof:id":203231037,
-    "wof:lastmodified":1473879180,
+    "wof:lastmodified":1492480867,
     "wof:name":"Moving Image",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108803763,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

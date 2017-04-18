@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.269309,52.09594,4.269309,52.09594",
     "geom:latitude":52.09594,
     "geom:longitude":4.269309,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798455,
+        1108808161,
+        102191581,
+        1108833207,
         85633337,
         101752763,
+        1108808041,
         85687041
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_1MdSlUkRHCKmMnVHgr01Vp_52.095940_4.269309@1306269980"
     },
     "wof:country":"NL",
-    "wof:geomhash":"54354a396e478e155c853fee18e3f152",
+    "wof:geomhash":"2fd4bf1018554f77cabf2d6a74f62ed2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808041,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101752763,
-            "neighbourhood_id":85798455,
+            "macrohood_id":1108833207,
+            "neighbourhood_id":1108808161,
             "region_id":85687041,
             "venue_id":303118901
         }
     ],
     "wof:id":303118901,
-    "wof:lastmodified":1473878708,
+    "wof:lastmodified":1492472528,
     "wof:name":"Johns Vijfvinkel",
-    "wof:parent_id":85798455,
+    "wof:parent_id":1108808161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

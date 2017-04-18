@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.873632,52.356659,4.873632,52.356659",
     "geom:latitude":52.356659,
     "geom:longitude":4.873632,
@@ -24,9 +25,12 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797363,
+        1108803475,
+        1108802861,
+        102191581,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +38,23 @@
         "sg:id":"SG_7DXm5bMRGguRaQZvp8dtf6_52.356659_4.873632@1306269950"
     },
     "wof:country":"NL",
-    "wof:geomhash":"dca1053f582b2be8b0db615736eddbd3",
+    "wof:geomhash":"47b98edf8a2982226cadff8a54fa51db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797363,
+            "microhood_id":1108803475,
+            "neighbourhood_id":1108802861,
             "region_id":85687053,
             "venue_id":253475465
         }
     ],
     "wof:id":253475465,
-    "wof:lastmodified":1473879613,
+    "wof:lastmodified":1492490008,
     "wof:name":"Medisch Centrum Amsterdam",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

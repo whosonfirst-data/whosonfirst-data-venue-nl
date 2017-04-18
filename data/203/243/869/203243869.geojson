@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.92977,52.354134,4.92977,52.354134",
     "geom:latitude":52.354134,
     "geom:longitude":4.92977,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798627,
+        1108804165,
+        1108802805,
+        102191581,
+        1108802305,
         85633337,
         101751893,
+        1108802289,
         85687053
     ],
     "wof:breaches":[],
@@ -42,21 +47,24 @@
         "sg:id":"SG_7PO89NzoQxZOlbKY7AtenQ_52.354134_4.929770@1306269922"
     },
     "wof:country":"NL",
-    "wof:geomhash":"57d75f68320e7b7436a3a5612054410d",
+    "wof:geomhash":"95911032c46a53580d28e2c749cbf9a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802289,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85798627,
+            "macrohood_id":1108802305,
+            "microhood_id":1108804165,
+            "neighbourhood_id":1108802805,
             "region_id":85687053,
             "venue_id":203243869
         }
     ],
     "wof:id":203243869,
-    "wof:lastmodified":1473879218,
+    "wof:lastmodified":1492480191,
     "wof:name":"Braan, J",
-    "wof:parent_id":85798627,
+    "wof:parent_id":1108804165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

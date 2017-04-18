@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.332175,51.850918,4.332175,51.850918",
     "geom:latitude":51.850918,
     "geom:longitude":4.332175,
@@ -24,10 +25,11 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798011,
+        85687041,
+        102191581,
+        404474261,
         85633337,
-        101751847,
-        85687041
+        101751847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,18 +39,18 @@
     "wof:geomhash":"1730f65fa63225851dfada7062c40b5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474261,
             "locality_id":101751847,
-            "neighbourhood_id":85798011,
             "region_id":85687041,
             "venue_id":253298663
         }
     ],
     "wof:id":253298663,
-    "wof:lastmodified":1473879383,
+    "wof:lastmodified":1491930093,
     "wof:name":"Meubelhome Spijkenisse Bv",
-    "wof:parent_id":85798011,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

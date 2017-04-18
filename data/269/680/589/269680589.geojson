@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.86571,52.328232,4.86571,52.328232",
     "geom:latitude":52.328232,
     "geom:longitude":4.86571,
@@ -24,9 +25,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797223,
+        1108803485,
+        1108802551,
+        102191581,
+        1108802301,
         85633337,
         101751893,
+        1108802281,
         85687053
     ],
     "wof:breaches":[],
@@ -34,21 +39,24 @@
         "sg:id":"SG_1WE0VvlG83unWKsR2hy4YM_52.328232_4.865710@1306269956"
     },
     "wof:country":"NL",
-    "wof:geomhash":"659dd38c28c800a1bc9ae259ba66a801",
+    "wof:geomhash":"99fc73876cf441790115d46f0608565e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802281,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "neighbourhood_id":85797223,
+            "macrohood_id":1108802301,
+            "microhood_id":1108803485,
+            "neighbourhood_id":1108802551,
             "region_id":85687053,
             "venue_id":269680589
         }
     ],
     "wof:id":269680589,
-    "wof:lastmodified":1473879277,
+    "wof:lastmodified":1492496185,
     "wof:name":"Hill And Knowlton Nederland Bv",
-    "wof:parent_id":85797223,
+    "wof:parent_id":1108803485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

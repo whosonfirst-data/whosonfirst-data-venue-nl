@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1601052284,52.7258415222,6.1601052284,52.7258415222",
     "geom:latitude":52.725842,
     "geom:longitude":6.160105,
@@ -24,17 +25,32 @@
     "sg:province":"Drenthe",
     "sg:website":"http://www.unknownmedia.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473813,
+        85633337,
+        101807283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6A8Reb46bRIhfIZU7vHCUK_52.725842_6.160105@1306270012"
     },
     "wof:country":"NL",
     "wof:created":1473800829,
-    "wof:geomhash":"2210e31e485afe72acd12f640888a6a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"776a9785bc32ee233d88b0882b54ccbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473813,
+            "locality_id":101807283,
+            "region_id":85687051,
+            "venue_id":1091575555
+        }
+    ],
     "wof:id":1091575555,
-    "wof:lastmodified":1473878890,
+    "wof:lastmodified":1492511399,
     "wof:name":"Unknown Media",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

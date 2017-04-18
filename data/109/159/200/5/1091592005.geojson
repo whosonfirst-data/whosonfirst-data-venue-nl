@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7625169754,52.8027801514,4.7625169754,52.8027801514",
     "geom:latitude":52.80278,
     "geom:longitude":4.762517,
@@ -24,17 +25,32 @@
     "sg:province":"North Holland",
     "sg:website":"http://www.wtbnetwerk.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687053,
+        102191581,
+        404474137,
+        85633337,
+        101807381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2w2BJ1IYLNar3aoXNyBUGV_52.802780_4.762517@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802047,
-    "wof:geomhash":"cfb9977f4b8d51b5a6f1ceb2db0790cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f64e00f24112a841147c5e03a26e0cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474137,
+            "locality_id":101807381,
+            "region_id":85687053,
+            "venue_id":1091592005
+        }
+    ],
     "wof:id":1091592005,
-    "wof:lastmodified":1473878580,
+    "wof:lastmodified":1492509504,
     "wof:name":"Wtb Netwerk Nl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

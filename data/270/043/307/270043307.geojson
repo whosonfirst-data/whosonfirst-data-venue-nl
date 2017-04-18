@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.105355,52.113457,5.105355,52.113457",
     "geom:latitude":52.113457,
     "geom:longitude":5.105355,
@@ -24,8 +25,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798227,
+        1108808895,
+        102191581,
+        1108832365,
         85633337,
+        101751827,
+        1108808671,
         85687039
     ],
     "wof:breaches":[],
@@ -33,21 +38,23 @@
         "sg:id":"SG_3mz83mBHSVy5uo2xbJN1Nr_52.113457_5.105355@1306269961"
     },
     "wof:country":"NL",
-    "wof:geomhash":"5543ab2e98b2d3e666afd150a1df702c",
+    "wof:geomhash":"88ca240f15a115324c9201041c6db89a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108808671,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85798227,
+            "locality_id":101751827,
+            "macrohood_id":1108832365,
+            "neighbourhood_id":1108808895,
             "region_id":85687039,
             "venue_id":270043307
         }
     ],
     "wof:id":270043307,
-    "wof:lastmodified":1473878491,
+    "wof:lastmodified":1492501433,
     "wof:name":"Family Fitness",
-    "wof:parent_id":85798227,
+    "wof:parent_id":1108808895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

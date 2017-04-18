@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0861229897,52.0840377808,5.0861229897,52.0840377808",
     "geom:latitude":52.084038,
     "geom:longitude":5.086123,
@@ -24,8 +25,11 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         85798153,
+        102191581,
+        85633337,
+        101751827,
+        1108808675,
         85687039
     ],
     "wof:breaches":[],
@@ -34,17 +38,20 @@
     },
     "wof:country":"NL",
     "wof:created":1473798704,
-    "wof:geomhash":"ff7a2aef67f558a92e411b5c768b1129",
+    "wof:geomhash":"1215bea780185ff9b4d614306908f912",
     "wof:hierarchy":[
         {
+            "borough_id":1108808675,
+            "continent_id":102191581,
             "country_id":85633337,
+            "locality_id":101751827,
             "neighbourhood_id":85798153,
             "region_id":85687039,
             "venue_id":1075810837
         }
     ],
     "wof:id":1075810837,
-    "wof:lastmodified":1473878774,
+    "wof:lastmodified":1492486296,
     "wof:name":"Stuyt Projekten",
     "wof:parent_id":85798153,
     "wof:placetype":"venue",

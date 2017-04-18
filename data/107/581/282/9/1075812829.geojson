@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1043281555,51.987033844,4.1043281555,51.987033844",
     "geom:latitude":51.987034,
     "geom:longitude":4.104328,
@@ -23,19 +24,36 @@
     "sg:postcode":"3151 HW",
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108805869,
+        102191581,
+        85633337,
+        101751843,
+        1108805729,
+        85687041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ly2y4OIG03rZpuVO4fRdm_51.987034_4.104328@1306270001"
     },
     "wof:country":"NL",
     "wof:created":1473798807,
-    "wof:geomhash":"a28cbec4439145ba826557fc4f6950c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"761255cc3f05bdc1edcb323c98731b11",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108805729,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805869,
+            "region_id":85687041,
+            "venue_id":1075812829
+        }
+    ],
     "wof:id":1075812829,
-    "wof:lastmodified":1473878883,
+    "wof:lastmodified":1492486245,
     "wof:name":"Royal Beachclub",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108805869,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

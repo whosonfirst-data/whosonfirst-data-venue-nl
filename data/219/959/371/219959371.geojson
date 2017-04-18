@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.608957,51.935993,4.608957,51.935993",
     "geom:latitude":51.935993,
     "geom:longitude":4.608957,
@@ -25,40 +26,44 @@
     "sg:website":"http://www.westhuis.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859931,
-        85633337,
-        85687041,
         85797247,
-        101754669
+        102191581,
+        404474163,
+        85633337,
+        101754669,
+        85687041,
+        85859931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4D7TPNT5AeVyMI3foWod8L_51.935993_4.608957@1306269930"
     },
     "wof:country":"NL",
-    "wof:geomhash":"62012163c5aa77fab262e071c25e7a79",
+    "wof:geomhash":"61c5f0c29485ac7175141fb4e3b124cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85859931,
+            "localadmin_id":404474163,
+            "locality_id":101754669,
+            "neighbourhood_id":85797247,
             "region_id":85687041,
             "venue_id":219959371
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474163,
             "locality_id":101754669,
-            "neighbourhood_id":85797247,
+            "neighbourhood_id":85859931,
             "region_id":85687041,
             "venue_id":219959371
         }
     ],
     "wof:id":219959371,
-    "wof:lastmodified":1473879738,
+    "wof:lastmodified":1492503412,
     "wof:name":"Westhuis",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

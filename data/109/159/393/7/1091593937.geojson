@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.7239489555,52.665096283,6.7239489555,52.665096283",
     "geom:latitude":52.665096,
     "geom:longitude":6.723949,
@@ -24,17 +25,32 @@
     "sg:province":"Provincie Drenthe",
     "sg:website":"http://www.petstra.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687051,
+        102191581,
+        404473807,
+        85633337,
+        101807741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uLDhBOsPZGx3nUunDSx2O_52.665096_6.723949@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802151,
-    "wof:geomhash":"7e6000c0246bdc666be6782b98cb7df2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e5086be4363aa8e57b0580f3967cc7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473807,
+            "locality_id":101807741,
+            "region_id":85687051,
+            "venue_id":1091593937
+        }
+    ],
     "wof:id":1091593937,
-    "wof:lastmodified":1473878679,
+    "wof:lastmodified":1492509682,
     "wof:name":"Petstra Caravaning-Ski",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

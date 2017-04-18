@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1370830536,51.6832313538,5.1370830536,51.6832313538",
     "geom:latitude":51.683231,
     "geom:longitude":5.137083,
@@ -23,17 +24,32 @@
     "sg:postcode":"5151 MP",
     "sg:province":"North Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687035,
+        102191581,
+        404474395,
+        85633337,
+        101839349
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PcQ405m5DHfbQrpJkIYAX_51.683231_5.137083@1306270016"
     },
     "wof:country":"NL",
     "wof:created":1473802549,
-    "wof:geomhash":"1f186cfaccd41460d7440c58552709cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c228dd8e3a8ab515db83915be4053545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474395,
+            "locality_id":101839349,
+            "region_id":85687035,
+            "venue_id":1091600527
+        }
+    ],
     "wof:id":1091600527,
-    "wof:lastmodified":1473878495,
+    "wof:lastmodified":1492512742,
     "wof:name":"Verschuren Drunen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

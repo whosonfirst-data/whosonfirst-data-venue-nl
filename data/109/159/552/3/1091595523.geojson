@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.5259242058,52.1232185364,6.5259242058,52.1232185364",
     "geom:latitude":52.123219,
     "geom:longitude":6.525924,
@@ -24,17 +25,32 @@
     "sg:province":"Gelderland",
     "sg:website":"http://www.woonklavier.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687043,
+        102191581,
+        404474671,
+        85633337,
+        101807061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qWJ6acl0xpc9EkwxCAS3h_52.123219_6.525924@1306270015"
     },
     "wof:country":"NL",
     "wof:created":1473802262,
-    "wof:geomhash":"2ab2abcf8c331a7c7150825168a0cc58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d98e4d0a36887866e9473fabb4c1695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474671,
+            "locality_id":101807061,
+            "region_id":85687043,
+            "venue_id":1091595523
+        }
+    ],
     "wof:id":1091595523,
-    "wof:lastmodified":1473878777,
+    "wof:lastmodified":1492509690,
     "wof:name":"Woonklavier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

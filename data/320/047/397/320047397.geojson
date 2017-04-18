@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88194,52.36615,4.88194,52.36615",
     "geom:latitude":52.36615,
     "geom:longitude":4.88194,
@@ -25,9 +26,12 @@
     "sg:website":"http://www.donkersloot.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803925,
         85797363,
+        102191581,
         85633337,
         101751893,
+        1108802283,
         85687053
     ],
     "wof:breaches":[],
@@ -35,21 +39,23 @@
         "sg:id":"SG_6KUgNGTMWLHDpW2GLfj7QS_52.366150_4.881940@1306269994"
     },
     "wof:country":"NL",
-    "wof:geomhash":"7a9c755fef6a12016c0ebc7d3fe25581",
+    "wof:geomhash":"8a6dd50a62bf30879ca0bedd6851cfc2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802283,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803925,
             "neighbourhood_id":85797363,
             "region_id":85687053,
             "venue_id":320047397
         }
     ],
     "wof:id":320047397,
-    "wof:lastmodified":1473878596,
+    "wof:lastmodified":1492483511,
     "wof:name":"Donkersloot The Gallery",
-    "wof:parent_id":85797363,
+    "wof:parent_id":1108803925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

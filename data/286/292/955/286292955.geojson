@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.797522,52.376884,4.797522,52.376884",
     "geom:latitude":52.376884,
     "geom:longitude":4.797522,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108803619,
         85797579,
+        102191581,
         85633337,
         101751893,
+        1108802279,
         85687053
     ],
     "wof:breaches":[],
@@ -43,21 +47,23 @@
         "sg:id":"SG_5BpA90mwdv0dzrTCudWPck_52.376884_4.797522@1306269967"
     },
     "wof:country":"NL",
-    "wof:geomhash":"23aa2f113328f73bbe42d5175f2da08e",
+    "wof:geomhash":"050a360b6b41a73afc6b798b4b5433e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108802279,
+            "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
+            "microhood_id":1108803619,
             "neighbourhood_id":85797579,
             "region_id":85687053,
             "venue_id":286292955
         }
     ],
     "wof:id":286292955,
-    "wof:lastmodified":1473878657,
+    "wof:lastmodified":1492475951,
     "wof:name":"Openbare Basisschool Goeman Borgesius",
-    "wof:parent_id":85797579,
+    "wof:parent_id":1108803619,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

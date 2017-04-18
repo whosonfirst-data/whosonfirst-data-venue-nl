@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8143439293,52.9662895203,5.8143439293,52.9662895203",
     "geom:latitude":52.96629,
     "geom:longitude":5.814344,
@@ -24,17 +25,32 @@
     "sg:province":"Provincie Friesland",
     "sg:website":"http://www.muurling.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687055,
+        102191581,
+        404473745,
+        85633337,
+        101806179
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nsIkesW5T6UOWWbUX060I_52.966290_5.814344@1306269920"
     },
     "wof:country":"NL",
     "wof:created":1473798494,
-    "wof:geomhash":"f3f668dc7ca1ac8b7f103902b49d7365",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4db9d8dbf55df256f2ede31b535cea3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473745,
+            "locality_id":101806179,
+            "region_id":85687055,
+            "venue_id":1075807009
+        }
+    ],
     "wof:id":1075807009,
-    "wof:lastmodified":1473878517,
+    "wof:lastmodified":1492485998,
     "wof:name":"Muurling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

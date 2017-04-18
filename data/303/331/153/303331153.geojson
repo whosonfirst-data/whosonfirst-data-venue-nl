@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.495949,51.956608,4.495949,51.956608",
     "geom:latitude":51.956608,
     "geom:longitude":4.495949,
@@ -25,8 +26,12 @@
     "sg:website":"http://www.dungelmann-schoenen.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797707,
+        1108805791,
+        102191581,
+        1108805981,
         85633337,
+        101751843,
+        1108805717,
         85687041
     ],
     "wof:breaches":[],
@@ -34,21 +39,23 @@
         "sg:id":"SG_2iG5gDOY22ntx2PlT8rDeK_51.956608_4.495949@1306269982"
     },
     "wof:country":"NL",
-    "wof:geomhash":"fd498f1c94c50fb5ea3747764df4b9ad",
+    "wof:geomhash":"9fcafbc5d183b7bf8b9d0da6ace913f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1108805717,
+            "continent_id":102191581,
             "country_id":85633337,
-            "locality_id":-1,
-            "neighbourhood_id":85797707,
+            "locality_id":101751843,
+            "macrohood_id":1108805981,
+            "neighbourhood_id":1108805791,
             "region_id":85687041,
             "venue_id":303331153
         }
     ],
     "wof:id":303331153,
-    "wof:lastmodified":1473879114,
+    "wof:lastmodified":1492473703,
     "wof:name":"Dungelmann",
-    "wof:parent_id":85797707,
+    "wof:parent_id":1108805791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2555379868,52.0147628784,4.2555379868,52.0147628784",
     "geom:latitude":52.014763,
     "geom:longitude":4.255538,
@@ -24,9 +25,11 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474667,
         85633337,
-        85859575,
-        85687041
+        101807041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +37,21 @@
     },
     "wof:country":"NL",
     "wof:created":1473804460,
-    "wof:geomhash":"0c0c2ae413daa0213297e0afa044c860",
+    "wof:geomhash":"85d66c01dafd349c24dbfa21c0124661",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85859575,
+            "localadmin_id":404474667,
+            "locality_id":101807041,
             "region_id":85687041,
             "venue_id":1091628561
         }
     ],
     "wof:id":1091628561,
-    "wof:lastmodified":1473879055,
+    "wof:lastmodified":1492512305,
     "wof:name":"Hair - Fashion - Kwintsheul",
-    "wof:parent_id":85859575,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],
