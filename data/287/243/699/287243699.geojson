@@ -15,6 +15,7 @@
     "geom:longitude":6.165492,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rijksweg 88",
     "sg:city":"Velden",
     "sg:classifiers":[],
@@ -24,18 +25,48 @@
     "sg:postcode":"5941 AG",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85798541,
+        102191581,
+        1158818263,
+        404474525,
+        85633337,
+        101839287,
+        85687033,
+        1158806909,
+        101809597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gCZSu5rgZwns0EC4I19Mf_51.414883_6.165492@1306269978"
     },
     "wof:country":"NL",
     "wof:geomhash":"044a8b1abf950092fe11769346f984dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":287243699
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101809597,
+            "neighbourhood_id":1158806909,
+            "region_id":85687033,
+            "venue_id":287243699
+        }
+    ],
     "wof:id":287243699,
-    "wof:lastmodified":1492513542,
+    "wof:lastmodified":1513709428,
     "wof:name":"Administratiekantoor Beurskens",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

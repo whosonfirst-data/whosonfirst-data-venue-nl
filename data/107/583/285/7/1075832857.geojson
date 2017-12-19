@@ -15,6 +15,7 @@
     "geom:longitude":5.822084,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Amerikaplein 8",
     "sg:city":"Margraten",
     "sg:classifiers":[],
@@ -24,7 +25,16 @@
     "sg:postcode":"6269 DA",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158807839,
+        102191581,
+        1158805871,
+        85633337,
+        101810579,
+        85687033,
+        85797779,
+        101810577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yZO9EViK13MWricVGsA52_50.820271_5.822084@1306270010"
@@ -32,11 +42,30 @@
     "wof:country":"NL",
     "wof:created":1473799953,
     "wof:geomhash":"2c25e1c235ef53850e8b023addce6422",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810579,
+            "neighbourhood_id":1158807839,
+            "region_id":85687033,
+            "venue_id":1075832857
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":85797779,
+            "region_id":85687033,
+            "venue_id":1075832857
+        }
+    ],
     "wof:id":1075832857,
-    "wof:lastmodified":1492485511,
+    "wof:lastmodified":1513674060,
     "wof:name":"Hartmans-Van Oppen Vof",
-    "wof:parent_id":85797779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

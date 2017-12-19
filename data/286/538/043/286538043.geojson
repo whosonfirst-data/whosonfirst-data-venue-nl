@@ -15,6 +15,7 @@
     "geom:longitude":5.688294,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Papenstraat 4",
     "sg:city":"Maastricht",
     "sg:classifiers":[],
@@ -25,13 +26,12 @@
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        85797109,
         85687033,
-        85798687,
         102191581,
-        404474495,
-        101751803
+        1158818141,
+        85633337,
+        101751803,
+        1158806325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,25 +41,19 @@
     "wof:geomhash":"9edfdf19dbe4247a414ef87a0524180b",
     "wof:hierarchy":[
         {
-            "country_id":85633337,
-            "neighbourhood_id":85797109,
-            "region_id":85687033,
-            "venue_id":286538043
-        },
-        {
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474495,
             "locality_id":101751803,
-            "neighbourhood_id":85798687,
+            "macrohood_id":1158818141,
+            "neighbourhood_id":1158806325,
             "region_id":85687033,
             "venue_id":286538043
         }
     ],
     "wof:id":286538043,
-    "wof:lastmodified":1492475119,
+    "wof:lastmodified":1513668894,
     "wof:name":"Dickhaut Uitvaartverzorging",
-    "wof:parent_id":-3,
+    "wof:parent_id":1158806325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

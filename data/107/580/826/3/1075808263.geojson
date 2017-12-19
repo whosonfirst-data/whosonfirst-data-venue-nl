@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1472902298,52.2588119507,6.1472902298,52.2588119507",
     "geom:latitude":52.258812,
     "geom:longitude":6.14729,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Appelstraat 45",
     "sg:city":"Deventer",
     "sg:classifiers":[],
@@ -24,9 +26,13 @@
     "sg:province":"Overijssel",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158802157,
+        102191581,
+        1158804465,
+        404473825,
         85633337,
-        85797335,
-        85687043
+        101751865,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +40,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473798569,
-    "wof:geomhash":"77c8101792d0f67b8fa544f3cc6cc0e7",
+    "wof:geomhash":"ab761213ee167c206364c2b210c2c5a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797335,
-            "region_id":85687043,
+            "localadmin_id":404473825,
+            "locality_id":101751865,
+            "macrohood_id":1158804465,
+            "neighbourhood_id":1158802157,
+            "region_id":85687045,
             "venue_id":1075808263
         }
     ],
     "wof:id":1075808263,
-    "wof:lastmodified":1473878620,
+    "wof:lastmodified":1513668296,
     "wof:name":"Walter Van Oel",
-    "wof:parent_id":85797335,
+    "wof:parent_id":1158802157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

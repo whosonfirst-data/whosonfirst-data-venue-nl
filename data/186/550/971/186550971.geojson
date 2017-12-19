@@ -15,6 +15,7 @@
     "geom:longitude":4.921666,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Grt Wittenb Str 200",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -25,13 +26,14 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        1108803881,
-        1108802879,
+        1158844205,
+        1108945299,
         102191581,
         85633337,
         101751893,
-        1108802283,
-        85687053
+        1158844279,
+        85687053,
+        1158844209
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,20 +43,30 @@
     "wof:geomhash":"a32f50cf4b4a26fd1e31db36bf7c4682",
     "wof:hierarchy":[
         {
-            "borough_id":1108802283,
+            "borough_id":1158844279,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
-            "microhood_id":1108803881,
-            "neighbourhood_id":1108802879,
+            "microhood_id":1158844205,
+            "neighbourhood_id":1108945299,
+            "region_id":85687053,
+            "venue_id":186550971
+        },
+        {
+            "borough_id":1158844279,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "microhood_id":1158844209,
+            "neighbourhood_id":1108945299,
             "region_id":85687053,
             "venue_id":186550971
         }
     ],
     "wof:id":186550971,
-    "wof:lastmodified":1492508188,
+    "wof:lastmodified":1513699676,
     "wof:name":"Witte Boei, Buurtcentrum De",
-    "wof:parent_id":1108803881,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

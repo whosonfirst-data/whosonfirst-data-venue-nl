@@ -15,6 +15,7 @@
     "geom:longitude":6.11955,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Deltakd 4-6",
     "sg:city":"Venlo",
     "sg:classifiers":[
@@ -33,18 +34,48 @@
     ],
     "sg:website":"http://www.mifa.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806877,
+        102191581,
+        404474525,
+        85633337,
+        101839199,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7c7lAtsoYeZRBQJCaac1sb_51.395309_6.119550@1306269933"
     },
     "wof:country":"NL",
     "wof:geomhash":"543f9580065fef1dd71e99c955bf76e4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "neighbourhood_id":1158806877,
+            "region_id":85687033,
+            "venue_id":235988751
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":235988751
+        }
+    ],
     "wof:id":235988751,
-    "wof:lastmodified":1492514585,
+    "wof:lastmodified":1513680594,
     "wof:name":"Mifa Aluminium Bv",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

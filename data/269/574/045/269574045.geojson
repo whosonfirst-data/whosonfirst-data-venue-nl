@@ -15,6 +15,7 @@
     "geom:longitude":6.167933,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"St Urbanuswg 43",
     "sg:city":"Venlo",
     "sg:classifiers":[
@@ -32,18 +33,48 @@
         "printer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806761,
+        102191581,
+        1158818263,
+        404474525,
+        85633337,
+        101839287,
+        85687033,
+        85798541
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QQJGbtN0R8MSUmjzYDtQO_51.386288_6.167933@1306269954"
     },
     "wof:country":"NL",
     "wof:geomhash":"b663cf79e2d86fb2b44b3ca9b48e12f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":1158806761,
+            "region_id":85687033,
+            "venue_id":269574045
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":269574045
+        }
+    ],
     "wof:id":269574045,
-    "wof:lastmodified":1492496699,
+    "wof:lastmodified":1513669417,
     "wof:name":"Oc\u00e9 Bv",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

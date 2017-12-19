@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2374258041,52.3337554932,5.2374258041,52.3337554932",
     "geom:latitude":52.333755,
     "geom:longitude":5.237426,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Schapenmeent 241",
     "sg:city":"Almere",
     "sg:classifiers":[],
@@ -24,9 +26,12 @@
     "sg:province":"Flevoland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687049,
+        102191581,
+        1158787349,
         85633337,
-        85797737,
-        85687053
+        1158787345,
+        1158786629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +39,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473801089,
-    "wof:geomhash":"b5e9ea02383c2c61c39e719d62b9a70f",
+    "wof:geomhash":"05d288aa299c2392ecf92290b62e2f68",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797737,
-            "region_id":85687053,
+            "locality_id":1158787345,
+            "macrohood_id":1158787349,
+            "neighbourhood_id":1158786629,
+            "region_id":85687049,
             "venue_id":1091578263
         }
     ],
     "wof:id":1091578263,
-    "wof:lastmodified":1473879036,
+    "wof:lastmodified":1513709210,
     "wof:name":"G. Smit",
-    "wof:parent_id":85797737,
+    "wof:parent_id":1158786629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

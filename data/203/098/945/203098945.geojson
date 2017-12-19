@@ -15,6 +15,7 @@
     "geom:longitude":6.144663,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Drie Decembersingel 21",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -24,18 +25,50 @@
     "sg:postcode":"5922 BA",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806815,
+        102191581,
+        1158818269,
+        404474525,
+        85633337,
+        101839199,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IsH7Ny3ELpC5e7fd2iux4_51.374344_6.144663@1306269921"
     },
     "wof:country":"NL",
     "wof:geomhash":"e9aa6a74e2326f6c1394fac424eb5441",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "macrohood_id":1158818269,
+            "neighbourhood_id":1158806815,
+            "region_id":85687033,
+            "venue_id":203098945
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":203098945
+        }
+    ],
     "wof:id":203098945,
-    "wof:lastmodified":1492480928,
+    "wof:lastmodified":1513681206,
     "wof:name":"Assurantiekantoor M.P.J.M. Van Ninhuys",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

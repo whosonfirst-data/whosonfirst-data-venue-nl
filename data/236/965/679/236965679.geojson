@@ -15,6 +15,7 @@
     "geom:longitude":6.206139,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Genraydelwg 9",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -25,18 +26,48 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.vbo.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806795,
+        102191581,
+        404474525,
+        85633337,
+        1158817911,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0m56L76AmCQgYwYDxraSmp_51.379780_6.206139@1306269942"
     },
     "wof:country":"NL",
     "wof:geomhash":"c0a7f49fa9e6ec44dce8a2f94a36476e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":1158817911,
+            "neighbourhood_id":1158806795,
+            "region_id":85687033,
+            "venue_id":236965679
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":236965679
+        }
+    ],
     "wof:id":236965679,
-    "wof:lastmodified":1492494161,
+    "wof:lastmodified":1513638720,
     "wof:name":"Rijn Vastgoed, Van",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

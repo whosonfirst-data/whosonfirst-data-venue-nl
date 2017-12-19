@@ -15,6 +15,7 @@
     "geom:longitude":4.922889,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Transvaalkd 68",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -26,13 +27,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803941,
-        1108802921,
+        1108945551,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +44,30 @@
     "wof:geomhash":"2669b5d0408b4a7c6ee2d0f294015d66",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108945551,
+            "region_id":85687053,
+            "venue_id":219278077
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803941,
-            "neighbourhood_id":1108802921,
+            "neighbourhood_id":1108945551,
             "region_id":85687053,
             "venue_id":219278077
         }
     ],
     "wof:id":219278077,
-    "wof:lastmodified":1492502992,
+    "wof:lastmodified":1513651009,
     "wof:name":"Scholtens, B E G M",
     "wof:parent_id":1108803941,
     "wof:placetype":"venue",

@@ -15,6 +15,7 @@
     "geom:longitude":4.90814,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1E Oosterparkstr 10E",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -27,13 +28,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803259,
-        1108802953,
+        1108945559,
         102191581,
         1108802305,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1158844335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +45,30 @@
     "wof:geomhash":"e952e9e487b72b104cc55e2b6e1a6589",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803259,
-            "neighbourhood_id":1108802953,
+            "neighbourhood_id":1108945559,
+            "region_id":85687053,
+            "venue_id":253350907
+        },
+        {
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803259,
+            "neighbourhood_id":1108945559,
             "region_id":85687053,
             "venue_id":253350907
         }
     ],
     "wof:id":253350907,
-    "wof:lastmodified":1492489374,
+    "wof:lastmodified":1513668394,
     "wof:name":"Gimmigimmi",
     "wof:parent_id":1108803259,
     "wof:placetype":"venue",

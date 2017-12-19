@@ -15,6 +15,7 @@
     "geom:longitude":5.992889,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Waalbroek 3",
     "sg:city":"Simpelveld",
     "sg:classifiers":[],
@@ -24,18 +25,46 @@
     "sg:postcode":"6369 TE",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85796197,
+        102191581,
+        404474519,
+        85633337,
+        101810575,
+        85687033,
+        1158806641,
+        101839277
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rPdPXZRfGxmtlm6PIyQQC_50.828678_5.992889@1306269949"
     },
     "wof:country":"NL",
     "wof:geomhash":"50100f8889edc96625c3207721d13dc2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474519,
+            "locality_id":101810575,
+            "neighbourhood_id":85796197,
+            "region_id":85687033,
+            "venue_id":253386827
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474519,
+            "locality_id":101839277,
+            "neighbourhood_id":1158806641,
+            "region_id":85687033,
+            "venue_id":253386827
+        }
+    ],
     "wof:id":253386827,
-    "wof:lastmodified":1492491076,
+    "wof:lastmodified":1513700491,
     "wof:name":"Leunissen, W",
-    "wof:parent_id":85796197,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

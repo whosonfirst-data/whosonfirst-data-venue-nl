@@ -15,6 +15,7 @@
     "geom:longitude":4.913627,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Mauritskade 22D",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -26,13 +27,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803279,
-        1108802881,
+        1108945555,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +44,30 @@
     "wof:geomhash":"ff394a2ea8af27ffe2dae8f39bf0f2f6",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803279,
+            "neighbourhood_id":1108945555,
+            "region_id":85687053,
+            "venue_id":186406589
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803279,
-            "neighbourhood_id":1108802881,
+            "neighbourhood_id":1108945555,
             "region_id":85687053,
             "venue_id":186406589
         }
     ],
     "wof:id":186406589,
-    "wof:lastmodified":1492507953,
+    "wof:lastmodified":1513686323,
     "wof:name":"Htkf",
     "wof:parent_id":1108803279,
     "wof:placetype":"venue",

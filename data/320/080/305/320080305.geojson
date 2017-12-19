@@ -33,7 +33,16 @@
         "garage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806753,
+        102191581,
+        1158818263,
+        404474525,
+        85633337,
+        101839287,
+        85687033,
+        85798541
+    ],
     "wof:brand_id":1125155765,
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,11 +50,32 @@
     },
     "wof:country":"NL",
     "wof:geomhash":"bdd93c7a9d38cbe302750dcb16c8488a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":1158806753,
+            "region_id":85687033,
+            "venue_id":320080305
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":320080305
+        }
+    ],
     "wof:id":320080305,
-    "wof:lastmodified":1511317597,
+    "wof:lastmodified":1513689577,
     "wof:name":"Janssen",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

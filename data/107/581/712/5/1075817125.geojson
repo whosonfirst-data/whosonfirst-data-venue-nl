@@ -27,9 +27,14 @@
     "sg:website":"http://www.hansanders.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         85797041,
-        85687045
+        102191581,
+        1158804439,
+        404473861,
+        85633337,
+        101751861,
+        85687045,
+        1158803507
     ],
     "wof:brand_id":1125149885,
     "wof:breaches":[],
@@ -41,16 +46,30 @@
     "wof:geomhash":"c2b87c4a086403a8e0b22166c5f46818",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158804439,
             "neighbourhood_id":85797041,
+            "region_id":85687045,
+            "venue_id":1075817125
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158804439,
+            "neighbourhood_id":1158803507,
             "region_id":85687045,
             "venue_id":1075817125
         }
     ],
     "wof:id":1075817125,
-    "wof:lastmodified":1510874747,
+    "wof:lastmodified":1513701012,
     "wof:name":"Hans Anders",
-    "wof:parent_id":85797041,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

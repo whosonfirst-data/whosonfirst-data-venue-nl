@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.150428772,52.2588157654,6.150428772,52.2588157654",
     "geom:latitude":52.258816,
     "geom:longitude":6.150429,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rysterborgherwg 4F1",
     "sg:city":"Deventer",
     "sg:classifiers":[],
@@ -24,9 +26,13 @@
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158802151,
+        102191581,
+        1158804465,
+        404473825,
         85633337,
-        85797335,
-        85687043
+        101751865,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +40,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473802596,
-    "wof:geomhash":"0f2f2c20061d4b0b7c44cf247d5ba1f7",
+    "wof:geomhash":"a88487a5c4e702669b7d108812fb867f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797335,
-            "region_id":85687043,
+            "localadmin_id":404473825,
+            "locality_id":101751865,
+            "macrohood_id":1158804465,
+            "neighbourhood_id":1158802151,
+            "region_id":85687045,
             "venue_id":1091601303
         }
     ],
     "wof:id":1091601303,
-    "wof:lastmodified":1473878533,
+    "wof:lastmodified":1513675067,
     "wof:name":"Hagen",
-    "wof:parent_id":85797335,
+    "wof:parent_id":1158802151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

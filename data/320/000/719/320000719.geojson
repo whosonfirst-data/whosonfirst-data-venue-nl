@@ -15,6 +15,7 @@
     "geom:longitude":6.124923,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rechterland 1",
     "sg:city":"Zwolle",
     "sg:classifiers":[],
@@ -26,13 +27,13 @@
     "sg:website":"http://www.bjzo.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        85797453,
-        85687045,
-        85798691,
+        1158803527,
         102191581,
+        1158805805,
         404473861,
-        101751861
+        85633337,
+        101751861,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,25 +43,20 @@
     "wof:geomhash":"2b6a112cf4613728eff89b36d9782719",
     "wof:hierarchy":[
         {
-            "country_id":85633337,
-            "neighbourhood_id":85797453,
-            "region_id":85687045,
-            "venue_id":320000719
-        },
-        {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404473861,
             "locality_id":101751861,
-            "neighbourhood_id":85798691,
+            "macrohood_id":1158805805,
+            "neighbourhood_id":1158803527,
             "region_id":85687045,
             "venue_id":320000719
         }
     ],
     "wof:id":320000719,
-    "wof:lastmodified":1492484140,
+    "wof:lastmodified":1513678383,
     "wof:name":"Jeugdzorg Overijssel, Bureau",
-    "wof:parent_id":-3,
+    "wof:parent_id":1158803527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -15,6 +15,7 @@
     "geom:longitude":6.166853,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rykswg 66",
     "sg:city":"Velden",
     "sg:classifiers":[],
@@ -24,18 +25,48 @@
     "sg:postcode":"5941 AG",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85798541,
+        102191581,
+        1158818263,
+        404474525,
+        85633337,
+        101839287,
+        85687033,
+        1158806909,
+        101809597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fWF3XF3LUk5BetLwVOg27_51.419666_6.166853@1306270007"
     },
     "wof:country":"NL",
     "wof:geomhash":"693595b67bec50ac8a13e501e22430bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":336877553
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101809597,
+            "neighbourhood_id":1158806909,
+            "region_id":85687033,
+            "venue_id":336877553
+        }
+    ],
     "wof:id":336877553,
-    "wof:lastmodified":1492506650,
+    "wof:lastmodified":1513694029,
     "wof:name":"Spreeuwenberg, Bert",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

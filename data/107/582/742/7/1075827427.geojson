@@ -15,6 +15,7 @@
     "geom:longitude":4.915579,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Danie Theronstraat 2",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -26,13 +27,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803773,
-        1108802921,
+        1108945551,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +45,30 @@
     "wof:geomhash":"b25565d3cd28b0ee4e4a26276439d266",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803773,
+            "neighbourhood_id":1108945551,
+            "region_id":85687053,
+            "venue_id":1075827427
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803773,
-            "neighbourhood_id":1108802921,
+            "neighbourhood_id":1108945551,
             "region_id":85687053,
             "venue_id":1075827427
         }
     ],
     "wof:id":1075827427,
-    "wof:lastmodified":1492487020,
+    "wof:lastmodified":1513682690,
     "wof:name":"Buurtcentrum Transvaal",
     "wof:parent_id":1108803773,
     "wof:placetype":"venue",

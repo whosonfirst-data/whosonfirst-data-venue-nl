@@ -15,6 +15,7 @@
     "geom:longitude":6.074908,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"P Potterstr 7",
     "sg:city":"Kerkrade",
     "sg:classifiers":[],
@@ -25,13 +26,15 @@
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797721,
+        1158806323,
         102191581,
-        85633111,
-        404227541,
-        101839485,
-        102063693,
-        85682513
+        1158818153,
+        404474489,
+        85633337,
+        101839255,
+        85687033,
+        85797721,
+        1158818155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +45,29 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633111,
-            "county_id":102063693,
-            "locality_id":101839485,
-            "macrocounty_id":404227541,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":101839255,
+            "macrohood_id":1158818153,
+            "neighbourhood_id":1158806323,
+            "region_id":85687033,
+            "venue_id":219687393
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":101839255,
+            "macrohood_id":1158818155,
             "neighbourhood_id":85797721,
-            "region_id":85682513,
+            "region_id":85687033,
             "venue_id":219687393
         }
     ],
     "wof:id":219687393,
-    "wof:lastmodified":1492502810,
+    "wof:lastmodified":1513679142,
     "wof:name":"Mehlkop, L",
-    "wof:parent_id":85797721,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

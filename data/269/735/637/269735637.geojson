@@ -35,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682513,
-        85633111,
         85797565,
-        102063693
+        102191581,
+        404474489,
+        85633337,
+        1158817899,
+        85687033,
+        1158806311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,28 @@
     "wof:geomhash":"2860dba836e2bccfb0f9c3c7c333692b",
     "wof:hierarchy":[
         {
-            "country_id":85633111,
-            "county_id":102063693,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":1158817899,
             "neighbourhood_id":85797565,
-            "region_id":85682513,
+            "region_id":85687033,
+            "venue_id":269735637
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":1158817899,
+            "neighbourhood_id":1158806311,
+            "region_id":85687033,
             "venue_id":269735637
         }
     ],
     "wof:id":269735637,
-    "wof:lastmodified":1510943773,
+    "wof:lastmodified":1513673457,
     "wof:name":"Cafetaria 'T Hofke",
-    "wof:parent_id":85797565,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

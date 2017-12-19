@@ -15,6 +15,7 @@
     "geom:longitude":6.170827,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rijksweg 178",
     "sg:city":"Velden",
     "sg:classifiers":[],
@@ -24,18 +25,48 @@
     "sg:postcode":"5941 AK",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806921,
+        102191581,
+        404474525,
+        85633337,
+        101809597,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vy4F9IxCHDHKRPPwHGF68_51.398476_6.170827@1306269997"
     },
     "wof:country":"NL",
     "wof:geomhash":"6c052bc688a1b3ad2bc809971bf50035",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101809597,
+            "neighbourhood_id":1158806921,
+            "region_id":85687033,
+            "venue_id":320321147
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":320321147
+        }
+    ],
     "wof:id":320321147,
-    "wof:lastmodified":1492482188,
+    "wof:lastmodified":1513653213,
     "wof:name":"E De Greef Transport",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

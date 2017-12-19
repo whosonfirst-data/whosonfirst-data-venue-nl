@@ -15,6 +15,7 @@
     "geom:longitude":4.162442,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Reede 46",
     "sg:city":"Brielle",
     "sg:classifiers":[
@@ -35,11 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798371,
+        1158825187,
         102191581,
         404474161,
         85633337,
-        85687041
+        101754623,
+        85687041,
+        404474267,
+        101808543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +56,25 @@
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474161,
-            "neighbourhood_id":85798371,
+            "locality_id":101754623,
+            "neighbourhood_id":1158825187,
+            "region_id":85687041,
+            "venue_id":303136851
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474267,
+            "locality_id":101808543,
+            "neighbourhood_id":1158825187,
             "region_id":85687041,
             "venue_id":303136851
         }
     ],
     "wof:id":303136851,
-    "wof:lastmodified":1492472229,
+    "wof:lastmodified":1513678530,
     "wof:name":"Eeren, H D Van",
-    "wof:parent_id":85798371,
+    "wof:parent_id":1158825187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

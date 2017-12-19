@@ -26,7 +26,16 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.rabobank.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158807839,
+        102191581,
+        1158805871,
+        85633337,
+        101810579,
+        85687033,
+        85797779,
+        101810577
+    ],
     "wof:brand_id":420573783,
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,11 +43,30 @@
     },
     "wof:country":"NL",
     "wof:geomhash":"a0a90e74eee33e000c46d291d5fd4394",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810579,
+            "neighbourhood_id":1158807839,
+            "region_id":85687033,
+            "venue_id":270428087
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":85797779,
+            "region_id":85687033,
+            "venue_id":270428087
+        }
+    ],
     "wof:id":270428087,
-    "wof:lastmodified":1510603624,
+    "wof:lastmodified":1513696468,
     "wof:name":"Rabobank",
-    "wof:parent_id":85797779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

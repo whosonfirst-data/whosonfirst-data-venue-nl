@@ -15,6 +15,7 @@
     "geom:longitude":4.533619,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Berkenwoudestr 22",
     "sg:city":"Rotterdam",
     "sg:classifiers":[],
@@ -26,12 +27,14 @@
     "sg:website":"http://www.simonis-bv.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158831817,
         85797947,
         102191581,
         85633337,
         101751843,
-        1108805721,
-        85687041
+        1158831761,
+        85687041,
+        1108805721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +44,30 @@
     "wof:geomhash":"b66b7346c8e8cd368fc0d54868fc4d4c",
     "wof:hierarchy":[
         {
+            "borough_id":1158831761,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "microhood_id":1158831817,
+            "neighbourhood_id":85797947,
+            "region_id":85687041,
+            "venue_id":202380329
+        },
+        {
             "borough_id":1108805721,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
+            "microhood_id":1158831817,
             "neighbourhood_id":85797947,
             "region_id":85687041,
             "venue_id":202380329
         }
     ],
     "wof:id":202380329,
-    "wof:lastmodified":1492497599,
+    "wof:lastmodified":1513668821,
     "wof:name":"Simonis Bv",
-    "wof:parent_id":85797947,
+    "wof:parent_id":1158831817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

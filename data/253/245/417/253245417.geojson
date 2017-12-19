@@ -15,6 +15,7 @@
     "geom:longitude":6.16486,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Markt 3",
     "sg:city":"Velden",
     "sg:classifiers":[],
@@ -24,18 +25,48 @@
     "sg:postcode":"5941 GA",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85798541,
+        102191581,
+        1158818263,
+        404474525,
+        85633337,
+        101839287,
+        85687033,
+        1158806909,
+        101809597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RqP4rBq3RZdg4TMUIy4io_51.414616_6.164860@1306269947"
     },
     "wof:country":"NL",
     "wof:geomhash":"f278acf0f53fbd31dd1afdef433a13ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":253245417
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101809597,
+            "neighbourhood_id":1158806909,
+            "region_id":85687033,
+            "venue_id":253245417
+        }
+    ],
     "wof:id":253245417,
-    "wof:lastmodified":1492489336,
+    "wof:lastmodified":1513690037,
     "wof:name":"Flos Zeilmakerij En Pers. Beschermingsart. Vof",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

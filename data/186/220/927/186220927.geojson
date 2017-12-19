@@ -15,6 +15,7 @@
     "geom:longitude":5.944732,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rott 31",
     "sg:city":"Vijlen",
     "sg:classifiers":[],
@@ -24,18 +25,50 @@
     "sg:postcode":"6294 NL",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806683,
+        102191581,
+        404474523,
+        85633337,
+        101810597,
+        85687033,
+        85796753,
+        85633111,
+        404227541,
+        102063693,
+        85682513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_203Ioc3PYw6ugQIfg4hBa4_50.786922_5.944732@1306269911"
     },
     "wof:country":"NL",
     "wof:geomhash":"1174a059b0ce42a1bef51953705e674c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474523,
+            "locality_id":101810597,
+            "neighbourhood_id":1158806683,
+            "region_id":85687033,
+            "venue_id":186220927
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063693,
+            "locality_id":-1,
+            "macrocounty_id":404227541,
+            "neighbourhood_id":85796753,
+            "region_id":85682513,
+            "venue_id":186220927
+        }
+    ],
     "wof:id":186220927,
-    "wof:lastmodified":1492507853,
+    "wof:lastmodified":1513685153,
     "wof:name":"Hotel-Appartementen 'T Rott",
-    "wof:parent_id":85796753,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

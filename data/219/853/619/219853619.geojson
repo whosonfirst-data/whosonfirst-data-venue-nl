@@ -15,6 +15,7 @@
     "geom:longitude":6.209066,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9 Novemberwg 35",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -24,18 +25,48 @@
     "sg:postcode":"5916 LD",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85798541,
+        102191581,
+        1158818263,
+        404474525,
+        85633337,
+        101839287,
+        85687033,
+        1158806795,
+        1158817911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2P3BCH7mNpc6aHKBinmrPU_51.381321_6.209066@1306269929"
     },
     "wof:country":"NL",
     "wof:geomhash":"49c540e19e74a34422fbc60215642153",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":219853619
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":1158817911,
+            "neighbourhood_id":1158806795,
+            "region_id":85687033,
+            "venue_id":219853619
+        }
+    ],
     "wof:id":219853619,
-    "wof:lastmodified":1492503261,
+    "wof:lastmodified":1513673365,
     "wof:name":"Kusters & Partners Bv",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

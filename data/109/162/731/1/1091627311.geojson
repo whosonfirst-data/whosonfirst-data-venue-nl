@@ -15,6 +15,7 @@
     "geom:longitude":4.93098,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Oosterspoorpln 2",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -26,14 +27,15 @@
     "sg:website":"http://www.haarmetspelden.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        1108803427,
-        1108802779,
+        1158844201,
+        1108945553,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,21 +46,32 @@
     "wof:geomhash":"81211cc4f7d06a3a02811867dd66cdcc",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1158844201,
+            "neighbourhood_id":1108945553,
+            "region_id":85687053,
+            "venue_id":1091627311
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
-            "microhood_id":1108803427,
-            "neighbourhood_id":1108802779,
+            "microhood_id":1158844201,
+            "neighbourhood_id":1108945553,
             "region_id":85687053,
             "venue_id":1091627311
         }
     ],
     "wof:id":1091627311,
-    "wof:lastmodified":1492512026,
+    "wof:lastmodified":1513691696,
     "wof:name":"Haar Met Spelden Vof",
-    "wof:parent_id":1108803427,
+    "wof:parent_id":1158844201,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -15,6 +15,7 @@
     "geom:longitude":6.05685,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Laurastr 51",
     "sg:city":"Eygelshoven",
     "sg:classifiers":[],
@@ -26,10 +27,13 @@
     "sg:website":"http://www.postkantoor.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682513,
-        85633111,
         85797565,
-        102063693
+        102191581,
+        404474489,
+        85633337,
+        1158817899,
+        85687033,
+        1158806311
     ],
     "wof:brand_id":420573777,
     "wof:breaches":[],
@@ -40,17 +44,28 @@
     "wof:geomhash":"3fd8cb60ad5fe99ad3f0d55a473cefad",
     "wof:hierarchy":[
         {
-            "country_id":85633111,
-            "county_id":102063693,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":1158817899,
             "neighbourhood_id":85797565,
-            "region_id":85682513,
+            "region_id":85687033,
+            "venue_id":269539429
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":1158817899,
+            "neighbourhood_id":1158806311,
+            "region_id":85687033,
             "venue_id":269539429
         }
     ],
     "wof:id":269539429,
-    "wof:lastmodified":1492496078,
+    "wof:lastmodified":1513654497,
     "wof:name":"Postkantoor",
-    "wof:parent_id":85797565,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

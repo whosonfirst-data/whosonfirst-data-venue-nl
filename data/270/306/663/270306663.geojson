@@ -15,6 +15,7 @@
     "geom:longitude":4.924916,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Eerste Van Swindenstraat 83",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -26,13 +27,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803579,
-        1108802779,
+        1108945553,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +44,30 @@
     "wof:geomhash":"d8bc76e36319e565b877b0583fcfe197",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803579,
+            "neighbourhood_id":1108945553,
+            "region_id":85687053,
+            "venue_id":270306663
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803579,
-            "neighbourhood_id":1108802779,
+            "neighbourhood_id":1108945553,
             "region_id":85687053,
             "venue_id":270306663
         }
     ],
     "wof:id":270306663,
-    "wof:lastmodified":1492499388,
+    "wof:lastmodified":1513696969,
     "wof:name":"Rossy Fashion",
     "wof:parent_id":1108803579,
     "wof:placetype":"venue",

@@ -15,6 +15,7 @@
     "geom:longitude":4.923364,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Transvaalstr 92A",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -26,13 +27,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803941,
-        1108802921,
+        1108945551,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +44,30 @@
     "wof:geomhash":"6f0bb0dd7a7cee0c93b5d0647cba3186",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108945551,
+            "region_id":85687053,
+            "venue_id":286489697
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803941,
-            "neighbourhood_id":1108802921,
+            "neighbourhood_id":1108945551,
             "region_id":85687053,
             "venue_id":286489697
         }
     ],
     "wof:id":286489697,
-    "wof:lastmodified":1492476631,
+    "wof:lastmodified":1513682689,
     "wof:name":"Kriteria, Sticht",
     "wof:parent_id":1108803941,
     "wof:placetype":"venue",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1863398552,52.250087738,6.1863398552,52.250087738",
     "geom:latitude":52.250088,
     "geom:longitude":6.18634,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Tielstraat 39001",
     "sg:city":"Deventer",
     "sg:classifiers":[
@@ -33,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158802205,
+        102191581,
+        1158804471,
+        404473825,
         85633337,
-        85798365,
-        85687043
+        101751865,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +49,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473798882,
-    "wof:geomhash":"f2ca29daa899827270b0a1dae068599e",
+    "wof:geomhash":"7737c3c7ae8ed6aeace42dc7432baad1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798365,
-            "region_id":85687043,
+            "localadmin_id":404473825,
+            "locality_id":101751865,
+            "macrohood_id":1158804471,
+            "neighbourhood_id":1158802205,
+            "region_id":85687045,
             "venue_id":1075814787
         }
     ],
     "wof:id":1075814787,
-    "wof:lastmodified":1473878989,
+    "wof:lastmodified":1513653292,
     "wof:name":"Vosmeijer Bv",
-    "wof:parent_id":85798365,
+    "wof:parent_id":1158802205,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

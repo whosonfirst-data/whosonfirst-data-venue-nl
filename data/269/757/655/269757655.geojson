@@ -15,6 +15,7 @@
     "geom:longitude":6.143352,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Alberickstraat 11",
     "sg:city":"Venlo",
     "sg:classifiers":[
@@ -33,18 +34,50 @@
         "restaurant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806811,
+        102191581,
+        1158818269,
+        404474525,
+        85633337,
+        101839199,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YnkPOk2V0kY32Obxe52RS_51.374989_6.143352@1306269957"
     },
     "wof:country":"NL",
     "wof:geomhash":"ed2766b81eaaf28b290b09b1fbb63b91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "macrohood_id":1158818269,
+            "neighbourhood_id":1158806811,
+            "region_id":85687033,
+            "venue_id":269757655
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":269757655
+        }
+    ],
     "wof:id":269757655,
-    "wof:lastmodified":1492496318,
+    "wof:lastmodified":1513672763,
     "wof:name":"Friture De Prins",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

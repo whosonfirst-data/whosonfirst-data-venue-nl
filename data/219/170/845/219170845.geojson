@@ -15,6 +15,7 @@
     "geom:longitude":6.187968,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Huiskensstr 62A",
     "sg:city":"Venlo",
     "sg:classifiers":[
@@ -35,18 +36,48 @@
     ],
     "sg:website":"http://www.clt-horst.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806797,
+        102191581,
+        404474525,
+        85633337,
+        1158817911,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fYvTY9pxyfztIhT37qxA3_51.391220_6.187968@1306269924"
     },
     "wof:country":"NL",
     "wof:geomhash":"01beeeda184966b8f60bb47ff923973c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":1158817911,
+            "neighbourhood_id":1158806797,
+            "region_id":85687033,
+            "venue_id":219170845
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":219170845
+        }
+    ],
     "wof:id":219170845,
-    "wof:lastmodified":1492501905,
+    "wof:lastmodified":1513690140,
     "wof:name":"Clt-Horst Bv",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

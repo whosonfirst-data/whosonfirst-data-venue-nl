@@ -28,13 +28,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803279,
-        1108802881,
+        1108945555,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:brand_id":420573777,
     "wof:breaches":[],
@@ -45,19 +46,30 @@
     "wof:geomhash":"a2421243b37261bd210fb142f696dd37",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803279,
+            "neighbourhood_id":1108945555,
+            "region_id":85687053,
+            "venue_id":269553693
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803279,
-            "neighbourhood_id":1108802881,
+            "neighbourhood_id":1108945555,
             "region_id":85687053,
             "venue_id":269553693
         }
     ],
     "wof:id":269553693,
-    "wof:lastmodified":1510603417,
+    "wof:lastmodified":1513711807,
     "wof:name":"Postkantoor",
     "wof:parent_id":1108803279,
     "wof:placetype":"venue",

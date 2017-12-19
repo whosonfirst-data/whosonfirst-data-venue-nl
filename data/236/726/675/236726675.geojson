@@ -15,6 +15,7 @@
     "geom:longitude":6.141127,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Raaieind 10",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -25,18 +26,48 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.sonax.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806859,
+        102191581,
+        404474525,
+        85633337,
+        101839199,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ujuMbK1xCKIGOKTuTmg7X_51.392197_6.141127@1306269940"
     },
     "wof:country":"NL",
     "wof:geomhash":"c504c6312a88833932de5c724906347d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "neighbourhood_id":1158806859,
+            "region_id":85687033,
+            "venue_id":236726675
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":236726675
+        }
+    ],
     "wof:id":236726675,
-    "wof:lastmodified":1492492693,
+    "wof:lastmodified":1513698636,
     "wof:name":"Sonax",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

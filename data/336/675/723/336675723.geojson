@@ -15,6 +15,7 @@
     "geom:longitude":4.926772,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Transvaalkd 13",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -27,13 +28,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803941,
-        1108802921,
+        1108945551,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +45,30 @@
     "wof:geomhash":"59c107e8cd84af9f188c8cf75913a3d6",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108945551,
+            "region_id":85687053,
+            "venue_id":336675723
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803941,
-            "neighbourhood_id":1108802921,
+            "neighbourhood_id":1108945551,
             "region_id":85687053,
             "venue_id":336675723
         }
     ],
     "wof:id":336675723,
-    "wof:lastmodified":1492506136,
+    "wof:lastmodified":1513664426,
     "wof:name":"Nieuwint & Van Beek",
     "wof:parent_id":1108803941,
     "wof:placetype":"venue",

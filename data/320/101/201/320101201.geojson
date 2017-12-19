@@ -15,6 +15,7 @@
     "geom:longitude":6.015709,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Maastrichterln 156A",
     "sg:city":"Vaals",
     "sg:classifiers":[
@@ -32,18 +33,50 @@
         "garage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85796633,
+        102191581,
+        85633111,
+        404227541,
+        102063693,
+        85682513,
+        1158806701,
+        404474523,
+        85633337,
+        101756201,
+        85687033
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3R9WaUMP9QhJUbDZE7RASa_50.773285_6.015709@1306269994"
     },
     "wof:country":"NL",
     "wof:geomhash":"f3f9faab497c400e88ea90ae03aeda02",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063693,
+            "locality_id":-1,
+            "macrocounty_id":404227541,
+            "neighbourhood_id":85796633,
+            "region_id":85682513,
+            "venue_id":320101201
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474523,
+            "locality_id":101756201,
+            "neighbourhood_id":1158806701,
+            "region_id":85687033,
+            "venue_id":320101201
+        }
+    ],
     "wof:id":320101201,
-    "wof:lastmodified":1492482164,
+    "wof:lastmodified":1513666865,
     "wof:name":"Reko",
-    "wof:parent_id":85796633,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

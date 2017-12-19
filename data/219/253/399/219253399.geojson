@@ -36,14 +36,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        1108803427,
-        1108802779,
+        1158844201,
+        1108945553,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:brand_id":1125159295,
     "wof:breaches":[],
@@ -54,21 +55,32 @@
     "wof:geomhash":"37ef925759e282a64b938105cd1d4cf9",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1158844201,
+            "neighbourhood_id":1108945553,
+            "region_id":85687053,
+            "venue_id":219253399
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
-            "microhood_id":1108803427,
-            "neighbourhood_id":1108802779,
+            "microhood_id":1158844201,
+            "neighbourhood_id":1108945553,
             "region_id":85687053,
             "venue_id":219253399
         }
     ],
     "wof:id":219253399,
-    "wof:lastmodified":1510698685,
+    "wof:lastmodified":1513656454,
     "wof:name":"Livera",
-    "wof:parent_id":1108803427,
+    "wof:parent_id":1158844201,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

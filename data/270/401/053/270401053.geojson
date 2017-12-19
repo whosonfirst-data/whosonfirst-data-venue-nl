@@ -25,7 +25,17 @@
     "sg:postcode":"6301 KD",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158807149,
+        102191581,
+        404474537,
+        85633337,
+        101809547,
+        85687033,
+        85797779,
+        1158805871,
+        101810577
+    ],
     "wof:brand_id":420573783,
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,11 +43,30 @@
     },
     "wof:country":"NL",
     "wof:geomhash":"7a081f76c6368f2341734b58d95ad53a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474537,
+            "locality_id":101809547,
+            "neighbourhood_id":1158807149,
+            "region_id":85687033,
+            "venue_id":270401053
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":85797779,
+            "region_id":85687033,
+            "venue_id":270401053
+        }
+    ],
     "wof:id":270401053,
-    "wof:lastmodified":1510603624,
+    "wof:lastmodified":1513676415,
     "wof:name":"Rabobank",
-    "wof:parent_id":85797779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

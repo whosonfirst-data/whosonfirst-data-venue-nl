@@ -15,6 +15,7 @@
     "geom:longitude":6.167268,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Sint Urbanusweg 54",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -24,18 +25,48 @@
     "sg:postcode":"5914 CB",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85798541,
+        102191581,
+        1158818263,
+        404474525,
+        85633337,
+        101839287,
+        85687033,
+        1158806757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OfDH1jA9nmou83RiqO5qk_51.381809_6.167268@1306269989"
     },
     "wof:country":"NL",
     "wof:geomhash":"485110628fa0f44698414f037a4bcca8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":303954351
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":1158806757,
+            "region_id":85687033,
+            "venue_id":303954351
+        }
+    ],
     "wof:id":303954351,
-    "wof:lastmodified":1492473981,
+    "wof:lastmodified":1513669419,
     "wof:name":"G.J. Brouwer",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

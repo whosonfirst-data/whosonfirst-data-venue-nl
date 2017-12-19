@@ -15,6 +15,7 @@
     "geom:longitude":6.19403,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Schoolwg 55",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -24,7 +25,17 @@
     "sg:postcode":"5916 PK",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806787,
+        102191581,
+        404474525,
+        85633337,
+        1158817911,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LqEnq2FHBg6tGY6GNi2ZY_51.385025_6.194030@1306270009"
@@ -32,11 +43,31 @@
     "wof:country":"NL",
     "wof:created":1473799542,
     "wof:geomhash":"880f86c9359f53b74b301e11ea7574b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":1158817911,
+            "neighbourhood_id":1158806787,
+            "region_id":85687033,
+            "venue_id":1075825815
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":1075825815
+        }
+    ],
     "wof:id":1075825815,
-    "wof:lastmodified":1492486789,
+    "wof:lastmodified":1513692413,
     "wof:name":"Boitelle",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

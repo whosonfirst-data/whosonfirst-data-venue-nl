@@ -15,6 +15,7 @@
     "geom:longitude":5.998072,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Boomweg 8",
     "sg:city":"Landgraaf",
     "sg:classifiers":[],
@@ -24,18 +25,45 @@
     "sg:postcode":"6371 CZ",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158805875,
+        102191581,
+        404474467,
+        85633337,
+        101839719,
+        85687033,
+        85798247
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50iImX2PDwi32MrIsqgbQc_50.906193_5.998072@1306269973"
     },
     "wof:country":"NL",
     "wof:geomhash":"d43ca2e2e310d4843ab940faba00ce10",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474467,
+            "locality_id":101839719,
+            "neighbourhood_id":1158805875,
+            "region_id":85687033,
+            "venue_id":286771909
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474467,
+            "locality_id":101839719,
+            "neighbourhood_id":85798247,
+            "region_id":85687033,
+            "venue_id":286771909
+        }
+    ],
     "wof:id":286771909,
-    "wof:lastmodified":1492475797,
+    "wof:lastmodified":1513662642,
     "wof:name":"E.H.M. Vijgen",
-    "wof:parent_id":85798247,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

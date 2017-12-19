@@ -15,6 +15,7 @@
     "geom:longitude":6.902613,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Brinkstr 133",
     "sg:city":"Enschede",
     "sg:classifiers":[],
@@ -26,13 +27,14 @@
     "sg:website":"http://www.fokuswonen.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
+        1158802291,
         85797713,
-        85687045,
-        85798259,
         102191581,
+        1158805837,
         404473827,
-        101751871
+        85633337,
+        101751871,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,25 +44,21 @@
     "wof:geomhash":"c3a0844b2f532bd8ca0454ce82445fec",
     "wof:hierarchy":[
         {
-            "country_id":85633337,
-            "neighbourhood_id":85797713,
-            "region_id":85687045,
-            "venue_id":186386955
-        },
-        {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404473827,
             "locality_id":101751871,
-            "neighbourhood_id":85798259,
+            "macrohood_id":1158805837,
+            "microhood_id":1158802291,
+            "neighbourhood_id":85797713,
             "region_id":85687045,
             "venue_id":186386955
         }
     ],
     "wof:id":186386955,
-    "wof:lastmodified":1492509273,
+    "wof:lastmodified":1513677474,
     "wof:name":"Fokus, Sticht",
-    "wof:parent_id":-3,
+    "wof:parent_id":1158802291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

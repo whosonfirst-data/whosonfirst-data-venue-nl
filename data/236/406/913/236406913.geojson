@@ -15,6 +15,7 @@
     "geom:longitude":5.460019,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Merkelbachln 1",
     "sg:city":"Eindhoven",
     "sg:classifiers":[],
@@ -25,13 +26,12 @@
     "sg:province":"Noord-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798333,
+        85687035,
         102191581,
-        404474375,
+        1158801469,
         85633337,
         101751819,
-        85687035,
-        85797751
+        85798333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,23 +43,17 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474375,
             "locality_id":101751819,
+            "macrohood_id":1158801469,
             "neighbourhood_id":85798333,
-            "region_id":85687035,
-            "venue_id":236406913
-        },
-        {
-            "country_id":85633337,
-            "neighbourhood_id":85797751,
             "region_id":85687035,
             "venue_id":236406913
         }
     ],
     "wof:id":236406913,
-    "wof:lastmodified":1492492291,
+    "wof:lastmodified":1513644999,
     "wof:name":"Trio Nostalgie",
-    "wof:parent_id":-3,
+    "wof:parent_id":85798333,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -15,6 +15,7 @@
     "geom:longitude":4.740141,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kesselloop 5",
     "sg:city":"Breda",
     "sg:classifiers":[],
@@ -25,13 +26,13 @@
     "sg:province":"Noord-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        85798363,
-        85687035,
         85798327,
         102191581,
+        1158801673,
         404474363,
-        101754573
+        85633337,
+        101751811,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,25 +42,20 @@
     "wof:geomhash":"fc361b96a75d8c182470168bb51814eb",
     "wof:hierarchy":[
         {
-            "country_id":85633337,
-            "neighbourhood_id":85798363,
-            "region_id":85687035,
-            "venue_id":219925201
-        },
-        {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474363,
-            "locality_id":101754573,
+            "locality_id":101751811,
+            "macrohood_id":1158801673,
             "neighbourhood_id":85798327,
             "region_id":85687035,
             "venue_id":219925201
         }
     ],
     "wof:id":219925201,
-    "wof:lastmodified":1492503943,
+    "wof:lastmodified":1513693359,
     "wof:name":"Shikeda",
-    "wof:parent_id":-3,
+    "wof:parent_id":85798327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

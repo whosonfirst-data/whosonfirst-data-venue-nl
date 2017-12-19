@@ -15,6 +15,7 @@
     "geom:longitude":4.399523,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Johan De Wittstraat 45",
     "sg:city":"Wassenaar",
     "sg:classifiers":[],
@@ -25,13 +26,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        85798163,
         85687041,
-        85859711,
         102191581,
-        404474281,
-        101754719
+        1158831323,
+        85633337,
+        101754719,
+        85859711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,25 +42,19 @@
     "wof:geomhash":"3860cf7907c613d1e0e57ef5d00c524c",
     "wof:hierarchy":[
         {
-            "country_id":85633337,
-            "neighbourhood_id":85798163,
-            "region_id":85687041,
-            "venue_id":1075832267
-        },
-        {
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474281,
             "locality_id":101754719,
+            "macrohood_id":1158831323,
             "neighbourhood_id":85859711,
             "region_id":85687041,
             "venue_id":1075832267
         }
     ],
     "wof:id":1075832267,
-    "wof:lastmodified":1492485890,
+    "wof:lastmodified":1513651682,
     "wof:name":"Gemeente Wassenaar",
-    "wof:parent_id":-3,
+    "wof:parent_id":85859711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

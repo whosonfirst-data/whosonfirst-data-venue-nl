@@ -15,6 +15,7 @@
     "geom:longitude":6.163317,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Bernhardstr 26",
     "sg:city":"Velden",
     "sg:classifiers":[
@@ -33,18 +34,48 @@
     ],
     "sg:website":"http://www.vakgaragebruerenkeetels.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806909,
+        102191581,
+        404474525,
+        85633337,
+        101809597,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GG7cPSjd31mTN63HUGDvr_51.412498_6.163317@1306269994"
     },
     "wof:country":"NL",
     "wof:geomhash":"47c7c9eb48cace1e1bc19551901d6ffc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101809597,
+            "neighbourhood_id":1158806909,
+            "region_id":85687033,
+            "venue_id":320058393
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":320058393
+        }
+    ],
     "wof:id":320058393,
-    "wof:lastmodified":1492484551,
+    "wof:lastmodified":1513706831,
     "wof:name":"Brueren & Keetels Vakgarage",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

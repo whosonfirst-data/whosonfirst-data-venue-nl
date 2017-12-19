@@ -15,6 +15,7 @@
     "geom:longitude":6.173563,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Bisschop Hoensbroeckstr 45",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -24,18 +25,48 @@
     "sg:postcode":"5914 BR",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85798541,
+        102191581,
+        1158818263,
+        404474525,
+        85633337,
+        101839287,
+        85687033,
+        1158806757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZaLiTW5Vf2w5qGP8sVTMb_51.382675_6.173563@1306269977"
     },
     "wof:country":"NL",
     "wof:geomhash":"f0aa58931bc0fd39f43236aaf4ad3cc2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":287117981
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":1158806757,
+            "region_id":85687033,
+            "venue_id":287117981
+        }
+    ],
     "wof:id":287117981,
-    "wof:lastmodified":1492513963,
+    "wof:lastmodified":1513683508,
     "wof:name":"C.C.N. Dibbets",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

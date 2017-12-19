@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2397198677,52.3374481201,5.2397198677,52.3374481201",
     "geom:latitude":52.337448,
     "geom:longitude":5.23972,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Oostgriend 93",
     "sg:city":"Almere",
     "sg:classifiers":[],
@@ -25,9 +27,12 @@
     "sg:website":"http://www.agslin.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687049,
+        102191581,
+        1158787349,
         85633337,
-        85797737,
-        85687053
+        1158787345,
+        1158786617
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,19 +40,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473800565,
-    "wof:geomhash":"c35d46c6cf257e2cb28323e39df0b487",
+    "wof:geomhash":"806fd7c5f060990c7f31407b3e59f5eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797737,
-            "region_id":85687053,
+            "locality_id":1158787345,
+            "macrohood_id":1158787349,
+            "neighbourhood_id":1158786617,
+            "region_id":85687049,
             "venue_id":1091571311
         }
     ],
     "wof:id":1091571311,
-    "wof:lastmodified":1473878536,
+    "wof:lastmodified":1513709967,
     "wof:name":"Agslin Net",
-    "wof:parent_id":85797737,
+    "wof:parent_id":1158786617,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

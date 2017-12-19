@@ -15,6 +15,7 @@
     "geom:longitude":6.095298,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Zoom 40",
     "sg:city":"Zwolle",
     "sg:classifiers":[],
@@ -25,9 +26,14 @@
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158803507,
+        102191581,
+        1158804439,
+        404473861,
         85633337,
-        85797041,
-        85687045
+        101751861,
+        85687045,
+        85797041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,16 +43,30 @@
     "wof:geomhash":"f919c64c068c891703a0d9d8324a4d62",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158804439,
+            "neighbourhood_id":1158803507,
+            "region_id":85687045,
+            "venue_id":269655781
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158804439,
             "neighbourhood_id":85797041,
             "region_id":85687045,
             "venue_id":269655781
         }
     ],
     "wof:id":269655781,
-    "wof:lastmodified":1492496924,
+    "wof:lastmodified":1513671321,
     "wof:name":"Jannie De Jager",
-    "wof:parent_id":85797041,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

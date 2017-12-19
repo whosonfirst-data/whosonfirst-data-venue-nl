@@ -15,6 +15,7 @@
     "geom:longitude":4.908306,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1E Oosterparkstr 27",
     "sg:city":"Amsterdam",
     "sg:classifiers":[
@@ -34,13 +35,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803889,
-        1108802953,
+        1108945559,
         102191581,
         1108802305,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1158844335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +52,30 @@
     "wof:geomhash":"3d864906de57c3149163dfd41258589a",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803889,
-            "neighbourhood_id":1108802953,
+            "neighbourhood_id":1108945559,
+            "region_id":85687053,
+            "venue_id":320067237
+        },
+        {
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803889,
+            "neighbourhood_id":1108945559,
             "region_id":85687053,
             "venue_id":320067237
         }
     ],
     "wof:id":320067237,
-    "wof:lastmodified":1492483454,
+    "wof:lastmodified":1513697291,
     "wof:name":"Fack",
     "wof:parent_id":1108803889,
     "wof:placetype":"venue",

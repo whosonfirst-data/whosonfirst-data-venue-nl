@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1609301567,52.2519874573,6.1609301567,52.2519874573",
     "geom:latitude":52.251987,
     "geom:longitude":6.16093,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Brink 26",
     "sg:city":"Deventer",
     "sg:classifiers":[],
@@ -24,9 +26,13 @@
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158802139,
+        102191581,
+        1158804483,
+        404473825,
         85633337,
-        85797335,
-        85687043
+        101751865,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +40,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473800818,
-    "wof:geomhash":"7458d66a4ce46e5077b1354fe26e52ef",
+    "wof:geomhash":"c1352dc2d3b4398340c0d18ebe6886d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797335,
-            "region_id":85687043,
+            "localadmin_id":404473825,
+            "locality_id":101751865,
+            "macrohood_id":1158804483,
+            "neighbourhood_id":1158802139,
+            "region_id":85687045,
             "venue_id":1091575309
         }
     ],
     "wof:id":1091575309,
-    "wof:lastmodified":1473878862,
+    "wof:lastmodified":1513694006,
     "wof:name":"Tara, Promotions",
-    "wof:parent_id":85797335,
+    "wof:parent_id":1158802139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

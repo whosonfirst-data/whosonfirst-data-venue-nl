@@ -15,6 +15,7 @@
     "geom:longitude":4.458623,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Stationsplein 13",
     "sg:city":"Roosendaal",
     "sg:classifiers":[],
@@ -25,10 +26,13 @@
     "sg:province":"North Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158799879,
+        102191581,
+        1158801755,
+        404474587,
         85633337,
-        85798531,
-        85687035,
-        85797761
+        101751815,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,22 +42,20 @@
     "wof:geomhash":"7be16b38a010cf9e9d7c06f472deae3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798531,
-            "region_id":85687035,
-            "venue_id":303058993
-        },
-        {
-            "country_id":85633337,
-            "neighbourhood_id":85797761,
+            "localadmin_id":404474587,
+            "locality_id":101751815,
+            "macrohood_id":1158801755,
+            "neighbourhood_id":1158799879,
             "region_id":85687035,
             "venue_id":303058993
         }
     ],
     "wof:id":303058993,
-    "wof:lastmodified":1492473753,
+    "wof:lastmodified":1513697781,
     "wof:name":"Mathijssen Beheer Bv",
-    "wof:parent_id":-3,
+    "wof:parent_id":1158799879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

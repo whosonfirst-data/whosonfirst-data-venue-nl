@@ -15,6 +15,7 @@
     "geom:longitude":4.91306,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Wibautstraat 103 Bd",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -26,13 +27,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803779,
-        1108802953,
+        1108945559,
         102191581,
         1108802305,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1158844335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +45,30 @@
     "wof:geomhash":"bdd5b4e2599051f85e3a15a584f80fc6",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803779,
-            "neighbourhood_id":1108802953,
+            "neighbourhood_id":1108945559,
+            "region_id":85687053,
+            "venue_id":1091634055
+        },
+        {
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803779,
+            "neighbourhood_id":1108945559,
             "region_id":85687053,
             "venue_id":1091634055
         }
     ],
     "wof:id":1091634055,
-    "wof:lastmodified":1492509960,
+    "wof:lastmodified":1513709212,
     "wof:name":"Kapsalon Chedlis",
     "wof:parent_id":1108803779,
     "wof:placetype":"venue",

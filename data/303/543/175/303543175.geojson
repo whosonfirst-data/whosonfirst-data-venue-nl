@@ -15,6 +15,7 @@
     "geom:longitude":5.962398,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Hilleshagerwg 2",
     "sg:city":"Vylen",
     "sg:classifiers":[
@@ -29,18 +30,47 @@
     "sg:postcode":"6294 AP",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85796197,
+        102191581,
+        404474519,
+        85633337,
+        101810575,
+        85687033,
+        1158806683,
+        404474523,
+        101810597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DwuLkc4m6eJH9QQU6WJWC_50.791302_5.962398@1306269985"
     },
     "wof:country":"NL",
     "wof:geomhash":"94ea65cedbd543e96bf5f0dd39b2c0f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474519,
+            "locality_id":101810575,
+            "neighbourhood_id":85796197,
+            "region_id":85687033,
+            "venue_id":303543175
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474523,
+            "locality_id":101810597,
+            "neighbourhood_id":1158806683,
+            "region_id":85687033,
+            "venue_id":303543175
+        }
+    ],
     "wof:id":303543175,
-    "wof:lastmodified":1492471290,
+    "wof:lastmodified":1513700459,
     "wof:name":"Vijlerhof",
-    "wof:parent_id":85796197,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

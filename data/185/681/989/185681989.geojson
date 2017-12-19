@@ -15,6 +15,7 @@
     "geom:longitude":6.139913,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Egtenraysewg 26",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -25,18 +26,48 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.winia.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806859,
+        102191581,
+        404474525,
+        85633337,
+        101839199,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1j6fEmmbCQ8Blk9WUabQgc_51.388271_6.139913@1306269907"
     },
     "wof:country":"NL",
     "wof:geomhash":"0ec1ec3ee758799391c47f705003606d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "neighbourhood_id":1158806859,
+            "region_id":85687033,
+            "venue_id":185681989
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":185681989
+        }
+    ],
     "wof:id":185681989,
-    "wof:lastmodified":1492488046,
+    "wof:lastmodified":1513698093,
     "wof:name":"Winia Bv Kastwanden Op Maat",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

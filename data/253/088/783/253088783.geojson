@@ -15,6 +15,7 @@
     "geom:longitude":4.542576,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Koppeldk 63",
     "sg:city":"Rotterdam",
     "sg:classifiers":[],
@@ -25,12 +26,14 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158831805,
         1108805789,
         102191581,
         85633337,
         101751843,
-        1108805721,
-        85687041
+        1158831761,
+        85687041,
+        1108805721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +43,30 @@
     "wof:geomhash":"15b1c668c566b44ec181122906db6253",
     "wof:hierarchy":[
         {
+            "borough_id":1158831761,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "microhood_id":1158831805,
+            "neighbourhood_id":1108805789,
+            "region_id":85687041,
+            "venue_id":253088783
+        },
+        {
             "borough_id":1108805721,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
+            "microhood_id":1158831805,
             "neighbourhood_id":1108805789,
             "region_id":85687041,
             "venue_id":253088783
         }
     ],
     "wof:id":253088783,
-    "wof:lastmodified":1492489658,
+    "wof:lastmodified":1513713553,
     "wof:name":"Doesburg Rotterdam Bv",
-    "wof:parent_id":1108805789,
+    "wof:parent_id":1158831805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

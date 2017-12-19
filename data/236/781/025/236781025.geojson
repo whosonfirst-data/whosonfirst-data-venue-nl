@@ -26,10 +26,12 @@
     "sg:province":"Flevoland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687049,
         102191581,
-        404474539,
+        1158787383,
         85633337,
-        85687049
+        101751873,
+        1158787217
     ],
     "wof:brand_id":1125153967,
     "wof:breaches":[],
@@ -42,15 +44,17 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474539,
+            "locality_id":101751873,
+            "macrohood_id":1158787383,
+            "neighbourhood_id":1158787217,
             "region_id":85687049,
             "venue_id":236781025
         }
     ],
     "wof:id":236781025,
-    "wof:lastmodified":1511319548,
+    "wof:lastmodified":1513673255,
     "wof:name":"Horizon",
-    "wof:parent_id":-1,
+    "wof:parent_id":1158787217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

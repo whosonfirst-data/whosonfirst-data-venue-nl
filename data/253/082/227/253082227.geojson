@@ -15,6 +15,7 @@
     "geom:longitude":6.010761,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kouwe 6",
     "sg:city":"Dokkum",
     "sg:classifiers":[],
@@ -25,11 +26,13 @@
     "sg:province":"Friesland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85687055,
+        1126130917,
         102191581,
         404473755,
         85633337,
-        101806131
+        101806131,
+        85687055,
+        1126170231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,23 @@
             "country_id":85633337,
             "localadmin_id":404473755,
             "locality_id":101806131,
+            "neighbourhood_id":1126130917,
+            "region_id":85687055,
+            "venue_id":253082227
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":-1,
+            "neighbourhood_id":1126170231,
             "region_id":85687055,
             "venue_id":253082227
         }
     ],
     "wof:id":253082227,
-    "wof:lastmodified":1492488421,
+    "wof:lastmodified":1513679922,
     "wof:name":"Amb Dokkum Bv",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

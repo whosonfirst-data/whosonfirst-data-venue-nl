@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1850390434,52.2466468811,6.1850390434,52.2466468811",
     "geom:latitude":52.246647,
     "geom:longitude":6.185039,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Roermondstraat 37002",
     "sg:city":"Deventer",
     "sg:classifiers":[
@@ -33,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158802205,
+        102191581,
+        1158804471,
+        404473825,
         85633337,
-        85798365,
-        85687043
+        101751865,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +49,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473798884,
-    "wof:geomhash":"c8c78e45fde09b39eaaa549a2ad9b383",
+    "wof:geomhash":"c50235e72297a29dc837c51a8ec03d62",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798365,
-            "region_id":85687043,
+            "localadmin_id":404473825,
+            "locality_id":101751865,
+            "macrohood_id":1158804471,
+            "neighbourhood_id":1158802205,
+            "region_id":85687045,
             "venue_id":1075814845
         }
     ],
     "wof:id":1075814845,
-    "wof:lastmodified":1473878988,
+    "wof:lastmodified":1513696326,
     "wof:name":"Sallandse Elevator Maatschappij Bv",
-    "wof:parent_id":85798365,
+    "wof:parent_id":1158802205,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

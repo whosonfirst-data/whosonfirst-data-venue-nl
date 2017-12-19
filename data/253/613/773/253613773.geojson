@@ -15,6 +15,7 @@
     "geom:longitude":5.796558,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Van Caldenborghsweg 18",
     "sg:city":"Valkenburg Lb",
     "sg:classifiers":[],
@@ -24,18 +25,47 @@
     "sg:postcode":"6301 JK",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158807147,
+        102191581,
+        404474537,
+        85633337,
+        101809547,
+        85687033,
+        85797779,
+        1158805871,
+        101810577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GHxdZ7imWnHuaw1jjto6u_50.874249_5.796558@1306269952"
     },
     "wof:country":"NL",
     "wof:geomhash":"dbfe927434cc69781ad7b7fad4b1ecdb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474537,
+            "locality_id":101809547,
+            "neighbourhood_id":1158807147,
+            "region_id":85687033,
+            "venue_id":253613773
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":85797779,
+            "region_id":85687033,
+            "venue_id":253613773
+        }
+    ],
     "wof:id":253613773,
-    "wof:lastmodified":1492488955,
+    "wof:lastmodified":1513666493,
     "wof:name":"Naseman Vof",
-    "wof:parent_id":85797779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

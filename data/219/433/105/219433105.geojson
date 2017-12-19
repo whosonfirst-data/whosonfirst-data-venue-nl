@@ -15,6 +15,7 @@
     "geom:longitude":6.018116,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"St Paulusstraat 26",
     "sg:city":"Vaals",
     "sg:classifiers":[],
@@ -24,18 +25,50 @@
     "sg:postcode":"6291 AN",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806701,
+        102191581,
+        404474523,
+        85633337,
+        101756201,
+        85687033,
+        85796633,
+        85633111,
+        404227541,
+        102063693,
+        85682513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yFMGZr963V3U3xP8e8oCD_50.771793_6.018116@1306269926"
     },
     "wof:country":"NL",
     "wof:geomhash":"65c3e4fb8a1604f60ced3ca53db3f088",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474523,
+            "locality_id":101756201,
+            "neighbourhood_id":1158806701,
+            "region_id":85687033,
+            "venue_id":219433105
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063693,
+            "locality_id":-1,
+            "macrocounty_id":404227541,
+            "neighbourhood_id":85796633,
+            "region_id":85682513,
+            "venue_id":219433105
+        }
+    ],
     "wof:id":219433105,
-    "wof:lastmodified":1492501713,
+    "wof:lastmodified":1513652466,
     "wof:name":"Tobias Werner",
-    "wof:parent_id":85796633,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

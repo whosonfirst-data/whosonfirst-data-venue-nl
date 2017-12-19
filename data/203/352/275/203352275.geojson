@@ -15,6 +15,7 @@
     "geom:longitude":6.16551,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Postbus 4401",
     "sg:city":"Velden",
     "sg:classifiers":[],
@@ -24,18 +25,48 @@
     "sg:postcode":"5940 AA",
     "sg:province":"Zeeland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85798541,
+        102191581,
+        1158818263,
+        404474525,
+        85633337,
+        101839287,
+        85687033,
+        1158806909,
+        101809597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3o6BTh5LTuKO1ahutixroZ_51.414509_6.165510@1306269923"
     },
     "wof:country":"NL",
     "wof:geomhash":"f025a0080ad4f29bbfe40004da78ed62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":203352275
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101809597,
+            "neighbourhood_id":1158806909,
+            "region_id":85687033,
+            "venue_id":203352275
+        }
+    ],
     "wof:id":203352275,
-    "wof:lastmodified":1492480979,
+    "wof:lastmodified":1513678525,
     "wof:name":"Ivo",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

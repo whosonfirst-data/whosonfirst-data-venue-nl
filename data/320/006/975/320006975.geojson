@@ -15,6 +15,7 @@
     "geom:longitude":4.53755,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Gouderakstr 59A",
     "sg:city":"Rotterdam",
     "sg:classifiers":[],
@@ -25,12 +26,14 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158831815,
         1108805789,
         102191581,
         85633337,
         101751843,
-        1108805721,
-        85687041
+        1158831761,
+        85687041,
+        1108805721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +43,30 @@
     "wof:geomhash":"e3bfa0bb2c59c4eb8b12395393269605",
     "wof:hierarchy":[
         {
+            "borough_id":1158831761,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "microhood_id":1158831815,
+            "neighbourhood_id":1108805789,
+            "region_id":85687041,
+            "venue_id":320006975
+        },
+        {
             "borough_id":1108805721,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
+            "microhood_id":1158831815,
             "neighbourhood_id":1108805789,
             "region_id":85687041,
             "venue_id":320006975
         }
     ],
     "wof:id":320006975,
-    "wof:lastmodified":1492483069,
+    "wof:lastmodified":1513706434,
     "wof:name":"Stagro Bv",
-    "wof:parent_id":1108805789,
+    "wof:parent_id":1158831815,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

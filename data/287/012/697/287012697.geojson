@@ -15,6 +15,7 @@
     "geom:longitude":6.152722,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Venraysewg 208I",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -25,18 +26,48 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.qualitygardens.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806851,
+        102191581,
+        404474525,
+        85633337,
+        101839199,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Q06FUrHu80Z4oNdMjLsSS_51.376091_6.152722@1306269975"
     },
     "wof:country":"NL",
     "wof:geomhash":"20e2dc67b83ce2567ef0c6725894ad15",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "neighbourhood_id":1158806851,
+            "region_id":85687033,
+            "venue_id":287012697
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":287012697
+        }
+    ],
     "wof:id":287012697,
-    "wof:lastmodified":1492513631,
+    "wof:lastmodified":1513690135,
     "wof:name":"Quality Gardens",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

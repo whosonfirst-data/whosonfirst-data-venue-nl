@@ -15,6 +15,7 @@
     "geom:longitude":4.911678,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Gr Florisstr 11",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -27,13 +28,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803259,
-        1108802953,
+        1108945559,
         102191581,
         1108802305,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1158844335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +46,30 @@
     "wof:geomhash":"63995e25b18563b48fe8c9d966788745",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803259,
-            "neighbourhood_id":1108802953,
+            "neighbourhood_id":1108945559,
+            "region_id":85687053,
+            "venue_id":1075823339
+        },
+        {
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803259,
+            "neighbourhood_id":1108945559,
             "region_id":85687053,
             "venue_id":1075823339
         }
     ],
     "wof:id":1075823339,
-    "wof:lastmodified":1492486981,
+    "wof:lastmodified":1513677575,
     "wof:name":"Schubert Sticht",
     "wof:parent_id":1108803259,
     "wof:placetype":"venue",

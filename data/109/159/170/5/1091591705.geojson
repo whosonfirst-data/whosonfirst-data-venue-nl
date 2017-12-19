@@ -15,6 +15,7 @@
     "geom:longitude":6.11955,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Celsiuswg 46-K",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -24,7 +25,17 @@
     "sg:postcode":"5928 PR",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806877,
+        102191581,
+        404474525,
+        85633337,
+        101839199,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UtdFCIjNu9OvQRU4q4gnf_51.395309_6.119550@1306270015"
@@ -32,11 +43,31 @@
     "wof:country":"NL",
     "wof:created":1473802031,
     "wof:geomhash":"bbe6f830e55aa2344b2a4dd6228e812c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "neighbourhood_id":1158806877,
+            "region_id":85687033,
+            "venue_id":1091591705
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":1091591705
+        }
+    ],
     "wof:id":1091591705,
-    "wof:lastmodified":1492509465,
+    "wof:lastmodified":1513692136,
     "wof:name":"Skills",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

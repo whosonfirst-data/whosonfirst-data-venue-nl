@@ -15,6 +15,7 @@
     "geom:longitude":4.926363,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Transvaalstr 30A",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -26,13 +27,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803941,
-        1108802921,
+        1108945551,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +44,30 @@
     "wof:geomhash":"280bb2b50ebbf0b300456cb8f52e294b",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108945551,
+            "region_id":85687053,
+            "venue_id":220109215
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803941,
-            "neighbourhood_id":1108802921,
+            "neighbourhood_id":1108945551,
             "region_id":85687053,
             "venue_id":220109215
         }
     ],
     "wof:id":220109215,
-    "wof:lastmodified":1492481640,
+    "wof:lastmodified":1513680825,
     "wof:name":"B Organized",
     "wof:parent_id":1108803941,
     "wof:placetype":"venue",

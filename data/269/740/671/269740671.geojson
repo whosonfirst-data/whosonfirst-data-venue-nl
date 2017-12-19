@@ -15,6 +15,7 @@
     "geom:longitude":4.459747,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Brugstraat 77",
     "sg:city":"Roosendaal",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158799879,
+        102191581,
+        1158801755,
+        404474587,
         85633337,
-        85797761,
-        85687035,
-        85798531
+        101751815,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,22 +51,20 @@
     "wof:geomhash":"e20d3440a369c224f333d7174e2660dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797761,
-            "region_id":85687035,
-            "venue_id":269740671
-        },
-        {
-            "country_id":85633337,
-            "neighbourhood_id":85798531,
+            "localadmin_id":404474587,
+            "locality_id":101751815,
+            "macrohood_id":1158801755,
+            "neighbourhood_id":1158799879,
             "region_id":85687035,
             "venue_id":269740671
         }
     ],
     "wof:id":269740671,
-    "wof:lastmodified":1492495886,
+    "wof:lastmodified":1513688625,
     "wof:name":"Cafetaria De Brugstraat",
-    "wof:parent_id":-3,
+    "wof:parent_id":1158799879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

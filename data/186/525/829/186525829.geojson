@@ -15,6 +15,7 @@
     "geom:longitude":4.930065,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2E V Swindenstr 208",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -26,13 +27,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803667,
-        1108802779,
+        1108945553,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +44,30 @@
     "wof:geomhash":"836e81516cfc2f0366b780479e418922",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803667,
+            "neighbourhood_id":1108945553,
+            "region_id":85687053,
+            "venue_id":186525829
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803667,
-            "neighbourhood_id":1108802779,
+            "neighbourhood_id":1108945553,
             "region_id":85687053,
             "venue_id":186525829
         }
     ],
     "wof:id":186525829,
-    "wof:lastmodified":1492507864,
+    "wof:lastmodified":1513660994,
     "wof:name":"Ufuk, Sticht",
     "wof:parent_id":1108803667,
     "wof:placetype":"venue",

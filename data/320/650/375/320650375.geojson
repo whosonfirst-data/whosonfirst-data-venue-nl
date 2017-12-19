@@ -15,6 +15,7 @@
     "geom:longitude":5.783205,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Geulhemmerwg 49",
     "sg:city":"Berg En Terblyt",
     "sg:classifiers":[],
@@ -24,18 +25,47 @@
     "sg:postcode":"6325 PJ",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85797779,
+        102191581,
+        1158805871,
+        85633337,
+        101810577,
+        85687033,
+        1158807193,
+        404474537,
+        101809491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ciGKN2mOOT1WtMYdYnhmB_50.868458_5.783205@1306270001"
     },
     "wof:country":"NL",
     "wof:geomhash":"eb5ccf7047a5848a6642a1e7d824c88a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":85797779,
+            "region_id":85687033,
+            "venue_id":320650375
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474537,
+            "locality_id":101809491,
+            "neighbourhood_id":1158807193,
+            "region_id":85687033,
+            "venue_id":320650375
+        }
+    ],
     "wof:id":320650375,
-    "wof:lastmodified":1492484990,
+    "wof:lastmodified":1513664076,
     "wof:name":"Geulhemermolen, De",
-    "wof:parent_id":85797779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

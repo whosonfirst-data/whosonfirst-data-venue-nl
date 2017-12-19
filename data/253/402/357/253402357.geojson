@@ -15,6 +15,7 @@
     "geom:longitude":4.534141,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Berkenwoudestr 6",
     "sg:city":"Rotterdam",
     "sg:classifiers":[
@@ -35,12 +36,14 @@
     "sg:website":"http://www.safe.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158831817,
         85797947,
         102191581,
         85633337,
         101751843,
-        1108805721,
-        85687041
+        1158831761,
+        85687041,
+        1108805721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +53,30 @@
     "wof:geomhash":"cf230d7cab83510c78ee1262fd4a0d46",
     "wof:hierarchy":[
         {
+            "borough_id":1158831761,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "microhood_id":1158831817,
+            "neighbourhood_id":85797947,
+            "region_id":85687041,
+            "venue_id":253402357
+        },
+        {
             "borough_id":1108805721,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
+            "microhood_id":1158831817,
             "neighbourhood_id":85797947,
             "region_id":85687041,
             "venue_id":253402357
         }
     ],
     "wof:id":253402357,
-    "wof:lastmodified":1492489843,
+    "wof:lastmodified":1513682879,
     "wof:name":"Safe Motors Rotterdam Bv",
-    "wof:parent_id":85797947,
+    "wof:parent_id":1158831817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

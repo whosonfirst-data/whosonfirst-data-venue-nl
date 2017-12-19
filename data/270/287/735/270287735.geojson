@@ -15,6 +15,7 @@
     "geom:longitude":5.803293,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Bruisterbosch 16",
     "sg:city":"Sint Geertruid",
     "sg:classifiers":[],
@@ -24,18 +25,46 @@
     "sg:postcode":"6265 NK",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158807883,
+        102191581,
+        1158805871,
+        85633337,
+        101810595,
+        85687033,
+        85797779,
+        101810577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vb5POepRapIDqgDmtgpIT_50.805214_5.803293@1306269964"
     },
     "wof:country":"NL",
     "wof:geomhash":"ac6c15a4770410dc581dcc04f520b4f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810595,
+            "neighbourhood_id":1158807883,
+            "region_id":85687033,
+            "venue_id":270287735
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":85797779,
+            "region_id":85687033,
+            "venue_id":270287735
+        }
+    ],
     "wof:id":270287735,
-    "wof:lastmodified":1492501310,
+    "wof:lastmodified":1513712366,
     "wof:name":"Satori Holland Bv",
-    "wof:parent_id":85797779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

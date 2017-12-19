@@ -25,7 +25,17 @@
     "sg:postcode":"5941 AB",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806913,
+        102191581,
+        404474525,
+        85633337,
+        101809597,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:brand_id":1125149095,
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,11 +43,31 @@
     },
     "wof:country":"NL",
     "wof:geomhash":"544ab224d4cbaedf8bced85fdbe1c599",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101809597,
+            "neighbourhood_id":1158806913,
+            "region_id":85687033,
+            "venue_id":286637095
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":286637095
+        }
+    ],
     "wof:id":286637095,
-    "wof:lastmodified":1510874724,
+    "wof:lastmodified":1513657008,
     "wof:name":"Esso",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

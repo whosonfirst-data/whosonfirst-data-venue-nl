@@ -15,6 +15,7 @@
     "geom:longitude":6.18647,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Huiskensstr 68",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -25,18 +26,48 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.backus.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806797,
+        102191581,
+        404474525,
+        85633337,
+        1158817911,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RV0FVGEgoCOqwQSNxrK1G_51.391613_6.186470@1306269942"
     },
     "wof:country":"NL",
     "wof:geomhash":"dd5c8468cebd0465e3c3e9ca3cd26d6b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":1158817911,
+            "neighbourhood_id":1158806797,
+            "region_id":85687033,
+            "venue_id":236895437
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":236895437
+        }
+    ],
     "wof:id":236895437,
-    "wof:lastmodified":1492491382,
+    "wof:lastmodified":1513668217,
     "wof:name":"Backus Sormac Bv",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

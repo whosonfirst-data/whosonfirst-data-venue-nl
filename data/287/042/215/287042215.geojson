@@ -15,6 +15,7 @@
     "geom:longitude":5.76509,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Dorpstr 33",
     "sg:city":"St Geertruid",
     "sg:classifiers":[],
@@ -24,18 +25,46 @@
     "sg:postcode":"6265 AK",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85797779,
+        102191581,
+        1158805871,
+        85633337,
+        101810577,
+        85687033,
+        1158807873,
+        101810595
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5F1IUC5WyHemzhLF2ixGoF_50.795616_5.765090@1306269976"
     },
     "wof:country":"NL",
     "wof:geomhash":"891ab3b2d5835ffacf507e7c95b22aaf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":85797779,
+            "region_id":85687033,
+            "venue_id":287042215
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810595,
+            "neighbourhood_id":1158807873,
+            "region_id":85687033,
+            "venue_id":287042215
+        }
+    ],
     "wof:id":287042215,
-    "wof:lastmodified":1492513370,
+    "wof:lastmodified":1513691007,
     "wof:name":"Bukelblumke, 'T",
-    "wof:parent_id":85797779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

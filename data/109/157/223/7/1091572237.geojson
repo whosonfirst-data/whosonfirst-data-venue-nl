@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.176885128,52.2511558533,6.176885128,52.2511558533",
     "geom:latitude":52.251156,
     "geom:longitude":6.176885,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kamperstr 13024",
     "sg:city":"Deventer",
     "sg:classifiers":[],
@@ -25,9 +27,13 @@
     "sg:website":"http://www.dbghosting.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158802205,
+        102191581,
+        1158804471,
+        404473825,
         85633337,
-        85798365,
-        85687043
+        101751865,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,19 +41,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473800618,
-    "wof:geomhash":"69cbf68202021265c7c824f26160464c",
+    "wof:geomhash":"2e0b9e80e20abdccc2d47c7aed002c05",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798365,
-            "region_id":85687043,
+            "localadmin_id":404473825,
+            "locality_id":101751865,
+            "macrohood_id":1158804471,
+            "neighbourhood_id":1158802205,
+            "region_id":85687045,
             "venue_id":1091572237
         }
     ],
     "wof:id":1091572237,
-    "wof:lastmodified":1473878601,
+    "wof:lastmodified":1513707187,
     "wof:name":"Dbg Hosting",
-    "wof:parent_id":85798365,
+    "wof:parent_id":1158802205,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -15,6 +15,7 @@
     "geom:longitude":6.137465,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Maricollenweg 33",
     "sg:city":"Grubbenvorst",
     "sg:classifiers":[],
@@ -24,18 +25,49 @@
     "sg:postcode":"5971 AS",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158807283,
+        102191581,
+        404474541,
+        85633337,
+        101839243,
+        85687033,
+        85798541,
+        1158818263,
+        404474525,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xm752RR7uP80e3TbmkTnp_51.420879_6.137465@1306269935"
     },
     "wof:country":"NL",
     "wof:geomhash":"b962a2f0e603999282db551a08fa7bc4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474541,
+            "locality_id":101839243,
+            "neighbourhood_id":1158807283,
+            "region_id":85687033,
+            "venue_id":236167575
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":236167575
+        }
+    ],
     "wof:id":236167575,
-    "wof:lastmodified":1492491471,
+    "wof:lastmodified":1513684496,
     "wof:name":"B.W. Van Balkom",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1584849358,52.25522995,6.1584849358,52.25522995",
     "geom:latitude":52.25523,
     "geom:longitude":6.158485,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Sijzenbaanplein 18",
     "sg:city":"Deventer",
     "sg:classifiers":[],
@@ -24,9 +26,13 @@
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158802143,
+        102191581,
+        1158804483,
+        404473825,
         85633337,
-        85797335,
-        85687043
+        101751865,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +40,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473801422,
-    "wof:geomhash":"dc3ce232b0c2c7d601c9d5572d874791",
+    "wof:geomhash":"993791933e4ee38963477a56df4d1e6e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797335,
-            "region_id":85687043,
+            "localadmin_id":404473825,
+            "locality_id":101751865,
+            "macrohood_id":1158804483,
+            "neighbourhood_id":1158802143,
+            "region_id":85687045,
             "venue_id":1091584709
         }
     ],
     "wof:id":1091584709,
-    "wof:lastmodified":1473878724,
+    "wof:lastmodified":1513657583,
     "wof:name":"Intermediair Uitzendburo Bv",
-    "wof:parent_id":85797335,
+    "wof:parent_id":1158802143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

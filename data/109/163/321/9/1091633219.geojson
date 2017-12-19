@@ -15,6 +15,7 @@
     "geom:longitude":6.130342,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Op Den Akker 6",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -24,7 +25,18 @@
     "sg:postcode":"5925 CB",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806837,
+        102191581,
+        1158818277,
+        404474525,
+        85633337,
+        101839199,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2K5nIdDXf7GtdQ2xw8u8vA_51.375992_6.130342@1306270020"
@@ -32,11 +44,32 @@
     "wof:country":"NL",
     "wof:created":1473804767,
     "wof:geomhash":"5872707d09872a86d5f5acc020ab61b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "macrohood_id":1158818277,
+            "neighbourhood_id":1158806837,
+            "region_id":85687033,
+            "venue_id":1091633219
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":1091633219
+        }
+    ],
     "wof:id":1091633219,
-    "wof:lastmodified":1492509929,
+    "wof:lastmodified":1513673364,
     "wof:name":"Kapperie, De",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

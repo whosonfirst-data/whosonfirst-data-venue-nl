@@ -15,6 +15,7 @@
     "geom:longitude":6.170653,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rielerwg 83-85",
     "sg:city":"Deventer",
     "sg:classifiers":[],
@@ -25,11 +26,13 @@
     "sg:province":"Overijssel",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158802183,
+        102191581,
+        1158804469,
+        404473825,
         85633337,
-        85798309,
-        85687045,
-        85798365,
-        85687043
+        101751865,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,22 +42,20 @@
     "wof:geomhash":"c36b0dd986abcf3c84fe62879a86f988",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798309,
+            "localadmin_id":404473825,
+            "locality_id":101751865,
+            "macrohood_id":1158804469,
+            "neighbourhood_id":1158802183,
             "region_id":85687045,
-            "venue_id":320153323
-        },
-        {
-            "country_id":85633337,
-            "neighbourhood_id":85798365,
-            "region_id":85687043,
             "venue_id":320153323
         }
     ],
     "wof:id":320153323,
-    "wof:lastmodified":1492482168,
+    "wof:lastmodified":1513675063,
     "wof:name":"Bessels, Grime Atelier",
-    "wof:parent_id":-3,
+    "wof:parent_id":1158802183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

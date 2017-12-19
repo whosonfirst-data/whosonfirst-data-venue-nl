@@ -15,6 +15,7 @@
     "geom:longitude":6.007368,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Paul Van Ostayenstraat 7",
     "sg:city":"Landgraaf",
     "sg:classifiers":[],
@@ -24,18 +25,45 @@
     "sg:postcode":"6372 HX",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158805903,
+        102191581,
+        404474467,
+        85633337,
+        101839719,
+        85687033,
+        85798247
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aMEXKdUJBYlXepBy3wR11_50.891651_6.007368@1306269978"
     },
     "wof:country":"NL",
     "wof:geomhash":"9d320399d13df3f93d9dae4af32046f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474467,
+            "locality_id":101839719,
+            "neighbourhood_id":1158805903,
+            "region_id":85687033,
+            "venue_id":287271109
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474467,
+            "locality_id":101839719,
+            "neighbourhood_id":85798247,
+            "region_id":85687033,
+            "venue_id":287271109
+        }
+    ],
     "wof:id":287271109,
-    "wof:lastmodified":1492513699,
+    "wof:lastmodified":1513655769,
     "wof:name":"Administratiekantoor Satijn-Romgens",
-    "wof:parent_id":85798247,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

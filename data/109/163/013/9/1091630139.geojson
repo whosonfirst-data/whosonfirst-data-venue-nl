@@ -15,6 +15,7 @@
     "geom:longitude":6.165097,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Wilhelminastr 15",
     "sg:city":"Velden",
     "sg:classifiers":[],
@@ -24,7 +25,17 @@
     "sg:postcode":"5941 GJ",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806909,
+        102191581,
+        404474525,
+        85633337,
+        101809597,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jWoDp7Mg4bcFi1o6HmSav_51.413425_6.165097@1306270020"
@@ -32,11 +43,31 @@
     "wof:country":"NL",
     "wof:created":1473804562,
     "wof:geomhash":"63dcfdc3c341c90f3976c666fdc8a5af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101809597,
+            "neighbourhood_id":1158806909,
+            "region_id":85687033,
+            "venue_id":1091630139
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":1091630139
+        }
+    ],
     "wof:id":1091630139,
-    "wof:lastmodified":1492510082,
+    "wof:lastmodified":1513690134,
     "wof:name":"Heinemans, S",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

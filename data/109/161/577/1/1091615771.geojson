@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1721758842,52.2468338013,6.1721758842,52.2468338013",
     "geom:latitude":52.246834,
     "geom:longitude":6.172176,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Sint Olafstraat 12003",
     "sg:city":"Deventer",
     "sg:classifiers":[],
@@ -24,9 +26,13 @@
     "sg:province":"Overijssel",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158802205,
+        102191581,
+        1158804471,
+        404473825,
         85633337,
-        85798365,
-        85687043
+        101751865,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +40,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473803711,
-    "wof:geomhash":"cfec9c978c32c8122c86b3442be6431b",
+    "wof:geomhash":"861ad281263aee657333c25c9aaa3c83",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798365,
-            "region_id":85687043,
+            "localadmin_id":404473825,
+            "locality_id":101751865,
+            "macrohood_id":1158804471,
+            "neighbourhood_id":1158802205,
+            "region_id":85687045,
             "venue_id":1091615771
         }
     ],
     "wof:id":1091615771,
-    "wof:lastmodified":1473878808,
+    "wof:lastmodified":1513667890,
     "wof:name":"Stamacon Bv",
-    "wof:parent_id":85798365,
+    "wof:parent_id":1158802205,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -15,6 +15,7 @@
     "geom:longitude":5.820205,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Pres Kennedystr 5",
     "sg:city":"Margraten",
     "sg:classifiers":[],
@@ -24,18 +25,46 @@
     "sg:postcode":"6269 CA",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85797779,
+        102191581,
+        1158805871,
+        85633337,
+        101810577,
+        85687033,
+        1158807839,
+        101810579
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vGY0j1fLjXcJXoMR7MtAv_50.820354_5.820205@1306269908"
     },
     "wof:country":"NL",
     "wof:geomhash":"a3161d84291914a4d0bf54a24b916ec1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":85797779,
+            "region_id":85687033,
+            "venue_id":185951521
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810579,
+            "neighbourhood_id":1158807839,
+            "region_id":85687033,
+            "venue_id":185951521
+        }
+    ],
     "wof:id":185951521,
-    "wof:lastmodified":1492487858,
+    "wof:lastmodified":1513684151,
     "wof:name":"Bim Bam",
-    "wof:parent_id":85797779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

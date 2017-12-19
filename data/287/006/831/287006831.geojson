@@ -15,6 +15,7 @@
     "geom:longitude":6.159376,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Veerwg 22",
     "sg:city":"Velden",
     "sg:classifiers":[],
@@ -24,18 +25,48 @@
     "sg:postcode":"5941 EV",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806923,
+        102191581,
+        404474525,
+        85633337,
+        101809597,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oi0G7Mq2tIDZZGcPvfgfh_51.417164_6.159376@1306269975"
     },
     "wof:country":"NL",
     "wof:geomhash":"8d72adea96476e08eb98d90e3415ba6d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101809597,
+            "neighbourhood_id":1158806923,
+            "region_id":85687033,
+            "venue_id":287006831
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":287006831
+        }
+    ],
     "wof:id":287006831,
-    "wof:lastmodified":1492513548,
+    "wof:lastmodified":1513690135,
     "wof:name":"Losa",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

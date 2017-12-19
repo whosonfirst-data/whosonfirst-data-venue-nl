@@ -35,13 +35,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803941,
-        1108802921,
+        1108945551,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:brand_id":1125152481,
     "wof:breaches":[],
@@ -52,19 +53,30 @@
     "wof:geomhash":"0b1208c3532d0e38b26560dc334012d8",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108945551,
+            "region_id":85687053,
+            "venue_id":253669051
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803941,
-            "neighbourhood_id":1108802921,
+            "neighbourhood_id":1108945551,
             "region_id":85687053,
             "venue_id":253669051
         }
     ],
     "wof:id":253669051,
-    "wof:lastmodified":1511319085,
+    "wof:lastmodified":1513657057,
     "wof:name":"New York Pizza",
     "wof:parent_id":1108803941,
     "wof:placetype":"venue",

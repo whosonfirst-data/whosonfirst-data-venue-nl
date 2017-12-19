@@ -15,6 +15,7 @@
     "geom:longitude":5.998371,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Schaesbergerwg 196",
     "sg:city":"Heerlen",
     "sg:classifiers":[],
@@ -24,18 +25,49 @@
     "sg:postcode":"6415 AL",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806227,
+        102191581,
+        1158818167,
+        404474485,
+        85633337,
+        101839245,
+        85687033,
+        85798247,
+        404474467,
+        101839719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_671QGDLoC143tY0TC8qfTF_50.892784_5.998371@1306269911"
     },
     "wof:country":"NL",
     "wof:geomhash":"c3de75d5fdf8b56d64b7075c30c0a396",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474485,
+            "locality_id":101839245,
+            "macrohood_id":1158818167,
+            "neighbourhood_id":1158806227,
+            "region_id":85687033,
+            "venue_id":186306085
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474467,
+            "locality_id":101839719,
+            "neighbourhood_id":85798247,
+            "region_id":85687033,
+            "venue_id":186306085
+        }
+    ],
     "wof:id":186306085,
-    "wof:lastmodified":1492507500,
+    "wof:lastmodified":1513644485,
     "wof:name":"Jong Klussenbedrijf, De",
-    "wof:parent_id":85798247,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

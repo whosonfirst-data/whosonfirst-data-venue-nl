@@ -15,6 +15,7 @@
     "geom:longitude":6.017385,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Maastrichterlaan 114",
     "sg:city":"Vaals",
     "sg:classifiers":[
@@ -33,18 +34,50 @@
         "restaurant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806701,
+        102191581,
+        404474523,
+        85633337,
+        101756201,
+        85687033,
+        85796633,
+        85633111,
+        404227541,
+        102063693,
+        85682513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rWUrtL0pUCHk8hsUtrJx1_50.773026_6.017385@1306269957"
     },
     "wof:country":"NL",
     "wof:geomhash":"93deba19c1664a52cdb518bad2393c29",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474523,
+            "locality_id":101756201,
+            "neighbourhood_id":1158806701,
+            "region_id":85687033,
+            "venue_id":269757125
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063693,
+            "locality_id":-1,
+            "macrocounty_id":404227541,
+            "neighbourhood_id":85796633,
+            "region_id":85682513,
+            "venue_id":269757125
+        }
+    ],
     "wof:id":269757125,
-    "wof:lastmodified":1492496317,
+    "wof:lastmodified":1513662646,
     "wof:name":"Friture Angelo",
-    "wof:parent_id":85796633,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

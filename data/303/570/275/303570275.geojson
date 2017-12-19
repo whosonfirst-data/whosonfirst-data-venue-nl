@@ -15,6 +15,7 @@
     "geom:longitude":4.456701,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Passage 27",
     "sg:city":"Roosendaal",
     "sg:classifiers":[],
@@ -25,10 +26,13 @@
     "sg:province":"North Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158799881,
+        102191581,
+        1158801755,
+        404474587,
         85633337,
-        85798531,
-        85687035,
-        85797907
+        101751815,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,22 +42,20 @@
     "wof:geomhash":"bff327ae9043b5694f83e9d29a3fe14b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798531,
-            "region_id":85687035,
-            "venue_id":303570275
-        },
-        {
-            "country_id":85633337,
-            "neighbourhood_id":85797907,
+            "localadmin_id":404474587,
+            "locality_id":101751815,
+            "macrohood_id":1158801755,
+            "neighbourhood_id":1158799881,
             "region_id":85687035,
             "venue_id":303570275
         }
     ],
     "wof:id":303570275,
-    "wof:lastmodified":1492471115,
+    "wof:lastmodified":1513699538,
     "wof:name":"Oke",
-    "wof:parent_id":-3,
+    "wof:parent_id":1158799881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

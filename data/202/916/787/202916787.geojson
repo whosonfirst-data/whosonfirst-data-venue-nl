@@ -15,6 +15,7 @@
     "geom:longitude":6.149354,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Venlosewg 9",
     "sg:city":"Grubbenvorst",
     "sg:classifiers":[],
@@ -24,18 +25,49 @@
     "sg:postcode":"5971 CG",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85798541,
+        102191581,
+        1158818263,
+        404474525,
+        85633337,
+        101839287,
+        85687033,
+        1158807269,
+        404474541,
+        101839243
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kJRnUt2u3ZxkpkvQoX8Rk_51.418659_6.149354@1306269919"
     },
     "wof:country":"NL",
     "wof:geomhash":"0714ade0a8141e7cc66114db079fd7dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":202916787
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474541,
+            "locality_id":101839243,
+            "neighbourhood_id":1158807269,
+            "region_id":85687033,
+            "venue_id":202916787
+        }
+    ],
     "wof:id":202916787,
-    "wof:lastmodified":1492497867,
+    "wof:lastmodified":1513681221,
     "wof:name":"Brandt, Van Den",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

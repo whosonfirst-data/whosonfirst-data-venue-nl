@@ -15,6 +15,7 @@
     "geom:longitude":6.17102,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rielerwg 91",
     "sg:city":"Deventer",
     "sg:classifiers":[],
@@ -26,11 +27,13 @@
     "sg:website":"http://www.dmxs.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158802183,
+        102191581,
+        1158804469,
+        404473825,
         85633337,
-        85798309,
-        85687045,
-        85798365,
-        85687043
+        101751865,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,22 +44,20 @@
     "wof:geomhash":"08636d3e3a8afc98e2b219726a2e58a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798309,
+            "localadmin_id":404473825,
+            "locality_id":101751865,
+            "macrohood_id":1158804469,
+            "neighbourhood_id":1158802183,
             "region_id":85687045,
-            "venue_id":1091572393
-        },
-        {
-            "country_id":85633337,
-            "neighbourhood_id":85798365,
-            "region_id":85687043,
             "venue_id":1091572393
         }
     ],
     "wof:id":1091572393,
-    "wof:lastmodified":1492510999,
+    "wof:lastmodified":1513695337,
     "wof:name":"Dmxs",
-    "wof:parent_id":-3,
+    "wof:parent_id":1158802183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

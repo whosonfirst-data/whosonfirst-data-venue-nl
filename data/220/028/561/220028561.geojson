@@ -15,6 +15,7 @@
     "geom:longitude":6.130573,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Boekenderstraat 227",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -25,18 +26,50 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.plantingscience.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806839,
+        102191581,
+        1158818277,
+        404474525,
+        85633337,
+        101839199,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VC1yYrCBsOEgzIM7Lo6EE_51.378384_6.130573@1306269931"
     },
     "wof:country":"NL",
     "wof:geomhash":"7c9095b96353c3a45b469467a7979e29",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "macrohood_id":1158818277,
+            "neighbourhood_id":1158806839,
+            "region_id":85687033,
+            "venue_id":220028561
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":220028561
+        }
+    ],
     "wof:id":220028561,
-    "wof:lastmodified":1492481305,
+    "wof:lastmodified":1513646730,
     "wof:name":"Plantingscience",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -26,11 +26,13 @@
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85687033,
+        1158807073,
         102191581,
-        404474507,
+        1158818235,
+        404474531,
         85633337,
-        101839269
+        101839297,
+        85687033
     ],
     "wof:brand_id":1125157117,
     "wof:breaches":[],
@@ -43,16 +45,18 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474507,
-            "locality_id":101839269,
+            "localadmin_id":404474531,
+            "locality_id":101839297,
+            "macrohood_id":1158818235,
+            "neighbourhood_id":1158807073,
             "region_id":85687033,
             "venue_id":303106177
         }
     ],
     "wof:id":303106177,
-    "wof:lastmodified":1510874849,
+    "wof:lastmodified":1513706577,
     "wof:name":"Bo-Rent",
-    "wof:parent_id":-1,
+    "wof:parent_id":1158807073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

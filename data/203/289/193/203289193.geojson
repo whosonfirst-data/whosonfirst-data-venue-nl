@@ -15,6 +15,7 @@
     "geom:longitude":5.809153,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Ptr Tilliestr 25",
     "sg:city":"Berg En Terblyt",
     "sg:classifiers":[],
@@ -24,18 +25,47 @@
     "sg:postcode":"6325 AL",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158807191,
+        102191581,
+        404474537,
+        85633337,
+        1158817983,
+        85687033,
+        85797779,
+        1158805871,
+        101810577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ilFmSG4RAGBYjYtOxVCRm_50.857098_5.809153@1306269922"
     },
     "wof:country":"NL",
     "wof:geomhash":"a2ffc8776005f4a64c9eb159566e6645",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474537,
+            "locality_id":1158817983,
+            "neighbourhood_id":1158807191,
+            "region_id":85687033,
+            "venue_id":203289193
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":85797779,
+            "region_id":85687033,
+            "venue_id":203289193
+        }
+    ],
     "wof:id":203289193,
-    "wof:lastmodified":1492481090,
+    "wof:lastmodified":1513701292,
     "wof:name":"Frans Coumans Vof, Voegersbedrijf",
-    "wof:parent_id":85797779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -15,6 +15,7 @@
     "geom:longitude":4.916637,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Vrolikstr 64",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -26,13 +27,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803403,
-        1108802881,
+        1108945555,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +44,30 @@
     "wof:geomhash":"befb11073cf7399b4103d7fa5bb0577f",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803403,
+            "neighbourhood_id":1108945555,
+            "region_id":85687053,
+            "venue_id":236119359
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803403,
-            "neighbourhood_id":1108802881,
+            "neighbourhood_id":1108945555,
             "region_id":85687053,
             "venue_id":236119359
         }
     ],
     "wof:id":236119359,
-    "wof:lastmodified":1492493065,
+    "wof:lastmodified":1513651013,
     "wof:name":"Taalisman",
     "wof:parent_id":1108803403,
     "wof:placetype":"venue",

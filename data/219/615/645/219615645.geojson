@@ -15,6 +15,7 @@
     "geom:longitude":6.19208,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Doesborgwg 24",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -24,18 +25,48 @@
     "sg:postcode":"5916 SE",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806787,
+        102191581,
+        404474525,
+        85633337,
+        1158817911,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QQ7LwfQtff90oyU7m3C0q_51.387203_6.192080@1306269927"
     },
     "wof:country":"NL",
     "wof:geomhash":"13329950731001ba671c3069c67f5298",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":1158817911,
+            "neighbourhood_id":1158806787,
+            "region_id":85687033,
+            "venue_id":219615645
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":219615645
+        }
+    ],
     "wof:id":219615645,
-    "wof:lastmodified":1492502641,
+    "wof:lastmodified":1513692134,
     "wof:name":"Em-Ka",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

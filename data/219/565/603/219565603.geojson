@@ -15,6 +15,7 @@
     "geom:longitude":6.058381,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"D Zweepstr 17",
     "sg:city":"Kerkrade",
     "sg:classifiers":[],
@@ -25,10 +26,15 @@
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682513,
-        85633111,
+        1158806319,
+        102191581,
+        1158818153,
+        404474489,
+        85633337,
+        101839255,
+        85687033,
         85797565,
-        102063693
+        1158817899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +44,29 @@
     "wof:geomhash":"fe3dfaf84493ccb5da197c69c78b3297",
     "wof:hierarchy":[
         {
-            "country_id":85633111,
-            "county_id":102063693,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":101839255,
+            "macrohood_id":1158818153,
+            "neighbourhood_id":1158806319,
+            "region_id":85687033,
+            "venue_id":219565603
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":1158817899,
             "neighbourhood_id":85797565,
-            "region_id":85682513,
+            "region_id":85687033,
             "venue_id":219565603
         }
     ],
     "wof:id":219565603,
-    "wof:lastmodified":1492502261,
+    "wof:lastmodified":1513674978,
     "wof:name":"Asp",
-    "wof:parent_id":85797565,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

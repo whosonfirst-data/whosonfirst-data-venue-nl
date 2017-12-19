@@ -15,6 +15,7 @@
     "geom:longitude":6.139592,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Alberickstraat 19",
     "sg:city":"Venlo",
     "sg:classifiers":[
@@ -33,18 +34,50 @@
         "film"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806811,
+        102191581,
+        1158818269,
+        404474525,
+        85633337,
+        101839199,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XiJTarTMWFyN8tMSQWavL_51.374516_6.139592@1306269961"
     },
     "wof:country":"NL",
     "wof:geomhash":"94e56da72d744d922138e8ad9c59fd57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "macrohood_id":1158818269,
+            "neighbourhood_id":1158806811,
+            "region_id":85687033,
+            "venue_id":270089423
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":270089423
+        }
+    ],
     "wof:id":270089423,
-    "wof:lastmodified":1492500147,
+    "wof:lastmodified":1513678514,
     "wof:name":"Photo Digit",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

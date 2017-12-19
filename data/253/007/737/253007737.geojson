@@ -15,6 +15,7 @@
     "geom:longitude":4.488323,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Vlamingstraat 30",
     "sg:city":"Zoetermeer",
     "sg:classifiers":[],
@@ -25,13 +26,11 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        85798253,
-        85687041,
         85797467,
         102191581,
-        404474287,
-        101751835
+        85633337,
+        101751835,
+        85687041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +40,8 @@
     "wof:geomhash":"f13a7f13c9ee18dd64e32a867ef0eb12",
     "wof:hierarchy":[
         {
-            "country_id":85633337,
-            "neighbourhood_id":85798253,
-            "region_id":85687041,
-            "venue_id":253007737
-        },
-        {
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474287,
             "locality_id":101751835,
             "neighbourhood_id":85797467,
             "region_id":85687041,
@@ -57,9 +49,9 @@
         }
     ],
     "wof:id":253007737,
-    "wof:lastmodified":1492488487,
+    "wof:lastmodified":1513669441,
     "wof:name":"Firma Gebroeders Koot",
-    "wof:parent_id":-3,
+    "wof:parent_id":85797467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

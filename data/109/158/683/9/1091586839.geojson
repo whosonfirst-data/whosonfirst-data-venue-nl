@@ -25,7 +25,17 @@
     "sg:postcode":"5928 PR",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806859,
+        102191581,
+        404474525,
+        85633337,
+        101839199,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:brand_id":1125150005,
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,11 +44,31 @@
     "wof:country":"NL",
     "wof:created":1473801745,
     "wof:geomhash":"f142d75bb3350cb218f5a54be4bcf269",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "neighbourhood_id":1158806859,
+            "region_id":85687033,
+            "venue_id":1091586839
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":1091586839
+        }
+    ],
     "wof:id":1091586839,
-    "wof:lastmodified":1511319256,
+    "wof:lastmodified":1513711389,
     "wof:name":"Start",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -15,6 +15,7 @@
     "geom:longitude":4.927648,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Zeeburgerdijk 11",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -26,13 +27,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803579,
-        1108802779,
+        1108945553,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +44,30 @@
     "wof:geomhash":"f8daa2f6299fb971a59230f3761da642",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803579,
+            "neighbourhood_id":1108945553,
+            "region_id":85687053,
+            "venue_id":219415711
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803579,
-            "neighbourhood_id":1108802779,
+            "neighbourhood_id":1108945553,
             "region_id":85687053,
             "venue_id":219415711
         }
     ],
     "wof:id":219415711,
-    "wof:lastmodified":1492503294,
+    "wof:lastmodified":1513645806,
     "wof:name":"K.E. Wright",
     "wof:parent_id":1108803579,
     "wof:placetype":"venue",

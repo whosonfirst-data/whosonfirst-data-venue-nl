@@ -15,6 +15,7 @@
     "geom:longitude":6.017875,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kerkstraat 25",
     "sg:city":"Vaals",
     "sg:classifiers":[],
@@ -24,18 +25,50 @@
     "sg:postcode":"6291 AA",
     "sg:province":"North Rhine-Westphalia",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806701,
+        102191581,
+        404474523,
+        85633337,
+        101756201,
+        85687033,
+        85796633,
+        85633111,
+        404227541,
+        102063693,
+        85682513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32dAPP2TcEsjhbQDDvy8pQ_50.772980_6.017875@1306269948"
     },
     "wof:country":"NL",
     "wof:geomhash":"47f303fe83720f3bd0cb463198111089",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474523,
+            "locality_id":101756201,
+            "neighbourhood_id":1158806701,
+            "region_id":85687033,
+            "venue_id":253330099
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063693,
+            "locality_id":-1,
+            "macrocounty_id":404227541,
+            "neighbourhood_id":85796633,
+            "region_id":85682513,
+            "venue_id":253330099
+        }
+    ],
     "wof:id":253330099,
-    "wof:lastmodified":1492490824,
+    "wof:lastmodified":1513666775,
     "wof:name":"Souren Schijns Bv",
-    "wof:parent_id":85796633,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -15,6 +15,7 @@
     "geom:longitude":4.925876,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Ingogostr 5 A",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -27,13 +28,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803941,
-        1108802921,
+        1108945551,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +45,30 @@
     "wof:geomhash":"d5f933e4b33597bdcf5fa2f6dcdb93b4",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108945551,
+            "region_id":85687053,
+            "venue_id":220057015
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803941,
-            "neighbourhood_id":1108802921,
+            "neighbourhood_id":1108945551,
             "region_id":85687053,
             "venue_id":220057015
         }
     ],
     "wof:id":220057015,
-    "wof:lastmodified":1492481750,
+    "wof:lastmodified":1513680824,
     "wof:name":"7 Media",
     "wof:parent_id":1108803941,
     "wof:placetype":"venue",

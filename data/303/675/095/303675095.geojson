@@ -15,6 +15,7 @@
     "geom:longitude":4.907752,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Weesperzijde 49C",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -26,13 +27,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803259,
-        1108802953,
+        1108945559,
         102191581,
         1108802305,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1158844335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +44,30 @@
     "wof:geomhash":"ed9c6090f3a1b3116b33b4e6f98a41fd",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803259,
-            "neighbourhood_id":1108802953,
+            "neighbourhood_id":1108945559,
+            "region_id":85687053,
+            "venue_id":303675095
+        },
+        {
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803259,
+            "neighbourhood_id":1108945559,
             "region_id":85687053,
             "venue_id":303675095
         }
     ],
     "wof:id":303675095,
-    "wof:lastmodified":1492471257,
+    "wof:lastmodified":1513651926,
     "wof:name":"A. Van Stiphout",
     "wof:parent_id":1108803259,
     "wof:placetype":"venue",

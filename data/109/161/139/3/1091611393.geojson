@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1447200775,52.2621307373,6.1447200775,52.2621307373",
     "geom:latitude":52.262131,
     "geom:longitude":6.14472,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"J P Sweelinckstr 9",
     "sg:city":"Deventer",
     "sg:classifiers":[],
@@ -24,9 +26,13 @@
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158802153,
+        102191581,
+        1158804465,
+        404473825,
         85633337,
-        85798741,
-        85687043
+        101751865,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +40,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473803467,
-    "wof:geomhash":"b3bba8c67c08db1a71ae16a72c81b645",
+    "wof:geomhash":"524e6de0fea9777ac5c414b1375f4522",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798741,
-            "region_id":85687043,
+            "localadmin_id":404473825,
+            "locality_id":101751865,
+            "macrohood_id":1158804465,
+            "neighbourhood_id":1158802153,
+            "region_id":85687045,
             "venue_id":1091611393
         }
     ],
     "wof:id":1091611393,
-    "wof:lastmodified":1473878557,
+    "wof:lastmodified":1513674764,
     "wof:name":"Admiraal",
-    "wof:parent_id":85798741,
+    "wof:parent_id":1158802153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

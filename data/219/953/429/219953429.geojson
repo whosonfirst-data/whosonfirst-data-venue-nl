@@ -15,6 +15,7 @@
     "geom:longitude":4.385104,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Bosrand 29",
     "sg:city":"Schiedam",
     "sg:classifiers":[],
@@ -26,14 +27,12 @@
     "sg:website":"http://www.safetyequipment.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797797,
-        102191581,
-        404474253,
-        85633337,
         85687041,
-        85797803,
-        404474273,
-        101751851
+        102191581,
+        1158831033,
+        85633337,
+        101751845,
+        1158827057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,25 +44,17 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474253,
-            "neighbourhood_id":85797797,
-            "region_id":85687041,
-            "venue_id":219953429
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474273,
-            "locality_id":101751851,
-            "neighbourhood_id":85797803,
+            "locality_id":101751845,
+            "macrohood_id":1158831033,
+            "neighbourhood_id":1158827057,
             "region_id":85687041,
             "venue_id":219953429
         }
     ],
     "wof:id":219953429,
-    "wof:lastmodified":1492502359,
+    "wof:lastmodified":1513681203,
     "wof:name":"Safety Equipment Bv",
-    "wof:parent_id":-3,
+    "wof:parent_id":1158827057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

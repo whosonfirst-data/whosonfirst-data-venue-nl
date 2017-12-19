@@ -27,9 +27,14 @@
     "sg:website":"http://www.sns.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         85797041,
-        85687045
+        102191581,
+        1158804439,
+        404473861,
+        85633337,
+        101751861,
+        85687045,
+        1158803507
     ],
     "wof:brand_id":1125156653,
     "wof:breaches":[],
@@ -40,16 +45,30 @@
     "wof:geomhash":"88fc2b811d225708b969499fb7fcc88e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158804439,
             "neighbourhood_id":85797041,
+            "region_id":85687045,
+            "venue_id":270454229
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158804439,
+            "neighbourhood_id":1158803507,
             "region_id":85687045,
             "venue_id":270454229
         }
     ],
     "wof:id":270454229,
-    "wof:lastmodified":1510698683,
+    "wof:lastmodified":1513672070,
     "wof:name":"Sns",
-    "wof:parent_id":85797041,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

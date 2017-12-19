@@ -15,6 +15,7 @@
     "geom:longitude":6.16306,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Dorpsstr 4",
     "sg:city":"Velden",
     "sg:classifiers":[],
@@ -24,18 +25,48 @@
     "sg:postcode":"5941 EW",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85798541,
+        102191581,
+        1158818263,
+        404474525,
+        85633337,
+        101839287,
+        85687033,
+        1158806909,
+        101809597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_003g60zAr29SNMdqsOZW2g_51.414646_6.163060@1306269975"
     },
     "wof:country":"NL",
     "wof:geomhash":"c23b56acc3c0df21e6f29b075d2f7b0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":286988891
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101809597,
+            "neighbourhood_id":1158806909,
+            "region_id":85687033,
+            "venue_id":286988891
+        }
+    ],
     "wof:id":286988891,
-    "wof:lastmodified":1492476981,
+    "wof:lastmodified":1513673290,
     "wof:name":"Veldeblumke, 'T",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

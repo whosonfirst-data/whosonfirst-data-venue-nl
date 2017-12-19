@@ -15,6 +15,7 @@
     "geom:longitude":4.92677,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Domselaerstr 36",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -26,13 +27,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803667,
-        1108802779,
+        1108945553,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +44,30 @@
     "wof:geomhash":"91f6b02af4be3af925e46b1318fd1fb5",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803667,
+            "neighbourhood_id":1108945553,
+            "region_id":85687053,
+            "venue_id":270119489
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803667,
-            "neighbourhood_id":1108802779,
+            "neighbourhood_id":1108945553,
             "region_id":85687053,
             "venue_id":270119489
         }
     ],
     "wof:id":270119489,
-    "wof:lastmodified":1492500425,
+    "wof:lastmodified":1513671121,
     "wof:name":"Gruyter, Tessa De",
     "wof:parent_id":1108803667,
     "wof:placetype":"venue",

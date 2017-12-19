@@ -15,6 +15,7 @@
     "geom:longitude":6.135638,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Azaleastr 56",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -24,18 +25,50 @@
     "sg:postcode":"5922 EB",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806811,
+        102191581,
+        1158818269,
+        404474525,
+        85633337,
+        101839199,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IFtssnFuN9roZNKni2WF2_51.376125_6.135638@1306269926"
     },
     "wof:country":"NL",
     "wof:geomhash":"e176009e92e7944ecfb5ff2a6e432313",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "macrohood_id":1158818269,
+            "neighbourhood_id":1158806811,
+            "region_id":85687033,
+            "venue_id":219477857
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":219477857
+        }
+    ],
     "wof:id":219477857,
-    "wof:lastmodified":1492503447,
+    "wof:lastmodified":1513672764,
     "wof:name":"Plantendienst Venlo Vof",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

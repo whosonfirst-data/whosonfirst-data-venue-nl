@@ -15,6 +15,7 @@
     "geom:longitude":6.160286,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"M Dammewg 38",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -24,18 +25,48 @@
     "sg:postcode":"5928 PW",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806857,
+        102191581,
+        404474525,
+        85633337,
+        101839199,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55xTcO5KsHDKi6gtAXveTe_51.378674_6.160286@1306270007"
     },
     "wof:country":"NL",
     "wof:geomhash":"32c33a01e07c4ce25915d436d2a6f768",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "neighbourhood_id":1158806857,
+            "region_id":85687033,
+            "venue_id":336878393
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":336878393
+        }
+    ],
     "wof:id":336878393,
-    "wof:lastmodified":1492507339,
+    "wof:lastmodified":1513692417,
     "wof:name":"Stork Industry Services Bv Zuidoost",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

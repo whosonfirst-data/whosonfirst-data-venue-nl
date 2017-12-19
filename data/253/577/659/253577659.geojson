@@ -15,6 +15,7 @@
     "geom:longitude":4.94601,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Goudenregenpad 18",
     "sg:city":"Sleeuwyk",
     "sg:classifiers":[
@@ -33,11 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85687041,
+        1158799553,
         102191581,
         404474173,
         85633337,
-        101808515
+        101808515,
+        85687041,
+        404474453,
+        1158801571,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +56,24 @@
             "country_id":85633337,
             "localadmin_id":404474173,
             "locality_id":101808515,
+            "neighbourhood_id":1158799553,
             "region_id":85687041,
+            "venue_id":253577659
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474453,
+            "locality_id":1158801571,
+            "neighbourhood_id":1158799553,
+            "region_id":85687035,
             "venue_id":253577659
         }
     ],
     "wof:id":253577659,
-    "wof:lastmodified":1492489132,
+    "wof:lastmodified":1513677550,
     "wof:name":"Suze",
-    "wof:parent_id":-1,
+    "wof:parent_id":1158799553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

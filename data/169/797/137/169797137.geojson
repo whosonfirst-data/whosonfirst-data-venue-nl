@@ -25,7 +25,16 @@
     "sg:postcode":"6265 AP",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85797779,
+        102191581,
+        1158805871,
+        85633337,
+        101810577,
+        85687033,
+        1158807873,
+        101810595
+    ],
     "wof:brand_id":1125155959,
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,11 +42,30 @@
     },
     "wof:country":"NL",
     "wof:geomhash":"4a44d1e2ac88672123acd5a4b2507c03",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":85797779,
+            "region_id":85687033,
+            "venue_id":169797137
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810595,
+            "neighbourhood_id":1158807873,
+            "region_id":85687033,
+            "venue_id":169797137
+        }
+    ],
     "wof:id":169797137,
-    "wof:lastmodified":1511319505,
+    "wof:lastmodified":1513692894,
     "wof:name":"Nicole",
-    "wof:parent_id":85797779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -15,6 +15,7 @@
     "geom:longitude":6.183703,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Nijmeegseweg 12",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -24,18 +25,48 @@
     "sg:postcode":"5916 PT",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85798541,
+        102191581,
+        1158818263,
+        404474525,
+        85633337,
+        101839287,
+        85687033,
+        1158806797,
+        1158817911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VCz45ZzzNTSD7DQIUPSN0_51.381687_6.183703@1306269992"
     },
     "wof:country":"NL",
     "wof:geomhash":"e2dde755597fdc9ef71981aed1039ae2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":319948111
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":1158817911,
+            "neighbourhood_id":1158806797,
+            "region_id":85687033,
+            "venue_id":319948111
+        }
+    ],
     "wof:id":319948111,
-    "wof:lastmodified":1492479604,
+    "wof:lastmodified":1513672764,
     "wof:name":"Leo Van Schaijik",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

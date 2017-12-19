@@ -15,6 +15,7 @@
     "geom:longitude":4.548045,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Emelissedijk 247-249",
     "sg:city":"Rotterdam",
     "sg:classifiers":[
@@ -34,12 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158831805,
         1108805789,
         102191581,
         85633337,
         101751843,
-        1108805721,
-        85687041
+        1158831761,
+        85687041,
+        1108805721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +52,30 @@
     "wof:geomhash":"35ddba7050da4b09f82fcdd10fee0fda",
     "wof:hierarchy":[
         {
+            "borough_id":1158831761,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "microhood_id":1158831805,
+            "neighbourhood_id":1108805789,
+            "region_id":85687041,
+            "venue_id":269819095
+        },
+        {
             "borough_id":1108805721,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
+            "microhood_id":1158831805,
             "neighbourhood_id":1108805789,
             "region_id":85687041,
             "venue_id":269819095
         }
     ],
     "wof:id":269819095,
-    "wof:lastmodified":1492494772,
+    "wof:lastmodified":1513689655,
     "wof:name":"Chinees-Indisch Restaurant Golden Palace",
-    "wof:parent_id":1108805789,
+    "wof:parent_id":1158831805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

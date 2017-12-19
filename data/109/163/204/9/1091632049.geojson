@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0596599579,50.8935432434,6.0596599579,50.8935432434",
     "geom:latitude":50.893543,
     "geom:longitude":6.05966,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Laurastr 7",
     "sg:city":"Eygelshoven",
     "sg:classifiers":[],
@@ -24,10 +26,13 @@
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682513,
-        85633111,
         85797565,
-        102063693
+        102191581,
+        404474489,
+        85633337,
+        1158817899,
+        85687033,
+        1158806311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,20 +40,31 @@
     },
     "wof:country":"NL",
     "wof:created":1473804682,
-    "wof:geomhash":"ed8edf2ef11a89fc25142823b3a9a2db",
+    "wof:geomhash":"7842baf08bae1b844ab9d2f68f2f6bfe",
     "wof:hierarchy":[
         {
-            "country_id":85633111,
-            "county_id":102063693,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":1158817899,
             "neighbourhood_id":85797565,
-            "region_id":85682513,
+            "region_id":85687033,
+            "venue_id":1091632049
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":1158817899,
+            "neighbourhood_id":1158806311,
+            "region_id":85687033,
             "venue_id":1091632049
         }
     ],
     "wof:id":1091632049,
-    "wof:lastmodified":1473878476,
+    "wof:lastmodified":1513697018,
     "wof:name":"Janine",
-    "wof:parent_id":85797565,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

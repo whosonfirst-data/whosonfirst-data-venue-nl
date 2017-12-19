@@ -15,6 +15,7 @@
     "geom:longitude":6.134141,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Voltastr 27",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -25,18 +26,50 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.de-kievit.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806839,
+        102191581,
+        1158818277,
+        404474525,
+        85633337,
+        101839199,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wAPdPmxAbRKj9ihEDtSKm_51.382011_6.134141@1306269915"
     },
     "wof:country":"NL",
     "wof:geomhash":"1e1b40d0df338696e263e2fa11583629",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "macrohood_id":1158818277,
+            "neighbourhood_id":1158806839,
+            "region_id":85687033,
+            "venue_id":202413689
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":202413689
+        }
+    ],
     "wof:id":202413689,
-    "wof:lastmodified":1492498749,
+    "wof:lastmodified":1513694035,
     "wof:name":"Kievit, De",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

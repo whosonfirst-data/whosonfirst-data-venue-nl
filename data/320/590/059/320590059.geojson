@@ -15,6 +15,7 @@
     "geom:longitude":6.18478,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Hakkesstr 75",
     "sg:city":"Venlo",
     "sg:classifiers":[
@@ -33,18 +34,48 @@
         "groenten"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806797,
+        102191581,
+        404474525,
+        85633337,
+        1158817911,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JXQr80Hf5xOlsGyiYQ7Mu_51.391964_6.184780@1306270000"
     },
     "wof:country":"NL",
     "wof:geomhash":"14d6d69ac0346bbe0bdd13b2d161a424",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":1158817911,
+            "neighbourhood_id":1158806797,
+            "region_id":85687033,
+            "venue_id":320590059
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":320590059
+        }
+    ],
     "wof:id":320590059,
-    "wof:lastmodified":1492483100,
+    "wof:lastmodified":1513669814,
     "wof:name":"Driessen, Gebroeders A En J",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

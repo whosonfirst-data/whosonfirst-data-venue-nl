@@ -15,6 +15,7 @@
     "geom:longitude":6.134597,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Celsiuswg 56B",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -25,7 +26,17 @@
     "sg:province":"Limburg",
     "sg:website":"http://www.start.nl",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806859,
+        102191581,
+        404474525,
+        85633337,
+        101839199,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47utk5hmc22SyBdwtjcYNp_51.389881_6.134597@1306269995"
@@ -33,11 +44,31 @@
     "wof:country":"NL",
     "wof:created":1473798792,
     "wof:geomhash":"9198f4a74d6093f63b750627f3ca7ad2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "neighbourhood_id":1158806859,
+            "region_id":85687033,
+            "venue_id":1075812591
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":1075812591
+        }
+    ],
     "wof:id":1075812591,
-    "wof:lastmodified":1492486279,
+    "wof:lastmodified":1513672765,
     "wof:name":"Start Kans",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

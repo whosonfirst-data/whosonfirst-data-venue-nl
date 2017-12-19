@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2398900986,52.3373603821,5.2398900986,52.3373603821",
     "geom:latitude":52.33736,
     "geom:longitude":5.23989,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Oostgriend 89",
     "sg:city":"Almere",
     "sg:classifiers":[],
@@ -25,9 +27,12 @@
     "sg:website":"http://www.webontwikkeling.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687049,
+        102191581,
+        1158787349,
         85633337,
-        85797737,
-        85687053
+        1158787345,
+        1158786617
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,19 +40,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473800791,
-    "wof:geomhash":"ec156888ef11810cc18d36db45169583",
+    "wof:geomhash":"a91a9c8cecf8d1a73d2c65dbc2b07cbb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797737,
-            "region_id":85687053,
+            "locality_id":1158787345,
+            "macrohood_id":1158787349,
+            "neighbourhood_id":1158786617,
+            "region_id":85687049,
             "venue_id":1091574987
         }
     ],
     "wof:id":1091574987,
-    "wof:lastmodified":1473878827,
+    "wof:lastmodified":1513639616,
     "wof:name":"Sirius",
-    "wof:parent_id":85797737,
+    "wof:parent_id":1158786617,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

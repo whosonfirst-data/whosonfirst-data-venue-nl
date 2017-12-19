@@ -15,6 +15,7 @@
     "geom:longitude":5.771571,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Julianaweg 4",
     "sg:city":"Sint Geertruid",
     "sg:classifiers":[],
@@ -24,18 +25,46 @@
     "sg:postcode":"6265 AJ",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85797779,
+        102191581,
+        1158805871,
+        85633337,
+        101810577,
+        85687033,
+        1158807885,
+        101810595
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ovGETUZkv1V83pRIJCbB9_50.794792_5.771571@1306269925"
     },
     "wof:country":"NL",
     "wof:geomhash":"f0f296afe57ee730dd735221ffe0a8a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":85797779,
+            "region_id":85687033,
+            "venue_id":219357215
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810595,
+            "neighbourhood_id":1158807885,
+            "region_id":85687033,
+            "venue_id":219357215
+        }
+    ],
     "wof:id":219357215,
-    "wof:lastmodified":1492504250,
+    "wof:lastmodified":1513700403,
     "wof:name":"Brouwers Installaties En Dakwerken",
-    "wof:parent_id":85797779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

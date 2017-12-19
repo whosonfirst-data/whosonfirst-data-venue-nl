@@ -15,6 +15,7 @@
     "geom:longitude":5.65674,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Westersingel 36",
     "sg:city":"Sneek",
     "sg:classifiers":[],
@@ -25,10 +26,12 @@
     "sg:province":"Friesland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1126132217,
+        102191581,
+        1141960735,
         85633337,
-        85797295,
-        85687055,
-        85798499
+        101837971,
+        85687055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,22 +41,19 @@
     "wof:geomhash":"9b3276be80789af2e2e52a4ce59c072e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797295,
-            "region_id":85687055,
-            "venue_id":303663763
-        },
-        {
-            "country_id":85633337,
-            "neighbourhood_id":85798499,
+            "localadmin_id":1141960735,
+            "locality_id":101837971,
+            "neighbourhood_id":1126132217,
             "region_id":85687055,
             "venue_id":303663763
         }
     ],
     "wof:id":303663763,
-    "wof:lastmodified":1492472512,
+    "wof:lastmodified":1513683477,
     "wof:name":"R.M. Monsma",
-    "wof:parent_id":-3,
+    "wof:parent_id":1126132217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

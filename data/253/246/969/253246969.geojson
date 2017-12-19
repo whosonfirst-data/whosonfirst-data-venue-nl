@@ -15,6 +15,7 @@
     "geom:longitude":5.661699,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kloosterhof 20",
     "sg:city":"Sneek",
     "sg:classifiers":[],
@@ -25,9 +26,13 @@
     "sg:province":"Friesland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1126170229,
+        102191581,
         85633337,
-        85797295,
-        85687055
+        85687055,
+        1126132225,
+        1141960735,
+        101837971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,16 +42,27 @@
     "wof:geomhash":"03bb97f1a76aef3203cee6fa642dc440",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797295,
+            "locality_id":-1,
+            "neighbourhood_id":1126170229,
+            "region_id":85687055,
+            "venue_id":253246969
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1141960735,
+            "locality_id":101837971,
+            "neighbourhood_id":1126132225,
             "region_id":85687055,
             "venue_id":253246969
         }
     ],
     "wof:id":253246969,
-    "wof:lastmodified":1492489407,
+    "wof:lastmodified":1513704092,
     "wof:name":"Zeilmakerij Van Der Schaaf",
-    "wof:parent_id":85797295,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

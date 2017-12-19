@@ -15,6 +15,7 @@
     "geom:longitude":4.924038,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Linnaeusstr 25",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -26,13 +27,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803579,
-        1108802779,
+        1108945553,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +44,30 @@
     "wof:geomhash":"8979c251fe4ebc08be5cbd33cc910d0c",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803579,
+            "neighbourhood_id":1108945553,
+            "region_id":85687053,
+            "venue_id":286508951
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803579,
-            "neighbourhood_id":1108802779,
+            "neighbourhood_id":1108945553,
             "region_id":85687053,
             "venue_id":286508951
         }
     ],
     "wof:id":286508951,
-    "wof:lastmodified":1492476418,
+    "wof:lastmodified":1513690941,
     "wof:name":"Ruting, P",
     "wof:parent_id":1108803579,
     "wof:placetype":"venue",

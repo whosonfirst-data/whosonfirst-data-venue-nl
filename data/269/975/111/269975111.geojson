@@ -26,9 +26,14 @@
     "sg:province":"Overijssel",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         85797041,
-        85687045
+        102191581,
+        1158804439,
+        404473861,
+        85633337,
+        101751861,
+        85687045,
+        1158803507
     ],
     "wof:brand_id":1125162789,
     "wof:breaches":[],
@@ -39,16 +44,30 @@
     "wof:geomhash":"7c6cff09ce4d63bb7bf783c66312e120",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158804439,
             "neighbourhood_id":85797041,
+            "region_id":85687045,
+            "venue_id":269975111
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158804439,
+            "neighbourhood_id":1158803507,
             "region_id":85687045,
             "venue_id":269975111
         }
     ],
     "wof:id":269975111,
-    "wof:lastmodified":1511317239,
+    "wof:lastmodified":1513649767,
     "wof:name":"Singer",
-    "wof:parent_id":85797041,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

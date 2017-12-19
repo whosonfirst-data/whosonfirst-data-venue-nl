@@ -15,6 +15,7 @@
     "geom:longitude":5.500289,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Margrietstraat 22",
     "sg:city":"Eindhoven",
     "sg:classifiers":[
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687035,
+        102191581,
+        1158801463,
         85633337,
-        85798505,
-        85687035
+        101751819,
+        1158797341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +50,19 @@
     "wof:geomhash":"dfc9d29315e3d68249018f891399dc43",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798505,
+            "locality_id":101751819,
+            "macrohood_id":1158801463,
+            "neighbourhood_id":1158797341,
             "region_id":85687035,
             "venue_id":269795731
         }
     ],
     "wof:id":269795731,
-    "wof:lastmodified":1492495523,
+    "wof:lastmodified":1513703539,
     "wof:name":"Suntin",
-    "wof:parent_id":85798505,
+    "wof:parent_id":1158797341,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

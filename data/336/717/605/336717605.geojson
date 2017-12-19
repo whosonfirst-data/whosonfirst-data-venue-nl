@@ -15,6 +15,7 @@
     "geom:longitude":5.76688,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"De Munckhof 26",
     "sg:city":"Sint Geertruid",
     "sg:classifiers":[
@@ -32,18 +33,46 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158807873,
+        102191581,
+        1158805871,
+        85633337,
+        101810595,
+        85687033,
+        85797779,
+        101810577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IRmKnuskWFgRy0RakpAet_50.798141_5.766880@1306270005"
     },
     "wof:country":"NL",
     "wof:geomhash":"6d8adc4044a558218f63d0c3ff987817",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810595,
+            "neighbourhood_id":1158807873,
+            "region_id":85687033,
+            "venue_id":336717605
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":85797779,
+            "region_id":85687033,
+            "venue_id":336717605
+        }
+    ],
     "wof:id":336717605,
-    "wof:lastmodified":1492506005,
+    "wof:lastmodified":1513696214,
     "wof:name":"E.J.G.M. Reintjens",
-    "wof:parent_id":85797779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

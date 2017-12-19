@@ -15,6 +15,7 @@
     "geom:longitude":4.9269,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Linnaeusstraat 68",
     "sg:city":"Amsterdam",
     "sg:classifiers":[
@@ -35,13 +36,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803941,
-        1108802921,
+        1108945551,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,19 +53,30 @@
     "wof:geomhash":"0b1208c3532d0e38b26560dc334012d8",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108945551,
+            "region_id":85687053,
+            "venue_id":269827927
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803941,
-            "neighbourhood_id":1108802921,
+            "neighbourhood_id":1108945551,
             "region_id":85687053,
             "venue_id":269827927
         }
     ],
     "wof:id":269827927,
-    "wof:lastmodified":1492496711,
+    "wof:lastmodified":1513645822,
     "wof:name":"New York Pizza Delivery",
     "wof:parent_id":1108803941,
     "wof:placetype":"venue",

@@ -15,6 +15,7 @@
     "geom:longitude":6.09409,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Zwartewaterallee 20",
     "sg:city":"Zwolle",
     "sg:classifiers":[],
@@ -25,13 +26,15 @@
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        85797041,
-        85687045,
-        85797715,
+        1158803497,
         102191581,
+        1158804457,
         404473861,
-        101751861
+        85633337,
+        101751861,
+        85687045,
+        85797041,
+        1158804439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,12 @@
     "wof:geomhash":"1f3d0a35234a52bb718c77ff69787816",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797041,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158804457,
+            "neighbourhood_id":1158803497,
             "region_id":85687045,
             "venue_id":185980777
         },
@@ -51,13 +58,14 @@
             "country_id":85633337,
             "localadmin_id":404473861,
             "locality_id":101751861,
-            "neighbourhood_id":85797715,
+            "macrohood_id":1158804439,
+            "neighbourhood_id":85797041,
             "region_id":85687045,
             "venue_id":185980777
         }
     ],
     "wof:id":185980777,
-    "wof:lastmodified":1492487946,
+    "wof:lastmodified":1513677641,
     "wof:name":"Poppejans Kinderdagverblijf",
     "wof:parent_id":-3,
     "wof:placetype":"venue",

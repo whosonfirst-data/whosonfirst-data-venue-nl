@@ -15,6 +15,7 @@
     "geom:longitude":5.795398,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Meerssenderwg 22",
     "sg:city":"Valkenburg Lb",
     "sg:classifiers":[
@@ -34,18 +35,47 @@
         "flat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158807147,
+        102191581,
+        404474537,
+        85633337,
+        101809547,
+        85687033,
+        85797779,
+        1158805871,
+        101810577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1E9Kvj5qxrxAgxav8kWWCg_50.873981_5.795398@1306269936"
     },
     "wof:country":"NL",
     "wof:geomhash":"5f11fdb5a0b3cdf0b52c2618ce50c8b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474537,
+            "locality_id":101809547,
+            "neighbourhood_id":1158807147,
+            "region_id":85687033,
+            "venue_id":236310945
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":85797779,
+            "region_id":85687033,
+            "venue_id":236310945
+        }
+    ],
     "wof:id":236310945,
-    "wof:lastmodified":1492492558,
+    "wof:lastmodified":1513710734,
     "wof:name":"Mon Desir",
-    "wof:parent_id":85797779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

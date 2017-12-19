@@ -15,6 +15,7 @@
     "geom:longitude":6.016708,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Maastrichterln 113A",
     "sg:city":"Vaals",
     "sg:classifiers":[],
@@ -24,18 +25,50 @@
     "sg:postcode":"6291 EM",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806701,
+        102191581,
+        404474523,
+        85633337,
+        101756201,
+        85687033,
+        85796633,
+        85633111,
+        404227541,
+        102063693,
+        85682513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YnV7w5qLiFTXcyYTiOssL_50.773296_6.016708@1306269906"
     },
     "wof:country":"NL",
     "wof:geomhash":"531783a1320c0502e9375245eb734cc9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474523,
+            "locality_id":101756201,
+            "neighbourhood_id":1158806701,
+            "region_id":85687033,
+            "venue_id":185625749
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063693,
+            "locality_id":-1,
+            "macrocounty_id":404227541,
+            "neighbourhood_id":85796633,
+            "region_id":85682513,
+            "venue_id":185625749
+        }
+    ],
     "wof:id":185625749,
-    "wof:lastmodified":1492487639,
+    "wof:lastmodified":1513703729,
     "wof:name":"Vaals",
-    "wof:parent_id":85796633,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

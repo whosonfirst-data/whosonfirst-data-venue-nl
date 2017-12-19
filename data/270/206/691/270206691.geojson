@@ -15,6 +15,7 @@
     "geom:longitude":4.543631,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kerstendk 27",
     "sg:city":"Rotterdam",
     "sg:classifiers":[],
@@ -25,12 +26,14 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158831805,
         1108805789,
         102191581,
         85633337,
         101751843,
-        1108805721,
-        85687041
+        1158831761,
+        85687041,
+        1108805721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +43,30 @@
     "wof:geomhash":"0589001894c1c3dc5a5b5dd5c6964db9",
     "wof:hierarchy":[
         {
+            "borough_id":1158831761,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "microhood_id":1158831805,
+            "neighbourhood_id":1108805789,
+            "region_id":85687041,
+            "venue_id":270206691
+        },
+        {
             "borough_id":1108805721,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
+            "microhood_id":1158831805,
             "neighbourhood_id":1108805789,
             "region_id":85687041,
             "venue_id":270206691
         }
     ],
     "wof:id":270206691,
-    "wof:lastmodified":1492499787,
+    "wof:lastmodified":1513710218,
     "wof:name":"Wit, De",
-    "wof:parent_id":1108805789,
+    "wof:parent_id":1158831805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

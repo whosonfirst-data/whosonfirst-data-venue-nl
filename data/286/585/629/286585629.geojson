@@ -15,6 +15,7 @@
     "geom:longitude":4.541868,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Huniadk 251",
     "sg:city":"Rotterdam",
     "sg:classifiers":[],
@@ -25,12 +26,14 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158831805,
         1108805789,
         102191581,
         85633337,
         101751843,
-        1108805721,
-        85687041
+        1158831761,
+        85687041,
+        1108805721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +43,30 @@
     "wof:geomhash":"bd1f8f2bfee7e484ff95a0a8f58398ea",
     "wof:hierarchy":[
         {
+            "borough_id":1158831761,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "microhood_id":1158831805,
+            "neighbourhood_id":1108805789,
+            "region_id":85687041,
+            "venue_id":286585629
+        },
+        {
             "borough_id":1108805721,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751843,
+            "microhood_id":1158831805,
             "neighbourhood_id":1108805789,
             "region_id":85687041,
             "venue_id":286585629
         }
     ],
     "wof:id":286585629,
-    "wof:lastmodified":1492478134,
+    "wof:lastmodified":1513692385,
     "wof:name":"Dijkveld",
-    "wof:parent_id":1108805789,
+    "wof:parent_id":1158831805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

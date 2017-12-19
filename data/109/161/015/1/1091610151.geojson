@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1768841743,52.2511520386,6.1768841743,52.2511520386",
     "geom:latitude":52.251152,
     "geom:longitude":6.176884,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kamperstr 13020",
     "sg:city":"Deventer",
     "sg:classifiers":[],
@@ -25,9 +27,13 @@
     "sg:website":"http://www.4b-plus.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158802205,
+        102191581,
+        1158804471,
+        404473825,
         85633337,
-        85798365,
-        85687043
+        101751865,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,19 +41,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473803387,
-    "wof:geomhash":"2f4c9d098c77ee5feb965aac28473314",
+    "wof:geomhash":"ab737e6c8db6a0a92e859f6b7ba406b1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798365,
-            "region_id":85687043,
+            "localadmin_id":404473825,
+            "locality_id":101751865,
+            "macrohood_id":1158804471,
+            "neighbourhood_id":1158802205,
+            "region_id":85687045,
             "venue_id":1091610151
         }
     ],
     "wof:id":1091610151,
-    "wof:lastmodified":1473878470,
+    "wof:lastmodified":1513675095,
     "wof:name":"4B-Plus Bv",
-    "wof:parent_id":85798365,
+    "wof:parent_id":1158802205,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

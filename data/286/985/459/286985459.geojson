@@ -15,6 +15,7 @@
     "geom:longitude":5.967641,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Aan De Wolf 9",
     "sg:city":"Vylen",
     "sg:classifiers":[],
@@ -24,18 +25,47 @@
     "sg:postcode":"6294 BH",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806683,
+        102191581,
+        404474523,
+        85633337,
+        101810597,
+        85687033,
+        85796197,
+        404474519,
+        101810575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02HWdP6i23h76xBADIkrFQ_50.788719_5.967641@1306269975"
     },
     "wof:country":"NL",
     "wof:geomhash":"9fbdf2071b4c48bb4906df7df09ceb31",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474523,
+            "locality_id":101810597,
+            "neighbourhood_id":1158806683,
+            "region_id":85687033,
+            "venue_id":286985459
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474519,
+            "locality_id":101810575,
+            "neighbourhood_id":85796197,
+            "region_id":85687033,
+            "venue_id":286985459
+        }
+    ],
     "wof:id":286985459,
-    "wof:lastmodified":1492476332,
+    "wof:lastmodified":1513712374,
     "wof:name":"Marlou",
-    "wof:parent_id":85796197,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

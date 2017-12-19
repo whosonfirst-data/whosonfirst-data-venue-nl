@@ -15,6 +15,7 @@
     "geom:longitude":6.177384,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Bisschop Hoensbroeckstr 2",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -24,7 +25,16 @@
     "sg:postcode":"5914 BV",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806757,
+        102191581,
+        1158818263,
+        404474525,
+        85633337,
+        101839287,
+        85687033,
+        85798541
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gm02pOn5FtZ708CpBssYs_51.382919_6.177384@1306270018"
@@ -32,11 +42,32 @@
     "wof:country":"NL",
     "wof:created":1473803798,
     "wof:geomhash":"c156b9451d1269fc13029648187f6ce1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":1158806757,
+            "region_id":85687033,
+            "venue_id":1091617883
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":1091617883
+        }
+    ],
     "wof:id":1091617883,
-    "wof:lastmodified":1492510401,
+    "wof:lastmodified":1513657012,
     "wof:name":"A.J.M. Korsten-Gubbels",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

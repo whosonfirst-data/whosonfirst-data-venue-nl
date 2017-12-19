@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2196531296,52.3357582092,5.2196531296,52.3357582092",
     "geom:latitude":52.335758,
     "geom:longitude":5.219653,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kerkgracht 42",
     "sg:city":"Almere",
     "sg:classifiers":[],
@@ -24,9 +26,12 @@
     "sg:province":"Flevoland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687049,
+        102191581,
+        1158787349,
         85633337,
-        85797737,
-        85687053
+        1158787345,
+        1158786631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +39,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473804949,
-    "wof:geomhash":"8de16a810b0f2b68d1a4c1eebd1e7d4a",
+    "wof:geomhash":"4bdb64f6c96572f85075e31a1139e59a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797737,
-            "region_id":85687053,
+            "locality_id":1158787345,
+            "macrohood_id":1158787349,
+            "neighbourhood_id":1158786631,
+            "region_id":85687049,
             "venue_id":1091635837
         }
     ],
     "wof:id":1091635837,
-    "wof:lastmodified":1473878701,
+    "wof:lastmodified":1513714026,
     "wof:name":"Kapsalon Liesette",
-    "wof:parent_id":85797737,
+    "wof:parent_id":1158786631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

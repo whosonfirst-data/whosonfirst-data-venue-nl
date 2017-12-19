@@ -15,6 +15,7 @@
     "geom:longitude":5.821216,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rykswg 36",
     "sg:city":"Margraten",
     "sg:classifiers":[
@@ -32,18 +33,46 @@
         "pedicure"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158807839,
+        102191581,
+        1158805871,
+        85633337,
+        101810579,
+        85687033,
+        85797779,
+        101810577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nrpwK9bRXa2gijSPAL87S_50.819908_5.821216@1306269951"
     },
     "wof:country":"NL",
     "wof:geomhash":"029b7169f87fae2d5e685bf1f7ae7b1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810579,
+            "neighbourhood_id":1158807839,
+            "region_id":85687033,
+            "venue_id":253578507
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":85797779,
+            "region_id":85687033,
+            "venue_id":253578507
+        }
+    ],
     "wof:id":253578507,
-    "wof:lastmodified":1492489982,
+    "wof:lastmodified":1513674753,
     "wof:name":"Thoor Van De Weerdt, T Van",
-    "wof:parent_id":85797779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

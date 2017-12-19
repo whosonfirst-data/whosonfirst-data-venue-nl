@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6872601509,50.8498497009,5.6872601509,50.8498497009",
     "geom:latitude":50.84985,
     "geom:longitude":5.68726,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Postbus 1745",
     "sg:city":"Maastricht",
     "sg:classifiers":[
@@ -34,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687033,
+        102191581,
+        1158818141,
         85633337,
-        85797109,
-        85687033
+        101751803,
+        1158806325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +49,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473800878,
-    "wof:geomhash":"780e02024ed04f66360e304242db2d25",
+    "wof:geomhash":"58b1d1037ef3303821aaceb9666ca2b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797109,
+            "locality_id":101751803,
+            "macrohood_id":1158818141,
+            "neighbourhood_id":1158806325,
             "region_id":85687033,
             "venue_id":1091576651
         }
     ],
     "wof:id":1091576651,
-    "wof:lastmodified":1473878923,
+    "wof:lastmodified":1513700211,
     "wof:name":"Jazz News",
-    "wof:parent_id":85797109,
+    "wof:parent_id":1158806325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

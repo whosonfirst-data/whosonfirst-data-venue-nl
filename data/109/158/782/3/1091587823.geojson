@@ -26,11 +26,14 @@
     "sg:province":"North Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797103,
+        1158818947,
         102191581,
-        404474073,
+        1158823155,
+        404474061,
         85633337,
-        85687053
+        101751897,
+        85687053,
+        1158818951
     ],
     "wof:brand_id":1125155073,
     "wof:breaches":[],
@@ -44,16 +47,28 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474073,
-            "neighbourhood_id":85797103,
+            "localadmin_id":404474061,
+            "locality_id":101751897,
+            "macrohood_id":1158823155,
+            "neighbourhood_id":1158818947,
+            "region_id":85687053,
+            "venue_id":1091587823
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474061,
+            "locality_id":101751897,
+            "macrohood_id":1158823155,
+            "neighbourhood_id":1158818951,
             "region_id":85687053,
             "venue_id":1091587823
         }
     ],
     "wof:id":1091587823,
-    "wof:lastmodified":1510875082,
+    "wof:lastmodified":1513679234,
     "wof:name":"Vedior",
-    "wof:parent_id":85797103,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

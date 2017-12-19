@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1592741013,52.2512588501,6.1592741013,52.2512588501",
     "geom:latitude":52.251259,
     "geom:longitude":6.159274,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Brink 66",
     "sg:city":"Deventer",
     "sg:classifiers":[],
@@ -24,9 +26,13 @@
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158802139,
+        102191581,
+        1158804483,
+        404473825,
         85633337,
-        85797335,
-        85687043
+        101751865,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +40,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473804834,
-    "wof:geomhash":"b6c9ae6c49a26f3fab5c108d532fddfb",
+    "wof:geomhash":"987b4a86bd0acf53c4288d145ba05278",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797335,
-            "region_id":85687043,
+            "localadmin_id":404473825,
+            "locality_id":101751865,
+            "macrohood_id":1158804483,
+            "neighbourhood_id":1158802139,
+            "region_id":85687045,
             "venue_id":1091634497
         }
     ],
     "wof:id":1091634497,
-    "wof:lastmodified":1473878612,
+    "wof:lastmodified":1513683753,
     "wof:name":"Kapsalon Ellen Klein Koerkamp",
-    "wof:parent_id":85797335,
+    "wof:parent_id":1158802139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

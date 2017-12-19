@@ -15,6 +15,7 @@
     "geom:longitude":6.006843,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Dokter Poelsstraat 44",
     "sg:city":"Landgraaf",
     "sg:classifiers":[],
@@ -24,18 +25,45 @@
     "sg:postcode":"6371 ES",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158805875,
+        102191581,
+        404474467,
+        85633337,
+        101839719,
+        85687033,
+        85798247
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lPvYA14InFQy6Lb9SFO79_50.904564_6.006843@1306269995"
     },
     "wof:country":"NL",
     "wof:geomhash":"b0eef2acfe39784334d971ddeda2750e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474467,
+            "locality_id":101839719,
+            "neighbourhood_id":1158805875,
+            "region_id":85687033,
+            "venue_id":320136353
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474467,
+            "locality_id":101839719,
+            "neighbourhood_id":85798247,
+            "region_id":85687033,
+            "venue_id":320136353
+        }
+    ],
     "wof:id":320136353,
-    "wof:lastmodified":1492483349,
+    "wof:lastmodified":1513684266,
     "wof:name":"Gevelverzorging Melchers",
-    "wof:parent_id":85798247,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

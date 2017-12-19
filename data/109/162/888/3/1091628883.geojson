@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1679677963,52.2525672913,6.1679677963,52.2525672913",
     "geom:latitude":52.252567,
     "geom:longitude":6.167968,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kazernestr 17",
     "sg:city":"Deventer",
     "sg:classifiers":[],
@@ -24,9 +26,13 @@
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158802147,
+        102191581,
+        1158804483,
+        404473825,
         85633337,
-        85798365,
-        85687043
+        101751865,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +40,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473804488,
-    "wof:geomhash":"6f52782cf1b3f3bce8785e6565cbb67c",
+    "wof:geomhash":"133fc7f2f05b62365209edb711cfd85a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798365,
-            "region_id":85687043,
+            "localadmin_id":404473825,
+            "locality_id":101751865,
+            "macrohood_id":1158804483,
+            "neighbourhood_id":1158802147,
+            "region_id":85687045,
             "venue_id":1091628883
         }
     ],
     "wof:id":1091628883,
-    "wof:lastmodified":1473879079,
+    "wof:lastmodified":1513669950,
     "wof:name":"Hair-Fantasy",
-    "wof:parent_id":85798365,
+    "wof:parent_id":1158802147,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

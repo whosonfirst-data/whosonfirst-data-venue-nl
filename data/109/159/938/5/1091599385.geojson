@@ -25,7 +25,17 @@
     "sg:postcode":"5916 PT",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806797,
+        102191581,
+        404474525,
+        85633337,
+        1158817911,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:brand_id":1125155785,
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,11 +44,31 @@
     "wof:country":"NL",
     "wof:created":1473802487,
     "wof:geomhash":"87f2c30dbad2ccf1e5edf08159e54b64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":1158817911,
+            "neighbourhood_id":1158806797,
+            "region_id":85687033,
+            "venue_id":1091599385
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":1091599385
+        }
+    ],
     "wof:id":1091599385,
-    "wof:lastmodified":1510697665,
+    "wof:lastmodified":1513692139,
     "wof:name":"Leen Bakker",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

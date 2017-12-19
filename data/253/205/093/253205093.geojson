@@ -15,6 +15,7 @@
     "geom:longitude":5.823687,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Gouverneur Kremersstraat 19",
     "sg:city":"Margraten",
     "sg:classifiers":[],
@@ -24,18 +25,46 @@
     "sg:postcode":"6269 DB",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85797779,
+        102191581,
+        1158805871,
+        85633337,
+        101810577,
+        85687033,
+        1158807839,
+        101810579
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QY1ZfItS9I6AWkwfOpCf7_50.821331_5.823687@1306269947"
     },
     "wof:country":"NL",
     "wof:geomhash":"a4c2ef7e5e42aff647ec41dbb2e6c54a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":85797779,
+            "region_id":85687033,
+            "venue_id":253205093
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810579,
+            "neighbourhood_id":1158807839,
+            "region_id":85687033,
+            "venue_id":253205093
+        }
+    ],
     "wof:id":253205093,
-    "wof:lastmodified":1492489666,
+    "wof:lastmodified":1513710278,
     "wof:name":"Restauratie Atelier",
-    "wof:parent_id":85797779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

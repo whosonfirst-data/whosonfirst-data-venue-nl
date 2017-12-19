@@ -15,6 +15,7 @@
     "geom:longitude":4.91306,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Jan Bernardusstraat 24 H.L.",
     "sg:city":"Amsterdam",
     "sg:classifiers":[
@@ -31,13 +32,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803779,
-        1108802953,
+        1108945559,
         102191581,
         1108802305,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1158844335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +49,30 @@
     "wof:geomhash":"958694d7c1c71f7eb40423bbdfeed3f0",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803779,
-            "neighbourhood_id":1108802953,
+            "neighbourhood_id":1108945559,
+            "region_id":85687053,
+            "venue_id":236247139
+        },
+        {
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803779,
+            "neighbourhood_id":1108945559,
             "region_id":85687053,
             "venue_id":236247139
         }
     ],
     "wof:id":236247139,
-    "wof:lastmodified":1492492648,
+    "wof:lastmodified":1513696449,
     "wof:name":"Eventief Evenementen Organisatie",
     "wof:parent_id":1108803779,
     "wof:placetype":"venue",

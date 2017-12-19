@@ -15,6 +15,7 @@
     "geom:longitude":6.158576,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Hertenkamp 35",
     "sg:city":"Tegelen",
     "sg:classifiers":[],
@@ -25,10 +26,14 @@
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682513,
-        85633111,
         85797647,
-        102063773
+        102191581,
+        1158818255,
+        404474525,
+        85633337,
+        101839319,
+        85687033,
+        1158806901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,30 @@
     "wof:geomhash":"679e4d456920c69f046e002d23916dd5",
     "wof:hierarchy":[
         {
-            "country_id":85633111,
-            "county_id":102063773,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839319,
+            "macrohood_id":1158818255,
             "neighbourhood_id":85797647,
-            "region_id":85682513,
+            "region_id":85687033,
+            "venue_id":219351751
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839319,
+            "macrohood_id":1158818255,
+            "neighbourhood_id":1158806901,
+            "region_id":85687033,
             "venue_id":219351751
         }
     ],
     "wof:id":219351751,
-    "wof:lastmodified":1492503407,
+    "wof:lastmodified":1513653482,
     "wof:name":"Vof Montagebedrijf V.D. Vinne",
-    "wof:parent_id":85797647,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

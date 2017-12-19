@@ -15,6 +15,7 @@
     "geom:longitude":6.064736,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Grupellostr 8-10",
     "sg:city":"Kerkrade",
     "sg:classifiers":[],
@@ -26,13 +27,14 @@
     "sg:website":"http://www.westlex.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797721,
+        1158806299,
         102191581,
-        85633111,
-        404227541,
-        101839485,
-        102063693,
-        85682513
+        1158818155,
+        404474489,
+        85633337,
+        101839255,
+        85687033,
+        85797721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +45,29 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633111,
-            "county_id":102063693,
-            "locality_id":101839485,
-            "macrocounty_id":404227541,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":101839255,
+            "macrohood_id":1158818155,
+            "neighbourhood_id":1158806299,
+            "region_id":85687033,
+            "venue_id":220169519
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":101839255,
+            "macrohood_id":1158818155,
             "neighbourhood_id":85797721,
-            "region_id":85682513,
+            "region_id":85687033,
             "venue_id":220169519
         }
     ],
     "wof:id":220169519,
-    "wof:lastmodified":1492481200,
+    "wof:lastmodified":1513710705,
     "wof:name":"Goltstein Gerlag & Ruijters",
-    "wof:parent_id":85797721,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

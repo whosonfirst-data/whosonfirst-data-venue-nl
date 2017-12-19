@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1701087952,52.256778717,6.1701087952,52.256778717",
     "geom:latitude":52.256779,
     "geom:longitude":6.170109,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Metzelaarpln 24",
     "sg:city":"Deventer",
     "sg:classifiers":[],
@@ -25,9 +27,13 @@
     "sg:website":"http://www.cavallinodesign.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158802183,
+        102191581,
+        1158804469,
+        404473825,
         85633337,
-        85798365,
-        85687043
+        101751865,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,19 +41,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473800601,
-    "wof:geomhash":"65a9e4a466c8ecc27be8dec5678d6d81",
+    "wof:geomhash":"a258fcaf593c46b0bcaacedf97c90fcb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798365,
-            "region_id":85687043,
+            "localadmin_id":404473825,
+            "locality_id":101751865,
+            "macrohood_id":1158804469,
+            "neighbourhood_id":1158802183,
+            "region_id":85687045,
             "venue_id":1091571933
         }
     ],
     "wof:id":1091571933,
-    "wof:lastmodified":1473878583,
+    "wof:lastmodified":1513688751,
     "wof:name":"Cavallino",
-    "wof:parent_id":85798365,
+    "wof:parent_id":1158802183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

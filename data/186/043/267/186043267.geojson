@@ -15,6 +15,7 @@
     "geom:longitude":6.124818,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Vlierboomstraat 35",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -24,18 +25,50 @@
     "sg:postcode":"5925 GB",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806837,
+        102191581,
+        1158818277,
+        404474525,
+        85633337,
+        101839199,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_375FAdzmT6L6CmtIhH89xF_51.376987_6.124818@1306269909"
     },
     "wof:country":"NL",
     "wof:geomhash":"bd8fdaa157a83c468092156d8a8d7ec5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "macrohood_id":1158818277,
+            "neighbourhood_id":1158806837,
+            "region_id":85687033,
+            "venue_id":186043267
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":186043267
+        }
+    ],
     "wof:id":186043267,
-    "wof:lastmodified":1492509376,
+    "wof:lastmodified":1513683508,
     "wof:name":"Flos Koerierservice",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

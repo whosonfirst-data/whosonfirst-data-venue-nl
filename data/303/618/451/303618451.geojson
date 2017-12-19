@@ -15,6 +15,7 @@
     "geom:longitude":5.733625,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Bergerstr 10",
     "sg:city":"Maastricht",
     "sg:classifiers":[
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687033,
+        102191581,
+        1158818145,
         85633337,
-        85797631,
-        85687033
+        101751803,
+        1158806399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,19 @@
     "wof:geomhash":"8eff8001e4794bce30410dab0a64cfc0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797631,
+            "locality_id":101751803,
+            "macrohood_id":1158818145,
+            "neighbourhood_id":1158806399,
             "region_id":85687033,
             "venue_id":303618451
         }
     ],
     "wof:id":303618451,
-    "wof:lastmodified":1492474753,
+    "wof:lastmodified":1513698803,
     "wof:name":"Nordson",
-    "wof:parent_id":85797631,
+    "wof:parent_id":1158806399,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -15,6 +15,7 @@
     "geom:longitude":5.820143,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Hoenderstr 2",
     "sg:city":"Margraten",
     "sg:classifiers":[],
@@ -24,18 +25,46 @@
     "sg:postcode":"6269 BS",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85797779,
+        102191581,
+        1158805871,
+        85633337,
+        101810577,
+        85687033,
+        1158807839,
+        101810579
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lszwY1RX0wL3gZU4Ynwjx_50.819809_5.820143@1306269927"
     },
     "wof:country":"NL",
     "wof:geomhash":"8ed198e16211ee6aa685a14b9cef063a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":85797779,
+            "region_id":85687033,
+            "venue_id":219634657
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810579,
+            "neighbourhood_id":1158807839,
+            "region_id":85687033,
+            "venue_id":219634657
+        }
+    ],
     "wof:id":219634657,
-    "wof:lastmodified":1492503752,
+    "wof:lastmodified":1513646719,
     "wof:name":"Habets & Royen",
-    "wof:parent_id":85797779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

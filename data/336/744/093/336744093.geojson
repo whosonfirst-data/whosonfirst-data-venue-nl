@@ -15,6 +15,7 @@
     "geom:longitude":5.79372,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Honthem 51",
     "sg:city":"Margraten",
     "sg:classifiers":[
@@ -32,18 +33,45 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158807865,
+        102191581,
+        1158805871,
+        85633337,
+        101810577,
+        85687033,
+        85797779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tp8L3TylCjgGwKphAg9K3_50.817711_5.793720@1306270005"
     },
     "wof:country":"NL",
     "wof:geomhash":"e9a7cd86ff373ddb9eb11bb236a51f5d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":1158807865,
+            "region_id":85687033,
+            "venue_id":336744093
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":85797779,
+            "region_id":85687033,
+            "venue_id":336744093
+        }
+    ],
     "wof:id":336744093,
-    "wof:lastmodified":1492506601,
+    "wof:lastmodified":1513674059,
     "wof:name":"Ahwahnee Bv",
-    "wof:parent_id":85797779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

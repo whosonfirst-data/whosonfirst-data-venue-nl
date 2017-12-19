@@ -15,6 +15,7 @@
     "geom:longitude":6.06536,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Veldhofstraat 150",
     "sg:city":"Eygelshoven",
     "sg:classifiers":[
@@ -34,10 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682513,
-        85633111,
+        1158806319,
+        102191581,
+        1158818153,
+        404474489,
+        85633337,
+        101839255,
+        85687033,
         85797565,
-        102063693
+        1158817899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +53,29 @@
     "wof:geomhash":"53592c7edc7a2bd3bbdd546c93f76be3",
     "wof:hierarchy":[
         {
-            "country_id":85633111,
-            "county_id":102063693,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":101839255,
+            "macrohood_id":1158818153,
+            "neighbourhood_id":1158806319,
+            "region_id":85687033,
+            "venue_id":269774005
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":1158817899,
             "neighbourhood_id":85797565,
-            "region_id":85682513,
+            "region_id":85687033,
             "venue_id":269774005
         }
     ],
     "wof:id":269774005,
-    "wof:lastmodified":1492496215,
+    "wof:lastmodified":1513701293,
     "wof:name":"Pj",
-    "wof:parent_id":85797565,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

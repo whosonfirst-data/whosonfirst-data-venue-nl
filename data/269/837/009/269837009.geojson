@@ -15,6 +15,7 @@
     "geom:longitude":4.930217,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Wijttenbachstraat 390",
     "sg:city":"Amsterdam",
     "sg:classifiers":[
@@ -35,13 +36,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803667,
-        1108802779,
+        1108945553,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,19 +53,30 @@
     "wof:geomhash":"3ee9c47a1b3020680719fb12c0ce0d68",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803667,
+            "neighbourhood_id":1108945553,
+            "region_id":85687053,
+            "venue_id":269837009
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803667,
-            "neighbourhood_id":1108802779,
+            "neighbourhood_id":1108945553,
             "region_id":85687053,
             "venue_id":269837009
         }
     ],
     "wof:id":269837009,
-    "wof:lastmodified":1492495710,
+    "wof:lastmodified":1513677577,
     "wof:name":"Mi-Gudu Eethuis En Afhaalcentrum",
     "wof:parent_id":1108803667,
     "wof:placetype":"venue",

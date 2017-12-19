@@ -15,6 +15,7 @@
     "geom:longitude":6.141928,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Alberickstraat 5",
     "sg:city":"Venlo",
     "sg:classifiers":[
@@ -33,18 +34,50 @@
         "basis-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806811,
+        102191581,
+        1158818269,
+        404474525,
+        85633337,
+        101839199,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OlLZYXa7bG5sEtSYxo5Cp_51.374702_6.141928@1306269966"
     },
     "wof:country":"NL",
     "wof:geomhash":"960c5093a5d3e1fd377af2c3ee40585d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "macrohood_id":1158818269,
+            "neighbourhood_id":1158806811,
+            "region_id":85687033,
+            "venue_id":270506165
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":270506165
+        }
+    ],
     "wof:id":270506165,
-    "wof:lastmodified":1492499833,
+    "wof:lastmodified":1513653492,
     "wof:name":"De Mussenberg",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

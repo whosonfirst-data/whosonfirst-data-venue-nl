@@ -15,6 +15,7 @@
     "geom:longitude":4.696484,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Anna Van Hensbeeksingel 146",
     "sg:city":"Gouda",
     "sg:classifiers":[],
@@ -25,10 +26,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        85797883,
         85687041,
-        85797133
+        102191581,
+        1158829413,
+        85633337,
+        101751839,
+        1158825973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,22 +41,19 @@
     "wof:geomhash":"1fa72131feb74a828f343bcce2c1071d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797883,
-            "region_id":85687041,
-            "venue_id":269713867
-        },
-        {
-            "country_id":85633337,
-            "neighbourhood_id":85797133,
+            "locality_id":101751839,
+            "macrohood_id":1158829413,
+            "neighbourhood_id":1158825973,
             "region_id":85687041,
             "venue_id":269713867
         }
     ],
     "wof:id":269713867,
-    "wof:lastmodified":1492494870,
+    "wof:lastmodified":1513689664,
     "wof:name":"Ahevo Bv",
-    "wof:parent_id":-3,
+    "wof:parent_id":1158825973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

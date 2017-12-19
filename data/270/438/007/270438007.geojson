@@ -27,10 +27,13 @@
     "sg:website":"http://www.rabobank.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682513,
-        85633111,
         85797565,
-        102063693
+        102191581,
+        404474489,
+        85633337,
+        1158817899,
+        85687033,
+        1158806311
     ],
     "wof:brand_id":420573783,
     "wof:breaches":[],
@@ -41,17 +44,28 @@
     "wof:geomhash":"df1ff798fac7078013d1ad59925e1125",
     "wof:hierarchy":[
         {
-            "country_id":85633111,
-            "county_id":102063693,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":1158817899,
             "neighbourhood_id":85797565,
-            "region_id":85682513,
+            "region_id":85687033,
+            "venue_id":270438007
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":1158817899,
+            "neighbourhood_id":1158806311,
+            "region_id":85687033,
             "venue_id":270438007
         }
     ],
     "wof:id":270438007,
-    "wof:lastmodified":1511322836,
+    "wof:lastmodified":1513700264,
     "wof:name":"Rabobank",
-    "wof:parent_id":85797565,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

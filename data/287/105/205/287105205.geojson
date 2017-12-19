@@ -15,6 +15,7 @@
     "geom:longitude":6.101683,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Punterdiep 96",
     "sg:city":"Zwolle",
     "sg:classifiers":[],
@@ -25,9 +26,14 @@
     "sg:province":"Overijssel",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         85797041,
-        85687045
+        102191581,
+        1158804439,
+        404473861,
+        85633337,
+        101751861,
+        85687045,
+        1158803511
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,16 +43,30 @@
     "wof:geomhash":"184d97318f8a3cf1052e6b7b38ba3f2b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158804439,
             "neighbourhood_id":85797041,
+            "region_id":85687045,
+            "venue_id":287105205
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158804439,
+            "neighbourhood_id":1158803511,
             "region_id":85687045,
             "venue_id":287105205
         }
     ],
     "wof:id":287105205,
-    "wof:lastmodified":1492513104,
+    "wof:lastmodified":1513673532,
     "wof:name":"Tulen, F B H",
-    "wof:parent_id":85797041,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

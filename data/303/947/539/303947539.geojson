@@ -15,6 +15,7 @@
     "geom:longitude":5.762678,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Dorpsstr 34",
     "sg:city":"Eckelrade",
     "sg:classifiers":[],
@@ -24,18 +25,46 @@
     "sg:postcode":"6252 ND",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158807875,
+        102191581,
+        1158805871,
+        85633337,
+        1158818005,
+        85687033,
+        85797779,
+        101810577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67aCHDpHtmbp6WbYMo04na_50.805607_5.762678@1306269989"
     },
     "wof:country":"NL",
     "wof:geomhash":"9ab2a8c079d0f83104b87d2d968513ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":1158818005,
+            "neighbourhood_id":1158807875,
+            "region_id":85687033,
+            "venue_id":303947539
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":85797779,
+            "region_id":85687033,
+            "venue_id":303947539
+        }
+    ],
     "wof:id":303947539,
-    "wof:lastmodified":1492473380,
+    "wof:lastmodified":1513666870,
     "wof:name":"Philippens",
-    "wof:parent_id":85797779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

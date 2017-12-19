@@ -15,6 +15,7 @@
     "geom:longitude":6.160644,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Hasselt 18",
     "sg:city":"Velden",
     "sg:classifiers":[],
@@ -24,7 +25,17 @@
     "sg:postcode":"5941 NP",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806923,
+        102191581,
+        404474525,
+        85633337,
+        101809597,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4V9Z9E0o3euaadkDR1uTka_51.425819_6.160644@1306270008"
@@ -32,11 +43,31 @@
     "wof:country":"NL",
     "wof:created":1473798833,
     "wof:geomhash":"d02b09d38c6d0636939ae508ef9c32f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101809597,
+            "neighbourhood_id":1158806923,
+            "region_id":85687033,
+            "venue_id":1075813499
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":1075813499
+        }
+    ],
     "wof:id":1075813499,
-    "wof:lastmodified":1492486493,
+    "wof:lastmodified":1513689920,
     "wof:name":"Paulus Bv, Ton",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

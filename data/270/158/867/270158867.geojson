@@ -15,6 +15,7 @@
     "geom:longitude":4.910262,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1E Oosterparkstr 97Hs",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -26,13 +27,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803889,
-        1108802953,
+        1108945559,
         102191581,
         1108802305,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1158844335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +44,30 @@
     "wof:geomhash":"c25495e3ab3031d7d4de31e5e0ef2573",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803889,
-            "neighbourhood_id":1108802953,
+            "neighbourhood_id":1108945559,
+            "region_id":85687053,
+            "venue_id":270158867
+        },
+        {
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803889,
+            "neighbourhood_id":1108945559,
             "region_id":85687053,
             "venue_id":270158867
         }
     ],
     "wof:id":270158867,
-    "wof:lastmodified":1492500611,
+    "wof:lastmodified":1513665310,
     "wof:name":"Wallrafen, Hannes",
     "wof:parent_id":1108803889,
     "wof:placetype":"venue",

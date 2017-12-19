@@ -15,6 +15,7 @@
     "geom:longitude":4.675377,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Neptunusln 12",
     "sg:city":"Dordrecht",
     "sg:classifiers":[],
@@ -25,13 +26,12 @@
     "sg:province":"South Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        85798469,
         85687041,
-        85798785,
         102191581,
-        404474169,
-        101751841
+        1158829529,
+        85633337,
+        101751841,
+        1158825749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,25 +41,19 @@
     "wof:geomhash":"18076eca45331b951d7cce8a311bceed",
     "wof:hierarchy":[
         {
-            "country_id":85633337,
-            "neighbourhood_id":85798469,
-            "region_id":85687041,
-            "venue_id":336756129
-        },
-        {
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474169,
             "locality_id":101751841,
-            "neighbourhood_id":85798785,
+            "macrohood_id":1158829529,
+            "neighbourhood_id":1158825749,
             "region_id":85687041,
             "venue_id":336756129
         }
     ],
     "wof:id":336756129,
-    "wof:lastmodified":1492506882,
+    "wof:lastmodified":1513672297,
     "wof:name":"Agni Centrum",
-    "wof:parent_id":-3,
+    "wof:parent_id":1158825749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

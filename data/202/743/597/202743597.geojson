@@ -15,6 +15,7 @@
     "geom:longitude":5.10236,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Havendk 26",
     "sg:city":"Tilburg",
     "sg:classifiers":[],
@@ -26,13 +27,13 @@
     "sg:website":"http://www.tsm-benelux.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        85798343,
-        85687035,
-        85797591,
+        1158799079,
         102191581,
+        1158801785,
         404474435,
-        101751817
+        85633337,
+        101751817,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,25 +43,20 @@
     "wof:geomhash":"becae51a482b38acea63ccf367796875",
     "wof:hierarchy":[
         {
-            "country_id":85633337,
-            "neighbourhood_id":85798343,
-            "region_id":85687035,
-            "venue_id":202743597
-        },
-        {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474435,
             "locality_id":101751817,
-            "neighbourhood_id":85797591,
+            "macrohood_id":1158801785,
+            "neighbourhood_id":1158799079,
             "region_id":85687035,
             "venue_id":202743597
         }
     ],
     "wof:id":202743597,
-    "wof:lastmodified":1492497776,
+    "wof:lastmodified":1513671287,
     "wof:name":"Tsm Ind Bv Benelux",
-    "wof:parent_id":-3,
+    "wof:parent_id":1158799079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

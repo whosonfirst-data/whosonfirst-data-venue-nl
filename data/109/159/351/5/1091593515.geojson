@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5803871155,52.2930183411,4.5803871155,52.2930183411",
     "geom:latitude":52.293018,
     "geom:longitude":4.580387,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Hoofdstraat/Meerstraatpromenade",
     "sg:city":"Hillegom",
     "sg:classifiers":[],
@@ -24,9 +26,12 @@
     "sg:province":"Zuid-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        1158831233,
         85633337,
-        85797505,
-        85687041
+        101807029,
+        1158826175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +39,22 @@
     },
     "wof:country":"NL",
     "wof:created":1473802130,
-    "wof:geomhash":"c12b96fdddfc67bd82d4d172ce9ef058",
+    "wof:geomhash":"b5889c49fb6b9568ce346e823367a592",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797505,
+            "locality_id":101807029,
+            "macrohood_id":1158831233,
+            "neighbourhood_id":1158826175,
             "region_id":85687041,
             "venue_id":1091593515
         }
     ],
     "wof:id":1091593515,
-    "wof:lastmodified":1473878668,
+    "wof:lastmodified":1513682258,
     "wof:name":"Hillegom Binnenstad",
-    "wof:parent_id":85797505,
+    "wof:parent_id":1158826175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

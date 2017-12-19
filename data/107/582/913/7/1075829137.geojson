@@ -15,6 +15,7 @@
     "geom:longitude":5.992899,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Nijmegenstraat 1",
     "sg:city":"Heerlen",
     "sg:classifiers":[],
@@ -24,7 +25,18 @@
     "sg:postcode":"6415 BK",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806227,
+        102191581,
+        1158818167,
+        404474485,
+        85633337,
+        101839245,
+        85687033,
+        85798247,
+        404474467,
+        101839719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KGvIkbxpQZeYYYdvrcMFW_50.893902_5.992899@1306270010"
@@ -32,11 +44,31 @@
     "wof:country":"NL",
     "wof:created":1473799738,
     "wof:geomhash":"53b85a4796b1693763ba4ae9b3abcfe4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474485,
+            "locality_id":101839245,
+            "macrohood_id":1158818167,
+            "neighbourhood_id":1158806227,
+            "region_id":85687033,
+            "venue_id":1075829137
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474467,
+            "locality_id":101839719,
+            "neighbourhood_id":85798247,
+            "region_id":85687033,
+            "venue_id":1075829137
+        }
+    ],
     "wof:id":1075829137,
-    "wof:lastmodified":1492487019,
+    "wof:lastmodified":1513696468,
     "wof:name":"Gemeenschapshuis Schaesbergerveld",
-    "wof:parent_id":85798247,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

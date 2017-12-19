@@ -15,6 +15,7 @@
     "geom:longitude":5.159228,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rostockln 5",
     "sg:city":"Bussum",
     "sg:classifiers":[],
@@ -25,10 +26,13 @@
     "sg:province":"Noord-Holland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158821185,
+        102191581,
+        1158822997,
+        1158818281,
         85633337,
-        85797181,
-        85687053,
-        85797683
+        101753097,
+        85687053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,22 +43,20 @@
     "wof:geomhash":"2d48a2096f0a2afc8b23a4fc01a29d09",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797181,
-            "region_id":85687053,
-            "venue_id":1091604955
-        },
-        {
-            "country_id":85633337,
-            "neighbourhood_id":85797683,
+            "localadmin_id":1158818281,
+            "locality_id":101753097,
+            "macrohood_id":1158822997,
+            "neighbourhood_id":1158821185,
             "region_id":85687053,
             "venue_id":1091604955
         }
     ],
     "wof:id":1091604955,
-    "wof:lastmodified":1492512700,
+    "wof:lastmodified":1513689383,
     "wof:name":"Festina",
-    "wof:parent_id":-3,
+    "wof:parent_id":1158821185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

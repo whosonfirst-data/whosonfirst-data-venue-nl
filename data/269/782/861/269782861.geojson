@@ -15,6 +15,7 @@
     "geom:longitude":4.927756,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Eerste Van Swindenstraat 377",
     "sg:city":"Amsterdam",
     "sg:classifiers":[
@@ -35,13 +36,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803579,
-        1108802779,
+        1108945553,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,19 +53,30 @@
     "wof:geomhash":"a765dd773edc68ce5fb83c4ae9acb69d",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803579,
+            "neighbourhood_id":1108945553,
+            "region_id":85687053,
+            "venue_id":269782861
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803579,
-            "neighbourhood_id":1108802779,
+            "neighbourhood_id":1108945553,
             "region_id":85687053,
             "venue_id":269782861
         }
     ],
     "wof:id":269782861,
-    "wof:lastmodified":1492495463,
+    "wof:lastmodified":1513686320,
     "wof:name":"Snackbar 'T Snorretje",
     "wof:parent_id":1108803579,
     "wof:placetype":"venue",

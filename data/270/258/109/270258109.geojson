@@ -15,6 +15,7 @@
     "geom:longitude":4.762892,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rubensstraat 29",
     "sg:city":"Breda",
     "sg:classifiers":[],
@@ -25,13 +26,13 @@
     "sg:province":"Noord-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        85798373,
-        85687035,
-        85797089,
+        1158797089,
         102191581,
+        1158801673,
         404474363,
-        101751811
+        85633337,
+        101751811,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,25 +42,20 @@
     "wof:geomhash":"7b5d0d6caa80b8ff41b5ab60e2e8b2c7",
     "wof:hierarchy":[
         {
-            "country_id":85633337,
-            "neighbourhood_id":85798373,
-            "region_id":85687035,
-            "venue_id":270258109
-        },
-        {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404474363,
             "locality_id":101751811,
-            "neighbourhood_id":85797089,
+            "macrohood_id":1158801673,
+            "neighbourhood_id":1158797089,
             "region_id":85687035,
             "venue_id":270258109
         }
     ],
     "wof:id":270258109,
-    "wof:lastmodified":1492500076,
+    "wof:lastmodified":1513693131,
     "wof:name":"T. Damen En D. Rottier",
-    "wof:parent_id":-3,
+    "wof:parent_id":1158797089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

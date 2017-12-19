@@ -15,6 +15,7 @@
     "geom:longitude":4.911741,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Ruyschstraat 77",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -26,13 +27,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803279,
-        1108802881,
+        1108945555,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +45,30 @@
     "wof:geomhash":"3bbaf41d7b2786f2544e3d65436a6a5c",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803279,
+            "neighbourhood_id":1108945555,
+            "region_id":85687053,
+            "venue_id":1075837889
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803279,
-            "neighbourhood_id":1108802881,
+            "neighbourhood_id":1108945555,
             "region_id":85687053,
             "venue_id":1075837889
         }
     ],
     "wof:id":1075837889,
-    "wof:lastmodified":1492485558,
+    "wof:lastmodified":1513652825,
     "wof:name":"Stomerij Maxi Clean",
     "wof:parent_id":1108803279,
     "wof:placetype":"venue",

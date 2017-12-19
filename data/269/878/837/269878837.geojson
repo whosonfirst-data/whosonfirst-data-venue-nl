@@ -15,6 +15,7 @@
     "geom:longitude":5.776795,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Grote Str 56A",
     "sg:city":"Berg En Terblyt",
     "sg:classifiers":[],
@@ -24,18 +25,47 @@
     "sg:postcode":"6325 ED",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158807187,
+        102191581,
+        404474537,
+        85633337,
+        101809491,
+        85687033,
+        85797779,
+        1158805871,
+        101810577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IysCkLUXJVPhCMvV7sNOh_50.863770_5.776795@1306269959"
     },
     "wof:country":"NL",
     "wof:geomhash":"5d912125a2328db5b594f08f6d655ff8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474537,
+            "locality_id":101809491,
+            "neighbourhood_id":1158807187,
+            "region_id":85687033,
+            "venue_id":269878837
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":85797779,
+            "region_id":85687033,
+            "venue_id":269878837
+        }
+    ],
     "wof:id":269878837,
-    "wof:lastmodified":1492496921,
+    "wof:lastmodified":1513703606,
     "wof:name":"Cycle Service",
-    "wof:parent_id":85797779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

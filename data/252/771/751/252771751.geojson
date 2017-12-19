@@ -15,6 +15,7 @@
     "geom:longitude":6.215629,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Manegewg 18",
     "sg:city":"Venlo",
     "sg:classifiers":[
@@ -32,18 +33,48 @@
         "maneges"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806795,
+        102191581,
+        404474525,
+        85633337,
+        1158817911,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ErM1O0PhMgCXLLbln8qYj_51.376423_6.215629@1306269943"
     },
     "wof:country":"NL",
     "wof:geomhash":"6183963c163e94e34a5e2de50042c596",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":1158817911,
+            "neighbourhood_id":1158806795,
+            "region_id":85687033,
+            "venue_id":252771751
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":252771751
+        }
+    ],
     "wof:id":252771751,
-    "wof:lastmodified":1492504977,
+    "wof:lastmodified":1513690142,
     "wof:name":"Op De Renbaan",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -15,6 +15,7 @@
     "geom:longitude":6.210198,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Luitenant Klopwg 19",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -24,7 +25,17 @@
     "sg:postcode":"5916 LC",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85798541,
+        102191581,
+        1158818263,
+        404474525,
+        85633337,
+        101839287,
+        85687033,
+        1158806795,
+        1158817911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OM2pXrYfLpX4AwyFtvIYs_51.382050_6.210198@1306270009"
@@ -32,11 +43,31 @@
     "wof:country":"NL",
     "wof:created":1473799375,
     "wof:geomhash":"d39f1e5ad8bd61a8b3e725760a4c4a39",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":1075823061
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":1158817911,
+            "neighbourhood_id":1158806795,
+            "region_id":85687033,
+            "venue_id":1075823061
+        }
+    ],
     "wof:id":1075823061,
-    "wof:lastmodified":1492486678,
+    "wof:lastmodified":1513653439,
     "wof:name":"Pm3 Bv",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

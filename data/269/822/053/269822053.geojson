@@ -15,6 +15,7 @@
     "geom:longitude":4.910404,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Wibautstraat 50",
     "sg:city":"Amsterdam",
     "sg:classifiers":[
@@ -35,13 +36,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803889,
-        1108802953,
+        1108945559,
         102191581,
         1108802305,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1158844335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,19 +53,30 @@
     "wof:geomhash":"f2fabb6e1e279a862d5df3e7c7ba4f74",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803889,
-            "neighbourhood_id":1108802953,
+            "neighbourhood_id":1108945559,
+            "region_id":85687053,
+            "venue_id":269822053
+        },
+        {
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803889,
+            "neighbourhood_id":1108945559,
             "region_id":85687053,
             "venue_id":269822053
         }
     ],
     "wof:id":269822053,
-    "wof:lastmodified":1492494782,
+    "wof:lastmodified":1513709205,
     "wof:name":"Ka-Wah",
     "wof:parent_id":1108803889,
     "wof:placetype":"venue",

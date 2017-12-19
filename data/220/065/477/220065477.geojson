@@ -26,11 +26,15 @@
     "sg:province":"Noord-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85687041,
+        1158799557,
         102191581,
-        404474173,
+        404474453,
         85633337,
-        101808515
+        1158801571,
+        85687035,
+        404474173,
+        101808515,
+        85687041
     ],
     "wof:brand_id":1125157555,
     "wof:breaches":[],
@@ -43,16 +47,26 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404474453,
+            "locality_id":1158801571,
+            "neighbourhood_id":1158799557,
+            "region_id":85687035,
+            "venue_id":220065477
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
             "localadmin_id":404474173,
             "locality_id":101808515,
+            "neighbourhood_id":1158799557,
             "region_id":85687041,
             "venue_id":220065477
         }
     ],
     "wof:id":220065477,
-    "wof:lastmodified":1511317871,
+    "wof:lastmodified":1513691489,
     "wof:name":"Aquarius",
-    "wof:parent_id":-1,
+    "wof:parent_id":1158799557,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

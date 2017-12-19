@@ -15,6 +15,7 @@
     "geom:longitude":5.092915,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Schoolstr 2",
     "sg:city":"Nieuwegein",
     "sg:classifiers":[],
@@ -25,15 +26,12 @@
     "sg:province":"Utrecht",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797757,
-        102191581,
-        404474017,
-        85633337,
-        101754605,
         85687039,
-        85798061,
-        404474021,
-        101751825
+        102191581,
+        1158790215,
+        85633337,
+        101751825,
+        85797757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,26 +43,17 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474017,
-            "locality_id":101754605,
-            "neighbourhood_id":85797757,
-            "region_id":85687039,
-            "venue_id":269571991
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633337,
-            "localadmin_id":404474021,
             "locality_id":101751825,
-            "neighbourhood_id":85798061,
+            "macrohood_id":1158790215,
+            "neighbourhood_id":85797757,
             "region_id":85687039,
             "venue_id":269571991
         }
     ],
     "wof:id":269571991,
-    "wof:lastmodified":1492496437,
+    "wof:lastmodified":1513646651,
     "wof:name":"Wijnhoven, Lea",
-    "wof:parent_id":-3,
+    "wof:parent_id":85797757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

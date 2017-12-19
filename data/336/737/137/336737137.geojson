@@ -33,7 +33,17 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806801,
+        102191581,
+        404474525,
+        85633337,
+        1158817911,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:brand_id":1125154195,
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,11 +51,31 @@
     },
     "wof:country":"NL",
     "wof:geomhash":"2e2e1802f95619926f2c4e258925de5c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":1158817911,
+            "neighbourhood_id":1158806801,
+            "region_id":85687033,
+            "venue_id":336737137
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":336737137
+        }
+    ],
     "wof:id":336737137,
-    "wof:lastmodified":1510613204,
+    "wof:lastmodified":1513694412,
     "wof:name":"Deloitte & Touche",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

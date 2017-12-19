@@ -15,6 +15,7 @@
     "geom:longitude":4.921952,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Pretoriusstraat 68",
     "sg:city":"Amsterdam",
     "sg:classifiers":[
@@ -36,13 +37,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803941,
-        1108802921,
+        1108945551,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,19 +54,30 @@
     "wof:geomhash":"d6dc2d1b02ba7bdc02029cf60b7865e7",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803941,
+            "neighbourhood_id":1108945551,
+            "region_id":85687053,
+            "venue_id":202523083
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803941,
-            "neighbourhood_id":1108802921,
+            "neighbourhood_id":1108945551,
             "region_id":85687053,
             "venue_id":202523083
         }
     ],
     "wof:id":202523083,
-    "wof:lastmodified":1492498601,
+    "wof:lastmodified":1513661692,
     "wof:name":"Sabrina Videotheek",
     "wof:parent_id":1108803941,
     "wof:placetype":"venue",

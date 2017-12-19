@@ -15,6 +15,7 @@
     "geom:longitude":5.810365,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rykswg 49",
     "sg:city":"Berg En Terblyt",
     "sg:classifiers":[
@@ -34,7 +35,17 @@
         "week-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158807191,
+        102191581,
+        404474537,
+        85633337,
+        1158817983,
+        85687033,
+        85797779,
+        1158805871,
+        101810577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eFkrznoBAtj6YMYso9Lsr_50.857407_5.810365@1306270012"
@@ -42,11 +53,30 @@
     "wof:country":"NL",
     "wof:created":1473800876,
     "wof:geomhash":"68201846ba1f706a4a06c01cb1f6038e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474537,
+            "locality_id":1158817983,
+            "neighbourhood_id":1158807191,
+            "region_id":85687033,
+            "venue_id":1091576609
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":85797779,
+            "region_id":85687033,
+            "venue_id":1091576609
+        }
+    ],
     "wof:id":1091576609,
-    "wof:lastmodified":1492511480,
+    "wof:lastmodified":1513703607,
     "wof:name":"Heuvelland Aktueel",
-    "wof:parent_id":85797779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

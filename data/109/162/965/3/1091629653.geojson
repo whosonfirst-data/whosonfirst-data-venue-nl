@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1616501808,52.2531394958,6.1616501808,52.2531394958",
     "geom:latitude":52.253139,
     "geom:longitude":6.16165,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Golstr 13",
     "sg:city":"Deventer",
     "sg:classifiers":[],
@@ -24,9 +26,13 @@
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158802133,
+        102191581,
+        1158804483,
+        404473825,
         85633337,
-        85797335,
-        85687043
+        101751865,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +40,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473804533,
-    "wof:geomhash":"63e063f450f9cc9148cffd884cef38fe",
+    "wof:geomhash":"2a4f4b24a82712f66fc95676b80a6904",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797335,
-            "region_id":85687043,
+            "localadmin_id":404473825,
+            "locality_id":101751865,
+            "macrohood_id":1158804483,
+            "neighbourhood_id":1158802133,
+            "region_id":85687045,
             "venue_id":1091629653
         }
     ],
     "wof:id":1091629653,
-    "wof:lastmodified":1473879118,
+    "wof:lastmodified":1513699377,
     "wof:name":"Halavurt",
-    "wof:parent_id":85797335,
+    "wof:parent_id":1158802133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

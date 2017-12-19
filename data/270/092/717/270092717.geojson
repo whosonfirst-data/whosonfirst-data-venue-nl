@@ -36,13 +36,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803833,
-        1108802881,
+        1108945555,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,19 +54,30 @@
     "wof:geomhash":"d91466922747b1342747b01b2f970d91",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803833,
+            "neighbourhood_id":1108945555,
+            "region_id":85687053,
+            "venue_id":270092717
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803833,
-            "neighbourhood_id":1108802881,
+            "neighbourhood_id":1108945555,
             "region_id":85687053,
             "venue_id":270092717
         }
     ],
     "wof:id":270092717,
-    "wof:lastmodified":1510942871,
+    "wof:lastmodified":1513661683,
     "wof:name":"Foto Fransen",
     "wof:parent_id":1108803833,
     "wof:placetype":"venue",

@@ -15,6 +15,7 @@
     "geom:longitude":5.709964,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Dopplerdomein 6A",
     "sg:city":"Maastricht",
     "sg:classifiers":[],
@@ -25,13 +26,12 @@
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        85797697,
         85687033,
-        85681691,
-        85632997,
-        85798441,
-        102049941
+        102191581,
+        1158818143,
+        85633337,
+        101751803,
+        1158806415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,23 +41,19 @@
     "wof:geomhash":"e067c9aa6145016d3298f5c85b7516d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797697,
+            "locality_id":101751803,
+            "macrohood_id":1158818143,
+            "neighbourhood_id":1158806415,
             "region_id":85687033,
-            "venue_id":286783079
-        },
-        {
-            "country_id":85632997,
-            "county_id":102049941,
-            "neighbourhood_id":85798441,
-            "region_id":85681691,
             "venue_id":286783079
         }
     ],
     "wof:id":286783079,
-    "wof:lastmodified":1492477561,
+    "wof:lastmodified":1513710571,
     "wof:name":"M.E.F. Daemen",
-    "wof:parent_id":-3,
+    "wof:parent_id":1158806415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

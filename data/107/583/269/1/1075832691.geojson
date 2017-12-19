@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0568499565,50.8931617737,6.0568499565,50.8931617737",
     "geom:latitude":50.893162,
     "geom:longitude":6.05685,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Laurastraat 51",
     "sg:city":"Eygelshoven",
     "sg:classifiers":[],
@@ -24,10 +26,13 @@
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682513,
-        85633111,
         85797565,
-        102063693
+        102191581,
+        404474489,
+        85633337,
+        1158817899,
+        85687033,
+        1158806311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,20 +40,31 @@
     },
     "wof:country":"NL",
     "wof:created":1473799944,
-    "wof:geomhash":"82cde17c66b125a322a7689a660c2d79",
+    "wof:geomhash":"3808fd1d268037f2d9ad7448d50dc69e",
     "wof:hierarchy":[
         {
-            "country_id":85633111,
-            "county_id":102063693,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":1158817899,
             "neighbourhood_id":85797565,
-            "region_id":85682513,
+            "region_id":85687033,
+            "venue_id":1075832691
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":1158817899,
+            "neighbourhood_id":1158806311,
+            "region_id":85687033,
             "venue_id":1075832691
         }
     ],
     "wof:id":1075832691,
-    "wof:lastmodified":1473879328,
+    "wof:lastmodified":1513684268,
     "wof:name":"Benly",
-    "wof:parent_id":85797565,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

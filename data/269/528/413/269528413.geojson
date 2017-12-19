@@ -27,9 +27,14 @@
     "sg:website":"http://www.postkantoor.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         85797041,
-        85687045
+        102191581,
+        1158804439,
+        404473861,
+        85633337,
+        101751861,
+        85687045,
+        1158803507
     ],
     "wof:brand_id":420573777,
     "wof:breaches":[],
@@ -40,16 +45,30 @@
     "wof:geomhash":"bbaf09c79f2da5705b307c33a0f48960",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158804439,
             "neighbourhood_id":85797041,
+            "region_id":85687045,
+            "venue_id":269528413
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158804439,
+            "neighbourhood_id":1158803507,
             "region_id":85687045,
             "venue_id":269528413
         }
     ],
     "wof:id":269528413,
-    "wof:lastmodified":1510603420,
+    "wof:lastmodified":1513638753,
     "wof:name":"Postkantoor",
-    "wof:parent_id":85797041,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

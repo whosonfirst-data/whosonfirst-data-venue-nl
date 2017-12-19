@@ -15,6 +15,7 @@
     "geom:longitude":6.030678,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Scholtensteeg 4",
     "sg:city":"Zwolle",
     "sg:classifiers":[],
@@ -25,9 +26,12 @@
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158803485,
         102191581,
-        404473839,
+        1158805799,
+        404473861,
         85633337,
+        101751861,
         85687045
     ],
     "wof:breaches":[],
@@ -40,15 +44,18 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404473839,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158805799,
+            "neighbourhood_id":1158803485,
             "region_id":85687045,
             "venue_id":303659003
         }
     ],
     "wof:id":303659003,
-    "wof:lastmodified":1492471122,
+    "wof:lastmodified":1513698898,
     "wof:name":"J.A. Van Laar",
-    "wof:parent_id":-1,
+    "wof:parent_id":1158803485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

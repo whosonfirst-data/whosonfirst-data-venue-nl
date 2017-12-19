@@ -15,6 +15,7 @@
     "geom:longitude":4.912106,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Wibautstraat 129",
     "sg:city":"Amsterdam",
     "sg:classifiers":[
@@ -33,13 +34,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803779,
-        1108802953,
+        1108945559,
         102191581,
         1108802305,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1158844335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +52,30 @@
     "wof:geomhash":"f749e5e327e125d577a16a3c84c1a051",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803779,
-            "neighbourhood_id":1108802953,
+            "neighbourhood_id":1108945559,
+            "region_id":85687053,
+            "venue_id":1091638263
+        },
+        {
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803779,
+            "neighbourhood_id":1108945559,
             "region_id":85687053,
             "venue_id":1091638263
         }
     ],
     "wof:id":1091638263,
-    "wof:lastmodified":1492510198,
+    "wof:lastmodified":1513675424,
     "wof:name":"Myngle",
     "wof:parent_id":1108803779,
     "wof:placetype":"venue",

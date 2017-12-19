@@ -15,6 +15,7 @@
     "geom:longitude":4.918362,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Beukenplein 13",
     "sg:city":"Amsterdam",
     "sg:classifiers":[
@@ -36,13 +37,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803833,
-        1108802881,
+        1108945555,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,19 +54,30 @@
     "wof:geomhash":"57c29c255b3b63b714770cdec95508ad",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803833,
+            "neighbourhood_id":1108945555,
+            "region_id":85687053,
+            "venue_id":202542891
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803833,
-            "neighbourhood_id":1108802881,
+            "neighbourhood_id":1108945555,
             "region_id":85687053,
             "venue_id":202542891
         }
     ],
     "wof:id":202542891,
-    "wof:lastmodified":1492498616,
+    "wof:lastmodified":1513708958,
     "wof:name":"Videotheek/Filmverhuur De Beuk",
     "wof:parent_id":1108803833,
     "wof:placetype":"venue",

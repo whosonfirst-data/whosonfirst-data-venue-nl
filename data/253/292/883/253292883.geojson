@@ -26,11 +26,13 @@
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85687033,
+        1158806289,
         102191581,
-        404474467,
+        1158818151,
+        404474489,
         85633337,
-        101839719
+        101839255,
+        85687033
     ],
     "wof:brand_id":1125157197,
     "wof:breaches":[],
@@ -43,16 +45,18 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
-            "localadmin_id":404474467,
-            "locality_id":101839719,
+            "localadmin_id":404474489,
+            "locality_id":101839255,
+            "macrohood_id":1158818151,
+            "neighbourhood_id":1158806289,
             "region_id":85687033,
             "venue_id":253292883
         }
     ],
     "wof:id":253292883,
-    "wof:lastmodified":1510874690,
+    "wof:lastmodified":1513700490,
     "wof:name":"Leenbakker",
-    "wof:parent_id":-1,
+    "wof:parent_id":1158806289,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

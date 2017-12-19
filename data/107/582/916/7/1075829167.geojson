@@ -15,6 +15,7 @@
     "geom:longitude":6.164657,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Schoolstraat 29",
     "sg:city":"Velden",
     "sg:classifiers":[],
@@ -24,7 +25,17 @@
     "sg:postcode":"5941 GB",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85798541,
+        102191581,
+        1158818263,
+        404474525,
+        85633337,
+        101839287,
+        85687033,
+        1158806909,
+        101809597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q9aRT4mrgcuTiJjFIYK2Y_51.416462_6.164657@1306270010"
@@ -32,11 +43,31 @@
     "wof:country":"NL",
     "wof:created":1473799745,
     "wof:geomhash":"1af1016a9fb7dced9467bd7bcceca496",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":1075829167
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101809597,
+            "neighbourhood_id":1158806909,
+            "region_id":85687033,
+            "venue_id":1075829167
+        }
+    ],
     "wof:id":1075829167,
-    "wof:lastmodified":1492486840,
+    "wof:lastmodified":1513680600,
     "wof:name":"Gemeenschapshuis",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

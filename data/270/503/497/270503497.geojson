@@ -15,6 +15,7 @@
     "geom:longitude":6.153214,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Wittenstein 128",
     "sg:city":"Deventer",
     "sg:classifiers":[
@@ -34,13 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        85798309,
-        85687045,
         85797157,
         102191581,
+        1158804467,
         404473825,
-        101754775
+        85633337,
+        101751865,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +51,20 @@
     "wof:geomhash":"9afec974a9fff9c960887a33eb9b9064",
     "wof:hierarchy":[
         {
-            "country_id":85633337,
-            "neighbourhood_id":85798309,
-            "region_id":85687045,
-            "venue_id":270503497
-        },
-        {
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404473825,
-            "locality_id":101754775,
+            "locality_id":101751865,
+            "macrohood_id":1158804467,
             "neighbourhood_id":85797157,
             "region_id":85687045,
             "venue_id":270503497
         }
     ],
     "wof:id":270503497,
-    "wof:lastmodified":1492499740,
+    "wof:lastmodified":1513694010,
     "wof:name":"De Horizon Interconfess Daltonsch",
-    "wof:parent_id":-3,
+    "wof:parent_id":85797157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

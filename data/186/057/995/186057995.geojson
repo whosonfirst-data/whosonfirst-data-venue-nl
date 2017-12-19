@@ -15,6 +15,7 @@
     "geom:longitude":6.1394,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Burg. Van Leentstraat 66",
     "sg:city":"Grubbenvorst",
     "sg:classifiers":[],
@@ -24,18 +25,49 @@
     "sg:postcode":"5971 AJ",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158807283,
+        102191581,
+        404474541,
+        85633337,
+        101839243,
+        85687033,
+        85798541,
+        1158818263,
+        404474525,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Az2BZinHAx45AOt5xjpk1_51.421124_6.139400@1306269909"
     },
     "wof:country":"NL",
     "wof:geomhash":"63b009b1870555f70f96b749336e65b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474541,
+            "locality_id":101839243,
+            "neighbourhood_id":1158807283,
+            "region_id":85687033,
+            "venue_id":186057995
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":186057995
+        }
+    ],
     "wof:id":186057995,
-    "wof:lastmodified":1492509298,
+    "wof:lastmodified":1513650555,
     "wof:name":"Quick Drive Service",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -15,6 +15,7 @@
     "geom:longitude":6.153303,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Grt Bollerwg 12",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -24,18 +25,48 @@
     "sg:postcode":"5928 NS",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85798541,
+        102191581,
+        1158818263,
+        404474525,
+        85633337,
+        101839287,
+        85687033,
+        1158806861,
+        101839199
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hTM3IbYcrlFGZ12h64IoJ_51.382496_6.153303@1306269958"
     },
     "wof:country":"NL",
     "wof:geomhash":"dd27eac71d10991ba260041bab62f7bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":269856993
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "neighbourhood_id":1158806861,
+            "region_id":85687033,
+            "venue_id":269856993
+        }
+    ],
     "wof:id":269856993,
-    "wof:lastmodified":1492496209,
+    "wof:lastmodified":1513668363,
     "wof:name":"Rih Cov\u00e9 Bv",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

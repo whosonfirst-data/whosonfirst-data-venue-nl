@@ -15,6 +15,7 @@
     "geom:longitude":6.903102,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Brinkstraat 155",
     "sg:city":"Enschede",
     "sg:classifiers":[],
@@ -25,13 +26,14 @@
     "sg:province":"Overijssel",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85798259,
+        1158802291,
+        85797713,
         102191581,
+        1158805837,
         404473827,
         85633337,
         101751871,
-        85687045,
-        85797713
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,21 +47,17 @@
             "country_id":85633337,
             "localadmin_id":404473827,
             "locality_id":101751871,
-            "neighbourhood_id":85798259,
-            "region_id":85687045,
-            "venue_id":219433883
-        },
-        {
-            "country_id":85633337,
+            "macrohood_id":1158805837,
+            "microhood_id":1158802291,
             "neighbourhood_id":85797713,
             "region_id":85687045,
             "venue_id":219433883
         }
     ],
     "wof:id":219433883,
-    "wof:lastmodified":1492501714,
+    "wof:lastmodified":1513669415,
     "wof:name":"Twente",
-    "wof:parent_id":-3,
+    "wof:parent_id":1158802291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

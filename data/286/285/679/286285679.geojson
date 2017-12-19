@@ -15,6 +15,7 @@
     "geom:longitude":6.050948,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kommerveldlaan 21",
     "sg:city":"Eygelshoven",
     "sg:classifiers":[
@@ -34,10 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682513,
-        85633111,
         85797565,
-        102063693
+        102191581,
+        404474489,
+        85633337,
+        1158817899,
+        85687033,
+        1158806315,
+        1158818153,
+        101839255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +53,29 @@
     "wof:geomhash":"a9a7c5e785666c9a831b0589dbb25c89",
     "wof:hierarchy":[
         {
-            "country_id":85633111,
-            "county_id":102063693,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":1158817899,
             "neighbourhood_id":85797565,
-            "region_id":85682513,
+            "region_id":85687033,
+            "venue_id":286285679
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":101839255,
+            "macrohood_id":1158818153,
+            "neighbourhood_id":1158806315,
+            "region_id":85687033,
             "venue_id":286285679
         }
     ],
     "wof:id":286285679,
-    "wof:lastmodified":1492475074,
+    "wof:lastmodified":1513697022,
     "wof:name":"Openbare Basisschool De Schatkist",
-    "wof:parent_id":85797565,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

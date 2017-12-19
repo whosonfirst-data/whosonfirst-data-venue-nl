@@ -15,6 +15,7 @@
     "geom:longitude":5.792287,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Vroenhof 4",
     "sg:city":"Valkenburg Lb",
     "sg:classifiers":[],
@@ -24,18 +25,47 @@
     "sg:postcode":"6301 KG",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158807149,
+        102191581,
+        404474537,
+        85633337,
+        101809547,
+        85687033,
+        85797779,
+        1158805871,
+        101810577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QKqplcBK1XjyFxcr4ki5o_50.873154_5.792287@1306269939"
     },
     "wof:country":"NL",
     "wof:geomhash":"86a63ba6573da4059fd1765c4ffda485",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474537,
+            "locality_id":101809547,
+            "neighbourhood_id":1158807149,
+            "region_id":85687033,
+            "venue_id":236550653
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":85797779,
+            "region_id":85687033,
+            "venue_id":236550653
+        }
+    ],
     "wof:id":236550653,
-    "wof:lastmodified":1492492707,
+    "wof:lastmodified":1513666492,
     "wof:name":"Autospuitbedrijf Schoffelen",
-    "wof:parent_id":85797779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1732330322,52.2504844666,6.1732330322,52.2504844666",
     "geom:latitude":52.250484,
     "geom:longitude":6.173233,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Nymegensestr 9A",
     "sg:city":"Deventer",
     "sg:classifiers":[],
@@ -25,9 +27,13 @@
     "sg:website":"http://www.solidpartners.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158802205,
+        102191581,
+        1158804471,
+        404473825,
         85633337,
-        85798365,
-        85687043
+        101751865,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,19 +41,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473800803,
-    "wof:geomhash":"4bf049aa04712ccd699d8513c69b4fab",
+    "wof:geomhash":"b21499d2e73a6d47b4e905538e283018",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798365,
-            "region_id":85687043,
+            "localadmin_id":404473825,
+            "locality_id":101751865,
+            "macrohood_id":1158804471,
+            "neighbourhood_id":1158802205,
+            "region_id":85687045,
             "venue_id":1091575103
         }
     ],
     "wof:id":1091575103,
-    "wof:lastmodified":1473878842,
+    "wof:lastmodified":1513707195,
     "wof:name":"Solid Partners",
-    "wof:parent_id":85798365,
+    "wof:parent_id":1158802205,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

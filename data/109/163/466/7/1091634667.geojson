@@ -15,6 +15,7 @@
     "geom:longitude":6.209465,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Negen-Novemberweg 49",
     "sg:city":"Venlo",
     "sg:classifiers":[],
@@ -24,7 +25,17 @@
     "sg:postcode":"5916 LD",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85798541,
+        102191581,
+        1158818263,
+        404474525,
+        85633337,
+        101839287,
+        85687033,
+        1158806795,
+        1158817911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cAR9hW00Ybpk4V0SiKcL3_51.381580_6.209465@1306270021"
@@ -32,11 +43,31 @@
     "wof:country":"NL",
     "wof:created":1473804849,
     "wof:geomhash":"19e43fcd80aa2d672f3e5f252815a562",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":1091634667
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":1158817911,
+            "neighbourhood_id":1158806795,
+            "region_id":85687033,
+            "venue_id":1091634667
+        }
+    ],
     "wof:id":1091634667,
-    "wof:lastmodified":1492510139,
+    "wof:lastmodified":1513683507,
     "wof:name":"Kapsalon G. Van Der Made",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

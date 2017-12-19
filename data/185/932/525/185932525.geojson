@@ -15,6 +15,7 @@
     "geom:longitude":6.136439,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kloosterstraat 73",
     "sg:city":"Grubbenvorst",
     "sg:classifiers":[],
@@ -24,18 +25,49 @@
     "sg:postcode":"5971 BC",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158807283,
+        102191581,
+        404474541,
+        85633337,
+        101839243,
+        85687033,
+        85798541,
+        1158818263,
+        404474525,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eQGTyr4nw1RTfY5I59MUy_51.422447_6.136439@1306269908"
     },
     "wof:country":"NL",
     "wof:geomhash":"e898f7f2656beafe0b4e449b64811a2d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474541,
+            "locality_id":101839243,
+            "neighbourhood_id":1158807283,
+            "region_id":85687033,
+            "venue_id":185932525
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":185932525
+        }
+    ],
     "wof:id":185932525,
-    "wof:lastmodified":1492487737,
+    "wof:lastmodified":1513689272,
     "wof:name":"Peuterspeelzaal Puk En Muk",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

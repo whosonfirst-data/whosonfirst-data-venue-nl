@@ -15,6 +15,7 @@
     "geom:longitude":6.151407,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"De Sondert 5",
     "sg:city":"Venlo",
     "sg:classifiers":[
@@ -32,18 +33,48 @@
         "garage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806857,
+        102191581,
+        404474525,
+        85633337,
+        101839199,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QIYaCUuHu1PFRpjucZEE7_51.377869_6.151407@1306269994"
     },
     "wof:country":"NL",
     "wof:geomhash":"f283890161a02a56d7821e52127ba49e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839199,
+            "neighbourhood_id":1158806857,
+            "region_id":85687033,
+            "venue_id":320063831
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":320063831
+        }
+    ],
     "wof:id":320063831,
-    "wof:lastmodified":1492485396,
+    "wof:lastmodified":1513681546,
     "wof:name":"Deinum Bv",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

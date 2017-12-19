@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1426320076,52.2664527893,6.1426320076,52.2664527893",
     "geom:latitude":52.266453,
     "geom:longitude":6.142632,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"J Sinthenstraat 112",
     "sg:city":"Deventer",
     "sg:classifiers":[],
@@ -24,9 +26,13 @@
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158802153,
+        102191581,
+        1158804465,
+        404473825,
         85633337,
-        85798741,
-        85687043
+        101751865,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +40,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473803594,
-    "wof:geomhash":"9feddbd168ad002efc273900fd06fcba",
+    "wof:geomhash":"36ea5b79b3c50bd0d70a46faa532b32c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798741,
-            "region_id":85687043,
+            "localadmin_id":404473825,
+            "locality_id":101751865,
+            "macrohood_id":1158804465,
+            "neighbourhood_id":1158802153,
+            "region_id":85687045,
             "venue_id":1091613209
         }
     ],
     "wof:id":1091613209,
-    "wof:lastmodified":1473878640,
+    "wof:lastmodified":1513694010,
     "wof:name":"Mate",
-    "wof:parent_id":85798741,
+    "wof:parent_id":1158802153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

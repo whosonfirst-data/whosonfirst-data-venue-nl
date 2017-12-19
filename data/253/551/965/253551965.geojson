@@ -15,6 +15,7 @@
     "geom:longitude":6.098628,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Punterdiep 19",
     "sg:city":"Zwolle",
     "sg:classifiers":[
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         85797041,
-        85687045
+        102191581,
+        1158804439,
+        404473861,
+        85633337,
+        101751861,
+        85687045,
+        1158803511
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +51,30 @@
     "wof:geomhash":"ccc0127d657be4cdc83936b6222c08f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158804439,
             "neighbourhood_id":85797041,
+            "region_id":85687045,
+            "venue_id":253551965
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158804439,
+            "neighbourhood_id":1158803511,
             "region_id":85687045,
             "venue_id":253551965
         }
     ],
     "wof:id":253551965,
-    "wof:lastmodified":1492491057,
+    "wof:lastmodified":1513683596,
     "wof:name":"Ine Verheijen - Pedicuresalon",
-    "wof:parent_id":85797041,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

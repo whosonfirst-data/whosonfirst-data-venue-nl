@@ -15,6 +15,7 @@
     "geom:longitude":5.763199,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Eindstr 27",
     "sg:city":"St Geertruid",
     "sg:classifiers":[],
@@ -24,18 +25,46 @@
     "sg:postcode":"6265 AD",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85797779,
+        102191581,
+        1158805871,
+        85633337,
+        101810577,
+        85687033,
+        1158807873,
+        101810595
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_154gQ7t9XnXYIAMfegsHJ8_50.794170_5.763199@1306269969"
     },
     "wof:country":"NL",
     "wof:geomhash":"8aba72bf256492ea8a376cf7906f2ebf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810577,
+            "neighbourhood_id":85797779,
+            "region_id":85687033,
+            "venue_id":286481579
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":1158805871,
+            "locality_id":101810595,
+            "neighbourhood_id":1158807873,
+            "region_id":85687033,
+            "venue_id":286481579
+        }
+    ],
     "wof:id":286481579,
-    "wof:lastmodified":1492476162,
+    "wof:lastmodified":1513685153,
     "wof:name":"Hutschemakers, Sjef",
-    "wof:parent_id":85797779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

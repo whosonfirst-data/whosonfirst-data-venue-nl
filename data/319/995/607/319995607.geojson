@@ -15,6 +15,7 @@
     "geom:longitude":5.274071,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Maasdijk 63",
     "sg:city":"Hedel",
     "sg:classifiers":[],
@@ -25,10 +26,15 @@
     "sg:province":"Gelderland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1141963691,
         102191581,
         404473917,
         85633337,
-        85687043
+        1158783411,
+        85687043,
+        404474393,
+        101751809,
+        85687035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +47,25 @@
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404473917,
+            "locality_id":1158783411,
+            "neighbourhood_id":1141963691,
             "region_id":85687043,
+            "venue_id":319995607
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474393,
+            "locality_id":101751809,
+            "neighbourhood_id":1141963691,
+            "region_id":85687035,
             "venue_id":319995607
         }
     ],
     "wof:id":319995607,
-    "wof:lastmodified":1492479006,
+    "wof:lastmodified":1513685174,
     "wof:name":"Zand En Grondhandel Hofmans",
-    "wof:parent_id":-1,
+    "wof:parent_id":1141963691,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -15,6 +15,7 @@
     "geom:longitude":6.762055,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Vechtlaan 88",
     "sg:city":"Hengelo Ov",
     "sg:classifiers":[],
@@ -25,10 +26,13 @@
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158802841,
+        102191581,
+        1158805865,
+        404473837,
         85633337,
-        85797029,
-        85687045,
-        85798709
+        101751869,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,22 +42,20 @@
     "wof:geomhash":"81aeadccadb07e1612ab0e13d69528ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797029,
-            "region_id":85687045,
-            "venue_id":185999969
-        },
-        {
-            "country_id":85633337,
-            "neighbourhood_id":85798709,
+            "localadmin_id":404473837,
+            "locality_id":101751869,
+            "macrohood_id":1158805865,
+            "neighbourhood_id":1158802841,
             "region_id":85687045,
             "venue_id":185999969
         }
     ],
     "wof:id":185999969,
-    "wof:lastmodified":1492487771,
+    "wof:lastmodified":1513712139,
     "wof:name":"Huckriede Importex Exclusief",
-    "wof:parent_id":-3,
+    "wof:parent_id":1158802841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

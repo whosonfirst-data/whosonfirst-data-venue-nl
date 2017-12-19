@@ -15,6 +15,7 @@
     "geom:longitude":4.907372,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Swammerdamstr 26Bg",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -27,13 +28,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803889,
-        1108802953,
+        1108945559,
         102191581,
         1108802305,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1158844335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +45,30 @@
     "wof:geomhash":"ae36369a08fed14ec1080e74bff5fe8b",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803889,
-            "neighbourhood_id":1108802953,
+            "neighbourhood_id":1108945559,
+            "region_id":85687053,
+            "venue_id":320488851
+        },
+        {
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803889,
+            "neighbourhood_id":1108945559,
             "region_id":85687053,
             "venue_id":320488851
         }
     ],
     "wof:id":320488851,
-    "wof:lastmodified":1492483950,
+    "wof:lastmodified":1513675426,
     "wof:name":"Maslow",
     "wof:parent_id":1108803889,
     "wof:placetype":"venue",

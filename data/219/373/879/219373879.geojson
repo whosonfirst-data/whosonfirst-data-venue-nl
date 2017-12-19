@@ -15,6 +15,7 @@
     "geom:longitude":6.09777,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Loodiep 35",
     "sg:city":"Zwolle",
     "sg:classifiers":[],
@@ -25,9 +26,14 @@
     "sg:province":"Overijssel",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
         85797041,
-        85687045
+        102191581,
+        1158804439,
+        404473861,
+        85633337,
+        101751861,
+        85687045,
+        1158803511
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,16 +43,30 @@
     "wof:geomhash":"dd4efb3212b13cfde8c81c1eb22d9b86",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158804439,
             "neighbourhood_id":85797041,
+            "region_id":85687045,
+            "venue_id":219373879
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473861,
+            "locality_id":101751861,
+            "macrohood_id":1158804439,
+            "neighbourhood_id":1158803511,
             "region_id":85687045,
             "venue_id":219373879
         }
     ],
     "wof:id":219373879,
-    "wof:lastmodified":1492504240,
+    "wof:lastmodified":1513678385,
     "wof:name":"Thalen-Sawagas",
-    "wof:parent_id":85797041,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

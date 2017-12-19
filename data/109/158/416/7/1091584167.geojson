@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1604471207,52.2540969849,6.1604471207,52.2540969849",
     "geom:latitude":52.254097,
     "geom:longitude":6.160447,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Keizerstraat 16",
     "sg:city":"Deventer",
     "sg:classifiers":[],
@@ -24,9 +26,13 @@
     "sg:province":"NL.08",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158802143,
+        102191581,
+        1158804483,
+        404473825,
         85633337,
-        85797335,
-        85687043
+        101751865,
+        85687045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,19 +40,23 @@
     },
     "wof:country":"NL",
     "wof:created":1473801398,
-    "wof:geomhash":"1e23b76b969d40402d00e1d3a2802aaa",
+    "wof:geomhash":"dc635912bd2761b9fa6329f2e765f134",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85797335,
-            "region_id":85687043,
+            "localadmin_id":404473825,
+            "locality_id":101751865,
+            "macrohood_id":1158804483,
+            "neighbourhood_id":1158802143,
+            "region_id":85687045,
             "venue_id":1091584167
         }
     ],
     "wof:id":1091584167,
-    "wof:lastmodified":1473878712,
+    "wof:lastmodified":1513674829,
     "wof:name":"Eco-Job Oost",
-    "wof:parent_id":85797335,
+    "wof:parent_id":1158802143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -15,6 +15,7 @@
     "geom:longitude":4.92168,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Retiefstr 57 I",
     "sg:city":"Amsterdam",
     "sg:classifiers":[],
@@ -26,13 +27,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         1108803833,
-        1108802881,
+        1108945555,
         102191581,
-        1108802305,
+        1158844335,
         85633337,
         101751893,
-        1108802289,
-        85687053
+        1158844281,
+        85687053,
+        1108802305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +44,30 @@
     "wof:geomhash":"cbb71e2d817a94fefa86b19f84f86151",
     "wof:hierarchy":[
         {
-            "borough_id":1108802289,
+            "borough_id":1158844281,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751893,
+            "macrohood_id":1158844335,
+            "microhood_id":1108803833,
+            "neighbourhood_id":1108945555,
+            "region_id":85687053,
+            "venue_id":186139631
+        },
+        {
+            "borough_id":1158844281,
             "continent_id":102191581,
             "country_id":85633337,
             "locality_id":101751893,
             "macrohood_id":1108802305,
             "microhood_id":1108803833,
-            "neighbourhood_id":1108802881,
+            "neighbourhood_id":1108945555,
             "region_id":85687053,
             "venue_id":186139631
         }
     ],
     "wof:id":186139631,
-    "wof:lastmodified":1492507506,
+    "wof:lastmodified":1513677798,
     "wof:name":"Arte Afrocaribe\u00f1a Josephine",
     "wof:parent_id":1108803833,
     "wof:placetype":"venue",

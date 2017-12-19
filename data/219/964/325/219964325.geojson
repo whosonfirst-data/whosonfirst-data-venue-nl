@@ -15,6 +15,7 @@
     "geom:longitude":5.967839,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Aan De Wolf 11",
     "sg:city":"Vylen",
     "sg:classifiers":[],
@@ -24,18 +25,47 @@
     "sg:postcode":"6294 BH",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806683,
+        102191581,
+        404474523,
+        85633337,
+        101810597,
+        85687033,
+        85796197,
+        404474519,
+        101810575
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nijN5mCXKoZEDTdPMvv0h_50.788845_5.967839@1306269930"
     },
     "wof:country":"NL",
     "wof:geomhash":"94f4a454e5773e72af04a133c719c9da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474523,
+            "locality_id":101810597,
+            "neighbourhood_id":1158806683,
+            "region_id":85687033,
+            "venue_id":219964325
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474519,
+            "locality_id":101810575,
+            "neighbourhood_id":85796197,
+            "region_id":85687033,
+            "venue_id":219964325
+        }
+    ],
     "wof:id":219964325,
-    "wof:lastmodified":1492502074,
+    "wof:lastmodified":1513652468,
     "wof:name":"Voort Bv, J J P G Van Der",
-    "wof:parent_id":85796197,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

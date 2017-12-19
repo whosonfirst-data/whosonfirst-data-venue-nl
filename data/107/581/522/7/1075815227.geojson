@@ -27,13 +27,14 @@
     "sg:website":"http://www.goudengids.nl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85797721,
+        1158806299,
         102191581,
-        85633111,
-        404227541,
-        101839485,
-        102063693,
-        85682513
+        1158818155,
+        404474489,
+        85633337,
+        101839255,
+        85687033,
+        85797721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +47,29 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633111,
-            "county_id":102063693,
-            "locality_id":101839485,
-            "macrocounty_id":404227541,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":101839255,
+            "macrohood_id":1158818155,
+            "neighbourhood_id":1158806299,
+            "region_id":85687033,
+            "venue_id":1075815227
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":101839255,
+            "macrohood_id":1158818155,
             "neighbourhood_id":85797721,
-            "region_id":85682513,
+            "region_id":85687033,
             "venue_id":1075815227
         }
     ],
     "wof:id":1075815227,
-    "wof:lastmodified":1510943272,
+    "wof:lastmodified":1513666419,
     "wof:name":"Bemelmans, Optiek",
-    "wof:parent_id":85797721,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

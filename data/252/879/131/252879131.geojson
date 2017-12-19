@@ -15,6 +15,7 @@
     "geom:longitude":6.165684,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rykswg 113",
     "sg:city":"Velden",
     "sg:classifiers":[
@@ -35,18 +36,48 @@
     ],
     "sg:website":"http://www.equflow.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806913,
+        102191581,
+        404474525,
+        85633337,
+        101809597,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pyK146Bk5VXyT9WvdQTI3_51.413734_6.165684@1306269944"
     },
     "wof:country":"NL",
     "wof:geomhash":"86e1ccfd4b4a07b8e27f154c385e290e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101809597,
+            "neighbourhood_id":1158806913,
+            "region_id":85687033,
+            "venue_id":252879131
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":252879131
+        }
+    ],
     "wof:id":252879131,
-    "wof:lastmodified":1492504875,
+    "wof:lastmodified":1513672731,
     "wof:name":"Equflow Bv",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

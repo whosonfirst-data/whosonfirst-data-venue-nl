@@ -15,6 +15,7 @@
     "geom:longitude":5.989139,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Bocholtzerweg 15",
     "sg:city":"Simpelveld",
     "sg:classifiers":[],
@@ -24,18 +25,46 @@
     "sg:postcode":"6369 TG",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85796197,
+        102191581,
+        404474519,
+        85633337,
+        101810575,
+        85687033,
+        1158806633,
+        101839277
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mpAU1rweOz6jVc9PvthvD_50.829906_5.989139@1306269985"
     },
     "wof:country":"NL",
     "wof:geomhash":"bf0ea22ab42f8e812231864c3f95a2b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474519,
+            "locality_id":101810575,
+            "neighbourhood_id":85796197,
+            "region_id":85687033,
+            "venue_id":303601099
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474519,
+            "locality_id":101839277,
+            "neighbourhood_id":1158806633,
+            "region_id":85687033,
+            "venue_id":303601099
+        }
+    ],
     "wof:id":303601099,
-    "wof:lastmodified":1492474577,
+    "wof:lastmodified":1513646720,
     "wof:name":"Textielcentrale Simpelveld",
-    "wof:parent_id":85796197,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

@@ -15,6 +15,7 @@
     "geom:longitude":6.1659,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rykswg 125",
     "sg:city":"Velden",
     "sg:classifiers":[],
@@ -24,7 +25,17 @@
     "sg:postcode":"5941 AC",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1158806913,
+        102191581,
+        404474525,
+        85633337,
+        101809597,
+        85687033,
+        85798541,
+        1158818263,
+        101839287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00gxU2aKKcMtvta3aaEJaB_51.412678_6.165900@1306270015"
@@ -32,11 +43,31 @@
     "wof:country":"NL",
     "wof:created":1473802068,
     "wof:geomhash":"cd25815de26a0e02f3c6d88d832940e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101809597,
+            "neighbourhood_id":1158806913,
+            "region_id":85687033,
+            "venue_id":1091592289
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":1091592289
+        }
+    ],
     "wof:id":1091592289,
-    "wof:lastmodified":1492509751,
+    "wof:lastmodified":1513673280,
     "wof:name":"Citywine",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

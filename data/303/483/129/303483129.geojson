@@ -15,6 +15,7 @@
     "geom:longitude":5.457833,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Vijfkamplaan 22",
     "sg:city":"Eindhoven",
     "sg:classifiers":[],
@@ -25,10 +26,12 @@
     "sg:province":"Noord-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633337,
-        85798699,
         85687035,
-        85797751
+        102191581,
+        1158801469,
+        85633337,
+        101751819,
+        1158797415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,22 +41,19 @@
     "wof:geomhash":"52c379aa367a7b51ccaf3fc1ccbfdc70",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798699,
-            "region_id":85687035,
-            "venue_id":303483129
-        },
-        {
-            "country_id":85633337,
-            "neighbourhood_id":85797751,
+            "locality_id":101751819,
+            "macrohood_id":1158801469,
+            "neighbourhood_id":1158797415,
             "region_id":85687035,
             "venue_id":303483129
         }
     ],
     "wof:id":303483129,
-    "wof:lastmodified":1492474035,
+    "wof:lastmodified":1513667257,
     "wof:name":"Squash Time Gebouwen Bv",
-    "wof:parent_id":-3,
+    "wof:parent_id":1158797415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

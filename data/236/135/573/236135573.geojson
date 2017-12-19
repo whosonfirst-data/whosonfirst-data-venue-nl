@@ -15,6 +15,7 @@
     "geom:longitude":5.99306,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Waalbroek 5",
     "sg:city":"Simpelveld",
     "sg:classifiers":[],
@@ -24,18 +25,46 @@
     "sg:postcode":"6369 TE",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85796197,
+        102191581,
+        404474519,
+        85633337,
+        101810575,
+        85687033,
+        1158806641,
+        101839277
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wdNyKdYfpZMwatxpHD2R3_50.828701_5.993060@1306269935"
     },
     "wof:country":"NL",
     "wof:geomhash":"c20ff4c4dd77e26488707ad504684983",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474519,
+            "locality_id":101810575,
+            "neighbourhood_id":85796197,
+            "region_id":85687033,
+            "venue_id":236135573
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474519,
+            "locality_id":101839277,
+            "neighbourhood_id":1158806641,
+            "region_id":85687033,
+            "venue_id":236135573
+        }
+    ],
     "wof:id":236135573,
-    "wof:lastmodified":1492492196,
+    "wof:lastmodified":1513696443,
     "wof:name":"Meurs Bv, Van",
-    "wof:parent_id":85796197,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],

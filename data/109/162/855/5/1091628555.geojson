@@ -15,6 +15,7 @@
     "geom:longitude":6.146637,
     "iso:country":"NL",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kloosterstraat 6",
     "sg:city":"Grubbenvorst",
     "sg:classifiers":[],
@@ -24,7 +25,18 @@
     "sg:postcode":"5971 BD",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85798541,
+        102191581,
+        1158818263,
+        404474525,
+        85633337,
+        101839287,
+        85687033,
+        1158807269,
+        404474541,
+        101839243
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Gjj89a5IpeCzOcoUqjTtR_51.419800_6.146637@1306270020"
@@ -32,11 +44,31 @@
     "wof:country":"NL",
     "wof:created":1473804460,
     "wof:geomhash":"271b48487ea2930ae1f4520fc68011cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474525,
+            "locality_id":101839287,
+            "macrohood_id":1158818263,
+            "neighbourhood_id":85798541,
+            "region_id":85687033,
+            "venue_id":1091628555
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474541,
+            "locality_id":101839243,
+            "neighbourhood_id":1158807269,
+            "region_id":85687033,
+            "venue_id":1091628555
+        }
+    ],
     "wof:id":1091628555,
-    "wof:lastmodified":1492512263,
+    "wof:lastmodified":1513639016,
     "wof:name":"Hair & Nail Studio Design",
-    "wof:parent_id":85798541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nl",
     "wof:superseded_by":[],
